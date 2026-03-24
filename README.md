@@ -1,69 +1,36 @@
 # electronic-survey
 
-A research tool to survey the Electron application ecosystem and measure the security update lag between:
+Measures the lag between Chromium security fixes and end users of Electron
+applications receiving them.
 
-- A bug being reported in Chromium
-- A security fix landing in Electron
-- That fix reaching end users via app releases
+Each bundled Electron release ships a pinned Chromium. App maintainers must
+manually upgrade. This project tracks which Electron version each app ships,
+cross-referenced against known CVE fix dates, to quantify that lag at scale.
 
-## Background
+## Data pipeline
 
-Electron apps are easy to build but hard to keep secure. Each shipped app bundles:
-
-- A full Chromium runtime
-- A copy of FFmpeg
-- The Electron framework itself
-
-This means Chromium CVEs don't automatically reach users — each app maintainer must upgrade their bundled Electron version. The gap between a CVE being fixed in Chromium and that fix reaching end users in a given Electron app can be weeks, months, or never.
-
-Additionally, older Electron versions exposed a full Node.js environment in the renderer process, and there were at least 3 context isolation bypass vulnerabilities reported in 2020 alone, compounding the risk for apps that haven't upgraded.
-
-## Goals
-
-This project surveys a large corpus of Electron applications to answer:
-
-1. What Electron versions are apps actually shipping?
-2. How old are those versions relative to the latest Electron release?
-3. How long does it take for a Chromium security fix to reach end users through the Electron update pipeline?
-
-## Pipeline
-
-```
-repos/electron-apps/apps/   (upstream app registry)
-         │
-         ▼
-  data/apps.yml             (extracted app metadata: id + repository URL)
-         │
-         ▼
-  data/releases/            (fetched release data per app from GitHub)
-         │
-         ▼
-  data/electron-versions/   (electron version bundled in each release)
-         │
-         ▼
-  analysis/                 (CVE lag computation, statistics, charts)
-```
+    extract-apps      pull app registry into data/apps.yml
+    fetch-versions    pull stable Electron release list from npm
+    process github.com  fetch latest release + download links per app
+    process source    download source archives, detect bundled Electron version
+    process --aur     find AUR packages for each app (manual, review before use)
+    stats             summary counts
 
 ## Usage
 
-```bash
-uv run main.py --help
+    uv run main.py <command> [--help]
 
-# Extract app list from the electron-apps registry
-uv run main.py extract-apps
+Set `GITHUB_TOKEN` to avoid rate limiting on the github.com processor.
 
-# (future steps)
-uv run main.py fetch-releases
-uv run main.py analyze
-```
+## Data
 
-## Data Sources
+- `data/apps.yml` — app list with release metadata and detected Electron version
+- `data/versions.txt` — all stable Electron releases
+- `zips/` — cached source archives (not committed)
+- `src/` — extracted source trees (not committed)
 
-- [electron-apps](https://github.com/electron/electron-apps) — community registry of Electron applications
-- [which-electron](https://github.com/captn3m0/which-electron) — tool to detect bundled Electron versions
-- [electron-fingerprints](https://github.com/captn3m0/electron-fingerprints) — fingerprint database for Electron versions
+## Sources
 
-## Requirements
-
-- Python 3.14+
-- [uv](https://github.com/astral-sh/uv) for dependency management
+- [electron/electron-apps](https://github.com/electron/electron-apps) — app registry (submodule)
+- [which-electron](https://github.com/captn3m0/which-electron)
+- [electron-fingerprints](https://github.com/captn3m0/electron-fingerprints)

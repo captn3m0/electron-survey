@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
+import atexit
 import importlib.util
 import logging
 import pathlib
+import signal
+import sys
+import threading
 import types
 from typing import Any
 from urllib.parse import urlparse
@@ -93,6 +97,49 @@ def _entry_domain(entry: dict[str, Any]) -> str | None:
         return None
 
 
+def _write_apps(apps: list[dict[str, Any]], path: pathlib.Path) -> None:
+    """Write apps atomically via a temp file + rename."""
+    tmp = path.with_suffix(".tmp")
+    with tmp.open("w") as f:
+        yaml.dump(apps, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+    tmp.replace(path)
+
+
+def _setup_persistent_writer(
+    apps: list[dict[str, Any]], path: pathlib.Path, interval: int = 10
+) -> threading.Event:
+    """Write *apps* to *path* every *interval* seconds and on any exit.
+
+    Returns a stop event; set it to halt the background thread cleanly.
+    """
+    lock = threading.Lock()
+    stop = threading.Event()
+
+    def _write() -> None:
+        with lock:
+            _write_apps(apps, path)
+
+    def _writer_thread() -> None:
+        while not stop.wait(interval):
+            _write()
+
+    def _on_exit() -> None:
+        stop.set()
+        _write()
+
+    def _on_signal(sig: int, frame: Any) -> None:
+        sys.exit(0)  # triggers atexit
+
+    t = threading.Thread(target=_writer_thread, daemon=True)
+    t.start()
+
+    atexit.register(_on_exit)
+    signal.signal(signal.SIGINT, _on_signal)
+    signal.signal(signal.SIGTERM, _on_signal)
+
+    return stop
+
+
 def _processor_matches(processor: types.ModuleType, domain: str, entry: dict[str, Any]) -> bool:
     """Return True if *processor* should run against *entry*.
 
@@ -108,7 +155,8 @@ def _processor_matches(processor: types.ModuleType, domain: str, entry: dict[str
 @click.argument("processor_name", required=False, default=None)
 @click.option("--limit", default=0, help="Stop after processing this many entries (0 = no limit).")
 @click.option("--source-fast", is_flag=True, default=False, help="Skip entries that already have an electron version (source processor only).")
-def process_apps(processor_name: str | None, limit: int, source_fast: bool) -> None:
+@click.option("--aur", "include_aur", is_flag=True, default=False, help="Include the AUR processor (skipped by default).")
+def process_apps(processor_name: str | None, limit: int, source_fast: bool, include_aur: bool) -> None:
     """Run processors against data/apps.yml and update in place after each entry.
 
     PROCESSOR_NAME: optional name of a single processor to run (e.g. 'github.com'
@@ -132,13 +180,17 @@ def process_apps(processor_name: str | None, limit: int, source_fast: bool) -> N
             )
         processors = {processor_name: all_processors[processor_name]}
     else:
-        processors = all_processors
+        processors = {
+            name: mod for name, mod in all_processors.items()
+            if include_aur or getattr(mod, "AUTO", True) is not False
+        }
 
     click.echo(f"Loaded processors: {', '.join(processors)}")
 
     with out_path.open() as f:
         apps: list[dict[str, Any]] = yaml.safe_load(f) or []
 
+    stop_writer = _setup_persistent_writer(apps, out_path)
     entries_processed = entries_updated = entries_skipped = entries_errored = 0
 
     for entry in apps:
@@ -176,9 +228,7 @@ def process_apps(processor_name: str | None, limit: int, source_fast: bool) -> N
         elif had_update:
             entries_updated += 1
 
-        with out_path.open("w") as f:
-            yaml.dump(apps, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
-
+    stop_writer.set()
     click.echo(
         f"Done — processed: {entries_processed}, updated: {entries_updated}, "
         f"errors: {entries_errored}, skipped (no processor): {entries_skipped}."
@@ -199,12 +249,14 @@ def stats() -> None:
     with_version = sum(1 for a in apps if "electron" in a)
     remaining = [a for a in apps if "electron" not in a]
     with_downloads = sum(1 for a in remaining if "downloads" in a)
-    without_downloads = sum(1 for a in remaining if "downloads" not in a)
+    with_aur = sum(1 for a in remaining if "downloads" not in a and a.get("aur"))
+    no_idea = sum(1 for a in remaining if "downloads" not in a and not a.get("aur"))
 
-    click.echo(f"total:             {total}")
-    click.echo(f"with-version:      {with_version}")
-    click.echo(f"with-downloads:    {with_downloads}")
-    click.echo(f"without-downloads: {without_downloads}")
+    click.echo(f"total:          {total}")
+    click.echo(f"with-version:   {with_version}")
+    click.echo(f"with-downloads: {with_downloads}")
+    click.echo(f"with-aur:       {with_aur}")
+    click.echo(f"no-idea:        {no_idea}")
 
 
 @cli.command("fetch-versions")

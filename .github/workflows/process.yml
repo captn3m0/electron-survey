@@ -1,0 +1,48 @@
+name: Process apps
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          submodules: true
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Restore zips cache
+        id: cache-zips-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: zips/
+          key: zips-${{ hashFiles('data/apps.yml') }}
+          restore-keys: |
+            zips-
+
+      - name: Run github.com processor
+        run: uv run main.py process github.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run source processor
+        run: uv run main.py process source
+
+      - name: Save zips cache
+        if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: zips/
+          key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update release and electron version data [skip ci]"
+          file_pattern: "data/apps.yml"

@@ -1,0 +1,30 @@
+name: Update app data
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          submodules: true
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Extract apps
+        run: uv run main.py extract-apps
+
+      - name: Fetch electron versions from npm
+        run: uv run main.py fetch-versions
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update app list and electron versions [skip ci]"
+          file_pattern: "data/apps.yml data/versions.txt"

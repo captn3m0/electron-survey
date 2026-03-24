@@ -4,3 +4,4 @@ packages-meta-ext-v1.json
 aur-packages
 .env
 src/
+meta/*
