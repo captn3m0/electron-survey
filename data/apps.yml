@@ -82,6 +82,8 @@
   aur:
   - aeon-bin
   name: Aeon
+  electron: 23.2.0
+  method: src-package-lock
 - id: aether
   repository: https://github.com/aethereans/aether-app
   website: https://getaether.net
@@ -768,6 +770,8 @@
   aur:
   - cbetar2
   name: CBETA Reader 2 (Unofficial)
+  electron: 40.6.1
+  method: src-package-lock
 - id: chatwork
   website: http://www.chatwork.com/download/
   name: ChatWork
