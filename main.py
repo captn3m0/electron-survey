@@ -52,7 +52,7 @@ def extract_apps():
             data = yaml.safe_load(f) or {}
 
         entry = existing.setdefault(app_dir.name, {"id": app_dir.name})
-        for key in ("repository", "website"):
+        for key in ("name", "repository", "website"):
             if key in data:
                 entry[key] = data[key]
             else:
@@ -233,6 +233,41 @@ def process_apps(processor_name: str | None, limit: int, source_fast: bool, incl
         f"Done — processed: {entries_processed}, updated: {entries_updated}, "
         f"errors: {entries_errored}, skipped (no processor): {entries_skipped}."
     )
+
+
+@cli.command("report")
+def report() -> None:
+    """Generate REPORT.md from data/apps.yml."""
+    out_path = DATA_DIR / "apps.yml"
+    if not out_path.exists():
+        raise click.ClickException(f"{out_path} not found — run extract-apps first.")
+
+    with out_path.open() as f:
+        apps: list[dict[str, Any]] = [e for e in (yaml.safe_load(f) or []) if e]
+
+    rows = [a for a in apps if "electron" in a]
+    rows.sort(key=lambda a: a.get("name") or a["id"])
+
+    lines = [
+        "# Electron version report",
+        "",
+        f"Apps with detected Electron version: {len(rows)} / {len(apps)}",
+        "",
+        "| App | Website | Repository | Electron | Method |",
+        "| --- | ------- | ---------- | -------- | ------ |",
+    ]
+
+    for a in rows:
+        name = a.get("name") or a["id"]
+        website = f"[{a['website']}]({a['website']})" if a.get("website") else ""
+        repo = f"[{a['repository']}]({a['repository']})" if a.get("repository") else ""
+        electron = a.get("electron", "")
+        method = a.get("method", "")
+        lines.append(f"| {name} | {website} | {repo} | {electron} | {method} |")
+
+    report_path = pathlib.Path("REPORT.md")
+    report_path.write_text("\n".join(lines) + "\n")
+    click.echo(f"Wrote {len(rows)} rows to {report_path}.")
 
 
 @cli.command("stats")

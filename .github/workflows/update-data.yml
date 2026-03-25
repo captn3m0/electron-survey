@@ -24,7 +24,10 @@ jobs:
       - name: Fetch electron versions from npm
         run: uv run main.py fetch-versions
 
+      - name: Generate report
+        run: uv run main.py report
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update app list and electron versions [skip ci]"
-          file_pattern: "data/apps.yml data/versions.txt"
+          file_pattern: "data/apps.yml data/versions.txt REPORT.md"

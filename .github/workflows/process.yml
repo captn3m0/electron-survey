@@ -42,7 +42,10 @@ jobs:
           path: zips/
           key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
 
+      - name: Generate report
+        run: uv run main.py report
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update release and electron version data [skip ci]"
-          file_pattern: "data/apps.yml"
+          file_pattern: "data/apps.yml REPORT.md"
