@@ -150,7 +150,7 @@ def _load_known_versions() -> list[semantic_version.Version]:
         else:
             versions = []
             for line in _VERSIONS_PATH.read_text().splitlines():
-                v = line.strip()
+                v = line.split("\t")[0].strip()
                 try:
                     versions.append(semantic_version.Version(v))
                 except ValueError:
