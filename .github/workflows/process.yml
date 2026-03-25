@@ -30,7 +30,7 @@ jobs:
       - name: Run github.com processor
         run: uv run main.py process github.com
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
 
       - name: Run source processor
         run: uv run main.py process source

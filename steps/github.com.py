@@ -19,7 +19,7 @@ _SESSION.headers.update(
         "X-GitHub-Api-Version": "2022-11-28",
     }
 )
-if token := os.environ.get("GITHUB_TOKEN"):
+if token := os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN"):
     _SESSION.headers["Authorization"] = f"Bearer {token}"
 
 
