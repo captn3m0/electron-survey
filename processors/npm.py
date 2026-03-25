@@ -1,9 +1,9 @@
-"""Fetch all stable Electron releases from the npm registry.
+"""Fetch Electron releases from the npm registry.
 
 Writes data/versions.txt — one line per version, tab-separated:
     <version>\\t<ISO-8601 date>
 
-Pre-release tags (alpha, beta, nightly, rc) are dropped.
+Nightly and alpha builds are dropped; beta and rc are kept.
 """
 
 import re
@@ -13,14 +13,14 @@ from typing import Iterator
 import requests
 
 NPM_URL = "https://registry.npmjs.org/electron"
-PRERELEASE = re.compile(r"alpha|beta|nightly|rc", re.IGNORECASE)
+PRERELEASE = re.compile(r"nightly|alpha", re.IGNORECASE)
 
 _SESSION = requests.Session()
 _SESSION.headers["Accept"] = "application/json"
 
 
 def stable_versions(data: dict) -> Iterator[tuple[str, datetime]]:
-    """Yield (version, date) for every stable release, oldest first."""
+    """Yield (version, date) for every release except nightly/alpha, oldest first."""
     times: dict[str, str] = data.get("time", {})
     for version_str, ts in times.items():
         if version_str in ("created", "modified"):

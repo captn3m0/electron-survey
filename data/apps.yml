@@ -6889,8 +6889,6 @@
     url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/SnailFM-Setup-2.1.8.exe.blockmap
   electron: 25.2.0
   aur:
-  - fifo-bin
-  - fifo-browser-bin
   - snailfm-bin
 - id: snipaway
   website: https://snipaway.futureglobe.de/
