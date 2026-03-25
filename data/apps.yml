@@ -1,6 +1,7 @@
 - id: 1clipboard
   repository: https://github.com/wiziple/1clipboard
   website: http://1clipboard.io
+  name: 1Clipboard
 - id: 1password
   website: https://www.1password.com
   aur:
@@ -8,10 +9,13 @@
   - 1password-beta
   - 1password-cli
   - rofi-1pass
+  name: 1Password
 - id: 5eclient
   website: https://www.5eplay.com/
+  name: 5EClient
 - id: abstract
   website: https://www.goabstract.com
+  name: Abstract
 - id: advanced-rest-client
   repository: https://github.com/advanced-rest-client/arc-electron
   website: https://install.advancedrestclient.com
@@ -46,6 +50,7 @@
     url: https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.9/latest.yml
   electron: 17.1.0
   method: src-package-lock
+  name: Advanced REST Client
 - id: aeon
   repository: https://github.com/leinelissen/aeon
   website: https://aeon.technology
@@ -76,11 +81,13 @@
     url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/RELEASES
   aur:
   - aeon-bin
+  name: Aeon
 - id: aether
   repository: https://github.com/aethereans/aether-app
   website: https://getaether.net
   aur:
   - aether
+  name: Aether
 - id: agora-flat
   repository: https://github.com/netless-io/flat
   website: https://flat.whiteboard.agora.io/
@@ -90,12 +97,15 @@
   method: src-pnpm-lock
   aur:
   - flat-bin
+  name: Agora Flat
 - id: aipo-com
   website: https://www.aipo.com/
+  name: Aipo.com
 - id: airtame
   website: https://www.airtame.com
   aur:
   - airtame-application
+  name: Airtame
 - id: altair
   repository: https://github.com/imolorhe/altair
   website: https://altair.sirmuel.design/
@@ -140,8 +150,10 @@
   method: src-pnpm-lock
   aur:
   - altair
+  name: Altair GraphQL Client
 - id: amialive
   website: https://amialive.co
+  name: Amialive
 - id: anotherredisdesktopmanager
   repository: https://github.com/qishibo/AnotherRedisDesktopManager
   website: https://github.com/qishibo/AnotherRedisDesktopManager
@@ -172,6 +184,7 @@
     url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest.yml
   electron: 12.2.3
   method: src-package-lock
+  name: AnotherRedisDesktopManager
 - id: antares
   repository: https://github.com/antares-sql/antares
   website: https://antares-sql.app
@@ -223,8 +236,10 @@
   - antares-sql-beta-bin
   - antares-sql-bin
   - antares-sql-git
+  name: Antares
 - id: asana
   website: https://asana.com/
+  name: Asana
 - id: assessment-disaggregation
   repository: https://github.com/tazzben/Assessment-Disaggregation.git
   website: https://www.assessmentdisaggregation.org/
@@ -247,10 +262,13 @@
     url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/RELEASES
   electron: 40.0.0
   method: src-package-lock
+  name: Assessment Disaggregation
 - id: assetizr
   website: https://assetizr.com
+  name: Assetizr
 - id: astroprint
   website: https://www.astroprint.com/products/p/astroprint-desktop
+  name: AstroPrint Desktop
 - id: barklarm
   repository: https://github.com/kanekotic/barklarm
   website: https://www.barklarm.com/
@@ -279,6 +297,7 @@
   method: src-package-lock
   aur:
   - barklarm-bin
+  name: Barklarm
 - id: bdash
   repository: https://github.com/bdash-app/bdash
   website: https://github.com/bdash-app/bdash
@@ -309,6 +328,7 @@
   method: src-yarn-lock
   aur:
   - bdash
+  name: Bdash
 - id: beaker-browser
   repository: https://github.com/beakerbrowser/beaker
   website: https://beakerbrowser.com
@@ -334,6 +354,7 @@
   aur:
   - beaker-browser-bin
   - beaker-browser-git
+  name: Beaker Browser
 - id: beekeeper-studio
   repository: https://github.com/beekeeper-studio/beekeeper-studio
   website: https://www.beekeeperstudio.io
@@ -399,6 +420,7 @@
   aur:
   - beekeeper-studio-appimage
   - beekeeper-studio-git
+  name: Beekeeper Studio
 - id: bibisco
   repository: https://github.com/andreafeccomandi/bibisco/
   website: https://bibisco.com/
@@ -409,10 +431,12 @@
   aur:
   - bibisco
   - bibisco-ce
+  name: bibisco
 - id: biscuit
   website: https://eatbiscuit.com/
   aur:
   - biscuit
+  name: Biscuit
 - id: blockbench
   repository: https://github.com/JannisX11/blockbench
   website: https://blockbench.net/
@@ -466,6 +490,7 @@
   aur:
   - blockbench
   - blockbench-bin
+  name: Blockbench
 - id: boost-changer
   repository: https://github.com/nbebaw/boostchanger
   website: https://github.com/nbebaw/boostchanger
@@ -486,10 +511,12 @@
     url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/latest-linux.yml
   electron: 40.8.0
   method: src-package-lock
+  name: Boost Changer
 - id: bootstrap-studio
   website: https://bootstrapstudio.io/
   aur:
   - bootstrap-studio
+  name: Bootstrap Studio
 - id: boxhero
   repository: https://github.com/bgpworks/boxhero-electron
   website: https://www.boxhero-app.com
@@ -514,8 +541,10 @@
     url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/RELEASES.json
   electron: 40.1.0
   method: src-package-lock
+  name: BoxHero
 - id: boxy-svg
   website: https://boxy-svg.com
+  name: Boxy SVG
 - id: brim
   repository: https://github.com/brimsec/brim
   website: https://www.brimsecurity.com
@@ -556,10 +585,12 @@
   method: src-yarn-lock
   aur:
   - brim
+  name: Brim
 - id: brisqi
   website: https://brisqi.com
   aur:
   - brisqi-bin
+  name: Brisqi
 - id: browserosaurus
   repository: https://github.com/will-stone/browserosaurus
   website: https://github.com/will-stone/browserosaurus
@@ -572,11 +603,13 @@
     url: https://github.com/will-stone/browserosaurus/releases/download/v20.12.0/Browserosaurus-darwin-x64-20.12.0.zip
   electron: 33.0.1
   method: src-package-lock
+  name: Browserosaurus
 - id: buckets
   website: https://www.budgetwithbuckets.com
   aur:
   - buckets-beta-bin
   - buckets-bin
+  name: Buckets
 - id: buka
   repository: https://github.com/oguzhaninan/Buka.git
   website: https://github.com/oguzhaninan/Buka
@@ -599,6 +632,7 @@
     url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka_1.0.0_i386.deb
   electron: 1.6.3
   method: src-yarn-lock
+  name: Buka
 - id: buttercup
   repository: https://github.com/buttercup/buttercup-desktop
   website: https://buttercup.pw
@@ -641,14 +675,17 @@
   method: src-package-lock
   aur:
   - buttercup
+  name: Buttercup
 - id: cacher
   website: https://www.cacher.io/
   aur:
   - cacher
+  name: Cacher
 - id: calmlywriter
   website: https://www.calmlywriter.com
   aur:
   - calmly-writer-bin
+  name: Calmly Writer
 - id: camunda-modeler
   repository: https://github.com/camunda/camunda-modeler/
   website: https://camunda.com/products/modeler/
@@ -683,14 +720,19 @@
   method: src-package-lock
   aur:
   - zbctl
+  name: Camunda Modeler
 - id: caption-pro
   website: https://caption-pro.com/
+  name: Caption Pro
 - id: cargo-messenger
   website: https://www.cargo.lt/asp/software.asp
+  name: Cargo Messenger
 - id: cashnotify
   website: https://cashnotify.com
+  name: CashNotify
 - id: catlight
   website: https://catlight.io
+  name: CatLight
 - id: cbetar2
   repository: https://github.com/MrMYHuang/cbetar2
   website: https://github.com/MrMYHuang/cbetar2
@@ -725,13 +767,16 @@
     url: https://github.com/MrMYHuang/cbetar2/releases/download/v24.0.0/latest.yml
   aur:
   - cbetar2
+  name: CBETA Reader 2 (Unofficial)
 - id: chatwork
   website: http://www.chatwork.com/download/
+  name: ChatWork
 - id: cider
   repository: https://github.com/ciderapp/Cider
   website: https://cider.sh
   aur:
   - cider
+  name: Cider
 - id: clipper
   repository: https://github.com/AkashRajpurohit/clipper
   website: https://github.com/AkashRajpurohit/clipper
@@ -739,6 +784,7 @@
   src: https://github.com/AkashRajpurohit/clipper/archive/refs/tags/v1.0.5.zip
   electron: 8.5.2
   method: src-package-lock
+  name: Clipper
 - id: clippo
   repository: https://github.com/monsterkodi/clippo
   website: https://github.com/monsterkodi/clippo
@@ -747,6 +793,7 @@
   downloads:
   - name: clippo-1.40.0.dmg
     url: https://github.com/monsterkodi/clippo/releases/download/v1.40.0/clippo-1.40.0.dmg
+  name: clippo
 - id: cliptext
   repository: https://github.com/aaabhilash97/cliptext
   website: https://github.com/aaabhilash97/cliptext
@@ -757,15 +804,19 @@
     url: https://github.com/aaabhilash97/cliptext-clipboard-manager/releases/download/v2.0.2/cliptext-2.0.2-mac.zip
   electron: 7.2.4
   method: src-package-lock
+  name: cliptext
 - id: clockodo
   website: https://www.clockodo.com/
+  name: clockodo
 - id: cltracer
   website: https://www.cltracer.com
+  name: CLtracer
 - id: cocos-creator
   repository: https://github.com/cocos-creator/engine
   website: https://www.cocos.com/en/creator
   latest: 3.8.8
   src: https://github.com/cocos-creator/engine/archive/refs/tags/3.8.8.zip
+  name: Cocos Creator
 - id: codex
   repository: https://github.com/jcv8000/Codex
   website: https://www.codexnotes.com/
@@ -792,10 +843,13 @@
   method: src-pnpm-lock
   aur:
   - codex-bin
+  name: Codex
 - id: colibri
   website: https://colibri.opqr.co
+  name: Colibri
 - id: collectie
   website: https://getcollectie.com/
+  name: Collectie
 - id: colorpicker
   repository: https://github.com/Toinane/colorpicker
   website: https://colorpicker.fr
@@ -820,9 +874,11 @@
   - colorpicker-app-bin
   - colorpicker-fr
   - python-vcolorpicker
+  name: Colorpicker
 - id: commandeer
   repository: https://github.com/commandeer/open
   website: https://getcommandeer.com
+  name: Commandeer
 - id: compact-log-viewer
   repository: https://github.com/warrenbuckley/Compact-Log-Format-Viewer
   website: https://github.com/warrenbuckley/Compact-Log-Format-Viewer
@@ -839,6 +895,7 @@
     url: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/releases/download/v1.4.0/latest.yml
   electron: 22.0.0
   method: src-package-lock
+  name: Compact Log Viewer
 - id: companion
   repository: https://github.com/brunurd/companion
   website: https://github.com/brunurd/companion
@@ -853,10 +910,13 @@
   method: src-package-lock
   aur:
   - companion
+  name: Companion
 - id: composercat
   website: https://getcomposercat.com
+  name: Composercat
 - id: compress
   website: https://compress.ohzi.io/
+  name: Compress
 - id: container-ps
   repository: https://github.com/Toinane/container-ps
   website: https://github.com/Toinane/container-ps
@@ -869,6 +929,7 @@
     url: https://github.com/Toinane/container-ps/releases/download/1.3.0/Container.PS-1.3.0.dmg.blockmap
   electron: 12.0.1
   method: src-package-lock
+  name: Container PS
 - id: cozy-desktop
   repository: https://github.com/cozy-labs/cozy-desktop
   website: https://cozy.io/
@@ -903,6 +964,7 @@
     url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake.Desktop-5.0.0-mac.zip.blockmap
   electron: 31.7.3
   method: src-yarn-lock
+  name: Cozy Desktop
 - id: cryptoarm-gost
   repository: https://github.com/TrustedRu/CryptoARMGOST
   website: https://cryptoarm.ru/cryptoarm-gost/
@@ -925,6 +987,7 @@
     url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12.linux-aarch64.deb
   electron: 7.1.13
   method: src-package-lock
+  name: CryptoARM GOST
 - id: csbooks
   repository: https://github.com/caesiumstudio/csBooks-updates.git
   website: https://caesiumstudio.com
@@ -944,6 +1007,7 @@
   aur:
   - csbooks
   - csbooks-bin
+  name: csBooks
 - id: csgo-tracker
   repository: https://github.com/davidaf3/csgo-tracker
   website: https://github.com/davidaf3/csgo-tracker
@@ -956,16 +1020,22 @@
     url: https://github.com/davidaf3/csgo-tracker/releases/download/v0.2.2/csgo-tracker-windows.zip
   electron: 33.0.2
   method: src-package-lock
+  name: csgo-tracker
 - id: cyberx
   website: https://www.cyberx.com/?utm_source=electron
+  name: CyberX
 - id: cycle
   website: https://www.cycleautomation.com/
+  name: Cycle
 - id: danger-crew
   website: https://thedangercrew.com
+  name: Danger Crew
 - id: darkj
   website: https://github.com/Yamazaki93/DarkJ-Release
+  name: DarkJ
 - id: dashy
   website: https://dashy.futureglobe.de/
+  name: Dashy
 - id: dat
   repository: https://github.com/datproject/dat-desktop
   website: https://datproject.org
@@ -1002,8 +1072,10 @@
   method: src-package-lock
   aur:
   - dat
+  name: Dat
 - id: data-forge-notebook
   website: https://www.data-forge-notebook.com/
+  name: Data-Forge Notebook
 - id: data-pixels-playground
   repository: https://github.com/gmattie/Data-Pixels
   website: https://github.com/gmattie/Data-Pixels
@@ -1014,11 +1086,14 @@
     url: https://github.com/gmattie/Data-Pixels/releases/download/1.1.0/Data.Pixels.Playground-win32-x64.zip
   electron: 3.0.10
   method: src-package-lock
+  name: Data Pixels Playground
 - id: datazenit
   website: https://datazenit.com
+  name: Datazenit
 - id: dbcloner
   repository: https://github.com/felipeleivav/dbcloner-app
   website: https://felipeleivav.github.io/dbcloner-app/
+  name: DBcloner
 - id: dbgate
   repository: https://github.com/dbgate/dbgate
   website: https://dbgate.org
@@ -1159,6 +1234,7 @@
   - dbgate-beta-bin
   - dbgate-bin
   - dbgate-git
+  name: DbGate
 - id: dbglass
   repository: https://github.com/web-pal/DBGlass
   website: http://dbglass.web-pal.com
@@ -1175,6 +1251,7 @@
     url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/win32-ia32.zip
   - name: win32-x64.zip
     url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/win32-x64.zip
+  name: DBGlass
 - id: debugtron
   repository: https://github.com/bytedance/debugtron
   website: https://github.com/bytedance/debugtron
@@ -1203,6 +1280,7 @@
   method: src-yarn-lock
   aur:
   - debugtron
+  name: Debugtron
 - id: deckboard
   repository: https://github.com/rivafarabi/deckboard
   website: https://rivafarabi.github.io/deckboard
@@ -1233,6 +1311,7 @@
     url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest-mac.yml
   - name: latest.yml
     url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest.yml
+  name: Deckboard
 - id: deckmaster
   repository: https://github.com/TheOtterlord/deckmaster
   website: https://theotterlord.github.io/deckmaster
@@ -1265,8 +1344,10 @@
   method: src-package-lock
   aur:
   - deckmaster
+  name: DeckMaster
 - id: deepnest
   website: https://deepnest.io/
+  name: Deepnest
 - id: deer
   repository: https://github.com/abahmed/Deer
   website: https://github.com/abahmed/Deer
@@ -1287,10 +1368,13 @@
   method: src-package-lock
   aur:
   - deer
+  name: Deer
 - id: demio
   website: https://demio.com/
+  name: Demio
 - id: demoflow
   website: https://demoflow.io
+  name: Demoflow
 - id: devhub
   repository: https://github.com/devhubapp/devhub
   website: https://github.com/devhubapp/devhub
@@ -1321,6 +1405,7 @@
   method: src-yarn-lock
   aur:
   - devhub
+  name: DevHub
 - id: dict
   repository: https://github.com/bryht/Dict
   website: https://goo.gl/tVdhAB
@@ -1337,6 +1422,7 @@
   method: src-package-lock
   aur:
   - pairing_tool
+  name: Dict
 - id: diffuse
   repository: https://github.com/icidasset/diffuse
   website: https://diffuse.sh
@@ -1363,8 +1449,10 @@
     url: https://github.com/icidasset/diffuse/releases/download/3.5.0/Diffuse_3.5.0_x64_en-US.msi
   aur:
   - diffuse-player-bin
+  name: Diffuse
 - id: digiexam
   website: https://www.digiexam.com
+  name: DigiExam
 - id: discord
   website: https://discord.com/
   aur:
@@ -1378,6 +1466,7 @@
   - discord_arch_electron
   - spacebar-client-git
   - spacebar-git
+  name: Discord
 - id: display-dj
   repository: https://github.com/synle/display-dj
   website: https://synle.github.io/display-dj/
@@ -1392,6 +1481,7 @@
   method: src-range-guess
   aur:
   - sqlui-native-bin
+  name: display-dj
 - id: ditto
   repository: https://github.com/RubinderS/DittoPlusPlus/
   website: https://github.com/RubinderS/DittoPlusPlus/
@@ -1404,6 +1494,7 @@
     url: https://github.com/RubinderS/DittoPlusPlus/releases/download/v1.0.0/Ditto%2B%2B_v1.0.0_Setup_Windows.exe
   electron: 13.1.7
   method: src-package-lock
+  name: Ditto++
 - id: dixa
   repository: https://github.com/dixahq/dixa-desktop-app-release
   website: https://dixa.com
@@ -1430,6 +1521,7 @@
     url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/latest-mac.yml
   - name: latest.yml
     url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/latest.yml
+  name: Dixa
 - id: dn-tool-container
   repository: https://github.com/como65416/DnToolContainer
   website: https://github.com/como65416/DnToolContainer
@@ -1444,6 +1536,7 @@
     url: https://github.com/como65416/DnToolContainer/releases/download/1.5.1/DN-Tool-Container-win32-x64.zip
   electron: 8.4.1
   method: src-package-lock
+  name: Dn Tool Container
 - id: domodel-diary
   repository: https://github.com/thoughtsunificator/domodel-diary-electron
   website: https://github.com/thoughtsunificator/domodel-diary-electron
@@ -1466,6 +1559,7 @@
     url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary.Setup.1.0.12.exe
   electron: 15.1.1
   method: src-package-lock
+  name: domodel-diary
 - id: domterm
   repository: https://github.com/PerBothner/DomTerm
   website: https://domterm.org/
@@ -1474,6 +1568,7 @@
   downloads:
   - name: DomTerm.AppImage
     url: https://github.com/PerBothner/DomTerm/releases/download/3.2.0/DomTerm.AppImage
+  name: DomTerm
 - id: dopamine
   repository: https://github.com/digimezzo/dopamine
   website: https://www.digimezzo.com
@@ -1500,11 +1595,14 @@
   method: src-package-lock
   aur:
   - vitomu
+  name: Dopamine
 - id: dotgrid
   repository: https://hundredrabbits.itch.io/dotgrid
   website: https://hundredrabbits.itch.io/dotgrid
+  name: Dotgrid
 - id: drawtify-designer
   website: https://drawtify.com/drawtify-designer/
+  name: Drawtify Designer
 - id: droppoint
   repository: https://github.com/GameGodS3/DropPoint
   website: https://droppoint.netlify.app/
@@ -1534,8 +1632,10 @@
   aur:
   - droppoint-bin
   - droppoint-git
+  name: DropPoint
 - id: dupfinder
   website: http://www.dupfinder.com
+  name: DupFinder
 - id: dusk-player
   repository: https://github.com/Aveek-Saha/MusicPlayer
   website: https://aveek-saha.github.io/
@@ -1552,6 +1652,7 @@
     url: https://github.com/Aveek-Saha/DuskPlayer/releases/download/v7.0.0/DuskPlayer_7.0.0_amd64.deb
   electron: 7.3.3
   method: src-package-lock
+  name: Dusk Player
 - id: e-search
   repository: https://github.com/xushengfeng/eSearch
   website: https://esearch.vercel.app/
@@ -1596,10 +1697,12 @@
   method: src-pnpm-lock
   aur:
   - e-search
+  name: eSearch
 - id: eagle
   website: https://eagle.cool/
   aur:
   - eagle
+  name: Eagle
 - id: eagluet
   repository: https://github.com/surajrathod/eagluet
   website: https://github.com/surajrathod/eagluet
@@ -1614,9 +1717,11 @@
     url: https://github.com/surajrathod/eagluet/releases/download/0.1.3/RELEASES
   electron: 9.3.1
   method: src-package-lock
+  name: eagluet
 - id: ebtcalc
   repository: https://github.com/EricTerrell/EBTCalc
   website: https://www.ericbt.com/ebtcalc_electron
+  name: EBTCalc
 - id: echo
   repository: https://github.com/afractal/echo-app
   website: https://afractal.github.io/echo-app
@@ -1627,6 +1732,7 @@
     url: https://github.com/afractal/echo-app/releases/download/1.0/Echo-v1.0.0.exe
   aur:
   - echo
+  name: echo
 - id: elcalc
   repository: https://github.com/elcalc/elcalc
   website: https://github.com/elcalc/elcalc
@@ -1649,6 +1755,7 @@
   electron: 6.0.7
   aur:
   - elcalc
+  name: elcalc
 - id: electorrent
   repository: https://github.com/Tympanix/Electorrent
   website: https://github.com/Tympanix/Electorrent
@@ -1681,6 +1788,7 @@
   method: src-package-lock
   aur:
   - electorrent
+  name: Electorrent
 - id: electrocrud
   repository: https://github.com/garrylachman/ElectroCRUD
   website: https://garrylachman.github.io/ElectroCRUD/
@@ -1705,6 +1813,7 @@
   method: src-yarn-lock
   aur:
   - electrocrud-bin
+  name: ElectroCRUD
 - id: electron-clippy
   repository: https://github.com/HeyitSaif/Clippy.git
   website: https://github.com/HeyitSaif/Clippy.git
@@ -1712,6 +1821,7 @@
   src: https://github.com/HeyitSaif/Clippy/archive/refs/tags/refs/heads/master.zip
   electron: 9.4.4
   method: src-range-guess
+  name: Electron-clippy
 - id: elephicon
   repository: https://github.com/sprout2000/elephicon
   website: https://github.com/sprout2000/elephicon
@@ -1748,11 +1858,14 @@
   method: src-package-lock
   aur:
   - elephicon
+  name: Elephicon
 - id: email-securely-app
   website: https://github.com/vladimiry/email-securely-app
+  name: email-securely-app
 - id: enclina-messenger
   repository: https://github.com/bluethefoxofficial/CreativePublicMessenger
   website: https://github.com/bluethefoxofficial/CreativePublicMessenger
+  name: Enclica Messenger
 - id: encrypt0r
   repository: https://github.com/kunalnagar/encrypt0r
   website: https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/
@@ -1762,9 +1875,11 @@
   method: src-yarn-lock
   aur:
   - encrypt0r-bin
+  name: encrypt0r
 - id: enderframework
   repository: https://github.com/EnderAdel/EnderFramework
   website: https://github.com/EnderAdel/EnderFramework
+  name: EnderFramework
 - id: erin
   repository: https://github.com/losbiw/erin
   website: https://erin-website.onrender.com/
@@ -1795,6 +1910,7 @@
     url: https://github.com/losbiw/erin/releases/download/v2.1.6/latest.yml
   electron: 33.2.1
   method: src-yarn-lock
+  name: Erin
 - id: etcd-manager
   repository: https://github.com/icellmobilsoft/etcdmanager.git
   website: https://etcdmanager.io
@@ -1819,6 +1935,7 @@
     url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/latest.yml
   electron: 6.1.9
   method: src-yarn-lock
+  name: ETCD Manager
 - id: etcher
   repository: https://github.com/resin-io/etcher
   website: https://etcher.balena.io/
@@ -1864,12 +1981,15 @@
   electron: 37.2.4
   aur:
   - balena-etcher-bin
+  name: Etcher
 - id: everdo
   website: https://everdo.net
   aur:
   - everdo
+  name: Everdo
 - id: evetrade
   website: https://evetrade.space
+  name: EVE Trade
 - id: excel-parser-processor
   repository: https://github.com/btargac/excel-parser-processor
   website: https://github.com/btargac/excel-parser-processor
@@ -1900,6 +2020,7 @@
     url: https://github.com/btargac/excel-parser-processor/releases/download/v1.3.1/latest.yml
   electron: 17.0.0
   method: src-package-lock
+  name: Excel Parser Processor
 - id: exifcleaner
   repository: https://github.com/szTheory/exifcleaner
   website: https://exifcleaner.com
@@ -1932,6 +2053,7 @@
     url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/latest.yml
   electron: 11.4.4
   method: src-yarn-lock
+  name: ExifCleaner
 - id: explorer
   repository: https://github.com/jfbouzereau/explorer
   website: https://github.com/jfbouzereau/explorer
@@ -1944,6 +2066,7 @@
     url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-win32-ia32.zip
   - name: Explorer-win32-x64.zip
     url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-win32-x64.zip
+  name: Explorer
 - id: expresslrs-configurator
   repository: https://github.com/ExpressLRS/ExpressLRS-Configurator
   website: https://github.com/ExpressLRS/ExpressLRS-Configurator
@@ -1976,6 +2099,7 @@
   method: src-yarn-lock
   aur:
   - expresslrs-configurator
+  name: ExpressLRS Configurator
 - id: extraterm
   repository: https://github.com/sedwards2009/extraterm
   website: http://extraterm.org
@@ -2000,6 +2124,7 @@
     url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt_0.81.4_amd64.deb
   aur:
   - extraterm-bin
+  name: Extraterm
 - id: f-curator
   repository: https://github.com/xizon/F-Curator/tree/main/package
   website: https://xizon.github.io/F-Curator-Official-Website/
@@ -2012,6 +2137,7 @@
     url: https://github.com/xizon/F-Curator/releases/download/v1.3.7/F-Curator.win.1.3.7.zip
   electron: 16.0.6
   method: src-package-lock
+  name: F-Curator
 - id: fairshare
   repository: https://github.com/fairdataihub/FAIRshare
   website: https://fairdataihub.org/fairshare
@@ -2042,10 +2168,13 @@
   method: src-yarn-lock
   aur:
   - fairshare-bin
+  name: FAIRshare
 - id: fangyuanjian
   website: http://bzsns.cn/
+  name: fangyuanjian
 - id: fenetre
   website: https://getfenet.re
+  name: Fenêtre
 - id: fifo
   repository: https://github.com/snaildos/Fifo-Browser
   website: https://fifo.snaildos.com
@@ -2068,10 +2197,13 @@
   aur:
   - fifo-bin
   - fifo-browser-bin
+  name: Fifo
 - id: figma
   website: https://www.figma.com/
+  name: Figma
 - id: fileside
   website: https://www.fileside.app
+  name: Fileside
 - id: final-countdown
   repository: https://github.com/hunterphillips/countdown
   website: https://github.com/hunterphillips/countdown
@@ -2082,8 +2214,10 @@
     url: https://github.com/hunterphillips/countdown/releases/download/2.0.0/FinalCountdown.zip
   electron: 7.3.3
   method: src-range-guess
+  name: Final-Countdown
 - id: find-better-questions
   website: https://findbetterquestions.com
+  name: Find Better Questions
 - id: fishing-funds
   repository: https://github.com/1zilc/fishing-funds
   website: https://ff.1zilc.top
@@ -2119,9 +2253,11 @@
   aur:
   - fishing-funds-bin
   - fishing-funds-git
+  name: Fishing Funds
 - id: flawesome
   repository: https://github.com/ashishBharadwaj/flawesome
   website: https://github.com/ashishBharadwaj/flawesome
+  name: Flawesome
 - id: flbmusic
   repository: https://github.com/Patrick-web/FLB-Music-Player-Official
   website: https://flb.netlify.app
@@ -2136,14 +2272,18 @@
     url: https://github.com/Patrick-web/FLB-Music-Player-Official/releases/download/v1.1.9/flbmusic_1.1.9_amd64.snap
   electron: 13.2.2
   method: src-package-lock
+  name: FLB Music
 - id: fleetdeck
   website: https://fleetdeck.io
+  name: FleetDeck
 - id: flexpaper
   website: https://flexpaper.devaldi.com/
+  name: FlexPaper
 - id: flow
   website: https://www.getflow.com/solutions/startups
   aur:
   - flow
+  name: Flow
 - id: fluent-reader
   repository: https://github.com/yang991178/fluent-reader
   website: https://hyliu.me/fluent-reader/
@@ -2170,19 +2310,25 @@
   - fluent-reader-electron
   - fluent-reader-electron-bin
   - fluent-reader-git
+  name: Fluent Reader
 - id: focused-task
   repository: https://github.com/RStankov/FocusedTask
   website: https://github.com/RStankov/FocusedTask
+  name: Focused Task
 - id: fontbase
   website: https://fontba.se/
   aur:
   - fontbase
+  name: FontBase
 - id: forestpin-analytics
   website: http://forestpin.com/analytics
+  name: Forestpin Analytics
 - id: forget-me-not
   website: https://www.forget-me-not.app/
+  name: Forget Me Not
 - id: fotojet
   website: https://www.fotojet.com/
+  name: FotoJet
 - id: frame
   repository: https://github.com/floating/frame.git
   website: https://frame.sh
@@ -2236,22 +2382,28 @@
   - frame-eth-dev
   - frame-eth-dev-appimage
   - frame-eth-git
+  name: Frame
 - id: franz
   website: https://meetfranz.com/
   aur:
   - franz-bin
+  name: Franz
 - id: freeter
   website: https://freeter.io
   aur:
   - freeter
+  name: Freeter
 - id: friends
   website: https://moose-team.github.io/friends
   aur:
   - friends
+  name: Friends
 - id: front
   website: https://frontapp.com/
+  name: Front
 - id: galeri
   website: https://www.galeri.io
+  name: Galeri
 - id: gaucho
   repository: https://github.com/angrykoala/gaucho
   website: https://angrykoala.github.io/gaucho/
@@ -2274,6 +2426,7 @@
     url: https://github.com/angrykoala/gaucho/releases/download/1.1.0/Gaucho_Windows_Setup_1.1.0.exe
   electron: 13.1.9
   method: src-package-lock
+  name: Gaucho
 - id: gdevelop
   repository: https://github.com/4ian/GDevelop
   website: https://gdevelop-app.com/
@@ -2306,6 +2459,7 @@
   method: src-package-lock
   aur:
   - gdevelop
+  name: GDevelop
 - id: geeks-diary
   repository: https://github.com/seokju-na/geeks-diary
   website: https://github.com/seokju-na/geeks-diary
@@ -2318,6 +2472,7 @@
     url: https://github.com/seokju-na/geeks-diary/releases/download/1.0.0-beta2/Geeks.Diary-1.0.0-beta2.dmg
   electron: 2.0.11
   method: src-yarn-lock
+  name: Geeks Diary
 - id: geniemoji
   repository: https://github.com/virejdasani/Geniemoji
   website: https://virejdasani.github.io/Geniemoji/
@@ -2334,6 +2489,7 @@
     url: https://github.com/virejdasani/Geniemoji/releases/download/v6.0.0/Geniemoji-Windows.zip
   electron: 12.0.15
   method: src-package-lock
+  name: Geniemoji
 - id: geppetto
   repository: https://github.com/matthijsgroen/geppetto
   website: https://geppetto.js.org/
@@ -2352,10 +2508,13 @@
     url: https://github.com/matthijsgroen/geppetto/releases/download/1.3.1/geppetto_1.3.1_arm64.deb
   electron: 16.0.0
   method: src-yarn-lock
+  name: Geppetto
 - id: getraenkeliste
   website: https://iqmeta.com/gliste/
+  name: Getränkeliste App
 - id: gibu
   website: https://gibu.futureglobe.de/
+  name: Gibu
 - id: git-it
   repository: https://github.com/Git-it-App/git-it-electron
   website: https://github.com/Git-it-App/git-it-electron
@@ -2372,10 +2531,12 @@
   method: src-package-lock
   aur:
   - git-it
+  name: Git-it
 - id: gitbook
   website: https://www.gitbook.com/?utm_source=electron&utm_medium=logo
   aur:
   - nodejs-gitbook-cli
+  name: GitBook
 - id: githoard
   repository: https://github.com/beepboopbangbang/githoard
   website: https://github.com/beepboopbangbang/githoard
@@ -2410,6 +2571,7 @@
     url: https://github.com/beepboopbangbang/githoard/releases/download/v0.4.0/latest.yml
   electron: 8.4.0
   method: src-package-lock
+  name: GitHoard
 - id: github-desktop
   repository: https://github.com/desktop/desktop
   website: https://desktop.github.com
@@ -2440,6 +2602,7 @@
   - github-desktop
   - github-desktop-bin
   - github-desktop-zh-bin
+  name: GitHub Desktop
 - id: gitify
   repository: https://github.com/manosim/gitify
   website: https://www.gitify.io/
@@ -2475,16 +2638,20 @@
   aur:
   - gitify
   - gitify-bin
+  name: Gitify
 - id: gitkraken
   website: https://www.gitkraken.com/
   aur:
   - gitkraken
   - gitkraken-cli
   - gitkraken-standalone
+  name: GitKraken
 - id: gitscout
   website: https://gitscout.com
+  name: Gitscout
 - id: gluppi
   website: https://gluppi.com/download/
+  name: Gluppi
 - id: glyphr-studio
   repository: https://github.com/glyphr-studio/Glyphr-Studio-Desktop
   website: https://github.com/glyphr-studio/Glyphr-Studio-Desktop
@@ -2513,6 +2680,7 @@
     url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio.Setup.0.6.0-x64.exe
   electron: 28.2.1
   method: src-package-lock
+  name: Glyphr Studio
 - id: google-assistant-unofficial-desktop-client
   repository: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
   website: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
@@ -2545,6 +2713,7 @@
     url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/latest.yml
   electron: 10.3.2
   method: src-package-lock
+  name: Unofficial Desktop Client for Google Assistant
 - id: google-chat-electron
   repository: https://github.com/ankurk91/google-chat-electron
   website: https://github.com/ankurk91/google-chat-electron
@@ -2564,10 +2733,13 @@
     checksum: b7b108bf0bfd877d8b69ba0085655b94aa8aa0961f9137c7604d65a6e4f6ba35ab86016df1a743d704acadd125d782045d267bd668e686710e43cf9719162186
   electron: 21.3.1
   method: src-pnpm-lock
+  name: Unofficial Google Chat App
 - id: gram-tools
   website: https://ritoyantools.github.io/
+  name: GramTools
 - id: graphiql
   website: https://github.com/skevy/graphiql-app
+  name: GraphiQL
 - id: graphql-playground
   repository: https://github.com/graphql/graphql-playground
   website: https://github.com/graphql/graphql-playground
@@ -2598,8 +2770,10 @@
     url: https://github.com/graphql/graphql-playground/releases/download/v1.8.10/latest.yml
   electron: 2.0.11
   method: src-yarn-lock
+  name: GraphQL Playground
 - id: grasshopper
   website: https://grasshopper.coding.kiwi
+  name: graSSHopper
 - id: graviton-editor
   repository: https://github.com/Graviton-Code-Editor/Graviton-App
   website: https://graviton.netlify.app/
@@ -2607,6 +2781,7 @@
   - graviton
   - graviton-bin
   - graviton-git
+  name: Graviton Editor
 - id: hashtag
   repository: https://github.com/MrAnyx/HashTag
   website: https://github.com/MrAnyx/HashTag
@@ -2617,15 +2792,18 @@
     url: https://github.com/MrAnyx/HashTag/releases/download/1.0/HashTag-win32-x64.zip
   electron: 7.2.4
   method: src-package-lock
+  name: HashTag
 - id: hbbatchbeast
   repository: https://github.com/HaveAGitGat/HBBatchBeast
   website: https://github.com/HaveAGitGat/HBBatchBeast
+  name: HBBatchBeast
 - id: headset
   website: https://headsetapp.co/
   aur:
   - headset
   - headset-bin
   - headset-git
+  name: Headset
 - id: healthi
   repository: https://github.com/pablopunk/healthi-app
   website: https://pablopunk.github.io/healthi-app/
@@ -2638,8 +2816,10 @@
     url: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi_4.0.1_amd64.deb
   electron: 4.2.12
   method: src-range-guess
+  name: healthi
 - id: hearo
   website: https://hearo.live/
+  name: Hearo
 - id: helioslauncher
   repository: https://github.com/dscalzi/HeliosLauncher
   website: https://github.com/dscalzi/HeliosLauncher
@@ -2668,6 +2848,7 @@
     url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/latest.yml
   electron: 29.1.0
   method: src-package-lock
+  name: Helios Launcher
 - id: heroic
   repository: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
   website: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
@@ -2714,10 +2895,12 @@
     url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/latest.yml
   electron: 23.3.13
   method: src-pnpm-lock
+  name: Heroic
 - id: hive
   website: https://hive.com
   aur:
   - soundfont-masterpiece
+  name: Hive
 - id: homura
   repository: https://github.com/Saul-Mirone/homura
   website: https://github.com/Saul-Mirone/homura
@@ -2736,21 +2919,28 @@
     url: https://github.com/Saul-Mirone/homura/releases/download/v0.1.0/homura_0.1.0_amd64.deb
   electron: 11.2.1
   method: src-yarn-lock
+  name: homura
 - id: horen
   repository: https://github.com/kevinjobs/Horen
   aur:
   - horen
+  name: Horen
 - id: horse-browser
   website: https://browser.horse
+  name: Horse Browser
 - id: hoster
   website: https://houfeng.net/hoster
+  name: Hoster
 - id: hozz
   website: https://ppoffice.github.io/Hozz
+  name: Hozz
 - id: http-toolkit
   repository: https://github.com/httptoolkit
   website: https://httptoolkit.tech
+  name: HTTP Toolkit
 - id: https-checker
   website: https://httpschecker.net/guides/https-checker
+  name: HTTPS Checker
 - id: hyper
   repository: https://github.com/vercel/hyper
   website: https://hyper.is
@@ -2801,6 +2991,7 @@
     url: https://github.com/vercel/hyper/releases/download/v3.4.1/latest.yml
   electron: 20.3.6
   method: src-yarn-lock
+  name: Hyper
 - id: i18n-manager
   repository: https://github.com/gilmarsquinelato/i18n-manager
   website: https://github.com/gilmarsquinelato/i18n-manager
@@ -2827,6 +3018,7 @@
     url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/latest.yml
   electron: 8.2.0
   method: src-yarn-lock
+  name: i18n Manager
 - id: i5sing
   repository: https://github.com/i5sing/i5SING
   website: https://github.com/i5sing/i5SING
@@ -2851,10 +3043,13 @@
   method: src-yarn-lock
   aur:
   - i5sing
+  name: i5sing
 - id: iconset
   website: https://iconset.io
+  name: Iconset
 - id: illyriad
   website: https://store.steampowered.com/app/559310
+  name: Illyriad
 - id: image-optimizer
   repository: https://github.com/antonreshetov/image-optimizer
   latest: v1.4.0
@@ -2868,6 +3063,7 @@
   method: src-package-lock
   aur:
   - image-optimizer
+  name: Image Optimizer
 - id: image-shrinker
   repository: https://github.com/stefansl/image-shrinker
   website: https://image-shrinker.com
@@ -2884,6 +3080,7 @@
     url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/latest-mac.yml
   electron: 10.4.7
   method: src-range-guess
+  name: ImageShrinker
 - id: imagine
   repository: https://github.com/meowtec/Imagine
   website: https://github.com/meowtec/Imagine
@@ -2916,6 +3113,7 @@
     url: https://github.com/meowtec/Imagine/releases/download/v0.7.5/latest.yml
   electron: 12.2.3
   method: src-package-lock
+  name: Imagine
 - id: inboxer
   repository: https://github.com/denysdovhan/inboxer
   website: https://denysdovhan.com/inboxer
@@ -2948,6 +3146,7 @@
   method: src-package-lock
   aur:
   - inboxer
+  name: Inboxer
 - id: infinitex
   repository: https://github.com/fetacore/Infinitex
   website: https://github.com/fetacore/Infinitex
@@ -2968,6 +3167,7 @@
     url: https://github.com/fetacore/Infinitex/releases/download/v0.9.16/latest.yml
   electron: 3.0.6
   method: src-yarn-lock
+  name: InfiniTex
 - id: infiniti-clips
   repository: https://github.com/azure06/infiniti-clips.git
   website: https://infiniticlips.com/
@@ -2996,12 +3196,15 @@
     url: https://github.com/azure06/clips/releases/download/v0.2.6/latest.yml
   electron: 21.2.0
   method: src-package-lock
+  name: Infiniti Clips
 - id: infinity
   website: https://ycosxapp.github.io
+  name: Infinity
 - id: inkdrop
   website: https://www.inkdrop.app/
   aur:
   - inkdrop
+  name: Inkdrop
 - id: insomnia
   repository: https://github.com/getinsomnia/insomnia
   website: https://insomnia.rest/
@@ -3064,6 +3267,7 @@
   - inso-bin
   - insomnia-bin
   - insomnia-designer-bin
+  name: Insomnia
 - id: instatron
   repository: https://github.com/alexdevero/instatron
   website: https://github.com/alexdevero/instatron
@@ -3071,10 +3275,13 @@
   src: https://github.com/alexdevero/instatron/archive/refs/tags/v1.5.0.zip
   electron: 9.0.0
   method: src-yarn-lock
+  name: Instatron
 - id: interactive-data-editor
   website: https://github.com/Koushikphy/Interactive_Data_Editor
+  name: Interactive Data Editor
 - id: intu-mind
   website: https://intumind.github.io/
+  name: Intu-Mind
 - id: invizi
   repository: https://github.com/invizi/invizi/
   website: https://invizi.co/
@@ -3095,6 +3302,7 @@
     url: https://github.com/invizi/invizi/releases/download/v1.0.0/Invizi_1.0.0_amd64.snap
   electron: 8.3.0
   method: src-package-lock
+  name: Invizi
 - id: ioui
   repository: https://github.com/shivang-pokar/ioui
   website: https://github.com/shivang-pokar/ioui
@@ -3102,8 +3310,10 @@
   src: https://github.com/shivang-pokar/ioui/archive/refs/tags/v1.0.zip
   electron: 7.1.2
   method: src-package-lock
+  name: ioui
 - id: iperius-console
   website: https://www.iperiusbackup.com/web-console-backup.aspx
+  name: Iperius Console
 - id: iptvnator
   repository: https://github.com/4gray/iptvnator
   website: https://github.com/4gray/iptvnator
@@ -3140,8 +3350,10 @@
     url: https://github.com/4gray/iptvnator/releases/download/v0.19.0/iptvnator-0.19.0-windows-x64-setup.exe
   electron: 39.2.7
   method: src-package-lock
+  name: IPTVnator
 - id: istrolid
   website: https://www.istrolid.com/
+  name: Istrolid
 - id: itch
   repository: https://github.com/itchio/itch
   website: https://itch.io/app
@@ -3158,8 +3370,10 @@
     url: https://github.com/itchio/itch/releases/download/v26.9.0/itch-v26.9.0-windows-amd64.tar.gz
   electron: 40.4.1
   method: src-package-lock
+  name: itch
 - id: jabra-direct
   website: https://jabra.com/direct
+  name: Jabra Direct
 - id: jamovi
   repository: https://github.com/jamovi/jamovi
   website: https://www.jamovi.org
@@ -3167,8 +3381,10 @@
   src: https://github.com/jamovi/jamovi/archive/refs/tags/v2.7.16.zip
   aur:
   - jamovi-git
+  name: jamovi
 - id: jandi
   website: https://www.jandi.com
+  name: JANDI
 - id: janpankana
   repository: https://github.com/styunan/japankana
   website: https://github.com/styunan/japankana#readme
@@ -3197,6 +3413,7 @@
     url: https://github.com/huyunan/japankana/releases/download/v1.0.2/japankana_1.0.2_amd64.deb
   electron: 12.2.3
   method: src-range-guess
+  name: Janpankana
 - id: jasper
   repository: https://github.com/jasperapp/jasper
   website: https://jasperapp.io
@@ -3209,6 +3426,7 @@
   method: src-package-lock
   aur:
   - jasperapp-bin
+  name: Jasper
 - id: joplin
   repository: https://github.com/laurent22/joplin
   website: https://joplinapp.org/
@@ -3257,8 +3475,10 @@
   - joplin
   - joplin-desktop
   - joplin-beta
+  name: Joplin
 - id: jqi
   website: https://nire0510.github.io/jqi/
+  name: jqi
 - id: jukeboks
   repository: https://github.com/hirohisa/Jukeboks
   website: https://github.com/hirohisa/Jukeboks
@@ -3269,6 +3489,7 @@
     url: https://github.com/hirohisa/Jukeboks/releases/download/v2.2.4/Jukeboks.app.zip
   electron: 11.4.8
   method: src-yarn-lock
+  name: Jukeboks
 - id: kahla
   repository: https://github.com/AiursoftWeb/Kahla.App
   website: https://www.kahla.app/
@@ -3291,6 +3512,7 @@
   method: src-package-lock
   aur:
   - kahla-bin
+  name: Kahla
 - id: kankan
   repository: https://github.com/newham/kankan
   latest: v0.4.0
@@ -3300,6 +3522,7 @@
     url: https://github.com/newham/kankan/releases/download/v0.4.0/kankan-0.4.0.dmg.zip
   electron: 8.5.5
   method: src-range-guess
+  name: KanKan
 - id: kap
   repository: https://github.com/wulkano/kap
   website: https://getkap.co
@@ -3326,6 +3549,7 @@
     url: https://github.com/wulkano/Kap/releases/download/v3.6.0/latest-mac.yml
   electron: 13.6.9
   method: src-yarn-lock
+  name: Kap
 - id: kaplan-desktop
   repository: https://github.com/kaplanPRO/kaplan-desktop
   website: https://kaplan.pro
@@ -3333,6 +3557,7 @@
   src: https://github.com/kaplanPRO/kaplan-desktop/archive/refs/tags/v0.6.4.zip
   electron: 13.6.9
   method: src-yarn-lock
+  name: Kaplan Desktop
 - id: kappo
   repository: https://github.com/monsterkodi/kappo
   website: https://github.com/monsterkodi/kappo
@@ -3341,12 +3566,14 @@
   downloads:
   - name: kappo-1.31.0-setup.exe
     url: https://github.com/monsterkodi/kappo/releases/download/v1.31.0/kappo-1.31.0-setup.exe
+  name: kappo
 - id: karaokemugen
   repository: https://gitlab.com/karaokemugen/karaokemugen-app
   website: https://mugen.karaokes.moe/en
   aur:
   - karaokemugen
   - karaokemugen-git
+  name: Karaoke Mugen
 - id: katana
   repository: https://github.com/bluegill/katana
   website: https://github.com/bluegill/katana
@@ -3359,12 +3586,15 @@
   method: src-package-lock
   aur:
   - katana
+  name: Katana
 - id: kattana
   website: https://kattana.io
+  name: Kattana
 - id: keeper-password-manager-digital-vault
   website: https://www.keepersecurity.com
   aur:
   - keeper-password-manager
+  name: Keeper Password Manager & Digital Vault
 - id: keeweb
   repository: https://github.com/keeweb/keeweb
   website: https://keeweb.info
@@ -3423,16 +3653,20 @@
   - keeweb
   - keeweb-git
   - keeweb-web
+  name: KeeWeb
 - id: keycombiner
   repository: https://github.com/tkainrad/keycombiner
   website: https://keycombiner.com/
   aur:
   - keycombiner
+  name: KeyCombiner
 - id: kinesis-ci
   repository: https://github.com/Kinesis-CI/education-and-innovation
   website: https://kinesis-ci.com
+  name: Kinesis CI
 - id: kitematic
   website: https://kitematic.com
+  name: Kitematic
 - id: knowte
   repository: https://github.com/digimezzo/knowte-electron
   website: https://www.digimezzo.com
@@ -3456,8 +3690,10 @@
   electron: 17.3.1
   aur:
   - vitomu
+  name: Knowte
 - id: kobiton
   website: https://kobiton.com
+  name: Kobiton
 - id: kube-dev-dashboard
   repository: https://github.com/prsh9/KubeCtl-Dashboard
   website: https://prsh9.github.io/kubectl-dashboard/
@@ -3472,6 +3708,7 @@
     url: https://github.com/prsh9/kubectl-dashboard/releases/download/v0.14.3/kube-dev-dashboard-0.14.3-win.exe
   electron: 22.0.0
   method: src-yarn-lock
+  name: Kube Dev Dashboard
 - id: kube-forwarder
   repository: https://github.com/pixel-point/kube-forwarder
   website: https://kube-forwarder.pixelpoint.io/
@@ -3500,6 +3737,7 @@
   method: src-package-lock
   aur:
   - kube-forwarder
+  name: Kube Forwarder
 - id: laradumps
   repository: https://github.com/laradumps/app
   website: https://laradumps.dev
@@ -3529,6 +3767,7 @@
   electron: 38.1.0
   aur:
   - laradumps-bin
+  name: LaraDumps
 - id: laravel-kit
   repository: https://github.com/tmdh/laravel-kit
   website: https://tmdh.github.io/laravel-kit
@@ -3561,6 +3800,7 @@
   method: src-yarn-lock
   aur:
   - laravel-kit
+  name: Laravel Kit
 - id: last-hit
   repository: https://github.com/last-hit-aab/last-hit
   website: https://last-hit.com
@@ -3587,10 +3827,13 @@
     url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/latest.yml
   electron: 7.1.1
   method: src-yarn-lock
+  name: Last Hit
 - id: lax
   website: https://github.com/brandly/Lax
+  name: Lax
 - id: lazytype
   website: https://github.com/ngudbhav/lazyType
+  name: lazyType
 - id: lbry-desktop
   repository: https://github.com/lbryio/lbry-desktop
   website: https://lbry.com
@@ -3625,6 +3868,7 @@
   method: src-yarn-lock
   aur:
   - lbry-desktop
+  name: LBRY Desktop
 - id: leafview
   repository: https://github.com/sprout2000/leafview
   website: https://github.com/sprout2000/leafview
@@ -3667,6 +3911,7 @@
     url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-win32-x64.zip
   electron: 41.0.2
   method: src-package-lock
+  name: LeafView
 - id: lectrote
   repository: https://github.com/erkyrath/lectrote
   website: https://github.com/erkyrath/lectrote
@@ -3693,9 +3938,11 @@
     url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-WinInstall.exe
   electron: 36.9.5
   method: src-range-guess
+  name: Lectrote
 - id: left
   repository: https://hundredrabbits.itch.io/left
   website: https://hundredrabbits.itch.io/left
+  name: Left
 - id: lepton
   repository: https://github.com/hackjutsu/Lepton
   website: https://hackjutsu.com/Lepton/
@@ -3731,8 +3978,10 @@
   aur:
   - lepton-bin
   - lepton-snippet-manager-appimage
+  name: Lepton
 - id: light-table
   website: http://www.lighttable.com
+  name: Light Table
 - id: lightgallery
   repository: https://github.com/sachinchoolur/lightgallery-desktop
   website: https://sachinchoolur.github.io/lightgallery-desktop/
@@ -3745,6 +3994,7 @@
     url: https://github.com/sachinchoolur/lightgallery-desktop/releases/download/0.1.1/lightgallery_0.1.1.dmg-mac.zip
   - name: lightgallery_0.1.1_amd64-linux.deb
     url: https://github.com/sachinchoolur/lightgallery-desktop/releases/download/0.1.1/lightgallery_0.1.1_amd64-linux.deb
+  name: lightgallery
 - id: lightproxy
   repository: https://github.com/alibaba/lightproxy
   website: https://github.com/alibaba/lightproxy
@@ -3766,6 +4016,7 @@
   - name: LightProxy-Setup-1.1.41.exe.blockmap
     url: https://github.com/alibaba/lightproxy/releases/download/v1.1.41/LightProxy-Setup-1.1.41.exe.blockmap
   electron: 10.1.5
+  name: LightProxy
 - id: linked
   repository: https://github.com/lostdesign/linked
   website: https://uselinked.com/
@@ -3804,6 +4055,7 @@
   method: src-yarn-lock
   aur:
   - linked-bin
+  name: linked
 - id: lisk-hub
   repository: https://github.com/LiskHQ/lisk-hub
   website: https://lisk.com
@@ -3850,11 +4102,13 @@
   method: src-yarn-lock
   aur:
   - lisk-desktop-bin
+  name: Lisk Hub
 - id: local-by-flywheel
   repository: https://github.com/getflywheel/local-components
   website: https://localbyflywheel.com
   aur:
   - local-by-flywheel-bin
+  name: Local by Flywheel
 - id: local-mock-server
   repository: https://github.com/jayakumarreddy/Local-Mock-Server/
   website: https://github.com/jayakumarreddy/Local-Mock-Server/
@@ -3873,6 +4127,7 @@
     url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-Setup-1.2.0.exe.blockmap
   electron: 8.2.5
   method: src-package-lock
+  name: Local Mock Server
 - id: lode
   website: https://lode.run
   aur:
@@ -3881,6 +4136,7 @@
   - loderunner-ng
   - scavenger
   - xlode
+  name: Lode
 - id: logsnag
   repository: https://github.com/LogSnag/LogSnag
   website: https://logsnag.com
@@ -3919,10 +4175,12 @@
     url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-Setup-1.8.0.exe.blockmap
   - name: logsnag_1.8.0_amd64.deb
     url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/logsnag_1.8.0_amd64.deb
+  name: LogSnag
 - id: loom
   website: https://www.loom.com
   aur:
   - decker
+  name: Loom
 - id: losslesscut
   repository: https://github.com/mifi/lossless-cut
   website: https://github.com/mifi/lossless-cut
@@ -3955,6 +4213,7 @@
     url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-win-x64.appx
   electron: 38.7.2
   method: src-yarn-lock
+  name: LosslessCut
 - id: lot-lot-of-things
   repository: https://github.com/Jisco/LotOfThings
   website: https://jisco.me/lot
@@ -3969,6 +4228,7 @@
     url: https://github.com/Jisco/LotOfThings/releases/download/v1.1.0/LoT.1.1.0.portable.exe
   aur:
   - visualfamilytree-bin
+  name: LoT - Lot of Things
 - id: lsdeer
   repository: https://github.com/AlexanderPershin/lsdeer
   website: https://lsdeer.vercel.app/
@@ -3983,6 +4243,7 @@
     url: https://github.com/AlexanderPershin/lsdeer/releases/download/v0.1.6/lsdeer-Setup-0.1.6.exe.blockmap
   electron: 8.2.1
   method: src-package-lock
+  name: lsdeer
 - id: luna
   repository: https://github.com/rvpanoz/luna
   website: https://github.com/rvpanoz/luna
@@ -4003,6 +4264,7 @@
   method: src-package-lock
   aur:
   - luna
+  name: luna
 - id: magiccap
   repository: https://github.com/MagicCap/MagicCap
   latest: v2.1.2
@@ -4016,6 +4278,7 @@
     url: https://github.com/MagicCap/MagicCap/releases/download/v2.1.2/magiccap-mac.zip
   electron: 5.0.11
   method: src-package-lock
+  name: MagicCap
 - id: mailspring
   repository: https://github.com/Foundry376/Mailspring
   website: https://getmailspring.com/
@@ -4045,11 +4308,13 @@
   aur:
   - mailspring-bin
   - mailspring-git
+  name: Mailspring
 - id: manyverse
   repository: https://gitlab.com/staltz/manyverse
   website: https://manyver.se
   aur:
   - manyverse-bin
+  name: Manyverse
 - id: markdown-c3
   repository: https://github.com/el3um4s/markdown-c3/blob/master/README.md
   website: https://github.com/el3um4s/markdown-c3/blob/master/README.md
@@ -4060,6 +4325,7 @@
     url: https://github.com/el3um4s/markdown-c3/releases/download/v.1.0.0/Markdown.C3.1.0.0.exe
   electron: 3.0.10
   method: src-package-lock
+  name: Markdown C3
 - id: markdownify
   repository: https://github.com/amitmerchant1990/electron-markdownify
   website: https://markdownify.js.org
@@ -4067,6 +4333,7 @@
   src: https://github.com/amitmerchant1990/electron-markdownify/archive/refs/tags/1.4.1.zip
   electron: 7.3.3
   method: src-range-guess
+  name: Markdownify
 - id: marktext
   repository: https://github.com/marktext/marktext
   website: https://github.com/marktext/marktext
@@ -4115,6 +4382,7 @@
   method: src-yarn-lock
   aur:
   - marktext
+  name: MarkText
 - id: masscode
   repository: https://github.com/antonreshetov/massCode
   website: https://masscode.io
@@ -4132,6 +4400,7 @@
   aur:
   - masscode-bin
   - masscode-git
+  name: massCode
 - id: mattermost
   repository: https://github.com/mattermost/desktop
   website: https://about.mattermost.com/downloads/
@@ -4206,6 +4475,7 @@
     url: https://github.com/mattermost/desktop/releases/download/v6.1.0/sbom-desktop-v6.1.0.json
   electron: 40.6.0
   method: src-package-lock
+  name: Mattermost
 - id: md5app
   repository: https://github.com/mhmdkrmabd/md5-app
   website: https://github.com/mhmdkrmabd/md5-app
@@ -4216,6 +4486,7 @@
     url: https://github.com/mhmdkrmabd/md5-app/releases/download/v1.0.0/32bit.exe
   - name: 64bit.exe
     url: https://github.com/mhmdkrmabd/md5-app/releases/download/v1.0.0/64bit.exe
+  name: MD5 Application
 - id: mdp
   repository: https://github.com/ericlink/mdp
   website: https://ericlink.github.io/mdp/
@@ -4226,6 +4497,7 @@
     url: https://github.com/ericlink/mdp/releases/download/v1.0.0/mdp-1.0.0.dmg
   electron: 5.0.13
   method: src-package-lock
+  name: mdp
 - id: media-dupes
   repository: https://github.com/yafp/media-dupes
   website: https://github.com/yafp/media-dupes
@@ -4256,6 +4528,7 @@
     url: https://github.com/yafp/media-dupes/releases/download/0.10.3/media-dupes-0.10.3-win-x64.zip
   electron: 9.1.2
   method: src-package-lock
+  name: media-dupes
 - id: mediachips
   repository: https://github.com/fupdec/mediaChips
   website: https://mediachips.app
@@ -4274,8 +4547,10 @@
   method: src-package-lock
   aur:
   - mediachips-bin
+  name: mediaChips
 - id: meistertask
   website: https://www.meistertask.com/
+  name: MeisterTask
 - id: melodie
   repository: https://github.com/feugy/melodie
   website: https://feugy.github.io/melodie
@@ -4310,6 +4585,7 @@
   method: src-package-lock
   aur:
   - melodie-bin
+  name: Mélodie
 - id: merge-request-notifier
   repository: https://github.com/codecentric/merge-request-notifier
   website: https://github.com/codecentric/merge-request-notifier
@@ -4338,17 +4614,22 @@
   method: src-yarn-lock
   aur:
   - merge-request-notifier
+  name: Merge Request Notifier
 - id: metastream
   repository: https://github.com/samuelmaddock/metastream
   website: https://getmetastream.com
   latest: v0.10.4
   src: https://github.com/samuelmaddock/metastream/archive/refs/tags/v0.10.4.zip
+  name: Metastream
 - id: metronome
   website: https://afractal.github.io/metronome-app
+  name: Metronome
 - id: microsoft-teams
   website: https://products.office.com/en-us/microsoft-teams/group-chat-software
+  name: Microsoft Teams
 - id: microstockr
   website: https://microstockr.com/
+  name: Microstockr
 - id: min
   repository: https://github.com/minbrowser/min
   website: https://minbrowser.org/
@@ -4383,11 +4664,13 @@
   aur:
   - min
   - min-browser-bin
+  name: Min
 - id: mindmapp
   repository: https://github.com/Mindmapp/mindmapp
   website: https://mindmapp.cedoor.dev/
   latest: v0.10.0
   src: https://github.com/Mindmapp/mindmapp/archive/refs/tags/v0.10.0.zip
+  name: Mindmapp
 - id: mini-diary
   repository: https://github.com/samuelmeuli/mini-diary
   website: https://minidiary.app
@@ -4416,6 +4699,7 @@
     url: https://github.com/samuelmeuli/mini-diary/releases/download/v3.3.0/Mini-Diary-Setup-3.3.0.exe.blockmap
   electron: 8.3.0
   method: src-yarn-lock
+  name: Mini Diary
 - id: minimal-image-viewer
   repository: https://github.com/hayhaydz/MIV
   website: https://github.com/hayhaydz/MIV
@@ -4432,10 +4716,13 @@
     url: https://github.com/hayhaydz/MIV/releases/download/v1.0.0/SOURCE_CODE.zip
   electron: 13.1.4
   method: src-yarn-lock
+  name: Minimal Image Viewer
 - id: missive
   website: https://missiveapp.com
+  name: Missive
 - id: mixmax
   website: https://mixmax.com/download
+  name: Mixmax
 - id: mjml-app
   repository: https://github.com/mjmlio/mjml-app
   website: https://mjmlio.github.io/mjml-app/
@@ -4462,13 +4749,16 @@
   method: src-yarn-lock
   aur:
   - mjml-app
+  name: MJML App
 - id: mobile-locker
   website: https://www.mobilelocker.com/
+  name: Mobile Locker
 - id: mobirise
   repository: https://github.com/Mobirise/Mobirise
   website: https://mobirise.com/
   aur:
   - mobirise
+  name: Mobirise
 - id: mockoon
   repository: https://github.com/255kb/mockoon
   website: https://mockoon.com
@@ -4507,6 +4797,7 @@
   - mockoon
   - mockoon-bin
   - mockoon-git
+  name: Mockoon
 - id: moderndeck
   repository: https://github.com/dangeredwolf/ModernDeck
   website: https://moderndeck.org/
@@ -4539,12 +4830,16 @@
     url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x86_64.AppImage
   electron: 19.1.9
   method: src-package-lock
+  name: ModernDeck for Twitter
 - id: monami-note
   website: https://simbust.com
+  name: MonAmi Note
 - id: mongodb-compass
   website: https://mongodb.com/compass
+  name: MongoDB Compass
 - id: mongomix
   website: https://mongomix.sigma-solutions.fr
+  name: Mongomix
 - id: monokle
   repository: https://github.com/kubeshop/monokle
   website: https://monokle.io
@@ -4588,8 +4883,10 @@
   aur:
   - monokle
   - monokle-bin
+  name: Monokle
 - id: monsterwriter
   website: https://www.monsterwriter.app
+  name: MonsterWriter
 - id: moosync
   repository: https://github.com/Moosync/Moosync
   website: https://moosync.app
@@ -4644,11 +4941,13 @@
     url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_x64.app.tar.gz.sig
   aur:
   - moosync
+  name: Moosync
 - id: morgen
   website: https://morgen.so
   aur:
   - morgen-bin
   - morgen3-bin
+  name: Morgen
 - id: movieprint
   repository: https://github.com/fakob/MoviePrint_v004
   website: https://www.movieprint.org/
@@ -4661,6 +4960,7 @@
     url: https://github.com/fakob/MoviePrint_v004/releases/download/0.2.23/MoviePrint_v004-0.2.23-win.zip
   electron: 7.1.11
   method: src-yarn-lock
+  name: MoviePrint
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
@@ -4698,6 +4998,7 @@
   aur:
   - mstream
   - mstream-git
+  name: mStream
 - id: muezzin
   repository: https://github.com/DBChoco/Muezzin
   website: https://github.com/DBChoco/Muezzin
@@ -4722,6 +5023,7 @@
     url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin_2.6.0_amd64.snap
   electron: 25.8.4
   method: src-package-lock
+  name: muezzin
 - id: multiple-file-manager
   repository: https://github.com/dhanyn10/multiple-file-manager
   latest: v5.0.0
@@ -4735,6 +5037,7 @@
     url: https://github.com/dhanyn10/multiple-file-manager/releases/download/v5.0.0/Multiple.File.Manager-5.0.0.dmg
   electron: 30.5.1
   method: src-package-lock
+  name: Multiple File Manager
 - id: multrin
   repository: https://github.com/sentialx/multrin
   latest: v1.3.0
@@ -4760,6 +5063,7 @@
     url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-Setup-1.3.0.exe.blockmap
   electron: 8.2.2
   method: src-yarn-lock
+  name: Multrin
 - id: museeks
   repository: https://github.com/martpie/museeks
   website: https://museeks.io/
@@ -4814,6 +5118,7 @@
   - museeks
   - museeks-bin
   - museeks-git
+  name: Museeks
 - id: music-player
   repository: https://github.com/Aveek-Saha/MusicPlayer
   website: https://aveek-saha.github.io/
@@ -4832,14 +5137,18 @@
   method: src-package-lock
   aur:
   - music-player
+  name: music-player
 - id: mylottery
   repository: https://gitee.com/gemron/myLottery
   website: https://gitee.com/gemron/myLottery/blob/master/README.md
+  name: MyLottery
 - id: mytools
   repository: https://github.com/hiql/mytools-desktop
   website: https://github.com/hiql/mytools-desktop
+  name: MyTools
 - id: nattt
   website: http://nattt.net/
+  name: NATTT
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
@@ -4868,6 +5177,7 @@
   method: src-package-lock
   aur:
   - netron
+  name: Netron
 - id: network-assembler
   repository: https://github.com/kir486680/Network-Assembler
   website: https://github.com/kir486680/Network-Assembler
@@ -4878,6 +5188,7 @@
     url: https://github.com/kir486680/Network-Assembler/releases/download/0.0.2/Network-Assembler.zip
   electron: 7.2.4
   method: src-package-lock
+  name: NetworkAssembler
 - id: neucalculator
   repository: https://github.com/moh3n9595/neu-calculator
   website: https://github.com/moh3n9595/neu-calculator
@@ -4888,9 +5199,11 @@
     url: https://github.com/moh3n9595/neu-calculator/releases/download/V1.0.0/NeuCalculator-1.0.0.dmg
   electron: 7.1.13
   method: src-yarn-lock
+  name: NeuCalculator
 - id: nicepage
   repository: https://github.com/NicepageApp/Nicepage
   website: https://nicepage.com/
+  name: Nicepage
 - id: nimblenote
   repository: https://github.com/nimblenote/nimblenote
   website: https://nimblenote.app
@@ -4909,10 +5222,13 @@
     url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/nimblenote-3.2.2.zip
   - name: release.json
     url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/release.json
+  name: nimblenote
 - id: norde-source
   website: https://norde.io
+  name: Norde Source
 - id: northreader
   website: https://northreader.futureglobe.de/
+  name: NorthReader
 - id: nota
   repository: https://github.com/notaapp/releases
   website: https://nota.md
@@ -4929,6 +5245,7 @@
     url: https://github.com/notaapp/releases/releases/download/0.41.0/Nota-0.41.0.dmg
   aur:
   - nota
+  name: Nota
 - id: notable
   repository: https://github.com/notable/notable
   website: https://notable.app
@@ -4965,8 +5282,10 @@
     url: https://github.com/notable/notable/releases/download/v1.8.4/notable_1.8.4_amd64.deb
   - name: notable_1.8.4_amd64.snap
     url: https://github.com/notable/notable/releases/download/v1.8.4/notable_1.8.4_amd64.snap
+  name: Notable
 - id: notejoy
   website: https://notejoy.com
+  name: Notejoy
 - id: notion
   website: https://www.notion.so/
   aur:
@@ -4975,6 +5294,7 @@
   - notion-calendar-electron
   - notion-calendar-electron-fixed
   - notion-git
+  name: Notion
 - id: nteract
   repository: https://github.com/nteract/nteract
   website: https://nteract.io/
@@ -4983,6 +5303,7 @@
   aur:
   - nteract
   - nteract-bin
+  name: nteract
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
@@ -5029,8 +5350,10 @@
   - nuclear-player
   - nuclear-player-bin
   - nuclear-player-git
+  name: nuclear
 - id: nuclide
   website: https://nuclide.io/
+  name: Nuclide
 - id: nxshell
   repository: https://github.com/nxshell/nxshell
   website: https://github.com/nxshell/nxshell
@@ -5045,8 +5368,10 @@
     url: https://github.com/nxshell/nxshell/releases/download/v1.9.3/NxShell-x64-win-1.9.3-202303220723.exe
   - name: NxShell-x86_64-linux-1.9.3-202303220832.AppImage
     url: https://github.com/nxshell/nxshell/releases/download/v1.9.3/NxShell-x86_64-linux-1.9.3-202303220832.AppImage
+  name: nxshell
 - id: obsidian
   website: https://obsidian.md/
+  name: Obsidian
 - id: odrive
   repository: https://github.com/liberodark/ODrive
   website: https://github.com/liberodark/ODrive
@@ -5063,6 +5388,7 @@
     url: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.Setup.0.2.1.exe
   electron: 2.0.18
   method: src-range-guess
+  name: ODrive
 - id: ohhai-browser
   repository: https://github.com/OhHaiBrowser/Browser/
   website: https://ohhaibrowser.com
@@ -5079,10 +5405,13 @@
   method: src-package-lock
   aur:
   - ohhaibrowser-bin
+  name: OhHai Browser
 - id: onecopy
   website: https://github.com/HiroshiFuu/onecopy-electron
+  name: One Copy
 - id: oomol-studio
   website: https://oomol.com/
+  name: OOMOL Studio
 - id: open-log-viewer
   repository: https://github.com/tmoreno/open-log-viewer
   website: https://github.com/tmoreno/open-log-viewer
@@ -5099,10 +5428,12 @@
     url: https://github.com/tmoreno/open-log-viewer/releases/download/1.6.0/open-log-viewer_1.6.0.rpm
   electron: 8.1.1
   method: src-package-lock
+  name: Open Log Viewer
 - id: open-stage-control
   website: https://openstagecontrol.ammd.net
   aur:
   - open-stage-control-bin
+  name: Open Stage Control
 - id: opencomic
   repository: https://github.com/ollm/OpenComic
   website: https://github.com/ollm/OpenComic
@@ -5165,6 +5496,7 @@
   method: src-package-lock
   aur:
   - opencomic
+  name: OpenComic
 - id: oversetter
   repository: https://github.com/4gray/oversetter
   website: https://4gray.github.io/oversetter/
@@ -5187,6 +5519,7 @@
     url: https://github.com/4gray/oversetter/releases/download/v0.4.0/oversetter_0.4.0_amd64.snap
   electron: 7.2.4
   method: src-package-lock
+  name: Oversetter
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
@@ -5258,6 +5591,7 @@
   aur:
   - p3x-onenote-bin
   - p3x-redis-ui-bin
+  name: P3X OneNote
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
@@ -5313,8 +5647,10 @@
   aur:
   - p3x-onenote-bin
   - p3x-redis-ui-bin
+  name: P3X Redis UI
 - id: pamfax
   website: https://www.pamfax.biz
+  name: PamFax
 - id: panwriter
   repository: https://github.com/mb21/panwriter
   website: https://panwriter.com
@@ -5358,6 +5694,7 @@
   aur:
   - panwriter
   - panwriter-bin
+  name: PanWriter
 - id: paperarxiv
   repository: https://github.com/fuzihaofzh/PaperArxiv
   website: https://github.com/fuzihaofzh/PaperArxiv
@@ -5368,6 +5705,7 @@
     url: https://github.com/fuzihaofzh/PaperArxiv/releases/download/v0.2.1/PaperArxiv-0.2.1-arm64.dmg
   electron: 33.4.11
   method: src-package-lock
+  name: PaperArxiv
 - id: papercubes
   repository: https://github.com/FlorianFe/PaperCubes
   website: https://github.com/FlorianFe/PaperCubes
@@ -5382,6 +5720,7 @@
     url: https://github.com/FlorianFe/PaperCubes/releases/download/v1.3.0-beta/PaperCubes_amd64.deb
   electron: 1.7.8
   method: src-package-lock
+  name: PaperCubes
 - id: papyrus
   repository: https://github.com/morkro/papyrus
   website: https://github.com/morkro/papyrus
@@ -5398,16 +5737,19 @@
   method: src-package-lock
   aur:
   - papyrus
+  name: Papyrus
 - id: parsify-desktop
   website: https://parsify.app
   aur:
   - parsify-desktop
+  name: Parsify Desktop
 - id: particle-dev
   website: https://www.particle.io/dev
   aur:
   - particle-cli
   - partio-git
   - prtcl-bin
+  name: Particle Dev
 - id: passky
   repository: https://github.com/Rabbit-Company/Passky-Desktop
   website: https://passky.org
@@ -5436,6 +5778,7 @@
     url: https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.3/passky_8.1.3_amd64.snap
   electron: 40.8.0
   method: src-yarn-lock
+  name: passky
 - id: patchwork
   repository: https://github.com/ssbc/patchwork
   website: https://www.scuttlebutt.nz/
@@ -5470,10 +5813,12 @@
     url: https://github.com/ssbc/patchwork/releases/download/v3.18.1/ssb-patchwork_3.18.1_amd64.snap
   electron: 11.3.0
   method: src-package-lock
+  name: Patchwork
 - id: paymo-time-tracker
   website: https://www.paymoapp.com
   aur:
   - paymo-widget
+  name: Paymo Time Tracker
 - id: peacock
   repository: https://github.com/peacockweb/peacock
   website: https://github.com/peacockweb/peacock
@@ -5498,6 +5843,7 @@
   method: src-package-lock
   aur:
   - peacock
+  name: Peacock
 - id: peershare
   repository: https://github.com/connor-davis/peershare
   website: https://github.com/connor-davis/peershare
@@ -5510,6 +5856,7 @@
   method: src-package-lock
   aur:
   - peershare
+  name: PeerShare
 - id: pencil
   repository: https://github.com/evolus/pencil
   website: https://pencil.evolus.vn/
@@ -5520,6 +5867,7 @@
   aur:
   - pencil-bin
   - pencil-git
+  name: Pencil
 - id: pendulums
   repository: https://github.com/Swing-team/pendulums-web-client
   website: https://pendulums.io/
@@ -5540,8 +5888,10 @@
     url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.snap
   electron: 6.0.7
   method: src-package-lock
+  name: Pendulums
 - id: pennywise
   website: https://github.com/kamranahmedse/pennywise
+  name: Pennywise
 - id: petal
   repository: https://github.com/ilime/Petal
   website: https://github.com/ilime/Petal
@@ -5560,13 +5910,17 @@
   method: src-yarn-lock
   aur:
   - petal
+  name: Petal
 - id: phiewer
   website: https://phiewer.com/
+  name: Phiewer
 - id: phonepresenter
   website: https://phonepresenter.github.io
+  name: PhonePresenter
 - id: photoscreensaver
   repository: https://github.com/RandScullard/photo-screen-saver
   website: https://github.com/RandScullard/photo-screen-saver
+  name: PhotoScreenSaver
 - id: pic-crop
   repository: https://github.com/ujw0l/pic-crop
   website: https://github.com/ujw0l/pic-crop
@@ -5577,6 +5931,7 @@
     url: https://github.com/ujw0l/pic-crop/releases/download/1.1.0/pic-crop.app.zip
   electron: 13.6.6
   method: src-package-lock
+  name: Pic Crop
 - id: picturama
   repository: https://github.com/picturama/picturama
   website: https://picturama.github.io/
@@ -5593,6 +5948,7 @@
   method: src-yarn-lock
   aur:
   - picturama-bin
+  name: Picturama
 - id: pitv
   repository: https://github.com/ozankaraali/PiTV
   website: https://ozankaraali.com/PiTV/
@@ -5617,6 +5973,7 @@
   method: src-yarn-lock
   aur:
   - pitv-bin
+  name: PiTV
 - id: playback
   repository: https://github.com/mafintosh/playback
   website: https://github.com/mafintosh/playback
@@ -5625,6 +5982,7 @@
   downloads:
   - name: Playback.app.zip
     url: https://github.com/mafintosh/playback/releases/download/v1.6.0/Playback.app.zip
+  name: Playback
 - id: playcode
   repository: https://github.com/playcode/playcode-desktop
   website: https://github.com/playcode/playcode-desktop
@@ -5651,6 +6009,7 @@
     url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-Setup-2022.12.27.exe.blockmap
   electron: 22.0.0
   method: src-package-lock
+  name: PlayCode
 - id: poddycast-app
   repository: https://github.com/MrChuckomo/poddycast
   website: https://github.com/MrChuckomo/poddycast
@@ -5673,6 +6032,7 @@
     url: https://github.com/MrChuckomo/poddycast/releases/download/v0.13.0/Poddycast-win32-x64.zip
   electron: 35.7.5
   method: src-package-lock
+  name: Poddycast
 - id: poi
   repository: https://github.com/poooi/poi
   website: https://poi.moe
@@ -5737,14 +6097,17 @@
   method: src-package-lock
   aur:
   - poi-git
+  name: poi
 - id: polypane
   website: https://polypane.app
   aur:
   - polypane
+  name: Polypane
 - id: popsql
   website: https://popsql.com
   aur:
   - popsql
+  name: PopSQL
 - id: postbird
   repository: https://github.com/Paxa/postbird
   website: https://github.com/Paxa/postbird
@@ -5771,6 +6134,7 @@
     url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird_0.8.4_amd64.snap
   electron: 6.1.4
   method: src-yarn-lock
+  name: Postbird
 - id: postman
   website: https://www.getpostman.com/
   aur:
@@ -5779,6 +6143,7 @@
   - postman-electron-bin
   - postman-live-bin
   - postman9-bin
+  name: Postman
 - id: premid
   repository: https://github.com/PreMiD/PreMiD
   website: https://premid.app/
@@ -5796,6 +6161,7 @@
   aur:
   - premid
   - premid-nightly
+  name: PreMiD
 - id: preserver
   repository: https://github.com/hsbalar/Preserver
   website: https://github.com/hsbalar/Preserver
@@ -5804,8 +6170,10 @@
   downloads:
   - name: Preserver-linux-x64.tar.gz
     url: https://github.com/hsbalar/preserver/releases/download/v3.0.0/Preserver-linux-x64.tar.gz
+  name: Preserver
 - id: presets-io
   website: https://presets.io
+  name: Presets.io
 - id: prettyearth
   repository: https://github.com/evertdespiegeleer/PrettyEarth
   website: https://prettyearth.evertdespiegeleer.com/
@@ -5816,8 +6184,10 @@
     url: https://github.com/evertdespiegeleer/PrettyEarth/releases/download/v1.0.4-beta/macOS.zip
   electron: 5.0.2
   method: src-package-lock
+  name: PrettyEarth
 - id: prexview
   website: https://prexview.com
+  name: PrexView
 - id: primate
   repository: https://github.com/getprimate/primate
   website: https://www.getprimate.xyz
@@ -5836,6 +6206,7 @@
   method: src-yarn-lock
   aur:
   - primate-bin
+  name: Primate
 - id: primitive-nextgen
   repository: https://github.com/cielito-lindo-productions/primitive.nextgen
   website: https://github.com/cielito-lindo-productions/primitive.nextgen
@@ -5856,13 +6227,17 @@
     url: https://github.com/security-companion/primitive.nextgen/releases/download/v2.0.2/RELEASES
   electron: 28.2.0
   method: src-package-lock
+  name: primitive.nextgen
 - id: prodoctor-medicamentos
   website: https://prodoctor.net/medicamentos
+  name: ProDoctor Medicamentos
 - id: proposales
   website: https://www.proposales.com/
+  name: Proposales
 - id: prosecrec
   repository: https://github.com/HydroCarbons/ProSecrec
   website: https://prosecrec.com
+  name: ProSecrec
 - id: protoman
   repository: https://github.com/spluxx/protoman
   website: https://github.com/spluxx/protoman
@@ -5877,8 +6252,10 @@
     url: https://github.com/spluxx/Protoman/releases/download/v0.4.1/Protoman.Setup.0.4.1.exe
   electron: 9.4.0
   method: src-package-lock
+  name: Protoman
 - id: protopie
   website: https://protopie.io/
+  name: ProtoPie
 - id: pullp
   repository: https://github.com/rkclark/pullp
   website: https://github.com/rkclark/pullp
@@ -5899,6 +6276,7 @@
     url: https://github.com/rkclark/pullp/releases/download/v4.0.2/Pullp-Setup-4.0.2.exe
   electron: 14.0.1
   method: src-package-lock
+  name: Pullp
 - id: puppetry
   repository: https://github.com/dsheiko/puppetry/
   website: https://puppetry.app/
@@ -5915,8 +6293,10 @@
     url: https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-win-v3.2.6-x64.msi
   electron: 12.2.3
   method: src-range-guess
+  name: Puppetry
 - id: putler
   website: https://putler.com
+  name: Putler
 - id: q-player
   repository: https://github.com/Toooorch/q-player/
   website: http://www.q-player.com
@@ -5937,6 +6317,7 @@
     url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player_1.1.0_amd64.deb
   - name: q-player_1.1.0_amd64.snap
     url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player_1.1.0_amd64.snap
+  name: Q-player
 - id: qawl
   repository: https://github.com/sufone/qawl
   website: https://qawl.navedislam.com
@@ -5953,6 +6334,7 @@
     url: https://github.com/sufone/qawl/releases/download/v0.0.7/qawl_Linux_0.0.7_amd64.deb
   electron: 10.1.5
   method: src-yarn-lock
+  name: Qawl
 - id: qikqr
   repository: https://github.com/deep5050/qikQR
   website: https://github.com/deep5050/qikQR
@@ -5969,6 +6351,7 @@
     url: https://github.com/deep5050/qikQR/releases/download/v1.0.0/qikqr_1.0.0_amd64.deb
   electron: 8.2.5
   method: src-yarn-lock
+  name: qikQR
 - id: quail
   repository: https://github.com/1000ch/quail
   website: https://github.com/1000ch/quail
@@ -6003,6 +6386,7 @@
     url: https://github.com/1000ch/quail/releases/download/v2.4.0/quail_2.4.0_amd64.snap
   electron: 12.0.0
   method: src-package-lock
+  name: Quail
 - id: quark
   repository: https://github.com/Nishkalkashyap/Quark-electron
   website: https://quarkjs.io
@@ -6041,6 +6425,7 @@
   method: src-package-lock
   aur:
   - quark-electron-bin
+  name: Quark
 - id: quba-e-invoice-viewer
   repository: https://github.com/ZUGFeRD/quba-viewer
   website: https://quba-viewer.org/
@@ -6069,8 +6454,10 @@
     url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.0/Quba_1.5.0_amd64.snap
   electron: 33.0.1
   method: src-package-lock
+  name: Quba E-Invoice Viewer
 - id: quickbooks
   website: https://quickbooks.intuit.com/desktop/
+  name: QuickBooks
 - id: r2e-todoworks
   repository: https://github.com/tuantvk/r2e-todoworks
   website: https://github.com/tuantvk/r2e-todoworks
@@ -6078,6 +6465,7 @@
   src: https://github.com/tuantvk/r2e-todoworks/archive/refs/tags/v0.0.4.zip
   electron: 2.0.18
   method: src-yarn-lock
+  name: r2e-todoworks
 - id: r6rc
   repository: https://github.com/austinleath/r6rc
   website: https://r6rc.com/
@@ -6092,11 +6480,14 @@
     url: https://github.com/AustinLeath/r6rc/releases/download/v0.4.6/R6RC-Setup-0.4.6.exe.blockmap
   electron: 6.1.12
   method: src-range-guess
+  name: R6RC
 - id: racompass
   repository: https://github.com/racompass/racompass
   website: https://racompass.com
+  name: Racompass
 - id: radio5050
   website: https://www.radio5050.com
+  name: Radio 50/50 Player
 - id: rainbow-board
   repository: https://github.com/HarshKhandeparkar/rainbow-board
   website: https://harshkhandeparkar.github.io/rainbow-board
@@ -6119,6 +6510,7 @@
     url: https://github.com/harshkhandeparkar/rainbow-board/releases/download/v0.8.1/rainbow-board_0.8.1_amd64.deb
   electron: 12.2.2
   method: src-yarn-lock
+  name: Rainbow Board
 - id: rambox
   repository: https://github.com/saenzramiro/rambox
   website: https://rambox.app/
@@ -6182,6 +6574,7 @@
   electron: 13.6.3
   aur:
   - rambox-pro-bin
+  name: Rambox
 - id: raven-reader
   repository: https://github.com/hello-efficiency-inc/raven-reader
   latest: v1.0.80
@@ -6215,9 +6608,11 @@
   method: src-yarn-lock
   aur:
   - raven-reader
+  name: Raven Reader
 - id: reach-podcast-player
   repository: https://github.com/SolarFloss/Reach-Podcast-Player
   website: https://github.com/SolarFloss/Reach-Podcast-Player
+  name: Reach Podcast Player
 - id: react-explorer
   repository: https://github.com/warpdesign/react-explorer
   website: https://github.com/warpdesign/react-explorer
@@ -6238,6 +6633,7 @@
     url: https://github.com/warpdesign/react-explorer/releases/download/v3.1.0/react-explorer-3.1.0-windows-universal-setup.exe
   electron: 21.2.3
   method: src-package-lock
+  name: React-Explorer
 - id: rebaslight
   repository: https://github.com/rebaslight/rebaslight
   website: https://www.rebaslight.com/
@@ -6267,6 +6663,7 @@
   aur:
   - rebaslight
   - rebaslight-bin
+  name: Rebaslight
 - id: recode-converter
   repository: https://github.com/murgatt/recode-converter
   website: https://murgatt.github.io/recode-converter/
@@ -6295,11 +6692,13 @@
     url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Windows-2.1.1-Setup.exe.blockmap
   electron: 40.6.1
   method: src-pnpm-lock
+  name: Recode Converter
 - id: recollectr
   repository: https://github.com/Recollectr/releases
   website: https://recollectr.io
   aur:
   - recollectr
+  name: Recollectr
 - id: redis-gui-unofficial
   repository: https://github.com/ekvedaras/redis-gui
   website: https://ekvedaras.github.io
@@ -6328,16 +6727,21 @@
     url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-Setup-2.3.0.exe.blockmap
   electron: 19.1.9
   method: src-yarn-lock
+  name: Redis GUI (unofficial)
 - id: remaining-time
   website: https://github.com/funkyremi/macos-battery-remaining-menubar
+  name: Remaining Time
 - id: remember
   website: https://rememberapp.co.kr
+  name: Remember
 - id: remind
   website: https://www.remind.com/
   aur:
   - ical2rem
+  name: Remind
 - id: remsupp
   website: https://remsupp.com
+  name: RemSupp
 - id: rendertune
   repository: https://github.com/MartinBarker/RenderTune
   website: https://www.martinbarker.me/rendertune
@@ -6372,10 +6776,12 @@
   method: src-yarn-lock
   aur:
   - rendertune-bin
+  name: RenderTune
 - id: reqview
   website: https://www.reqview.com
   aur:
   - reqview
+  name: ReqView
 - id: responsively
   repository: https://github.com/responsively-org/responsively-app
   website: https://responsively.app
@@ -6387,6 +6793,7 @@
   - responsively
   - responsively-bin
   - responsively-git
+  name: Responsively App
 - id: responsivize
   repository: https://github.com/virejdasani/Responsivize
   website: https://virejdasani.github.io/Responsivize/
@@ -6403,8 +6810,10 @@
     url: https://github.com/virejdasani/Responsivize/releases/download/v3.0.0/Responsivize-WindowsPortable.zip
   electron: 12.1.0
   method: src-package-lock
+  name: Responsivize
 - id: reversee
   website: https://www.reversee.ninja/
+  name: Reversee
 - id: ride
   repository: https://github.com/Dyalog/ride
   website: https://github.com/Dyalog/ride
@@ -6433,6 +6842,7 @@
     url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267_zerofootprint.zip
   electron: 34.5.5
   method: src-package-lock
+  name: RIDE
 - id: ridereceipts
   repository: https://github.com/ridereceipts/ridereceipts
   website: https://www.ridereceipts.io
@@ -6455,6 +6865,7 @@
     url: https://github.com/hello-efficiency-inc/ridereceipts/releases/download/v1.7.6/ridereceipts-setup-1.7.6.exe.blockmap
   electron: 4.0.5
   method: src-yarn-lock
+  name: Ride Receipts
 - id: riot
   repository: https://github.com/vector-im/element-desktop
   website: https://element.io/
@@ -6467,8 +6878,10 @@
   method: src-pnpm-lock
   aur:
   - element-desktop-nightly-bin
+  name: Riot
 - id: rmclient
   website: https://rmclient.org
+  name: rmclient
 - id: rocket-chat
   website: https://rocket.chat
   aur:
@@ -6480,10 +6893,12 @@
   - ruqola
   - ruqola-git
   - tailchat-desktop
+  name: Rocket.Chat
 - id: runjs
   website: https://runjs.app
   aur:
   - runjs-electron-bin
+  name: RunJS
 - id: saadhn
   repository: https://github.com/arkokoley/saadhn
   website: https://github.com/arkokoley/saadhn
@@ -6496,6 +6911,7 @@
     url: https://github.com/arkokoley/saadhn/releases/download/v0.3/Saadhn-linux-x64.zip
   - name: Saadhn-win32-x64.zip
     url: https://github.com/arkokoley/saadhn/releases/download/v0.3/Saadhn-win32-x64.zip
+  name: Saadhn
 - id: school-timetable
   repository: https://github.com/KDani-99/school_timetable
   website: https://github.com/KDani-99/school_timetable
@@ -6506,6 +6922,7 @@
     url: https://github.com/KDani-99/school_timetable/releases/download/1.2.0/Timetable.Setup.1.2.0.exe
   electron: 2.0.7
   method: src-package-lock
+  name: Timetable
 - id: seapig
   repository: https://github.com/yasumichi/seapig
   website: https://github.com/yasumichi/seapig/blob/master/README.md
@@ -6526,41 +6943,51 @@
     url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-win32-x64-0.8.2.zip
   electron: 6.1.12
   method: src-range-guess
+  name: SeaPig
 - id: sejda-pdf-desktop
   website: https://www.sejda.com/desktop
   aur:
   - sejda-desktop
+  name: Sejda PDF Desktop
 - id: sencha-architect
   website: https://www.sencha.com/products/architect/
   aur:
   - sencha-cmd
   - sencha-cmd-6
+  name: Sencha Architect
 - id: sencha-inspector
   website: https://www.sencha.com/products/inspector/
   aur:
   - sencha-cmd
   - sencha-cmd-6
+  name: Sencha Inspector
 - id: sencha-test
   website: https://www.sencha.com/products/test/
   aur:
   - sencha-cmd
   - sencha-cmd-6
+  name: Sencha Test
 - id: sencha-themer
   website: https://www.sencha.com/products/themer/
   aur:
   - sencha-cmd
   - sencha-cmd-6
+  name: Sencha Themer
 - id: seobrowse
   repository: https://github.com/seobrowse/serp/
   website: https://seobrowse.com/?rel=electron
   latest: 1.3.2
   src: https://github.com/seobrowse/serp/archive/refs/tags/1.3.2.zip
+  name: SEOBrowse
 - id: serene-app
   website: https://sereneapp.com/
+  name: Serene App
 - id: ses
   website: https://github.com/dbilgili/Ses
+  name: Ses
 - id: sftpclient
   website: https://purpleio.uk/client/download
+  name: sFTP Client
 - id: shadowsocks-electron
   repository: https://github.com/nojsja/shadowsocks-electron
   website: https://github.com/nojsja/shadowsocks-electron
@@ -6619,10 +7046,13 @@
     url: https://github.com/nojsja/shadowsocks-electron/releases/download/v1.2.3/Shadowsocks.Electron-1.2.3-mac.zip.blockmap
   electron: 18.0.3
   method: src-yarn-lock
+  name: shadowsocks-electron
 - id: shapespark
   website: https://www.shapespark.com
+  name: Shapespark
 - id: sheepchat
   website: https://sheep.chat
+  name: sheepChat
 - id: shift
   website: https://shift.com
   aur:
@@ -6630,6 +7060,7 @@
   - opc-bin
   - openshift-pipelines-bin
   - shift
+  name: Shift
 - id: shuttle
   repository: https://github.com/ShuttleBrowser/Shuttle
   website: https://github.com/ShuttleBrowser/Shuttle
@@ -6654,6 +7085,7 @@
     url: https://github.com/ShuttleBrowser/Shuttle/releases/download/v3.1.0/Shuttle-Windows.exe
   electron: 4.0.1
   method: src-package-lock
+  name: Shuttle
 - id: signal
   repository: https://github.com/signalapp/Signal-Desktop
   website: https://signal.org
@@ -6666,6 +7098,7 @@
   - signal-desktop-beta-bin
   - signal-desktop-git
   - signal-desktop-system-electron
+  name: Signal
 - id: silex
   repository: https://github.com/silexlabs/silex-desktop/
   website: https://www.silex.me/
@@ -6684,8 +7117,10 @@
   method: src-package-lock
   aur:
   - silex-desktop-bin
+  name: Silex website builder
 - id: simpico
   website: https://simpico.futureglobe.de/
+  name: Simpico
 - id: simple-finder
   repository: https://github.com/seniya/electron-finder-normal
   website: https://github.com/seniya/electron-finder-normal
@@ -6696,6 +7131,7 @@
     url: https://github.com/seniya/electron-finder-normal/releases/download/1.0.0/Simple-Finder.Setup.1.0.0.zip
   electron: 9.3.3
   method: src-package-lock
+  name: Simple-Finder
 - id: simpleinstabot
   repository: https://github.com/mifi/SimpleInstaBot
   website: https://mifi.github.io/SimpleInstaBot/
@@ -6722,6 +7158,7 @@
     url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.12/SimpleInstaBot-win.exe
   electron: 38.8.4
   method: src-yarn-lock
+  name: SimpleInstaBot
 - id: simplenote
   repository: https://github.com/Automattic/simplenote-electron
   website: https://simplenote.com
@@ -6778,10 +7215,13 @@
   method: src-package-lock
   aur:
   - sncli
+  name: Simplenote
 - id: sizzy
   website: https://sizzy.co
+  name: Sizzy
 - id: skype
   website: https://skype.com
+  name: Skype
 - id: slack
   website: https://slack.com
   aur:
@@ -6789,6 +7229,7 @@
   - slack-desktop
   - slack-desktop-wayland
   - slack-electron
+  name: Slack
 - id: sleek
   repository: https://github.com/ransome1/sleek
   website: https://github.com/ransome1/sleek
@@ -6869,8 +7310,10 @@
   method: src-package-lock
   aur:
   - sleek
+  name: sleek
 - id: smallpdf
   website: https://smallpdf.com/desktop
+  name: Smallpdf
 - id: snailfm
   repository: https://github.com/snaildos/SnailFM-Application
   website: https://snaildos.com/snailfm
@@ -6890,8 +7333,10 @@
   electron: 25.2.0
   aur:
   - snailfm-bin
+  name: SnailFM
 - id: snipaway
   website: https://snipaway.futureglobe.de/
+  name: SnipAway
 - id: snipcommand
   repository: https://github.com/gurayyarar/SnipCommand
   website: https://github.com/gurayyarar/SnipCommand
@@ -6906,6 +7351,7 @@
     url: https://github.com/gurayyarar/SnipCommand/releases/download/v0.1.0/SnipCommand-0.1.0.exe
   electron: 9.3.0
   method: src-yarn-lock
+  name: SnipCommand
 - id: snippetstore
   repository: https://github.com/ZeroX-DG/SnippetStore
   website: https://zerox-dg.github.io/SnippetStoreWeb/
@@ -6922,8 +7368,10 @@
     url: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.12/snippetstore_0.2.12_amd64.deb
   electron: 1.8.8
   method: src-package-lock
+  name: Snippet Store
 - id: snowyowl
   website: https://snowyowl.app
+  name: SnowyOwl
 - id: social-amnesia
   repository: https://github.com/Nick-Gottschlich/Social-Amnesia
   website: https://github.com/Nick-Gottschlich/Social-Amnesia
@@ -6940,6 +7388,7 @@
     url: https://github.com/Nick-Gottschlich/Social-Amnesia/releases/download/v2.0.2/social_amnesia_2.0.2_amd64-LINUX.snap
   electron: 7.3.2
   method: src-yarn-lock
+  name: Social Amnesia
 - id: socially
   repository: https://github.com/JackHumphries9/Socially
   website: https://getsocially.app
@@ -6960,14 +7409,18 @@
     url: https://github.com/jackh-sh/Socially/releases/download/V1.0/Socially-Windows_1.0.0-amd64.exe
   electron: 12.0.2
   method: src-package-lock
+  name: Socially
 - id: sofia
   website: https://github.com/TaiStudio/Sofia
+  name: Sofia
 - id: somiibo
   website: https://somiibo.com
+  name: Somiibo
 - id: sononym
   website: https://www.sononym.net
   aur:
   - sononym
+  name: Sononym
 - id: soundboard
   repository: https://github.com/Glecun/soundboard
   website: https://github.com/Glecun/soundboard
@@ -6986,6 +7439,7 @@
     url: https://github.com/Glecun/soundboard/releases/download/v0.0.6/soundboard-Setup-0.0.6.exe.blockmap
   electron: 11.0.1
   method: src-yarn-lock
+  name: Soundboard
 - id: soundnode
   repository: https://github.com/Soundnode/soundnode-app
   website: https://soundnode.github.io/soundnode-website/
@@ -7000,14 +7454,19 @@
     url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-win32-x64.zip
   electron: 1.8.8
   method: src-range-guess
+  name: Soundnode
 - id: source-me
   website: https://github.com/theIYD/source-me
+  name: Source Me
 - id: sparkchess
   website: https://www.sparkchess.com
+  name: SparkChess
 - id: splice
   website: https://splice.com/
+  name: Splice
 - id: sportfx-studio
   website: https://scorestream.com/sportfx
+  name: SportFX Studio
 - id: spotspot
   repository: https://github.com/will-stone/SpotSpot
   website: https://github.com/will-stone/SpotSpot
@@ -7020,8 +7479,10 @@
     url: https://github.com/will-stone/SpotSpot/releases/download/v4.0.2/SpotSpot-darwin-x64-4.0.2.zip
   electron: 8.3.1
   method: src-yarn-lock
+  name: SpotSpot
 - id: spreaker-studio
   website: https://www.spreaker.com/podcast-recording-software
+  name: Spreaker Studio
 - id: sqlectron
   repository: https://github.com/sqlectron/sqlectron-gui
   website: https://sqlectron.github.io
@@ -7066,6 +7527,7 @@
   - sqlectron-gui
   - sqlectron-gui-bin
   - sqlectron-gui-git
+  name: Sqlectron
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
@@ -7096,6 +7558,7 @@
   method: src-package-lock
   aur:
   - sqlui-native-bin
+  name: sqlui-native
 - id: stacker
   repository: https://github.com/enqueuer-land/stacker
   website: https://enqueuer-land.github.io/stacker
@@ -7110,12 +7573,15 @@
     url: https://github.com/enqueuer-land/stacker/releases/download/v0.2.0/stacker.Setup.0.2.0.exe.zip
   electron: 6.1.9
   method: src-package-lock
+  name: stacker
 - id: stacks
   website: https://stacks.rocks
   aur:
   - stacks
+  name: Stacks
 - id: stamp
   website: https://freeyourmusic.com/
+  name: STAMP
 - id: standard-notes
   repository: https://github.com/standardnotes/desktop
   website: https://standardnotes.com
@@ -7209,6 +7675,7 @@
   method: src-yarn-lock
   aur:
   - standardnotes
+  name: Standard Notes
 - id: standup-picker
   repository: https://github.com/Mokkapps/scrum-daily-standup-picker
   website: https://mokkapps.de
@@ -7227,12 +7694,14 @@
     url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/StandupPicker-2.0.0-x64-mac.zip.blockmap
   electron: 16.0.7
   method: src-package-lock
+  name: Standup Picker
 - id: station
   website: https://getstation.com/
   aur:
   - station-bin
   - station-desktop
   - station-desktop-git
+  name: Station
 - id: stay-hydrated
   repository: https://github.com/QuentinGruber/stay-hydrated
   latest: v1.1.0
@@ -7248,8 +7717,10 @@
     url: https://github.com/QuentinGruber/stay-hydrated/releases/download/v1.1.0/win-unpacked.zip
   electron: 9.0.5
   method: src-yarn-lock
+  name: stay-hydrated
 - id: steelseries-engine-3
   website: https://steelseries.com/engine
+  name: SteelSeries Engine 3
 - id: stickynotes
   repository: https://github.com/Playork/StickyNotes
   latest: v0.3.0
@@ -7263,6 +7734,7 @@
     url: https://github.com/Playork/StickyNotes/releases/download/v0.3.0/stickynotes-setup-0.3.0.exe.blockmap
   electron: 4.1.4
   method: src-package-lock
+  name: StickyNotes
 - id: stinker
   repository: https://github.com/PatentLobster/stinker
   website: https://itzik.co
@@ -7279,6 +7751,7 @@
     url: https://github.com/PatentLobster/stinker/releases/download/v0.3.2/Stinker-0.3.2.dmg.blockmap
   electron: 11.4.11
   method: src-yarn-lock
+  name: Stinker
 - id: stockifier
   repository: https://github.com/jainsamyak/Stockifier
   website: https://github.com/jainsamyak/Stockifier
@@ -7291,6 +7764,7 @@
     url: https://github.com/jainsamyak/Stockifier/releases/download/v1.0.0/Stockifier-v1.0.0.Windows10.Setupx64.zip
   electron: 4.1.4
   method: src-package-lock
+  name: Stockifier
 - id: stopawu
   repository: https://github.com/tariibaba/stopawu
   website: https://github.com/tariibaba/stopawu#readme
@@ -7303,13 +7777,16 @@
     url: https://github.com/tariibaba/stopawu/releases/download/v1.0.0/Stopawu-1.0.0-x86.exe
   electron: 16.0.4
   method: src-yarn-lock
+  name: Stopawu
 - id: stoplight
   website: https://stoplight.io
   aur:
   - stoplight-studio-appimage
+  name: StopLight
 - id: storaji
   repository: https://github.com/IndomaximTechId/storaji
   website: https://github.com/IndomaximTechId/storaji
+  name: Storaji
 - id: streambop
   repository: https://github.com/snaildos/StreamBop
   website: https://snaildos.com/streambop
@@ -7331,15 +7808,20 @@
   - fifo-bin
   - fifo-browser-bin
   - snailfm-bin
+  name: StreamBop
 - id: streamlabs-obs
   repository: https://github.com/stream-labs/streamlabs-obs
   website: https://streamlabs.com/streamlabs-obs
+  name: Streamlabs OBS
 - id: streetviewdownload360
   website: https://svd360.istreetview.com
+  name: Street View Download 360
 - id: strimio
   website: https://strimio.com
+  name: Strimio
 - id: studiotrans
   website: https://trans.xinpianchang.com/
+  name: StudioTrans
 - id: studymd
   repository: https://github.com/jotron/StudyMD
   website: https://github.com/jotron/StudyMD
@@ -7366,6 +7848,7 @@
     url: https://github.com/jotron/StudyMD/releases/download/v0.3.2/studymd_0.3.2_amd64.snap
   electron: 1.8.2
   method: src-yarn-lock
+  name: StudyMD
 - id: subordination
   repository: https://github.com/sunabozu/subordination
   website: https://github.com/sunabozu/subordination
@@ -7386,6 +7869,7 @@
     url: https://github.com/sunabozu/subordination/releases/download/v0.1.3/subordination-0.1.3.dmg
   - name: subordination-Setup-0.1.3.exe
     url: https://github.com/sunabozu/subordination/releases/download/v0.1.3/subordination-Setup-0.1.3.exe
+  name: Subordination
 - id: subtitler
   repository: https://github.com/s8sachin/subtitler
   website: https://s8sachin.github.io/subtitler/
@@ -7420,6 +7904,7 @@
   method: src-yarn-lock
   aur:
   - subtitler-bin
+  name: Subtitler
 - id: super-productivity
   repository: https://github.com/johannesjo/super-productivity
   website: https://super-productivity.com/
@@ -7476,12 +7961,15 @@
   - superproductivity
   - superproductivity-bin
   - superproductivity-git
+  name: Super Productivity
 - id: superpowers-html5-2d-3d-game-maker
   website: http://superpowers-html5.com/
   aur:
   - superpowers
+  name: Superpowers — HTML5 2D+3D game maker
 - id: svgsus
   website: http://www.svgs.us
+  name: Svgsus
 - id: swifty
   repository: https://github.com/alchaplinsky/swifty
   website: https://github.com/alchaplinsky/swifty
@@ -7516,8 +8004,10 @@
     url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty_0.6.13_amd64.deb
   electron: 21.2.0
   method: src-yarn-lock
+  name: Swifty
 - id: swit
   website: https://swit.io/
+  name: Swit
 - id: switch
   repository: https://github.com/ahkohd/switch-desktop
   website: https://ahkohd.github.io/switch-desktop
@@ -7542,6 +8032,7 @@
     url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-Setup-1.0.23.exe.blockmap
   electron: 6.0.0
   method: src-package-lock
+  name: Switch
 - id: switchhosts
   repository: https://github.com/oldj/SwitchHosts
   website: https://swh.app
@@ -7572,6 +8063,7 @@
   method: src-package-lock
   aur:
   - switchhosts-bin
+  name: SwitchHosts
 - id: symphony
   repository: https://github.com/symphonyoss/SymphonyElectron
   website: https://symphony.com
@@ -7579,6 +8071,7 @@
   src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v25.11.0.zip
   electron: 39.0.0
   method: src-package-lock
+  name: Symphony
 - id: syng
   repository: https://github.com/sotch-pr35mac/syng
   website: https://syngdict.com/
@@ -7597,11 +8090,13 @@
     url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_x64.app.zip
   - name: Syng.2_0.0.7_x64.dmg
     url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_x64.dmg
+  name: Syng
 - id: system-designer
   repository: https://github.com/design-first/system-designer
   website: https://designfirst.io/systemdesigner/
   latest: v5.4.0
   src: https://github.com/design-first/system-designer/archive/refs/tags/v5.4.0.zip
+  name: System Designer
 - id: tabby
   repository: https://github.com/natixco/tabby
   website: https://github.com/natixco/tabby
@@ -7613,6 +8108,7 @@
   electron: 7.1.7
   aur:
   - tabby
+  name: Tabby
 - id: tabby-terminal
   repository: https://github.com/Eugeny/tabby
   website: https://tabby.sh
@@ -7692,8 +8188,10 @@
   aur:
   - tabby
   - tabby-electron-bin
+  name: Tabby Terminal
 - id: tagflow
   website: https://www.tagflow.ch/
+  name: TagFlow
 - id: tagspaces
   repository: https://github.com/tagspaces/tagspaces
   website: https://www.tagspaces.org/
@@ -7729,11 +8227,13 @@
   aur:
   - tagspaces
   - tagspaces-bin
+  name: TagSpaces
 - id: tagstoo
   repository: https://sourceforge.net/projects/tagstoo/files/Tagstoo__sourcecode/
   website: https://tagstoo.sourceforge.io/
   aur:
   - tagstoo
+  name: Tagstoo
 - id: taskana
   repository: https://github.com/mountainash/taskana
   website: https://mountainash.github.io/taskana/
@@ -7760,10 +8260,13 @@
     url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2.dmg.blockmap
   electron: 35.0.2
   method: src-package-lock
+  name: Taskana
 - id: tea-ebook
   website: https://app.tea-ebook.com
+  name: TEA Ebook
 - id: teleios-bible
   website: https://teleios.bible
+  name: Teleios Bible
 - id: ten-hands
   repository: https://github.com/saisandeepvaddi/ten-hands
   website: https://tenhands.app
@@ -7790,6 +8293,7 @@
   method: src-yarn-lock
   aur:
   - ten-hands-bin
+  name: Ten Hands
 - id: teseve
   repository: https://github.com/teseve/teseve
   website: https://teseve.github.io/
@@ -7800,6 +8304,7 @@
     url: https://github.com/teseve/teseve/releases/download/0.5.3/Teseve-0.5.3-mac-x64.zip
   - name: Teseve-0.5.3-win32-x64.zip
     url: https://github.com/teseve/teseve/releases/download/0.5.3/Teseve-0.5.3-win32-x64.zip
+  name: Tèsèvè
 - id: tess
   repository: https://github.com/SquitchYT/Tess/
   website: https://github.com/SquitchYT/Tess/
@@ -7822,10 +8327,13 @@
     url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess_0.6.3.AppImage
   electron: 17.4.11
   method: src-package-lock
+  name: Tess
 - id: testcafe-studio
   website: https://www.devexpress.com/products/testcafestudio/
+  name: TestCafe Studio
 - id: testrec
   website: https://testrec.com
+  name: Testrec
 - id: texpaste
   repository: https://github.com/jonasmusall/texpaste
   website: https://github.com/jonasmusall/texpaste#readme
@@ -7863,13 +8371,16 @@
     checksum: 6Y7Ep287cKw2ei0lFpwEZZmBwZBhFsidvj7869bSqIWY2kDutjUZNecdvZ8/BuqnDDzy5EJ0AoTAcC4n3Ka+yA==
   electron: 17.0.0
   method: src-package-lock
+  name: texpaste
 - id: the-poker-timer
   website: https://www.thepokertimer.com/
+  name: The Poker Timer
 - id: themebuilder
   repository: https://github.com/wurde/themebuilder
   website: https://github.com/wurde/themebuilder
   latest: v4.0
   src: https://github.com/wurde/themebuilder/archive/refs/tags/v4.0.zip
+  name: themebuilder
 - id: thismypc
   repository: https://github.com/supunlakmal/thismypc
   website: https://github.com/supunlakmal/thismypc
@@ -7877,6 +8388,7 @@
   src: https://github.com/supunlakmal/thismypc/archive/refs/tags/v0.3.4.zip
   electron: 3.1.8
   method: src-package-lock
+  name: ThisMyPC
 - id: thorium-reader
   repository: https://github.com/edrlab/thorium-reader/
   website: https://www.edrlab.org/software/thorium-reader/
@@ -7903,6 +8415,7 @@
   method: src-package-lock
   aur:
   - thorium-reader
+  name: Thorium Reader
 - id: threema-for-desktop
   repository: https://github.com/GeekCornerGH/Threema-For-Desktop
   website: https://github.com/GeekCornerGH/Threema-For-Desktop#readme
@@ -7935,10 +8448,12 @@
     url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-setup-2.5.1.exe.blockmap
   electron: 21.2.2
   method: src-pnpm-lock
+  name: Threema For Desktop
 - id: tidal
   website: https://www.tidal.com
   aur:
   - tidal-hifi-git
+  name: TIDAL
 - id: tidgi
   repository: https://github.com/tiddly-gittly/TidGi-Desktop
   website: https://github.com/tiddly-gittly/TidGi-Desktop
@@ -7963,6 +8478,7 @@
     url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/tidgi_0.12.4_arm64.deb
   electron: 34.0.2
   method: src-pnpm-lock
+  name: TidGi
 - id: tilde
   repository: https://github.com/paologiua/tilde
   website: https://github.com/paologiua/tilde
@@ -7989,12 +8505,16 @@
   method: src-package-lock
   aur:
   - tilde
+  name: Tilde
 - id: tiliq
   website: https://tiliq.com
+  name: Tiliq
 - id: time-zone-converter
   website: https://timezoneconverterapp.com/
+  name: Time Zone Converter and World Clock
 - id: timebuzzer
   website: https://timebuzzer.com/
+  name: timeBuzzer
 - id: timeseriesadmin
   repository: https://github.com/timeseriesadmin/timeseriesadmin
   website: https://timeseriesadmin.github.io
@@ -8009,6 +8529,7 @@
     url: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.13/TimeSeriesAdmin.exe
   electron: 8.4.1
   method: src-package-lock
+  name: Time Series Admin
 - id: tockler
   repository: https://github.com/MayGo/tockler
   website: https://tockler.trimatech.dev/
@@ -8057,6 +8578,7 @@
     url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21.dmg.blockmap
   electron: 16.2.8
   method: src-package-lock
+  name: Tockler
 - id: todo
   repository: https://github.com/luapp/ToDo
   website: https://to-do-tasks-lists.web.app
@@ -8071,6 +8593,7 @@
   method: src-package-lock
   aur:
   - todo
+  name: To Do
 - id: todometer
   repository: https://github.com/cassidoo/todometer/
   website: https://cassidoo.github.io/todometer/
@@ -8088,6 +8611,7 @@
   aur:
   - todometer-bin
   - todometer-git
+  name: todometer
 - id: tofino
   repository: https://github.com/mozilla/tofino
   website: https://github.com/mozilla/tofino
@@ -8106,18 +8630,24 @@
     url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-linux-x64.tar.bz2
   - name: tofino-win32-ia32.exe
     url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-win32-ia32.exe
+  name: Tofino
 - id: tonfotos
   website: https://tonfotos.com/
+  name: tonfotos
 - id: top-browser
   repository: https://bitbucket.org/speedydemon/electron_top_browser/
   website: https://bitbucket.org/speedydemon/electron_top_browser/
+  name: Top Browser
 - id: tough-cookies
   website: https://www.toughcookies.net
+  name: Tough Cookies
 - id: trackabi
   repository: https://github.com/Trackabi/desktop-time-tracking
   website: https://trackabi.com
+  name: Trackabi Time Tracker
 - id: trackingtime
   website: https://trackingtime.co/
+  name: TrackingTime
 - id: transee
   repository: https://github.com/alessioforte/transee
   website: https://alessioforte.github.io/transee/
@@ -8150,15 +8680,19 @@
     url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-Setup-2.1.0.exe.blockmap
   electron: 18.2.0
   method: src-package-lock
+  name: Transee
 - id: translation-editor
   repository: https://bitbucket.org/bflower/react-intl-editor
   website: https://bitbucket.org/bflower/react-intl-editor/wiki/Home
+  name: Translation Editor
 - id: trello
   website: https://trello.com
   aur:
   - trello
+  name: Trello
 - id: trico
   website: https://github.com/ngudbhav/TriCo-electron-app
+  name: TriCo
 - id: trilium-notes
   repository: https://github.com/zadam/trilium
   website: https://github.com/zadam/trilium
@@ -8203,6 +8737,7 @@
     url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-windows-x64.zip
   electron: 40.6.1
   method: src-pnpm-lock
+  name: Trilium Notes
 - id: tropy
   repository: https://github.com/tropy/tropy/
   website: https://tropy.org
@@ -8271,8 +8806,10 @@
   - python-astropy-doc
   - tropy
   - tropy-bin
+  name: Tropy
 - id: trym
   website: https://kontentapps.com/trym
+  name: Trym
 - id: ttth
   repository: https://github.com/yafp/ttth
   website: https://github.com/yafp/ttth
@@ -8305,6 +8842,7 @@
     url: https://github.com/yafp/ttth/releases/download/1.8.0/ttth-1.8.0-win-x64.zip
   electron: 7.1.6
   method: src-package-lock
+  name: ttth
 - id: tunlookup
   repository: https://github.com/thephucit/tunlookup
   website: https://thephucit.github.io/tunlookup/
@@ -8339,6 +8877,7 @@
     url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe
   - name: Tunlookup.Setup.4.2.4.exe.blockmap
     url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe.blockmap
+  name: Tunlookup
 - id: turbo-download-manager
   website: https://add0n.com/turbo-download-manager.html
   aur:
@@ -8346,6 +8885,7 @@
   - firefox-extension-styl-us-bin
   - firefox-stylus
   - open-in-native-client
+  name: Turbo Download Manager
 - id: tusk
   repository: https://github.com/klaudiosinani/tusk
   website: https://klaudiosinani.com/tusk/
@@ -8382,6 +8922,7 @@
   method: src-yarn-lock
   aur:
   - tusk
+  name: Tusk
 - id: tviewer
   repository: https://github.com/msaltnet/T.Viewer
   website: https://github.com/msaltnet/T.Viewer
@@ -8394,10 +8935,13 @@
     url: https://github.com/msaltnet/T.Viewer/releases/download/ver1.2.2/tviewer-setup-1.2.2.exe
   electron: 9.4.0
   method: src-package-lock
+  name: T.Viewer
 - id: tweakstyle
   website: https://tweakstyle.com
+  name: TweakStyle
 - id: tweeten
   website: https://tweetenapp.com/
+  name: Tweeten
 - id: twinkle-tray
   repository: https://github.com/xanderfrangos/twinkle-tray
   website: https://twinkletray.com/
@@ -8408,10 +8952,12 @@
     url: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.17.2/Twinkle.Tray.v1.17.2.exe
   electron: 39.2.7
   method: src-package-lock
+  name: Twinkle Tray
 - id: twitch
   website: https://app.twitch.tv
   aur:
   - twitch
+  name: Twitch
 - id: twittertron
   repository: https://github.com/afractal/twittertron-app
   website: https://afractal.github.io/twittertron-app
@@ -8420,12 +8966,15 @@
   downloads:
   - name: twittertron-setup-win-v1.0.2.exe
     url: https://github.com/afractal/twittertron-app/releases/download/1.0.2/twittertron-setup-win-v1.0.2.exe
+  name: TwitterTron
 - id: typetalk
   website: https://www.typetalk.in
   aur:
   - typetalk
+  name: Typetalk
 - id: tzared
   website: https://tza.red
+  name: Tzared
 - id: ubauth
   repository: https://github.com/chrisenytc/ubauth
   website: http://ubauth.enytc.com
@@ -8434,6 +8983,7 @@
   downloads:
   - name: ubauth-darwin-x64.dmg
     url: https://github.com/chrisenytc/ubauth/releases/download/v1.0.0/ubauth-darwin-x64.dmg
+  name: UbAuth
 - id: ueli
   repository: https://github.com/oliverschwendener/ueli
   website: https://ueli.app
@@ -8496,8 +9046,10 @@
   - ueli
   - ueli-bin
   - ueli-git
+  name: ueli
 - id: umlboard
   website: https://www.umlboard.com
+  name: UMLBoard
 - id: unlimited-clipboard
   repository: https://github.com/morozovsk/unlimited-clipboard.git
   website: https://github.com/morozovsk/unlimited-clipboard
@@ -8512,6 +9064,7 @@
     url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.snap
   electron: 8.5.5
   method: src-range-guess
+  name: clipboard-manager-electron
 - id: unofficial-zalo
   repository: https://github.com/SafeStudio/unofficial-zalo
   website: https://github.com/SafeStudio/unofficial-zalo
@@ -8526,6 +9079,7 @@
     url: https://github.com/safestudio/unofficial-zalo/releases/download/v1.0.7/unofficial-zalo-setup-1.0.7.exe.blockmap
   electron: 5.0.13
   method: src-range-guess
+  name: Unofficial Zalo
 - id: upcount
   repository: https://github.com/madisvain/upcount
   website: https://www.upcount.app
@@ -8554,6 +9108,7 @@
     url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_x64.app.tar.gz
   - name: Upcount_x64.app.tar.gz.sig
     url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_x64.app.tar.gz.sig
+  name: Upcount
 - id: upnotes
   repository: https://github.com/thoughtsunificator/domodel-diary-electron
   website: https://github.com/thoughtsunificator/domodel-diary-electron
@@ -8576,10 +9131,12 @@
     url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary.Setup.1.0.12.exe
   electron: 15.1.1
   method: src-package-lock
+  name: domodel-diary
 - id: utilso
   website: https://utilso.com
   aur:
   - utilso-bin
+  name: Utilso
 - id: vagrant-manager
   repository: https://github.com/absalomedia/vagrant-manager
   website: https://github.com/absalomedia/vagrant-manager
@@ -8614,17 +9171,21 @@
     url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager.zip
   electron: 5.0.7
   method: src-yarn-lock
+  name: Vagrant Manager
 - id: vectr
   website: https://vectr.com/
   aur:
   - vectr
+  name: Vectr
 - id: vershd
   website: https://vershd.io
+  name: Vershd
 - id: vikunja
   repository: https://code.vikunja.io/desktop
   website: https://vikunja.cloud/
   aur:
   - vikunja
+  name: Vikunja
 - id: visual-family-tree
   repository: https://github.com/Jisco/VisualFamilyTree
   website: https://jisco.me/VisualFamilyTree
@@ -8649,6 +9210,7 @@
     url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.zip
   aur:
   - visualfamilytree-bin
+  name: Visual Family Tree
 - id: visual-studio-code
   website: https://code.visualstudio.com
   aur:
@@ -8658,10 +9220,13 @@
   - visual-studio-code-electron-bin
   - visual-studio-code-insiders-bin
   - visual-studio-code-live-bin
+  name: Visual Studio Code
 - id: voipstudio
   website: https://voipstudio.com
+  name: VoIPstudio
 - id: vrap
   website: https://www.airpano.com/vrap.php?set_language=2
+  name: Vrap
 - id: vue-calc
   repository: https://github.com/el3um4s/vue-calc
   website: https://github.com/el3um4s/vue-calc
@@ -8678,9 +9243,11 @@
     url: https://github.com/el3um4s/vue-calc/releases/download/v0.18.04.15/vue-calc-x86_64.AppImage
   electron: 1.8.3
   method: src-package-lock
+  name: Vue Calc
 - id: vupc
   repository: https://github.com/machester4/vupc
   website: https://github.com/machester4/vupc
+  name: VuPC
 - id: wail
   repository: https://github.com/N0taN3rd/wail
   website: https://github.com/N0taN3rd/wail
@@ -8697,12 +9264,16 @@
     url: https://github.com/N0taN3rd/wail/releases/download/1.1.0/WAIL.dmg
   electron: 1.7.3
   method: src-yarn-lock
+  name: WAIL
 - id: waiterio-restaurant-pos
   website: https://www.waiterio.com
+  name: Waiterio Restaurant POS
 - id: wakefy
   website: https://wakefy.com/
+  name: Wakefy
 - id: walling
   website: https://walling.app
+  name: Walling
 - id: wanna-class
   repository: https://github.com/MissterHao/WannaClass
   website: https://github.com/MissterHao/WannaClass
@@ -8713,13 +9284,16 @@
     url: https://github.com/MissterHao/WannaClass/releases/download/v1.0.0/Wanna.Class.1.0.0.exe
   electron: 12.2.3
   method: src-range-guess
+  name: Wanna Class
 - id: waqt
   repository: https://github.com/arafatamim/waqt
   website: https://github.com/arafatamim/waqt
   latest: v1.0.2
   src: https://github.com/arafatamim/waqt/archive/refs/tags/v1.0.2.zip
+  name: Waqt
 - id: wayward
   website: http://www.waywardgame.com/
+  name: Wayward
 - id: wdos
   repository: https://github.com/Webdeskme/wdOS/releases
   website: https://www.webdesk.me/
@@ -8740,17 +9314,21 @@
     url: https://github.com/Webdeskme/wdOS/releases/download/v1.1.2/WebDesktop-1.1.2.AppImage
   electron: 5.0.11
   method: src-package-lock
+  name: wdOS
 - id: web-toolbox
   repository: https://github.com/amwebexpert/etoolbox
   website: https://github.com/amwebexpert/etoolbox
   latest: v4.3.0
   src: https://github.com/amwebexpert/etoolbox/archive/refs/tags/v4.3.0.zip
+  name: Web Toolbox
 - id: webcatalog
   website: https://webcatalog.io
   aur:
   - webcatalog-bin
+  name: WebCatalog
 - id: webkiosk-wrapper
   website: https://github.com/ngudbhav/Webkiosk-Wrapper
+  name: Webkiosk-Wrapper
 - id: webkitty
   repository: https://github.com/yikuansun/webkitty
   website: https://yikuansun.github.io/dartfling/product.html?pid=3
@@ -8765,6 +9343,7 @@
     url: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty.Setup.3.2.1.exe
   electron: 17.4.11
   method: src-range-guess
+  name: WebKitty
 - id: webtorrent
   repository: https://github.com/webtorrent/webtorrent-desktop
   website: https://webtorrent.io/
@@ -8802,12 +9381,15 @@
   - webtorrent-desktop
   - webtorrent-desktop-bin
   - webtorrent-desktop-git
+  name: WebTorrent
 - id: weektodo
   website: https://weektodo.me
   aur:
   - weektodo-bin
+  name: WeekToDo
 - id: weighthub
   website: https://www.weemple.com/weighthub
+  name: WeightHub
 - id: weltenschaft
   repository: https://github.com/HoubkneghteS/Weltenschaft
   website: https://github.com/HoubkneghteS/Weltenschaft
@@ -8818,6 +9400,7 @@
     url: https://github.com/HoubkneghteS/Weltenschaft/releases/download/v0.4.2/Weltenschaft.0.4.2.zip
   electron: 9.4.4
   method: src-range-guess
+  name: Weltenschaft
 - id: wexond
   repository: https://github.com/wexond/wexond
   latest: v5.2.0
@@ -8851,6 +9434,7 @@
     url: https://github.com/wexond/browser-base/releases/download/v5.2.0/wexond_5.2.0_amd64.deb
   electron: 11.2.3
   method: src-yarn-lock
+  name: Wexond
 - id: whale
   repository: https://github.com/1000ch/whale
   website: https://github.com/1000ch/whale
@@ -8887,13 +9471,17 @@
   method: src-package-lock
   aur:
   - whale
+  name: Whale
 - id: whatsapp
   website: https://www.whatsapp.com
+  name: WhatsApp
 - id: wildlink
   website: https://www.wildlink.me/
+  name: Wildlink
 - id: winds
   repository: https://github.com/getstream/winds
   website: https://getstream.io
+  name: winds.yml
 - id: wire
   repository: https://github.com/wireapp
   website: https://wire.com
@@ -8903,6 +9491,7 @@
   - muwire
   - muwire-git
   - wire-desktop-git
+  name: Wire
 - id: wizard-mirror
   repository: https://www.github.com/Sanjit1/WizardMirror
   website: https://github.com/Sanjit1/WizardMirror#wizard-mirror
@@ -8910,6 +9499,7 @@
   src: https://github.com/Sanjit1/WizardMirror/archive/refs/tags/1.0.zip
   electron: 6.0.0
   method: src-package-lock
+  name: WizardMirror
 - id: wnr
   repository: https://github.com/RoderickQiu/wnr
   website: https://getwnr.com/
@@ -8934,12 +9524,16 @@
   method: src-yarn-lock
   aur:
   - wnr-bin
+  name: wnr
 - id: wordofthehour
   website: https://wordofthehour.org/desktopapp.html
+  name: WordofTheHour
 - id: wordpress
   website: https://desktop.wordpress.com
+  name: WordPress
 - id: workpuls
   website: https://www.workpuls.com/
+  name: WorkPuls
 - id: worksheets-data-studio
   repository: https://github.com/FalconSoft/worksheets-data.studio
   website: https://worksheet.systems/
@@ -8948,6 +9542,7 @@
   downloads:
   - name: WORKSHEETS.Data.Studio.exe
     url: https://github.com/FalconSoft/worksheets-data.studio/releases/download/v3.2.2/WORKSHEETS.Data.Studio.exe
+  name: WORKSHEETS Data Studio
 - id: wow-stat
   repository: https://github.com/arzynik/wowstat
   website: https://github.com/arzynik/wowstat
@@ -8958,13 +9553,16 @@
     url: https://github.com/spacedevin/wowstat/releases/download/3.0.5/WoWStat-mac-3.0.5.dmg
   - name: WoWStat-win-3.0.5.exe
     url: https://github.com/spacedevin/wowstat/releases/download/3.0.5/WoWStat-win-3.0.5.exe
+  name: WoW Stat
 - id: writebar
   repository: https://github.com/alexander-shvets/writebar
   website: https://writebar.js.org
+  name: WriteBar
 - id: xuanxuan
   website: https://xuanim.com/
   aur:
   - xuanxuan-bin
+  name: Xuanxuan IM
 - id: y2mp3
   repository: https://github.com/moshfeu/y2mp3
   website: https://github.com/moshfeu/y2mp3
@@ -9001,6 +9599,7 @@
     url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-Setup-3.0.1.exe.blockmap
   electron: 17.4.11
   method: src-yarn-lock
+  name: y2mp3
 - id: yet-another-gitbook-reader
   repository: https://github.com/gnu4cn/gitbook-reader-app
   website: https://github.com/gnu4cn/gitbook-reader-app
@@ -9011,10 +9610,13 @@
     url: https://github.com/gnu4cn/gitbook-reader-app/releases/download/v0.8.8/Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
   electron: 10.4.7
   method: src-range-guess
+  name: Yet-Another-Gitbook-Reader
 - id: yoheim
   website: https://www.yoheim.com
+  name: Yoheim
 - id: yout
   website: https://youtplayer.github.io/
+  name: Yout
 - id: youtube-music-desktop-app
   repository: https://github.com/adlerluiz/ytmdesktop
   website: https://ytmdesktop.app
@@ -9054,6 +9656,7 @@
   method: src-yarn-lock
   aur:
   - ytmdesktop-bin
+  name: YTMDesktop App
 - id: youtube-music-for-desktop
   repository: https://github.com/Venipa/ytmdesktop2
   website: https://youtube-music.app/
@@ -9098,6 +9701,7 @@
   method: src-pnpm-lock
   aur:
   - youtube-music-for-desktop-bin
+  name: Youtube Music for Desktop (Unofficial)
 - id: zefenify
   repository: https://github.com/Zefenify/Wolf-Cola
   website: https://zefenify.com/about.html
@@ -9106,14 +9710,18 @@
   downloads:
   - name: Zefenify-v2.3-macOS.zip
     url: https://github.com/zefenify/Wolf-Cola/releases/download/v2.3/Zefenify-v2.3-macOS.zip
+  name: Zefenify
 - id: zello
   website: https://zello.com/solutions/dispatch-a-fleet/
+  name: Zello
 - id: zeplin
   website: https://zeplin.io
+  name: Zeplin
 - id: zerabase
   website: https://www.documize.com/zerabase
   aur:
   - documize-community-bin
+  name: Zerabase
 - id: zettlr
   repository: https://github.com/zettlr/zettlr
   website: https://www.zettlr.com/
@@ -9153,6 +9761,7 @@
   method: src-yarn-lock
   aur:
   - zettlr-git
+  name: Zettlr
 - id: znote
   repository: https://github.com/alagrede/znote-app
   website: https://znote.io
@@ -9193,6 +9802,7 @@
     url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-Setup-3.6.11.exe.blockmap
   aur:
   - znote-bin
+  name: Znote
 - id: zonote
   repository: https://github.com/zonetti/zonote
   website: https://github.com/zonetti/zonote
@@ -9207,8 +9817,10 @@
     url: https://github.com/zonetti/zonote/releases/download/v0.4.4/zonote-win.zip
   electron: 9.4.4
   method: src-package-lock
+  name: zonote
 - id: zoommy
   website: https://zoommyapp.com/
+  name: Zoommy
 - id: zulip
   repository: https://github.com/zulip/zulip-desktop
   website: https://zulip.com/
@@ -9266,3 +9878,4 @@
   aur:
   - zulip-desktop-electron
   - zulip-desktop-git
+  name: Zulip
