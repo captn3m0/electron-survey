@@ -442,51 +442,51 @@
 - id: blockbench
   repository: https://github.com/JannisX11/blockbench
   website: https://blockbench.net/
-  latest: v5.1.0
-  src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.0.zip
+  latest: v5.1.1
+  src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.1.zip
   downloads:
-  - name: Blockbench_5.1.0.AppImage
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_5.1.0.AppImage
-  - name: Blockbench_5.1.0.deb
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_5.1.0.deb
-  - name: Blockbench_5.1.0.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_5.1.0.exe
-  - name: Blockbench_5.1.0.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_5.1.0.exe.blockmap
-  - name: Blockbench_5.1.0.rpm
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_5.1.0.rpm
-  - name: Blockbench_5.1.0_portable.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_5.1.0_portable.exe
-  - name: Blockbench_arm64_5.1.0.dmg
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_arm64_5.1.0.dmg
-  - name: Blockbench_arm64_5.1.0.dmg.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_arm64_5.1.0.dmg.blockmap
-  - name: Blockbench_arm64_5.1.0.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_arm64_5.1.0.exe
-  - name: Blockbench_arm64_5.1.0.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_arm64_5.1.0.exe.blockmap
-  - name: Blockbench_arm64_5.1.0.zip
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_arm64_5.1.0.zip
-  - name: Blockbench_arm64_5.1.0.zip.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_arm64_5.1.0.zip.blockmap
-  - name: Blockbench_x64_5.1.0.dmg
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_x64_5.1.0.dmg
-  - name: Blockbench_x64_5.1.0.dmg.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_x64_5.1.0.dmg.blockmap
-  - name: Blockbench_x64_5.1.0.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_x64_5.1.0.exe
-  - name: Blockbench_x64_5.1.0.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_x64_5.1.0.exe.blockmap
-  - name: Blockbench_x64_5.1.0.zip
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_x64_5.1.0.zip
-  - name: Blockbench_x64_5.1.0.zip.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/Blockbench_x64_5.1.0.zip.blockmap
+  - name: Blockbench_5.1.1.AppImage
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.AppImage
+  - name: Blockbench_5.1.1.deb
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.deb
+  - name: Blockbench_5.1.1.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.exe
+  - name: Blockbench_5.1.1.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.exe.blockmap
+  - name: Blockbench_5.1.1.rpm
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.rpm
+  - name: Blockbench_5.1.1_portable.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1_portable.exe
+  - name: Blockbench_arm64_5.1.1.dmg
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.dmg
+  - name: Blockbench_arm64_5.1.1.dmg.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.dmg.blockmap
+  - name: Blockbench_arm64_5.1.1.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.exe
+  - name: Blockbench_arm64_5.1.1.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.exe.blockmap
+  - name: Blockbench_arm64_5.1.1.zip
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.zip
+  - name: Blockbench_arm64_5.1.1.zip.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.zip.blockmap
+  - name: Blockbench_x64_5.1.1.dmg
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.dmg
+  - name: Blockbench_x64_5.1.1.dmg.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.dmg.blockmap
+  - name: Blockbench_x64_5.1.1.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.exe
+  - name: Blockbench_x64_5.1.1.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.exe.blockmap
+  - name: Blockbench_x64_5.1.1.zip
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.zip
+  - name: Blockbench_x64_5.1.1.zip.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.zip.blockmap
   - name: latest-linux.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/latest-linux.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/latest-mac.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.0/latest.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/latest.yml
   electron: 40.8.3
   method: src-package-lock
   aur:
@@ -1101,137 +1101,137 @@
 - id: dbgate
   repository: https://github.com/dbgate/dbgate
   website: https://dbgate.org
-  latest: v7.1.4
-  src: https://github.com/dbgate/dbgate/archive/refs/tags/v7.1.4.zip
+  latest: v7.1.5
+  src: https://github.com/dbgate/dbgate/archive/refs/tags/v7.1.5.zip
   downloads:
   - name: cloud-build.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/cloud-build.zip
-  - name: dbgate-7.1.4-linux_amd64.deb
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-linux_amd64.deb
-  - name: dbgate-7.1.4-linux_arm64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-linux_arm64.AppImage
-  - name: dbgate-7.1.4-linux_x64.tar.gz
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-linux_x64.tar.gz
-  - name: dbgate-7.1.4-linux_x86_64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-linux_x86_64.AppImage
-  - name: dbgate-7.1.4-mac_arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_arm64.dmg
-  - name: dbgate-7.1.4-mac_arm64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_arm64.dmg.blockmap
-  - name: dbgate-7.1.4-mac_arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_arm64.zip
-  - name: dbgate-7.1.4-mac_arm64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_arm64.zip.blockmap
-  - name: dbgate-7.1.4-mac_universal.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_universal.dmg
-  - name: dbgate-7.1.4-mac_universal.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_universal.dmg.blockmap
-  - name: dbgate-7.1.4-mac_universal.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_universal.zip
-  - name: dbgate-7.1.4-mac_universal.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_universal.zip.blockmap
-  - name: dbgate-7.1.4-mac_x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_x64.dmg
-  - name: dbgate-7.1.4-mac_x64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_x64.dmg.blockmap
-  - name: dbgate-7.1.4-mac_x64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_x64.zip
-  - name: dbgate-7.1.4-mac_x64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-mac_x64.zip.blockmap
-  - name: dbgate-7.1.4-win.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win.exe
-  - name: dbgate-7.1.4-win.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win.exe.blockmap
-  - name: dbgate-7.1.4-win_arm64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win_arm64.exe
-  - name: dbgate-7.1.4-win_arm64.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win_arm64.exe.blockmap
-  - name: dbgate-7.1.4-win_arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win_arm64.zip
-  - name: dbgate-7.1.4-win_x64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win_x64.exe
-  - name: dbgate-7.1.4-win_x64.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win_x64.exe.blockmap
-  - name: dbgate-7.1.4-win_x64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-7.1.4-win_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/cloud-build.zip
+  - name: dbgate-7.1.5-linux_amd64.deb
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_amd64.deb
+  - name: dbgate-7.1.5-linux_arm64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_arm64.AppImage
+  - name: dbgate-7.1.5-linux_x64.tar.gz
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_x64.tar.gz
+  - name: dbgate-7.1.5-linux_x86_64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_x86_64.AppImage
+  - name: dbgate-7.1.5-mac_arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.dmg
+  - name: dbgate-7.1.5-mac_arm64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.dmg.blockmap
+  - name: dbgate-7.1.5-mac_arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.zip
+  - name: dbgate-7.1.5-mac_arm64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.zip.blockmap
+  - name: dbgate-7.1.5-mac_universal.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.dmg
+  - name: dbgate-7.1.5-mac_universal.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.dmg.blockmap
+  - name: dbgate-7.1.5-mac_universal.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.zip
+  - name: dbgate-7.1.5-mac_universal.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.zip.blockmap
+  - name: dbgate-7.1.5-mac_x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.dmg
+  - name: dbgate-7.1.5-mac_x64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.dmg.blockmap
+  - name: dbgate-7.1.5-mac_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.zip
+  - name: dbgate-7.1.5-mac_x64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.zip.blockmap
+  - name: dbgate-7.1.5-win.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win.exe
+  - name: dbgate-7.1.5-win.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win.exe.blockmap
+  - name: dbgate-7.1.5-win_arm64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_arm64.exe
+  - name: dbgate-7.1.5-win_arm64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_arm64.exe.blockmap
+  - name: dbgate-7.1.5-win_arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_arm64.zip
+  - name: dbgate-7.1.5-win_x64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_x64.exe
+  - name: dbgate-7.1.5-win_x64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_x64.exe.blockmap
+  - name: dbgate-7.1.5-win_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_x64.zip
   - name: dbgate-latest-arm64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest-arm64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest-arm64.AppImage
   - name: dbgate-latest-arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest-arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest-arm64.dmg
   - name: dbgate-latest-x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest-x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest-x64.dmg
   - name: dbgate-latest.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.AppImage
   - name: dbgate-latest.deb
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest.deb
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.deb
   - name: dbgate-latest.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.dmg
   - name: dbgate-latest.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.exe
   - name: dbgate-latest.snap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-latest.snap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.snap
   - name: dbgate-pad.xml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-pad.xml
-  - name: dbgate-premium-7.1.4-linux_x86_64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-linux_x86_64.AppImage
-  - name: dbgate-premium-7.1.4-mac_arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_arm64.dmg
-  - name: dbgate-premium-7.1.4-mac_arm64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_arm64.dmg.blockmap
-  - name: dbgate-premium-7.1.4-mac_arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_arm64.zip
-  - name: dbgate-premium-7.1.4-mac_arm64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_arm64.zip.blockmap
-  - name: dbgate-premium-7.1.4-mac_universal.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_universal.dmg
-  - name: dbgate-premium-7.1.4-mac_universal.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_universal.dmg.blockmap
-  - name: dbgate-premium-7.1.4-mac_universal.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_universal.zip
-  - name: dbgate-premium-7.1.4-mac_universal.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_universal.zip.blockmap
-  - name: dbgate-premium-7.1.4-mac_x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_x64.dmg
-  - name: dbgate-premium-7.1.4-mac_x64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_x64.dmg.blockmap
-  - name: dbgate-premium-7.1.4-mac_x64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_x64.zip
-  - name: dbgate-premium-7.1.4-mac_x64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-mac_x64.zip.blockmap
-  - name: dbgate-premium-7.1.4-win_x64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-win_x64.exe
-  - name: dbgate-premium-7.1.4-win_x64.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-7.1.4-win_x64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-pad.xml
+  - name: dbgate-premium-7.1.5-linux_x86_64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-linux_x86_64.AppImage
+  - name: dbgate-premium-7.1.5-mac_arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.dmg
+  - name: dbgate-premium-7.1.5-mac_arm64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.dmg.blockmap
+  - name: dbgate-premium-7.1.5-mac_arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.zip
+  - name: dbgate-premium-7.1.5-mac_arm64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.zip.blockmap
+  - name: dbgate-premium-7.1.5-mac_universal.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.dmg
+  - name: dbgate-premium-7.1.5-mac_universal.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.dmg.blockmap
+  - name: dbgate-premium-7.1.5-mac_universal.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.zip
+  - name: dbgate-premium-7.1.5-mac_universal.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.zip.blockmap
+  - name: dbgate-premium-7.1.5-mac_x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.dmg
+  - name: dbgate-premium-7.1.5-mac_x64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.dmg.blockmap
+  - name: dbgate-premium-7.1.5-mac_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.zip
+  - name: dbgate-premium-7.1.5-mac_x64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.zip.blockmap
+  - name: dbgate-premium-7.1.5-win_x64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-win_x64.exe
+  - name: dbgate-premium-7.1.5-win_x64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-win_x64.exe.blockmap
   - name: dbgate-premium-latest-arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-latest-arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest-arm64.dmg
   - name: dbgate-premium-latest-x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-latest-x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest-x64.dmg
   - name: dbgate-premium-latest.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-latest.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest.AppImage
   - name: dbgate-premium-latest.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-latest.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest.dmg
   - name: dbgate-premium-latest.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-premium-latest.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest.exe
   - name: dbgate-windows-latest-arm64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-windows-latest-arm64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-windows-latest-arm64.exe
   - name: dbgate-windows-latest-arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-windows-latest-arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-windows-latest-arm64.zip
   - name: dbgate-windows-latest.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/dbgate-windows-latest.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-windows-latest.zip
   - name: latest-linux-arm64.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/latest-linux-arm64.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/latest-linux.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/latest-mac.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/latest.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest.yml
   - name: premium-linux.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/premium-linux.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/premium-linux.yml
   - name: premium-mac.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/premium-mac.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/premium-mac.yml
   - name: premium.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.4/premium.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/premium.yml
   electron: 38.6.0
   method: src-yarn-lock
   aur:
@@ -3745,29 +3745,29 @@
 - id: laradumps
   repository: https://github.com/laradumps/app
   website: https://laradumps.dev
-  latest: v4.11.4
-  src: https://github.com/laradumps/app/archive/refs/tags/v4.11.4.zip
+  latest: v4.12.0
+  src: https://github.com/laradumps/app/archive/refs/tags/v4.12.0.zip
   downloads:
-  - name: LaraDumps-4.11.4-universal-mac.zip
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-4.11.4-universal-mac.zip
-  - name: LaraDumps-4.11.4-universal-mac.zip.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-4.11.4-universal-mac.zip.blockmap
-  - name: LaraDumps-4.11.4-universal.dmg
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-4.11.4-universal.dmg
-  - name: LaraDumps-4.11.4-universal.dmg.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-4.11.4-universal.dmg.blockmap
-  - name: LaraDumps-4.11.4.AppImage
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-4.11.4.AppImage
-  - name: LaraDumps-Setup-4.11.4.exe
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-Setup-4.11.4.exe
-  - name: LaraDumps-Setup-4.11.4.exe.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/LaraDumps-Setup-4.11.4.exe.blockmap
+  - name: LaraDumps-4.12.0-universal-mac.zip
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-4.12.0-universal-mac.zip
+  - name: LaraDumps-4.12.0-universal-mac.zip.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-4.12.0-universal-mac.zip.blockmap
+  - name: LaraDumps-4.12.0-universal.dmg
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-4.12.0-universal.dmg
+  - name: LaraDumps-4.12.0-universal.dmg.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-4.12.0-universal.dmg.blockmap
+  - name: LaraDumps-4.12.0.AppImage
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-4.12.0.AppImage
+  - name: LaraDumps-Setup-4.12.0.exe
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-Setup-4.12.0.exe
+  - name: LaraDumps-Setup-4.12.0.exe.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/LaraDumps-Setup-4.12.0.exe.blockmap
   - name: latest-linux.yml
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/latest-linux.yml
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/latest-mac.yml
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/laradumps/app/releases/download/v4.11.4/latest.yml
+    url: https://github.com/laradumps/app/releases/download/v4.12.0/latest.yml
   electron: 38.1.0
   aur:
   - laradumps-bin
@@ -5311,45 +5311,45 @@
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
-  latest: player@1.26.0
-  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.26.0.zip
+  latest: player@1.27.0
+  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.27.0.zip
   downloads:
   - name: latest.json
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/latest.json
-  - name: Nuclear-1.26.0-1.x86_64.rpm
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear-1.26.0-1.x86_64.rpm
-  - name: Nuclear-1.26.0-1.x86_64.rpm.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear-1.26.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/latest.json
+  - name: Nuclear-1.27.0-1.x86_64.rpm
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear-1.27.0-1.x86_64.rpm
+  - name: Nuclear-1.27.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear-1.27.0-1.x86_64.rpm.sig
   - name: nuclear-music-player.flatpak
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/nuclear-music-player.flatpak
-  - name: Nuclear_1.26.0_aarch64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_aarch64.dmg
-  - name: Nuclear_1.26.0_amd64.AppImage
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_amd64.AppImage
-  - name: Nuclear_1.26.0_amd64.AppImage.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_amd64.AppImage.sig
-  - name: Nuclear_1.26.0_amd64.deb
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_amd64.deb
-  - name: Nuclear_1.26.0_amd64.deb.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_amd64.deb.sig
-  - name: Nuclear_1.26.0_x64-setup.exe
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_x64-setup.exe
-  - name: Nuclear_1.26.0_x64-setup.exe.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_x64-setup.exe.sig
-  - name: Nuclear_1.26.0_x64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_x64.dmg
-  - name: Nuclear_1.26.0_x64_en-US.msi
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_x64_en-US.msi
-  - name: Nuclear_1.26.0_x64_en-US.msi.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_1.26.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/nuclear-music-player.flatpak
+  - name: Nuclear_1.27.0_aarch64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_aarch64.dmg
+  - name: Nuclear_1.27.0_amd64.AppImage
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.AppImage
+  - name: Nuclear_1.27.0_amd64.AppImage.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.AppImage.sig
+  - name: Nuclear_1.27.0_amd64.deb
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.deb
+  - name: Nuclear_1.27.0_amd64.deb.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.deb.sig
+  - name: Nuclear_1.27.0_x64-setup.exe
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64-setup.exe
+  - name: Nuclear_1.27.0_x64-setup.exe.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64-setup.exe.sig
+  - name: Nuclear_1.27.0_x64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64.dmg
+  - name: Nuclear_1.27.0_x64_en-US.msi
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64_en-US.msi
+  - name: Nuclear_1.27.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64_en-US.msi.sig
   - name: Nuclear_aarch64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_aarch64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_aarch64.app.tar.gz
   - name: Nuclear_aarch64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_aarch64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_aarch64.app.tar.gz.sig
   - name: Nuclear_x64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_x64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_x64.app.tar.gz
   - name: Nuclear_x64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.26.0/Nuclear_x64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_x64.app.tar.gz.sig
   aur:
   - nuclear-player
   - nuclear-player-bin
@@ -5527,70 +5527,70 @@
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
-  latest: v2026.4.103
-  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.103.zip
+  latest: v2026.4.104
+  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.104.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/latest-linux-arm.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/latest-linux.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/latest-mac.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/latest.yml
-  - name: P3X-OneNote-2026.4.103-aarch64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-aarch64.flatpak
-  - name: P3X-OneNote-2026.4.103-arm64-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-arm64-mac.zip
-  - name: P3X-OneNote-2026.4.103-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-arm64-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.103-arm64.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-arm64.AppImage
-  - name: P3X-OneNote-2026.4.103-arm64.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-arm64.dmg
-  - name: P3X-OneNote-2026.4.103-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-arm64.dmg.blockmap
-  - name: P3X-OneNote-2026.4.103-armv7l.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-armv7l.AppImage
-  - name: P3X-OneNote-2026.4.103-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-mac.zip
-  - name: P3X-OneNote-2026.4.103-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.103-universal-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-universal-mac.zip
-  - name: P3X-OneNote-2026.4.103-universal-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-universal-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.103-universal.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-universal.dmg
-  - name: P3X-OneNote-2026.4.103-universal.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-universal.dmg.blockmap
-  - name: P3X-OneNote-2026.4.103-x86_64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103-x86_64.flatpak
-  - name: p3x-onenote-2026.4.103.aarch64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/p3x-onenote-2026.4.103.aarch64.rpm
-  - name: P3X-OneNote-2026.4.103.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103.AppImage
-  - name: p3x-onenote-2026.4.103.armv7l.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/p3x-onenote-2026.4.103.armv7l.rpm
-  - name: P3X-OneNote-2026.4.103.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103.dmg
-  - name: P3X-OneNote-2026.4.103.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-2026.4.103.dmg.blockmap
-  - name: p3x-onenote-2026.4.103.x86_64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/p3x-onenote-2026.4.103.x86_64.rpm
-  - name: P3X-OneNote-Setup-2026.4.103.exe
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-Setup-2026.4.103.exe
-  - name: P3X-OneNote-Setup-2026.4.103.exe.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/P3X-OneNote-Setup-2026.4.103.exe.blockmap
-  - name: p3x-onenote_2026.4.103_amd64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/p3x-onenote_2026.4.103_amd64.deb
-  - name: p3x-onenote_2026.4.103_arm64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/p3x-onenote_2026.4.103_arm64.deb
-  - name: p3x-onenote_2026.4.103_armv7l.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.103/p3x-onenote_2026.4.103_armv7l.deb
-  electron: 41.0.2
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest.yml
+  - name: P3X-OneNote-2026.4.104-aarch64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-aarch64.flatpak
+  - name: P3X-OneNote-2026.4.104-arm64-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64-mac.zip
+  - name: P3X-OneNote-2026.4.104-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.104-arm64.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64.AppImage
+  - name: P3X-OneNote-2026.4.104-arm64.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64.dmg
+  - name: P3X-OneNote-2026.4.104-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64.dmg.blockmap
+  - name: P3X-OneNote-2026.4.104-armv7l.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-armv7l.AppImage
+  - name: P3X-OneNote-2026.4.104-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-mac.zip
+  - name: P3X-OneNote-2026.4.104-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.104-universal-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal-mac.zip
+  - name: P3X-OneNote-2026.4.104-universal-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.104-universal.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal.dmg
+  - name: P3X-OneNote-2026.4.104-universal.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal.dmg.blockmap
+  - name: P3X-OneNote-2026.4.104-x86_64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-x86_64.flatpak
+  - name: p3x-onenote-2026.4.104.aarch64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote-2026.4.104.aarch64.rpm
+  - name: P3X-OneNote-2026.4.104.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104.AppImage
+  - name: p3x-onenote-2026.4.104.armv7l.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote-2026.4.104.armv7l.rpm
+  - name: P3X-OneNote-2026.4.104.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104.dmg
+  - name: P3X-OneNote-2026.4.104.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104.dmg.blockmap
+  - name: p3x-onenote-2026.4.104.x86_64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote-2026.4.104.x86_64.rpm
+  - name: P3X-OneNote-Setup-2026.4.104.exe
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-Setup-2026.4.104.exe
+  - name: P3X-OneNote-Setup-2026.4.104.exe.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-Setup-2026.4.104.exe.blockmap
+  - name: p3x-onenote_2026.4.104_amd64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote_2026.4.104_amd64.deb
+  - name: p3x-onenote_2026.4.104_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote_2026.4.104_arm64.deb
+  - name: p3x-onenote_2026.4.104_armv7l.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote_2026.4.104_armv7l.deb
+  electron: 41.0.4
   method: src-yarn-lock
   aur:
   - p3x-onenote-bin
@@ -7093,8 +7093,8 @@
 - id: signal
   repository: https://github.com/signalapp/Signal-Desktop
   website: https://signal.org
-  latest: v8.3.0
-  src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.3.0.zip
+  latest: v8.4.0
+  src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.4.0.zip
   electron: 23.3.13
   method: src-pnpm-lock
   aur:
