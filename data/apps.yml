@@ -1101,137 +1101,137 @@
 - id: dbgate
   repository: https://github.com/dbgate/dbgate
   website: https://dbgate.org
-  latest: v7.1.5
-  src: https://github.com/dbgate/dbgate/archive/refs/tags/v7.1.5.zip
+  latest: v7.1.6
+  src: https://github.com/dbgate/dbgate/archive/refs/tags/v7.1.6.zip
   downloads:
   - name: cloud-build.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/cloud-build.zip
-  - name: dbgate-7.1.5-linux_amd64.deb
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_amd64.deb
-  - name: dbgate-7.1.5-linux_arm64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_arm64.AppImage
-  - name: dbgate-7.1.5-linux_x64.tar.gz
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_x64.tar.gz
-  - name: dbgate-7.1.5-linux_x86_64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-linux_x86_64.AppImage
-  - name: dbgate-7.1.5-mac_arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.dmg
-  - name: dbgate-7.1.5-mac_arm64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.dmg.blockmap
-  - name: dbgate-7.1.5-mac_arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.zip
-  - name: dbgate-7.1.5-mac_arm64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_arm64.zip.blockmap
-  - name: dbgate-7.1.5-mac_universal.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.dmg
-  - name: dbgate-7.1.5-mac_universal.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.dmg.blockmap
-  - name: dbgate-7.1.5-mac_universal.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.zip
-  - name: dbgate-7.1.5-mac_universal.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_universal.zip.blockmap
-  - name: dbgate-7.1.5-mac_x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.dmg
-  - name: dbgate-7.1.5-mac_x64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.dmg.blockmap
-  - name: dbgate-7.1.5-mac_x64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.zip
-  - name: dbgate-7.1.5-mac_x64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-mac_x64.zip.blockmap
-  - name: dbgate-7.1.5-win.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win.exe
-  - name: dbgate-7.1.5-win.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win.exe.blockmap
-  - name: dbgate-7.1.5-win_arm64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_arm64.exe
-  - name: dbgate-7.1.5-win_arm64.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_arm64.exe.blockmap
-  - name: dbgate-7.1.5-win_arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_arm64.zip
-  - name: dbgate-7.1.5-win_x64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_x64.exe
-  - name: dbgate-7.1.5-win_x64.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_x64.exe.blockmap
-  - name: dbgate-7.1.5-win_x64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-7.1.5-win_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/cloud-build.zip
+  - name: dbgate-7.1.6-linux_amd64.deb
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-linux_amd64.deb
+  - name: dbgate-7.1.6-linux_arm64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-linux_arm64.AppImage
+  - name: dbgate-7.1.6-linux_x64.tar.gz
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-linux_x64.tar.gz
+  - name: dbgate-7.1.6-linux_x86_64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-linux_x86_64.AppImage
+  - name: dbgate-7.1.6-mac_arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_arm64.dmg
+  - name: dbgate-7.1.6-mac_arm64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_arm64.dmg.blockmap
+  - name: dbgate-7.1.6-mac_arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_arm64.zip
+  - name: dbgate-7.1.6-mac_arm64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_arm64.zip.blockmap
+  - name: dbgate-7.1.6-mac_universal.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_universal.dmg
+  - name: dbgate-7.1.6-mac_universal.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_universal.dmg.blockmap
+  - name: dbgate-7.1.6-mac_universal.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_universal.zip
+  - name: dbgate-7.1.6-mac_universal.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_universal.zip.blockmap
+  - name: dbgate-7.1.6-mac_x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_x64.dmg
+  - name: dbgate-7.1.6-mac_x64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_x64.dmg.blockmap
+  - name: dbgate-7.1.6-mac_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_x64.zip
+  - name: dbgate-7.1.6-mac_x64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-mac_x64.zip.blockmap
+  - name: dbgate-7.1.6-win.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win.exe
+  - name: dbgate-7.1.6-win.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win.exe.blockmap
+  - name: dbgate-7.1.6-win_arm64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win_arm64.exe
+  - name: dbgate-7.1.6-win_arm64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win_arm64.exe.blockmap
+  - name: dbgate-7.1.6-win_arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win_arm64.zip
+  - name: dbgate-7.1.6-win_x64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win_x64.exe
+  - name: dbgate-7.1.6-win_x64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win_x64.exe.blockmap
+  - name: dbgate-7.1.6-win_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-7.1.6-win_x64.zip
   - name: dbgate-latest-arm64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest-arm64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest-arm64.AppImage
   - name: dbgate-latest-arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest-arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest-arm64.dmg
   - name: dbgate-latest-x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest-x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest-x64.dmg
   - name: dbgate-latest.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest.AppImage
   - name: dbgate-latest.deb
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.deb
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest.deb
   - name: dbgate-latest.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest.dmg
   - name: dbgate-latest.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest.exe
   - name: dbgate-latest.snap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-latest.snap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-latest.snap
   - name: dbgate-pad.xml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-pad.xml
-  - name: dbgate-premium-7.1.5-linux_x86_64.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-linux_x86_64.AppImage
-  - name: dbgate-premium-7.1.5-mac_arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.dmg
-  - name: dbgate-premium-7.1.5-mac_arm64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.dmg.blockmap
-  - name: dbgate-premium-7.1.5-mac_arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.zip
-  - name: dbgate-premium-7.1.5-mac_arm64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_arm64.zip.blockmap
-  - name: dbgate-premium-7.1.5-mac_universal.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.dmg
-  - name: dbgate-premium-7.1.5-mac_universal.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.dmg.blockmap
-  - name: dbgate-premium-7.1.5-mac_universal.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.zip
-  - name: dbgate-premium-7.1.5-mac_universal.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_universal.zip.blockmap
-  - name: dbgate-premium-7.1.5-mac_x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.dmg
-  - name: dbgate-premium-7.1.5-mac_x64.dmg.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.dmg.blockmap
-  - name: dbgate-premium-7.1.5-mac_x64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.zip
-  - name: dbgate-premium-7.1.5-mac_x64.zip.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-mac_x64.zip.blockmap
-  - name: dbgate-premium-7.1.5-win_x64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-win_x64.exe
-  - name: dbgate-premium-7.1.5-win_x64.exe.blockmap
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-7.1.5-win_x64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-pad.xml
+  - name: dbgate-premium-7.1.6-linux_x86_64.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-linux_x86_64.AppImage
+  - name: dbgate-premium-7.1.6-mac_arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_arm64.dmg
+  - name: dbgate-premium-7.1.6-mac_arm64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_arm64.dmg.blockmap
+  - name: dbgate-premium-7.1.6-mac_arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_arm64.zip
+  - name: dbgate-premium-7.1.6-mac_arm64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_arm64.zip.blockmap
+  - name: dbgate-premium-7.1.6-mac_universal.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_universal.dmg
+  - name: dbgate-premium-7.1.6-mac_universal.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_universal.dmg.blockmap
+  - name: dbgate-premium-7.1.6-mac_universal.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_universal.zip
+  - name: dbgate-premium-7.1.6-mac_universal.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_universal.zip.blockmap
+  - name: dbgate-premium-7.1.6-mac_x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_x64.dmg
+  - name: dbgate-premium-7.1.6-mac_x64.dmg.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_x64.dmg.blockmap
+  - name: dbgate-premium-7.1.6-mac_x64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_x64.zip
+  - name: dbgate-premium-7.1.6-mac_x64.zip.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-mac_x64.zip.blockmap
+  - name: dbgate-premium-7.1.6-win_x64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-win_x64.exe
+  - name: dbgate-premium-7.1.6-win_x64.exe.blockmap
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-7.1.6-win_x64.exe.blockmap
   - name: dbgate-premium-latest-arm64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest-arm64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-latest-arm64.dmg
   - name: dbgate-premium-latest-x64.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest-x64.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-latest-x64.dmg
   - name: dbgate-premium-latest.AppImage
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest.AppImage
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-latest.AppImage
   - name: dbgate-premium-latest.dmg
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest.dmg
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-latest.dmg
   - name: dbgate-premium-latest.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-premium-latest.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-premium-latest.exe
   - name: dbgate-windows-latest-arm64.exe
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-windows-latest-arm64.exe
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-windows-latest-arm64.exe
   - name: dbgate-windows-latest-arm64.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-windows-latest-arm64.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-windows-latest-arm64.zip
   - name: dbgate-windows-latest.zip
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/dbgate-windows-latest.zip
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/dbgate-windows-latest.zip
   - name: latest-linux-arm64.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest-linux-arm64.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest-linux.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest-mac.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/latest.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/latest.yml
   - name: premium-linux.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/premium-linux.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/premium-linux.yml
   - name: premium-mac.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/premium-mac.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/premium-mac.yml
   - name: premium.yml
-    url: https://github.com/dbgate/dbgate/releases/download/v7.1.5/premium.yml
+    url: https://github.com/dbgate/dbgate/releases/download/v7.1.6/premium.yml
   electron: 38.6.0
   method: src-yarn-lock
   aur:
@@ -5311,45 +5311,45 @@
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
-  latest: player@1.27.0
-  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.27.0.zip
+  latest: player@1.28.0
+  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.28.0.zip
   downloads:
   - name: latest.json
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/latest.json
-  - name: Nuclear-1.27.0-1.x86_64.rpm
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear-1.27.0-1.x86_64.rpm
-  - name: Nuclear-1.27.0-1.x86_64.rpm.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear-1.27.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/latest.json
+  - name: Nuclear-1.28.0-1.x86_64.rpm
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear-1.28.0-1.x86_64.rpm
+  - name: Nuclear-1.28.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear-1.28.0-1.x86_64.rpm.sig
   - name: nuclear-music-player.flatpak
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/nuclear-music-player.flatpak
-  - name: Nuclear_1.27.0_aarch64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_aarch64.dmg
-  - name: Nuclear_1.27.0_amd64.AppImage
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.AppImage
-  - name: Nuclear_1.27.0_amd64.AppImage.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.AppImage.sig
-  - name: Nuclear_1.27.0_amd64.deb
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.deb
-  - name: Nuclear_1.27.0_amd64.deb.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_amd64.deb.sig
-  - name: Nuclear_1.27.0_x64-setup.exe
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64-setup.exe
-  - name: Nuclear_1.27.0_x64-setup.exe.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64-setup.exe.sig
-  - name: Nuclear_1.27.0_x64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64.dmg
-  - name: Nuclear_1.27.0_x64_en-US.msi
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64_en-US.msi
-  - name: Nuclear_1.27.0_x64_en-US.msi.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_1.27.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/nuclear-music-player.flatpak
+  - name: Nuclear_1.28.0_aarch64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_aarch64.dmg
+  - name: Nuclear_1.28.0_amd64.AppImage
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.AppImage
+  - name: Nuclear_1.28.0_amd64.AppImage.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.AppImage.sig
+  - name: Nuclear_1.28.0_amd64.deb
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.deb
+  - name: Nuclear_1.28.0_amd64.deb.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.deb.sig
+  - name: Nuclear_1.28.0_x64-setup.exe
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64-setup.exe
+  - name: Nuclear_1.28.0_x64-setup.exe.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64-setup.exe.sig
+  - name: Nuclear_1.28.0_x64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64.dmg
+  - name: Nuclear_1.28.0_x64_en-US.msi
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64_en-US.msi
+  - name: Nuclear_1.28.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64_en-US.msi.sig
   - name: Nuclear_aarch64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_aarch64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_aarch64.app.tar.gz
   - name: Nuclear_aarch64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_aarch64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_aarch64.app.tar.gz.sig
   - name: Nuclear_x64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_x64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_x64.app.tar.gz
   - name: Nuclear_x64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.27.0/Nuclear_x64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_x64.app.tar.gz.sig
   aur:
   - nuclear-player
   - nuclear-player-bin
@@ -7093,8 +7093,8 @@
 - id: signal
   repository: https://github.com/signalapp/Signal-Desktop
   website: https://signal.org
-  latest: v8.4.0
-  src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.4.0.zip
+  latest: v8.4.1
+  src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.4.1.zip
   electron: 23.3.13
   method: src-pnpm-lock
   aur:
@@ -7912,53 +7912,53 @@
 - id: super-productivity
   repository: https://github.com/johannesjo/super-productivity
   website: https://super-productivity.com/
-  latest: v17.5.2
-  src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v17.5.2.zip
+  latest: v18.0.0
+  src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.0.0.zip
   downloads:
   - name: app-play-release.apk
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/app-play-release.apk
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/app-play-release.apk
   - name: latest-linux.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/latest-linux.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/latest-mac.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/latest.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/latest.yml
   - name: Super-Productivity-Setup-arm64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/Super-Productivity-Setup-arm64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-arm64.exe
   - name: Super-Productivity-Setup-arm64.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/Super-Productivity-Setup-arm64.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-arm64.exe.blockmap
   - name: Super-Productivity-Setup-x64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/Super-Productivity-Setup-x64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-x64.exe
   - name: Super-Productivity-Setup-x64.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/Super-Productivity-Setup-x64.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-x64.exe.blockmap
   - name: Super-Productivity-Setup.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/Super-Productivity-Setup.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup.exe
   - name: Super-Productivity-Setup.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/Super-Productivity-Setup.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup.exe.blockmap
   - name: superProductivity-amd64.deb
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-amd64.deb
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-amd64.deb
   - name: superProductivity-arm64.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-arm64.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-arm64.dmg
   - name: superProductivity-arm64.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-arm64.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-arm64.dmg.blockmap
   - name: superProductivity-arm64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-arm64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-arm64.exe
   - name: superProductivity-universal.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-universal.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-universal.dmg
   - name: superProductivity-universal.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-universal.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-universal.dmg.blockmap
   - name: superProductivity-x64.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-x64.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x64.dmg
   - name: superProductivity-x64.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-x64.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x64.dmg.blockmap
   - name: superProductivity-x64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-x64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x64.exe
   - name: superProductivity-x86_64.AppImage
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-x86_64.AppImage
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x86_64.AppImage
   - name: superProductivity-x86_64.rpm
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity-x86_64.rpm
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x86_64.rpm
   - name: superProductivity.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v17.5.2/superProductivity.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity.exe
   electron: 37.10.3
   method: src-package-lock
   aur:
@@ -9664,43 +9664,43 @@
 - id: youtube-music-for-desktop
   repository: https://github.com/Venipa/ytmdesktop2
   website: https://youtube-music.app/
-  latest: v0.18.7
-  src: https://github.com/Venipa/ytmdesktop2/archive/refs/tags/v0.18.7.zip
+  latest: v0.18.9
+  src: https://github.com/Venipa/ytmdesktop2/archive/refs/tags/v0.18.9.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/latest-linux-arm64.yml
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/latest-linux.yml
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/latest-mac.yml
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/latest.yml
-  - name: YouTube-Music-for-Desktop-0.18.7-arm64-mac.zip
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-arm64-mac.zip
-  - name: YouTube-Music-for-Desktop-0.18.7-arm64.AppImage
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-arm64.AppImage
-  - name: YouTube-Music-for-Desktop-0.18.7-arm64.dmg
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-arm64.dmg
-  - name: YouTube-Music-for-Desktop-0.18.7-arm64.dmg.blockmap
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-arm64.dmg.blockmap
-  - name: YouTube-Music-for-Desktop-0.18.7-mac.zip
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-mac.zip
-  - name: YouTube-Music-for-Desktop-0.18.7-setup.exe
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-setup.exe
-  - name: YouTube-Music-for-Desktop-0.18.7-setup.exe.blockmap
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7-setup.exe.blockmap
-  - name: YouTube-Music-for-Desktop-0.18.7.AppImage
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7.AppImage
-  - name: YouTube-Music-for-Desktop-0.18.7.dmg
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7.dmg
-  - name: YouTube-Music-for-Desktop-0.18.7.dmg.blockmap
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop-0.18.7.dmg.blockmap
-  - name: YouTube-Music-for-Desktop_0.18.7_amd64.deb
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube-Music-for-Desktop_0.18.7_amd64.deb
-  - name: YouTube.Music.for.Desktop-0.18.7-arm64-mac.zip.blockmap
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube.Music.for.Desktop-0.18.7-arm64-mac.zip.blockmap
-  - name: YouTube.Music.for.Desktop-0.18.7-mac.zip.blockmap
-    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.7/YouTube.Music.for.Desktop-0.18.7-mac.zip.blockmap
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest.yml
+  - name: YouTube-Music-for-Desktop-0.18.9-arm64-mac.zip
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64-mac.zip
+  - name: YouTube-Music-for-Desktop-0.18.9-arm64.AppImage
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64.AppImage
+  - name: YouTube-Music-for-Desktop-0.18.9-arm64.dmg
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64.dmg
+  - name: YouTube-Music-for-Desktop-0.18.9-arm64.dmg.blockmap
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64.dmg.blockmap
+  - name: YouTube-Music-for-Desktop-0.18.9-mac.zip
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-mac.zip
+  - name: YouTube-Music-for-Desktop-0.18.9-setup.exe
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-setup.exe
+  - name: YouTube-Music-for-Desktop-0.18.9-setup.exe.blockmap
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-setup.exe.blockmap
+  - name: YouTube-Music-for-Desktop-0.18.9.AppImage
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9.AppImage
+  - name: YouTube-Music-for-Desktop-0.18.9.dmg
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9.dmg
+  - name: YouTube-Music-for-Desktop-0.18.9.dmg.blockmap
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9.dmg.blockmap
+  - name: YouTube-Music-for-Desktop_0.18.9_amd64.deb
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop_0.18.9_amd64.deb
+  - name: YouTube.Music.for.Desktop-0.18.9-arm64-mac.zip.blockmap
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube.Music.for.Desktop-0.18.9-arm64-mac.zip.blockmap
+  - name: YouTube.Music.for.Desktop-0.18.9-mac.zip.blockmap
+    url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube.Music.for.Desktop-0.18.9-mac.zip.blockmap
   electron: 36.9.5
   method: src-pnpm-lock
   aur:
