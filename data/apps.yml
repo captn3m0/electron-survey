@@ -3876,44 +3876,44 @@
 - id: leafview
   repository: https://github.com/sprout2000/leafview
   website: https://github.com/sprout2000/leafview
-  latest: v4.1.2
-  src: https://github.com/sprout2000/leafview/archive/refs/tags/v4.1.2.zip
+  latest: v4.1.3
+  src: https://github.com/sprout2000/leafview/archive/refs/tags/v4.1.3.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/latest-linux.yml
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/latest-mac.yml
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/latest.yml
-  - name: LeafView-4.1.2-darwin-arm64.dmg
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-arm64.dmg
-  - name: LeafView-4.1.2-darwin-arm64.dmg.blockmap
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-arm64.dmg.blockmap
-  - name: LeafView-4.1.2-darwin-arm64.zip
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-arm64.zip
-  - name: LeafView-4.1.2-darwin-arm64.zip.blockmap
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-arm64.zip.blockmap
-  - name: LeafView-4.1.2-darwin-x64.dmg
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-x64.dmg
-  - name: LeafView-4.1.2-darwin-x64.dmg.blockmap
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-x64.dmg.blockmap
-  - name: LeafView-4.1.2-darwin-x64.zip
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-x64.zip
-  - name: LeafView-4.1.2-darwin-x64.zip.blockmap
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-darwin-x64.zip.blockmap
-  - name: LeafView-4.1.2-linux-amd64.deb
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-linux-amd64.deb
-  - name: LeafView-4.1.2-linux-x64.zip
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-linux-x64.zip
-  - name: LeafView-4.1.2-linux-x86_64.AppImage
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-linux-x86_64.AppImage
-  - name: LeafView-4.1.2-win32-x64-installer.exe
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-win32-x64-installer.exe
-  - name: LeafView-4.1.2-win32-x64-installer.exe.blockmap
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-win32-x64-installer.exe.blockmap
-  - name: LeafView-4.1.2-win32-x64.zip
-    url: https://github.com/sprout2000/leafview/releases/download/v4.1.2/LeafView-4.1.2-win32-x64.zip
-  electron: 41.0.2
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/latest.yml
+  - name: LeafView-4.1.3-darwin-arm64.dmg
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-arm64.dmg
+  - name: LeafView-4.1.3-darwin-arm64.dmg.blockmap
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-arm64.dmg.blockmap
+  - name: LeafView-4.1.3-darwin-arm64.zip
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-arm64.zip
+  - name: LeafView-4.1.3-darwin-arm64.zip.blockmap
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-arm64.zip.blockmap
+  - name: LeafView-4.1.3-darwin-x64.dmg
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-x64.dmg
+  - name: LeafView-4.1.3-darwin-x64.dmg.blockmap
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-x64.dmg.blockmap
+  - name: LeafView-4.1.3-darwin-x64.zip
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-x64.zip
+  - name: LeafView-4.1.3-darwin-x64.zip.blockmap
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-darwin-x64.zip.blockmap
+  - name: LeafView-4.1.3-linux-amd64.deb
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-linux-amd64.deb
+  - name: LeafView-4.1.3-linux-x64.zip
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-linux-x64.zip
+  - name: LeafView-4.1.3-linux-x86_64.AppImage
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-linux-x86_64.AppImage
+  - name: LeafView-4.1.3-win32-x64-installer.exe
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-win32-x64-installer.exe
+  - name: LeafView-4.1.3-win32-x64-installer.exe.blockmap
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-win32-x64-installer.exe.blockmap
+  - name: LeafView-4.1.3-win32-x64.zip
+    url: https://github.com/sprout2000/leafview/releases/download/v4.1.3/LeafView-4.1.3-win32-x64.zip
+  electron: 41.1.0
   method: src-package-lock
   name: LeafView
 - id: lectrote
@@ -5156,28 +5156,28 @@
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
-  latest: v8.9.6
-  src: https://github.com/lutzroeder/netron/archive/refs/tags/v8.9.6.zip
+  latest: v8.9.7
+  src: https://github.com/lutzroeder/netron/archive/refs/tags/v8.9.7.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/latest-linux.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/latest-mac.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/latest.yml
-  - name: Netron-8.9.6-amd64.deb
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/Netron-8.9.6-amd64.deb
-  - name: Netron-8.9.6-mac.zip
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/Netron-8.9.6-mac.zip
-  - name: Netron-8.9.6-mac.zip.blockmap
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/Netron-8.9.6-mac.zip.blockmap
-  - name: Netron-8.9.6-x86_64.rpm
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/Netron-8.9.6-x86_64.rpm
-  - name: Netron-8.9.6.dmg
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/Netron-8.9.6.dmg
-  - name: Netron-Setup-8.9.6.exe
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.6/Netron-Setup-8.9.6.exe
-  electron: 41.0.3
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/latest.yml
+  - name: Netron-8.9.7-amd64.deb
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-amd64.deb
+  - name: Netron-8.9.7-mac.zip
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-mac.zip
+  - name: Netron-8.9.7-mac.zip.blockmap
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-mac.zip.blockmap
+  - name: Netron-8.9.7-x86_64.rpm
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-x86_64.rpm
+  - name: Netron-8.9.7.dmg
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7.dmg
+  - name: Netron-Setup-8.9.7.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-Setup-8.9.7.exe
+  electron: 41.1.0
   method: src-package-lock
   aur:
   - netron
@@ -5311,45 +5311,45 @@
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
-  latest: player@1.28.0
-  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.28.0.zip
+  latest: player@1.29.1
+  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.29.1.zip
   downloads:
   - name: latest.json
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/latest.json
-  - name: Nuclear-1.28.0-1.x86_64.rpm
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear-1.28.0-1.x86_64.rpm
-  - name: Nuclear-1.28.0-1.x86_64.rpm.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear-1.28.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/latest.json
+  - name: Nuclear-1.29.1-1.x86_64.rpm
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear-1.29.1-1.x86_64.rpm
+  - name: Nuclear-1.29.1-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear-1.29.1-1.x86_64.rpm.sig
   - name: nuclear-music-player.flatpak
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/nuclear-music-player.flatpak
-  - name: Nuclear_1.28.0_aarch64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_aarch64.dmg
-  - name: Nuclear_1.28.0_amd64.AppImage
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.AppImage
-  - name: Nuclear_1.28.0_amd64.AppImage.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.AppImage.sig
-  - name: Nuclear_1.28.0_amd64.deb
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.deb
-  - name: Nuclear_1.28.0_amd64.deb.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_amd64.deb.sig
-  - name: Nuclear_1.28.0_x64-setup.exe
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64-setup.exe
-  - name: Nuclear_1.28.0_x64-setup.exe.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64-setup.exe.sig
-  - name: Nuclear_1.28.0_x64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64.dmg
-  - name: Nuclear_1.28.0_x64_en-US.msi
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64_en-US.msi
-  - name: Nuclear_1.28.0_x64_en-US.msi.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_1.28.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/nuclear-music-player.flatpak
+  - name: Nuclear_1.29.1_aarch64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_aarch64.dmg
+  - name: Nuclear_1.29.1_amd64.AppImage
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_amd64.AppImage
+  - name: Nuclear_1.29.1_amd64.AppImage.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_amd64.AppImage.sig
+  - name: Nuclear_1.29.1_amd64.deb
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_amd64.deb
+  - name: Nuclear_1.29.1_amd64.deb.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_amd64.deb.sig
+  - name: Nuclear_1.29.1_x64-setup.exe
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_x64-setup.exe
+  - name: Nuclear_1.29.1_x64-setup.exe.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_x64-setup.exe.sig
+  - name: Nuclear_1.29.1_x64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_x64.dmg
+  - name: Nuclear_1.29.1_x64_en-US.msi
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_x64_en-US.msi
+  - name: Nuclear_1.29.1_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_1.29.1_x64_en-US.msi.sig
   - name: Nuclear_aarch64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_aarch64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_aarch64.app.tar.gz
   - name: Nuclear_aarch64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_aarch64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_aarch64.app.tar.gz.sig
   - name: Nuclear_x64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_x64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_x64.app.tar.gz
   - name: Nuclear_x64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.28.0/Nuclear_x64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.29.1/Nuclear_x64.app.tar.gz.sig
   aur:
   - nuclear-player
   - nuclear-player-bin
@@ -7535,29 +7535,29 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.66.2
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.66.2.zip
+  latest: 1.66.6
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.66.6.zip
   downloads:
   - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-arm64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-arm64.dmg
   - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-arm64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-arm64.exe
   - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-x64.appx
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-x64.appx
   - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-x64.dmg
   - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-x64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-x64.exe
   - name: sqlui-native.AppImage
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.AppImage
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.AppImage
   - name: sqlui-native.deb
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.deb
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.deb
   - name: sqlui-native.pacman
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.pacman
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.pacman
   - name: sqlui-native.rpm
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.rpm
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.rpm
   - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.snap
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.snap
   electron: 28.3.3
   method: src-package-lock
   aur:
