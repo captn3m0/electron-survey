@@ -5156,27 +5156,27 @@
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
-  latest: v8.9.7
-  src: https://github.com/lutzroeder/netron/archive/refs/tags/v8.9.7.zip
+  latest: v8.9.9
+  src: https://github.com/lutzroeder/netron/archive/refs/tags/v8.9.9.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/latest-linux.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/latest-mac.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/latest.yml
-  - name: Netron-8.9.7-amd64.deb
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-amd64.deb
-  - name: Netron-8.9.7-mac.zip
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-mac.zip
-  - name: Netron-8.9.7-mac.zip.blockmap
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-mac.zip.blockmap
-  - name: Netron-8.9.7-x86_64.rpm
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7-x86_64.rpm
-  - name: Netron-8.9.7.dmg
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-8.9.7.dmg
-  - name: Netron-Setup-8.9.7.exe
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.7/Netron-Setup-8.9.7.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/latest.yml
+  - name: Netron-8.9.9-amd64.deb
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/Netron-8.9.9-amd64.deb
+  - name: Netron-8.9.9-mac.zip
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/Netron-8.9.9-mac.zip
+  - name: Netron-8.9.9-mac.zip.blockmap
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/Netron-8.9.9-mac.zip.blockmap
+  - name: Netron-8.9.9-x86_64.rpm
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/Netron-8.9.9-x86_64.rpm
+  - name: Netron-8.9.9.dmg
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/Netron-8.9.9.dmg
+  - name: Netron-Setup-8.9.9.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v8.9.9/Netron-Setup-8.9.9.exe
   electron: 41.1.0
   method: src-package-lock
   aur:
@@ -5527,70 +5527,36 @@
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
-  latest: v2026.4.104
-  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.104.zip
+  latest: v2026.4.112
+  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.112.zip
   downloads:
-  - name: latest-linux-arm.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-linux.yml
-  - name: latest-mac.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest-mac.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/latest-linux.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/latest.yml
-  - name: P3X-OneNote-2026.4.104-aarch64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-aarch64.flatpak
-  - name: P3X-OneNote-2026.4.104-arm64-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64-mac.zip
-  - name: P3X-OneNote-2026.4.104-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.104-arm64.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64.AppImage
-  - name: P3X-OneNote-2026.4.104-arm64.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64.dmg
-  - name: P3X-OneNote-2026.4.104-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-arm64.dmg.blockmap
-  - name: P3X-OneNote-2026.4.104-armv7l.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-armv7l.AppImage
-  - name: P3X-OneNote-2026.4.104-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-mac.zip
-  - name: P3X-OneNote-2026.4.104-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.104-universal-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal-mac.zip
-  - name: P3X-OneNote-2026.4.104-universal-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.104-universal.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal.dmg
-  - name: P3X-OneNote-2026.4.104-universal.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-universal.dmg.blockmap
-  - name: P3X-OneNote-2026.4.104-x86_64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104-x86_64.flatpak
-  - name: p3x-onenote-2026.4.104.aarch64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote-2026.4.104.aarch64.rpm
-  - name: P3X-OneNote-2026.4.104.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104.AppImage
-  - name: p3x-onenote-2026.4.104.armv7l.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote-2026.4.104.armv7l.rpm
-  - name: P3X-OneNote-2026.4.104.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104.dmg
-  - name: P3X-OneNote-2026.4.104.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-2026.4.104.dmg.blockmap
-  - name: p3x-onenote-2026.4.104.x86_64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote-2026.4.104.x86_64.rpm
-  - name: P3X-OneNote-Setup-2026.4.104.exe
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-Setup-2026.4.104.exe
-  - name: P3X-OneNote-Setup-2026.4.104.exe.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/P3X-OneNote-Setup-2026.4.104.exe.blockmap
-  - name: p3x-onenote_2026.4.104_amd64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote_2026.4.104_amd64.deb
-  - name: p3x-onenote_2026.4.104_arm64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote_2026.4.104_arm64.deb
-  - name: p3x-onenote_2026.4.104_armv7l.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.104/p3x-onenote_2026.4.104_armv7l.deb
-  electron: 41.0.4
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/latest.yml
+  - name: P3X-OneNote-2026.4.112-aarch64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/P3X-OneNote-2026.4.112-aarch64.flatpak
+  - name: P3X-OneNote-2026.4.112-arm64.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/P3X-OneNote-2026.4.112-arm64.AppImage
+  - name: P3X-OneNote-2026.4.112-x86_64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/P3X-OneNote-2026.4.112-x86_64.flatpak
+  - name: p3x-onenote-2026.4.112.aarch64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/p3x-onenote-2026.4.112.aarch64.rpm
+  - name: P3X-OneNote-2026.4.112.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/P3X-OneNote-2026.4.112.AppImage
+  - name: p3x-onenote-2026.4.112.x86_64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/p3x-onenote-2026.4.112.x86_64.rpm
+  - name: P3X-OneNote-Setup-2026.4.112.exe
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/P3X-OneNote-Setup-2026.4.112.exe
+  - name: P3X-OneNote-Setup-2026.4.112.exe.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/P3X-OneNote-Setup-2026.4.112.exe.blockmap
+  - name: p3x-onenote_2026.4.112_amd64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/p3x-onenote_2026.4.112_amd64.deb
+  - name: p3x-onenote_2026.4.112_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.112/p3x-onenote_2026.4.112_arm64.deb
+  electron: 41.1.0
   method: src-yarn-lock
   aur:
   - p3x-onenote-bin
@@ -5599,54 +5565,46 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.125
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.125.zip
+  latest: v2026.4.304
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.304.zip
   downloads:
-  - name: latest-linux-arm.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/latest.yml
-  - name: P3X-Redis-UI-2026.4.125-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.125-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.125-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.125-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.125-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.125-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.125-armv7l.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-armv7l.AppImage
-  - name: P3X-Redis-UI-2026.4.125-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.125.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/p3x-redis-ui-2026.4.125.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.125.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-2026.4.125.AppImage
-  - name: p3x-redis-ui-2026.4.125.armv7l.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/p3x-redis-ui-2026.4.125.armv7l.rpm
-  - name: p3x-redis-ui-2026.4.125.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/p3x-redis-ui-2026.4.125.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.125.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-Setup-2026.4.125.exe
-  - name: P3X-Redis-UI-Setup-2026.4.125.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/P3X-Redis-UI-Setup-2026.4.125.exe.blockmap
-  - name: p3x-redis-ui_2026.4.125_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/p3x-redis-ui_2026.4.125_amd64.deb
-  - name: p3x-redis-ui_2026.4.125_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/p3x-redis-ui_2026.4.125_arm64.deb
-  - name: p3x-redis-ui_2026.4.125_armv7l.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.125/p3x-redis-ui_2026.4.125_armv7l.deb
-  electron: 41.0.3
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/latest.yml
+  - name: P3X-Redis-UI-2026.4.304-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.304-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.304-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.304-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.304-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.304-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.304-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.304.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/p3x-redis-ui-2026.4.304.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.304.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-2026.4.304.AppImage
+  - name: p3x-redis-ui-2026.4.304.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/p3x-redis-ui-2026.4.304.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.304.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-Setup-2026.4.304.exe
+  - name: P3X-Redis-UI-Setup-2026.4.304.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/P3X-Redis-UI-Setup-2026.4.304.exe.blockmap
+  - name: p3x-redis-ui_2026.4.304_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/p3x-redis-ui_2026.4.304_amd64.deb
+  - name: p3x-redis-ui_2026.4.304_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.304/p3x-redis-ui_2026.4.304_arm64.deb
+  electron: 41.1.0
   method: src-yarn-lock
   aur:
   - p3x-onenote-bin
@@ -7535,29 +7493,29 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.66.6
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.66.6.zip
+  latest: 1.66.9
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.66.9.zip
   downloads:
   - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-arm64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native-arm64.dmg
   - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-arm64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native-arm64.exe
   - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-x64.appx
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native-x64.appx
   - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native-x64.dmg
   - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native-x64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native-x64.exe
   - name: sqlui-native.AppImage
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.AppImage
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native.AppImage
   - name: sqlui-native.deb
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.deb
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native.deb
   - name: sqlui-native.pacman
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.pacman
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native.pacman
   - name: sqlui-native.rpm
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.rpm
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native.rpm
   - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/1.66.6/sqlui-native.snap
+    url: https://github.com/synle/sqlui-native/releases/download/1.66.9/sqlui-native.snap
   electron: 28.3.3
   method: src-package-lock
   aur:
@@ -9322,8 +9280,8 @@
 - id: web-toolbox
   repository: https://github.com/amwebexpert/etoolbox
   website: https://github.com/amwebexpert/etoolbox
-  latest: v4.3.0
-  src: https://github.com/amwebexpert/etoolbox/archive/refs/tags/v4.3.0.zip
+  latest: v4.4.0
+  src: https://github.com/amwebexpert/etoolbox/archive/refs/tags/v4.4.0.zip
   name: Web Toolbox
 - id: webcatalog
   website: https://webcatalog.io
