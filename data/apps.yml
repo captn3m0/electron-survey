@@ -1576,26 +1576,26 @@
 - id: dopamine
   repository: https://github.com/digimezzo/dopamine
   website: https://www.digimezzo.com
-  latest: v3.0.2
-  src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.2.zip
+  latest: v3.0.3
+  src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.3.zip
   downloads:
-  - name: Dopamine-3.0.2-arm.dmg
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2-arm.dmg
-  - name: Dopamine-3.0.2-intel.dmg
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2-intel.dmg
-  - name: Dopamine-3.0.2.AppImage
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.AppImage
-  - name: Dopamine-3.0.2.deb
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.deb
-  - name: Dopamine-3.0.2.exe
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.exe
-  - name: Dopamine-3.0.2.pacman
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.pacman
-  - name: Dopamine-3.0.2.rpm
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.rpm
-  - name: Dopamine-3.0.2.snap
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.snap
-  electron: 38.7.2
+  - name: Dopamine-3.0.3-arm.dmg
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3-arm.dmg
+  - name: Dopamine-3.0.3-intel.dmg
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3-intel.dmg
+  - name: Dopamine-3.0.3.AppImage
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.AppImage
+  - name: Dopamine-3.0.3.deb
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.deb
+  - name: Dopamine-3.0.3.exe
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.exe
+  - name: Dopamine-3.0.3.pacman
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.pacman
+  - name: Dopamine-3.0.3.rpm
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.rpm
+  - name: Dopamine-3.0.3.snap
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.snap
+  electron: 37.10.3
   method: src-package-lock
   aur:
   - vitomu
@@ -5591,45 +5591,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.321
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.321.zip
+  latest: v2026.4.326
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.326.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/latest.yml
-  - name: P3X-Redis-UI-2026.4.321-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.321-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.321-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.321-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.321-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.321-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.321-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.321.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/p3x-redis-ui-2026.4.321.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.321.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-2026.4.321.AppImage
-  - name: p3x-redis-ui-2026.4.321.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/p3x-redis-ui-2026.4.321.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.321.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-Setup-2026.4.321.exe
-  - name: P3X-Redis-UI-Setup-2026.4.321.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/P3X-Redis-UI-Setup-2026.4.321.exe.blockmap
-  - name: p3x-redis-ui_2026.4.321_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/p3x-redis-ui_2026.4.321_amd64.deb
-  - name: p3x-redis-ui_2026.4.321_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.321/p3x-redis-ui_2026.4.321_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest.yml
+  - name: P3X-Redis-UI-2026.4.326-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.326-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.326-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.326-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.326-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.326-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.326-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.326.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui-2026.4.326.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.326.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326.AppImage
+  - name: p3x-redis-ui-2026.4.326.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui-2026.4.326.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.326.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-Setup-2026.4.326.exe
+  - name: P3X-Redis-UI-Setup-2026.4.326.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-Setup-2026.4.326.exe.blockmap
+  - name: p3x-redis-ui_2026.4.326_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui_2026.4.326_amd64.deb
+  - name: p3x-redis-ui_2026.4.326_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui_2026.4.326_arm64.deb
   electron: 41.1.0
   method: src-yarn-lock
   aur:
@@ -9713,39 +9713,39 @@
 - id: zettlr
   repository: https://github.com/zettlr/zettlr
   website: https://www.zettlr.com/
-  latest: v4.3.0
-  src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.3.0.zip
+  latest: v4.3.1
+  src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.3.1.zip
   downloads:
   - name: SHA256SUMS.txt
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/SHA256SUMS.txt
-  - name: Zettlr-4.3.0-aarch64.rpm
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-aarch64.rpm
-    checksum: 0ec1b61822895ed4e29620ac65efdca9900a3440ea3f3d48e110af0954a25acd
-  - name: Zettlr-4.3.0-amd64.deb
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-amd64.deb
-    checksum: b759525687cf6ec1dcaa6712370b88246bbd9624180a913b9df261c4a1760452
-  - name: Zettlr-4.3.0-arm64.AppImage
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-arm64.AppImage
-    checksum: e4d49f2b82fd4617ee258e17263b9c20f7e106784edcae632d74c889996edbad
-  - name: Zettlr-4.3.0-arm64.deb
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-arm64.deb
-    checksum: f919729d9e53b3f8a5547a56354cf20a8524937f1730e3d5d3309cd4a659b062
-  - name: Zettlr-4.3.0-arm64.dmg
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-arm64.dmg
-    checksum: ea5cd59bc37bf68ea2233ba6fb409f2e4a97b5e4c89197ce537e87c8a42b14e4
-  - name: Zettlr-4.3.0-x64.dmg
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-x64.dmg
-    checksum: 563bc2bbf0dcb0ca290ee640445d4c182438c37878d1c2199f4d7b619643d9d3
-  - name: Zettlr-4.3.0-x64.exe
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-x64.exe
-    checksum: 0ef29df70a81acc8fade2ba04830d00c78070b6159984605b8626124653f016c
-  - name: Zettlr-4.3.0-x86_64.AppImage
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-x86_64.AppImage
-    checksum: 9e419c560ff856c83ed6ecb84650bd7984e25250a5582799d76a9ced07c520df
-  - name: Zettlr-4.3.0-x86_64.rpm
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-x86_64.rpm
-    checksum: 3c95678362cd1e0c3db6a297a5ff196df1a7d6c72cfd61218e83a24ebe5bf7a8
-  electron: 40.8.0
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/SHA256SUMS.txt
+  - name: Zettlr-4.3.1-aarch64.rpm
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-aarch64.rpm
+    checksum: 8b9b54ec8175cf6ecbb34adcfe98304b5e55f0e6743a0f1304daac40015a8c96
+  - name: Zettlr-4.3.1-amd64.deb
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-amd64.deb
+    checksum: 3b91c865d79688fda877ad58131e592e86c53ca6571bad5ef9e6da8b5daf8946
+  - name: Zettlr-4.3.1-arm64.AppImage
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-arm64.AppImage
+    checksum: ffa60006cb42f9a92a4c1afe43f9aeff99561ff335db05a4f9563b10c5092e8c
+  - name: Zettlr-4.3.1-arm64.deb
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-arm64.deb
+    checksum: fe631024cfd7b163d2c1735c27e89232ca31772c1dcc4d709bf5523ec9987da4
+  - name: Zettlr-4.3.1-arm64.dmg
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-arm64.dmg
+    checksum: 76dabb6e687f21822e8bfaae7f9a925588bb0903b204b1b21c33f696425cc9b1
+  - name: Zettlr-4.3.1-x64.dmg
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x64.dmg
+    checksum: 1866db412a45fde1a7a38ad3274d5f0d98fe91ec624565402ae4d53d20b53b4d
+  - name: Zettlr-4.3.1-x64.exe
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x64.exe
+    checksum: 77111f108877ad3f94dc0516d5a4b091404f44768d8480577f6480e502f04390
+  - name: Zettlr-4.3.1-x86_64.AppImage
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x86_64.AppImage
+    checksum: edf4385ce6df5c1892aa78493e450ab1705acee7024c78f0be42bbd1d3fbe1b1
+  - name: Zettlr-4.3.1-x86_64.rpm
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x86_64.rpm
+    checksum: bdc7721843bd788551a1c81f0027a660e4fa59520c4bbd729f508f5821a09ff7
+  electron: 40.8.5
   method: src-yarn-lock
   aur:
   - zettlr-git
