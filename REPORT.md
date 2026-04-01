@@ -213,7 +213,7 @@ Apps with detected Electron version: 289 / 613
 | [T.Viewer](https://github.com/msaltnet/T.Viewer) [[repo]](https://github.com/msaltnet/T.Viewer) | 9.4.0 ⚠️ | 5y 4mo ago | src-package-lock |
 | [Tabby](https://github.com/natixco/tabby) [[repo]](https://github.com/natixco/tabby) | 7.1.7 ⚠️ | 6y 4mo ago |  |
 | [Tabby Terminal](https://tabby.sh) [[repo]](https://github.com/Eugeny/tabby) | 38.2.2 ⚠️ | 5mo ago | src-yarn-lock |
-| [TagSpaces](https://www.tagspaces.org/) [[repo]](https://github.com/tagspaces/tagspaces) | 40.8.3 ⚠️ | 14d ago | src-package-lock |
+| [TagSpaces](https://www.tagspaces.org/) [[repo]](https://github.com/tagspaces/tagspaces) | 41.1.0 | 4d ago | src-package-lock |
 | [Taskana](https://mountainash.github.io/taskana/) [[repo]](https://github.com/mountainash/taskana) | 35.0.2 ⚠️ | 1y ago | src-package-lock |
 | [Ten Hands](https://tenhands.app) [[repo]](https://github.com/saisandeepvaddi/ten-hands) | 11.2.0 ⚠️ | 5y 3mo ago | src-yarn-lock |
 | [Tess](https://github.com/SquitchYT/Tess/) [[repo]](https://github.com/SquitchYT/Tess/) | 17.4.11 ⚠️ | 3y 8mo ago | src-package-lock |

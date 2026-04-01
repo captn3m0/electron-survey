@@ -360,63 +360,63 @@
 - id: beekeeper-studio
   repository: https://github.com/beekeeper-studio/beekeeper-studio
   website: https://www.beekeeperstudio.io
-  latest: v5.6.3
-  src: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v5.6.3.zip
+  latest: v5.6.4
+  src: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v5.6.4.zip
   downloads:
-  - name: Beekeeper-Studio-5.6.3-aarch64.flatpak
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-aarch64.flatpak
-  - name: beekeeper-studio-5.6.3-aarch64.pacman
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio-5.6.3-aarch64.pacman
-  - name: Beekeeper-Studio-5.6.3-arm64-mac.zip
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-arm64-mac.zip
-  - name: Beekeeper-Studio-5.6.3-arm64.AppImage
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-arm64.AppImage
-  - name: Beekeeper-Studio-5.6.3-arm64.dmg
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-arm64.dmg
-  - name: Beekeeper-Studio-5.6.3-arm64.dmg.blockmap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-arm64.dmg.blockmap
-  - name: Beekeeper-Studio-5.6.3-mac.zip
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-mac.zip
-  - name: Beekeeper-Studio-5.6.3-portable.exe
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-portable.exe
-  - name: Beekeeper-Studio-5.6.3-x86_64.flatpak
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3-x86_64.flatpak
-  - name: beekeeper-studio-5.6.3.aarch64.rpm
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio-5.6.3.aarch64.rpm
-  - name: Beekeeper-Studio-5.6.3.AppImage
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3.AppImage
-  - name: Beekeeper-Studio-5.6.3.dmg
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3.dmg
-  - name: Beekeeper-Studio-5.6.3.dmg.blockmap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-5.6.3.dmg.blockmap
-  - name: beekeeper-studio-5.6.3.pacman
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio-5.6.3.pacman
-  - name: beekeeper-studio-5.6.3.x86_64.rpm
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio-5.6.3.x86_64.rpm
-  - name: Beekeeper-Studio-Setup-5.6.3.exe
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-Setup-5.6.3.exe
-  - name: Beekeeper-Studio-Setup-5.6.3.exe.blockmap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper-Studio-Setup-5.6.3.exe.blockmap
-  - name: beekeeper-studio_5.6.3_amd64.deb
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio_5.6.3_amd64.deb
-  - name: beekeeper-studio_5.6.3_amd64.snap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio_5.6.3_amd64.snap
-  - name: beekeeper-studio_5.6.3_arm64.deb
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio_5.6.3_arm64.deb
-  - name: beekeeper-studio_5.6.3_arm64.snap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/beekeeper-studio_5.6.3_arm64.snap
-  - name: Beekeeper.Studio-5.6.3-arm64-mac.zip.blockmap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper.Studio-5.6.3-arm64-mac.zip.blockmap
-  - name: Beekeeper.Studio-5.6.3-mac.zip.blockmap
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/Beekeeper.Studio-5.6.3-mac.zip.blockmap
+  - name: Beekeeper-Studio-5.6.4-aarch64.flatpak
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-aarch64.flatpak
+  - name: beekeeper-studio-5.6.4-aarch64.pacman
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio-5.6.4-aarch64.pacman
+  - name: Beekeeper-Studio-5.6.4-arm64-mac.zip
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-arm64-mac.zip
+  - name: Beekeeper-Studio-5.6.4-arm64.AppImage
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-arm64.AppImage
+  - name: Beekeeper-Studio-5.6.4-arm64.dmg
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-arm64.dmg
+  - name: Beekeeper-Studio-5.6.4-arm64.dmg.blockmap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-arm64.dmg.blockmap
+  - name: Beekeeper-Studio-5.6.4-mac.zip
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-mac.zip
+  - name: Beekeeper-Studio-5.6.4-portable.exe
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-portable.exe
+  - name: Beekeeper-Studio-5.6.4-x86_64.flatpak
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4-x86_64.flatpak
+  - name: beekeeper-studio-5.6.4.aarch64.rpm
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio-5.6.4.aarch64.rpm
+  - name: Beekeeper-Studio-5.6.4.AppImage
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4.AppImage
+  - name: Beekeeper-Studio-5.6.4.dmg
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4.dmg
+  - name: Beekeeper-Studio-5.6.4.dmg.blockmap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-5.6.4.dmg.blockmap
+  - name: beekeeper-studio-5.6.4.pacman
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio-5.6.4.pacman
+  - name: beekeeper-studio-5.6.4.x86_64.rpm
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio-5.6.4.x86_64.rpm
+  - name: Beekeeper-Studio-Setup-5.6.4.exe
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-Setup-5.6.4.exe
+  - name: Beekeeper-Studio-Setup-5.6.4.exe.blockmap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper-Studio-Setup-5.6.4.exe.blockmap
+  - name: beekeeper-studio_5.6.4_amd64.deb
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio_5.6.4_amd64.deb
+  - name: beekeeper-studio_5.6.4_amd64.snap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio_5.6.4_amd64.snap
+  - name: beekeeper-studio_5.6.4_arm64.deb
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio_5.6.4_arm64.deb
+  - name: beekeeper-studio_5.6.4_arm64.snap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/beekeeper-studio_5.6.4_arm64.snap
+  - name: Beekeeper.Studio-5.6.4-arm64-mac.zip.blockmap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper.Studio-5.6.4-arm64-mac.zip.blockmap
+  - name: Beekeeper.Studio-5.6.4-mac.zip.blockmap
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/Beekeeper.Studio-5.6.4-mac.zip.blockmap
   - name: latest-linux-arm64.yml
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/latest-linux-arm64.yml
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/latest-linux.yml
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/latest-mac.yml
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.3/latest.yml
+    url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.6.4/latest.yml
   electron: 39.5.2
   method: src-yarn-lock
   aur:
@@ -2579,27 +2579,27 @@
 - id: github-desktop
   repository: https://github.com/desktop/desktop
   website: https://desktop.github.com
-  latest: release-3.5.6
-  src: https://github.com/desktop/desktop/archive/refs/tags/release-3.5.6.zip
+  latest: release-3.5.7
+  src: https://github.com/desktop/desktop/archive/refs/tags/release-3.5.7.zip
   downloads:
-  - name: GitHub.Desktop-3.5.6-checksums.txt
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-3.5.6-checksums.txt
+  - name: GitHub.Desktop-3.5.7-checksums.txt
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-3.5.7-checksums.txt
   - name: GitHub.Desktop-arm64.zip
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-arm64.zip
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-arm64.zip
   - name: GitHub.Desktop-x64.zip
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-x64.zip
-  - name: GitHubDesktop-3.5.6-x64-delta.nupkg
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-delta.nupkg
-    checksum: 577e8aca06a11c28e432f974facf31a4d53ebd253fa82f37c3fa0c9bd15d3eb9
-  - name: GitHubDesktop-3.5.6-x64-full.nupkg
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-full.nupkg
-    checksum: 5cf5d18bb353bb35ac6edb7079b76be56051fbe84c50ed250eef7cfc05ebc68d
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-x64.zip
+  - name: GitHubDesktop-3.5.7-x64-delta.nupkg
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-delta.nupkg
+    checksum: 357ff6f2bd32e127316c4b18b2ff7f2029d50f79d288f3c9bb33dcbaa9432e1b
+  - name: GitHubDesktop-3.5.7-x64-full.nupkg
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-full.nupkg
+    checksum: 99a6f7a1a6708632fb38279f73d330bed8daa49776c15f18dde02a0329f6a8ed
   - name: GitHubDesktopSetup-x64.exe
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.exe
-    checksum: 885787059e225a4594459ea7ec1339f1a27d08ebce118b095e9f0e9371ab3385
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.exe
+    checksum: 8562ae4128ff17fa0848d9e57b05681b3c3eb4c85a694ed75d39cba17a8370df
   - name: GitHubDesktopSetup-x64.msi
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.msi
-    checksum: bb2b5ef2257ec7c37033262ab236c44d972b9f67e0b1562c5a38e1e3c499b27d
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.msi
+    checksum: cb4c566b9c77e51df13f2469e4554f36c2164f47fde2525e0fbc0498806be7c9
   electron: 40.1.0
   method: src-yarn-lock
   aur:
@@ -4968,37 +4968,37 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v5.14.3
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v5.14.3.zip
+  latest: v5.15.0
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v5.15.0.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest.yml
-  - name: mStream-Server-5.14.3-arm64-mac.zip
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64-mac.zip
-  - name: mStream-Server-5.14.3-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64.AppImage
-  - name: mStream-Server-5.14.3-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64.dmg
-  - name: mStream-Server-5.14.3-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64.dmg.blockmap
-  - name: mStream-Server-5.14.3-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-armv7l.AppImage
-  - name: mStream-Server-5.14.3.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3.AppImage
-  - name: mStream-Server-Setup-5.14.3.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-Setup-5.14.3.exe
-  - name: mStream-Server-Setup-5.14.3.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-Setup-5.14.3.exe.blockmap
-  - name: mStream.Server-5.14.3-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream.Server-5.14.3-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest.yml
+  - name: mStream-Server-5.15.0-arm64-mac.zip
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64-mac.zip
+  - name: mStream-Server-5.15.0-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64.AppImage
+  - name: mStream-Server-5.15.0-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64.dmg
+  - name: mStream-Server-5.15.0-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64.dmg.blockmap
+  - name: mStream-Server-5.15.0-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-armv7l.AppImage
+  - name: mStream-Server-5.15.0.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0.AppImage
+  - name: mStream-Server-Setup-5.15.0.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-Setup-5.15.0.exe
+  - name: mStream-Server-Setup-5.15.0.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-Setup-5.15.0.exe.blockmap
+  - name: mStream.Server-5.15.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream.Server-5.15.0-arm64-mac.zip.blockmap
   aur:
   - mstream
   - mstream-git
@@ -5527,61 +5527,61 @@
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
-  latest: v2026.4.114
-  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.114.zip
+  latest: v2026.4.117
+  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.117.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/latest-linux.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/latest-mac.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/latest.yml
-  - name: P3X-OneNote-2026.4.114-aarch64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-aarch64.flatpak
-  - name: P3X-OneNote-2026.4.114-arm64-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-arm64-mac.zip
-  - name: P3X-OneNote-2026.4.114-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-arm64-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.114-arm64.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-arm64.AppImage
-  - name: P3X-OneNote-2026.4.114-arm64.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-arm64.dmg
-  - name: P3X-OneNote-2026.4.114-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-arm64.dmg.blockmap
-  - name: P3X-OneNote-2026.4.114-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-mac.zip
-  - name: P3X-OneNote-2026.4.114-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.114-universal-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-universal-mac.zip
-  - name: P3X-OneNote-2026.4.114-universal-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-universal-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.114-universal.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-universal.dmg
-  - name: P3X-OneNote-2026.4.114-universal.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-universal.dmg.blockmap
-  - name: P3X-OneNote-2026.4.114-x86_64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114-x86_64.flatpak
-  - name: p3x-onenote-2026.4.114.aarch64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/p3x-onenote-2026.4.114.aarch64.rpm
-  - name: P3X-OneNote-2026.4.114.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114.AppImage
-  - name: P3X-OneNote-2026.4.114.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114.dmg
-  - name: P3X-OneNote-2026.4.114.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-2026.4.114.dmg.blockmap
-  - name: p3x-onenote-2026.4.114.x86_64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/p3x-onenote-2026.4.114.x86_64.rpm
-  - name: P3X-OneNote-Setup-2026.4.114.exe
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-Setup-2026.4.114.exe
-  - name: P3X-OneNote-Setup-2026.4.114.exe.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/P3X-OneNote-Setup-2026.4.114.exe.blockmap
-  - name: p3x-onenote_2026.4.114_amd64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/p3x-onenote_2026.4.114_amd64.deb
-  - name: p3x-onenote_2026.4.114_arm64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.114/p3x-onenote_2026.4.114_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/latest.yml
+  - name: P3X-OneNote-2026.4.117-aarch64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-aarch64.flatpak
+  - name: P3X-OneNote-2026.4.117-arm64-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-arm64-mac.zip
+  - name: P3X-OneNote-2026.4.117-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-arm64-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.117-arm64.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-arm64.AppImage
+  - name: P3X-OneNote-2026.4.117-arm64.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-arm64.dmg
+  - name: P3X-OneNote-2026.4.117-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-arm64.dmg.blockmap
+  - name: P3X-OneNote-2026.4.117-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-mac.zip
+  - name: P3X-OneNote-2026.4.117-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.117-universal-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-universal-mac.zip
+  - name: P3X-OneNote-2026.4.117-universal-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-universal-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.117-universal.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-universal.dmg
+  - name: P3X-OneNote-2026.4.117-universal.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-universal.dmg.blockmap
+  - name: P3X-OneNote-2026.4.117-x86_64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117-x86_64.flatpak
+  - name: p3x-onenote-2026.4.117.aarch64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/p3x-onenote-2026.4.117.aarch64.rpm
+  - name: P3X-OneNote-2026.4.117.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117.AppImage
+  - name: P3X-OneNote-2026.4.117.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117.dmg
+  - name: P3X-OneNote-2026.4.117.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-2026.4.117.dmg.blockmap
+  - name: p3x-onenote-2026.4.117.x86_64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/p3x-onenote-2026.4.117.x86_64.rpm
+  - name: P3X-OneNote-Setup-2026.4.117.exe
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-Setup-2026.4.117.exe
+  - name: P3X-OneNote-Setup-2026.4.117.exe.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/P3X-OneNote-Setup-2026.4.117.exe.blockmap
+  - name: p3x-onenote_2026.4.117_amd64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/p3x-onenote_2026.4.117_amd64.deb
+  - name: p3x-onenote_2026.4.117_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.117/p3x-onenote_2026.4.117_arm64.deb
   electron: 41.1.0
   method: src-yarn-lock
   aur:
@@ -5591,45 +5591,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.326
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.326.zip
+  latest: v2026.4.340
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.340.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/latest.yml
-  - name: P3X-Redis-UI-2026.4.326-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.326-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.326-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.326-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.326-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.326-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.326-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.326.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui-2026.4.326.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.326.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-2026.4.326.AppImage
-  - name: p3x-redis-ui-2026.4.326.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui-2026.4.326.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.326.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-Setup-2026.4.326.exe
-  - name: P3X-Redis-UI-Setup-2026.4.326.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/P3X-Redis-UI-Setup-2026.4.326.exe.blockmap
-  - name: p3x-redis-ui_2026.4.326_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui_2026.4.326_amd64.deb
-  - name: p3x-redis-ui_2026.4.326_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.326/p3x-redis-ui_2026.4.326_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/latest.yml
+  - name: P3X-Redis-UI-2026.4.340-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.340-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.340-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.340-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.340-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.340-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.340-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.340.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/p3x-redis-ui-2026.4.340.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.340.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-2026.4.340.AppImage
+  - name: p3x-redis-ui-2026.4.340.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/p3x-redis-ui-2026.4.340.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.340.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-Setup-2026.4.340.exe
+  - name: P3X-Redis-UI-Setup-2026.4.340.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/P3X-Redis-UI-Setup-2026.4.340.exe.blockmap
+  - name: p3x-redis-ui_2026.4.340_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/p3x-redis-ui_2026.4.340_amd64.deb
+  - name: p3x-redis-ui_2026.4.340_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.340/p3x-redis-ui_2026.4.340_arm64.deb
   electron: 41.1.0
   method: src-yarn-lock
   aur:
@@ -8183,34 +8183,34 @@
 - id: tagspaces
   repository: https://github.com/tagspaces/tagspaces
   website: https://www.tagspaces.org/
-  latest: v6.10.3
-  src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.10.3.zip
+  latest: v6.10.4
+  src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.10.4.zip
   downloads:
   - name: SHA256SUMS.txt
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/SHA256SUMS.txt
-  - name: tagspaces-android-6.10.3.apk
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-android-6.10.3.apk
-  - name: tagspaces-linux-amd64-6.10.3.deb
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-linux-amd64-6.10.3.deb
-  - name: tagspaces-linux-x64-6.10.3.tar.gz
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-linux-x64-6.10.3.tar.gz
-  - name: tagspaces-linux-x86_64-6.10.3.AppImage
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-linux-x86_64-6.10.3.AppImage
-  - name: tagspaces-mac-arm64-6.10.3.dmg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-arm64-6.10.3.dmg
-  - name: tagspaces-mac-arm64-6.10.3.pkg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-arm64-6.10.3.pkg
-  - name: tagspaces-mac-x64-6.10.3.dmg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-x64-6.10.3.dmg
-  - name: tagspaces-mac-x64-6.10.3.pkg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-x64-6.10.3.pkg
-  - name: tagspaces-web-6.10.3.zip
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-web-6.10.3.zip
-  - name: tagspaces-win-x64-6.10.3.exe
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-win-x64-6.10.3.exe
-  - name: tagspaces-win-x64-6.10.3.zip
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-win-x64-6.10.3.zip
-  electron: 40.8.3
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/SHA256SUMS.txt
+  - name: tagspaces-android-6.10.4.apk
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-android-6.10.4.apk
+  - name: tagspaces-linux-amd64-6.10.4.deb
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-linux-amd64-6.10.4.deb
+  - name: tagspaces-linux-x64-6.10.4.tar.gz
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-linux-x64-6.10.4.tar.gz
+  - name: tagspaces-linux-x86_64-6.10.4.AppImage
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-linux-x86_64-6.10.4.AppImage
+  - name: tagspaces-mac-arm64-6.10.4.dmg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-arm64-6.10.4.dmg
+  - name: tagspaces-mac-arm64-6.10.4.pkg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-arm64-6.10.4.pkg
+  - name: tagspaces-mac-x64-6.10.4.dmg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-x64-6.10.4.dmg
+  - name: tagspaces-mac-x64-6.10.4.pkg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-x64-6.10.4.pkg
+  - name: tagspaces-web-6.10.4.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-web-6.10.4.zip
+  - name: tagspaces-win-x64-6.10.4.exe
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-win-x64-6.10.4.exe
+  - name: tagspaces-win-x64-6.10.4.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-win-x64-6.10.4.zip
+  electron: 41.1.0
   method: src-package-lock
   aur:
   - tagspaces
