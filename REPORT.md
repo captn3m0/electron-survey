@@ -85,7 +85,7 @@ Apps with detected Electron version: 289 / 613
 | [Inboxer](https://denysdovhan.com/inboxer) [[repo]](https://github.com/denysdovhan/inboxer) | 3.1.4 ⚠️ | 7y 2mo ago | src-package-lock |
 | [InfiniTex](https://github.com/fetacore/Infinitex) [[repo]](https://github.com/fetacore/Infinitex) | 3.0.6 ⚠️ | 7y 6mo ago | src-yarn-lock |
 | [Infiniti Clips](https://infiniticlips.com/) [[repo]](https://github.com/azure06/infiniti-clips.git) | 21.2.0 ⚠️ | 3y 6mo ago | src-package-lock |
-| [Insomnia](https://insomnia.rest/) [[repo]](https://github.com/getinsomnia/insomnia) | 38.4.0 ⚠️ | 5mo ago | src-package-lock |
+| [Insomnia](https://insomnia.rest/) [[repo]](https://github.com/getinsomnia/insomnia) | 41.0.3 ⚠️ | 15d ago | src-package-lock |
 | [Instatron](https://github.com/alexdevero/instatron) [[repo]](https://github.com/alexdevero/instatron) | 9.0.0 ⚠️ | 5y 11mo ago | src-yarn-lock |
 | [Invizi](https://invizi.co/) [[repo]](https://github.com/invizi/invizi/) | 8.3.0 ⚠️ | 5y 11mo ago | src-package-lock |
 | [Janpankana](https://github.com/styunan/japankana#readme) [[repo]](https://github.com/styunan/japankana) | 12.2.3 ⚠️ | 4y 5mo ago | src-range-guess |
@@ -123,7 +123,7 @@ Apps with detected Electron version: 289 / 613
 | [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 40.6.1 ⚠️ | 1mo ago |  |
 | [Mini Diary](https://minidiary.app) [[repo]](https://github.com/samuelmeuli/mini-diary) | 8.3.0 ⚠️ | 5y 11mo ago | src-yarn-lock |
 | [Minimal Image Viewer](https://github.com/hayhaydz/MIV) [[repo]](https://github.com/hayhaydz/MIV) | 13.1.4 ⚠️ | 4y 10mo ago | src-yarn-lock |
-| [Mockoon](https://mockoon.com) [[repo]](https://github.com/255kb/mockoon) | 39.2.7 ⚠️ | 3mo ago | src-package-lock |
+| [Mockoon](https://mockoon.com) [[repo]](https://github.com/255kb/mockoon) | 41.1.0 | 5d ago | src-package-lock |
 | [ModernDeck for Twitter](https://moderndeck.org/) [[repo]](https://github.com/dangeredwolf/ModernDeck) | 19.1.9 ⚠️ | 3y 4mo ago | src-package-lock |
 | [Monokle](https://monokle.io) [[repo]](https://github.com/kubeshop/monokle) | 28.2.4 ⚠️ | 2y 1mo ago | src-package-lock |
 | [MoviePrint](https://www.movieprint.org/) [[repo]](https://github.com/fakob/MoviePrint_v004) | 7.1.11 ⚠️ | 6y 3mo ago | src-yarn-lock |
@@ -139,7 +139,7 @@ Apps with detected Electron version: 289 / 613
 | [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 37.8.0 ⚠️ | 5mo ago | src-package-lock |
 | [Oversetter](https://4gray.github.io/oversetter/) [[repo]](https://github.com/4gray/oversetter) | 7.2.4 ⚠️ | 6y ago | src-package-lock |
 | [P3X OneNote](https://www.corifeus.com/onenote) [[repo]](https://github.com/patrikx3/onenote) | 41.1.0 | 5d ago | src-yarn-lock |
-| [P3X Redis UI](https://www.corifeus.com/redis-ui) [[repo]](https://github.com/patrikx3/redis-ui) | 41.1.0 | 5d ago | src-yarn-lock |
+| [P3X Redis UI](https://www.corifeus.com/redis-ui) [[repo]](https://github.com/patrikx3/redis-ui) | 41.1.1 ⚠️ | 0d ago | src-yarn-lock |
 | [PanWriter](https://panwriter.com) [[repo]](https://github.com/mb21/panwriter) | 39.2.7 ⚠️ | 3mo ago | src-package-lock |
 | [PaperArxiv](https://github.com/fuzihaofzh/PaperArxiv) [[repo]](https://github.com/fuzihaofzh/PaperArxiv) | 33.4.11 ⚠️ | 11mo ago | src-package-lock |
 | [PaperCubes](https://github.com/FlorianFe/PaperCubes) [[repo]](https://github.com/FlorianFe/PaperCubes) | 1.7.8 ⚠️ | 8y 7mo ago | src-package-lock |
