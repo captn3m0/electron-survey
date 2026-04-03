@@ -2434,31 +2434,31 @@
 - id: gdevelop
   repository: https://github.com/4ian/GDevelop
   website: https://gdevelop-app.com/
-  latest: v5.6.263
-  src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.263.zip
+  latest: v5.6.264
+  src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.264.zip
   downloads:
-  - name: GDevelop-5-5.6.263-arm64.AppImage
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-5.6.263-arm64.AppImage
-  - name: GDevelop-5-5.6.263-universal-mac.zip
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-5.6.263-universal-mac.zip
-  - name: GDevelop-5-5.6.263-universal.dmg
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-5.6.263-universal.dmg
-  - name: GDevelop-5-5.6.263-universal.dmg.blockmap
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-5.6.263-universal.dmg.blockmap
-  - name: GDevelop-5-5.6.263.AppImage
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-5.6.263.AppImage
-  - name: GDevelop-5-Setup-5.6.263.exe
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-Setup-5.6.263.exe
-  - name: GDevelop-5-Setup-5.6.263.exe.blockmap
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-Setup-5.6.263.exe.blockmap
+  - name: GDevelop-5-5.6.264-arm64.AppImage
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-arm64.AppImage
+  - name: GDevelop-5-5.6.264-universal-mac.zip
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-universal-mac.zip
+  - name: GDevelop-5-5.6.264-universal.dmg
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-universal.dmg
+  - name: GDevelop-5-5.6.264-universal.dmg.blockmap
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-universal.dmg.blockmap
+  - name: GDevelop-5-5.6.264.AppImage
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264.AppImage
+  - name: GDevelop-5-Setup-5.6.264.exe
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-Setup-5.6.264.exe
+  - name: GDevelop-5-Setup-5.6.264.exe.blockmap
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-Setup-5.6.264.exe.blockmap
   - name: latest-linux-arm64.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/latest-linux-arm64.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/latest-linux.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/latest-mac.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.263/latest.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest.yml
   electron: 32.3.3
   method: src-package-lock
   aur:
@@ -4766,36 +4766,36 @@
 - id: mockoon
   repository: https://github.com/255kb/mockoon
   website: https://mockoon.com
-  latest: v9.6.0
-  src: https://github.com/255kb/mockoon/archive/refs/tags/v9.6.0.zip
+  latest: v9.6.1
+  src: https://github.com/255kb/mockoon/archive/refs/tags/v9.6.1.zip
   downloads:
-  - name: mockoon-9.6.0.amd64.deb
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-9.6.0.amd64.deb
-  - name: mockoon-9.6.0.amd64.snap
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-9.6.0.amd64.snap
-  - name: mockoon-9.6.0.arm64.AppImage
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-9.6.0.arm64.AppImage
-  - name: mockoon-9.6.0.arm64.deb
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-9.6.0.arm64.deb
-  - name: mockoon-9.6.0.x86_64.AppImage
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-9.6.0.x86_64.AppImage
-  - name: mockoon-9.6.0.x86_64.rpm
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-9.6.0.x86_64.rpm
-  - name: mockoon-app-v9.6.0-sbom.spdx.json
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon-app-v9.6.0-sbom.spdx.json
-  - name: mockoon.9.6.0.appx
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon.9.6.0.appx
-  - name: mockoon.portable.9.6.0.exe
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon.portable.9.6.0.exe
-  - name: mockoon.setup.9.6.0.arm64.dmg
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon.setup.9.6.0.arm64.dmg
-  - name: mockoon.setup.9.6.0.exe
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon.setup.9.6.0.exe
-  - name: mockoon.setup.9.6.0.universal.dmg
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon.setup.9.6.0.universal.dmg
-  - name: mockoon.setup.9.6.0.x64.dmg
-    url: https://github.com/mockoon/mockoon/releases/download/v9.6.0/mockoon.setup.9.6.0.x64.dmg
-  electron: 41.1.0
+  - name: mockoon-9.6.1.amd64.deb
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-9.6.1.amd64.deb
+  - name: mockoon-9.6.1.amd64.snap
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-9.6.1.amd64.snap
+  - name: mockoon-9.6.1.arm64.AppImage
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-9.6.1.arm64.AppImage
+  - name: mockoon-9.6.1.arm64.deb
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-9.6.1.arm64.deb
+  - name: mockoon-9.6.1.x86_64.AppImage
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-9.6.1.x86_64.AppImage
+  - name: mockoon-9.6.1.x86_64.rpm
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-9.6.1.x86_64.rpm
+  - name: mockoon-app-v9.6.1-sbom.spdx.json
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon-app-v9.6.1-sbom.spdx.json
+  - name: mockoon.9.6.1.appx
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon.9.6.1.appx
+  - name: mockoon.portable.9.6.1.exe
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon.portable.9.6.1.exe
+  - name: mockoon.setup.9.6.1.arm64.dmg
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon.setup.9.6.1.arm64.dmg
+  - name: mockoon.setup.9.6.1.exe
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon.setup.9.6.1.exe
+  - name: mockoon.setup.9.6.1.universal.dmg
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon.setup.9.6.1.universal.dmg
+  - name: mockoon.setup.9.6.1.x64.dmg
+    url: https://github.com/mockoon/mockoon/releases/download/v9.6.1/mockoon.setup.9.6.1.x64.dmg
+  electron: 41.1.1
   method: src-package-lock
   aur:
   - mockoon
@@ -4968,37 +4968,37 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v5.15.0
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v5.15.0.zip
+  latest: v5.16.0
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v5.16.0.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/latest.yml
-  - name: mStream-Server-5.15.0-arm64-mac.zip
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64-mac.zip
-  - name: mStream-Server-5.15.0-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64.AppImage
-  - name: mStream-Server-5.15.0-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64.dmg
-  - name: mStream-Server-5.15.0-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-arm64.dmg.blockmap
-  - name: mStream-Server-5.15.0-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0-armv7l.AppImage
-  - name: mStream-Server-5.15.0.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-5.15.0.AppImage
-  - name: mStream-Server-Setup-5.15.0.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-Setup-5.15.0.exe
-  - name: mStream-Server-Setup-5.15.0.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream-Server-Setup-5.15.0.exe.blockmap
-  - name: mStream.Server-5.15.0-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.15.0/mStream.Server-5.15.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest.yml
+  - name: mStream-Server-5.16.0-arm64-mac.zip
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64-mac.zip
+  - name: mStream-Server-5.16.0-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64.AppImage
+  - name: mStream-Server-5.16.0-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64.dmg
+  - name: mStream-Server-5.16.0-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64.dmg.blockmap
+  - name: mStream-Server-5.16.0-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-armv7l.AppImage
+  - name: mStream-Server-5.16.0.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0.AppImage
+  - name: mStream-Server-Setup-5.16.0.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-Setup-5.16.0.exe
+  - name: mStream-Server-Setup-5.16.0.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-Setup-5.16.0.exe.blockmap
+  - name: mStream.Server-5.16.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream.Server-5.16.0-arm64-mac.zip.blockmap
   aur:
   - mstream
   - mstream-git
@@ -5311,45 +5311,45 @@
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
-  latest: player@1.31.0
-  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.31.0.zip
+  latest: player@1.32.0
+  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.32.0.zip
   downloads:
   - name: latest.json
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/latest.json
-  - name: Nuclear-1.31.0-1.x86_64.rpm
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear-1.31.0-1.x86_64.rpm
-  - name: Nuclear-1.31.0-1.x86_64.rpm.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear-1.31.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/latest.json
+  - name: Nuclear-1.32.0-1.x86_64.rpm
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear-1.32.0-1.x86_64.rpm
+  - name: Nuclear-1.32.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear-1.32.0-1.x86_64.rpm.sig
   - name: nuclear-music-player.flatpak
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/nuclear-music-player.flatpak
-  - name: Nuclear_1.31.0_aarch64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_aarch64.dmg
-  - name: Nuclear_1.31.0_amd64.AppImage
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_amd64.AppImage
-  - name: Nuclear_1.31.0_amd64.AppImage.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_amd64.AppImage.sig
-  - name: Nuclear_1.31.0_amd64.deb
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_amd64.deb
-  - name: Nuclear_1.31.0_amd64.deb.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_amd64.deb.sig
-  - name: Nuclear_1.31.0_x64-setup.exe
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_x64-setup.exe
-  - name: Nuclear_1.31.0_x64-setup.exe.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_x64-setup.exe.sig
-  - name: Nuclear_1.31.0_x64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_x64.dmg
-  - name: Nuclear_1.31.0_x64_en-US.msi
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_x64_en-US.msi
-  - name: Nuclear_1.31.0_x64_en-US.msi.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_1.31.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/nuclear-music-player.flatpak
+  - name: Nuclear_1.32.0_aarch64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_aarch64.dmg
+  - name: Nuclear_1.32.0_amd64.AppImage
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.AppImage
+  - name: Nuclear_1.32.0_amd64.AppImage.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.AppImage.sig
+  - name: Nuclear_1.32.0_amd64.deb
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.deb
+  - name: Nuclear_1.32.0_amd64.deb.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.deb.sig
+  - name: Nuclear_1.32.0_x64-setup.exe
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64-setup.exe
+  - name: Nuclear_1.32.0_x64-setup.exe.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64-setup.exe.sig
+  - name: Nuclear_1.32.0_x64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64.dmg
+  - name: Nuclear_1.32.0_x64_en-US.msi
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64_en-US.msi
+  - name: Nuclear_1.32.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64_en-US.msi.sig
   - name: Nuclear_aarch64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_aarch64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_aarch64.app.tar.gz
   - name: Nuclear_aarch64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_aarch64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_aarch64.app.tar.gz.sig
   - name: Nuclear_x64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_x64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_x64.app.tar.gz
   - name: Nuclear_x64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.31.0/Nuclear_x64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_x64.app.tar.gz.sig
   aur:
   - nuclear-player
   - nuclear-player-bin
@@ -5591,45 +5591,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.348
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.348.zip
+  latest: v2026.4.352
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.352.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/latest.yml
-  - name: P3X-Redis-UI-2026.4.346-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.346-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.346-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.346-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.346-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.346-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.346-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.346-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.348-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.348-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.348-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.348-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.348-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.348-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.348.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/p3x-redis-ui-2026.4.348.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.348.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-2026.4.348.AppImage
-  - name: p3x-redis-ui-2026.4.348.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/p3x-redis-ui-2026.4.348.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.346.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-Setup-2026.4.346.exe
-  - name: P3X-Redis-UI-Setup-2026.4.346.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/P3X-Redis-UI-Setup-2026.4.346.exe.blockmap
-  - name: p3x-redis-ui_2026.4.348_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/p3x-redis-ui_2026.4.348_amd64.deb
-  - name: p3x-redis-ui_2026.4.348_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.348/p3x-redis-ui_2026.4.348_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest.yml
+  - name: P3X-Redis-UI-2026.4.352-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.352-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.352-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.352-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.352-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.352-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.352-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.352.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui-2026.4.352.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.352.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352.AppImage
+  - name: p3x-redis-ui-2026.4.352.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui-2026.4.352.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.352.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-Setup-2026.4.352.exe
+  - name: P3X-Redis-UI-Setup-2026.4.352.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-Setup-2026.4.352.exe.blockmap
+  - name: p3x-redis-ui_2026.4.352_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui_2026.4.352_amd64.deb
+  - name: p3x-redis-ui_2026.4.352_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui_2026.4.352_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:
@@ -7221,80 +7221,80 @@
 - id: sleek
   repository: https://github.com/ransome1/sleek
   website: https://github.com/ransome1/sleek
-  latest: v2.0.23
-  src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.23.zip
+  latest: v2.0.24
+  src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.24.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/latest-linux-arm64.yml
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/latest-linux.yml
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/latest-mac.yml
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/latest.yml
-  - name: sleek-2.0.23-linux-aarch64.rpm
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-aarch64.rpm
-  - name: sleek-2.0.23-linux-amd64.deb
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-amd64.deb
-  - name: sleek-2.0.23-linux-arm64.AppImage
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-arm64.AppImage
-  - name: sleek-2.0.23-linux-arm64.deb
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-arm64.deb
-  - name: sleek-2.0.23-linux-arm64.freebsd
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-arm64.freebsd
-  - name: sleek-2.0.23-linux-x64.freebsd
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-x64.freebsd
-  - name: sleek-2.0.23-linux-x86_64.AppImage
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-x86_64.AppImage
-  - name: sleek-2.0.23-linux-x86_64.rpm
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-linux-x86_64.rpm
-  - name: sleek-2.0.23-mac-arm64.dmg
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-arm64.dmg
-  - name: sleek-2.0.23-mac-arm64.dmg.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-arm64.dmg.blockmap
-  - name: sleek-2.0.23-mac-arm64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-arm64.zip
-  - name: sleek-2.0.23-mac-arm64.zip.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-arm64.zip.blockmap
-  - name: sleek-2.0.23-mac-x64.dmg
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-x64.dmg
-  - name: sleek-2.0.23-mac-x64.dmg.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-x64.dmg.blockmap
-  - name: sleek-2.0.23-mac-x64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-x64.zip
-  - name: sleek-2.0.23-mac-x64.zip.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-mac-x64.zip.blockmap
-  - name: sleek-2.0.23-win-arm64-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-arm64-Setup.exe
-  - name: sleek-2.0.23-win-arm64-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-arm64-Setup.exe.blockmap
-  - name: sleek-2.0.23-win-arm64.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-arm64.exe
-  - name: sleek-2.0.23-win-arm64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-arm64.zip
-  - name: sleek-2.0.23-win-ia32-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-ia32-Setup.exe
-  - name: sleek-2.0.23-win-ia32-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-ia32-Setup.exe.blockmap
-  - name: sleek-2.0.23-win-ia32.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-ia32.exe
-  - name: sleek-2.0.23-win-ia32.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-ia32.zip
-  - name: sleek-2.0.23-win-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-Setup.exe
-  - name: sleek-2.0.23-win-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-Setup.exe.blockmap
-  - name: sleek-2.0.23-win-x64-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-x64-Setup.exe
-  - name: sleek-2.0.23-win-x64-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-x64-Setup.exe.blockmap
-  - name: sleek-2.0.23-win-x64.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-x64.exe
-  - name: sleek-2.0.23-win-x64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win-x64.zip
-  - name: sleek-2.0.23-win.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.23/sleek-2.0.23-win.exe
-  electron: 40.1.0
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest.yml
+  - name: sleek-2.0.24-linux-aarch64.rpm
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-aarch64.rpm
+  - name: sleek-2.0.24-linux-amd64.deb
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-amd64.deb
+  - name: sleek-2.0.24-linux-arm64.AppImage
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-arm64.AppImage
+  - name: sleek-2.0.24-linux-arm64.deb
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-arm64.deb
+  - name: sleek-2.0.24-linux-arm64.freebsd
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-arm64.freebsd
+  - name: sleek-2.0.24-linux-x64.freebsd
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-x64.freebsd
+  - name: sleek-2.0.24-linux-x86_64.AppImage
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-x86_64.AppImage
+  - name: sleek-2.0.24-linux-x86_64.rpm
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-x86_64.rpm
+  - name: sleek-2.0.24-mac-arm64.dmg
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.dmg
+  - name: sleek-2.0.24-mac-arm64.dmg.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.dmg.blockmap
+  - name: sleek-2.0.24-mac-arm64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.zip
+  - name: sleek-2.0.24-mac-arm64.zip.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.zip.blockmap
+  - name: sleek-2.0.24-mac-x64.dmg
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.dmg
+  - name: sleek-2.0.24-mac-x64.dmg.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.dmg.blockmap
+  - name: sleek-2.0.24-mac-x64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.zip
+  - name: sleek-2.0.24-mac-x64.zip.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.zip.blockmap
+  - name: sleek-2.0.24-win-arm64-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64-Setup.exe
+  - name: sleek-2.0.24-win-arm64-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64-Setup.exe.blockmap
+  - name: sleek-2.0.24-win-arm64.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64.exe
+  - name: sleek-2.0.24-win-arm64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64.zip
+  - name: sleek-2.0.24-win-ia32-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32-Setup.exe
+  - name: sleek-2.0.24-win-ia32-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32-Setup.exe.blockmap
+  - name: sleek-2.0.24-win-ia32.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32.exe
+  - name: sleek-2.0.24-win-ia32.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32.zip
+  - name: sleek-2.0.24-win-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-Setup.exe
+  - name: sleek-2.0.24-win-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-Setup.exe.blockmap
+  - name: sleek-2.0.24-win-x64-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64-Setup.exe
+  - name: sleek-2.0.24-win-x64-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64-Setup.exe.blockmap
+  - name: sleek-2.0.24-win-x64.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64.exe
+  - name: sleek-2.0.24-win-x64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64.zip
+  - name: sleek-2.0.24-win.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win.exe
+  electron: 41.1.1
   method: src-package-lock
   aur:
   - sleek
