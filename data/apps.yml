@@ -5156,28 +5156,28 @@
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
-  latest: v8.9.8
-  src: https://github.com/lutzroeder/netron/archive/refs/tags/v8.9.8.zip
+  latest: v9.0.0
+  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.0.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/latest-linux.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/latest-mac.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/latest.yml
-  - name: Netron-8.9.8-amd64.deb
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/Netron-8.9.8-amd64.deb
-  - name: Netron-8.9.8-mac.zip
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/Netron-8.9.8-mac.zip
-  - name: Netron-8.9.8-mac.zip.blockmap
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/Netron-8.9.8-mac.zip.blockmap
-  - name: Netron-8.9.8-x86_64.rpm
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/Netron-8.9.8-x86_64.rpm
-  - name: Netron-8.9.8.dmg
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/Netron-8.9.8.dmg
-  - name: Netron-Setup-8.9.8.exe
-    url: https://github.com/lutzroeder/netron/releases/download/v8.9.8/Netron-Setup-8.9.8.exe
-  electron: 41.1.0
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/latest.yml
+  - name: Netron-9.0.0-amd64.deb
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-amd64.deb
+  - name: Netron-9.0.0-mac.zip
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-mac.zip
+  - name: Netron-9.0.0-mac.zip.blockmap
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-mac.zip.blockmap
+  - name: Netron-9.0.0-x86_64.rpm
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-x86_64.rpm
+  - name: Netron-9.0.0.dmg
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0.dmg
+  - name: Netron-Setup-9.0.0.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-Setup-9.0.0.exe
+  electron: 41.1.1
   method: src-package-lock
   aur:
   - netron
@@ -5311,45 +5311,45 @@
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
-  latest: player@1.32.0
-  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.32.0.zip
+  latest: player@1.32.1
+  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.32.1.zip
   downloads:
   - name: latest.json
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/latest.json
-  - name: Nuclear-1.32.0-1.x86_64.rpm
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear-1.32.0-1.x86_64.rpm
-  - name: Nuclear-1.32.0-1.x86_64.rpm.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear-1.32.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/latest.json
+  - name: Nuclear-1.32.1-1.x86_64.rpm
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear-1.32.1-1.x86_64.rpm
+  - name: Nuclear-1.32.1-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear-1.32.1-1.x86_64.rpm.sig
   - name: nuclear-music-player.flatpak
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/nuclear-music-player.flatpak
-  - name: Nuclear_1.32.0_aarch64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_aarch64.dmg
-  - name: Nuclear_1.32.0_amd64.AppImage
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.AppImage
-  - name: Nuclear_1.32.0_amd64.AppImage.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.AppImage.sig
-  - name: Nuclear_1.32.0_amd64.deb
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.deb
-  - name: Nuclear_1.32.0_amd64.deb.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_amd64.deb.sig
-  - name: Nuclear_1.32.0_x64-setup.exe
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64-setup.exe
-  - name: Nuclear_1.32.0_x64-setup.exe.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64-setup.exe.sig
-  - name: Nuclear_1.32.0_x64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64.dmg
-  - name: Nuclear_1.32.0_x64_en-US.msi
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64_en-US.msi
-  - name: Nuclear_1.32.0_x64_en-US.msi.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_1.32.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/nuclear-music-player.flatpak
+  - name: Nuclear_1.32.1_aarch64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_aarch64.dmg
+  - name: Nuclear_1.32.1_amd64.AppImage
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_amd64.AppImage
+  - name: Nuclear_1.32.1_amd64.AppImage.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_amd64.AppImage.sig
+  - name: Nuclear_1.32.1_amd64.deb
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_amd64.deb
+  - name: Nuclear_1.32.1_amd64.deb.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_amd64.deb.sig
+  - name: Nuclear_1.32.1_x64-setup.exe
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_x64-setup.exe
+  - name: Nuclear_1.32.1_x64-setup.exe.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_x64-setup.exe.sig
+  - name: Nuclear_1.32.1_x64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_x64.dmg
+  - name: Nuclear_1.32.1_x64_en-US.msi
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_x64_en-US.msi
+  - name: Nuclear_1.32.1_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_1.32.1_x64_en-US.msi.sig
   - name: Nuclear_aarch64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_aarch64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_aarch64.app.tar.gz
   - name: Nuclear_aarch64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_aarch64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_aarch64.app.tar.gz.sig
   - name: Nuclear_x64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_x64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_x64.app.tar.gz
   - name: Nuclear_x64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.0/Nuclear_x64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.32.1/Nuclear_x64.app.tar.gz.sig
   aur:
   - nuclear-player
   - nuclear-player-bin
@@ -5527,62 +5527,62 @@
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
-  latest: v2026.4.118
-  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.118.zip
+  latest: v2026.4.119
+  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.119.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/latest-linux.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/latest-mac.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/latest.yml
-  - name: P3X-OneNote-2026.4.118-aarch64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-aarch64.flatpak
-  - name: P3X-OneNote-2026.4.118-arm64-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-arm64-mac.zip
-  - name: P3X-OneNote-2026.4.118-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-arm64-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.118-arm64.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-arm64.AppImage
-  - name: P3X-OneNote-2026.4.118-arm64.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-arm64.dmg
-  - name: P3X-OneNote-2026.4.118-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-arm64.dmg.blockmap
-  - name: P3X-OneNote-2026.4.118-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-mac.zip
-  - name: P3X-OneNote-2026.4.118-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.118-universal-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-universal-mac.zip
-  - name: P3X-OneNote-2026.4.118-universal-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-universal-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.118-universal.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-universal.dmg
-  - name: P3X-OneNote-2026.4.118-universal.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-universal.dmg.blockmap
-  - name: P3X-OneNote-2026.4.118-x86_64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118-x86_64.flatpak
-  - name: p3x-onenote-2026.4.118.aarch64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/p3x-onenote-2026.4.118.aarch64.rpm
-  - name: P3X-OneNote-2026.4.118.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118.AppImage
-  - name: P3X-OneNote-2026.4.118.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118.dmg
-  - name: P3X-OneNote-2026.4.118.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-2026.4.118.dmg.blockmap
-  - name: p3x-onenote-2026.4.118.x86_64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/p3x-onenote-2026.4.118.x86_64.rpm
-  - name: P3X-OneNote-Setup-2026.4.118.exe
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-Setup-2026.4.118.exe
-  - name: P3X-OneNote-Setup-2026.4.118.exe.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/P3X-OneNote-Setup-2026.4.118.exe.blockmap
-  - name: p3x-onenote_2026.4.118_amd64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/p3x-onenote_2026.4.118_amd64.deb
-  - name: p3x-onenote_2026.4.118_arm64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.118/p3x-onenote_2026.4.118_arm64.deb
-  electron: 41.1.0
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest.yml
+  - name: P3X-OneNote-2026.4.119-aarch64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-aarch64.flatpak
+  - name: P3X-OneNote-2026.4.119-arm64-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64-mac.zip
+  - name: P3X-OneNote-2026.4.119-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.119-arm64.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64.AppImage
+  - name: P3X-OneNote-2026.4.119-arm64.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64.dmg
+  - name: P3X-OneNote-2026.4.119-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64.dmg.blockmap
+  - name: P3X-OneNote-2026.4.119-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-mac.zip
+  - name: P3X-OneNote-2026.4.119-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.119-universal-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal-mac.zip
+  - name: P3X-OneNote-2026.4.119-universal-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.119-universal.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal.dmg
+  - name: P3X-OneNote-2026.4.119-universal.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal.dmg.blockmap
+  - name: P3X-OneNote-2026.4.119-x86_64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-x86_64.flatpak
+  - name: p3x-onenote-2026.4.119.aarch64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote-2026.4.119.aarch64.rpm
+  - name: P3X-OneNote-2026.4.119.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119.AppImage
+  - name: P3X-OneNote-2026.4.119.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119.dmg
+  - name: P3X-OneNote-2026.4.119.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119.dmg.blockmap
+  - name: p3x-onenote-2026.4.119.x86_64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote-2026.4.119.x86_64.rpm
+  - name: P3X-OneNote-Setup-2026.4.119.exe
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-Setup-2026.4.119.exe
+  - name: P3X-OneNote-Setup-2026.4.119.exe.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-Setup-2026.4.119.exe.blockmap
+  - name: p3x-onenote_2026.4.119_amd64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote_2026.4.119_amd64.deb
+  - name: p3x-onenote_2026.4.119_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote_2026.4.119_arm64.deb
+  electron: 41.1.1
   method: src-yarn-lock
   aur:
   - p3x-onenote-bin
@@ -5591,45 +5591,29 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.352
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.352.zip
+  latest: v2026.4.608
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.608.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest-linux.yml
-  - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest-mac.yml
-  - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/latest.yml
-  - name: P3X-Redis-UI-2026.4.352-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.352-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.352-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.352-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.352-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.352-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.352-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.352.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui-2026.4.352.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.352.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-2026.4.352.AppImage
-  - name: p3x-redis-ui-2026.4.352.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui-2026.4.352.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.352.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-Setup-2026.4.352.exe
-  - name: P3X-Redis-UI-Setup-2026.4.352.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/P3X-Redis-UI-Setup-2026.4.352.exe.blockmap
-  - name: p3x-redis-ui_2026.4.352_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui_2026.4.352_amd64.deb
-  - name: p3x-redis-ui_2026.4.352_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.352/p3x-redis-ui_2026.4.352_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/latest-linux.yml
+  - name: P3X-Redis-UI-2026.4.608-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.608-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.608-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.608.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui-2026.4.608.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.608.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608.AppImage
+  - name: p3x-redis-ui-2026.4.608.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui-2026.4.608.x86_64.rpm
+  - name: p3x-redis-ui_2026.4.608_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui_2026.4.608_amd64.deb
+  - name: p3x-redis-ui_2026.4.608_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui_2026.4.608_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:

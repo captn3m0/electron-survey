@@ -130,7 +130,7 @@ Apps with detected Electron version: 289 / 613
 | Multiple File Manager [[repo]](https://github.com/dhanyn10/multiple-file-manager) | 30.5.1 ⚠️ | 1y 6mo ago | src-package-lock |
 | Multrin [[repo]](https://github.com/sentialx/multrin) | 8.2.2 ⚠️ | 6y ago | src-yarn-lock |
 | [Mélodie](https://feugy.github.io/melodie) [[repo]](https://github.com/feugy/melodie) | 18.0.0 ⚠️ | 4y ago | src-package-lock |
-| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 41.1.0 ⚠️ | 7d ago | src-package-lock |
+| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 41.1.1 | 2d ago | src-package-lock |
 | [NetworkAssembler](https://github.com/kir486680/Network-Assembler) [[repo]](https://github.com/kir486680/Network-Assembler) | 7.2.4 ⚠️ | 6y ago | src-package-lock |
 | [NeuCalculator](https://github.com/moh3n9595/neu-calculator) [[repo]](https://github.com/moh3n9595/neu-calculator) | 7.1.13 ⚠️ | 6y 2mo ago | src-yarn-lock |
 | [ODrive](https://github.com/liberodark/ODrive) [[repo]](https://github.com/liberodark/ODrive) | 2.0.18 ⚠️ | 7y 2mo ago | src-range-guess |
@@ -138,7 +138,7 @@ Apps with detected Electron version: 289 / 613
 | [Open Log Viewer](https://github.com/tmoreno/open-log-viewer) [[repo]](https://github.com/tmoreno/open-log-viewer) | 8.1.1 ⚠️ | 6y 1mo ago | src-package-lock |
 | [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 37.8.0 ⚠️ | 5mo ago | src-package-lock |
 | [Oversetter](https://4gray.github.io/oversetter/) [[repo]](https://github.com/4gray/oversetter) | 7.2.4 ⚠️ | 6y ago | src-package-lock |
-| [P3X OneNote](https://www.corifeus.com/onenote) [[repo]](https://github.com/patrikx3/onenote) | 41.1.0 ⚠️ | 7d ago | src-yarn-lock |
+| [P3X OneNote](https://www.corifeus.com/onenote) [[repo]](https://github.com/patrikx3/onenote) | 41.1.1 | 2d ago | src-yarn-lock |
 | [P3X Redis UI](https://www.corifeus.com/redis-ui) [[repo]](https://github.com/patrikx3/redis-ui) | 41.1.1 | 2d ago | src-yarn-lock |
 | [PanWriter](https://panwriter.com) [[repo]](https://github.com/mb21/panwriter) | 39.2.7 ⚠️ | 3mo ago | src-package-lock |
 | [PaperArxiv](https://github.com/fuzihaofzh/PaperArxiv) [[repo]](https://github.com/fuzihaofzh/PaperArxiv) | 33.4.11 ⚠️ | 11mo ago | src-package-lock |
