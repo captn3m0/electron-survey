@@ -442,51 +442,51 @@
 - id: blockbench
   repository: https://github.com/JannisX11/blockbench
   website: https://blockbench.net/
-  latest: v5.1.1
-  src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.1.zip
+  latest: v5.1.2
+  src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.2.zip
   downloads:
-  - name: Blockbench_5.1.1.AppImage
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.AppImage
-  - name: Blockbench_5.1.1.deb
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.deb
-  - name: Blockbench_5.1.1.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.exe
-  - name: Blockbench_5.1.1.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.exe.blockmap
-  - name: Blockbench_5.1.1.rpm
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1.rpm
-  - name: Blockbench_5.1.1_portable.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_5.1.1_portable.exe
-  - name: Blockbench_arm64_5.1.1.dmg
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.dmg
-  - name: Blockbench_arm64_5.1.1.dmg.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.dmg.blockmap
-  - name: Blockbench_arm64_5.1.1.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.exe
-  - name: Blockbench_arm64_5.1.1.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.exe.blockmap
-  - name: Blockbench_arm64_5.1.1.zip
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.zip
-  - name: Blockbench_arm64_5.1.1.zip.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_arm64_5.1.1.zip.blockmap
-  - name: Blockbench_x64_5.1.1.dmg
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.dmg
-  - name: Blockbench_x64_5.1.1.dmg.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.dmg.blockmap
-  - name: Blockbench_x64_5.1.1.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.exe
-  - name: Blockbench_x64_5.1.1.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.exe.blockmap
-  - name: Blockbench_x64_5.1.1.zip
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.zip
-  - name: Blockbench_x64_5.1.1.zip.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/Blockbench_x64_5.1.1.zip.blockmap
+  - name: Blockbench_5.1.2.AppImage
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.AppImage
+  - name: Blockbench_5.1.2.deb
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.deb
+  - name: Blockbench_5.1.2.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.exe
+  - name: Blockbench_5.1.2.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.exe.blockmap
+  - name: Blockbench_5.1.2.rpm
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.rpm
+  - name: Blockbench_5.1.2_portable.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2_portable.exe
+  - name: Blockbench_arm64_5.1.2.dmg
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.dmg
+  - name: Blockbench_arm64_5.1.2.dmg.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.dmg.blockmap
+  - name: Blockbench_arm64_5.1.2.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.exe
+  - name: Blockbench_arm64_5.1.2.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.exe.blockmap
+  - name: Blockbench_arm64_5.1.2.zip
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.zip
+  - name: Blockbench_arm64_5.1.2.zip.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.zip.blockmap
+  - name: Blockbench_x64_5.1.2.dmg
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.dmg
+  - name: Blockbench_x64_5.1.2.dmg.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.dmg.blockmap
+  - name: Blockbench_x64_5.1.2.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.exe
+  - name: Blockbench_x64_5.1.2.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.exe.blockmap
+  - name: Blockbench_x64_5.1.2.zip
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.zip
+  - name: Blockbench_x64_5.1.2.zip.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.zip.blockmap
   - name: latest-linux.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/latest-linux.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/latest-mac.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.1/latest.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/latest.yml
   electron: 40.8.3
   method: src-package-lock
   aur:
@@ -5527,61 +5527,61 @@
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
-  latest: v2026.4.119
-  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.119.zip
+  latest: v2026.4.131
+  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.131.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest-linux.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest-mac.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/latest.yml
-  - name: P3X-OneNote-2026.4.119-aarch64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-aarch64.flatpak
-  - name: P3X-OneNote-2026.4.119-arm64-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64-mac.zip
-  - name: P3X-OneNote-2026.4.119-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.119-arm64.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64.AppImage
-  - name: P3X-OneNote-2026.4.119-arm64.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64.dmg
-  - name: P3X-OneNote-2026.4.119-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-arm64.dmg.blockmap
-  - name: P3X-OneNote-2026.4.119-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-mac.zip
-  - name: P3X-OneNote-2026.4.119-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.119-universal-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal-mac.zip
-  - name: P3X-OneNote-2026.4.119-universal-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.119-universal.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal.dmg
-  - name: P3X-OneNote-2026.4.119-universal.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-universal.dmg.blockmap
-  - name: P3X-OneNote-2026.4.119-x86_64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119-x86_64.flatpak
-  - name: p3x-onenote-2026.4.119.aarch64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote-2026.4.119.aarch64.rpm
-  - name: P3X-OneNote-2026.4.119.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119.AppImage
-  - name: P3X-OneNote-2026.4.119.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119.dmg
-  - name: P3X-OneNote-2026.4.119.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-2026.4.119.dmg.blockmap
-  - name: p3x-onenote-2026.4.119.x86_64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote-2026.4.119.x86_64.rpm
-  - name: P3X-OneNote-Setup-2026.4.119.exe
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-Setup-2026.4.119.exe
-  - name: P3X-OneNote-Setup-2026.4.119.exe.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/P3X-OneNote-Setup-2026.4.119.exe.blockmap
-  - name: p3x-onenote_2026.4.119_amd64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote_2026.4.119_amd64.deb
-  - name: p3x-onenote_2026.4.119_arm64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.119/p3x-onenote_2026.4.119_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest.yml
+  - name: P3X-OneNote-2026.4.131-aarch64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-aarch64.flatpak
+  - name: P3X-OneNote-2026.4.131-arm64-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64-mac.zip
+  - name: P3X-OneNote-2026.4.131-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.131-arm64.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64.AppImage
+  - name: P3X-OneNote-2026.4.131-arm64.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64.dmg
+  - name: P3X-OneNote-2026.4.131-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64.dmg.blockmap
+  - name: P3X-OneNote-2026.4.131-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-mac.zip
+  - name: P3X-OneNote-2026.4.131-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.131-universal-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal-mac.zip
+  - name: P3X-OneNote-2026.4.131-universal-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.131-universal.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal.dmg
+  - name: P3X-OneNote-2026.4.131-universal.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal.dmg.blockmap
+  - name: P3X-OneNote-2026.4.131-x86_64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-x86_64.flatpak
+  - name: p3x-onenote-2026.4.131.aarch64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote-2026.4.131.aarch64.rpm
+  - name: P3X-OneNote-2026.4.131.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131.AppImage
+  - name: P3X-OneNote-2026.4.131.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131.dmg
+  - name: P3X-OneNote-2026.4.131.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131.dmg.blockmap
+  - name: p3x-onenote-2026.4.131.x86_64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote-2026.4.131.x86_64.rpm
+  - name: P3X-OneNote-Setup-2026.4.131.exe
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-Setup-2026.4.131.exe
+  - name: P3X-OneNote-Setup-2026.4.131.exe.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-Setup-2026.4.131.exe.blockmap
+  - name: p3x-onenote_2026.4.131_amd64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote_2026.4.131_amd64.deb
+  - name: p3x-onenote_2026.4.131_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote_2026.4.131_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:
@@ -5591,29 +5591,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.608
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.608.zip
+  latest: v2026.4.630
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.630.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/latest-linux.yml
-  - name: P3X-Redis-UI-2026.4.608-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.608-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.608-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.608.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui-2026.4.608.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.608.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/P3X-Redis-UI-2026.4.608.AppImage
-  - name: p3x-redis-ui-2026.4.608.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui-2026.4.608.x86_64.rpm
-  - name: p3x-redis-ui_2026.4.608_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui_2026.4.608_amd64.deb
-  - name: p3x-redis-ui_2026.4.608_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.608/p3x-redis-ui_2026.4.608_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest-linux.yml
+  - name: latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest-mac.yml
+  - name: latest.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest.yml
+  - name: P3X-Redis-UI-2026.4.630-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.630-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.630-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.630-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.630-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.630-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.630-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.630.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui-2026.4.630.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.630.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630.AppImage
+  - name: p3x-redis-ui-2026.4.630.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui-2026.4.630.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.630.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-Setup-2026.4.630.exe
+  - name: P3X-Redis-UI-Setup-2026.4.630.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-Setup-2026.4.630.exe.blockmap
+  - name: p3x-redis-ui_2026.4.630_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui_2026.4.630_amd64.deb
+  - name: p3x-redis-ui_2026.4.630_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui_2026.4.630_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:
@@ -9737,41 +9753,41 @@
 - id: znote
   repository: https://github.com/alagrede/znote-app
   website: https://znote.io
-  latest: v3.6.11
-  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.6.11.zip
+  latest: v3.7.0
+  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.0.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest-linux-arm64.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest-linux.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest-mac.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest.yml
-  - name: znote-3.6.11-arm64-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64-mac.zip
-  - name: znote-3.6.11-arm64-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64-mac.zip.blockmap
-  - name: znote-3.6.11-arm64.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64.AppImage
-  - name: znote-3.6.11-arm64.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64.dmg
-  - name: znote-3.6.11-arm64.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64.dmg.blockmap
-  - name: znote-3.6.11-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-mac.zip
-  - name: znote-3.6.11-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-mac.zip.blockmap
-  - name: znote-3.6.11.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11.AppImage
-  - name: znote-3.6.11.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11.dmg
-  - name: znote-3.6.11.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11.dmg.blockmap
-  - name: znote-Setup-3.6.11.exe
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-Setup-3.6.11.exe
-  - name: znote-Setup-3.6.11.exe.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-Setup-3.6.11.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest.yml
+  - name: znote-3.7.0-arm64-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64-mac.zip
+  - name: znote-3.7.0-arm64-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64-mac.zip.blockmap
+  - name: znote-3.7.0-arm64.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64.AppImage
+  - name: znote-3.7.0-arm64.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64.dmg
+  - name: znote-3.7.0-arm64.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64.dmg.blockmap
+  - name: znote-3.7.0-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-mac.zip
+  - name: znote-3.7.0-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-mac.zip.blockmap
+  - name: znote-3.7.0.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0.AppImage
+  - name: znote-3.7.0.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0.dmg
+  - name: znote-3.7.0.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0.dmg.blockmap
+  - name: znote-Setup-3.7.0.exe
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-Setup-3.7.0.exe
+  - name: znote-Setup-3.7.0.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-Setup-3.7.0.exe.blockmap
   aur:
   - znote-bin
   name: Znote
