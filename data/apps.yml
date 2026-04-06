@@ -442,51 +442,51 @@
 - id: blockbench
   repository: https://github.com/JannisX11/blockbench
   website: https://blockbench.net/
-  latest: v5.1.2
-  src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.2.zip
+  latest: v5.1.3
+  src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.3.zip
   downloads:
-  - name: Blockbench_5.1.2.AppImage
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.AppImage
-  - name: Blockbench_5.1.2.deb
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.deb
-  - name: Blockbench_5.1.2.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.exe
-  - name: Blockbench_5.1.2.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.exe.blockmap
-  - name: Blockbench_5.1.2.rpm
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2.rpm
-  - name: Blockbench_5.1.2_portable.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_5.1.2_portable.exe
-  - name: Blockbench_arm64_5.1.2.dmg
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.dmg
-  - name: Blockbench_arm64_5.1.2.dmg.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.dmg.blockmap
-  - name: Blockbench_arm64_5.1.2.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.exe
-  - name: Blockbench_arm64_5.1.2.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.exe.blockmap
-  - name: Blockbench_arm64_5.1.2.zip
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.zip
-  - name: Blockbench_arm64_5.1.2.zip.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_arm64_5.1.2.zip.blockmap
-  - name: Blockbench_x64_5.1.2.dmg
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.dmg
-  - name: Blockbench_x64_5.1.2.dmg.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.dmg.blockmap
-  - name: Blockbench_x64_5.1.2.exe
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.exe
-  - name: Blockbench_x64_5.1.2.exe.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.exe.blockmap
-  - name: Blockbench_x64_5.1.2.zip
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.zip
-  - name: Blockbench_x64_5.1.2.zip.blockmap
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/Blockbench_x64_5.1.2.zip.blockmap
+  - name: Blockbench_5.1.3.AppImage
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3.AppImage
+  - name: Blockbench_5.1.3.deb
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3.deb
+  - name: Blockbench_5.1.3.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3.exe
+  - name: Blockbench_5.1.3.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3.exe.blockmap
+  - name: Blockbench_5.1.3.rpm
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3.rpm
+  - name: Blockbench_5.1.3_portable.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_5.1.3_portable.exe
+  - name: Blockbench_arm64_5.1.3.dmg
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_arm64_5.1.3.dmg
+  - name: Blockbench_arm64_5.1.3.dmg.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_arm64_5.1.3.dmg.blockmap
+  - name: Blockbench_arm64_5.1.3.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_arm64_5.1.3.exe
+  - name: Blockbench_arm64_5.1.3.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_arm64_5.1.3.exe.blockmap
+  - name: Blockbench_arm64_5.1.3.zip
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_arm64_5.1.3.zip
+  - name: Blockbench_arm64_5.1.3.zip.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_arm64_5.1.3.zip.blockmap
+  - name: Blockbench_x64_5.1.3.dmg
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_x64_5.1.3.dmg
+  - name: Blockbench_x64_5.1.3.dmg.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_x64_5.1.3.dmg.blockmap
+  - name: Blockbench_x64_5.1.3.exe
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_x64_5.1.3.exe
+  - name: Blockbench_x64_5.1.3.exe.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_x64_5.1.3.exe.blockmap
+  - name: Blockbench_x64_5.1.3.zip
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_x64_5.1.3.zip
+  - name: Blockbench_x64_5.1.3.zip.blockmap
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/Blockbench_x64_5.1.3.zip.blockmap
   - name: latest-linux.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/latest-linux.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/latest-mac.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.2/latest.yml
+    url: https://github.com/JannisX11/blockbench/releases/download/v5.1.3/latest.yml
   electron: 40.8.3
   method: src-package-lock
   aur:
@@ -2291,22 +2291,22 @@
 - id: fluent-reader
   repository: https://github.com/yang991178/fluent-reader
   website: https://hyliu.me/fluent-reader/
-  latest: v1.1.4
-  src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.1.4.zip
+  latest: v1.2.0
+  src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.0.zip
   downloads:
-  - name: Fluent.Reader.1.1.4.AppImage
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.1.1.4.AppImage
-  - name: Fluent.Reader.1.1.4.dmg
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.1.1.4.dmg
-  - name: Fluent.Reader.Setup.1.1.4.x64.exe
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Setup.1.1.4.x64.exe
-  - name: Fluent.Reader.Setup.1.1.4.x86.exe
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Setup.1.1.4.x86.exe
-  - name: Fluent.Reader.Unpacked.1.1.4.x64.zip
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Unpacked.1.1.4.x64.zip
-  - name: Fluent.Reader.Unpacked.1.1.4.x86.zip
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Unpacked.1.1.4.x86.zip
-  electron: 27.0.0
+  - name: Fluent.Reader.1.2.0.AppImage
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.1.2.0.AppImage
+  - name: Fluent.Reader.1.2.0.dmg
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.1.2.0.dmg
+  - name: Fluent.Reader.Setup.1.2.0.x64.exe
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Setup.1.2.0.x64.exe
+  - name: Fluent.Reader.Setup.1.2.0.x86.exe
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Setup.1.2.0.x86.exe
+  - name: Fluent.Reader.Unpacked.1.2.0.x64.zip
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Unpacked.1.2.0.x64.zip
+  - name: Fluent.Reader.Unpacked.1.2.0.x86.zip
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Unpacked.1.2.0.x86.zip
+  electron: 41.1.0
   method: src-package-lock
   aur:
   - fluent-reader
@@ -4968,37 +4968,37 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v5.16.0
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v5.16.0.zip
+  latest: v6.0.0
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.0.0.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/latest.yml
-  - name: mStream-Server-5.16.0-arm64-mac.zip
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64-mac.zip
-  - name: mStream-Server-5.16.0-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64.AppImage
-  - name: mStream-Server-5.16.0-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64.dmg
-  - name: mStream-Server-5.16.0-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-arm64.dmg.blockmap
-  - name: mStream-Server-5.16.0-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0-armv7l.AppImage
-  - name: mStream-Server-5.16.0.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-5.16.0.AppImage
-  - name: mStream-Server-Setup-5.16.0.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-Setup-5.16.0.exe
-  - name: mStream-Server-Setup-5.16.0.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream-Server-Setup-5.16.0.exe.blockmap
-  - name: mStream.Server-5.16.0-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.16.0/mStream.Server-5.16.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest.yml
+  - name: mStream-Server-6.0.0-arm64-mac.zip
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64-mac.zip
+  - name: mStream-Server-6.0.0-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64.AppImage
+  - name: mStream-Server-6.0.0-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64.dmg
+  - name: mStream-Server-6.0.0-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64.dmg.blockmap
+  - name: mStream-Server-6.0.0-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-armv7l.AppImage
+  - name: mStream-Server-6.0.0.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0.AppImage
+  - name: mStream-Server-Setup-6.0.0.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-Setup-6.0.0.exe
+  - name: mStream-Server-Setup-6.0.0.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-Setup-6.0.0.exe.blockmap
+  - name: mStream.Server-6.0.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream.Server-6.0.0-arm64-mac.zip.blockmap
   aur:
   - mstream
   - mstream-git
@@ -5591,45 +5591,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.630
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.630.zip
+  latest: v2026.4.632
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.632.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/latest.yml
-  - name: P3X-Redis-UI-2026.4.630-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.630-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.630-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.630-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.630-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.630-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.630-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.630.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui-2026.4.630.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.630.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-2026.4.630.AppImage
-  - name: p3x-redis-ui-2026.4.630.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui-2026.4.630.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.630.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-Setup-2026.4.630.exe
-  - name: P3X-Redis-UI-Setup-2026.4.630.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/P3X-Redis-UI-Setup-2026.4.630.exe.blockmap
-  - name: p3x-redis-ui_2026.4.630_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui_2026.4.630_amd64.deb
-  - name: p3x-redis-ui_2026.4.630_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.630/p3x-redis-ui_2026.4.630_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest.yml
+  - name: P3X-Redis-UI-2026.4.632-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.632-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.632-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.632-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.632-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.632-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.632-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.632.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui-2026.4.632.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.632.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632.AppImage
+  - name: p3x-redis-ui-2026.4.632.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui-2026.4.632.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.632.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-Setup-2026.4.632.exe
+  - name: P3X-Redis-UI-Setup-2026.4.632.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-Setup-2026.4.632.exe.blockmap
+  - name: p3x-redis-ui_2026.4.632_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui_2026.4.632_amd64.deb
+  - name: p3x-redis-ui_2026.4.632_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui_2026.4.632_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:
@@ -8684,45 +8684,45 @@
 - id: trilium-notes
   repository: https://github.com/zadam/trilium
   website: https://github.com/zadam/trilium
-  latest: v0.102.1
-  src: https://github.com/zadam/trilium/archive/refs/tags/v0.102.1.zip
+  latest: v0.102.2
+  src: https://github.com/zadam/trilium/archive/refs/tags/v0.102.2.zip
   downloads:
-  - name: TriliumNotes-Server-v0.102.1-linux-arm64.tar.xz
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-Server-v0.102.1-linux-arm64.tar.xz
-  - name: TriliumNotes-Server-v0.102.1-linux-x64.tar.xz
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-Server-v0.102.1-linux-x64.tar.xz
-  - name: TriliumNotes-v0.102.1-linux-arm64.deb
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-arm64.deb
-  - name: TriliumNotes-v0.102.1-linux-arm64.flatpak
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-arm64.flatpak
-  - name: TriliumNotes-v0.102.1-linux-arm64.rpm
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-arm64.rpm
-  - name: TriliumNotes-v0.102.1-linux-arm64.zip
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-arm64.zip
-  - name: TriliumNotes-v0.102.1-linux-x64.deb
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-x64.deb
-  - name: TriliumNotes-v0.102.1-linux-x64.flatpak
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-x64.flatpak
-  - name: TriliumNotes-v0.102.1-linux-x64.rpm
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-x64.rpm
-  - name: TriliumNotes-v0.102.1-linux-x64.zip
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-linux-x64.zip
-  - name: TriliumNotes-v0.102.1-macos-arm64.dmg
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-macos-arm64.dmg
-  - name: TriliumNotes-v0.102.1-macos-arm64.zip
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-macos-arm64.zip
-  - name: TriliumNotes-v0.102.1-macos-x64.dmg
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-macos-x64.dmg
-  - name: TriliumNotes-v0.102.1-macos-x64.zip
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-macos-x64.zip
-  - name: TriliumNotes-v0.102.1-windows-arm64.exe
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-windows-arm64.exe
-  - name: TriliumNotes-v0.102.1-windows-arm64.zip
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-windows-arm64.zip
-  - name: TriliumNotes-v0.102.1-windows-x64.exe
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-windows-x64.exe
-  - name: TriliumNotes-v0.102.1-windows-x64.zip
-    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.1/TriliumNotes-v0.102.1-windows-x64.zip
+  - name: TriliumNotes-Server-v0.102.2-linux-arm64.tar.xz
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-Server-v0.102.2-linux-arm64.tar.xz
+  - name: TriliumNotes-Server-v0.102.2-linux-x64.tar.xz
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-Server-v0.102.2-linux-x64.tar.xz
+  - name: TriliumNotes-v0.102.2-linux-arm64.deb
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-arm64.deb
+  - name: TriliumNotes-v0.102.2-linux-arm64.flatpak
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-arm64.flatpak
+  - name: TriliumNotes-v0.102.2-linux-arm64.rpm
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-arm64.rpm
+  - name: TriliumNotes-v0.102.2-linux-arm64.zip
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-arm64.zip
+  - name: TriliumNotes-v0.102.2-linux-x64.deb
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-x64.deb
+  - name: TriliumNotes-v0.102.2-linux-x64.flatpak
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-x64.flatpak
+  - name: TriliumNotes-v0.102.2-linux-x64.rpm
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-x64.rpm
+  - name: TriliumNotes-v0.102.2-linux-x64.zip
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-linux-x64.zip
+  - name: TriliumNotes-v0.102.2-macos-arm64.dmg
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-macos-arm64.dmg
+  - name: TriliumNotes-v0.102.2-macos-arm64.zip
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-macos-arm64.zip
+  - name: TriliumNotes-v0.102.2-macos-x64.dmg
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-macos-x64.dmg
+  - name: TriliumNotes-v0.102.2-macos-x64.zip
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-macos-x64.zip
+  - name: TriliumNotes-v0.102.2-windows-arm64.exe
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-windows-arm64.exe
+  - name: TriliumNotes-v0.102.2-windows-arm64.zip
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-windows-arm64.zip
+  - name: TriliumNotes-v0.102.2-windows-x64.exe
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-windows-x64.exe
+  - name: TriliumNotes-v0.102.2-windows-x64.zip
+    url: https://github.com/TriliumNext/Trilium/releases/download/v0.102.2/TriliumNotes-v0.102.2-windows-x64.zip
   electron: 40.6.1
   method: src-pnpm-lock
   name: Trilium Notes
@@ -9753,41 +9753,41 @@
 - id: znote
   repository: https://github.com/alagrede/znote-app
   website: https://znote.io
-  latest: v3.7.0
-  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.0.zip
+  latest: v3.7.1
+  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.1.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest-linux-arm64.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest-linux.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest-mac.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/latest.yml
-  - name: znote-3.7.0-arm64-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64-mac.zip
-  - name: znote-3.7.0-arm64-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64-mac.zip.blockmap
-  - name: znote-3.7.0-arm64.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64.AppImage
-  - name: znote-3.7.0-arm64.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64.dmg
-  - name: znote-3.7.0-arm64.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-arm64.dmg.blockmap
-  - name: znote-3.7.0-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-mac.zip
-  - name: znote-3.7.0-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0-mac.zip.blockmap
-  - name: znote-3.7.0.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0.AppImage
-  - name: znote-3.7.0.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0.dmg
-  - name: znote-3.7.0.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-3.7.0.dmg.blockmap
-  - name: znote-Setup-3.7.0.exe
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-Setup-3.7.0.exe
-  - name: znote-Setup-3.7.0.exe.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.0/znote-Setup-3.7.0.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/latest.yml
+  - name: znote-3.7.1-arm64-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-arm64-mac.zip
+  - name: znote-3.7.1-arm64-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-arm64-mac.zip.blockmap
+  - name: znote-3.7.1-arm64.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-arm64.AppImage
+  - name: znote-3.7.1-arm64.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-arm64.dmg
+  - name: znote-3.7.1-arm64.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-arm64.dmg.blockmap
+  - name: znote-3.7.1-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-mac.zip
+  - name: znote-3.7.1-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1-mac.zip.blockmap
+  - name: znote-3.7.1.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1.AppImage
+  - name: znote-3.7.1.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1.dmg
+  - name: znote-3.7.1.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-3.7.1.dmg.blockmap
+  - name: znote-Setup-3.7.1.exe
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-Setup-3.7.1.exe
+  - name: znote-Setup-3.7.1.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.1/znote-Setup-3.7.1.exe.blockmap
   aur:
   - znote-bin
   name: Znote
