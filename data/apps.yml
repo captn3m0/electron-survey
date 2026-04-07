@@ -1576,25 +1576,25 @@
 - id: dopamine
   repository: https://github.com/digimezzo/dopamine
   website: https://www.digimezzo.com
-  latest: v3.0.3
-  src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.3.zip
+  latest: v3.0.4
+  src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.4.zip
   downloads:
-  - name: Dopamine-3.0.3-arm.dmg
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3-arm.dmg
-  - name: Dopamine-3.0.3-intel.dmg
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3-intel.dmg
-  - name: Dopamine-3.0.3.AppImage
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.AppImage
-  - name: Dopamine-3.0.3.deb
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.deb
-  - name: Dopamine-3.0.3.exe
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.exe
-  - name: Dopamine-3.0.3.pacman
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.pacman
-  - name: Dopamine-3.0.3.rpm
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.rpm
-  - name: Dopamine-3.0.3.snap
-    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.3/Dopamine-3.0.3.snap
+  - name: Dopamine-3.0.4-arm.dmg
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4-arm.dmg
+  - name: Dopamine-3.0.4-intel.dmg
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4-intel.dmg
+  - name: Dopamine-3.0.4.AppImage
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4.AppImage
+  - name: Dopamine-3.0.4.deb
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4.deb
+  - name: Dopamine-3.0.4.exe
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4.exe
+  - name: Dopamine-3.0.4.pacman
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4.pacman
+  - name: Dopamine-3.0.4.rpm
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4.rpm
+  - name: Dopamine-3.0.4.snap
+    url: https://github.com/digimezzo/dopamine/releases/download/v3.0.4/Dopamine-3.0.4.snap
   electron: 37.10.3
   method: src-package-lock
   aur:
@@ -2434,31 +2434,31 @@
 - id: gdevelop
   repository: https://github.com/4ian/GDevelop
   website: https://gdevelop-app.com/
-  latest: v5.6.264
-  src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.264.zip
+  latest: v5.6.265
+  src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.265.zip
   downloads:
-  - name: GDevelop-5-5.6.264-arm64.AppImage
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-arm64.AppImage
-  - name: GDevelop-5-5.6.264-universal-mac.zip
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-universal-mac.zip
-  - name: GDevelop-5-5.6.264-universal.dmg
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-universal.dmg
-  - name: GDevelop-5-5.6.264-universal.dmg.blockmap
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264-universal.dmg.blockmap
-  - name: GDevelop-5-5.6.264.AppImage
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-5.6.264.AppImage
-  - name: GDevelop-5-Setup-5.6.264.exe
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-Setup-5.6.264.exe
-  - name: GDevelop-5-Setup-5.6.264.exe.blockmap
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-Setup-5.6.264.exe.blockmap
+  - name: GDevelop-5-5.6.265-arm64.AppImage
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-arm64.AppImage
+  - name: GDevelop-5-5.6.265-universal-mac.zip
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-universal-mac.zip
+  - name: GDevelop-5-5.6.265-universal.dmg
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-universal.dmg
+  - name: GDevelop-5-5.6.265-universal.dmg.blockmap
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-universal.dmg.blockmap
+  - name: GDevelop-5-5.6.265.AppImage
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265.AppImage
+  - name: GDevelop-5-Setup-5.6.265.exe
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-Setup-5.6.265.exe
+  - name: GDevelop-5-Setup-5.6.265.exe.blockmap
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-Setup-5.6.265.exe.blockmap
   - name: latest-linux-arm64.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest-linux-arm64.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest-linux.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest-mac.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.264/latest.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest.yml
   electron: 32.3.3
   method: src-package-lock
   aur:
@@ -4286,28 +4286,28 @@
 - id: mailspring
   repository: https://github.com/Foundry376/Mailspring
   website: https://getmailspring.com/
-  latest: 1.19.0
-  src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.19.0.zip
+  latest: 1.19.1
+  src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.19.1.zip
   downloads:
-  - name: mailspring-1.19.0-0.1.aarch64.rpm
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-0.1.aarch64.rpm
-  - name: mailspring-1.19.0-0.1.x86_64.rpm
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-0.1.x86_64.rpm
-  - name: mailspring-1.19.0-amd64.deb
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-amd64.deb
-  - name: mailspring-1.19.0-arm64.deb
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-arm64.deb
-  - name: Mailspring-1.19.0-full.nupkg
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/Mailspring-1.19.0-full.nupkg
+  - name: mailspring-1.19.1-0.1.aarch64.rpm
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-0.1.aarch64.rpm
+  - name: mailspring-1.19.1-0.1.x86_64.rpm
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-0.1.x86_64.rpm
+  - name: mailspring-1.19.1-amd64.deb
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-amd64.deb
+  - name: mailspring-1.19.1-arm64.deb
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-arm64.deb
+  - name: Mailspring-1.19.1-full.nupkg
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/Mailspring-1.19.1-full.nupkg
   - name: Mailspring-AppleSilicon.zip
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/Mailspring-AppleSilicon.zip
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/Mailspring-AppleSilicon.zip
   - name: Mailspring.zip
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/Mailspring.zip
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/Mailspring.zip
   - name: MailspringSetup.exe
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/MailspringSetup.exe
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/MailspringSetup.exe
   - name: RELEASES
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/RELEASES
-  electron: 39.2.7
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/RELEASES
+  electron: 41.0.2
   method: src-package-lock
   aur:
   - mailspring-bin
@@ -4968,41 +4968,43 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v6.0.0
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.0.0.zip
+  latest: v6.1.3
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.1.3.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/latest.yml
-  - name: mStream-Server-6.0.0-arm64-mac.zip
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64-mac.zip
-  - name: mStream-Server-6.0.0-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64.AppImage
-  - name: mStream-Server-6.0.0-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64.dmg
-  - name: mStream-Server-6.0.0-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-arm64.dmg.blockmap
-  - name: mStream-Server-6.0.0-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0-armv7l.AppImage
-  - name: mStream-Server-6.0.0.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-6.0.0.AppImage
-  - name: mStream-Server-Setup-6.0.0.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-Setup-6.0.0.exe
-  - name: mStream-Server-Setup-6.0.0.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream-Server-Setup-6.0.0.exe.blockmap
-  - name: mStream.Server-6.0.0-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.0.0/mStream.Server-6.0.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/latest.yml
+  - name: mStream-Server-6.1.3-arm64-mac.zip
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-6.1.3-arm64-mac.zip
+  - name: mStream-Server-6.1.3-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-6.1.3-arm64.AppImage
+  - name: mStream-Server-6.1.3-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-6.1.3-arm64.dmg
+  - name: mStream-Server-6.1.3-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-6.1.3-arm64.dmg.blockmap
+  - name: mStream-Server-6.1.3-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-6.1.3-armv7l.AppImage
+  - name: mStream-Server-6.1.3.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-6.1.3.AppImage
+  - name: mStream-Server-Setup-6.1.3.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-Setup-6.1.3.exe
+  - name: mStream-Server-Setup-6.1.3.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream-Server-Setup-6.1.3.exe.blockmap
+  - name: mStream.Server-6.1.3-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.1.3/mStream.Server-6.1.3-arm64-mac.zip.blockmap
   aur:
   - mstream
   - mstream-git
   name: mStream
+  electron: 37.10.3
+  method: src-package-lock
 - id: muezzin
   repository: https://github.com/DBChoco/Muezzin
   website: https://github.com/DBChoco/Muezzin
@@ -5527,61 +5529,61 @@
 - id: p3x-onenote
   repository: https://github.com/patrikx3/onenote
   website: https://www.corifeus.com/onenote
-  latest: v2026.4.131
-  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.131.zip
+  latest: v2026.4.132
+  src: https://github.com/patrikx3/onenote/archive/refs/tags/v2026.4.132.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest-linux.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest-mac.yml
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/latest.yml
-  - name: P3X-OneNote-2026.4.131-aarch64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-aarch64.flatpak
-  - name: P3X-OneNote-2026.4.131-arm64-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64-mac.zip
-  - name: P3X-OneNote-2026.4.131-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.131-arm64.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64.AppImage
-  - name: P3X-OneNote-2026.4.131-arm64.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64.dmg
-  - name: P3X-OneNote-2026.4.131-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-arm64.dmg.blockmap
-  - name: P3X-OneNote-2026.4.131-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-mac.zip
-  - name: P3X-OneNote-2026.4.131-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.131-universal-mac.zip
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal-mac.zip
-  - name: P3X-OneNote-2026.4.131-universal-mac.zip.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal-mac.zip.blockmap
-  - name: P3X-OneNote-2026.4.131-universal.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal.dmg
-  - name: P3X-OneNote-2026.4.131-universal.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-universal.dmg.blockmap
-  - name: P3X-OneNote-2026.4.131-x86_64.flatpak
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131-x86_64.flatpak
-  - name: p3x-onenote-2026.4.131.aarch64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote-2026.4.131.aarch64.rpm
-  - name: P3X-OneNote-2026.4.131.AppImage
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131.AppImage
-  - name: P3X-OneNote-2026.4.131.dmg
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131.dmg
-  - name: P3X-OneNote-2026.4.131.dmg.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-2026.4.131.dmg.blockmap
-  - name: p3x-onenote-2026.4.131.x86_64.rpm
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote-2026.4.131.x86_64.rpm
-  - name: P3X-OneNote-Setup-2026.4.131.exe
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-Setup-2026.4.131.exe
-  - name: P3X-OneNote-Setup-2026.4.131.exe.blockmap
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/P3X-OneNote-Setup-2026.4.131.exe.blockmap
-  - name: p3x-onenote_2026.4.131_amd64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote_2026.4.131_amd64.deb
-  - name: p3x-onenote_2026.4.131_arm64.deb
-    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.131/p3x-onenote_2026.4.131_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/latest.yml
+  - name: P3X-OneNote-2026.4.132-aarch64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-aarch64.flatpak
+  - name: P3X-OneNote-2026.4.132-arm64-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-arm64-mac.zip
+  - name: P3X-OneNote-2026.4.132-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-arm64-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.132-arm64.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-arm64.AppImage
+  - name: P3X-OneNote-2026.4.132-arm64.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-arm64.dmg
+  - name: P3X-OneNote-2026.4.132-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-arm64.dmg.blockmap
+  - name: P3X-OneNote-2026.4.132-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-mac.zip
+  - name: P3X-OneNote-2026.4.132-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.132-universal-mac.zip
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-universal-mac.zip
+  - name: P3X-OneNote-2026.4.132-universal-mac.zip.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-universal-mac.zip.blockmap
+  - name: P3X-OneNote-2026.4.132-universal.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-universal.dmg
+  - name: P3X-OneNote-2026.4.132-universal.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-universal.dmg.blockmap
+  - name: P3X-OneNote-2026.4.132-x86_64.flatpak
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132-x86_64.flatpak
+  - name: p3x-onenote-2026.4.132.aarch64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote-2026.4.132.aarch64.rpm
+  - name: P3X-OneNote-2026.4.132.AppImage
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132.AppImage
+  - name: P3X-OneNote-2026.4.132.dmg
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132.dmg
+  - name: P3X-OneNote-2026.4.132.dmg.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-2026.4.132.dmg.blockmap
+  - name: p3x-onenote-2026.4.132.x86_64.rpm
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote-2026.4.132.x86_64.rpm
+  - name: P3X-OneNote-Setup-2026.4.132.exe
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-Setup-2026.4.132.exe
+  - name: P3X-OneNote-Setup-2026.4.132.exe.blockmap
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/P3X-OneNote-Setup-2026.4.132.exe.blockmap
+  - name: p3x-onenote_2026.4.132_amd64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote_2026.4.132_amd64.deb
+  - name: p3x-onenote_2026.4.132_arm64.deb
+    url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote_2026.4.132_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:
@@ -5591,45 +5593,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.632
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.632.zip
+  latest: v2026.4.642
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.642.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/latest.yml
-  - name: P3X-Redis-UI-2026.4.632-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.632-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.632-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.632-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.632-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.632-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.632-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.632.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui-2026.4.632.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.632.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-2026.4.632.AppImage
-  - name: p3x-redis-ui-2026.4.632.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui-2026.4.632.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.632.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-Setup-2026.4.632.exe
-  - name: P3X-Redis-UI-Setup-2026.4.632.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/P3X-Redis-UI-Setup-2026.4.632.exe.blockmap
-  - name: p3x-redis-ui_2026.4.632_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui_2026.4.632_amd64.deb
-  - name: p3x-redis-ui_2026.4.632_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.632/p3x-redis-ui_2026.4.632_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/latest.yml
+  - name: P3X-Redis-UI-2026.4.642-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.642-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.642-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.642-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.642-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.642-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.642-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.642.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/p3x-redis-ui-2026.4.642.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.642.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-2026.4.642.AppImage
+  - name: p3x-redis-ui-2026.4.642.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/p3x-redis-ui-2026.4.642.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.642.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-Setup-2026.4.642.exe
+  - name: P3X-Redis-UI-Setup-2026.4.642.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/P3X-Redis-UI-Setup-2026.4.642.exe.blockmap
+  - name: p3x-redis-ui_2026.4.642_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/p3x-redis-ui_2026.4.642_amd64.deb
+  - name: p3x-redis-ui_2026.4.642_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.642/p3x-redis-ui_2026.4.642_arm64.deb
   electron: 41.1.1
   method: src-yarn-lock
   aur:

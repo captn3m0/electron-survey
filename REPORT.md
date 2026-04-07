@@ -1,6 +1,6 @@
 # Electron version report
 
-Apps with detected Electron version: 289 / 613
+Apps with detected Electron version: 290 / 613
 
 | App | Electron | Age | Method |
 | --- | -------- | --- | ------ |
@@ -114,7 +114,7 @@ Apps with detected Electron version: 289 / 613
 | [LosslessCut](https://github.com/mifi/lossless-cut) [[repo]](https://github.com/mifi/lossless-cut) | 38.7.2 ⚠️ | 4mo ago | src-yarn-lock |
 | [MJML App](https://mjmlio.github.io/mjml-app/) [[repo]](https://github.com/mjmlio/mjml-app) | 7.2.4 ⚠️ | 6y ago | src-yarn-lock |
 | MagicCap [[repo]](https://github.com/MagicCap/MagicCap) | 5.0.11 ⚠️ | 6y 7mo ago | src-package-lock |
-| [Mailspring](https://getmailspring.com/) [[repo]](https://github.com/Foundry376/Mailspring) | 39.2.7 ⚠️ | 3mo ago | src-package-lock |
+| [Mailspring](https://getmailspring.com/) [[repo]](https://github.com/Foundry376/Mailspring) | 41.0.2 ⚠️ | 24d ago | src-package-lock |
 | [MarkText](https://github.com/marktext/marktext) [[repo]](https://github.com/marktext/marktext) | 15.4.0 ⚠️ | 4y 1mo ago | src-yarn-lock |
 | [Markdown C3](https://github.com/el3um4s/markdown-c3/blob/master/README.md) [[repo]](https://github.com/el3um4s/markdown-c3/blob/master/README.md) | 3.0.10 ⚠️ | 7y 5mo ago | src-package-lock |
 | [Markdownify](https://markdownify.js.org) [[repo]](https://github.com/amitmerchant1990/electron-markdownify) | 7.3.3 ⚠️ | 5y 8mo ago | src-range-guess |
@@ -269,6 +269,7 @@ Apps with detected Electron version: 289 / 613
 | [linked](https://uselinked.com/) [[repo]](https://github.com/lostdesign/linked) | 17.0.0 ⚠️ | 4y 2mo ago | src-yarn-lock |
 | [lsdeer](https://lsdeer.vercel.app/) [[repo]](https://github.com/AlexanderPershin/lsdeer) | 8.2.1 ⚠️ | 6y 1mo ago | src-package-lock |
 | [luna](https://github.com/rvpanoz/luna) [[repo]](https://github.com/rvpanoz/luna) | 8.5.2 ⚠️ | 5y 7mo ago | src-package-lock |
+| [mStream](https://mstream.io/) [[repo]](https://github.com/IrosTheBeggar/mStream) | 37.10.3 ⚠️ | 4mo ago | src-package-lock |
 | [massCode](https://masscode.io) [[repo]](https://github.com/antonreshetov/massCode) | 7.1.6 ⚠️ | 6y 4mo ago | src-yarn-lock |
 | [mdp](https://ericlink.github.io/mdp/) [[repo]](https://github.com/ericlink/mdp) | 5.0.13 ⚠️ | 6y 4mo ago | src-package-lock |
 | [media-dupes](https://github.com/yafp/media-dupes) [[repo]](https://github.com/yafp/media-dupes) | 9.1.2 ⚠️ | 5y 9mo ago | src-package-lock |
