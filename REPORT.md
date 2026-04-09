@@ -49,7 +49,7 @@ Apps with detected Electron version: 290 / 613
 | [Electorrent](https://github.com/Tympanix/Electorrent) [[repo]](https://github.com/Tympanix/Electorrent) | 15.5.5 ⚠️ | 3y 11mo ago | src-package-lock |
 | [ElectroCRUD](https://garrylachman.github.io/ElectroCRUD/) [[repo]](https://github.com/garrylachman/ElectroCRUD) | 22.3.10 ⚠️ | 2y 11mo ago | src-yarn-lock |
 | [Electron-clippy](https://github.com/HeyitSaif/Clippy.git) [[repo]](https://github.com/HeyitSaif/Clippy.git) | 9.4.4 ⚠️ | 5y 2mo ago | src-range-guess |
-| [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 39.2.6 ⚠️ | 4mo ago | src-package-lock |
+| [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 41.2.0 | 0d ago | src-package-lock |
 | [Erin](https://erin-website.onrender.com/) [[repo]](https://github.com/losbiw/erin) | 33.2.1 ⚠️ | 1y 4mo ago | src-yarn-lock |
 | [Etcher](https://etcher.balena.io/) [[repo]](https://github.com/resin-io/etcher) | 37.2.4 ⚠️ | 8mo ago |  |
 | [Excel Parser Processor](https://github.com/btargac/excel-parser-processor) [[repo]](https://github.com/btargac/excel-parser-processor) | 17.0.0 ⚠️ | 4y 2mo ago | src-package-lock |
@@ -105,7 +105,7 @@ Apps with detected Electron version: 290 / 613
 | [LaraDumps](https://laradumps.dev) [[repo]](https://github.com/laradumps/app) | 38.1.0 ⚠️ | 7mo ago |  |
 | [Laravel Kit](https://tmdh.github.io/laravel-kit) [[repo]](https://github.com/tmdh/laravel-kit) | 33.0.0 ⚠️ | 1y 6mo ago | src-yarn-lock |
 | [Last Hit](https://last-hit.com) [[repo]](https://github.com/last-hit-aab/last-hit) | 7.1.1 ⚠️ | 6y 6mo ago | src-yarn-lock |
-| [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 41.1.0 ⚠️ | 12d ago | src-package-lock |
+| [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 41.2.0 | 0d ago | src-package-lock |
 | [Lectrote](https://github.com/erkyrath/lectrote) [[repo]](https://github.com/erkyrath/lectrote) | 36.9.5 ⚠️ | 5mo ago | src-range-guess |
 | [Lepton](https://hackjutsu.com/Lepton/) [[repo]](https://github.com/hackjutsu/Lepton) | 13.1.2 ⚠️ | 4y 10mo ago | src-yarn-lock |
 | [LightProxy](https://github.com/alibaba/lightproxy) [[repo]](https://github.com/alibaba/lightproxy) | 10.1.5 ⚠️ | 5y 6mo ago |  |
@@ -118,7 +118,7 @@ Apps with detected Electron version: 290 / 613
 | [MarkText](https://github.com/marktext/marktext) [[repo]](https://github.com/marktext/marktext) | 15.4.0 ⚠️ | 4y 2mo ago | src-yarn-lock |
 | [Markdown C3](https://github.com/el3um4s/markdown-c3/blob/master/README.md) [[repo]](https://github.com/el3um4s/markdown-c3/blob/master/README.md) | 3.0.10 ⚠️ | 7y 5mo ago | src-package-lock |
 | [Markdownify](https://markdownify.js.org) [[repo]](https://github.com/amitmerchant1990/electron-markdownify) | 7.3.3 ⚠️ | 5y 8mo ago | src-range-guess |
-| [Mattermost](https://about.mattermost.com/downloads/) [[repo]](https://github.com/mattermost/desktop) | 40.6.0 ⚠️ | 1mo ago | src-package-lock |
+| [Mattermost](https://about.mattermost.com/downloads/) [[repo]](https://github.com/mattermost/desktop) | 40.8.4 ⚠️ | 14d ago | src-package-lock |
 | [Merge Request Notifier](https://github.com/codecentric/merge-request-notifier) [[repo]](https://github.com/codecentric/merge-request-notifier) | 7.3.3 ⚠️ | 5y 8mo ago | src-yarn-lock |
 | [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 40.6.1 ⚠️ | 1mo ago |  |
 | [Mini Diary](https://minidiary.app) [[repo]](https://github.com/samuelmeuli/mini-diary) | 8.3.0 ⚠️ | 5y 11mo ago | src-yarn-lock |
@@ -218,7 +218,7 @@ Apps with detected Electron version: 290 / 613
 | [Ten Hands](https://tenhands.app) [[repo]](https://github.com/saisandeepvaddi/ten-hands) | 11.2.0 ⚠️ | 5y 3mo ago | src-yarn-lock |
 | [Tess](https://github.com/SquitchYT/Tess/) [[repo]](https://github.com/SquitchYT/Tess/) | 17.4.11 ⚠️ | 3y 8mo ago | src-package-lock |
 | [ThisMyPC](https://github.com/supunlakmal/thismypc) [[repo]](https://github.com/supunlakmal/thismypc) | 3.1.8 ⚠️ | 7y 1mo ago | src-package-lock |
-| [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) [[repo]](https://github.com/edrlab/thorium-reader/) | 38.7.2 ⚠️ | 4mo ago | src-package-lock |
+| [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) [[repo]](https://github.com/edrlab/thorium-reader/) | 41.1.1 ⚠️ | 7d ago | src-package-lock |
 | [Threema For Desktop](https://github.com/GeekCornerGH/Threema-For-Desktop#readme) [[repo]](https://github.com/GeekCornerGH/Threema-For-Desktop) | 21.2.2 ⚠️ | 3y 5mo ago | src-pnpm-lock |
 | [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) [[repo]](https://github.com/tiddly-gittly/TidGi-Desktop) | 34.0.2 ⚠️ | 1y 2mo ago | src-pnpm-lock |
 | [Tilde](https://github.com/paologiua/tilde) [[repo]](https://github.com/paologiua/tilde) | 10.1.5 ⚠️ | 5y 6mo ago | src-package-lock |
@@ -259,7 +259,7 @@ Apps with detected Electron version: 290 / 613
 | [eSearch](https://esearch.vercel.app/) [[repo]](https://github.com/xushengfeng/eSearch) | 35.7.5 ⚠️ | 7mo ago | src-pnpm-lock |
 | [eagluet](https://github.com/surajrathod/eagluet) [[repo]](https://github.com/surajrathod/eagluet) | 9.3.1 ⚠️ | 5y 7mo ago | src-package-lock |
 | [elcalc](https://github.com/elcalc/elcalc) [[repo]](https://github.com/elcalc/elcalc) | 6.0.7 ⚠️ | 6y 8mo ago |  |
-| [encrypt0r](https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/) [[repo]](https://github.com/kunalnagar/encrypt0r) | 35.7.5 ⚠️ | 7mo ago | src-yarn-lock |
+| [encrypt0r](https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/) [[repo]](https://github.com/kunalnagar/encrypt0r) | 39.8.5 ⚠️ | 12d ago | src-yarn-lock |
 | [healthi](https://pablopunk.github.io/healthi-app/) [[repo]](https://github.com/pablopunk/healthi-app) | 4.2.12 ⚠️ | 6y 6mo ago | src-range-guess |
 | [homura](https://github.com/Saul-Mirone/homura) [[repo]](https://github.com/Saul-Mirone/homura) | 11.2.1 ⚠️ | 5y 3mo ago | src-yarn-lock |
 | [i18n Manager](https://github.com/gilmarsquinelato/i18n-manager) [[repo]](https://github.com/gilmarsquinelato/i18n-manager) | 8.2.0 ⚠️ | 6y 1mo ago | src-yarn-lock |
