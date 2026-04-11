@@ -5172,28 +5172,28 @@
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
-  latest: v9.0.0
-  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.0.zip
+  latest: v9.0.1
+  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.1.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/latest-linux.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/latest-mac.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/latest.yml
-  - name: Netron-9.0.0-amd64.deb
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-amd64.deb
-  - name: Netron-9.0.0-mac.zip
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-mac.zip
-  - name: Netron-9.0.0-mac.zip.blockmap
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-mac.zip.blockmap
-  - name: Netron-9.0.0-x86_64.rpm
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0-x86_64.rpm
-  - name: Netron-9.0.0.dmg
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-9.0.0.dmg
-  - name: Netron-Setup-9.0.0.exe
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.0/Netron-Setup-9.0.0.exe
-  electron: 41.1.1
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/latest.yml
+  - name: Netron-9.0.1-amd64.deb
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-amd64.deb
+  - name: Netron-9.0.1-mac.zip
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-mac.zip
+  - name: Netron-9.0.1-mac.zip.blockmap
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-mac.zip.blockmap
+  - name: Netron-9.0.1-x86_64.rpm
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-x86_64.rpm
+  - name: Netron-9.0.1.dmg
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1.dmg
+  - name: Netron-Setup-9.0.1.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-Setup-9.0.1.exe
+  electron: 41.2.0
   method: src-package-lock
   aur:
   - netron
@@ -5607,45 +5607,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.801
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.801.zip
+  latest: v2026.4.806
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.806.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/latest.yml
-  - name: P3X-Redis-UI-2026.4.801-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.801-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.801-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.801-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.801-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.801-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.801-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.801.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/p3x-redis-ui-2026.4.801.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.801.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-2026.4.801.AppImage
-  - name: p3x-redis-ui-2026.4.801.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/p3x-redis-ui-2026.4.801.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.801.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-Setup-2026.4.801.exe
-  - name: P3X-Redis-UI-Setup-2026.4.801.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/P3X-Redis-UI-Setup-2026.4.801.exe.blockmap
-  - name: p3x-redis-ui_2026.4.801_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/p3x-redis-ui_2026.4.801_amd64.deb
-  - name: p3x-redis-ui_2026.4.801_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.801/p3x-redis-ui_2026.4.801_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest.yml
+  - name: P3X-Redis-UI-2026.4.806-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.806-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.806-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.806-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.806-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.806-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.806-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.806.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui-2026.4.806.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.806.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806.AppImage
+  - name: p3x-redis-ui-2026.4.806.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui-2026.4.806.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.806.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-Setup-2026.4.806.exe
+  - name: P3X-Redis-UI-Setup-2026.4.806.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-Setup-2026.4.806.exe.blockmap
+  - name: p3x-redis-ui_2026.4.806_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui_2026.4.806_amd64.deb
+  - name: p3x-redis-ui_2026.4.806_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui_2026.4.806_arm64.deb
   electron: 41.2.0
   method: src-yarn-lock
   aur:
@@ -8199,33 +8199,33 @@
 - id: tagspaces
   repository: https://github.com/tagspaces/tagspaces
   website: https://www.tagspaces.org/
-  latest: v6.10.4
-  src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.10.4.zip
+  latest: v6.10.5
+  src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.10.5.zip
   downloads:
   - name: SHA256SUMS.txt
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/SHA256SUMS.txt
-  - name: tagspaces-android-6.10.4.apk
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-android-6.10.4.apk
-  - name: tagspaces-linux-amd64-6.10.4.deb
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-linux-amd64-6.10.4.deb
-  - name: tagspaces-linux-x64-6.10.4.tar.gz
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-linux-x64-6.10.4.tar.gz
-  - name: tagspaces-linux-x86_64-6.10.4.AppImage
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-linux-x86_64-6.10.4.AppImage
-  - name: tagspaces-mac-arm64-6.10.4.dmg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-arm64-6.10.4.dmg
-  - name: tagspaces-mac-arm64-6.10.4.pkg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-arm64-6.10.4.pkg
-  - name: tagspaces-mac-x64-6.10.4.dmg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-x64-6.10.4.dmg
-  - name: tagspaces-mac-x64-6.10.4.pkg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-mac-x64-6.10.4.pkg
-  - name: tagspaces-web-6.10.4.zip
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-web-6.10.4.zip
-  - name: tagspaces-win-x64-6.10.4.exe
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-win-x64-6.10.4.exe
-  - name: tagspaces-win-x64-6.10.4.zip
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.4/tagspaces-win-x64-6.10.4.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/SHA256SUMS.txt
+  - name: tagspaces-android-6.10.5.apk
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-android-6.10.5.apk
+  - name: tagspaces-linux-amd64-6.10.5.deb
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-linux-amd64-6.10.5.deb
+  - name: tagspaces-linux-x64-6.10.5.tar.gz
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-linux-x64-6.10.5.tar.gz
+  - name: tagspaces-linux-x86_64-6.10.5.AppImage
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-linux-x86_64-6.10.5.AppImage
+  - name: tagspaces-mac-arm64-6.10.5.dmg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-arm64-6.10.5.dmg
+  - name: tagspaces-mac-arm64-6.10.5.pkg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-arm64-6.10.5.pkg
+  - name: tagspaces-mac-x64-6.10.5.dmg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-x64-6.10.5.dmg
+  - name: tagspaces-mac-x64-6.10.5.pkg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-x64-6.10.5.pkg
+  - name: tagspaces-web-6.10.5.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-web-6.10.5.zip
+  - name: tagspaces-win-x64-6.10.5.exe
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-win-x64-6.10.5.exe
+  - name: tagspaces-win-x64-6.10.5.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-win-x64-6.10.5.zip
   electron: 41.1.0
   method: src-package-lock
   aur:
@@ -9769,41 +9769,41 @@
 - id: znote
   repository: https://github.com/alagrede/znote-app
   website: https://znote.io
-  latest: v3.7.3
-  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.3.zip
+  latest: v3.7.4
+  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.4.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/latest-linux-arm64.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/latest-linux.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/latest-mac.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/latest.yml
-  - name: znote-3.7.3-arm64-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-arm64-mac.zip
-  - name: znote-3.7.3-arm64-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-arm64-mac.zip.blockmap
-  - name: znote-3.7.3-arm64.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-arm64.AppImage
-  - name: znote-3.7.3-arm64.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-arm64.dmg
-  - name: znote-3.7.3-arm64.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-arm64.dmg.blockmap
-  - name: znote-3.7.3-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-mac.zip
-  - name: znote-3.7.3-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3-mac.zip.blockmap
-  - name: znote-3.7.3.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3.AppImage
-  - name: znote-3.7.3.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3.dmg
-  - name: znote-3.7.3.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-3.7.3.dmg.blockmap
-  - name: znote-Setup-3.7.3.exe
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-Setup-3.7.3.exe
-  - name: znote-Setup-3.7.3.exe.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.3/znote-Setup-3.7.3.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest.yml
+  - name: znote-3.7.4-arm64-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64-mac.zip
+  - name: znote-3.7.4-arm64-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64-mac.zip.blockmap
+  - name: znote-3.7.4-arm64.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64.AppImage
+  - name: znote-3.7.4-arm64.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64.dmg
+  - name: znote-3.7.4-arm64.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64.dmg.blockmap
+  - name: znote-3.7.4-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-mac.zip
+  - name: znote-3.7.4-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-mac.zip.blockmap
+  - name: znote-3.7.4.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4.AppImage
+  - name: znote-3.7.4.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4.dmg
+  - name: znote-3.7.4.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4.dmg.blockmap
+  - name: znote-Setup-3.7.4.exe
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-Setup-3.7.4.exe
+  - name: znote-Setup-3.7.4.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-Setup-3.7.4.exe.blockmap
   aur:
   - znote-bin
   name: Znote
