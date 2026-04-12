@@ -3758,29 +3758,25 @@
 - id: laradumps
   repository: https://github.com/laradumps/app
   website: https://laradumps.dev
-  latest: v4.13.0
-  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.0.zip
+  latest: v4.13.2
+  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.2.zip
   downloads:
-  - name: LaraDumps-4.13.0-universal-mac.zip
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-4.13.0-universal-mac.zip
-  - name: LaraDumps-4.13.0-universal-mac.zip.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-4.13.0-universal-mac.zip.blockmap
-  - name: LaraDumps-4.13.0-universal.dmg
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-4.13.0-universal.dmg
-  - name: LaraDumps-4.13.0-universal.dmg.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-4.13.0-universal.dmg.blockmap
-  - name: LaraDumps-4.13.0.AppImage
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-4.13.0.AppImage
-  - name: LaraDumps-Setup-4.13.0.exe
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-Setup-4.13.0.exe
-  - name: LaraDumps-Setup-4.13.0.exe.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/LaraDumps-Setup-4.13.0.exe.blockmap
+  - name: LaraDumps-4.13.2-universal.dmg
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-4.13.2-universal.dmg
+  - name: LaraDumps-4.13.2-universal.dmg.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-4.13.2-universal.dmg.blockmap
+  - name: LaraDumps-4.13.2.AppImage
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-4.13.2.AppImage
+  - name: LaraDumps-Setup-4.13.2.exe
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-Setup-4.13.2.exe
+  - name: LaraDumps-Setup-4.13.2.exe.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-Setup-4.13.2.exe.blockmap
   - name: latest-linux.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/latest-linux.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/latest-mac.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.0/latest.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.2/latest.yml
   electron: 41.2.0
   aur:
   - laradumps-bin
@@ -5607,45 +5603,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.806
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.806.zip
+  latest: v2026.4.807
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.807.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/latest.yml
-  - name: P3X-Redis-UI-2026.4.806-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.806-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.806-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.806-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.806-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.806-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.806-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.806.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui-2026.4.806.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.806.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-2026.4.806.AppImage
-  - name: p3x-redis-ui-2026.4.806.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui-2026.4.806.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.806.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-Setup-2026.4.806.exe
-  - name: P3X-Redis-UI-Setup-2026.4.806.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/P3X-Redis-UI-Setup-2026.4.806.exe.blockmap
-  - name: p3x-redis-ui_2026.4.806_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui_2026.4.806_amd64.deb
-  - name: p3x-redis-ui_2026.4.806_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.806/p3x-redis-ui_2026.4.806_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest.yml
+  - name: P3X-Redis-UI-2026.4.807-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.807-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.807-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.807-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.807-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.807-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.807-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.807.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui-2026.4.807.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.807.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807.AppImage
+  - name: p3x-redis-ui-2026.4.807.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui-2026.4.807.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.807.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-Setup-2026.4.807.exe
+  - name: P3X-Redis-UI-Setup-2026.4.807.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-Setup-2026.4.807.exe.blockmap
+  - name: p3x-redis-ui_2026.4.807_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui_2026.4.807_amd64.deb
+  - name: p3x-redis-ui_2026.4.807_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui_2026.4.807_arm64.deb
   electron: 41.2.0
   method: src-yarn-lock
   aur:
@@ -7535,30 +7531,22 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.67.4
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.67.4.zip
+  latest: 1.68.3
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.68.3.zip
   downloads:
   - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native-arm64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-arm64.dmg
   - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native-arm64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-arm64.exe
   - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native-x64.appx
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-x64.appx
   - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native-x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-x64.dmg
   - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native-x64.exe
-  - name: sqlui-native.AppImage
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native.AppImage
-  - name: sqlui-native.deb
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native.deb
-  - name: sqlui-native.pacman
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native.pacman
-  - name: sqlui-native.rpm
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native.rpm
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-x64.exe
   - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/1.67.4/sqlui-native.snap
-  electron: 28.3.3
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native.snap
+  electron: 41.2.0
   method: src-package-lock
   aur:
   - sqlui-native-bin
