@@ -120,7 +120,7 @@ Apps with detected Electron version: 290 / 613
 | [Markdownify](https://markdownify.js.org) [[repo]](https://github.com/amitmerchant1990/electron-markdownify) | 7.3.3 ⚠️ | 5y 8mo ago | src-range-guess |
 | [Mattermost](https://about.mattermost.com/downloads/) [[repo]](https://github.com/mattermost/desktop) | 40.8.4 ⚠️ | 18d ago | src-package-lock |
 | [Merge Request Notifier](https://github.com/codecentric/merge-request-notifier) [[repo]](https://github.com/codecentric/merge-request-notifier) | 7.3.3 ⚠️ | 5y 8mo ago | src-yarn-lock |
-| [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 40.6.1 ⚠️ | 1mo ago |  |
+| [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 41.2.0 | 4d ago |  |
 | [Mini Diary](https://minidiary.app) [[repo]](https://github.com/samuelmeuli/mini-diary) | 8.3.0 ⚠️ | 5y 11mo ago | src-yarn-lock |
 | [Minimal Image Viewer](https://github.com/hayhaydz/MIV) [[repo]](https://github.com/hayhaydz/MIV) | 13.1.4 ⚠️ | 4y 10mo ago | src-yarn-lock |
 | [Mockoon](https://mockoon.com) [[repo]](https://github.com/255kb/mockoon) | 41.1.1 ⚠️ | 11d ago | src-package-lock |

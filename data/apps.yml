@@ -3758,25 +3758,25 @@
 - id: laradumps
   repository: https://github.com/laradumps/app
   website: https://laradumps.dev
-  latest: v4.13.2
-  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.2.zip
+  latest: v4.13.3
+  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.3.zip
   downloads:
-  - name: LaraDumps-4.13.2-universal.dmg
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-4.13.2-universal.dmg
-  - name: LaraDumps-4.13.2-universal.dmg.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-4.13.2-universal.dmg.blockmap
-  - name: LaraDumps-4.13.2.AppImage
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-4.13.2.AppImage
-  - name: LaraDumps-Setup-4.13.2.exe
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-Setup-4.13.2.exe
-  - name: LaraDumps-Setup-4.13.2.exe.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/LaraDumps-Setup-4.13.2.exe.blockmap
+  - name: LaraDumps-4.13.3-universal.dmg
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-4.13.3-universal.dmg
+  - name: LaraDumps-4.13.3-universal.dmg.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-4.13.3-universal.dmg.blockmap
+  - name: LaraDumps-4.13.3.AppImage
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-4.13.3.AppImage
+  - name: LaraDumps-Setup-4.13.3.exe
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-Setup-4.13.3.exe
+  - name: LaraDumps-Setup-4.13.3.exe.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-Setup-4.13.3.exe.blockmap
   - name: latest-linux.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/latest-linux.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/latest-mac.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.2/latest.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.3/latest.yml
   electron: 41.2.0
   aur:
   - laradumps-bin
@@ -4647,34 +4647,34 @@
 - id: min
   repository: https://github.com/minbrowser/min
   website: https://minbrowser.org/
-  latest: v1.35.4
-  src: https://github.com/minbrowser/min/archive/refs/tags/v1.35.4.zip
+  latest: v1.35.5
+  src: https://github.com/minbrowser/min/archive/refs/tags/v1.35.5.zip
   downloads:
-  - name: min-1.35.4-amd64.deb
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-amd64.deb
-  - name: min-1.35.4-arm64-setup.exe
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-arm64-setup.exe
-  - name: min-1.35.4-arm64.deb
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-arm64.deb
-  - name: min-1.35.4-armv7l.deb
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-armv7l.deb
-  - name: min-1.35.4-ia32-setup.exe
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-ia32-setup.exe
-  - name: min-1.35.4-setup.exe
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-setup.exe
-  - name: min-1.35.4-x86_64.rpm
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-1.35.4-x86_64.rpm
-  - name: min-v1.35.4-mac-arm64.zip
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-v1.35.4-mac-arm64.zip
-  - name: min-v1.35.4-mac-x86.zip
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/min-v1.35.4-mac-x86.zip
-  - name: Min-v1.35.4-windows-arm64.zip
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/Min-v1.35.4-windows-arm64.zip
-  - name: Min-v1.35.4-windows-ia32.zip
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/Min-v1.35.4-windows-ia32.zip
-  - name: Min-v1.35.4-windows.zip
-    url: https://github.com/minbrowser/min/releases/download/v1.35.4/Min-v1.35.4-windows.zip
-  electron: 40.6.1
+  - name: min-1.35.5-amd64.deb
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-amd64.deb
+  - name: min-1.35.5-arm64-setup.exe
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-arm64-setup.exe
+  - name: min-1.35.5-arm64.deb
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-arm64.deb
+  - name: min-1.35.5-armv7l.deb
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-armv7l.deb
+  - name: min-1.35.5-ia32-setup.exe
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-ia32-setup.exe
+  - name: min-1.35.5-setup.exe
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-setup.exe
+  - name: min-1.35.5-x86_64.rpm
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-1.35.5-x86_64.rpm
+  - name: min-v1.35.5-mac-arm64.zip
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-v1.35.5-mac-arm64.zip
+  - name: min-v1.35.5-mac-x86.zip
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/min-v1.35.5-mac-x86.zip
+  - name: Min-v1.35.5-windows-arm64.zip
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/Min-v1.35.5-windows-arm64.zip
+  - name: Min-v1.35.5-windows-ia32.zip
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/Min-v1.35.5-windows-ia32.zip
+  - name: Min-v1.35.5-windows.zip
+    url: https://github.com/minbrowser/min/releases/download/v1.35.5/Min-v1.35.5-windows.zip
+  electron: 41.2.0
   aur:
   - min
   - min-browser-bin
@@ -5603,45 +5603,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.807
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.807.zip
+  latest: v2026.4.1004
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.1004.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/latest.yml
-  - name: P3X-Redis-UI-2026.4.807-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.807-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.807-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.807-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.807-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.807-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.807-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.807.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui-2026.4.807.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.807.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-2026.4.807.AppImage
-  - name: p3x-redis-ui-2026.4.807.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui-2026.4.807.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.807.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-Setup-2026.4.807.exe
-  - name: P3X-Redis-UI-Setup-2026.4.807.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/P3X-Redis-UI-Setup-2026.4.807.exe.blockmap
-  - name: p3x-redis-ui_2026.4.807_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui_2026.4.807_amd64.deb
-  - name: p3x-redis-ui_2026.4.807_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.807/p3x-redis-ui_2026.4.807_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest.yml
+  - name: P3X-Redis-UI-2026.4.1004-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.1004-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.1004-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.1004-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.1004-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.1004-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.1004-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.1004.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui-2026.4.1004.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.1004.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004.AppImage
+  - name: p3x-redis-ui-2026.4.1004.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui-2026.4.1004.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.1004.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-Setup-2026.4.1004.exe
+  - name: P3X-Redis-UI-Setup-2026.4.1004.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-Setup-2026.4.1004.exe.blockmap
+  - name: p3x-redis-ui_2026.4.1004_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui_2026.4.1004_amd64.deb
+  - name: p3x-redis-ui_2026.4.1004_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui_2026.4.1004_arm64.deb
   electron: 41.2.0
   method: src-yarn-lock
   aur:
@@ -7531,21 +7531,29 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.68.3
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.68.3.zip
+  latest: 1.68.4
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.68.4.zip
   downloads:
   - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-arm64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-arm64.dmg
   - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-arm64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-arm64.exe
   - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-x64.appx
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-x64.appx
   - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-x64.dmg
   - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native-x64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-x64.exe
+  - name: sqlui-native.AppImage
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.AppImage
+  - name: sqlui-native.deb
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.deb
+  - name: sqlui-native.pacman
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.pacman
+  - name: sqlui-native.rpm
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.rpm
   - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.3/sqlui-native.snap
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.snap
   electron: 41.2.0
   method: src-package-lock
   aur:
