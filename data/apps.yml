@@ -691,34 +691,34 @@
 - id: camunda-modeler
   repository: https://github.com/camunda/camunda-modeler/
   website: https://camunda.com/products/modeler/
-  latest: v5.45.0
-  src: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.45.0.zip
+  latest: v5.46.0
+  src: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.46.0.zip
   downloads:
-  - name: camunda-modeler-5.45.0-linux-x64.tar.gz
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-linux-x64.tar.gz
-  - name: camunda-modeler-5.45.0-mac-arm64.dmg
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.dmg
-  - name: camunda-modeler-5.45.0-mac-arm64.dmg.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.dmg.blockmap
-  - name: camunda-modeler-5.45.0-mac-arm64.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.zip
-  - name: camunda-modeler-5.45.0-mac-arm64.zip.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.zip.blockmap
-  - name: camunda-modeler-5.45.0-mac-x64.dmg
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.dmg
-  - name: camunda-modeler-5.45.0-mac-x64.dmg.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.dmg.blockmap
-  - name: camunda-modeler-5.45.0-mac-x64.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.zip
-  - name: camunda-modeler-5.45.0-mac-x64.zip.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.zip.blockmap
-  - name: camunda-modeler-5.45.0-win-ia32.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-win-ia32.zip
-  - name: camunda-modeler-5.45.0-win-x64.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-win-x64.zip
+  - name: camunda-modeler-5.46.0-linux-x64.tar.gz
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-linux-x64.tar.gz
+  - name: camunda-modeler-5.46.0-mac-arm64.dmg
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.dmg
+  - name: camunda-modeler-5.46.0-mac-arm64.dmg.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.dmg.blockmap
+  - name: camunda-modeler-5.46.0-mac-arm64.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.zip
+  - name: camunda-modeler-5.46.0-mac-arm64.zip.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.zip.blockmap
+  - name: camunda-modeler-5.46.0-mac-x64.dmg
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.dmg
+  - name: camunda-modeler-5.46.0-mac-x64.dmg.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.dmg.blockmap
+  - name: camunda-modeler-5.46.0-mac-x64.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.zip
+  - name: camunda-modeler-5.46.0-mac-x64.zip.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.zip.blockmap
+  - name: camunda-modeler-5.46.0-win-ia32.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-win-ia32.zip
+  - name: camunda-modeler-5.46.0-win-x64.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-win-x64.zip
   - name: latest-mac.yml
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/latest-mac.yml
-  electron: 39.0.0
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/latest-mac.yml
+  electron: 41.0.2
   method: src-package-lock
   aur:
   - zbctl
@@ -2304,21 +2304,21 @@
 - id: fluent-reader
   repository: https://github.com/yang991178/fluent-reader
   website: https://hyliu.me/fluent-reader/
-  latest: v1.2.0
-  src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.0.zip
+  latest: v1.2.1
+  src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.1.zip
   downloads:
-  - name: Fluent.Reader.1.2.0.AppImage
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.1.2.0.AppImage
-  - name: Fluent.Reader.1.2.0.dmg
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.1.2.0.dmg
-  - name: Fluent.Reader.Setup.1.2.0.x64.exe
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Setup.1.2.0.x64.exe
-  - name: Fluent.Reader.Setup.1.2.0.x86.exe
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Setup.1.2.0.x86.exe
-  - name: Fluent.Reader.Unpacked.1.2.0.x64.zip
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Unpacked.1.2.0.x64.zip
-  - name: Fluent.Reader.Unpacked.1.2.0.x86.zip
-    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.0/Fluent.Reader.Unpacked.1.2.0.x86.zip
+  - name: Fluent.Reader.1.2.1.AppImage
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.1.2.1.AppImage
+  - name: Fluent.Reader.1.2.1.dmg
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.1.2.1.dmg
+  - name: Fluent.Reader.Setup.1.2.1.x64.exe
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Setup.1.2.1.x64.exe
+  - name: Fluent.Reader.Setup.1.2.1.x86.exe
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Setup.1.2.1.x86.exe
+  - name: Fluent.Reader.Unpacked.1.2.1.x64.zip
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Unpacked.1.2.1.x64.zip
+  - name: Fluent.Reader.Unpacked.1.2.1.x86.zip
+    url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Unpacked.1.2.1.x86.zip
   electron: 41.1.0
   method: src-package-lock
   aur:
@@ -2447,31 +2447,31 @@
 - id: gdevelop
   repository: https://github.com/4ian/GDevelop
   website: https://gdevelop-app.com/
-  latest: v5.6.265
-  src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.265.zip
+  latest: v5.6.266
+  src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.266.zip
   downloads:
-  - name: GDevelop-5-5.6.265-arm64.AppImage
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-arm64.AppImage
-  - name: GDevelop-5-5.6.265-universal-mac.zip
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-universal-mac.zip
-  - name: GDevelop-5-5.6.265-universal.dmg
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-universal.dmg
-  - name: GDevelop-5-5.6.265-universal.dmg.blockmap
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265-universal.dmg.blockmap
-  - name: GDevelop-5-5.6.265.AppImage
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-5.6.265.AppImage
-  - name: GDevelop-5-Setup-5.6.265.exe
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-Setup-5.6.265.exe
-  - name: GDevelop-5-Setup-5.6.265.exe.blockmap
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/GDevelop-5-Setup-5.6.265.exe.blockmap
+  - name: GDevelop-5-5.6.266-arm64.AppImage
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-5.6.266-arm64.AppImage
+  - name: GDevelop-5-5.6.266-universal-mac.zip
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-5.6.266-universal-mac.zip
+  - name: GDevelop-5-5.6.266-universal.dmg
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-5.6.266-universal.dmg
+  - name: GDevelop-5-5.6.266-universal.dmg.blockmap
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-5.6.266-universal.dmg.blockmap
+  - name: GDevelop-5-5.6.266.AppImage
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-5.6.266.AppImage
+  - name: GDevelop-5-Setup-5.6.266.exe
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-Setup-5.6.266.exe
+  - name: GDevelop-5-Setup-5.6.266.exe.blockmap
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/GDevelop-5-Setup-5.6.266.exe.blockmap
   - name: latest-linux-arm64.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest-linux-arm64.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest-linux.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest-mac.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/4ian/GDevelop/releases/download/v5.6.265/latest.yml
+    url: https://github.com/4ian/GDevelop/releases/download/v5.6.266/latest.yml
   electron: 32.3.3
   method: src-package-lock
   aur:
@@ -3758,25 +3758,29 @@
 - id: laradumps
   repository: https://github.com/laradumps/app
   website: https://laradumps.dev
-  latest: v4.13.3
-  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.3.zip
+  latest: v4.13.6
+  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.6.zip
   downloads:
-  - name: LaraDumps-4.13.3-universal.dmg
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-4.13.3-universal.dmg
-  - name: LaraDumps-4.13.3-universal.dmg.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-4.13.3-universal.dmg.blockmap
-  - name: LaraDumps-4.13.3.AppImage
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-4.13.3.AppImage
-  - name: LaraDumps-Setup-4.13.3.exe
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-Setup-4.13.3.exe
-  - name: LaraDumps-Setup-4.13.3.exe.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/LaraDumps-Setup-4.13.3.exe.blockmap
+  - name: LaraDumps-4.13.6-universal-mac.zip
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal-mac.zip
+  - name: LaraDumps-4.13.6-universal-mac.zip.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal-mac.zip.blockmap
+  - name: LaraDumps-4.13.6-universal.dmg
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal.dmg
+  - name: LaraDumps-4.13.6-universal.dmg.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal.dmg.blockmap
+  - name: LaraDumps-4.13.6.AppImage
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6.AppImage
+  - name: LaraDumps-Setup-4.13.6.exe
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-Setup-4.13.6.exe
+  - name: LaraDumps-Setup-4.13.6.exe.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-Setup-4.13.6.exe.blockmap
   - name: latest-linux.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/latest-linux.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/latest-mac.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.3/latest.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.6/latest.yml
   electron: 41.2.0
   aur:
   - laradumps-bin
@@ -5603,45 +5607,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.1004
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.1004.zip
+  latest: v2026.4.1005
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.1005.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/latest.yml
-  - name: P3X-Redis-UI-2026.4.1004-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.1004-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.1004-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.1004-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.1004-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.1004-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.1004-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.1004.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui-2026.4.1004.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.1004.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-2026.4.1004.AppImage
-  - name: p3x-redis-ui-2026.4.1004.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui-2026.4.1004.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.1004.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-Setup-2026.4.1004.exe
-  - name: P3X-Redis-UI-Setup-2026.4.1004.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/P3X-Redis-UI-Setup-2026.4.1004.exe.blockmap
-  - name: p3x-redis-ui_2026.4.1004_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui_2026.4.1004_amd64.deb
-  - name: p3x-redis-ui_2026.4.1004_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1004/p3x-redis-ui_2026.4.1004_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/latest.yml
+  - name: P3X-Redis-UI-2026.4.1005-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.1005-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.1005-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.1005-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.1005-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.1005-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.1005-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.1005.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/p3x-redis-ui-2026.4.1005.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.1005.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-2026.4.1005.AppImage
+  - name: p3x-redis-ui-2026.4.1005.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/p3x-redis-ui-2026.4.1005.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.1005.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-Setup-2026.4.1005.exe
+  - name: P3X-Redis-UI-Setup-2026.4.1005.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/P3X-Redis-UI-Setup-2026.4.1005.exe.blockmap
+  - name: p3x-redis-ui_2026.4.1005_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/p3x-redis-ui_2026.4.1005_amd64.deb
+  - name: p3x-redis-ui_2026.4.1005_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1005/p3x-redis-ui_2026.4.1005_arm64.deb
   electron: 41.2.0
   method: src-yarn-lock
   aur:
@@ -7089,8 +7093,8 @@
 - id: signal
   repository: https://github.com/signalapp/Signal-Desktop
   website: https://signal.org
-  latest: v8.6.0
-  src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.6.0.zip
+  latest: v8.6.1
+  src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.6.1.zip
   electron: 23.3.13
   method: src-pnpm-lock
   aur:
@@ -7531,29 +7535,29 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.68.4
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.68.4.zip
+  latest: 1.68.5
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.68.5.zip
   downloads:
   - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-arm64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native-arm64.dmg
   - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-arm64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native-arm64.exe
   - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-x64.appx
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native-x64.appx
   - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native-x64.dmg
   - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native-x64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native-x64.exe
   - name: sqlui-native.AppImage
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.AppImage
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native.AppImage
   - name: sqlui-native.deb
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.deb
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native.deb
   - name: sqlui-native.pacman
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.pacman
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native.pacman
   - name: sqlui-native.rpm
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.rpm
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native.rpm
   - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/1.68.4/sqlui-native.snap
+    url: https://github.com/synle/sqlui-native/releases/download/1.68.5/sqlui-native.snap
   electron: 41.2.0
   method: src-package-lock
   aur:
@@ -8067,9 +8071,9 @@
 - id: symphony
   repository: https://github.com/symphonyoss/SymphonyElectron
   website: https://symphony.com
-  latest: v25.11.0
-  src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v25.11.0.zip
-  electron: 39.0.0
+  latest: v26.2.0
+  src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v26.2.0.zip
+  electron: 39.5.1
   method: src-package-lock
   name: Symphony
 - id: syng
@@ -9765,41 +9769,41 @@
 - id: znote
   repository: https://github.com/alagrede/znote-app
   website: https://znote.io
-  latest: v3.7.4
-  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.4.zip
+  latest: v3.7.5
+  src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.7.5.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest-linux-arm64.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest-linux.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest-mac.yml
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/latest.yml
-  - name: znote-3.7.4-arm64-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64-mac.zip
-  - name: znote-3.7.4-arm64-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64-mac.zip.blockmap
-  - name: znote-3.7.4-arm64.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64.AppImage
-  - name: znote-3.7.4-arm64.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64.dmg
-  - name: znote-3.7.4-arm64.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-arm64.dmg.blockmap
-  - name: znote-3.7.4-mac.zip
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-mac.zip
-  - name: znote-3.7.4-mac.zip.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4-mac.zip.blockmap
-  - name: znote-3.7.4.AppImage
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4.AppImage
-  - name: znote-3.7.4.dmg
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4.dmg
-  - name: znote-3.7.4.dmg.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-3.7.4.dmg.blockmap
-  - name: znote-Setup-3.7.4.exe
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-Setup-3.7.4.exe
-  - name: znote-Setup-3.7.4.exe.blockmap
-    url: https://github.com/alagrede/znote-app/releases/download/v3.7.4/znote-Setup-3.7.4.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/latest.yml
+  - name: znote-3.7.5-arm64-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-arm64-mac.zip
+  - name: znote-3.7.5-arm64-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-arm64-mac.zip.blockmap
+  - name: znote-3.7.5-arm64.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-arm64.AppImage
+  - name: znote-3.7.5-arm64.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-arm64.dmg
+  - name: znote-3.7.5-arm64.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-arm64.dmg.blockmap
+  - name: znote-3.7.5-mac.zip
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-mac.zip
+  - name: znote-3.7.5-mac.zip.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5-mac.zip.blockmap
+  - name: znote-3.7.5.AppImage
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5.AppImage
+  - name: znote-3.7.5.dmg
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5.dmg
+  - name: znote-3.7.5.dmg.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-3.7.5.dmg.blockmap
+  - name: znote-Setup-3.7.5.exe
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-Setup-3.7.5.exe
+  - name: znote-Setup-3.7.5.exe.blockmap
+    url: https://github.com/alagrede/znote-app/releases/download/v3.7.5/znote-Setup-3.7.5.exe.blockmap
   aur:
   - znote-bin
   name: Znote
