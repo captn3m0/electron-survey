@@ -303,29 +303,29 @@
 - id: bdash
   repository: https://github.com/bdash-app/bdash
   website: https://github.com/bdash-app/bdash
-  latest: v1.33.0
-  src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.33.0.zip
+  latest: v1.34.0
+  src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.34.0.zip
   downloads:
-  - name: Bdash-1.33.0-universal-mac.zip
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal-mac.zip
-  - name: Bdash-1.33.0-universal-mac.zip.blockmap
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal-mac.zip.blockmap
-  - name: Bdash-1.33.0-universal.dmg
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal.dmg
-  - name: Bdash-1.33.0-universal.dmg.blockmap
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal.dmg.blockmap
-  - name: Bdash-1.33.0.AppImage
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0.AppImage
-  - name: Bdash-Setup-1.33.0.exe
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-Setup-1.33.0.exe
-  - name: Bdash-Setup-1.33.0.exe.blockmap
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-Setup-1.33.0.exe.blockmap
+  - name: Bdash-1.34.0-universal-mac.zip
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-1.34.0-universal-mac.zip
+  - name: Bdash-1.34.0-universal-mac.zip.blockmap
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-1.34.0-universal-mac.zip.blockmap
+  - name: Bdash-1.34.0-universal.dmg
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-1.34.0-universal.dmg
+  - name: Bdash-1.34.0-universal.dmg.blockmap
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-1.34.0-universal.dmg.blockmap
+  - name: Bdash-1.34.0.AppImage
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-1.34.0.AppImage
+  - name: Bdash-Setup-1.34.0.exe
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-Setup-1.34.0.exe
+  - name: Bdash-Setup-1.34.0.exe.blockmap
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/Bdash-Setup-1.34.0.exe.blockmap
   - name: latest-linux.yml
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/latest-linux.yml
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/latest-mac.yml
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/latest.yml
+    url: https://github.com/bdash-app/bdash/releases/download/v1.34.0/latest.yml
   electron: 40.6.0
   method: src-yarn-lock
   aur:
@@ -2592,27 +2592,27 @@
 - id: github-desktop
   repository: https://github.com/desktop/desktop
   website: https://desktop.github.com
-  latest: release-3.5.7
-  src: https://github.com/desktop/desktop/archive/refs/tags/release-3.5.7.zip
+  latest: release-3.5.8
+  src: https://github.com/desktop/desktop/archive/refs/tags/release-3.5.8.zip
   downloads:
-  - name: GitHub.Desktop-3.5.7-checksums.txt
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-3.5.7-checksums.txt
+  - name: GitHub.Desktop-3.5.8-checksums.txt
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHub.Desktop-3.5.8-checksums.txt
   - name: GitHub.Desktop-arm64.zip
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-arm64.zip
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHub.Desktop-arm64.zip
   - name: GitHub.Desktop-x64.zip
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-x64.zip
-  - name: GitHubDesktop-3.5.7-x64-delta.nupkg
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-delta.nupkg
-    checksum: 357ff6f2bd32e127316c4b18b2ff7f2029d50f79d288f3c9bb33dcbaa9432e1b
-  - name: GitHubDesktop-3.5.7-x64-full.nupkg
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-full.nupkg
-    checksum: 99a6f7a1a6708632fb38279f73d330bed8daa49776c15f18dde02a0329f6a8ed
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHub.Desktop-x64.zip
+  - name: GitHubDesktop-3.5.8-x64-delta.nupkg
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHubDesktop-3.5.8-x64-delta.nupkg
+    checksum: a72e2d3c95db425a16c6d7b6a47fff4e4efceef55273590ff318427030644178
+  - name: GitHubDesktop-3.5.8-x64-full.nupkg
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHubDesktop-3.5.8-x64-full.nupkg
+    checksum: 848216dd82d5a1dfb52946d09165958e5ca7d890c5ca4ea34663c4027dd39138
   - name: GitHubDesktopSetup-x64.exe
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.exe
-    checksum: 8562ae4128ff17fa0848d9e57b05681b3c3eb4c85a694ed75d39cba17a8370df
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHubDesktopSetup-x64.exe
+    checksum: 782bfc0d239258339499c40579ec2b9c9a2c1b93c1f57751f1a492d1d54a94a5
   - name: GitHubDesktopSetup-x64.msi
-    url: https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.msi
-    checksum: cb4c566b9c77e51df13f2469e4554f36c2164f47fde2525e0fbc0498806be7c9
+    url: https://github.com/desktop/desktop/releases/download/release-3.5.8/GitHubDesktopSetup-x64.msi
+    checksum: 90fc7236f06e1888c378acd9b92fb411732508632306627aedc59559d5255027
   electron: 40.1.0
   method: src-yarn-lock
   aur:
@@ -3758,29 +3758,29 @@
 - id: laradumps
   repository: https://github.com/laradumps/app
   website: https://laradumps.dev
-  latest: v4.13.6
-  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.6.zip
+  latest: v4.13.7
+  src: https://github.com/laradumps/app/archive/refs/tags/v4.13.7.zip
   downloads:
-  - name: LaraDumps-4.13.6-universal-mac.zip
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal-mac.zip
-  - name: LaraDumps-4.13.6-universal-mac.zip.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal-mac.zip.blockmap
-  - name: LaraDumps-4.13.6-universal.dmg
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal.dmg
-  - name: LaraDumps-4.13.6-universal.dmg.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6-universal.dmg.blockmap
-  - name: LaraDumps-4.13.6.AppImage
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-4.13.6.AppImage
-  - name: LaraDumps-Setup-4.13.6.exe
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-Setup-4.13.6.exe
-  - name: LaraDumps-Setup-4.13.6.exe.blockmap
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/LaraDumps-Setup-4.13.6.exe.blockmap
+  - name: LaraDumps-4.13.7-universal-mac.zip
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-4.13.7-universal-mac.zip
+  - name: LaraDumps-4.13.7-universal-mac.zip.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-4.13.7-universal-mac.zip.blockmap
+  - name: LaraDumps-4.13.7-universal.dmg
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-4.13.7-universal.dmg
+  - name: LaraDumps-4.13.7-universal.dmg.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-4.13.7-universal.dmg.blockmap
+  - name: LaraDumps-4.13.7.AppImage
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-4.13.7.AppImage
+  - name: LaraDumps-Setup-4.13.7.exe
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-Setup-4.13.7.exe
+  - name: LaraDumps-Setup-4.13.7.exe.blockmap
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/LaraDumps-Setup-4.13.7.exe.blockmap
   - name: latest-linux.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/latest-linux.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/latest-mac.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/laradumps/app/releases/download/v4.13.6/latest.yml
+    url: https://github.com/laradumps/app/releases/download/v4.13.7/latest.yml
   electron: 41.2.0
   aur:
   - laradumps-bin
@@ -7237,80 +7237,80 @@
 - id: sleek
   repository: https://github.com/ransome1/sleek
   website: https://github.com/ransome1/sleek
-  latest: v2.0.24
-  src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.24.zip
+  latest: v2.0.25
+  src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.25.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest-linux-arm64.yml
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest-linux.yml
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest-mac.yml
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/latest.yml
-  - name: sleek-2.0.24-linux-aarch64.rpm
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-aarch64.rpm
-  - name: sleek-2.0.24-linux-amd64.deb
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-amd64.deb
-  - name: sleek-2.0.24-linux-arm64.AppImage
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-arm64.AppImage
-  - name: sleek-2.0.24-linux-arm64.deb
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-arm64.deb
-  - name: sleek-2.0.24-linux-arm64.freebsd
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-arm64.freebsd
-  - name: sleek-2.0.24-linux-x64.freebsd
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-x64.freebsd
-  - name: sleek-2.0.24-linux-x86_64.AppImage
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-x86_64.AppImage
-  - name: sleek-2.0.24-linux-x86_64.rpm
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-linux-x86_64.rpm
-  - name: sleek-2.0.24-mac-arm64.dmg
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.dmg
-  - name: sleek-2.0.24-mac-arm64.dmg.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.dmg.blockmap
-  - name: sleek-2.0.24-mac-arm64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.zip
-  - name: sleek-2.0.24-mac-arm64.zip.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-arm64.zip.blockmap
-  - name: sleek-2.0.24-mac-x64.dmg
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.dmg
-  - name: sleek-2.0.24-mac-x64.dmg.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.dmg.blockmap
-  - name: sleek-2.0.24-mac-x64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.zip
-  - name: sleek-2.0.24-mac-x64.zip.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-mac-x64.zip.blockmap
-  - name: sleek-2.0.24-win-arm64-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64-Setup.exe
-  - name: sleek-2.0.24-win-arm64-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64-Setup.exe.blockmap
-  - name: sleek-2.0.24-win-arm64.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64.exe
-  - name: sleek-2.0.24-win-arm64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-arm64.zip
-  - name: sleek-2.0.24-win-ia32-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32-Setup.exe
-  - name: sleek-2.0.24-win-ia32-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32-Setup.exe.blockmap
-  - name: sleek-2.0.24-win-ia32.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32.exe
-  - name: sleek-2.0.24-win-ia32.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-ia32.zip
-  - name: sleek-2.0.24-win-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-Setup.exe
-  - name: sleek-2.0.24-win-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-Setup.exe.blockmap
-  - name: sleek-2.0.24-win-x64-Setup.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64-Setup.exe
-  - name: sleek-2.0.24-win-x64-Setup.exe.blockmap
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64-Setup.exe.blockmap
-  - name: sleek-2.0.24-win-x64.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64.exe
-  - name: sleek-2.0.24-win-x64.zip
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win-x64.zip
-  - name: sleek-2.0.24-win.exe
-    url: https://github.com/ransome1/sleek/releases/download/v2.0.24/sleek-2.0.24-win.exe
-  electron: 41.1.1
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/latest.yml
+  - name: sleek-2.0.25-linux-aarch64.rpm
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-aarch64.rpm
+  - name: sleek-2.0.25-linux-amd64.deb
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-amd64.deb
+  - name: sleek-2.0.25-linux-arm64.AppImage
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-arm64.AppImage
+  - name: sleek-2.0.25-linux-arm64.deb
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-arm64.deb
+  - name: sleek-2.0.25-linux-arm64.freebsd
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-arm64.freebsd
+  - name: sleek-2.0.25-linux-x64.freebsd
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-x64.freebsd
+  - name: sleek-2.0.25-linux-x86_64.AppImage
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-x86_64.AppImage
+  - name: sleek-2.0.25-linux-x86_64.rpm
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-linux-x86_64.rpm
+  - name: sleek-2.0.25-mac-arm64.dmg
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-arm64.dmg
+  - name: sleek-2.0.25-mac-arm64.dmg.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-arm64.dmg.blockmap
+  - name: sleek-2.0.25-mac-arm64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-arm64.zip
+  - name: sleek-2.0.25-mac-arm64.zip.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-arm64.zip.blockmap
+  - name: sleek-2.0.25-mac-x64.dmg
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-x64.dmg
+  - name: sleek-2.0.25-mac-x64.dmg.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-x64.dmg.blockmap
+  - name: sleek-2.0.25-mac-x64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-x64.zip
+  - name: sleek-2.0.25-mac-x64.zip.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-x64.zip.blockmap
+  - name: sleek-2.0.25-win-arm64-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-arm64-Setup.exe
+  - name: sleek-2.0.25-win-arm64-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-arm64-Setup.exe.blockmap
+  - name: sleek-2.0.25-win-arm64.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-arm64.exe
+  - name: sleek-2.0.25-win-arm64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-arm64.zip
+  - name: sleek-2.0.25-win-ia32-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-ia32-Setup.exe
+  - name: sleek-2.0.25-win-ia32-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-ia32-Setup.exe.blockmap
+  - name: sleek-2.0.25-win-ia32.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-ia32.exe
+  - name: sleek-2.0.25-win-ia32.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-ia32.zip
+  - name: sleek-2.0.25-win-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-Setup.exe
+  - name: sleek-2.0.25-win-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-Setup.exe.blockmap
+  - name: sleek-2.0.25-win-x64-Setup.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-x64-Setup.exe
+  - name: sleek-2.0.25-win-x64-Setup.exe.blockmap
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-x64-Setup.exe.blockmap
+  - name: sleek-2.0.25-win-x64.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-x64.exe
+  - name: sleek-2.0.25-win-x64.zip
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win-x64.zip
+  - name: sleek-2.0.25-win.exe
+    url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-win.exe
+  electron: 41.2.0
   method: src-package-lock
   aur:
   - sleek
