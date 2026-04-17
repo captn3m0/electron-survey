@@ -1474,27 +1474,27 @@
 - id: display-dj
   repository: https://github.com/synle/display-dj
   website: https://synle.github.io/display-dj/
-  latest: v2.1.0
-  src: https://github.com/synle/display-dj/archive/refs/tags/v2.1.0.zip
+  latest: v5.3.0
+  src: https://github.com/synle/display-dj/archive/refs/tags/v5.3.0.zip
   downloads:
-  - name: Display.DJ-2.1.0-1.x86_64.rpm
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ-2.1.0-1.x86_64.rpm
-  - name: Display.DJ_2.1.0_aarch64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_2.1.0_aarch64.dmg
-  - name: Display.DJ_2.1.0_amd64.AppImage
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_2.1.0_amd64.AppImage
-  - name: Display.DJ_2.1.0_amd64.deb
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_2.1.0_amd64.deb
-  - name: Display.DJ_2.1.0_x64-setup.exe
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_2.1.0_x64-setup.exe
-  - name: Display.DJ_2.1.0_x64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_2.1.0_x64.dmg
-  - name: Display.DJ_2.1.0_x64_en-US.msi
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_2.1.0_x64_en-US.msi
+  - name: Display.DJ-5.3.0-1.x86_64.rpm
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ-5.3.0-1.x86_64.rpm
+  - name: Display.DJ_5.3.0_aarch64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_aarch64.dmg
+  - name: Display.DJ_5.3.0_amd64.AppImage
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_amd64.AppImage
+  - name: Display.DJ_5.3.0_amd64.deb
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_amd64.deb
+  - name: Display.DJ_5.3.0_x64-setup.exe
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_x64-setup.exe
+  - name: Display.DJ_5.3.0_x64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_x64.dmg
+  - name: Display.DJ_5.3.0_x64_en-US.msi
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_x64_en-US.msi
   - name: Display.DJ_aarch64.app.tar.gz
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_aarch64.app.tar.gz
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_aarch64.app.tar.gz
   - name: Display.DJ_x64.app.tar.gz
-    url: https://github.com/synle/display-dj/releases/download/v2.1.0/Display.DJ_x64.app.tar.gz
+    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_x64.app.tar.gz
   electron: 19.1.9
   method: src-range-guess
   aur:
@@ -5623,46 +5623,46 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.1006
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.1006.zip
+  latest: v2026.4.1007
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.1007.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/latest.yml
-  - name: P3X-Redis-UI-2026.4.1006-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.1006-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.1006-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.1006-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.1006-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.1006-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.1006-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.1006.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/p3x-redis-ui-2026.4.1006.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.1006.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-2026.4.1006.AppImage
-  - name: p3x-redis-ui-2026.4.1006.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/p3x-redis-ui-2026.4.1006.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.1006.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-Setup-2026.4.1006.exe
-  - name: P3X-Redis-UI-Setup-2026.4.1006.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/P3X-Redis-UI-Setup-2026.4.1006.exe.blockmap
-  - name: p3x-redis-ui_2026.4.1006_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/p3x-redis-ui_2026.4.1006_amd64.deb
-  - name: p3x-redis-ui_2026.4.1006_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1006/p3x-redis-ui_2026.4.1006_arm64.deb
-  electron: 41.2.0
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest.yml
+  - name: P3X-Redis-UI-2026.4.1007-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.1007-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.1007-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.1007-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.1007-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.1007-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.1007-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.1007.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui-2026.4.1007.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.1007.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007.AppImage
+  - name: p3x-redis-ui-2026.4.1007.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui-2026.4.1007.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.1007.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-Setup-2026.4.1007.exe
+  - name: P3X-Redis-UI-Setup-2026.4.1007.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-Setup-2026.4.1007.exe.blockmap
+  - name: p3x-redis-ui_2026.4.1007_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui_2026.4.1007_amd64.deb
+  - name: p3x-redis-ui_2026.4.1007_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui_2026.4.1007_arm64.deb
+  electron: 41.2.1
   method: src-yarn-lock
   aur:
   - p3x-onenote-bin
