@@ -691,33 +691,33 @@
 - id: camunda-modeler
   repository: https://github.com/camunda/camunda-modeler/
   website: https://camunda.com/products/modeler/
-  latest: v5.46.0
-  src: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.46.0.zip
+  latest: v5.46.1
+  src: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.46.1.zip
   downloads:
-  - name: camunda-modeler-5.46.0-linux-x64.tar.gz
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-linux-x64.tar.gz
-  - name: camunda-modeler-5.46.0-mac-arm64.dmg
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.dmg
-  - name: camunda-modeler-5.46.0-mac-arm64.dmg.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.dmg.blockmap
-  - name: camunda-modeler-5.46.0-mac-arm64.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.zip
-  - name: camunda-modeler-5.46.0-mac-arm64.zip.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-arm64.zip.blockmap
-  - name: camunda-modeler-5.46.0-mac-x64.dmg
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.dmg
-  - name: camunda-modeler-5.46.0-mac-x64.dmg.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.dmg.blockmap
-  - name: camunda-modeler-5.46.0-mac-x64.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.zip
-  - name: camunda-modeler-5.46.0-mac-x64.zip.blockmap
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-mac-x64.zip.blockmap
-  - name: camunda-modeler-5.46.0-win-ia32.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-win-ia32.zip
-  - name: camunda-modeler-5.46.0-win-x64.zip
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/camunda-modeler-5.46.0-win-x64.zip
+  - name: camunda-modeler-5.46.1-linux-x64.tar.gz
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-linux-x64.tar.gz
+  - name: camunda-modeler-5.46.1-mac-arm64.dmg
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-arm64.dmg
+  - name: camunda-modeler-5.46.1-mac-arm64.dmg.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-arm64.dmg.blockmap
+  - name: camunda-modeler-5.46.1-mac-arm64.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-arm64.zip
+  - name: camunda-modeler-5.46.1-mac-arm64.zip.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-arm64.zip.blockmap
+  - name: camunda-modeler-5.46.1-mac-x64.dmg
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-x64.dmg
+  - name: camunda-modeler-5.46.1-mac-x64.dmg.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-x64.dmg.blockmap
+  - name: camunda-modeler-5.46.1-mac-x64.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-x64.zip
+  - name: camunda-modeler-5.46.1-mac-x64.zip.blockmap
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-mac-x64.zip.blockmap
+  - name: camunda-modeler-5.46.1-win-ia32.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-win-ia32.zip
+  - name: camunda-modeler-5.46.1-win-x64.zip
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/camunda-modeler-5.46.1-win-x64.zip
   - name: latest-mac.yml
-    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.0/latest-mac.yml
+    url: https://github.com/camunda/camunda-modeler/releases/download/v5.46.1/latest-mac.yml
   electron: 41.0.2
   method: src-package-lock
   aur:
@@ -1474,27 +1474,19 @@
 - id: display-dj
   repository: https://github.com/synle/display-dj
   website: https://synle.github.io/display-dj/
-  latest: v5.3.0
-  src: https://github.com/synle/display-dj/archive/refs/tags/v5.3.0.zip
+  latest: v5.6.0
+  src: https://github.com/synle/display-dj/archive/refs/tags/v5.6.0.zip
   downloads:
-  - name: Display.DJ-5.3.0-1.x86_64.rpm
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ-5.3.0-1.x86_64.rpm
-  - name: Display.DJ_5.3.0_aarch64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_aarch64.dmg
-  - name: Display.DJ_5.3.0_amd64.AppImage
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_amd64.AppImage
-  - name: Display.DJ_5.3.0_amd64.deb
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_amd64.deb
-  - name: Display.DJ_5.3.0_x64-setup.exe
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_x64-setup.exe
-  - name: Display.DJ_5.3.0_x64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_x64.dmg
-  - name: Display.DJ_5.3.0_x64_en-US.msi
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_5.3.0_x64_en-US.msi
-  - name: Display.DJ_aarch64.app.tar.gz
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_aarch64.app.tar.gz
-  - name: Display.DJ_x64.app.tar.gz
-    url: https://github.com/synle/display-dj/releases/download/v5.3.0/Display.DJ_x64.app.tar.gz
+  - name: Display.DJ_5.6.0_aarch64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_aarch64.dmg
+  - name: Display.DJ_5.6.0_amd64.AppImage
+    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_amd64.AppImage
+  - name: Display.DJ_5.6.0_amd64.deb
+    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_amd64.deb
+  - name: Display.DJ_5.6.0_x64-setup.exe
+    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_x64-setup.exe
+  - name: Display.DJ_5.6.0_x64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_x64.dmg
   electron: 19.1.9
   method: src-range-guess
   aur:
@@ -5186,28 +5178,28 @@
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
-  latest: v9.0.1
-  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.1.zip
+  latest: v9.0.2
+  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.2.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/latest-linux.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/latest-mac.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/latest.yml
-  - name: Netron-9.0.1-amd64.deb
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-amd64.deb
-  - name: Netron-9.0.1-mac.zip
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-mac.zip
-  - name: Netron-9.0.1-mac.zip.blockmap
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-mac.zip.blockmap
-  - name: Netron-9.0.1-x86_64.rpm
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1-x86_64.rpm
-  - name: Netron-9.0.1.dmg
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-9.0.1.dmg
-  - name: Netron-Setup-9.0.1.exe
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.1/Netron-Setup-9.0.1.exe
-  electron: 41.2.0
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/latest.yml
+  - name: Netron-9.0.2-amd64.deb
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-9.0.2-amd64.deb
+  - name: Netron-9.0.2-mac.zip
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-9.0.2-mac.zip
+  - name: Netron-9.0.2-mac.zip.blockmap
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-9.0.2-mac.zip.blockmap
+  - name: Netron-9.0.2-x86_64.rpm
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-9.0.2-x86_64.rpm
+  - name: Netron-9.0.2.dmg
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-9.0.2.dmg
+  - name: Netron-Setup-9.0.2.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-Setup-9.0.2.exe
+  electron: 41.2.1
   method: src-package-lock
   aur:
   - netron
@@ -5341,47 +5333,47 @@
 - id: nuclear
   repository: https://github.com/nukeop/nuclear
   website: https://nuclearplayer.com/
-  latest: player@1.33.3
-  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.33.3.zip
+  latest: player@1.34.0
+  src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.34.0.zip
   downloads:
   - name: latest.json
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/latest.json
-  - name: Nuclear-1.33.3-1.x86_64.rpm
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear-1.33.3-1.x86_64.rpm
-  - name: Nuclear-1.33.3-1.x86_64.rpm.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear-1.33.3-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/latest.json
+  - name: Nuclear-1.34.0-1.x86_64.rpm
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear-1.34.0-1.x86_64.rpm
+  - name: Nuclear-1.34.0-1.x86_64.rpm.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear-1.34.0-1.x86_64.rpm.sig
   - name: nuclear-music-player.flatpak
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/nuclear-music-player.flatpak
-  - name: Nuclear_1.33.3_aarch64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_aarch64.dmg
-  - name: Nuclear_1.33.3_amd64.AppImage
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_amd64.AppImage
-  - name: Nuclear_1.33.3_amd64.AppImage.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_amd64.AppImage.sig
-  - name: Nuclear_1.33.3_amd64.deb
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_amd64.deb
-  - name: Nuclear_1.33.3_amd64.deb.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_amd64.deb.sig
-  - name: nuclear_1.33.3_amd64.snap
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/nuclear_1.33.3_amd64.snap
-  - name: Nuclear_1.33.3_x64-setup.exe
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_x64-setup.exe
-  - name: Nuclear_1.33.3_x64-setup.exe.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_x64-setup.exe.sig
-  - name: Nuclear_1.33.3_x64.dmg
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_x64.dmg
-  - name: Nuclear_1.33.3_x64_en-US.msi
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_x64_en-US.msi
-  - name: Nuclear_1.33.3_x64_en-US.msi.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_1.33.3_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/nuclear-music-player.flatpak
+  - name: Nuclear_1.34.0_aarch64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_aarch64.dmg
+  - name: Nuclear_1.34.0_amd64.AppImage
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_amd64.AppImage
+  - name: Nuclear_1.34.0_amd64.AppImage.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_amd64.AppImage.sig
+  - name: Nuclear_1.34.0_amd64.deb
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_amd64.deb
+  - name: Nuclear_1.34.0_amd64.deb.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_amd64.deb.sig
+  - name: nuclear_1.34.0_amd64.snap
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/nuclear_1.34.0_amd64.snap
+  - name: Nuclear_1.34.0_x64-setup.exe
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64-setup.exe
+  - name: Nuclear_1.34.0_x64-setup.exe.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64-setup.exe.sig
+  - name: Nuclear_1.34.0_x64.dmg
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64.dmg
+  - name: Nuclear_1.34.0_x64_en-US.msi
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64_en-US.msi
+  - name: Nuclear_1.34.0_x64_en-US.msi.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64_en-US.msi.sig
   - name: Nuclear_aarch64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_aarch64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_aarch64.app.tar.gz
   - name: Nuclear_aarch64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_aarch64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_aarch64.app.tar.gz.sig
   - name: Nuclear_x64.app.tar.gz
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_x64.app.tar.gz
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_x64.app.tar.gz
   - name: Nuclear_x64.app.tar.gz.sig
-    url: https://github.com/nukeop/nuclear/releases/download/player%401.33.3/Nuclear_x64.app.tar.gz.sig
+    url: https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_x64.app.tar.gz.sig
   aur:
   - nuclear-player
   - nuclear-player-bin
@@ -5623,45 +5615,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.1007
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.1007.zip
+  latest: v2026.4.2000
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.2000.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/latest.yml
-  - name: P3X-Redis-UI-2026.4.1007-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.1007-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.1007-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.1007-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.1007-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.1007-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.1007-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.1007.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui-2026.4.1007.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.1007.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-2026.4.1007.AppImage
-  - name: p3x-redis-ui-2026.4.1007.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui-2026.4.1007.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.1007.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-Setup-2026.4.1007.exe
-  - name: P3X-Redis-UI-Setup-2026.4.1007.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/P3X-Redis-UI-Setup-2026.4.1007.exe.blockmap
-  - name: p3x-redis-ui_2026.4.1007_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui_2026.4.1007_amd64.deb
-  - name: p3x-redis-ui_2026.4.1007_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.1007/p3x-redis-ui_2026.4.1007_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest.yml
+  - name: P3X-Redis-UI-2026.4.2000-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.2000-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.2000-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.2000-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.2000-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.2000-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.2000-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.2000.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui-2026.4.2000.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.2000.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000.AppImage
+  - name: p3x-redis-ui-2026.4.2000.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui-2026.4.2000.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.2000.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-Setup-2026.4.2000.exe
+  - name: P3X-Redis-UI-Setup-2026.4.2000.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-Setup-2026.4.2000.exe.blockmap
+  - name: p3x-redis-ui_2026.4.2000_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui_2026.4.2000_amd64.deb
+  - name: p3x-redis-ui_2026.4.2000_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui_2026.4.2000_arm64.deb
   electron: 41.2.1
   method: src-yarn-lock
   aur:
@@ -7551,29 +7543,27 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.69.0
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.69.0.zip
+  latest: 1.76.1
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.76.1.zip
   downloads:
   - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native-arm64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native-arm64.dmg
   - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native-arm64.exe
-  - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native-x64.appx
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native-arm64.exe
   - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native-x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native-x64.dmg
   - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native-x64.exe
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native-x64.exe
   - name: sqlui-native.AppImage
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native.AppImage
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native.AppImage
   - name: sqlui-native.deb
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native.deb
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native.deb
   - name: sqlui-native.pacman
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native.pacman
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native.pacman
   - name: sqlui-native.rpm
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native.rpm
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native.rpm
   - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/1.69.0/sqlui-native.snap
+    url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native.snap
   electron: 41.2.0
   method: src-package-lock
   aur:
@@ -7928,54 +7918,54 @@
 - id: super-productivity
   repository: https://github.com/johannesjo/super-productivity
   website: https://super-productivity.com/
-  latest: v18.1.3
-  src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.1.3.zip
+  latest: v18.2.1
+  src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.2.1.zip
   downloads:
   - name: app-play-release.apk
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/app-play-release.apk
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/app-play-release.apk
   - name: latest-linux.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/latest-linux.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/latest-mac.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/latest.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/latest.yml
   - name: Super-Productivity-Setup-arm64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/Super-Productivity-Setup-arm64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/Super-Productivity-Setup-arm64.exe
   - name: Super-Productivity-Setup-arm64.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/Super-Productivity-Setup-arm64.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/Super-Productivity-Setup-arm64.exe.blockmap
   - name: Super-Productivity-Setup-x64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/Super-Productivity-Setup-x64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/Super-Productivity-Setup-x64.exe
   - name: Super-Productivity-Setup-x64.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/Super-Productivity-Setup-x64.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/Super-Productivity-Setup-x64.exe.blockmap
   - name: Super-Productivity-Setup.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/Super-Productivity-Setup.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/Super-Productivity-Setup.exe
   - name: Super-Productivity-Setup.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/Super-Productivity-Setup.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/Super-Productivity-Setup.exe.blockmap
   - name: superProductivity-amd64.deb
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-amd64.deb
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-amd64.deb
   - name: superProductivity-arm64.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-arm64.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-arm64.dmg
   - name: superProductivity-arm64.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-arm64.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-arm64.dmg.blockmap
   - name: superProductivity-arm64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-arm64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-arm64.exe
   - name: superProductivity-universal.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-universal.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-universal.dmg
   - name: superProductivity-universal.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-universal.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-universal.dmg.blockmap
   - name: superProductivity-x64.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-x64.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x64.dmg
   - name: superProductivity-x64.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-x64.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x64.dmg.blockmap
   - name: superProductivity-x64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-x64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x64.exe
   - name: superProductivity-x86_64.AppImage
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-x86_64.AppImage
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x86_64.AppImage
   - name: superProductivity-x86_64.rpm
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity-x86_64.rpm
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x86_64.rpm
   - name: superProductivity.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.1.3/superProductivity.exe
-  electron: 37.10.3
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity.exe
+  electron: 41.2.0
   method: src-package-lock
   aur:
   - superproductivity
