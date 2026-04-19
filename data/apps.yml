@@ -1474,19 +1474,19 @@
 - id: display-dj
   repository: https://github.com/synle/display-dj
   website: https://synle.github.io/display-dj/
-  latest: v5.6.0
-  src: https://github.com/synle/display-dj/archive/refs/tags/v5.6.0.zip
+  latest: v6.1.0
+  src: https://github.com/synle/display-dj/archive/refs/tags/v6.1.0.zip
   downloads:
-  - name: Display.DJ_5.6.0_aarch64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_aarch64.dmg
-  - name: Display.DJ_5.6.0_amd64.AppImage
-    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_amd64.AppImage
-  - name: Display.DJ_5.6.0_amd64.deb
-    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_amd64.deb
-  - name: Display.DJ_5.6.0_x64-setup.exe
-    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_x64-setup.exe
-  - name: Display.DJ_5.6.0_x64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v5.6.0/Display.DJ_5.6.0_x64.dmg
+  - name: Display.DJ_6.1.0_aarch64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v6.1.0/Display.DJ_6.1.0_aarch64.dmg
+  - name: Display.DJ_6.1.0_amd64.AppImage
+    url: https://github.com/synle/display-dj/releases/download/v6.1.0/Display.DJ_6.1.0_amd64.AppImage
+  - name: Display.DJ_6.1.0_amd64.deb
+    url: https://github.com/synle/display-dj/releases/download/v6.1.0/Display.DJ_6.1.0_amd64.deb
+  - name: Display.DJ_6.1.0_x64-setup.exe
+    url: https://github.com/synle/display-dj/releases/download/v6.1.0/Display.DJ_6.1.0_x64-setup.exe
+  - name: Display.DJ_6.1.0_x64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v6.1.0/Display.DJ_6.1.0_x64.dmg
   electron: 19.1.9
   method: src-range-guess
   aur:
@@ -4306,28 +4306,28 @@
 - id: mailspring
   repository: https://github.com/Foundry376/Mailspring
   website: https://getmailspring.com/
-  latest: 1.19.1
-  src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.19.1.zip
+  latest: 1.20.0
+  src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.20.0.zip
   downloads:
-  - name: mailspring-1.19.1-0.1.aarch64.rpm
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-0.1.aarch64.rpm
-  - name: mailspring-1.19.1-0.1.x86_64.rpm
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-0.1.x86_64.rpm
-  - name: mailspring-1.19.1-amd64.deb
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-amd64.deb
-  - name: mailspring-1.19.1-arm64.deb
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/mailspring-1.19.1-arm64.deb
-  - name: Mailspring-1.19.1-full.nupkg
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/Mailspring-1.19.1-full.nupkg
+  - name: mailspring-1.20.0-0.1.aarch64.rpm
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/mailspring-1.20.0-0.1.aarch64.rpm
+  - name: mailspring-1.20.0-0.1.x86_64.rpm
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/mailspring-1.20.0-0.1.x86_64.rpm
+  - name: mailspring-1.20.0-amd64.deb
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/mailspring-1.20.0-amd64.deb
+  - name: mailspring-1.20.0-arm64.deb
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/mailspring-1.20.0-arm64.deb
+  - name: Mailspring-1.20.0-full.nupkg
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/Mailspring-1.20.0-full.nupkg
   - name: Mailspring-AppleSilicon.zip
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/Mailspring-AppleSilicon.zip
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/Mailspring-AppleSilicon.zip
   - name: Mailspring.zip
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/Mailspring.zip
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/Mailspring.zip
   - name: MailspringSetup.exe
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/MailspringSetup.exe
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/MailspringSetup.exe
   - name: RELEASES
-    url: https://github.com/Foundry376/Mailspring/releases/download/1.19.1/RELEASES
-  electron: 41.0.2
+    url: https://github.com/Foundry376/Mailspring/releases/download/1.20.0/RELEASES
+  electron: 41.2.1
   method: src-package-lock
   aur:
   - mailspring-bin
@@ -4988,37 +4988,37 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v6.2.0-DESKTOP_PLAYER
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.2.0-DESKTOP_PLAYER.zip
+  latest: v6.3.0-DESKTOP_PLAYER
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.3.0-DESKTOP_PLAYER.zip
   downloads:
   - name: builder-debug.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/builder-debug.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/builder-debug.yml
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/latest.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/latest.yml
   - name: mStream.Desktop-6.0.0-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64-mac.zip.blockmap
   - name: mStream.Desktop-6.0.0-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64.AppImage
   - name: mStream.Desktop-6.0.0-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64.dmg
   - name: mStream.Desktop-6.0.0-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-arm64.dmg.blockmap
   - name: mStream.Desktop-6.0.0-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0-armv7l.AppImage
   - name: mStream.Desktop-6.0.0.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop-6.0.0.AppImage
   - name: mStream.Desktop.Setup.6.0.0.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop.Setup.6.0.0.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop.Setup.6.0.0.exe
   - name: mStream.Desktop.Setup.6.0.0.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.2.0-DESKTOP_PLAYER/mStream.Desktop.Setup.6.0.0.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.3.0-DESKTOP_PLAYER/mStream.Desktop.Setup.6.0.0.exe.blockmap
   aur:
   - mstream
   - mstream-git
@@ -5615,45 +5615,45 @@
 - id: p3x-redis-ui
   repository: https://github.com/patrikx3/redis-ui
   website: https://www.corifeus.com/redis-ui
-  latest: v2026.4.2000
-  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.2000.zip
+  latest: v2026.4.2002
+  src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.2002.zip
   downloads:
   - name: latest-linux-arm64.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest-linux-arm64.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest-linux.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest-mac.yml
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/latest.yml
-  - name: P3X-Redis-UI-2026.4.2000-aarch64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-aarch64.flatpak
-  - name: P3X-Redis-UI-2026.4.2000-arm64-mac.zip
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64-mac.zip
-  - name: P3X-Redis-UI-2026.4.2000-arm64-mac.zip.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64-mac.zip.blockmap
-  - name: P3X-Redis-UI-2026.4.2000-arm64.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64.AppImage
-  - name: P3X-Redis-UI-2026.4.2000-arm64.dmg
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64.dmg
-  - name: P3X-Redis-UI-2026.4.2000-arm64.dmg.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-arm64.dmg.blockmap
-  - name: P3X-Redis-UI-2026.4.2000-x86_64.flatpak
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000-x86_64.flatpak
-  - name: p3x-redis-ui-2026.4.2000.aarch64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui-2026.4.2000.aarch64.rpm
-  - name: P3X-Redis-UI-2026.4.2000.AppImage
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-2026.4.2000.AppImage
-  - name: p3x-redis-ui-2026.4.2000.x86_64.rpm
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui-2026.4.2000.x86_64.rpm
-  - name: P3X-Redis-UI-Setup-2026.4.2000.exe
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-Setup-2026.4.2000.exe
-  - name: P3X-Redis-UI-Setup-2026.4.2000.exe.blockmap
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/P3X-Redis-UI-Setup-2026.4.2000.exe.blockmap
-  - name: p3x-redis-ui_2026.4.2000_amd64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui_2026.4.2000_amd64.deb
-  - name: p3x-redis-ui_2026.4.2000_arm64.deb
-    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2000/p3x-redis-ui_2026.4.2000_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/latest.yml
+  - name: P3X-Redis-UI-2026.4.2002-aarch64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-aarch64.flatpak
+  - name: P3X-Redis-UI-2026.4.2002-arm64-mac.zip
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-arm64-mac.zip
+  - name: P3X-Redis-UI-2026.4.2002-arm64-mac.zip.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-arm64-mac.zip.blockmap
+  - name: P3X-Redis-UI-2026.4.2002-arm64.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-arm64.AppImage
+  - name: P3X-Redis-UI-2026.4.2002-arm64.dmg
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-arm64.dmg
+  - name: P3X-Redis-UI-2026.4.2002-arm64.dmg.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-arm64.dmg.blockmap
+  - name: P3X-Redis-UI-2026.4.2002-x86_64.flatpak
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002-x86_64.flatpak
+  - name: p3x-redis-ui-2026.4.2002.aarch64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/p3x-redis-ui-2026.4.2002.aarch64.rpm
+  - name: P3X-Redis-UI-2026.4.2002.AppImage
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-2026.4.2002.AppImage
+  - name: p3x-redis-ui-2026.4.2002.x86_64.rpm
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/p3x-redis-ui-2026.4.2002.x86_64.rpm
+  - name: P3X-Redis-UI-Setup-2026.4.2002.exe
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-Setup-2026.4.2002.exe
+  - name: P3X-Redis-UI-Setup-2026.4.2002.exe.blockmap
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/P3X-Redis-UI-Setup-2026.4.2002.exe.blockmap
+  - name: p3x-redis-ui_2026.4.2002_amd64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/p3x-redis-ui_2026.4.2002_amd64.deb
+  - name: p3x-redis-ui_2026.4.2002_arm64.deb
+    url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.2002/p3x-redis-ui_2026.4.2002_arm64.deb
   electron: 41.2.1
   method: src-yarn-lock
   aur:
@@ -7543,8 +7543,8 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: 1.76.1
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/1.76.1.zip
+  latest: v1.76.0
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/v1.76.0.zip
   downloads:
   - name: sqlui-native-arm64.dmg
     url: https://github.com/synle/sqlui-native/releases/download/1.76.1/sqlui-native-arm64.dmg
