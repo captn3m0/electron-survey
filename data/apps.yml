@@ -1474,19 +1474,19 @@
 - id: display-dj
   repository: https://github.com/synle/display-dj
   website: https://synle.github.io/display-dj/
-  latest: v6.3.1
-  src: https://github.com/synle/display-dj/archive/refs/tags/v6.3.1.zip
+  latest: v6.3.2
+  src: https://github.com/synle/display-dj/archive/refs/tags/v6.3.2.zip
   downloads:
-  - name: Display.DJ_6.3.1_aarch64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v6.3.1/Display.DJ_6.3.1_aarch64.dmg
-  - name: Display.DJ_6.3.1_amd64.AppImage
-    url: https://github.com/synle/display-dj/releases/download/v6.3.1/Display.DJ_6.3.1_amd64.AppImage
-  - name: Display.DJ_6.3.1_amd64.deb
-    url: https://github.com/synle/display-dj/releases/download/v6.3.1/Display.DJ_6.3.1_amd64.deb
-  - name: Display.DJ_6.3.1_x64-setup.exe
-    url: https://github.com/synle/display-dj/releases/download/v6.3.1/Display.DJ_6.3.1_x64-setup.exe
-  - name: Display.DJ_6.3.1_x64.dmg
-    url: https://github.com/synle/display-dj/releases/download/v6.3.1/Display.DJ_6.3.1_x64.dmg
+  - name: Display.DJ_6.3.2_aarch64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v6.3.2/Display.DJ_6.3.2_aarch64.dmg
+  - name: Display.DJ_6.3.2_amd64.AppImage
+    url: https://github.com/synle/display-dj/releases/download/v6.3.2/Display.DJ_6.3.2_amd64.AppImage
+  - name: Display.DJ_6.3.2_amd64.deb
+    url: https://github.com/synle/display-dj/releases/download/v6.3.2/Display.DJ_6.3.2_amd64.deb
+  - name: Display.DJ_6.3.2_x64-setup.exe
+    url: https://github.com/synle/display-dj/releases/download/v6.3.2/Display.DJ_6.3.2_x64-setup.exe
+  - name: Display.DJ_6.3.2_x64.dmg
+    url: https://github.com/synle/display-dj/releases/download/v6.3.2/Display.DJ_6.3.2_x64.dmg
   electron: 19.1.9
   method: src-range-guess
   aur:
@@ -4428,75 +4428,75 @@
 - id: mattermost
   repository: https://github.com/mattermost/desktop
   website: https://about.mattermost.com/downloads/
-  latest: v6.1.1
-  src: https://github.com/mattermost/desktop/archive/refs/tags/v6.1.1.zip
+  latest: v6.1.2
+  src: https://github.com/mattermost/desktop/archive/refs/tags/v6.1.2.zip
   downloads:
   - name: builder-debug.yml
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/builder-debug.yml
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/builder-debug.yml
   - name: builder-debug.yml.1
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/builder-debug.yml.1
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/builder-debug.yml.1
   - name: builder-debug.yml.2
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/builder-debug.yml.2
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/builder-debug.yml.2
   - name: latest-linux-arm64.yml
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/latest-linux-arm64.yml
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/latest-linux.yml
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/latest-mac.yml
-  - name: mattermost-desktop-6.1.1-linux-aarch64.flatpak
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-aarch64.flatpak
-  - name: mattermost-desktop-6.1.1-linux-aarch64.rpm
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-aarch64.rpm
-  - name: mattermost-desktop-6.1.1-linux-arm64.AppImage
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-arm64.AppImage
-  - name: mattermost-desktop-6.1.1-linux-arm64.tar.gz
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-arm64.tar.gz
-  - name: mattermost-desktop-6.1.1-linux-x64.tar.gz
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-x64.tar.gz
-  - name: mattermost-desktop-6.1.1-linux-x86_64.AppImage
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-x86_64.AppImage
-  - name: mattermost-desktop-6.1.1-linux-x86_64.flatpak
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-x86_64.flatpak
-  - name: mattermost-desktop-6.1.1-linux-x86_64.rpm
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-linux-x86_64.rpm
-  - name: mattermost-desktop-6.1.1-mac-arm64.dmg
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-arm64.dmg
-  - name: mattermost-desktop-6.1.1-mac-arm64.dmg.blockmap
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-arm64.dmg.blockmap
-  - name: mattermost-desktop-6.1.1-mac-arm64.zip
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-arm64.zip
-  - name: mattermost-desktop-6.1.1-mac-arm64.zip.blockmap
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-arm64.zip.blockmap
-  - name: mattermost-desktop-6.1.1-mac-universal.dmg
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-universal.dmg
-  - name: mattermost-desktop-6.1.1-mac-universal.dmg.blockmap
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-universal.dmg.blockmap
-  - name: mattermost-desktop-6.1.1-mac-universal.zip
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-universal.zip
-  - name: mattermost-desktop-6.1.1-mac-universal.zip.blockmap
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-universal.zip.blockmap
-  - name: mattermost-desktop-6.1.1-mac-x64.dmg
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-x64.dmg
-  - name: mattermost-desktop-6.1.1-mac-x64.dmg.blockmap
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-x64.dmg.blockmap
-  - name: mattermost-desktop-6.1.1-mac-x64.zip
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-x64.zip
-  - name: mattermost-desktop-6.1.1-mac-x64.zip.blockmap
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-mac-x64.zip.blockmap
-  - name: mattermost-desktop-6.1.1-win-arm64.msi
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-win-arm64.msi
-  - name: mattermost-desktop-6.1.1-win-arm64.zip
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-win-arm64.zip
-  - name: mattermost-desktop-6.1.1-win-x64.msi
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-win-x64.msi
-  - name: mattermost-desktop-6.1.1-win-x64.zip
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop-6.1.1-win-x64.zip
-  - name: mattermost-desktop_6.1.1-1_amd64.deb
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop_6.1.1-1_amd64.deb
-  - name: mattermost-desktop_6.1.1-1_arm64.deb
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/mattermost-desktop_6.1.1-1_arm64.deb
-  - name: sbom-desktop-v6.1.1.json
-    url: https://github.com/mattermost/desktop/releases/download/v6.1.1/sbom-desktop-v6.1.1.json
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/latest-mac.yml
+  - name: mattermost-desktop-6.1.2-linux-aarch64.flatpak
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-aarch64.flatpak
+  - name: mattermost-desktop-6.1.2-linux-aarch64.rpm
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-aarch64.rpm
+  - name: mattermost-desktop-6.1.2-linux-arm64.AppImage
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-arm64.AppImage
+  - name: mattermost-desktop-6.1.2-linux-arm64.tar.gz
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-arm64.tar.gz
+  - name: mattermost-desktop-6.1.2-linux-x64.tar.gz
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-x64.tar.gz
+  - name: mattermost-desktop-6.1.2-linux-x86_64.AppImage
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-x86_64.AppImage
+  - name: mattermost-desktop-6.1.2-linux-x86_64.flatpak
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-x86_64.flatpak
+  - name: mattermost-desktop-6.1.2-linux-x86_64.rpm
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-linux-x86_64.rpm
+  - name: mattermost-desktop-6.1.2-mac-arm64.dmg
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-arm64.dmg
+  - name: mattermost-desktop-6.1.2-mac-arm64.dmg.blockmap
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-arm64.dmg.blockmap
+  - name: mattermost-desktop-6.1.2-mac-arm64.zip
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-arm64.zip
+  - name: mattermost-desktop-6.1.2-mac-arm64.zip.blockmap
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-arm64.zip.blockmap
+  - name: mattermost-desktop-6.1.2-mac-universal.dmg
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-universal.dmg
+  - name: mattermost-desktop-6.1.2-mac-universal.dmg.blockmap
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-universal.dmg.blockmap
+  - name: mattermost-desktop-6.1.2-mac-universal.zip
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-universal.zip
+  - name: mattermost-desktop-6.1.2-mac-universal.zip.blockmap
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-universal.zip.blockmap
+  - name: mattermost-desktop-6.1.2-mac-x64.dmg
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-x64.dmg
+  - name: mattermost-desktop-6.1.2-mac-x64.dmg.blockmap
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-x64.dmg.blockmap
+  - name: mattermost-desktop-6.1.2-mac-x64.zip
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-x64.zip
+  - name: mattermost-desktop-6.1.2-mac-x64.zip.blockmap
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-mac-x64.zip.blockmap
+  - name: mattermost-desktop-6.1.2-win-arm64.msi
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-win-arm64.msi
+  - name: mattermost-desktop-6.1.2-win-arm64.zip
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-win-arm64.zip
+  - name: mattermost-desktop-6.1.2-win-x64.msi
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-win-x64.msi
+  - name: mattermost-desktop-6.1.2-win-x64.zip
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop-6.1.2-win-x64.zip
+  - name: mattermost-desktop_6.1.2-1_amd64.deb
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop_6.1.2-1_amd64.deb
+  - name: mattermost-desktop_6.1.2-1_arm64.deb
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/mattermost-desktop_6.1.2-1_arm64.deb
+  - name: sbom-desktop-v6.1.2.json
+    url: https://github.com/mattermost/desktop/releases/download/v6.1.2/sbom-desktop-v6.1.2.json
   electron: 40.8.4
   method: src-package-lock
   name: Mattermost
@@ -4988,37 +4988,37 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v6.4.1
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.4.1.zip
+  latest: v6.4.3
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.4.3.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/latest.yml
-  - name: mStream-Server-6.4.1-arm64-mac.zip
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-6.4.1-arm64-mac.zip
-  - name: mStream-Server-6.4.1-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-6.4.1-arm64.AppImage
-  - name: mStream-Server-6.4.1-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-6.4.1-arm64.dmg
-  - name: mStream-Server-6.4.1-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-6.4.1-arm64.dmg.blockmap
-  - name: mStream-Server-6.4.1-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-6.4.1-armv7l.AppImage
-  - name: mStream-Server-6.4.1.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-6.4.1.AppImage
-  - name: mStream-Server-Setup-6.4.1.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-Setup-6.4.1.exe
-  - name: mStream-Server-Setup-6.4.1.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream-Server-Setup-6.4.1.exe.blockmap
-  - name: mStream.Server-6.4.1-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.1/mStream.Server-6.4.1-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/latest.yml
+  - name: mStream-Server-6.4.3-arm64-mac.zip
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-6.4.3-arm64-mac.zip
+  - name: mStream-Server-6.4.3-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-6.4.3-arm64.AppImage
+  - name: mStream-Server-6.4.3-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-6.4.3-arm64.dmg
+  - name: mStream-Server-6.4.3-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-6.4.3-arm64.dmg.blockmap
+  - name: mStream-Server-6.4.3-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-6.4.3-armv7l.AppImage
+  - name: mStream-Server-6.4.3.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-6.4.3.AppImage
+  - name: mStream-Server-Setup-6.4.3.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-Setup-6.4.3.exe
+  - name: mStream-Server-Setup-6.4.3.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream-Server-Setup-6.4.3.exe.blockmap
+  - name: mStream.Server-6.4.3-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.4.3/mStream.Server-6.4.3-arm64-mac.zip.blockmap
   aur:
   - mstream
   - mstream-git
@@ -7543,29 +7543,19 @@
 - id: sqlui-native
   repository: https://github.com/synle/sqlui-native
   website: https://synle.github.io/sqlui-native/
-  latest: v1.68.6
-  src: https://github.com/synle/sqlui-native/archive/refs/tags/v1.68.6.zip
+  latest: v2.76.19
+  src: https://github.com/synle/sqlui-native/archive/refs/tags/v2.76.19.zip
   downloads:
-  - name: sqlui-native-arm64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native-arm64.dmg
-  - name: sqlui-native-arm64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native-arm64.exe
-  - name: sqlui-native-x64.appx
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native-x64.appx
-  - name: sqlui-native-x64.dmg
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native-x64.dmg
-  - name: sqlui-native-x64.exe
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native-x64.exe
-  - name: sqlui-native.AppImage
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native.AppImage
-  - name: sqlui-native.deb
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native.deb
-  - name: sqlui-native.pacman
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native.pacman
-  - name: sqlui-native.rpm
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native.rpm
-  - name: sqlui-native.snap
-    url: https://github.com/synle/sqlui-native/releases/download/v1.68.6/sqlui-native.snap
+  - name: sqlui-native_2.76.19_aarch64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/v2.76.19/sqlui-native_2.76.19_aarch64.dmg
+  - name: sqlui-native_2.76.19_amd64.AppImage
+    url: https://github.com/synle/sqlui-native/releases/download/v2.76.19/sqlui-native_2.76.19_amd64.AppImage
+  - name: sqlui-native_2.76.19_amd64.deb
+    url: https://github.com/synle/sqlui-native/releases/download/v2.76.19/sqlui-native_2.76.19_amd64.deb
+  - name: sqlui-native_2.76.19_x64-setup.exe
+    url: https://github.com/synle/sqlui-native/releases/download/v2.76.19/sqlui-native_2.76.19_x64-setup.exe
+  - name: sqlui-native_2.76.19_x64.dmg
+    url: https://github.com/synle/sqlui-native/releases/download/v2.76.19/sqlui-native_2.76.19_x64.dmg
   electron: 41.2.0
   method: src-package-lock
   aur:
@@ -7920,53 +7910,53 @@
 - id: super-productivity
   repository: https://github.com/johannesjo/super-productivity
   website: https://super-productivity.com/
-  latest: v18.2.5
-  src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.2.5.zip
+  latest: v18.2.7
+  src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.2.7.zip
   downloads:
   - name: app-play-release.apk
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/app-play-release.apk
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/app-play-release.apk
   - name: latest-linux.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/latest-linux.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/latest-mac.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/latest.yml
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/latest.yml
   - name: Super-Productivity-Setup-arm64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/Super-Productivity-Setup-arm64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/Super-Productivity-Setup-arm64.exe
   - name: Super-Productivity-Setup-arm64.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/Super-Productivity-Setup-arm64.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/Super-Productivity-Setup-arm64.exe.blockmap
   - name: Super-Productivity-Setup-x64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/Super-Productivity-Setup-x64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/Super-Productivity-Setup-x64.exe
   - name: Super-Productivity-Setup-x64.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/Super-Productivity-Setup-x64.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/Super-Productivity-Setup-x64.exe.blockmap
   - name: Super-Productivity-Setup.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/Super-Productivity-Setup.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/Super-Productivity-Setup.exe
   - name: Super-Productivity-Setup.exe.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/Super-Productivity-Setup.exe.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/Super-Productivity-Setup.exe.blockmap
   - name: superProductivity-amd64.deb
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-amd64.deb
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-amd64.deb
   - name: superProductivity-arm64.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-arm64.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-arm64.dmg
   - name: superProductivity-arm64.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-arm64.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-arm64.dmg.blockmap
   - name: superProductivity-arm64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-arm64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-arm64.exe
   - name: superProductivity-universal.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-universal.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-universal.dmg
   - name: superProductivity-universal.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-universal.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-universal.dmg.blockmap
   - name: superProductivity-x64.dmg
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-x64.dmg
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-x64.dmg
   - name: superProductivity-x64.dmg.blockmap
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-x64.dmg.blockmap
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-x64.dmg.blockmap
   - name: superProductivity-x64.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-x64.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-x64.exe
   - name: superProductivity-x86_64.AppImage
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-x86_64.AppImage
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-x86_64.AppImage
   - name: superProductivity-x86_64.rpm
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity-x86_64.rpm
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity-x86_64.rpm
   - name: superProductivity.exe
-    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.5/superProductivity.exe
+    url: https://github.com/super-productivity/super-productivity/releases/download/v18.2.7/superProductivity.exe
   electron: 41.2.0
   method: src-package-lock
   aur:
@@ -8469,26 +8459,28 @@
 - id: tidgi
   repository: https://github.com/tiddly-gittly/TidGi-Desktop
   website: https://github.com/tiddly-gittly/TidGi-Desktop
-  latest: v0.12.4
-  src: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.12.4.zip
+  latest: v0.13.0
+  src: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.13.0.zip
   downloads:
   - name: Install-TidGi-Windows-arm64.exe
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/Install-TidGi-Windows-arm64.exe
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/Install-TidGi-Windows-arm64.exe
   - name: Install-TidGi-Windows-x64.exe
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/Install-TidGi-Windows-x64.exe
-  - name: tidgi-0.12.4-1.arm64.rpm
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/tidgi-0.12.4-1.arm64.rpm
-  - name: tidgi-0.12.4-1.x86_64.rpm
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/tidgi-0.12.4-1.x86_64.rpm
-  - name: TidGi-darwin-arm64-0.12.4.zip
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/TidGi-darwin-arm64-0.12.4.zip
-  - name: TidGi-darwin-x64-0.12.4.zip
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/TidGi-darwin-x64-0.12.4.zip
-  - name: tidgi_0.12.4_amd64.deb
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/tidgi_0.12.4_amd64.deb
-  - name: tidgi_0.12.4_arm64.deb
-    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.12.4/tidgi_0.12.4_arm64.deb
-  electron: 34.0.2
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/Install-TidGi-Windows-x64.exe
+  - name: tidgi-0.13.0-1.arm64.rpm
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi-0.13.0-1.arm64.rpm
+  - name: tidgi-0.13.0-1.x86_64.rpm
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi-0.13.0-1.x86_64.rpm
+  - name: TidGi-darwin-arm64-0.13.0.zip
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi-darwin-arm64-0.13.0.zip
+  - name: TidGi-darwin-x64-0.13.0.zip
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi-darwin-x64-0.13.0.zip
+  - name: TidGi.msix
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi.msix
+  - name: tidgi_0.13.0_amd64.deb
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi_0.13.0_amd64.deb
+  - name: tidgi_0.13.0_arm64.deb
+    url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi_0.13.0_arm64.deb
+  electron: 41.1.1
   method: src-pnpm-lock
   name: TidGi
 - id: tilde

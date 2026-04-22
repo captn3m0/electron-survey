@@ -220,7 +220,7 @@ Apps with detected Electron version: 290 / 613
 | [ThisMyPC](https://github.com/supunlakmal/thismypc) [[repo]](https://github.com/supunlakmal/thismypc) | 3.1.8 ⚠️ | 7y 2mo ago | src-package-lock |
 | [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) [[repo]](https://github.com/edrlab/thorium-reader/) | 41.1.1 ⚠️ | 20d ago | src-package-lock |
 | [Threema For Desktop](https://github.com/GeekCornerGH/Threema-For-Desktop#readme) [[repo]](https://github.com/GeekCornerGH/Threema-For-Desktop) | 21.2.2 ⚠️ | 3y 6mo ago | src-pnpm-lock |
-| [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) [[repo]](https://github.com/tiddly-gittly/TidGi-Desktop) | 34.0.2 ⚠️ | 1y 2mo ago | src-pnpm-lock |
+| [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) [[repo]](https://github.com/tiddly-gittly/TidGi-Desktop) | 41.1.1 ⚠️ | 20d ago | src-pnpm-lock |
 | [Tilde](https://github.com/paologiua/tilde) [[repo]](https://github.com/paologiua/tilde) | 10.1.5 ⚠️ | 5y 6mo ago | src-package-lock |
 | [Time Series Admin](https://timeseriesadmin.github.io) [[repo]](https://github.com/timeseriesadmin/timeseriesadmin) | 8.4.1 ⚠️ | 5y 9mo ago | src-package-lock |
 | [Timetable](https://github.com/KDani-99/school_timetable) [[repo]](https://github.com/KDani-99/school_timetable) | 2.0.7 ⚠️ | 7y 9mo ago | src-package-lock |
