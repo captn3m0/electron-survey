@@ -289,7 +289,7 @@ Apps with detected Electron version: 290 / 613
 | [texpaste](https://github.com/jonasmusall/texpaste#readme) [[repo]](https://github.com/jonasmusall/texpaste) | 17.0.0 ⚠️ | 4y 3mo ago | src-package-lock |
 | [todometer](https://cassidoo.github.io/todometer/) [[repo]](https://github.com/cassidoo/todometer/) | 7.3.3 ⚠️ | 5y 8mo ago | src-range-guess |
 | [ttth](https://github.com/yafp/ttth) [[repo]](https://github.com/yafp/ttth) | 7.1.6 ⚠️ | 6y 5mo ago | src-package-lock |
-| [ueli](https://ueli.app) [[repo]](https://github.com/oliverschwendener/ueli) | 40.6.0 ⚠️ | 2mo ago | src-package-lock |
+| [ueli](https://ueli.app) [[repo]](https://github.com/oliverschwendener/ueli) | 41.3.0 | 1d ago | src-package-lock |
 | [wdOS](https://www.webdesk.me/) [[repo]](https://github.com/Webdeskme/wdOS/releases) | 5.0.11 ⚠️ | 6y 8mo ago | src-package-lock |
 | [wnr](https://getwnr.com/) [[repo]](https://github.com/RoderickQiu/wnr) | 22.3.27 ⚠️ | 2y 6mo ago | src-yarn-lock |
 | [y2mp3](https://github.com/moshfeu/y2mp3) [[repo]](https://github.com/moshfeu/y2mp3) | 17.4.11 ⚠️ | 3y 9mo ago | src-yarn-lock |
