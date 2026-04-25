@@ -3938,3 +3938,707 @@
       format: appimage
       os: linux
       arch: x64
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# Apps found via GitHub topic:electron search (pages 2-4, stars > 1500)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ── AingDesk ──────────────────────────────────────────────────────────────────
+# Simple AI assistant with knowledge base, model API, agents, built with Electron
+- id: aingdesk
+  name: AingDesk
+  website: https://github.com/aingdesk/AingDesk
+  repository: https://github.com/aingdesk/AingDesk
+  packages:
+    - url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-mac-1.2.4-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-mac-1.2.4-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-win-1.2.4-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── Altair GraphQL Client ─────────────────────────────────────────────────────
+# Feature-rich GraphQL client for all platforms, built with Electron
+- id: altair-graphql-desktop
+  name: Altair GraphQL Client
+  website: https://altairgraphql.dev/
+  repository: https://github.com/altair-graphql/altair
+  packages:
+    - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_win_x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_amd64_linux.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x86_64_linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_linux.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Awakened PoE Trade ────────────────────────────────────────────────────────
+# Path of Exile price check and trade overlay, built with Electron
+- id: awakened-poe-trade
+  name: Awakened PoE Trade
+  website: https://github.com/SnosMe/awakened-poe-trade
+  repository: https://github.com/SnosMe/awakened-poe-trade
+  packages:
+    - url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.103/Awakened-PoE-Trade-3.28.103-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.103/Awakened-PoE-Trade-Setup-3.28.103.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.103/Awakened-PoE-Trade-3.28.103.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── AYA ───────────────────────────────────────────────────────────────────────
+# Android ADB desktop app, built with Electron
+- id: aya
+  name: AYA
+  website: https://github.com/liriliri/aya
+  repository: https://github.com/liriliri/aya
+  packages:
+    - url: https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-win-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Bilibili Video Download ────────────────────────────────────────────────────
+# Cross-platform bilibili video downloader, built with Electron
+- id: bilibili-video-download
+  name: Bilibili Video Download
+  website: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload
+  repository: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload
+  packages:
+    - url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload-3.3.3.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload.Setup.3.3.3.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload-3.3.3.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Boost Note App ────────────────────────────────────────────────────────────
+# Document-driven project management tool, built with Electron
+- id: boost-note-new
+  name: Boost Note
+  website: https://boostnote.io/
+  repository: https://github.com/BoostIO/BoostNote-App
+  packages:
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-win.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Colanode ──────────────────────────────────────────────────────────────────
+# Open-source local-first Slack + Notion alternative, built with Electron
+- id: colanode
+  name: Colanode
+  website: https://colanode.com/
+  repository: https://github.com/colanode/colanode
+  packages:
+    - url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7.Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── Figma for Linux ───────────────────────────────────────────────────────────
+# Unofficial Figma client for Linux, Electron-based
+- id: figma-linux
+  name: Figma for Linux
+  website: https://github.com/Figma-Linux/figma-linux
+  repository: https://github.com/Figma-Linux/figma-linux
+  packages:
+    - url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+    - url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_aarch64.rpm
+      format: rpm
+      os: linux
+      arch: arm64
+    - url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Frappe Books ──────────────────────────────────────────────────────────────
+# Free double-entry accounting software, built with Electron
+- id: frappe-books
+  name: Frappe Books
+  website: https://frappebooks.com/
+  repository: https://github.com/frappe/books
+  packages:
+    - url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── FreedomGPT ────────────────────────────────────────────────────────────────
+# React + Electron app that runs local LLMs privately on desktop
+- id: freedomgpt
+  name: FreedomGPT
+  website: https://www.freedomgpt.com/
+  repository: https://github.com/ohmplatform/FreedomGPT
+  packages:
+    - url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-darwin-arm64-3.0.4.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-3.0.4.Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── GodMode ───────────────────────────────────────────────────────────────────
+# AI Chat Browser for ChatGPT, Claude, Bard etc., built with Electron
+- id: godmode
+  name: GodMode
+  website: https://github.com/smol-ai/GodMode
+  repository: https://github.com/smol-ai/GodMode
+  packages:
+    - url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode.Setup.1.0.0-beta.10.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── IGdm ──────────────────────────────────────────────────────────────────────
+# Desktop app for Instagram DMs, built with Electron
+- id: igdm
+  name: IGdm
+  website: https://igdm.me/
+  repository: https://github.com/igdmapps/igdm
+  packages:
+    - url: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-3.0.4.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-Setup-3.0.4.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-3.0.4.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Interview Coder ────────────────────────────────────────────────────────────
+# Invisible desktop app for coding interviews, built with Electron
+- id: interview-coder
+  name: Interview Coder
+  website: https://www.interviewcoder.co/
+  repository: https://github.com/ibttf/interview-coder
+  packages:
+    - url: https://github.com/ibttf/interview-coder/releases/download/v1.0.33/Interview-Coder-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/ibttf/interview-coder/releases/download/v1.0.33/Interview-Coder-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ibttf/interview-coder/releases/download/v1.0.33/Interview.Coder-Windows-1.0.33.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── LDtk ─────────────────────────────────────────────────────────────────────
+# Modern, lightweight 2D level editor (Electron app)
+- id: ldtk
+  name: LDtk
+  website: https://ldtk.io/
+  repository: https://github.com/deepnight/ldtk
+  packages:
+    - url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/LDtk-1.5.3-installer.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/mac-distribution.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/ubuntu-distribution.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── Legcord ───────────────────────────────────────────────────────────────────
+# Custom Electron-based Discord client (formerly ArmCord)
+- id: legcord
+  name: Legcord
+  website: https://legcord.app/
+  repository: https://github.com/Legcord/Legcord
+  packages:
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-mac-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-win-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-win-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+    - url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-aarch64.rpm
+      format: rpm
+      os: linux
+      arch: arm64
+
+# ── Muffon ────────────────────────────────────────────────────────────────────
+# Advanced multi-source music streaming and discovery client, built with Electron
+- id: muffon
+  name: Muffon
+  website: https://muffon.netlify.app/
+  repository: https://github.com/staniel359/muffon
+  packages:
+    - url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── NetPad ────────────────────────────────────────────────────────────────────
+# Cross-platform C# editor and playground, built with Electron
+- id: netpad
+  name: NetPad
+  website: https://github.com/tareqimbasher/NetPad
+  repository: https://github.com/tareqimbasher/NetPad
+  packages:
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-mac-aarch64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-win-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-win-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad-0.12.0-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad-0.12.0-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-linux-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── PicList ───────────────────────────────────────────────────────────────────
+# Image upload and management tool (enhanced PicGo fork), built with Electron
+- id: piclist
+  name: PicList
+  website: https://piclist.cn/
+  repository: https://github.com/Kuingsmile/PicList
+  packages:
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-Setup-3.3.2-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-Setup-3.3.2-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Polyglot ──────────────────────────────────────────────────────────────────
+# Cross-platform AI language practice app, built with Electron
+- id: polyglot
+  name: Polyglot
+  website: https://github.com/liou666/polyglot
+  repository: https://github.com/liou666/polyglot
+  packages:
+    - url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_arm64_0.3.7.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_x64_0.3.7.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_0.3.7.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_0.3.7.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Push Notifications ────────────────────────────────────────────────────────
+# macOS/Linux/Windows app to test push notifications on Apple/Firebase, built with Electron
+- id: pushnotifications
+  name: Push Notifications
+  website: https://github.com/onmyway133/PushNotifications
+  repository: https://github.com/onmyway133/PushNotifications
+  packages:
+    - url: https://github.com/onmyway133/PushNotifications/releases/download/1.7.10/Push.Notifications-1.7.10-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+
+# ── scrcpy GUI ────────────────────────────────────────────────────────────────
+# Simple & beautiful GUI application for scrcpy, built with Electron
+- id: scrcpy-gui
+  name: scrcpy GUI
+  website: https://github.com/SimonAKing/scrcpy-gui
+  repository: https://github.com/SimonAKing/scrcpy-gui
+  packages:
+    - url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.win64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Selenium IDE ──────────────────────────────────────────────────────────────
+# Open source record and playback test automation for the web, built with Electron
+- id: selenium-ide
+  name: Selenium IDE
+  website: https://www.selenium.dev/selenium-ide/
+  repository: https://github.com/SeleniumHQ/selenium-ide
+  packages:
+    - url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-Setup-4.0.1-beta.14.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── SmartSub ──────────────────────────────────────────────────────────────────
+# Batch subtitle generation and translation app, built with Electron
+- id: smartsub
+  name: SmartSub
+  website: https://github.com/buxuku/SmartSub
+  repository: https://github.com/buxuku/SmartSub
+  packages:
+    - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Mac_2.15.0_arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Mac_2.15.0_x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Win_2.15.0_x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Linux_2.15.0_x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Linux_2.15.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Teams for Linux ───────────────────────────────────────────────────────────
+# Unofficial Microsoft Teams client for Linux, built with Electron
+- id: teams-for-linux
+  name: Teams for Linux
+  website: https://github.com/IsmaelMartinez/teams-for-linux
+  repository: https://github.com/IsmaelMartinez/teams-for-linux
+  packages:
+    - url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-2.8.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-Setup-2.8.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-2.8.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-2.8.0-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux_2.8.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux_2.8.0_arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── TidGi ─────────────────────────────────────────────────────────────────────
+# Privacy-focused, auto-git-backup TiddlyWiki desktop, built with Electron
+- id: tidgi
+  name: TidGi
+  website: https://github.com/tiddly-gittly/TidGi-Desktop
+  repository: https://github.com/tiddly-gittly/TidGi-Desktop
+  packages:
+    - url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi-darwin-arm64-0.13.0.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi-darwin-x64-0.13.0.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/Install-TidGi-Windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/Install-TidGi-Windows-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi_0.13.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi-0.13.0-1.x86_64.rpm
+      format: rpm
+      os: linux
+      arch: x64
+
+# ── WebCord ───────────────────────────────────────────────────────────────────
+# Discord and SpaceBar Electron-based client with privacy enhancements
+- id: webcord
+  name: WebCord
+  website: https://github.com/SpacingBat3/WebCord
+  repository: https://github.com/SpacingBat3/WebCord
+  packages:
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/WebCord.arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/WebCord.x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/webcord-squirrel-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/webcord-squirrel-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/WebCord-4.13.0-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/WebCord-4.13.0-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/webcord_4.13.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/webcord_4.13.0_arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+    - url: https://github.com/SpacingBat3/WebCord/releases/download/v4.13.0/webcord-4.13.0-1.x86_64.rpm
+      format: rpm
+      os: linux
+      arch: x64
+
+# ── Yosoro ────────────────────────────────────────────────────────────────────
+# Beautiful Markdown notebook, built with Electron
+- id: yosoro
+  name: Yosoro
+  website: https://github.com/IceEnd/Yosoro
+  repository: https://github.com/IceEnd/Yosoro
+  packages:
+    - url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-osx.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-win32-x64-setup.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/yosoro-linux.deb
+      format: deb
+      os: linux
+      arch: x64
