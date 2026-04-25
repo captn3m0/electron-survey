@@ -1554,3 +1554,1118 @@
       format: tar.gz
       os: linux
       arch: x64
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# Apps found via Homebrew, Scoop, awesome-electron and other package repos
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ── AFFiNE ────────────────────────────────────────────────────────────────────
+- id: affine
+  name: AFFiNE
+  website: https://affine.pro/
+  repository: https://github.com/toeverything/AFFiNE
+  packages:
+    - url: https://github.com/toeverything/AFFiNE/releases/download/v0.26.3/affine-0.26.3-stable-macos-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/toeverything/AFFiNE/releases/download/v0.26.3/affine-0.26.3-stable-macos-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/toeverything/AFFiNE/releases/download/v0.26.3/affine-0.26.3-stable-windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/toeverything/AFFiNE/releases/download/v0.26.3/affine-0.26.3-stable-windows-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/toeverything/AFFiNE/releases/download/v0.26.3/affine-0.26.3-stable-linux-x64.appimage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/toeverything/AFFiNE/releases/download/v0.26.3/affine-0.26.3-stable-linux-x64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Amie ──────────────────────────────────────────────────────────────────────
+- id: amie
+  name: Amie
+  website: https://amie.so/
+  repository: https://github.com/amieso/electron-releases
+  packages:
+    - url: https://github.com/amieso/electron-releases/releases/download/v260216.1.0/Amie-260216.1.0-arm64-mac.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/amieso/electron-releases/releases/download/v260216.1.0/Amie-260216.1.0-mac.zip
+      format: zip
+      os: macos
+      arch: x64
+
+# ── Before Dawn ───────────────────────────────────────────────────────────────
+- id: before-dawn
+  name: Before Dawn
+  website: https://github.com/muffinista/before-dawn
+  repository: https://github.com/muffinista/before-dawn
+  packages:
+    - url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-0.37.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-Setup-0.37.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/before-dawn_0.37.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Bison Wallet ──────────────────────────────────────────────────────────────
+# Electron-based GUI wallet for the Decred DEX (DCRDEX)
+- id: bison-wallet
+  name: Bison Wallet
+  website: https://github.com/decred/dcrdex
+  repository: https://github.com/decred/dcrdex
+  packages:
+    - url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-darwin-arm64-v1.0.5.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-linux-amd64-v1.0.5.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-windows-amd64-v1.0.5.msi
+      format: msi
+      os: windows
+      arch: x64
+
+# ── BloodHound (Legacy) ───────────────────────────────────────────────────────
+# Electron-based Active Directory attack path visualiser (v4.x legacy edition)
+- id: bloodhound
+  name: BloodHound
+  website: https://github.com/SpecterOps/BloodHound-Legacy
+  repository: https://github.com/SpecterOps/BloodHound-Legacy
+  packages:
+    - url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-arm64.zip
+      format: zip
+      os: windows
+      arch: arm64
+    - url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+    - url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-arm64.zip
+      format: zip
+      os: linux
+      arch: arm64
+
+# ── Boostnote (Next) ──────────────────────────────────────────────────────────
+- id: boost-note
+  name: Boostnote.Next
+  website: https://boostnote.io/
+  repository: https://github.com/BoostIO/BoostNote-App
+  packages:
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-win.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Cabal Desktop ─────────────────────────────────────────────────────────────
+- id: cabal-desktop
+  name: Cabal Desktop
+  website: https://cabal.chat/
+  repository: https://github.com/cabal-club/cabal-desktop
+  packages:
+    - url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-windows.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop_8.0.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Cables ────────────────────────────────────────────────────────────────────
+- id: cables
+  name: Cables
+  website: https://cables.gl/
+  repository: https://github.com/cables-gl/cables_electron
+  packages:
+    - url: https://github.com/cables-gl/cables_electron/releases/download/v0.10.6/cables-0.10.6-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/cables-gl/cables_electron/releases/download/v0.10.6/cables-0.10.6-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/cables-gl/cables_electron/releases/download/v0.10.6/cables-0.10.6-win-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/cables-gl/cables_electron/releases/download/v0.10.6/cables-0.10.6-linux-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Cerebro ───────────────────────────────────────────────────────────────────
+- id: cerebro
+  name: Cerebro
+  website: https://cerebroapp.com/
+  repository: https://github.com/cerebroapp/cerebro
+  packages:
+    - url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-Setup-0.11.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/cerebro_0.11.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── ChatGPT Desktop ───────────────────────────────────────────────────────────
+# Official OpenAI ChatGPT desktop app (likely Electron-based)
+- id: chatgpt-desktop
+  name: ChatGPT
+  website: https://openai.com/chatgpt/desktop/
+  packages:
+    - url: https://persistent.oaistatic.com/sidekick/public/ChatGPT_Desktop_public_latest.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+
+# ── Claude Desktop ────────────────────────────────────────────────────────────
+# Anthropic's official Claude AI desktop app (possibly Electron-based)
+- id: claude-desktop
+  name: Claude
+  website: https://claude.ai/download
+  packages:
+    - url: https://downloads.claude.ai/releases/darwin/universal/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
+      format: zip
+      os: macos
+      arch: universal
+    - url: https://downloads.claude.ai/releases/win32/x64/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.msix
+      format: msix
+      os: windows
+      arch: x64
+    - url: https://downloads.claude.ai/releases/win32/arm64/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.msix
+      format: msix
+      os: windows
+      arch: arm64
+
+# ── CloudPouch ────────────────────────────────────────────────────────────────
+- id: cloudpouch
+  name: CloudPouch
+  website: https://cloudpouch.dev/
+  repository: https://github.com/CloudPouch/CloudPouch.dev
+  packages:
+    - url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.43.0/CloudPouch-1.43.0-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.43.0/CloudPouch-Setup-1.43.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.43.0/CloudPouch-1.43.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Decrediton ────────────────────────────────────────────────────────────────
+- id: decrediton
+  name: Decrediton
+  website: https://github.com/decred/decrediton
+  repository: https://github.com/decred/decrediton
+  packages:
+    - url: https://github.com/decred/decred-binaries/releases/download/v2.1.5/decrediton-darwin-arm64-v2.1.5.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/decred/decred-binaries/releases/download/v2.1.5/decrediton-darwin-amd64-v2.1.5.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/decred/decred-binaries/releases/download/v2.1.5/decrediton-windows-amd64-v2.1.5.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/decred/decred-binaries/releases/download/v2.1.5/decrediton-linux-amd64-v2.1.5.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Dyad ──────────────────────────────────────────────────────────────────────
+- id: dyad
+  name: Dyad
+  website: https://dyad.sh/
+  repository: https://github.com/dyad-sh/dyad
+  packages:
+    - url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-darwin-arm64-0.43.0.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-darwin-x64-0.43.0.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-0.43.0.Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad_0.43.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad_0.43.0_x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Electron Fiddle ───────────────────────────────────────────────────────────
+- id: electron-fiddle
+  name: Electron Fiddle
+  website: https://www.electronjs.org/fiddle
+  repository: https://github.com/electron/fiddle
+  packages:
+    - url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-arm64-0.39.0.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-x64-0.39.0.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-win32-x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-win32-ia32-setup.exe
+      format: exe
+      os: windows
+      arch: x86
+    - url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-0.39.0-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle_0.39.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── ElectronMail ──────────────────────────────────────────────────────────────
+- id: electronmail
+  name: ElectronMail
+  website: https://github.com/vladimiry/ElectronMail
+  repository: https://github.com/vladimiry/ElectronMail
+  packages:
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-x64-nsis-installer.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-arm64-nsis-installer.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── FlyEnv ────────────────────────────────────────────────────────────────────
+- id: flyenv
+  name: FlyEnv
+  website: https://www.macphpstudy.com/
+  repository: https://github.com/xpf0000/FlyEnv
+  packages:
+    - url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-Setup-4.14.2.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2-x64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── Gather ────────────────────────────────────────────────────────────────────
+# Virtual video-calling space; Electron-based desktop wrapper
+- id: gather
+  name: Gather
+  website: https://gather.town/
+  repository: https://github.com/gathertown/gather-town-desktop-releases
+  packages:
+    - url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.37.1/Gather-1.37.1-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.37.1/Gather-1.37.1-Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── GitFiend ──────────────────────────────────────────────────────────────────
+# Git GUI client (possibly Electron or Tauri)
+- id: gitfiend
+  name: GitFiend
+  website: https://gitfiend.com/
+  repository: https://github.com/GitFiend/Support
+  packages:
+    - url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend.Setup.0.45.3.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend_0.45.3_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Heptabase ─────────────────────────────────────────────────────────────────
+- id: heptabase
+  name: Heptabase
+  website: https://heptabase.com/
+  repository: https://github.com/heptameta/project-meta
+  packages:
+    - url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-1.91.1-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-1.91.1.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-Setup-1.91.1.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-1.91.1.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── ieaseMusic ────────────────────────────────────────────────────────────────
+- id: ieasemusic
+  name: ieaseMusic
+  website: https://github.com/trazyn/ieaseMusic
+  repository: https://github.com/trazyn/ieaseMusic
+  packages:
+    - url: https://github.com/trazyn/ieaseMusic/releases/download/v1.3.4/ieaseMusic-1.3.4-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/trazyn/ieaseMusic/releases/download/v1.3.4/ieaseMusic-1.3.4-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/trazyn/ieaseMusic/releases/download/v1.3.4/ieaseMusic-1.3.4-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── IPFS Desktop ──────────────────────────────────────────────────────────────
+- id: ipfs-desktop
+  name: IPFS Desktop
+  website: https://github.com/ipfs/ipfs-desktop
+  repository: https://github.com/ipfs/ipfs-desktop
+  packages:
+    - url: https://github.com/ipfs/ipfs-desktop/releases/download/v0.48.0/ipfs-desktop-0.48.0-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ipfs/ipfs-desktop/releases/download/v0.48.0/ipfs-desktop-setup-0.48.0-win-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/ipfs/ipfs-desktop/releases/download/v0.48.0/ipfs-desktop-0.48.0-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/ipfs/ipfs-desktop/releases/download/v0.48.0/ipfs-desktop-0.48.0-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/ipfs/ipfs-desktop/releases/download/v0.48.0/ipfs-desktop-0.48.0-linux-amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Jitsi Meet Desktop ────────────────────────────────────────────────────────
+- id: jitsi-meet-desktop
+  name: Jitsi Meet
+  website: https://jitsi.org/
+  repository: https://github.com/jitsi/jitsi-meet-electron
+  packages:
+    - url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── LobeHub ───────────────────────────────────────────────────────────────────
+- id: lobehub
+  name: LobeHub
+  website: https://lobehub.com/
+  repository: https://github.com/lobehub/lobe-chat
+  packages:
+    - url: https://github.com/lobehub/lobe-chat/releases/download/v2.1.52/LobeHub-2.1.52-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/lobehub/lobe-chat/releases/download/v2.1.52/LobeHub-2.1.52-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/lobehub/lobe-chat/releases/download/v2.1.52/LobeHub-2.1.52-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/lobehub/lobe-chat/releases/download/v2.1.52/LobeHub-2.1.52.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/lobehub/lobe-chat/releases/download/v2.1.52/lobehub-desktop_2.1.52_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── LX Music Desktop ──────────────────────────────────────────────────────────
+- id: lx-music-desktop
+  name: LX Music Desktop
+  website: https://github.com/lyswhut/lx-music-desktop
+  repository: https://github.com/lyswhut/lx-music-desktop
+  packages:
+    - url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-2.12.1-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-2.12.1-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-v2.12.1-x64-Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-v2.12.1-arm64-Setup.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop_2.12.1_x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop_2.12.1_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── macintosh.js ──────────────────────────────────────────────────────────────
+- id: macintoshjs
+  name: macintosh.js
+  website: https://github.com/felixrieseberg/macintosh.js
+  repository: https://github.com/felixrieseberg/macintosh.js
+  packages:
+    - url: https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintosh.js-darwin-arm64-1.2.0.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintosh.js-darwin-x64-1.2.0.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintoshjs-1.2.0-setup-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintosh.js_1.2.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Meru (formerly Gmail Desktop) ────────────────────────────────────────────
+- id: meru
+  name: Meru
+  website: https://github.com/timche/gmail-desktop
+  repository: https://github.com/timche/gmail-desktop
+  packages:
+    - url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/meru_3.45.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Microsoft Azure Storage Explorer ─────────────────────────────────────────
+- id: azure-storage-explorer
+  name: Azure Storage Explorer
+  website: https://azure.microsoft.com/en-us/products/storage/storage-explorer/
+  repository: https://github.com/microsoft/AzureStorageExplorer
+  packages:
+    - url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-darwin-arm64.pkg
+      format: pkg
+      os: macos
+      arch: arm64
+    - url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-darwin-x64.pkg
+      format: pkg
+      os: macos
+      arch: x64
+    - url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-windows-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-linux-x64.tar.gz
+      format: tar.gz
+      os: linux
+      arch: x64
+
+# ── MQTTX ─────────────────────────────────────────────────────────────────────
+- id: mqttx
+  name: MQTTX
+  website: https://mqttx.app/
+  repository: https://github.com/emqx/MQTTX
+  packages:
+    - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-Setup-1.13.0-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX_1.13.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX_1.13.0_amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Open Video Downloader ─────────────────────────────────────────────────────
+- id: open-video-downloader
+  name: Open Video Downloader
+  website: https://github.com/jely2002/youtube-dl-gui
+  repository: https://github.com/jely2002/youtube-dl-gui
+  packages:
+    - url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_aarch64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_amd64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Ostara ────────────────────────────────────────────────────────────────────
+- id: ostara
+  name: Ostara
+  website: https://github.com/krud-dev/ostara
+  repository: https://github.com/krud-dev/ostara
+  packages:
+    - url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-Setup-0.12.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Padloc ────────────────────────────────────────────────────────────────────
+- id: padloc
+  name: Padloc
+  website: https://padloc.app/
+  repository: https://github.com/padloc/padloc
+  packages:
+    - url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_macos_electron_arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_macos_electron_x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_windows_electron_x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_electron_x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_electron_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_electron_amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── PikaTorrent ───────────────────────────────────────────────────────────────
+- id: pikatorrent
+  name: PikaTorrent
+  website: https://github.com/G-Ray/pikatorrent
+  repository: https://github.com/G-Ray/pikatorrent
+  packages:
+    - url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-macos.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-windows-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── Pomotroid ─────────────────────────────────────────────────────────────────
+- id: pomotroid
+  name: Pomotroid
+  website: https://splode.github.io/pomotroid/
+  repository: https://github.com/Splode/pomotroid
+  packages:
+    - url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_amd64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Pritunl ───────────────────────────────────────────────────────────────────
+- id: pritunl
+  name: Pritunl
+  website: https://client.pritunl.com/
+  repository: https://github.com/pritunl/pritunl-client-electron
+  packages:
+    - url: https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.4566.62/Pritunl.pkg.zip
+      format: zip
+      os: macos
+      arch: universal
+    - url: https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.4566.62/Pritunl.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.4566.62/pritunl-client-electron_1.3.4566.62-0debian1.bookworm_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Pulsar ────────────────────────────────────────────────────────────────────
+# Community-led successor to Atom, built on Electron
+- id: pulsar-edit
+  name: Pulsar
+  website: https://pulsar-edit.dev/
+  repository: https://github.com/pulsar-edit/pulsar
+  packages:
+    - url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Silicon.Mac.Pulsar-1.131.3-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Intel.Mac.Pulsar-1.131.3.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Windows.Pulsar.Setup.1.131.3.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Linux.Pulsar-1.131.3.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Linux.pulsar_1.131.3_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/ARM.Linux.Pulsar-1.131.3-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Reflect Notes ─────────────────────────────────────────────────────────────
+- id: reflect
+  name: Reflect Notes
+  website: https://reflect.app/
+  repository: https://github.com/team-reflect/reflect-electron-updates
+  packages:
+    - url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.2.4/Reflect-darwin-universal-3.2.4.zip
+      format: zip
+      os: macos
+      arch: universal
+    - url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.2.4/Reflect-darwin-arm64-3.2.4.zip
+      format: zip
+      os: macos
+      arch: arm64
+
+# ── Sabaki ────────────────────────────────────────────────────────────────────
+- id: sabaki
+  name: Sabaki
+  website: https://sabaki.yichuanshen.de/
+  repository: https://github.com/SabakiHQ/Sabaki
+  packages:
+    - url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-win-x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Sengi ─────────────────────────────────────────────────────────────────────
+- id: sengi
+  name: Sengi
+  website: https://github.com/NicolasConstant/sengi
+  repository: https://github.com/NicolasConstant/sengi-electron
+  packages:
+    - url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-win.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Sigma File Manager ────────────────────────────────────────────────────────
+- id: sigma-file-manager
+  name: Sigma File Manager
+  website: https://github.com/aleksey-hoffman/sigma-file-manager
+  repository: https://github.com/aleksey-hoffman/sigma-file-manager
+  packages:
+    - url: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v2.0.0-beta.3/Sigma-File-Manager-2.0.0-beta.3-linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v2.0.0-beta.3/Sigma-File-Manager-2.0.0-beta.3-windows-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── Superhuman ────────────────────────────────────────────────────────────────
+# Email client (possibly Electron-based)
+- id: superhuman
+  name: Superhuman
+  website: https://superhuman.com/
+  packages:
+    - url: https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1038.0.32-arm64-latest-mac.zip
+      format: zip
+      os: macos
+      arch: arm64
+
+# ── Threema ───────────────────────────────────────────────────────────────────
+- id: threema
+  name: Threema
+  website: https://threema.ch/
+  packages:
+    - url: https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg
+      format: dmg
+      os: macos
+      arch: universal
+
+# ── Threema Work ──────────────────────────────────────────────────────────────
+- id: threema-work
+  name: Threema Work
+  website: https://threema.com/products/work
+  packages:
+    - url: https://releases.threema.ch/web-electron/v1/release/Threema-Work-Latest.dmg
+      format: dmg
+      os: macos
+      arch: universal
+
+# ── Typora ────────────────────────────────────────────────────────────────────
+- id: typora
+  name: Typora
+  website: https://typora.io/
+  packages:
+    - url: https://download.typora.io/mac/Typora-1.13.4.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://download.typora.io/windows/x64/typora-setup-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://download.typora.io/windows/arm64/typora-setup-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://download.typora.io/linux/typora_1.13.4_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Vieb ──────────────────────────────────────────────────────────────────────
+- id: vieb
+  name: Vieb
+  website: https://vieb.dev/
+  repository: https://github.com/Jelmerro/Vieb
+  packages:
+    - url: https://github.com/Jelmerro/Vieb/releases/download/12.8.0/Vieb-12.8.0-arm64-mac.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/Jelmerro/Vieb/releases/download/12.8.0/Vieb-12.8.0-mac.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/Jelmerro/Vieb/releases/download/12.8.0/Vieb.Setup.12.8.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/Jelmerro/Vieb/releases/download/12.8.0/Vieb-12.8.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/Jelmerro/Vieb/releases/download/12.8.0/vieb_12.8.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/Jelmerro/Vieb/releases/download/12.8.0/vieb_12.8.0_amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Wave Terminal ─────────────────────────────────────────────────────────────
+# Open-source AI-integrated terminal emulator using Electron
+- id: wave-terminal
+  name: Wave Terminal
+  website: https://www.waveterm.dev/
+  repository: https://github.com/wavetermdev/waveterm
+  packages:
+    - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-arm64-0.14.5.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-x64-0.14.5.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.msi
+      format: msi
+      os: windows
+      arch: x64
+    - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-amd64-0.14.5.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-arm64-0.14.5.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Windows 95 ────────────────────────────────────────────────────────────────
+- id: windows95
+  name: Windows 95
+  website: https://github.com/felixrieseberg/windows95
+  repository: https://github.com/felixrieseberg/windows95
+  packages:
+    - url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-darwin-arm64-5.0.1.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-darwin-x64-5.0.1.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-5.0.1-setup-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95_5.0.1_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Yana ──────────────────────────────────────────────────────────────────────
+- id: yana
+  name: Yana
+  website: https://github.com/lukasbach/yana
+  repository: https://github.com/lukasbach/yana
+  packages:
+    - url: https://github.com/lukasbach/yana/releases/download/v1.0.16/Yana-Setup-1.0.16.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/lukasbach/yana/releases/download/v1.0.16/Yana-1.0.16.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/lukasbach/yana/releases/download/v1.0.16/yana_1.0.16_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/lukasbach/yana/releases/download/v1.0.16/yana_1.0.16_amd64.snap
+      format: snap
+      os: linux
+      arch: x64
