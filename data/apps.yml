@@ -4996,37 +4996,37 @@
 - id: mstream
   repository: https://github.com/IrosTheBeggar/mStream
   website: https://mstream.io/
-  latest: v6.5.1
-  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.5.1.zip
+  latest: v6.5.4
+  src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.5.4.zip
   downloads:
   - name: latest-linux-arm.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/latest-linux-arm.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/latest-linux-arm.yml
   - name: latest-linux-arm64.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/latest-linux-arm64.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/latest-linux-arm64.yml
   - name: latest-linux.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/latest-linux.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/latest-mac.yml
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/latest.yml
-  - name: mStream-Server-6.5.1-arm64-mac.zip
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-6.5.1-arm64-mac.zip
-  - name: mStream-Server-6.5.1-arm64.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-6.5.1-arm64.AppImage
-  - name: mStream-Server-6.5.1-arm64.dmg
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-6.5.1-arm64.dmg
-  - name: mStream-Server-6.5.1-arm64.dmg.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-6.5.1-arm64.dmg.blockmap
-  - name: mStream-Server-6.5.1-armv7l.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-6.5.1-armv7l.AppImage
-  - name: mStream-Server-6.5.1.AppImage
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-6.5.1.AppImage
-  - name: mStream-Server-Setup-6.5.1.exe
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-Setup-6.5.1.exe
-  - name: mStream-Server-Setup-6.5.1.exe.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream-Server-Setup-6.5.1.exe.blockmap
-  - name: mStream.Server-6.5.1-arm64-mac.zip.blockmap
-    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.1/mStream.Server-6.5.1-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/latest.yml
+  - name: mStream-Server-6.5.4-arm64-mac.zip
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-6.5.4-arm64-mac.zip
+  - name: mStream-Server-6.5.4-arm64.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-6.5.4-arm64.AppImage
+  - name: mStream-Server-6.5.4-arm64.dmg
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-6.5.4-arm64.dmg
+  - name: mStream-Server-6.5.4-arm64.dmg.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-6.5.4-arm64.dmg.blockmap
+  - name: mStream-Server-6.5.4-armv7l.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-6.5.4-armv7l.AppImage
+  - name: mStream-Server-6.5.4.AppImage
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-6.5.4.AppImage
+  - name: mStream-Server-Setup-6.5.4.exe
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-Setup-6.5.4.exe
+  - name: mStream-Server-Setup-6.5.4.exe.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream-Server-Setup-6.5.4.exe.blockmap
+  - name: mStream.Server-6.5.4-arm64-mac.zip.blockmap
+    url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.5.4/mStream.Server-6.5.4-arm64-mac.zip.blockmap
   aur:
   - mstream
   - mstream-git
@@ -5186,28 +5186,28 @@
 - id: netron
   repository: https://github.com/lutzroeder/netron
   website: https://www.lutzroeder.com/ai
-  latest: v9.0.3
-  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.3.zip
+  latest: v9.0.4
+  src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.0.4.zip
   downloads:
   - name: latest-linux.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/latest-linux.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/latest-linux.yml
   - name: latest-mac.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/latest-mac.yml
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/latest-mac.yml
   - name: latest.yml
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/latest.yml
-  - name: Netron-9.0.3-amd64.deb
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/Netron-9.0.3-amd64.deb
-  - name: Netron-9.0.3-mac.zip
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/Netron-9.0.3-mac.zip
-  - name: Netron-9.0.3-mac.zip.blockmap
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/Netron-9.0.3-mac.zip.blockmap
-  - name: Netron-9.0.3-x86_64.rpm
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/Netron-9.0.3-x86_64.rpm
-  - name: Netron-9.0.3.dmg
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/Netron-9.0.3.dmg
-  - name: Netron-Setup-9.0.3.exe
-    url: https://github.com/lutzroeder/netron/releases/download/v9.0.3/Netron-Setup-9.0.3.exe
-  electron: 41.2.1
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/latest.yml
+  - name: Netron-9.0.4-amd64.deb
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4-amd64.deb
+  - name: Netron-9.0.4-mac.zip
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4-mac.zip
+  - name: Netron-9.0.4-mac.zip.blockmap
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4-mac.zip.blockmap
+  - name: Netron-9.0.4-x86_64.rpm
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4-x86_64.rpm
+  - name: Netron-9.0.4.dmg
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4.dmg
+  - name: Netron-Setup-9.0.4.exe
+    url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-Setup-9.0.4.exe
+  electron: 41.3.0
   method: src-package-lock
   aur:
   - netron
@@ -8122,61 +8122,77 @@
 - id: tabby-terminal
   repository: https://github.com/Eugeny/tabby
   website: https://tabby.sh
-  latest: v1.0.231
-  src: https://github.com/Eugeny/tabby/archive/refs/tags/v1.0.231.zip
+  latest: v1.0.230
+  src: https://github.com/Eugeny/tabby/archive/refs/tags/v1.0.230.zip
   downloads:
   - name: latest-arm64-linux-arm64.yml
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/latest-arm64-linux-arm64.yml
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-arm64-linux-arm64.yml
   - name: latest-arm64-mac.yml
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/latest-arm64-mac.yml
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-arm64-mac.yml
+  - name: latest-arm64.yml
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-arm64.yml
   - name: latest-armv7l-linux-arm.yml
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/latest-armv7l-linux-arm.yml
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-armv7l-linux-arm.yml
   - name: latest-x64-linux.yml
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/latest-x64-linux.yml
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-x64-linux.yml
+  - name: latest-x64.yml
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-x64.yml
   - name: latest-x86_64-mac.yml
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/latest-x86_64-mac.yml
-  - name: tabby-1.0.231-linux-arm64.AppImage
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-arm64.AppImage
-  - name: tabby-1.0.231-linux-arm64.deb
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-arm64.deb
-  - name: tabby-1.0.231-linux-arm64.pacman
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-arm64.pacman
-  - name: tabby-1.0.231-linux-arm64.rpm
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-arm64.rpm
-  - name: tabby-1.0.231-linux-arm64.tar.gz
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-arm64.tar.gz
-  - name: tabby-1.0.231-linux-armv7l.AppImage
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-armv7l.AppImage
-  - name: tabby-1.0.231-linux-armv7l.deb
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-armv7l.deb
-  - name: tabby-1.0.231-linux-armv7l.pacman
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-armv7l.pacman
-  - name: tabby-1.0.231-linux-armv7l.rpm
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-armv7l.rpm
-  - name: tabby-1.0.231-linux-armv7l.tar.gz
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-armv7l.tar.gz
-  - name: tabby-1.0.231-linux-x64.AppImage
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-x64.AppImage
-  - name: tabby-1.0.231-linux-x64.deb
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-x64.deb
-  - name: tabby-1.0.231-linux-x64.pacman
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-x64.pacman
-  - name: tabby-1.0.231-linux-x64.rpm
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-x64.rpm
-  - name: tabby-1.0.231-linux-x64.tar.gz
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-linux-x64.tar.gz
-  - name: tabby-1.0.231-macos-arm64.dmg
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-macos-arm64.dmg
-  - name: tabby-1.0.231-macos-arm64.dmg.blockmap
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-macos-arm64.dmg.blockmap
-  - name: tabby-1.0.231-macos-arm64.zip
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-macos-arm64.zip
-  - name: tabby-1.0.231-macos-x86_64.dmg
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-macos-x86_64.dmg
-  - name: tabby-1.0.231-macos-x86_64.dmg.blockmap
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-macos-x86_64.dmg.blockmap
-  - name: tabby-1.0.231-macos-x86_64.zip
-    url: https://github.com/Eugeny/tabby/releases/download/v1.0.231/tabby-1.0.231-macos-x86_64.zip
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/latest-x86_64-mac.yml
+  - name: tabby-1.0.230-linux-arm64.AppImage
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-arm64.AppImage
+  - name: tabby-1.0.230-linux-arm64.deb
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-arm64.deb
+  - name: tabby-1.0.230-linux-arm64.pacman
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-arm64.pacman
+  - name: tabby-1.0.230-linux-arm64.rpm
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-arm64.rpm
+  - name: tabby-1.0.230-linux-arm64.tar.gz
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-arm64.tar.gz
+  - name: tabby-1.0.230-linux-armv7l.AppImage
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-armv7l.AppImage
+  - name: tabby-1.0.230-linux-armv7l.deb
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-armv7l.deb
+  - name: tabby-1.0.230-linux-armv7l.pacman
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-armv7l.pacman
+  - name: tabby-1.0.230-linux-armv7l.rpm
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-armv7l.rpm
+  - name: tabby-1.0.230-linux-armv7l.tar.gz
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-armv7l.tar.gz
+  - name: tabby-1.0.230-linux-x64.AppImage
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-x64.AppImage
+  - name: tabby-1.0.230-linux-x64.deb
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-x64.deb
+  - name: tabby-1.0.230-linux-x64.pacman
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-x64.pacman
+  - name: tabby-1.0.230-linux-x64.rpm
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-x64.rpm
+  - name: tabby-1.0.230-linux-x64.tar.gz
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-linux-x64.tar.gz
+  - name: tabby-1.0.230-macos-arm64.dmg
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-macos-arm64.dmg
+  - name: tabby-1.0.230-macos-arm64.dmg.blockmap
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-macos-arm64.dmg.blockmap
+  - name: tabby-1.0.230-macos-arm64.zip
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-macos-arm64.zip
+  - name: tabby-1.0.230-macos-x86_64.dmg
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-macos-x86_64.dmg
+  - name: tabby-1.0.230-macos-x86_64.dmg.blockmap
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-macos-x86_64.dmg.blockmap
+  - name: tabby-1.0.230-macos-x86_64.zip
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-macos-x86_64.zip
+  - name: tabby-1.0.230-portable-arm64.zip
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-portable-arm64.zip
+  - name: tabby-1.0.230-portable-x64.zip
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-portable-x64.zip
+  - name: tabby-1.0.230-setup-arm64.exe
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-arm64.exe
+  - name: tabby-1.0.230-setup-arm64.exe.blockmap
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-arm64.exe.blockmap
+  - name: tabby-1.0.230-setup-x64.exe
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-x64.exe
+  - name: tabby-1.0.230-setup-x64.exe.blockmap
+    url: https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-x64.exe.blockmap
   electron: 38.2.2
   method: src-yarn-lock
   aur:
@@ -8189,34 +8205,60 @@
 - id: tagspaces
   repository: https://github.com/tagspaces/tagspaces
   website: https://www.tagspaces.org/
-  latest: v6.10.5
-  src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.10.5.zip
+  latest: v6.11.2
+  src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.11.2.zip
   downloads:
   - name: SHA256SUMS.txt
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/SHA256SUMS.txt
-  - name: tagspaces-android-6.10.5.apk
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-android-6.10.5.apk
-  - name: tagspaces-linux-amd64-6.10.5.deb
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-linux-amd64-6.10.5.deb
-  - name: tagspaces-linux-x64-6.10.5.tar.gz
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-linux-x64-6.10.5.tar.gz
-  - name: tagspaces-linux-x86_64-6.10.5.AppImage
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-linux-x86_64-6.10.5.AppImage
-  - name: tagspaces-mac-arm64-6.10.5.dmg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-arm64-6.10.5.dmg
-  - name: tagspaces-mac-arm64-6.10.5.pkg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-arm64-6.10.5.pkg
-  - name: tagspaces-mac-x64-6.10.5.dmg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-x64-6.10.5.dmg
-  - name: tagspaces-mac-x64-6.10.5.pkg
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-mac-x64-6.10.5.pkg
-  - name: tagspaces-web-6.10.5.zip
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-web-6.10.5.zip
-  - name: tagspaces-win-x64-6.10.5.exe
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-win-x64-6.10.5.exe
-  - name: tagspaces-win-x64-6.10.5.zip
-    url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.5/tagspaces-win-x64-6.10.5.zip
-  electron: 41.1.0
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/SHA256SUMS.txt
+  - name: tagspaces-android-6.11.2.apk
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-android-6.11.2.apk
+    checksum: fb560020c8b87d43f488f3ef25e3a0cd8697b2a70105c37816114f2538d146f2
+  - name: tagspaces-linux-amd64-6.11.2.deb
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-linux-amd64-6.11.2.deb
+    checksum: aba92e4167a00ee715de7ab650c572f096dc778cb53f37a9a05d0fc79390701d
+  - name: tagspaces-linux-arm64-6.11.2.AppImage
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-linux-arm64-6.11.2.AppImage
+    checksum: 3f04cca0f38c0b29c8886a80a004c1c187bc756e10f3d5ade645b69c82b1d3de
+  - name: tagspaces-linux-arm64-6.11.2.deb
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-linux-arm64-6.11.2.deb
+    checksum: 3904f061036f4938812292b37e8160fca9546fc1c2171c3e5e54490774ba9078
+  - name: tagspaces-linux-arm64-6.11.2.tar.gz
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-linux-arm64-6.11.2.tar.gz
+    checksum: 7135a31cbadd39b8023fd30763de215d508a7bd73d3ed853888d16313f463616
+  - name: tagspaces-linux-x64-6.11.2.tar.gz
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-linux-x64-6.11.2.tar.gz
+    checksum: 16a5a4bf761a6a72d4d04e01c8ac924572c34543bdff3859e9a85c09909dc3ca
+  - name: tagspaces-linux-x86_64-6.11.2.AppImage
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-linux-x86_64-6.11.2.AppImage
+    checksum: 37267cdbb062a6431fcfcc71cc96a66beda7282a1ee6ea39947364ae1a72d6b7
+  - name: tagspaces-mac-arm64-6.11.2.dmg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-mac-arm64-6.11.2.dmg
+    checksum: f5ac999ad5bfac67632f45e8d4bff6cd6651934724944e50363ec8037534a1ef
+  - name: tagspaces-mac-arm64-6.11.2.pkg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-mac-arm64-6.11.2.pkg
+    checksum: 483e3a8f97a1dc386eec0cbd07b77a65d9766a579b35556a16b75c9f61dfaeef
+  - name: tagspaces-mac-x64-6.11.2.dmg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-mac-x64-6.11.2.dmg
+    checksum: d1ff3eff042f4280723e6db2804635a99fb8731f5ee4e7cf73dfcb2745d4f957
+  - name: tagspaces-mac-x64-6.11.2.pkg
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-mac-x64-6.11.2.pkg
+    checksum: b220085cf34426df0e7b531ec39a2fa9525d4b75df009d81593af184ca3259b4
+  - name: tagspaces-web-6.11.2.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-web-6.11.2.zip
+    checksum: 4d2dea3e3d58ae49ec70796dae2fa0428a01658f9a045fade259923ff393ebdf
+  - name: tagspaces-win-arm64-6.11.2.exe
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-win-arm64-6.11.2.exe
+    checksum: 845fc4b975001d58bcd644625d7768d341e14e2311996b64da530caf869c9d14
+  - name: tagspaces-win-arm64-6.11.2.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-win-arm64-6.11.2.zip
+    checksum: 4820711eb11a6e8608ca314d51369cde9eb7f2f143d24fe26595d88dd3ccbcfd
+  - name: tagspaces-win-x64-6.11.2.exe
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-win-x64-6.11.2.exe
+    checksum: ad2f58cbe201ffc59124cb977360c005b9ed130ec0912003bc14995dea62b582
+  - name: tagspaces-win-x64-6.11.2.zip
+    url: https://github.com/tagspaces/tagspaces/releases/download/v6.11.2/tagspaces-win-x64-6.11.2.zip
+    checksum: 16bfbd587eb589d7fa994d2fb32ffa1505d10d654ad82f856beb312262494d1b
+  electron: 41.2.1
   method: src-package-lock
   aur:
   - tagspaces
@@ -9721,39 +9763,39 @@
 - id: zettlr
   repository: https://github.com/zettlr/zettlr
   website: https://www.zettlr.com/
-  latest: v4.3.1
-  src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.3.1.zip
+  latest: v4.4.0
+  src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.4.0.zip
   downloads:
   - name: SHA256SUMS.txt
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/SHA256SUMS.txt
-  - name: Zettlr-4.3.1-aarch64.rpm
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-aarch64.rpm
-    checksum: 8b9b54ec8175cf6ecbb34adcfe98304b5e55f0e6743a0f1304daac40015a8c96
-  - name: Zettlr-4.3.1-amd64.deb
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-amd64.deb
-    checksum: 3b91c865d79688fda877ad58131e592e86c53ca6571bad5ef9e6da8b5daf8946
-  - name: Zettlr-4.3.1-arm64.AppImage
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-arm64.AppImage
-    checksum: ffa60006cb42f9a92a4c1afe43f9aeff99561ff335db05a4f9563b10c5092e8c
-  - name: Zettlr-4.3.1-arm64.deb
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-arm64.deb
-    checksum: fe631024cfd7b163d2c1735c27e89232ca31772c1dcc4d709bf5523ec9987da4
-  - name: Zettlr-4.3.1-arm64.dmg
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-arm64.dmg
-    checksum: 76dabb6e687f21822e8bfaae7f9a925588bb0903b204b1b21c33f696425cc9b1
-  - name: Zettlr-4.3.1-x64.dmg
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x64.dmg
-    checksum: 1866db412a45fde1a7a38ad3274d5f0d98fe91ec624565402ae4d53d20b53b4d
-  - name: Zettlr-4.3.1-x64.exe
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x64.exe
-    checksum: 77111f108877ad3f94dc0516d5a4b091404f44768d8480577f6480e502f04390
-  - name: Zettlr-4.3.1-x86_64.AppImage
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x86_64.AppImage
-    checksum: edf4385ce6df5c1892aa78493e450ab1705acee7024c78f0be42bbd1d3fbe1b1
-  - name: Zettlr-4.3.1-x86_64.rpm
-    url: https://github.com/Zettlr/Zettlr/releases/download/v4.3.1/Zettlr-4.3.1-x86_64.rpm
-    checksum: bdc7721843bd788551a1c81f0027a660e4fa59520c4bbd729f508f5821a09ff7
-  electron: 40.8.5
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/SHA256SUMS.txt
+  - name: Zettlr-4.4.0-aarch64.rpm
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-aarch64.rpm
+    checksum: 2cb32b9bd3bbe0ba4a80f2de1d1ff1a5e610bc38e8ac3def5b36fb3901719cfd
+  - name: Zettlr-4.4.0-amd64.deb
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-amd64.deb
+    checksum: 0ba1f88fbf6adc7253338893ccc9064d59f2647183f976aebe1957a3402c463e
+  - name: Zettlr-4.4.0-arm64.AppImage
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-arm64.AppImage
+    checksum: 918d341f4419464742c1fb7eadc10008303ef0f5ef37d9ef7f087396691f75bd
+  - name: Zettlr-4.4.0-arm64.deb
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-arm64.deb
+    checksum: 4536a667008e31c77845bf5e0d71780bb8d87ce3630c93850c91b109301b29b9
+  - name: Zettlr-4.4.0-arm64.dmg
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-arm64.dmg
+    checksum: b9865d6cb18e55e206a2f17907fb15eb0fc55a6aeef6c6dfeb5c7c21687ddf1d
+  - name: Zettlr-4.4.0-x64.dmg
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-x64.dmg
+    checksum: 95e6b9e38b7246ee1f57446aa5d8115096091413cf91d2a98e4331886cb0e170
+  - name: Zettlr-4.4.0-x64.exe
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-x64.exe
+    checksum: 407c11af21f11edbfaedfb81c4e072c75f62d8690d87e6e3aafdca26b25e30b8
+  - name: Zettlr-4.4.0-x86_64.AppImage
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-x86_64.AppImage
+    checksum: 4b089cd21299a303906acbf9540853ff519cdc8d37669c38735148404d6ab024
+  - name: Zettlr-4.4.0-x86_64.rpm
+    url: https://github.com/Zettlr/Zettlr/releases/download/v4.4.0/Zettlr-4.4.0-x86_64.rpm
+    checksum: dd104e3df8241a055659c35ca5088027ad73b7211d360de8acbf28593bb8b66d
+  electron: 41.1.1
   method: src-yarn-lock
   aur:
   - zettlr-git
