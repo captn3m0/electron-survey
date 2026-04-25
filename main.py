@@ -402,7 +402,7 @@ def cleanup() -> None:
 
 
 def _detect_format_os(name: str) -> tuple[str | None, str | None]:
-    """Return (format, os) inferred from a filename, or (None, None) to skip."""
+    """Return (format, os) inferred from a binary filename, or (None, None) to skip."""
     lower = name.lower()
 
     # Skip non-binary metadata files
@@ -452,7 +452,7 @@ def _detect_format_os(name: str) -> tuple[str | None, str | None]:
             if os_hint is None:
                 if any(x in lower for x in ("mac", "osx", "darwin", "macos")):
                     os_hint = "macos"
-                elif any(x in lower for x in ("linux",)):
+                elif "linux" in lower:
                     os_hint = "linux"
                 elif any(x in lower for x in ("win", "windows")):
                     os_hint = "windows"
@@ -548,7 +548,11 @@ def zoo() -> None:
         eid = extra.get("id", "")
         if eid in apps_ids:
             # Merge: append any extra packages not already listed
-            existing = next(e for e in zoo_entries if e["id"] == eid)
+            existing = next((e for e in zoo_entries if e["id"] == eid), None)
+            if existing is None:
+                zoo_entries.append(extra)
+                apps_ids.add(eid)
+                continue
             existing_urls = {p["url"] for p in existing.get("packages", [])}
             for pkg in extra.get("packages", []):
                 if pkg.get("url") not in existing_urls:

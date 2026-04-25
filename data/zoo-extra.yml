@@ -1380,13 +1380,10 @@
       os: macos
 
 # ── Klokki Slim ───────────────────────────────────────────────────────────────
+# Note: Klokki Slim download URLs are auto-updated; refer to website for latest DMG
 - id: klokkislim
   name: Klokki Slim
   website: https://klokkislim.com/
-  packages:
-    - url: https://api.klokkislim.com/latest-mac.yml
-      format: dmg
-      os: macos
 
 # ── Motrix ────────────────────────────────────────────────────────────────────
 # (may be in apps.yml via github)
@@ -1497,10 +1494,8 @@
       os: linux
 
 # ── Boxy ─────────────────────────────────────────────────────────────────────
-# Note: Boxy is Gmail for Mac (not cross-platform), included for completeness
-- id: boxy
-  name: Boxy (formerly Boxy for Gmail)
-  website: https://www.boxy-svg.com/
+# Note: Boxy for Gmail (macOS) was discontinued; boxy-svg.com is a different product.
+# Removed to avoid confusion — no valid download URL available.
 
 # ── Sidekick ──────────────────────────────────────────────────────────────────
 - id: sidekick

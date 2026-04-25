@@ -590,9 +590,6 @@
   - url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero.exe
     format: exe
     os: windows
-- id: boxy
-  name: Boxy (formerly Boxy for Gmail)
-  website: https://www.boxy-svg.com/
 - id: brim
   name: Brim
   website: https://www.brimsecurity.com
@@ -3568,10 +3565,6 @@
 - id: klokkislim
   name: Klokki Slim
   website: https://klokkislim.com/
-  packages:
-  - url: https://api.klokkislim.com/latest-mac.yml
-    format: dmg
-    os: macos
 - id: knowte
   name: Knowte
   website: https://www.digimezzo.com
