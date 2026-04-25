@@ -4369,3 +4369,913 @@
     format: deb
     os: linux
     arch: arm64
+- id: abstract
+  name: Abstract
+  website: https://www.goabstract.com/
+  packages:
+  - url: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
+    format: zip
+    os: macos
+- id: altair-graphql-client
+  name: Altair GraphQL Client
+  website: https://altairgraphql.dev/
+  packages:
+  - url: https://github.com/imolorhe/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: appium-inspector
+  name: Appium Inspector GUI
+  website: https://github.com/appium/appium-inspector/
+  packages:
+  - url: https://github.com/appium/appium-inspector/releases/download/v2026.2.1/Appium-Inspector-2026.2.1-mac-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: aqua-voice
+  name: Aqua Voice
+  website: https://aquavoice.com/
+  packages:
+  - url: https://d1a1dx1sgvjqrz.cloudfront.net/aqua-voice-updates/darwin/arm64/Aqua%20Voice-darwin-arm64-0.12.1.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: arc
+  name: Arc
+  website: https://arc.net/
+  packages:
+  - url: https://releases.arc.net/release/Arc-1.144.0-79514.zip
+    format: zip
+    os: macos
+- id: archiver-app
+  name: Archiver
+  website: https://archiverapp.com/
+  packages:
+  - url: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: asana
+  name: Asana
+  website: https://asana.com/
+  packages:
+  - url: https://desktop-downloads.asana.com/darwin_arm64/prod/v2.6.0/Asana-darwin-arm64-2.6.0.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: azure-data-studio
+  name: Azure Data Studio
+  website: https://docs.microsoft.com/en-us/sql/azure-data-studio/
+  packages:
+  - url: https://download.microsoft.com/download/6b2bfeac-9c1b-4182-9a2f-ce86ff8cc371/azuredatastudio-macos-arm64-1.52.0.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: backlog
+  name: Backlog
+  website: https://github.com/czytelny/backlog
+  packages:
+  - url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
+    format: zip
+    os: macos
+    arch: x64
+- id: basecamp
+  name: Basecamp
+  website: https://3.basecamp-help.com/
+  packages:
+  - url: https://basecamp.com/desktop/mac_arm64/basecamp3-2.5.2.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: battery
+  name: Battery
+  website: https://github.com/actuallymentor/battery/
+  packages:
+  - url: https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: betterdiscord-installer
+  name: BetterDiscord
+  website: https://betterdiscord.app/
+  packages:
+  - url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Mac.zip
+    format: zip
+    os: macos
+- id: block-goose
+  name: Goose
+  website: https://block.github.io/goose/
+  packages:
+  - url: https://github.com/block/goose/releases/download/v1.32.0/Goose.zip
+    format: zip
+    os: macos
+- id: browserosaurus
+  name: Browserosaurus
+  website: https://github.com/will-stone/browserosaurus
+  packages:
+  - url: https://github.com/will-stone/browserosaurus/releases/download/v20.12.0/Browserosaurus-darwin-arm64-20.12.0.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: cacher
+  name: Cacher
+  website: https://www.cacher.io/
+  packages:
+  - url: https://cacher-download.nyc3.digitaloceanspaces.com/Cacher-2.47.9-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: camunda-modeler
+  name: Camunda Modeler
+  website: https://camunda.com/
+  packages:
+  - url: https://downloads.camunda.cloud/release/camunda-modeler/5.46.1/camunda-modeler-5.46.1-mac-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: caption
+  name: Caption
+  website: https://getcaption.co/
+  packages:
+  - url: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-2.0.1-mac.zip
+    format: zip
+    os: macos
+- id: chronos
+  name: Chronos Timetracker
+  website: https://github.com/web-pal/chronos-timetracker
+  packages:
+  - url: https://github.com/web-pal/chronos-timetracker/releases/download/v6.3.2/Chronos-6.3.2-mac.zip
+    format: zip
+    os: macos
+- id: claude
+  name: Claude
+  website: https://claude.com/download
+  packages:
+  - url: https://downloads.claude.ai/releases/darwin/universal/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: codebuddy
+  name: CodeBuddy
+  website: https://www.codebuddy.ai/ide/
+  packages:
+  - url: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/darwin-arm64/CodeBuddy-darwin-arm64-4.4.2.20019762-f909b20a20-df14f824.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: codebuddy-cn
+  name: CodeBuddy CN
+  website: https://copilot.tencent.com/ide/
+  packages:
+  - url: https://acc-1258344699.cos.accelerate.myqcloud.com/aiide/darwin-arm64/CodeBuddy-darwin-arm64-4.7.0.23812295-7d73d160ce-a0234226-cn.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: codex-app
+  name: Codex
+  website: https://openai.com/codex
+  packages:
+  - url: https://persistent.oaistatic.com/codex-app-prod/Codex-darwin-arm64-26.422.30944.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: curseforge
+  name: CurseForge
+  website: https://curseforge.overwolf.com/
+  packages:
+  - url: https://curseforge.overwolf.com/electron/mac/CurseForge-1.302.0-32857-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: data-science-studio
+  name: Dataiku Data Science Studio
+  website: https://www.dataiku.com/
+  packages:
+  - url: https://cdn.downloads.dataiku.com/public/launcher/macos/DataScienceStudio-14.0.3-mac.zip
+    format: zip
+    os: macos
+- id: datasette-desktop
+  name: Datasette
+  website: https://datasette.io/desktop
+  packages:
+  - url: https://github.com/simonw/datasette-app/releases/download/0.2.3/Datasette.app.zip
+    format: zip
+    os: macos
+- id: deepnest
+  name: Deepnest
+  website: https://deepnest.io/
+  packages:
+  - url: https://deepnest.io/Deepnest-1.0.5-mac.zip
+    format: zip
+    os: macos
+- id: devkinsta
+  name: DevKinsta
+  website: https://devkinsta.com/
+  packages:
+  - url: https://devkinsta-updates.s3.amazonaws.com/DevKinsta-2.13.6-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: dialpad
+  name: Dialpad
+  website: https://dialpad.com/download
+  packages:
+  - url: https://storage.googleapis.com/dialpad_native/osx/arm64/Dialpad.2603.3.5.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: easyeda
+  name: EasyEDA
+  website: https://easyeda.com/
+  packages:
+  - url: https://image.easyeda.com/files/easyeda-mac-arm64-6.5.51.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: ecamm-live
+  name: Ecamm Live
+  website: https://www.ecamm.com/
+  packages:
+  - url: https://downloads.ecamm.com/EcammLive.zip
+    format: zip
+    os: macos
+- id: edrawmind
+  name: EdrawMind
+  website: https://www.edrawsoft.com/edrawmind/
+  packages:
+  - url: https://download.wondershare.com/cbs_down/edrawmind_13.0.16_full5378.zip
+    format: zip
+    os: macos
+- id: electron
+  name: Electron
+  website: https://electronjs.org/
+  packages:
+  - url: https://github.com/electron/electron/releases/download/v41.3.0/electron-v41.3.0-darwin-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: element
+  name: Element
+  website: https://element.io/get-started
+  packages:
+  - url: https://packages.element.io/desktop/update/macos/Element-1.12.15-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: fastmail
+  name: Fastmail
+  website: https://www.fastmail.com/
+  packages:
+  - url: https://dl.fastmailcdn.com/desktop/production/mac/arm64/Fastmail-1.2.1-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: framer
+  name: Framer
+  website: https://www.framer.com/
+  packages:
+  - url: https://updates.framer.com/electron/darwin/arm64/Framer-2026.12.6.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: front
+  name: Front
+  website: https://front.com/
+  packages:
+  - url: https://dl.frontapp.com/desktop/builds/3.73.0/Front-3.73.0-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: geogebra
+  name: GeoGebra
+  website: https://www.geogebra.org/
+  packages:
+  - url: https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
+    format: zip
+    os: macos
+- id: git-it
+  name: Git-it
+  website: https://github.com/jlord/git-it-electron
+  packages:
+  - url: https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Mac-x64.zip
+    format: zip
+    os: macos
+    arch: x64
+- id: github
+  name: GitHub Desktop
+  website: https://desktop.github.com/
+  packages:
+  - url: https://desktop.githubusercontent.com/releases/3.5.8-b1d863ab/GitHubDesktop-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: gitify
+  name: Gitify
+  website: https://github.com/gitify-app/gitify
+  packages:
+  - url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: gitkraken-on-premise-serverless
+  name: GitKraken Serverless
+  website: https://www.gitkraken.com/git-client/on-premise
+  packages:
+  - url: https://api.gitkraken.dev/releases/standalone/production/darwin/arm64/12.0.1/GitKraken-v12.0.1.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: godspeed
+  name: Godspeed
+  website: https://godspeedapp.com/
+  packages:
+  - url: https://app-updates.godspeedapp.com/1.9.19%2FGodspeed.zip
+    format: zip
+    os: macos
+- id: graphiql
+  name: GraphiQL App
+  website: https://github.com/skevy/graphiql-app
+  packages:
+  - url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/graphiql-app-0.7.2-mac.zip
+    format: zip
+    os: macos
+- id: graphql-ide
+  name: GraphQL IDE
+  website: https://github.com/andev-software/graphql-ide
+  packages:
+  - url: https://github.com/andev-software/graphql-ide/releases/download/v1.1.1/GraphQL.IDE.zip
+    format: zip
+    os: macos
+- id: greenery
+  name: Greenery
+  website: https://www.greenery.finance/
+  packages:
+  - url: https://github.com/GreenfireInc/Releases.Greenery/releases/download/v1.0.0/Greenery.1.0.0.zip
+    format: zip
+    os: macos
+- id: gridtracker2
+  name: GridTracker2
+  website: https://gridtracker.org/
+  packages:
+  - url: https://download2.gridtracker.org/GridTracker2-2.260421.1-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: headset
+  name: Headset
+  website: https://headsetapp.co/
+  packages:
+  - url: https://github.com/headsetapp/headset-electron/releases/download/v4.2.1/Headset-4.2.1-mac-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: hey-desktop
+  name: HEY
+  website: https://hey.com/
+  packages:
+  - url: https://hey.com/desktop/HEY-1.3.3-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: huly
+  name: Huly
+  website: https://huly.io/
+  packages:
+  - url: https://dist.huly.io/Huly-macos-0.7.413-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: iconset
+  name: Iconset
+  website: https://iconset.io/
+  packages:
+  - url: https://github.com/IconsetApp/iconset/releases/download/v2.5.0/Iconset-2.5.0-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: inav-configurator
+  name: INAV Configurator
+  website: https://github.com/iNavFlight/inav-configurator/
+  packages:
+  - url: https://github.com/iNavFlight/inav-configurator/releases/download/9.0.1/INAV-Configurator_MacOS_arm64_9.0.1.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: infra
+  name: infra
+  website: https://infra.app/
+  packages:
+  - url: https://download.infra.app/darwin/Infra-darwin-universal-0.47.0.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: inkdrop
+  name: Inkdrop
+  website: https://www.inkdrop.info/
+  packages:
+  - url: https://d3ip0rje8grhnl.cloudfront.net/v5.11.8/Inkdrop-5.11.8-arm64-Mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: inmusic-software-center
+  name: inMusic Software Center
+  website: https://www.airmusictech.com/downloads/
+  packages:
+  - url: https://cdn.inmusicbrands.com/Software/SI04/inMusic%20Software%20Center-darwin-universal-1.38.0.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: jasper-app
+  name: Jasper
+  website: https://jasperapp.io/
+  packages:
+  - url: https://github.com/jasperapp/jasper/releases/download/v2.0.0/jasper_v2.0.0_mac_arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: jetbrains-space
+  name: JetBrains Space
+  website: https://www.jetbrains.com/space/
+  packages:
+  - url: https://download-cdn.jetbrains.com/space/jetbrains-space-2023.1.7.zip
+    format: zip
+    os: macos
+- id: journey
+  name: Journey
+  website: https://2appstudio.com/journey/
+  packages:
+  - url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-darwin-2.14.6.zip
+    format: zip
+    os: macos
+- id: kactus
+  name: Kactus
+  website: https://kactus.io/
+  packages:
+  - url: https://github.com/kactus-io/kactus/releases/download/v0.3.35/Kactus-macos.zip
+    format: zip
+    os: macos
+- id: kakapo
+  name: Kakapo
+  website: https://github.com/bluedaniel/Kakapo-app
+  packages:
+  - url: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/Kakapo-1.3.0-Mac.zip
+    format: zip
+    os: macos
+- id: keep
+  name: Keep
+  website: https://github.com/tmcinerney/keep/
+  packages:
+  - url: https://github.com/tmcinerney/keep/releases/download/v1.2.0/keep.v1.2.0.zip
+    format: zip
+    os: macos
+- id: kiwi-for-gmail
+  name: Kiwi for Gmail
+  website: https://www.kiwiforgmail.com/
+  packages:
+  - url: https://downloads.kiwiforgmail.com/kiwi/release/consumer/Kiwi%20for%20Gmail-4.6.2-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: laravel-kit
+  name: Laravel Kit
+  website: https://tmdh.github.io/laravel-kit
+  packages:
+  - url: https://github.com/tmdh/laravel-kit/releases/download/v2.0.9/Laravel-Kit-2.0.9-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: leanote
+  name: Leanote
+  website: https://github.com/leanote/desktop-app
+  packages:
+  - url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-mac-v2.7.0.zip
+    format: zip
+    os: macos
+- id: lexicon-dj
+  name: Lexicon
+  website: https://www.lexicondj.com/
+  packages:
+  - url: https://update.rekord.cloud/releases/lexicon/latest/lexicon-1.10.7-mac-aarch64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: locu
+  name: Locu
+  website: https://locu.app/
+  packages:
+  - url: https://locu.sfo2.digitaloceanspaces.com/Locu-0.31.0-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: manta
+  name: Manta
+  website: https://getmanta.app/
+  packages:
+  - url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-mac.zip
+    format: zip
+    os: macos
+- id: marvin
+  name: Amazing Marvin
+  website: https://www.amazingmarvin.com/
+  packages:
+  - url: https://amarm.s3.amazonaws.com/Marvin-1.69.1-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: material-colors
+  name: Material Colors for Mac
+  website: https://github.com/romannurik/MaterialColorsApp
+  packages:
+  - url: https://github.com/romannurik/MaterialColorsApp/releases/download/v2.0.3/MaterialColors-2.0.3.zip
+    format: zip
+    os: macos
+- id: mathcha-notebook
+  name: Mathcha Notebook
+  website: https://www.mathcha.io/
+  packages:
+  - url: https://notebook-downloads.mathcha.io/public/Mathcha%20Notebook-1.0.450-mac.zip
+    format: zip
+    os: macos
+- id: meta-quest-developer-hub
+  name: meta-quest-developer-hub
+  website: https://developer.oculus.com/meta-quest-developer-hub/
+  packages:
+  - url: https://www.oculus.com/x2asset/electron-apps/odh/5a1a35d130e03890ed3ec1a417b8c05a/Meta%20Quest%20Developer%20Hub-6.3.2.zip
+    format: zip
+    os: macos
+- id: microsoft-azure-storage-explorer
+  name: Microsoft Azure Storage Explorer
+  website: https://azure.microsoft.com/en-us/features/storage-explorer/
+  packages:
+  - url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-darwin-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: min
+  name: Min
+  website: https://minbrowser.org/
+  packages:
+  - url: https://github.com/minbrowser/min/releases/download/v1.35.2/min-v1.35.2-mac-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: mockuuups-studio
+  name: Mockuuups Studio
+  website: https://mockuuups.studio/
+  packages:
+  - url: https://binaries.mockuuups.com/Mockuuups%20Studio-3.7.0-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: molotov
+  name: Molotov
+  website: https://www.molotov.tv/
+  packages:
+  - url: https://desktop-auto-upgrade.molotov.tv/mac/m1/Molotov-7.0.0-mac.zip
+    format: zip
+    os: macos
+- id: morkro-papyrus
+  name: Papyrus
+  website: https://github.com/morkro/papyrus
+  packages:
+  - url: https://github.com/morkro/papyrus/releases/download/1.0.3/Papyrus-osx-1.0.3.zip
+    format: zip
+    os: macos
+- id: native-access
+  name: Native Access
+  website: https://www.native-instruments.com/en/specials/native-access-2/
+  packages:
+  - url: https://na-update.native-instruments.com/arm64/Native-Access-arm64-mac-latest.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: netron
+  name: Netron
+  website: https://github.com/lutzroeder/netron
+  packages:
+  - url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4-mac.zip
+    format: zip
+    os: macos
+- id: nota
+  name: Nota
+  website: https://nota.md/
+  packages:
+  - url: https://github.com/notaapp/releases/releases/download/0.41.0/Nota-0.41.0-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: notion-calendar
+  name: Notion Calendar
+  website: https://www.notion.com/product/calendar
+  packages:
+  - url: https://calendar-desktop-release.notion-static.com/Notion%20Calendar-darwin-arm64-1.133.0.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: nucleo
+  name: Nucleo
+  website: https://nucleoapp.com/
+  packages:
+  - url: https://downloads.nucleoapp.com/mac-silicon/Nucleo_4.2.0.zip
+    format: zip
+    os: macos
+- id: onlyoffice
+  name: ONLYOFFICE
+  website: https://www.onlyoffice.com/
+  packages:
+  - url: https://download.onlyoffice.com/install/desktop/editors/mac/arm/updates/ONLYOFFICE-arm-9.3.1.zip
+    format: zip
+    os: macos
+- id: overt
+  name: Overt
+  website: https://getovert.app/
+  packages:
+  - url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-arm64-0.6.0.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: ovice
+  name: ovice
+  website: https://www.ovice.com/
+  packages:
+  - url: https://assets.ovice.io/desktop-apps/staging/darwin/arm64/ovice-darwin-arm64-1.18.8.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: papers
+  name: ReadCube Papers
+  website: https://www.readcube.com/home
+  packages:
+  - url: https://update.readcube.com/desktop/updates/Papers_Setup_4.37.2395-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: parsehub
+  name: ParseHub
+  website: https://www.parsehub.com/
+  packages:
+  - url: https://parsehub.com/static/client/ParseHub-2.4.43-mac.zip
+    format: zip
+    os: macos
+- id: pikpak
+  name: PikPak
+  website: https://mypikpak.com/
+  packages:
+  - url: https://static.mypikpak.com/mac/PikPak-v2.0.4.2265-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: pliim
+  name: Pliim
+  website: https://zehfernandes.github.io/pliim/
+  packages:
+  - url: https://github.com/zehfernandes/pliim/releases/download/v1.7.0/Pliim.app.zip
+    format: zip
+    os: macos
+- id: poe
+  name: Poe
+  website: https://poe.com/
+  packages:
+  - url: https://desktop-app.poecdn.net/updates/darwin_arm64/1.1.40.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: positron
+  name: Positron
+  website: https://positron.posit.co/
+  packages:
+  - url: https://cdn.posit.co/positron/releases/mac/arm64/Positron-darwin-2026.04.1-10-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: pretzel
+  name: Pretzel
+  website: https://www.pretzel.rocks/
+  packages:
+  - url: https://download.pretzel.rocks/Pretzel-2.12.6-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: qqnews
+  name: qqnews
+  website: https://news.qq.com/
+  packages:
+  - url: https://h5.news.qq.com/qqnews-desk/mac-arm64/qqnews_2.3.40_arm64_signed.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: rambox
+  name: Rambox
+  website: https://rambox.app/
+  packages:
+  - url: https://github.com/ramboxapp/download/releases/download/v2.6.2/Rambox-2.6.2-mac.zip
+    format: zip
+    os: macos
+- id: remember-the-milk
+  name: Remember The Milk
+  website: https://www.rememberthemilk.com/
+  packages:
+  - url: https://www.rememberthemilk.com/download/mac/RememberTheMilk-1.7.1-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: remnote
+  name: RemNote
+  website: https://www.remnote.com/
+  packages:
+  - url: https://download2.remnote.io/remnote-desktop2/RemNote-1.25.19-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: remotehamradio
+  name: RemoteHamRadio
+  website: https://www.remotehamradio.com/
+  packages:
+  - url: https://rhr-electron.s3.amazonaws.com/desktop-releases/RemoteHamRadio-2.4.1-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: removebg
+  name: remove.bg
+  website: https://www.remove.bg/
+  packages:
+  - url: https://storage.googleapis.com/removebg-static/desktop/release/darwin/x64/remove.bg-darwin-x64-2.4.1.zip
+    format: zip
+    os: macos
+    arch: x64
+- id: renamer
+  name: Renamer
+  website: https://renamer.com/
+  packages:
+  - url: https://github.com/incbee/renamer-7-releases/releases/download/v7.2.1/Renamer-7.2.1-universal-mac.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: ricoh-theta
+  name: RICOH THETA
+  website: https://theta360.com/en/support/download/pcmac/
+  packages:
+  - url: https://theta360-statics.s3.amazonaws.com/app/viewer/SphericalViewerUpdate/RICOH%20THETA.3.21.0.app.zip
+    format: zip
+    os: macos
+- id: routine
+  name: Routine
+  website: https://www.routine.co/
+  packages:
+  - url: https://releases.routine.co/routine/osx-arm64/Routine-1.0.2.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: rowboat
+  name: Rowboat
+  website: https://www.rowboatlabs.com/
+  packages:
+  - url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-darwin-arm64-0.3.2.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: saleae-logic
+  name: Saleae Logic2
+  website: https://www.saleae.com/
+  packages:
+  - url: https://downloads2.saleae.com/logic2/Logic-2.4.44-macos-arm64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: screen-studio
+  name: Screen Studio
+  website: https://screen.studio/
+  packages:
+  - url: https://screenstudioassets.com/releases/3.6.0-4214/Screen%20Studio-3.6.0-4214-arm64-mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: sculptor
+  name: Sculptor
+  website: https://imbue.com/sculptor/
+  packages:
+  - url: https://imbue-sculptor-releases.s3.us-west-2.amazonaws.com/sculptor/zip/darwin/arm64/Sculptor-darwin-arm64-0.7.0.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: sdm
+  name: sdm
+  website: https://www.strongdm.com/
+  packages:
+  - url: https://downloads.strongdm.com/builds/desktop/23.74.0/darwin-universal/DB54956AC61175C8A6F81412772AAA5631811D3C/SDM-23.74.0.universal.zip
+    format: zip
+    os: macos
+    arch: universal
+- id: shiba
+  name: Shiba
+  website: https://github.com/rhysd/Shiba/
+  packages:
+  - url: https://github.com/rhysd/Shiba/releases/download/v1.2.1/Shiba-darwin-x64.zip
+    format: zip
+    os: macos
+    arch: x64
+- id: sipgate
+  name: sipgate
+  website: https://www.sipgate.de/app
+  packages:
+  - url: https://s3-eu-central-1.amazonaws.com/desktop.download.sipgate.com/sipgate-2.36.1.zip
+    format: zip
+    os: macos
+- id: snwe
+  name: snwe
+  website: https://github.com/blahsd/snwe
+  packages:
+  - url: https://github.com/blahsd/snwe/releases/download/v0.1.0/snwe.app.zip
+    format: zip
+    os: macos
+- id: splice
+  name: Splice
+  website: https://splice.com/
+  packages:
+  - url: https://desktop.splice.com/conveyor/stable/splice-5.4.9-mac-aarch64.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: spline
+  name: Spline
+  website: https://spline.design/
+  packages:
+  - url: https://cdn.spline.design/_assets/Spline-0.12.11-arm64.mac.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: thebrowsercompany-dia
+  name: Dia
+  website: https://www.diabrowser.com/
+  packages:
+  - url: https://releases.diabrowser.com/release/Dia-1.28.0-79513.zip
+    format: zip
+    os: macos
+- id: tidal
+  name: TIDAL
+  website: https://support.tidal.com/hc/en-us
+  packages:
+  - url: https://download.tidal.com/desktop/mac/TIDAL.arm64.2.41.3.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: todometer
+  name: todometer
+  website: https://cassidoo.github.io/todometer/
+  packages:
+  - url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.mac.zip
+    format: zip
+    os: macos
+- id: voiden
+  name: Voiden
+  website: https://voiden.md/
+  packages:
+  - url: https://voiden-releases.s3.eu-west-1.amazonaws.com/voiden/darwin/arm64/Voiden-darwin-arm64-1.5.1.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: vysor
+  name: Vysor
+  website: https://www.vysor.io/
+  packages:
+  - url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
+    format: zip
+    os: macos
+- id: wondershare-edrawmax
+  name: EdrawMax
+  website: https://www.edrawsoft.com/
+  packages:
+  - url: https://download.edrawsoft.com/cbs_down/edraw-max_full5380.zip
+    format: zip
+    os: macos
+- id: wordpresscom-studio
+  name: Wordpress Studio
+  website: https://developer.wordpress.com/studio/
+  packages:
+  - url: https://appscdn.wordpress.com/downloads/wordpress-com-studio/mac-silicon/v1.7.8/14116/update/studio-arm64-v1.7.8.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: workflowy
+  name: WorkFlowy
+  website: https://workflowy.com/downloads/mac/
+  packages:
+  - url: https://github.com/workflowy/desktop/releases/download/v4.3.2604231210/WorkFlowy.zip
+    format: zip
+    os: macos
+- id: ytmdesktop-youtube-music
+  name: YouTube Music Desktop App
+  website: https://ytmdesktop.app/
+  packages:
+  - url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.11/YouTube.Music.Desktop.App-darwin-arm64-2.0.11.zip
+    format: zip
+    os: macos
+    arch: arm64
+- id: zeplin
+  name: Zeplin
+  website: https://zeplin.io/
+  packages:
+  - url: https://pkg.zeplin.io/macos/latest/zeplin-darwin-universal.zip
+    format: zip
+    os: macos
+    arch: universal
