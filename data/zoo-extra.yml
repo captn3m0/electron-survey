@@ -4642,3 +4642,547 @@
       format: deb
       os: linux
       arch: x64
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# Apps found via GitHub topic:electron search (pages 5-10)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ── Altus ─────────────────────────────────────────────────────────────────────
+# Desktop client for WhatsApp Web with themes, notifications and more
+- id: altus
+  name: Altus
+  website: https://github.com/amanharwara/altus
+  repository: https://github.com/amanharwara/altus
+  packages:
+    - url: https://github.com/amanharwara/altus/releases/download/5.7.2/Altus-5.7.2-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/amanharwara/altus/releases/download/5.7.2/Altus-5.7.2.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/amanharwara/altus/releases/download/5.7.2/Altus-Setup-5.7.2.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/amanharwara/altus/releases/download/5.7.2/Altus-5.7.2.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Colour Contrast Analyser ──────────────────────────────────────────────────
+# Accessibility tool to check colour contrast ratios, built with Electron
+- id: colour-contrast-analyser
+  name: Colour Contrast Analyser
+  website: https://www.tpgi.com/color-contrast-checker/
+  repository: https://github.com/ThePacielloGroup/CCAe
+  packages:
+    - url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-3.5.5.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-Setup-x64-3.5.5.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-Setup-3.5.5.msi
+      format: msi
+      os: windows
+      arch: x64
+    - url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/Colour-Contrast-Analyser-Setup-3.5.5.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/Colour-Contrast-Analyser-Setup-3.5.5.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/Colour-Contrast-Analyser-Setup-3.5.5.rpm
+      format: rpm
+      os: linux
+      arch: x64
+
+# ── EServer ───────────────────────────────────────────────────────────────────
+# GUI integrated environment for Nginx, PHP, MySQL, Redis on Windows and Mac
+- id: eserver
+  name: EServer
+  website: https://github.com/xianyunleo/EServer
+  repository: https://github.com/xianyunleo/EServer
+  packages:
+    - url: https://github.com/xianyunleo/EServer/releases/download/v5.3.6/EServer-mac-5.3.6-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/xianyunleo/EServer/releases/download/v5.3.6/EServer-mac-5.3.6-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/xianyunleo/EServer/releases/download/v5.3.6/EServer-5.3.6-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── Firefly (IOTA wallet) ─────────────────────────────────────────────────────
+# Official IOTA and Shimmer crypto wallet, built with Electron
+- id: firefly-iota
+  name: Firefly (IOTA)
+  website: https://firefly.iota.org/
+  repository: https://github.com/iotaledger/firefly
+  packages:
+    - url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Gerbil ────────────────────────────────────────────────────────────────────
+# Desktop app for running Large Language Models locally, built with Electron
+- id: gerbil
+  name: Gerbil
+  website: https://github.com/lone-cloud/gerbil
+  repository: https://github.com/lone-cloud/gerbil
+  packages:
+    - url: https://github.com/lone-cloud/gerbil/releases/download/v1.23.3/Gerbil-1.23.3-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/lone-cloud/gerbil/releases/download/v1.23.3/Gerbil-Setup-1.23.3.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/lone-cloud/gerbil/releases/download/v1.23.3/Gerbil-1.23.3.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── HTTP Toolkit ──────────────────────────────────────────────────────────────
+# HTTP debugging and mocking tool for developers, built with Electron
+- id: httptoolkit
+  name: HTTP Toolkit
+  website: https://httptoolkit.com/
+  repository: https://github.com/httptoolkit/httptoolkit-desktop
+  packages:
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2-x64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.2/HttpToolkit-1.25.2-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── modV ──────────────────────────────────────────────────────────────────────
+# Modular audio visualisation powered by JavaScript, built with Electron
+- id: modv
+  name: modV
+  website: https://modv.vcync.gl/
+  repository: https://github.com/vcync/modV
+  packages:
+    - url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/vcync/modV/releases/download/3.30.0/modV-3.30.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Prospect Mail ─────────────────────────────────────────────────────────────
+# Outlook mail Electron-based desktop client for Linux and macOS
+- id: prospect-mail
+  name: Prospect Mail
+  website: https://github.com/julian-alarcon/prospect-mail
+  repository: https://github.com/julian-alarcon/prospect-mail
+  packages:
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-Setup-1.2.1.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+    - url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1.x86_64.rpm
+      format: rpm
+      os: linux
+      arch: x64
+
+# ── Redis GUI ─────────────────────────────────────────────────────────────────
+# Modern graphical interface for Redis, built with Electron
+- id: redis-gui
+  name: Redis GUI
+  website: https://github.com/ekvedaras/redis-gui
+  repository: https://github.com/ekvedaras/redis-gui
+  packages:
+    - url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-Setup-2.3.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Refi App ──────────────────────────────────────────────────────────────────
+# Firestore GUI tool for managing Firebase Firestore data, built with Electron
+- id: refi-app
+  name: Refi App
+  website: https://refiapp.io/
+  repository: https://github.com/thanhlmm/refi-app
+  packages:
+    - url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-Setup-0.0.19.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/refi-app_0.0.19_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── REM (Rclone GUI) ──────────────────────────────────────────────────────────
+# Rclone desktop app for managing cloud storage, built with Electron
+- id: rem-rclone
+  name: REM
+  website: https://github.com/liriliri/rem
+  repository: https://github.com/liriliri/rem
+  packages:
+    - url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-win-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Sandman ───────────────────────────────────────────────────────────────────
+# Reminds developers to take screen breaks based on browsing activity, built with Electron
+- id: sandman
+  name: Sandman
+  website: https://github.com/alexanderepstein/Sandman
+  repository: https://github.com/alexanderepstein/Sandman
+  packages:
+    - url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman-1.9.2.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman.Version.1.9.2.64.Bit.Windows.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman_1.9.2_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman.rpm
+      format: rpm
+      os: linux
+      arch: x64
+
+# ── Simple Web Server ─────────────────────────────────────────────────────────
+# Create a local web server in a few clicks, built with Electron
+- id: simple-web-server
+  name: Simple Web Server
+  website: https://simplewebserver.org/
+  repository: https://github.com/terreng/simple-web-server
+  packages:
+    - url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── Thermal ───────────────────────────────────────────────────────────────────
+# One-stop git repository manager with GUI, built with Electron
+- id: thermal
+  name: Thermal
+  website: https://thermal.codecarrot.net/
+  repository: https://github.com/gitthermal/thermal
+  packages:
+    - url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-mac-0.0.4.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-win-0.0.4.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-x86_64-0.0.4.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-amd64-0.0.4.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Time to Leave ─────────────────────────────────────────────────────────────
+# Track work hours, get notified when it's time to leave the office
+- id: time-to-leave
+  name: Time to Leave
+  website: https://github.com/TTLApp/time-to-leave
+  repository: https://github.com/TTLApp/time-to-leave
+  packages:
+    - url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-installer.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-amd64.rpm
+      format: rpm
+      os: linux
+      arch: x64
+
+# ── TurboWarp Desktop ─────────────────────────────────────────────────────────
+# Better offline editor for Scratch 3, built with Electron
+- id: turbowarp-desktop
+  name: TurboWarp Desktop
+  website: https://desktop.turbowarp.org/
+  repository: https://github.com/TurboWarp/desktop
+  packages:
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-Setup-1.15.5.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-Setup-1.15.5-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-Setup-1.15.5-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-linux-x86_64-1.15.5.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-linux-arm64-1.15.5.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-linux-amd64-1.15.5.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/TurboWarp/desktop/releases/download/v1.15.5/TurboWarp-linux-arm64-1.15.5.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── Typesense Dashboard ───────────────────────────────────────────────────────
+# GUI to manage and browse Typesense search collections, built with Electron
+- id: typesense-dashboard
+  name: Typesense Dashboard
+  website: https://github.com/bfritscher/typesense-dashboard
+  repository: https://github.com/bfritscher/typesense-dashboard
+  packages:
+    - url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-darwin-x64-v2.4.8.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-win32-x64-v2.4.8.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-linux-x64-v2.4.8.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── UBports Installer ─────────────────────────────────────────────────────────
+# Simple tool to install Ubuntu Touch on UBports devices, built with Electron
+- id: ubports-installer
+  name: UBports Installer
+  website: https://ubports.com/
+  repository: https://github.com/ubports/ubports-installer
+  packages:
+    - url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_mac_x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_win_x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Video Hub App ─────────────────────────────────────────────────────────────
+# Browse and manage local video files with thumbnails, built with Electron
+- id: video-hub-app
+  name: Video Hub App
+  website: https://videohubapp.com/
+  repository: https://github.com/whyboris/Video-Hub-App
+  packages:
+    - url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── WebGAL Terre ─────────────────────────────────────────────────────────────
+# Visual novel / Galgame editor, built with Electron
+- id: webgal-terre
+  name: WebGAL Terre
+  website: https://openwebgal.com/
+  repository: https://github.com/OpenWebGAL/WebGAL_Terre
+  packages:
+    - url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.5.19/WebGAL_Terre_Mac_4.5.19.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.5.19/WebGAL_Terre_Mac_Intel_4.5.19.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.5.19/WebGAL_Terre_Windows_Setup_4.5.19.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.5.19/WebGAL_Terre_Linux_4.5.19.zip
+      format: zip
+      os: linux
+      arch: x64
+    - url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.5.19/WebGAL_Terre_Linux_Arm64_4.5.19.zip
+      format: zip
+      os: linux
+      arch: arm64
+
+# ── WitNote ───────────────────────────────────────────────────────────────────
+# Local-first AI writing companion, built with Electron
+- id: witnote
+  name: WitNote
+  website: https://github.com/hooosberg/WitNote
+  repository: https://github.com/hooosberg/WitNote
+  packages:
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3-setup-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3-setup-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/hooosberg/WitNote/releases/download/v1.3.3/WitNote-1.3.3-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
