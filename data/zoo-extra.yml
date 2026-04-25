@@ -2669,3 +2669,1272 @@
       format: snap
       os: linux
       arch: x64
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# Apps found via GitHub topic:electron search and additional Homebrew analysis
+# (second batch)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ── AiderDesk ─────────────────────────────────────────────────────────────────
+# Desktop GUI for Aider AI pair programming assistant
+- id: aider-desk
+  name: AiderDesk
+  website: https://github.com/hotovo/aider-desk
+  repository: https://github.com/hotovo/aider-desk
+  packages:
+    - url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-macos-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-macos-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Amical ────────────────────────────────────────────────────────────────────
+# AI dictation app built with Electron
+- id: amical
+  name: Amical
+  website: https://amical.ai/
+  repository: https://github.com/amicalhq/amical
+  packages:
+    - url: https://github.com/amicalhq/amical/releases/download/v1.2.0/Amical-macos-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/amicalhq/amical/releases/download/v1.2.0/Amical-macos-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/amicalhq/amical/releases/download/v1.2.0/Amical-windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── AriaNg Native ─────────────────────────────────────────────────────────────
+# Electron-based desktop frontend for aria2 download manager
+- id: ariang-native
+  name: AriaNg Native
+  website: https://github.com/mayswind/AriaNg-Native
+  repository: https://github.com/mayswind/AriaNg-Native
+  packages:
+    - url: https://github.com/mayswind/AriaNg-Native/releases/download/1.3.13/AriaNg_Native-1.3.13-macOS-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/mayswind/AriaNg-Native/releases/download/1.3.13/AriaNg_Native-1.3.13-macOS-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/mayswind/AriaNg-Native/releases/download/1.3.13/AriaNg_Native-1.3.13-Windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/mayswind/AriaNg-Native/releases/download/1.3.13/AriaNg_Native-1.3.13-Windows-x86.exe
+      format: exe
+      os: windows
+      arch: x86
+
+# ── Backlog ───────────────────────────────────────────────────────────────────
+# Simple Electron-based task/TODO app
+- id: backlog-app
+  name: Backlog
+  website: https://github.com/czytelny/backlog
+  repository: https://github.com/czytelny/backlog
+  packages:
+    - url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-linux-x64.tar.gz
+      format: tar.gz
+      os: linux
+      arch: x64
+
+# ── Betwixt ───────────────────────────────────────────────────────────────────
+# Web Debugging Proxy based on Chrome DevTools Network panel, built with Electron
+- id: betwixt
+  name: Betwixt
+  website: https://github.com/kdzwinel/betwixt
+  repository: https://github.com/kdzwinel/betwixt
+  packages:
+    - url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── BingGPT ───────────────────────────────────────────────────────────────────
+# Desktop app for Bing AI chat, built with Electron
+- id: binggpt
+  name: BingGPT
+  website: https://github.com/dice2o/BingGPT
+  repository: https://github.com/dice2o/BingGPT
+  packages:
+    - url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-darwin-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-darwin-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-win32-arm64-Setup.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-x64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── ChatALL ───────────────────────────────────────────────────────────────────
+# Chat with multiple AI bots simultaneously, built with Electron
+- id: chatall
+  name: ChatALL
+  website: https://github.com/ai-shifu/ChatALL
+  repository: https://github.com/ai-shifu/ChatALL
+  packages:
+    - url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── CNCjs ─────────────────────────────────────────────────────────────────────
+# Web-based interface for CNC milling controllers, packaged with Electron
+- id: cncjs
+  name: CNCjs
+  website: https://cnc.js.org/
+  repository: https://github.com/cncjs/cncjs
+  packages:
+    - url: https://github.com/cncjs/cncjs/releases/download/v1.11.0/cncjs-app-1.11.0-macos-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/cncjs/cncjs/releases/download/v1.11.0/cncjs-app-1.11.0-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/cncjs/cncjs/releases/download/v1.11.0/cncjs-app-1.11.0-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Comma Chameleon ───────────────────────────────────────────────────────────
+# Electron-based CSV editor
+- id: comma-chameleon
+  name: Comma Chameleon
+  website: https://comma-chameleon.io/
+  repository: https://github.com/theodi/comma-chameleon
+  packages:
+    - url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-linux-x64.tar.gz
+      format: tar.gz
+      os: linux
+      arch: x64
+
+# ── DeepChat ──────────────────────────────────────────────────────────────────
+# AI desktop chat client connecting powerful AI to your desktop
+- id: deepchat
+  name: DeepChat
+  website: https://github.com/ThinkInAIXYZ/deepchat
+  repository: https://github.com/ThinkInAIXYZ/deepchat
+  packages:
+    - url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Electerm ──────────────────────────────────────────────────────────────────
+# Electron-based terminal, SSH, sftp, telnet client
+- id: electerm
+  name: Electerm
+  website: https://electerm.github.io/electerm/
+  repository: https://github.com/electerm/electerm
+  packages:
+    - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-win-x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-linux-amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Final2x ───────────────────────────────────────────────────────────────────
+# AI image super-resolution tool (Electron frontend)
+- id: final2x
+  name: Final2x
+  website: https://github.com/Chaoses-Ib/Final2x
+  repository: https://github.com/EutropicAI/Final2x
+  packages:
+    - url: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-macos-arm64-dmg.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-linux-pip-x64-AppImage.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-linux-pip-x64-deb.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Folo ──────────────────────────────────────────────────────────────────────
+# Next-generation RSS reader and information browser, built with Electron
+- id: folo
+  name: Folo
+  website: https://folo.is/
+  repository: https://github.com/RSSNext/Folo
+  packages:
+    - url: https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.6.1/Folo-1.6.1-macos-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.6.1/Folo-1.6.1-macos-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.6.1/Folo-1.6.1-windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.6.1/Folo-1.6.1-linux-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Freelens ──────────────────────────────────────────────────────────────────
+# Free Kubernetes IDE (open-source fork of Lens), built with Electron
+- id: freelens
+  name: Freelens
+  website: https://freelens.app/
+  repository: https://github.com/freelensapp/freelens
+  packages:
+    - url: https://github.com/freelensapp/freelens/releases/download/v1.8.1/Freelens-1.8.1-macos-amd64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/freelensapp/freelens/releases/download/v1.8.1/Freelens-1.8.1-macos-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/freelensapp/freelens/releases/download/v1.8.1/Freelens-1.8.1-windows-amd64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/freelensapp/freelens/releases/download/v1.8.1/Freelens-1.8.1-linux-amd64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/freelensapp/freelens/releases/download/v1.8.1/Freelens-1.8.1-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/freelensapp/freelens/releases/download/v1.8.1/Freelens-1.8.1-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Frpc Desktop ──────────────────────────────────────────────────────────────
+# Cross-platform desktop GUI for FRP (Fast Reverse Proxy), built with Electron
+- id: frpc-desktop
+  name: Frpc Desktop
+  website: https://github.com/luckjiawei/frpc-desktop
+  repository: https://github.com/luckjiawei/frpc-desktop
+  packages:
+    - url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.5/Frpc-Desktop-1.2.5-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.5/Frpc-Desktop-1.2.5-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.5/Frpc-Desktop-1.2.5-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Gridea ────────────────────────────────────────────────────────────────────
+# Static blog writing client, built with Electron
+- id: gridea
+  name: Gridea
+  website: https://open.gridea.dev/
+  repository: https://github.com/getgridea/gridea
+  packages:
+    - url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea.Setup.0.9.3.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── JupyterLab Desktop ────────────────────────────────────────────────────────
+# Desktop application for JupyterLab, built with Electron
+- id: jupyterlab-desktop
+  name: JupyterLab Desktop
+  website: https://github.com/jupyterlab/jupyterlab-desktop
+  repository: https://github.com/jupyterlab/jupyterlab-desktop
+  packages:
+    - url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-macOS-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-macOS-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Windows-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Debian-x64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Kando ─────────────────────────────────────────────────────────────────────
+# Cross-platform pie menu launcher, built with Electron
+- id: kando
+  name: Kando
+  website: https://kando.menu/
+  repository: https://github.com/kando-menu/kando
+  packages:
+    - url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0.Setup-arm64.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0.Setup-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-aarch64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Kui ───────────────────────────────────────────────────────────────────────
+# Kubernetes CLI graphics framework, built with Electron
+- id: kui
+  name: Kui
+  website: https://github.com/kubernetes-sigs/kui
+  repository: https://github.com/kubernetes-sigs/kui
+  packages:
+    - url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
+      format: tar.gz
+      os: macos
+      arch: arm64
+    - url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+    - url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+
+# ── Maestro ───────────────────────────────────────────────────────────────────
+# AI agent command center, built with Electron
+- id: maestro-ai
+  name: Maestro
+  website: https://runmaestro.ai/
+  repository: https://github.com/pedramamini/Maestro
+  packages:
+    - url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-arm64-mac.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-x64-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Manta ─────────────────────────────────────────────────────────────────────
+# Flexible invoicing desktop app, built with Electron
+- id: manta-invoice
+  name: Manta
+  website: https://github.com/hql287/Manta
+  repository: https://github.com/hql287/Manta
+  packages:
+    - url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta.Setup.1.1.4.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta_1.1.4_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── MBCord ────────────────────────────────────────────────────────────────────
+# Discord rich presence client for Jellyfin and Emby, built with Electron
+- id: mbcord
+  name: MBCord
+  website: https://github.com/oonqt/MBCord
+  repository: https://github.com/oonqt/MBCord
+  packages:
+    - url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── Mediago ───────────────────────────────────────────────────────────────────
+# Cross-platform video downloader / m3u8 sniffer, built with Electron
+- id: mediago
+  name: Mediago
+  website: https://github.com/caorushizi/mediago
+  repository: https://github.com/caorushizi/mediago
+  packages:
+    - url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-arm64-3.5.0.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-x64-3.5.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-win32-x64-3.5.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-linux-amd64-3.5.0.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Medis 2 ───────────────────────────────────────────────────────────────────
+# Beautiful, easy-to-use database management application for Redis
+- id: medis
+  name: Medis
+  website: https://getmedis.com/
+  repository: https://github.com/luin/medis
+  packages:
+    - url: https://api.getmedis.com/medis/medis-2.16.1.zip
+      format: zip
+      os: macos
+      arch: x64
+
+# ── Mihomo Party ──────────────────────────────────────────────────────────────
+# Electron-based Mihomo proxy GUI client
+- id: mihomo-party
+  name: Mihomo Party
+  website: https://github.com/mihomo-party-org/mihomo-party
+  repository: https://github.com/mihomo-party-org/mihomo-party
+  packages:
+    - url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-macos-1.9.4-arm64.pkg
+      format: pkg
+      os: macos
+      arch: arm64
+    - url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-macos-1.9.4-x64.pkg
+      format: pkg
+      os: macos
+      arch: x64
+    - url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-linux-1.9.4-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-linux-1.9.4-arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+
+# ── MoeKoe Music ──────────────────────────────────────────────────────────────
+# Open-source KuGou music player, built with Electron
+- id: moekoedeskop
+  name: MoeKoe Music
+  website: https://github.com/MoeKoeMusic/MoeKoeMusic
+  repository: https://github.com/MoeKoeMusic/MoeKoeMusic
+  packages:
+    - url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_Setup_v1.6.2.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Mongotron ─────────────────────────────────────────────────────────────────
+# MongoDB management app, built with Electron
+- id: mongotron
+  name: Mongotron
+  website: https://github.com/officert/mongotron
+  repository: https://github.com/officert/mongotron
+  packages:
+    - url: https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── MusicFree Desktop ─────────────────────────────────────────────────────────
+# Plugin-based, free music player, built with Electron
+- id: musicfreedesktop
+  name: MusicFree Desktop
+  website: https://github.com/maotoumao/MusicFreeDesktop
+  repository: https://github.com/maotoumao/MusicFreeDesktop
+  packages:
+    - url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-linux-amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── nfov ──────────────────────────────────────────────────────────────────────
+# ASCII/ANSI art viewer for macOS, powered by Electron
+- id: nfov
+  name: nfov
+  website: https://github.com/nrlquaker/nfov
+  repository: https://github.com/nrlquaker/nfov
+  packages:
+    - url: https://github.com/nrlquaker/nfov/releases/download/v1.3.1/nfov-1.3.1.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/nrlquaker/nfov/releases/download/v1.3.1/nfov-darwin-x64-1.3.1.zip
+      format: zip
+      os: macos
+      arch: x64
+
+# ── OpenMTP ───────────────────────────────────────────────────────────────────
+# Advanced Android File Transfer for macOS, built with Electron
+- id: openmtp
+  name: OpenMTP
+  website: https://openmtp.ganeshrvel.com/
+  repository: https://github.com/ganeshrvel/openmtp
+  packages:
+    - url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+
+# ── Ontime ────────────────────────────────────────────────────────────────────
+# Time keeping and stage management for live events, built with Electron
+- id: ontime
+  name: Ontime
+  website: https://getontime.no/
+  repository: https://github.com/cpvalente/ontime
+  packages:
+    - url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-macOS-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-macOS-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-win64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-linux-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── OSS Browser ───────────────────────────────────────────────────────────────
+# Graphical management tool for Alibaba Cloud OSS, built with Electron
+- id: oss-browser
+  name: OSS Browser
+  website: https://github.com/aliyun/oss-browser
+  repository: https://github.com/aliyun/oss-browser
+  packages:
+    - url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-darwin-x64.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-win32-x64.zip
+      format: zip
+      os: windows
+      arch: x64
+    - url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-linux-x64.zip
+      format: zip
+      os: linux
+      arch: x64
+
+# ── Outline ───────────────────────────────────────────────────────────────────
+# Outline VPN client by Jigsaw/Google, possibly Electron-based
+- id: outline-client
+  name: Outline
+  website: https://getoutline.org/
+  repository: https://github.com/OutlineFoundation/outline-apps
+  packages:
+    - url: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── Overt ─────────────────────────────────────────────────────────────────────
+# Open app store / package manager GUI client, built with Electron
+- id: overt-app
+  name: Overt
+  website: https://getovert.app/
+  repository: https://github.com/GetOvert/Overt
+  packages:
+    - url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-arm64-0.6.0.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-x64-0.6.0.zip
+      format: zip
+      os: macos
+      arch: x64
+
+# ── Plasticity ────────────────────────────────────────────────────────────────
+# 3D modeling software for concept artists, built with Electron
+- id: plasticity
+  name: Plasticity
+  website: https://www.plasticity.xyz/
+  repository: https://github.com/nkallen/plasticity
+  packages:
+    - url: https://github.com/nkallen/plasticity/releases/download/v26.1.3/Plasticity-darwin-arm64-26.1.3.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/nkallen/plasticity/releases/download/v26.1.3/Plasticity-darwin-x64-26.1.3.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/nkallen/plasticity/releases/download/v26.1.3/Plasticity-26.1.3.Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/nkallen/plasticity/releases/download/v26.1.3/plasticity_26.1.3_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Postcat ───────────────────────────────────────────────────────────────────
+# Extensible API tool platform, built with Electron
+- id: postcat
+  name: Postcat
+  website: https://www.postcat.com/
+  repository: https://github.com/Postcatlab/postcat
+  packages:
+    - url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Publii ────────────────────────────────────────────────────────────────────
+# Static site CMS desktop app, built with Electron
+- id: publii
+  name: Publii
+  website: https://getpublii.com/
+  repository: https://github.com/GetPublii/Publii
+  packages:
+    - url: https://getpublii.com/download/Publii-0.47.6-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://getpublii.com/download/Publii-0.47.6.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://getpublii.com/download/Publii-0.47.6-win.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://getpublii.com/download/Publii-0.47.6.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── React Native Debugger ─────────────────────────────────────────────────────
+# Standalone Electron app for debugging React Native apps
+- id: react-native-debugger
+  name: React Native Debugger
+  website: https://github.com/jhen0409/react-native-debugger
+  repository: https://github.com/jhen0409/react-native-debugger
+  packages:
+    - url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger_0.14.0_universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react_native_debugger-0.14.0-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger_0.14.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Reactotron ────────────────────────────────────────────────────────────────
+# Desktop app for inspecting React and React Native projects, built with Electron
+- id: reactotron
+  name: Reactotron
+  website: https://github.com/infinitered/reactotron
+  repository: https://github.com/infinitered/reactotron
+  packages:
+    - url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Restfox ───────────────────────────────────────────────────────────────────
+# Offline-first web HTTP & Socket testing client, built with Electron
+- id: restfox
+  name: Restfox
+  website: https://restfox.dev/
+  repository: https://github.com/flawiddsouza/Restfox
+  packages:
+    - url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-arm64-0.40.0.zip
+      format: zip
+      os: macos
+      arch: arm64
+    - url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-x64-0.40.0.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0.Setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/restfox_0.40.0_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Rowboat ───────────────────────────────────────────────────────────────────
+# Open-source AI coworker with memory (Electron, Squirrel auto-update)
+- id: rowboat-ai
+  name: Rowboat
+  website: https://www.rowboatlabs.com/
+  repository: https://github.com/rowboatlabs/rowboat
+  packages:
+    - url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-darwin-arm64-0.3.2.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-darwin-x64-0.3.2.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-win32-x64-0.3.2-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/rowboat-linux_0.3.2_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Rubick ────────────────────────────────────────────────────────────────────
+# Electron-based open-source toolbox with plugin integration
+- id: rubick
+  name: Rubick
+  website: https://rubick.vip/
+  repository: https://github.com/rubickCenter/rubick
+  packages:
+    - url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8-x64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick_4.3.8_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── SiYuan ────────────────────────────────────────────────────────────────────
+# Privacy-first personal knowledge base, built with Electron
+- id: siyuan
+  name: SiYuan
+  website: https://b3log.org/siyuan/
+  repository: https://github.com/siyuan-note/siyuan
+  packages:
+    - url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-mac-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-win.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-linux-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+    - url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-linux.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── SpaceRadar ────────────────────────────────────────────────────────────────
+# Disk space and memory visualizer, built with Electron
+- id: spaceradar
+  name: SpaceRadar
+  website: https://github.com/zz85/space-radar
+  repository: https://github.com/zz85/space-radar
+  packages:
+    - url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-arm64-SpaceRadar.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-x64-SpaceRadar.dmg
+      format: dmg
+      os: macos
+      arch: x64
+
+# ── Stretchly ─────────────────────────────────────────────────────────────────
+# Break time reminder app, built with Electron
+- id: stretchly
+  name: Stretchly
+  website: https://hovancik.net/stretchly/
+  repository: https://github.com/hovancik/stretchly
+  packages:
+    - url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-Setup-1.21.0.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0-arm64.AppImage
+      format: appimage
+      os: linux
+      arch: arm64
+
+# ── Thief ─────────────────────────────────────────────────────────────────────
+# Cross-platform app for reading/slacking while appearing to work, built with Electron
+- id: thief-app
+  name: Thief
+  website: https://github.com/cteamx/Thief
+  repository: https://github.com/cteamx/Thief
+  packages:
+    - url: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-mac.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win64.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-linux64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── TTS-Vue ───────────────────────────────────────────────────────────────────
+# Microsoft TTS tool built with Electron + Vue
+- id: tts-vue
+  name: TTS-Vue
+  website: https://github.com/LokerL/tts-vue
+  repository: https://github.com/LokerL/tts-vue
+  packages:
+    - url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-macos-latest.zip
+      format: zip
+      os: macos
+      arch: x64
+    - url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-windows-latest.zip
+      format: zip
+      os: windows
+      arch: x64
+
+# ── Upscayl ───────────────────────────────────────────────────────────────────
+# Free and open-source AI image upscaler, built with Electron
+- id: upscayl
+  name: Upscayl
+  website: https://upscayl.org/
+  repository: https://github.com/upscayl/upscayl
+  packages:
+    - url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-mac.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-win.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-linux.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── VSCodium ──────────────────────────────────────────────────────────────────
+# Binary releases of VS Code without Microsoft branding/telemetry (Electron)
+- id: vscodium
+  name: VSCodium
+  website: https://vscodium.com/
+  repository: https://github.com/VSCodium/vscodium
+  packages:
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/VSCodium.arm64.1.112.01907.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/VSCodium.x64.1.112.01907.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/VSCodiumSetup-arm64-1.112.01907.exe
+      format: exe
+      os: windows
+      arch: arm64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/VSCodiumSetup-x64-1.112.01907.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/VSCodium-1.112.01907.glibc2.30-x86_64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/codium_1.112.01907_amd64.deb
+      format: deb
+      os: linux
+      arch: x64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/codium_1.112.01907_arm64.deb
+      format: deb
+      os: linux
+      arch: arm64
+    - url: https://github.com/VSCodium/vscodium/releases/download/1.112.01907/codium_1.112.01907_amd64.snap
+      format: snap
+      os: linux
+      arch: x64
+
+# ── Witsy ─────────────────────────────────────────────────────────────────────
+# BYOK (Bring Your Own Keys) AI assistant, built with Electron
+- id: witsy
+  name: Witsy
+  website: https://witsyai.com/
+  repository: https://github.com/nbonamy/witsy
+  packages:
+    - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-win32-x64-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-linux-x64.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── Yank Note (yn) ────────────────────────────────────────────────────────────
+# Highly extensible Markdown editor with version control and AI, built with Electron
+- id: yank-note
+  name: Yank Note
+  website: https://github.com/purocean/yn
+  repository: https://github.com/purocean/yn
+  packages:
+    - url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-mac-arm64-3.87.1.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-mac-x64-3.87.1.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-win-x64-3.87.1.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-linux-x86_64-3.87.1.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-linux-amd64-3.87.1.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── YesPlayMusic ──────────────────────────────────────────────────────────────
+# High-quality third-party NetEase Cloud Music player, built with Electron
+- id: yesplaymusic
+  name: YesPlayMusic
+  website: https://github.com/qier222/YesPlayMusic
+  repository: https://github.com/qier222/YesPlayMusic
+  packages:
+    - url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-mac-0.4.10-arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-mac-0.4.10-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-0.4.10.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-0.4.10.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+
+# ── YTDownloader ──────────────────────────────────────────────────────────────
+# Desktop app for downloading videos/audio from 1000+ sites, built with Electron
+- id: ytdownloader
+  name: YTDownloader
+  website: https://github.com/aandrew-me/ytDownloader
+  repository: https://github.com/aandrew-me/ytDownloader
+  packages:
+    - url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Mac_arm64.dmg
+      format: dmg
+      os: macos
+      arch: arm64
+    - url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Mac_x64.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Linux.AppImage
+      format: appimage
+      os: linux
+      arch: x64
+    - url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Linux.deb
+      format: deb
+      os: linux
+      arch: x64
+
+# ── Zo ────────────────────────────────────────────────────────────────────────
+# Friendly personal server app, built with Electron (has electron-builder .blockmap files)
+- id: zo
+  name: Zo
+  website: https://www.zo.computer/
+  repository: https://github.com/zocomputer/Zo
+  packages:
+    - url: https://github.com/zocomputer/Zo/releases/download/v1.5.0/Zo-1.5.0-universal.dmg
+      format: dmg
+      os: macos
+      arch: universal
+    - url: https://github.com/zocomputer/Zo/releases/download/v1.5.0/Zo-1.5.0-setup.exe
+      format: exe
+      os: windows
+      arch: x64
+
+# ── ZY-Player ─────────────────────────────────────────────────────────────────
+# Cross-platform desktop video resource player, built with Electron
+- id: zy-player
+  name: ZY-Player
+  website: https://github.com/Hunlongyu/ZY-Player
+  repository: https://github.com/Hunlongyu/ZY-Player
+  packages:
+    - url: https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-2.8.8.dmg
+      format: dmg
+      os: macos
+      arch: x64
+    - url: https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-Setup-2.8.8.exe
+      format: exe
+      os: windows
+      arch: x64
+    - url: https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-2.8.8.AppImage
+      format: appimage
+      os: linux
+      arch: x64
