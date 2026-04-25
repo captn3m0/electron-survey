@@ -22,18 +22,6 @@
     format: exe
     os: windows
     arch: arm64
-  - url: https://update.code.visualstudio.com/latest/win32-x64-msi/stable
-    format: msi
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://update.code.visualstudio.com/latest/win32-arm64-msi/stable
-    format: msi
-    os: windows
-    arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://update.code.visualstudio.com/latest/win32-x64-archive/stable
     format: zip
     os: windows
@@ -54,18 +42,6 @@
     format: dmg
     os: macos
     arch: universal
-  - url: https://update.code.visualstudio.com/latest/darwin-x64-archive/stable
-    format: zip
-    os: macos
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://update.code.visualstudio.com/latest/darwin-arm64-archive/stable
-    format: zip
-    os: macos
-    arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://update.code.visualstudio.com/latest/linux-deb-x64/stable
     format: deb
     os: linux
@@ -110,27 +86,9 @@
     format: exe
     os: windows
     arch: x64
-  - url: https://slack.com/ssb/download-win64-msi
-    format: msi
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://slack.com/ssb/download-osx
     format: dmg
     os: macos
-  - url: https://downloads.slack-edge.com/desktop-releases/linux/x64/latest/slack-desktop-latest-amd64.deb
-    format: deb
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://downloads.slack-edge.com/desktop-releases/linux/x64/latest/slack-latest-x86_64.rpm
-    format: rpm
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: discord
   name: Discord
   website: https://discord.com/download
@@ -139,40 +97,21 @@
     format: exe
     os: windows
     arch: x64
-  - url: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=osx
+  - url: https://stable.dl2.discordapp.net/apps/osx/0.0.387/Discord.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 400
-  - url: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=linux&format=deb
+  - url: https://stable.dl2.discordapp.net/apps/linux/0.0.134/discord-0.0.134.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 400
-  - url: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=linux&format=tar.gz
+  - url: https://stable.dl2.discordapp.net/apps/linux/0.0.134/discord-0.0.134.tar.gz
     format: tar.gz
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 400
-  - url: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=linux&format=rpm
-    format: rpm
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 400
 - id: signal
   name: Signal
   website: https://signal.org/en/download/
   packages:
-  - url: https://updates.signal.org/desktop/apt/dists/xenial/main/binary-amd64/
-    format: deb
-    os: linux
-    arch: x64
-    note: Available via APT repository at https://signal.org/en/download/linux/
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://signal.org/download/windows/
     format: exe
     os: windows
@@ -203,12 +142,10 @@
     format: exe
     os: windows
     arch: x64
-  - url: https://dl.pstmn.io/download/latest/win32
+  - url: https://dl.pstmn.io/download/latest/win64
     format: exe
     os: windows
     arch: x86
-    invalid: true
-    invalid_reason: HTTP 400
   - url: https://dl.pstmn.io/download/latest/osx_64
     format: dmg
     os: macos
@@ -221,12 +158,10 @@
     format: tar.gz
     os: linux
     arch: x64
-  - url: https://dl.pstmn.io/download/latest/linux32
+  - url: https://dl.pstmn.io/download/latest/linux64
     format: tar.gz
     os: linux
     arch: x86
-    invalid: true
-    invalid_reason: HTTP 400
 - id: 1password
   name: 1Password
   website: https://1password.com/downloads/
@@ -234,27 +169,21 @@
   - url: https://downloads.1password.com/win/1PasswordSetup-latest.exe
     format: exe
     os: windows
-  - url: https://downloads.1password.com/mac/1Password-latest.dmg
+  - url: https://downloads.1password.com/mac/1Password.pkg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://downloads.1password.com/linux/debian/amd64/stable/1password-latest.deb
     format: deb
     os: linux
     arch: x64
-  - url: https://downloads.1password.com/linux/rpm/stable/x86_64/1password-latest.x86_64.rpm
+  - url: https://downloads.1password.com/linux/rpm/stable/x86_64/1password-latest.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://downloads.1password.com/linux/tar/stable/x86_64/1password-latest.x86_64.tar.gz
+  - url: https://downloads.1password.com/linux/tar/stable/x86_64/1password-latest.tar.gz
     format: tar.gz
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: figma
   name: Figma
   website: https://www.figma.com/downloads/
@@ -269,21 +198,12 @@
   name: Notion
   website: https://www.notion.so/desktop
   packages:
-  - url: https://www.notion.so/desktop/windows/download/latest
+  - url: https://desktop-release.notion-static.com/Notion%20Setup%207.12.0.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://www.notion.so/desktop/mac/download/latest
+  - url: https://desktop-release.notion-static.com/Notion-7.12.0-universal.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://www.notion.so/desktop/linux/download/latest
-    format: appimage
-    os: linux
-    invalid: true
-    invalid_reason: HTTP 404
 - id: obsidian
   name: Obsidian
   website: https://obsidian.md/download
@@ -292,12 +212,10 @@
     format: exe
     os: windows
     arch: x64
-  - url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10-arm64.exe
+  - url: https://github.com/obsidianmd/obsidian-releases/releases/latest/download/Obsidian-1.12.7.exe
     format: exe
     os: windows
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.dmg
     format: dmg
     os: macos
@@ -306,12 +224,10 @@
     format: deb
     os: linux
     arch: x64
-  - url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10-x86_64.AppImage
+  - url: https://github.com/obsidianmd/obsidian-releases/releases/latest/download/Obsidian-1.12.7.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: skype
   name: Skype
   website: https://www.skype.com/en/get-skype/
@@ -348,13 +264,6 @@
   - url: https://teams.microsoft.com/downloads/desktopurl?env=production&plat=osx&download=true
     format: pkg
     os: macos
-  - url: https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/
-    format: deb
-    os: linux
-    arch: x64
-    note: Available via Microsoft APT/YUM repository
-    invalid: true
-    invalid_reason: HTTP 404
 - id: cursor
   name: Cursor
   website: https://cursor.com/downloads
@@ -399,128 +308,79 @@
   name: Atom
   website: https://github.com/atom/atom
   packages:
-  - url: https://github.com/atom/atom/releases/download/v1.63.1/AtomSetup-x64.exe
+  - url: https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/atom/atom/releases/download/v1.63.1/atom-x64-1.63.1-full.nupkg
-    format: nupkg
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/atom/atom/releases/download/v1.63.1/atom-mac.zip
+  - url: https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip
     format: zip
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/atom/atom/releases/download/v1.63.1/atom-amd64.deb
+  - url: https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/atom/atom/releases/download/v1.63.1/atom.x86_64.rpm
+  - url: https://github.com/atom/atom/releases/download/v1.60.0/atom.x86_64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/atom/atom/releases/download/v1.63.1/atom-amd64.tar.gz
+  - url: https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.tar.gz
     format: tar.gz
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: wire
   name: Wire
   website: https://wire.com/en/download/
   packages:
-  - url: https://wire-app.wire.com/win/prod/Wire.exe
+  - url: https://wire-app.wire.com/win/prod/Wire-Setup.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 403
-  - url: https://wire-app.wire.com/mac/prod/Wire.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 403
-  - url: https://wire-app.wire.com/linux/debian/dists/stable/main/binary-amd64/
+  - url: https://wire-app.wire.com/linux/Wire-3.36.3462_amd64.deb
     format: deb
     os: linux
     arch: x64
     note: Available via APT repository at https://wire.com/en/download/
-    invalid: true
-    invalid_reason: HTTP 403
 - id: rocket-chat
   name: Rocket.Chat
   website: https://www.rocket.chat/download-apps
   packages:
-  - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-setup.exe
+  - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-4.14.0-win-x64.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat.dmg
+  - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-4.14.0-mac.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat_amd64.deb
+  - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-4.14.0-linux-amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: ferdium
   name: Ferdium
   website: https://ferdium.org/download
   packages:
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-Setup-6.7.4.exe
+  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-win-AutoSetup-7.1.2-x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-6.7.4.dmg
+  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-mac-7.1.2-x64.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-6.7.4-arm64.dmg
+  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-mac-7.1.2-arm64.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-6.7.4-amd64.deb
+  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-linux-7.1.2-amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-6.7.4.x86_64.rpm
+  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-linux-7.1.2-x86_64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-6.7.4-x86_64.AppImage
+  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-linux-Portable-7.1.2-x86_64.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/ferdium/ferdium-app/releases/latest/download/Ferdium-6.7.4-arm64.AppImage
-    format: appimage
-    os: linux
-    arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: franz
   name: Franz
   website: https://meetfranz.com/
@@ -536,39 +396,17 @@
     format: deb
     os: linux
     arch: x64
-  - url: https://github.com/meetfranz/franz/releases/download/v5.9.2/franz-5.9.2-x86_64.AppImage
+  - url: https://github.com/meetfranz/franz/releases/latest/download/Franz-5.11.0.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: gitkraken
   name: GitKraken
   website: https://www.gitkraken.com/download
   packages:
-  - url: https://release.axocdn.com/win64/GitKrakenSetup.exe
-    format: exe
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://release.axocdn.com/darwin/GitKraken.dmg
+  - url: https://api.gitkraken.dev/releases/production/darwin/arm64/12.0.1/GitKraken-v12.0.1.zip
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://release.axocdn.com/linux/gitkraken-amd64.deb
-    format: deb
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://release.axocdn.com/linux/gitkraken-amd64.rpm
-    format: rpm
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://release.axocdn.com/linux/gitkraken-amd64.tar.gz
     format: tar.gz
     os: linux
@@ -577,12 +415,6 @@
   name: Keybase
   website: https://keybase.io/download
   packages:
-  - url: https://prerelease.keybase.io/keybase_production_amd64_installer.exe
-    format: exe
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 403
   - url: https://prerelease.keybase.io/Keybase.dmg
     format: dmg
     os: macos
@@ -597,6 +429,7 @@
 - id: mattermost
   name: Mattermost Desktop
   website: https://mattermost.com/download/
+  packages: []
 - id: loom
   name: Loom
   website: https://www.loom.com/download
@@ -614,49 +447,19 @@
 - id: windsurf
   name: Windsurf
   website: https://codeium.com/windsurf/download
-  packages:
-  - url: https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/windsurf/stable/latest/WindsurfSetup.exe
-    format: exe
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/windsurf/stable/latest/Windsurf.dmg
-    format: dmg
-    os: macos
-    arch: universal
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/windsurf/stable/latest/Windsurf.tar.gz
-    format: tar.gz
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: linear
   name: Linear
   website: https://linear.app/download
-  packages:
-  - url: https://desktop.linear.app/windows/installer/latest
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://desktop.linear.app/mac/dmg/latest
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: miro
   name: Miro
   website: https://miro.com/desktop/
   packages:
-  - url: https://desktop.miro.com/platforms/win32-x86_64/Miro.exe
+  - url: https://desktop.miro.com/platforms/win32-nsis-pu/Miro-setup.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 403
   - url: https://desktop.miro.com/platforms/darwin/Miro.dmg
     format: dmg
     os: macos
@@ -667,19 +470,15 @@
   - url: https://vault.bitwarden.com/download/?app=desktop&platform=windows&variant=exe
     format: exe
     os: windows
-  - url: https://vault.bitwarden.com/download/?app=desktop&platform=windows&variant=msi
+  - url: https://vault.bitwarden.com/download/?app=desktop&platform=windows
     format: msi
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://vault.bitwarden.com/download/?app=desktop&platform=macos
     format: dmg
     os: macos
-  - url: https://vault.bitwarden.com/download/?app=desktop&platform=linux
+  - url: https://github.com/bitwarden/clients/releases/latest/download/Bitwarden-2026.3.1-amd64.deb
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 502
   - url: https://vault.bitwarden.com/download/?app=desktop&platform=linux&variant=deb
     format: deb
     os: linux
@@ -722,50 +521,29 @@
   name: Mailspring
   website: https://getmailspring.com/download
   packages:
-  - url: https://updates.getmailspring.com/download?platform=win
+  - url: https://github.com/Foundry376/Mailspring/releases/latest/download/MailspringSetup.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 400
-  - url: https://updates.getmailspring.com/download?platform=mac
+  - url: https://github.com/Foundry376/Mailspring/releases/latest/download/Mailspring.zip
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 400
   - url: https://updates.getmailspring.com/download?platform=linuxDeb
     format: deb
     os: linux
   - url: https://updates.getmailspring.com/download?platform=linuxRpm
     format: rpm
     os: linux
-  - url: https://updates.getmailspring.com/download?platform=linuxTarball
+  - url: https://github.com/Foundry376/Mailspring/releases/latest/download/mailspring-1.20.1-amd64.deb
     format: tar.gz
     os: linux
-    invalid: true
-    invalid_reason: HTTP 400
 - id: camo
   name: Camo
   website: https://reincubate.com/camo/
-  packages:
-  - url: https://update.reincubate.com/camo/win/CamoSetup.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: None
-  - url: https://update.reincubate.com/camo/mac/Camo.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: None
+  packages: []
 - id: tot
   name: Tot
   website: https://tot.rocks/
-  packages:
-  - url: https://tot.rocks/download
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: tableflip
   name: TableFlip
   website: https://tableflipapp.com/
@@ -776,26 +554,11 @@
 - id: volta
   name: Volta
   website: https://volta.net/
-  packages:
-  - url: https://github.com/nickvdyck/volta/releases/latest/download/Volta-Setup.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/nickvdyck/volta/releases/latest/download/Volta.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: codeshot
   name: CodeShot
   website: https://github.com/acheronfail/codeshot
-  packages:
-  - url: https://github.com/acheronfail/codeshot/releases/latest/download/CodeShot.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: zettlr
   name: Zettlr
   website: https://www.zettlr.com/download
@@ -819,49 +582,35 @@
   name: Joplin
   website: https://joplinapp.org/
   packages:
-  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-Setup-3.3.3.exe
+  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-Setup-3.5.13.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.3.3.dmg
+  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.5.13.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.3.3-arm64.dmg
+  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.5.13-arm64.DMG
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.3.3-x86_64.AppImage
+  - url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.5.13.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: standard-notes
   name: Standard Notes
   website: https://standardnotes.com/download
   packages:
-  - url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-win.exe
+  - url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-3.201.21-win-x64.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-mac.dmg
+  - url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-3.201.21-mac-x64.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-linux-x86_64.AppImage
+  - url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-3.201.21-linux-x86_64.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: notesnook
   name: Notesnook
   website: https://notesnook.com/
@@ -870,22 +619,18 @@
     format: exe
     os: windows
     arch: x64
-  - url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_mac_universal.dmg
+  - url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_mac_arm64.dmg
     format: dmg
     os: macos
     arch: universal
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_linux_x86_64.AppImage
     format: appimage
     os: linux
     arch: x64
-  - url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_linux_amd64.deb
+  - url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_linux_x86_64.AppImage
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: anytype
   name: Anytype
   website: https://anytype.io/
@@ -909,164 +654,96 @@
   name: Logseq
   website: https://logseq.com/
   packages:
-  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-win-x64-installer.exe
+  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-win-x64-0.10.15.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-darwin-x64-installer.dmg
+  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-darwin-x64-0.10.15.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-darwin-arm64-installer.dmg
+  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-darwin-arm64-0.10.15.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-linux-x64-installer.AppImage
+  - url: https://github.com/logseq/logseq/releases/latest/download/Logseq-linux-x64-0.10.15.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: tangent
   name: Tangent Notes
   website: https://www.tangentnotes.com/Download
-  packages:
-  - url: https://github.com/suchnsuch/Tangent/releases/latest/download/Tangent-win32.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/suchnsuch/Tangent/releases/latest/download/Tangent-mac.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/suchnsuch/Tangent/releases/latest/download/Tangent-linux.AppImage
-    format: appimage
-    os: linux
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: tabby
   name: Tabby
   website: https://tabby.sh/
   packages:
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-setup-x64.exe
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-setup-x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-setup-arm64.exe
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-setup-arm64.exe
     format: exe
     os: windows
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 502
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-macos-x86_64.dmg
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-macos-x86_64.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-macos-arm64.dmg
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-macos-arm64.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-linux-x64.deb
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-x64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-linux-arm64.deb
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-arm64.deb
     format: deb
     os: linux
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-linux-x86_64.rpm
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-x64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 502
-  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-linux-x64.AppImage
+  - url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-x64.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: webtorrent
   name: WebTorrent
   website: https://webtorrent.io/desktop/
   packages:
-  - url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/WebTorrent-Setup.exe
+  - url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/WebTorrentSetup-v0.24.0.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 502
-  - url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/WebTorrent.dmg
+  - url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/WebTorrent-v0.24.0.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/webtorrent-desktop_amd64.deb
+  - url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/webtorrent-desktop_0.24.0_amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: caprine
   name: Caprine
   website: https://sindresorhus.com/caprine
   packages:
-  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine-Setup.exe
+  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine-Setup-2.61.0.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine.dmg
+  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine-2.61.0.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine.AppImage
+  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine-2.61.0.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 502
-  - url: https://github.com/sindresorhus/caprine/releases/latest/download/Caprine.deb
+  - url: https://github.com/sindresorhus/caprine/releases/latest/download/caprine_2.61.0_amd64.deb
     format: deb
     os: linux
-    invalid: true
-    invalid_reason: HTTP 502
 - id: responsively
   name: ResponsivelyApp
   website: https://responsively.app/download
-  packages:
-  - url: https://github.com/responsively-org/responsively-app/releases/latest/download/ResponsivelyApp-Setup.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/responsively-org/responsively-app/releases/latest/download/ResponsivelyApp.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/responsively-org/responsively-app/releases/latest/download/ResponsivelyApp.AppImage
-    format: appimage
-    os: linux
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: marktext
   name: Mark Text
   website: https://www.marktext.cc/
@@ -1074,20 +751,16 @@
   - url: https://github.com/marktext/marktext/releases/latest/download/marktext-setup.exe
     format: exe
     os: windows
-  - url: https://github.com/marktext/marktext/releases/latest/download/marktext.dmg
+  - url: https://github.com/marktext/marktext/releases/latest/download/marktext-x64.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://github.com/marktext/marktext/releases/latest/download/marktext-x86_64.AppImage
     format: appimage
     os: linux
     arch: x64
-  - url: https://github.com/marktext/marktext/releases/latest/download/marktext.deb
+  - url: https://github.com/marktext/marktext/releases/latest/download/marktext-amd64.deb
     format: deb
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
 - id: zulip
   name: Zulip
   website: https://zulip.com/apps/
@@ -1105,139 +778,90 @@
   name: Spacedrive
   website: https://www.spacedrive.com/
   packages:
-  - url: https://www.spacedrive.com/api/releases/desktop/stable/windows/x86_64
+  - url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-windows-x86_64.msi
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://www.spacedrive.com/api/releases/desktop/stable/darwin/aarch64
+  - url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-darwin-aarch64.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://www.spacedrive.com/api/releases/desktop/stable/darwin/x86_64
+  - url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-darwin-x86_64.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://www.spacedrive.com/api/releases/desktop/stable/linux/x86_64
+  - url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-linux-x86_64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: keewebtech
   name: KeeWeb
   website: https://keeweb.info/
   packages:
-  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb-Setup-x64.exe
+  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb-1.18.7.win.x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb.dmg
+  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb-1.18.7.mac.x64.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb.linux.x64.deb
+  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb-1.18.7.linux.x64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb.linux.x64.rpm
+  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb-1.18.7.linux.x86_64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb.linux.x64.zip
+  - url: https://github.com/keeweb/keeweb/releases/latest/download/KeeWeb-1.18.7.linux.x64.zip
     format: zip
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: enpass
   name: Enpass
   website: https://www.enpass.io/downloads/
-  packages:
-  - url: https://apt.enpass.io/files/enpass_latest_amd64.deb
-    format: deb
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://rpm.enpass.io/enpass.repo
-    format: rpm
-    os: linux
-    arch: x64
-    note: Available via YUM/DNF repository
-    invalid: true
-    invalid_reason: None
+  packages: []
 - id: headlamp
   name: Headlamp
   website: https://headlamp.dev/
   packages:
-  - url: https://github.com/headlamp-k8s/headlamp/releases/latest/download/Headlamp-win-x64.exe
+  - url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-win-x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/headlamp-k8s/headlamp/releases/latest/download/Headlamp-mac-x64.dmg
+  - url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-mac-x64.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/headlamp-k8s/headlamp/releases/latest/download/Headlamp-mac-arm64.dmg
+  - url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-mac-arm64.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/headlamp-k8s/headlamp/releases/latest/download/Headlamp-linux-x64.tar.gz
+  - url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-linux-x64.tar.gz
     format: tar.gz
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: lens
   name: Lens
   website: https://k8slens.dev/
   packages:
-  - url: https://api.k8slens.dev/binaries/Lens%20Setup%20latest.exe
+  - url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens.6.5.2-366.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://api.k8slens.dev/binaries/Lens%20latest.dmg
+  - url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://api.k8slens.dev/binaries/Lens_latest_amd64.deb
+  - url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://api.k8slens.dev/binaries/Lens-latest.x86_64.rpm
+  - url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.x86_64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://api.k8slens.dev/binaries/Lens-latest.AppImage
+  - url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.x86_64.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
 - id: portmaster
   name: Portmaster
   website: https://safing.io/download/
@@ -1258,29 +882,21 @@
   name: Session
   website: https://getsession.org/download
   packages:
-  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-win-x64-installer.exe
+  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-win-x64-1.14.3.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-mac.dmg
+  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-mac-x64-1.14.3.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-linux-amd64.deb
+  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-linux-amd64-1.14.3.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-linux-amd64.AppImage
+  - url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-linux-x86_64-1.14.3.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: element-desktop
   name: Element Desktop
   website: https://element.io/download
@@ -1301,28 +917,20 @@
   name: Proton Mail Bridge
   website: https://proton.me/mail/bridge
   packages:
-  - url: https://proton.me/download/bridge/Proton_Mail_Bridge_Installer.exe
+  - url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/Bridge-Installer.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://proton.me/download/bridge/Proton_Mail_Bridge.dmg
+  - url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/Bridge-Installer.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://proton.me/download/bridge/protonmail-bridge_amd64.deb
+  - url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/protonmail-bridge_3.24.1-1_amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://proton.me/download/bridge/protonmail-bridge.x86_64.rpm
+  - url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/protonmail-bridge-3.24.1-1.x86_64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: mullvad
   name: Mullvad VPN
   website: https://mullvad.net/en/download/
@@ -1343,93 +951,65 @@
   name: Insomnia
   website: https://insomnia.rest/download
   packages:
-  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Setup.exe
+  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.dmg
+  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.AppImage
+  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.deb
+  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.deb
     format: deb
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.rpm
+  - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.rpm
     format: rpm
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
 - id: bruno
   name: Bruno
   website: https://www.usebruno.com/downloads
   packages:
-  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_win_x64_installer.exe
+  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_x64_win.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_win_arm64_installer.exe
+  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_arm64_win.exe
     format: exe
     os: windows
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_mac_universal.dmg
+  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_arm64_mac.dmg
     format: dmg
     os: macos
     arch: universal
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_linux_x86_64_installer.AppImage
+  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_x86_64_linux.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_linux_amd64.deb
+  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_amd64_linux.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_linux_amd64.rpm
+  - url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_x86_64_linux.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: hoppscotch
   name: Hoppscotch
   website: https://hoppscotch.com/download
   packages:
-  - url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_win_x64.exe
+  - url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_win_x64.msi
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_mac_universal.dmg
+  - url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_mac_x64.dmg
     format: dmg
     os: macos
     arch: universal
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_linux_x86_64.AppImage
+  - url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_linux_x64.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: hyper
   name: Hyper
   website: https://hyper.is/
@@ -1446,275 +1026,152 @@
   - url: https://releases.hyper.is/download/rpm
     format: rpm
     os: linux
-  - url: https://releases.hyper.is/download/snap
-    format: snap
-    os: linux
-    invalid: true
-    invalid_reason: HTTP 500
 - id: balenaetcher
   name: balenaEtcher
   website: https://etcher.balena.io/
   packages:
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-Portable-x64.exe
+  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4.Setup.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-Setup-x64.exe
+  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4.Setup.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-x64.dmg
+  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4-x64.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-arm64.dmg
+  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4-arm64.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balena-etcher_amd64.deb
+  - url: https://github.com/balena-io/etcher/releases/latest/download/balena-etcher_2.1.4_amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balena-etcher-electron.x86_64.rpm
+  - url: https://github.com/balena-io/etcher/releases/latest/download/balena-etcher-2.1.4-1.x86_64.rpm
     format: rpm
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-x64.AppImage
-    format: appimage
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: drawio
   name: draw.io Desktop
   website: https://github.com/jgraph/drawio-desktop/releases
   packages:
-  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/draw.io%20Setup.exe
+  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/draw.io-29.7.9-windows-installer.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/draw.io.dmg
+  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/draw.io-universal-29.7.9.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-amd64.deb
+  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-amd64-29.7.9.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-x86_64.AppImage
+  - url: https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-x86_64-29.7.9.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: excalidraw-desktop
   name: Excalidraw Desktop
   website: https://github.com/revell29/excalidraw-desktop/releases
-  packages:
-  - url: https://github.com/revell29/excalidraw-desktop/releases/latest/download/Excalidraw-Setup.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/revell29/excalidraw-desktop/releases/latest/download/Excalidraw.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: klokkislim
   name: Klokki Slim
   website: https://klokkislim.com/
+  packages: []
 - id: motrix
   name: Motrix
   website: https://motrix.app/
   packages:
-  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-Setup.exe
+  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-Setup-1.8.19.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix.dmg
+  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-1.8.19.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix.AppImage
+  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-1.8.19.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix_amd64.deb
+  - url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix_1.8.19_amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: cutter
   name: Cutter
   website: https://cutter.re/
   packages:
-  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-Windows-x86_64.zip
+  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-Windows-x86_64.zip
     format: zip
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-macOS-arm64.dmg
+  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-macOS-arm64.dmg
     format: dmg
     os: macos
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-macOS-x86_64.dmg
+  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-macOS-x86_64.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-Linux-x86_64.AppImage
+  - url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-Linux-x86_64.AppImage
     format: appimage
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: tidal-hifi
   name: TIDAL Hi-Fi
   website: https://github.com/Mastermindzh/tidal-hifi
   packages:
-  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi-setup.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi.dmg
+  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi-6.3.1-arm64.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi.AppImage
+  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi-6.3.1.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi_amd64.deb
+  - url: https://github.com/Mastermindzh/tidal-hifi/releases/latest/download/tidal-hifi_6.3.1_amd64.deb
     format: deb
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: klack
   name: Klack
   website: https://tryklack.com/
-  packages:
-  - url: https://github.com/nicholasgasior/klack/releases/latest/download/Klack.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: koofr
   name: Koofr Desktop
   website: https://koofr.eu/
-  packages:
-  - url: https://k2.koofr.eu/dl/koofr-desktop-latest-win-setup.exe
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: None
-  - url: https://k2.koofr.eu/dl/koofr-desktop-latest-mac.dmg
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: None
-  - url: https://k2.koofr.eu/dl/koofr-desktop-latest-linux-amd64.deb
-    format: deb
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: None
-  - url: https://k2.koofr.eu/dl/koofr-desktop-latest-linux-x64.tar.gz
-    format: tar.gz
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: None
+  packages: []
 - id: parsify
   name: Parsify Desktop
   website: https://parsify.app/
   packages:
-  - url: https://github.com/parsify-dev/desktop/releases/latest/download/Parsify-Setup.exe
+  - url: https://github.com/parsify-dev/desktop/releases/latest/download/Parsify-2.0.1-win-x64.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/parsify-dev/desktop/releases/latest/download/Parsify.dmg
+  - url: https://github.com/parsify-dev/desktop/releases/latest/download/Parsify-2.0.1-mac-x64.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/parsify-dev/desktop/releases/latest/download/Parsify.AppImage
+  - url: https://github.com/parsify-dev/desktop/releases/latest/download/Parsify-2.0.1-linux-x86_64.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
 - id: sidekick
   name: Sidekick Browser
   website: https://www.meetsidekick.com/download/
-  packages:
-  - url: https://api.meetsidekick.com/download/latest/win
-    format: exe
-    os: windows
-    invalid: true
-    invalid_reason: None
-  - url: https://api.meetsidekick.com/download/latest/mac
-    format: dmg
-    os: macos
-    invalid: true
-    invalid_reason: None
-  - url: https://api.meetsidekick.com/download/latest/linux
-    format: deb
-    os: linux
-    invalid: true
-    invalid_reason: None
+  packages: []
 - id: notable
   name: Notable
   website: https://notable.app/
   packages:
-  - url: https://github.com/notable/notable/releases/latest/download/notable.Setup.exe
+  - url: https://github.com/notable/notable/releases/latest/download/Notable.Setup.1.8.4.exe
     format: exe
     os: windows
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/notable/notable/releases/latest/download/notable.dmg
+  - url: https://github.com/notable/notable/releases/latest/download/Notable-1.8.4.dmg
     format: dmg
     os: macos
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/notable/notable/releases/latest/download/notable.AppImage
+  - url: https://github.com/notable/notable/releases/latest/download/Notable-1.8.4.AppImage
     format: appimage
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/notable/notable/releases/latest/download/notable.deb
+  - url: https://github.com/notable/notable/releases/latest/download/notable_1.8.4_amd64.deb
     format: deb
     os: linux
-    invalid: true
-    invalid_reason: HTTP 404
 - id: vectr
   name: Vectr
   website: https://vectr.com/download/
@@ -2625,18 +2082,14 @@
     format: dmg
     os: macos
     arch: x64
-  - url: https://download.typora.io/windows/x64/typora-setup-x64.exe
+  - url: https://downloads.typora.io/windows/typora-setup-x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://download.typora.io/windows/arm64/typora-setup-arm64.exe
+  - url: https://downloads.typora.io/windows/typora-setup-arm64.exe
     format: exe
     os: windows
     arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://download.typora.io/linux/typora_1.13.4_amd64.deb
     format: deb
     os: linux
@@ -2918,12 +2371,10 @@
     format: zip
     os: windows
     arch: x64
-  - url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-linux-x64.tar.gz
+  - url: https://github.com/theodi/comma-chameleon/releases/download/0.5.1/comma-chameleon-linux-x64.tar.gz
     format: tar.gz
     os: linux
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: deepchat
   name: DeepChat
   website: https://github.com/ThinkInAIXYZ/deepchat
@@ -2958,12 +2409,10 @@
     format: dmg
     os: macos
     arch: x64
-  - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-win-x64-setup.exe
+  - url: https://github.com/electerm/electerm/releases/latest/download/electerm-3.6.16-win-x64-installer.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-linux-amd64.deb
     format: deb
     os: linux
@@ -3462,18 +2911,14 @@
     format: dmg
     os: macos
     arch: arm64
-  - url: https://getpublii.com/download/Publii-0.47.6.dmg
+  - url: https://cdn.getpublii.com/Publii-0.47.6-intel.dmg
     format: dmg
     os: macos
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://getpublii.com/download/Publii-0.47.6-win.exe
+  - url: https://cdn.getpublii.com/Publii-0.47.6.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://getpublii.com/download/Publii-0.47.6.AppImage
     format: appimage
     os: linux
@@ -3613,12 +3058,6 @@
     format: dmg
     os: macos
     arch: arm64
-  - url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-x64-SpaceRadar.dmg
-    format: dmg
-    os: macos
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
 - id: stretchly
   name: Stretchly
   website: https://hovancik.net/stretchly/
@@ -3736,31 +3175,7 @@
   name: Witsy
   website: https://witsyai.com/
   repository: https://github.com/nbonamy/witsy
-  packages:
-  - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-arm64.dmg
-    format: dmg
-    os: macos
-    arch: arm64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-x64.dmg
-    format: dmg
-    os: macos
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-win32-x64-setup.exe
-    format: exe
-    os: windows
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
-  - url: https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-linux-x64.AppImage
-    format: appimage
-    os: linux
-    arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
+  packages: []
 - id: yank-note
   name: Yank Note
   website: https://github.com/purocean/yn
@@ -3888,12 +3303,10 @@
     format: dmg
     os: macos
     arch: x64
-  - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_win_x64.exe
+  - url: https://github.com/altair-graphql/altair/releases/latest/download/altair_8.5.0_x64_win.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_amd64_linux.deb
     format: deb
     os: linux
@@ -4351,12 +3764,10 @@
     format: dmg
     os: macos
     arch: x64
-  - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Win_2.15.0_x64.exe
+  - url: https://github.com/buxuku/SmartSub/releases/latest/download/SmartSub_Windows_2.15.0_x64.exe
     format: exe
     os: windows
     arch: x64
-    invalid: true
-    invalid_reason: HTTP 404
   - url: https://github.com/buxuku/SmartSub/releases/download/v2.15.0/SmartSub_Linux_2.15.0_x86_64.AppImage
     format: appimage
     os: linux
