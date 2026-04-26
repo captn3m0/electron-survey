@@ -1,0 +1,10 @@
+id: simple-finder
+repository: https://github.com/seniya/electron-finder-normal
+website: https://github.com/seniya/electron-finder-normal
+latest: 1.0.0
+src: https://github.com/seniya/electron-finder-normal/archive/refs/tags/1.0.0.zip
+downloads:
+- name: Simple-Finder.Setup.1.0.0.zip
+  url: https://github.com/seniya/electron-finder-normal/releases/download/1.0.0/Simple-Finder.Setup.1.0.0.zip
+electron: 9.3.3
+method: src-package-lock

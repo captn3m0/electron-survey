@@ -1,0 +1,12 @@
+id: geeks-diary
+repository: https://github.com/seokju-na/geeks-diary
+website: https://github.com/seokju-na/geeks-diary
+latest: 1.0.0-beta2
+src: https://github.com/seokju-na/geeks-diary/archive/refs/tags/1.0.0-beta2.zip
+downloads:
+- name: Geeks.Diary-1.0.0-beta2-mac.zip
+  url: https://github.com/seokju-na/geeks-diary/releases/download/1.0.0-beta2/Geeks.Diary-1.0.0-beta2-mac.zip
+- name: Geeks.Diary-1.0.0-beta2.dmg
+  url: https://github.com/seokju-na/geeks-diary/releases/download/1.0.0-beta2/Geeks.Diary-1.0.0-beta2.dmg
+electron: 2.0.11
+method: src-yarn-lock

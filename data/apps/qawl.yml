@@ -1,0 +1,16 @@
+id: qawl
+repository: https://github.com/sufone/qawl
+website: https://qawl.navedislam.com
+latest: v0.0.7
+src: https://github.com/sufone/qawl/archive/refs/tags/v0.0.7.zip
+downloads:
+- name: Qawl-Linux-0.0.7.AppImage
+  url: https://github.com/sufone/qawl/releases/download/v0.0.7/Qawl-Linux-0.0.7.AppImage
+- name: Qawl-Mac-0.0.7.dmg
+  url: https://github.com/sufone/qawl/releases/download/v0.0.7/Qawl-Mac-0.0.7.dmg
+- name: Qawl-Windows-Setup-0.0.7.exe
+  url: https://github.com/sufone/qawl/releases/download/v0.0.7/Qawl-Windows-Setup-0.0.7.exe
+- name: qawl_Linux_0.0.7_amd64.deb
+  url: https://github.com/sufone/qawl/releases/download/v0.0.7/qawl_Linux_0.0.7_amd64.deb
+electron: 10.1.5
+method: src-yarn-lock

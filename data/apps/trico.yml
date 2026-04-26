@@ -1,0 +1,26 @@
+id: trico
+website: https://github.com/ngudbhav/TriCo-electron-app
+repository: https://github.com/ngudbhav/TriCo-electron-app
+latest: v3.1.0
+src: https://github.com/ngudbhav/TriCo-electron-app/archive/refs/tags/v3.1.0.zip
+downloads:
+- name: Portable-x64.exe
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/Portable-x64.exe
+- name: Portable-x86.exe
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/Portable-x86.exe
+- name: Setup-x64.exe
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/Setup-x64.exe
+- name: Setup-x86.exe
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/Setup-x86.exe
+- name: TriCo-3.1.0-linux.zip
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/TriCo-3.1.0-linux.zip
+- name: TriCo-3.1.0.x86_64.rpm
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/TriCo-3.1.0.x86_64.rpm
+- name: TriCo-darwin-x64.zip
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/TriCo-darwin-x64.zip
+- name: TriCo_3.1.0.dmg
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/TriCo_3.1.0.dmg
+- name: TriCo_3.1.0_amd64.deb
+  url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/TriCo_3.1.0_amd64.deb
+electron: 22.0.3
+method: src-yarn-lock

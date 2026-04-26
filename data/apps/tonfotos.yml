@@ -1,0 +1,7 @@
+id: tonfotos
+website: https://tonfotos.com/
+download_urls:
+- url: https://cdn.tonfotos.com/distribution/tonfotos/release/latest/linux/x64/tonfotos.deb
+  name: tonfotos-latest.deb
+- url: https://cdn.tonfotos.com/distribution/tonfotos/release/latest/linux/x64/tonfotos.rpm
+  name: tonfotos-latest.rpm

@@ -1,0 +1,6 @@
+id: trello
+website: https://trello.com
+aur:
+- trello
+electron: 17.4.11
+method: aur-depends

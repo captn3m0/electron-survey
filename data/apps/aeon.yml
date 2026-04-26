@@ -1,0 +1,32 @@
+id: aeon
+repository: https://github.com/leinelissen/aeon
+website: https://aeon.technology
+latest: v0.2.22
+src: https://github.com/leinelissen/aeon/archive/refs/tags/v0.2.22.zip
+downloads:
+- name: aeon-0.2.22-1.arm64.rpm
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon-0.2.22-1.arm64.rpm
+- name: aeon-0.2.22-1.x86_64.rpm
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon-0.2.22-1.x86_64.rpm
+- name: Aeon-0.2.22-arm64.dmg
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/Aeon-0.2.22-arm64.dmg
+- name: aeon-0.2.22-full.nupkg
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon-0.2.22-full.nupkg
+- name: Aeon-0.2.22-x64.dmg
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/Aeon-0.2.22-x64.dmg
+- name: Aeon-0.2.22.Setup.exe
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/Aeon-0.2.22.Setup.exe
+- name: Aeon-darwin-arm64-0.2.22.zip
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/Aeon-darwin-arm64-0.2.22.zip
+- name: Aeon-darwin-x64-0.2.22.zip
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/Aeon-darwin-x64-0.2.22.zip
+- name: aeon_0.2.22_amd64.deb
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon_0.2.22_amd64.deb
+- name: aeon_0.2.22_arm64.deb
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon_0.2.22_arm64.deb
+- name: RELEASES
+  url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/RELEASES
+aur:
+- aeon-bin
+electron: 23.3.13
+method: aur-depends

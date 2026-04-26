@@ -1,0 +1,9 @@
+id: bootstrap-studio
+website: https://bootstrapstudio.io/
+aur:
+- bootstrap-studio
+homebrew: bootstrap-studio
+downloads:
+- url: https://releases.bootstrapstudio.io/8.0.1/Bootstrap%20Studio%20(arm64).dmg
+  name: Bootstrap%20Studio%20(arm64).dmg
+  version: 8.0.1

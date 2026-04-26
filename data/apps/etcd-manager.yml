@@ -1,0 +1,24 @@
+id: etcd-manager
+repository: https://github.com/icellmobilsoft/etcdmanager.git
+website: https://etcdmanager.io
+latest: 1.2.0
+src: https://github.com/icellmobilsoft/etcdmanager/archive/refs/tags/1.2.0.zip
+downloads:
+- name: etcd-manager-1.2.0-linux.AppImage
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/etcd-manager-1.2.0-linux.AppImage
+- name: etcd-manager-1.2.0-osx.dmg
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/etcd-manager-1.2.0-osx.dmg
+- name: etcd-manager-1.2.0-osx.dmg.blockmap
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/etcd-manager-1.2.0-osx.dmg.blockmap
+- name: etcd-manager-1.2.0-win64.exe
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/etcd-manager-1.2.0-win64.exe
+- name: etcd-manager-1.2.0-win64.exe.blockmap
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/etcd-manager-1.2.0-win64.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/gtamas/etcdmanager/releases/download/1.2.0/latest.yml
+electron: 6.1.9
+method: src-yarn-lock

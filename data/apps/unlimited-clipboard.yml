@@ -1,0 +1,14 @@
+id: unlimited-clipboard
+repository: https://github.com/morozovsk/unlimited-clipboard.git
+website: https://github.com/morozovsk/unlimited-clipboard
+latest: v1.0.1
+src: https://github.com/morozovsk/unlimited-clipboard/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: unlimited-clipboard.AppImage
+  url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.AppImage
+- name: unlimited-clipboard.exe
+  url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.exe
+- name: unlimited-clipboard.snap
+  url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.snap
+electron: 8.5.5
+method: src-range-guess

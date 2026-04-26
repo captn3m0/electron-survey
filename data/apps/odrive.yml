@@ -1,0 +1,17 @@
+id: odrive
+repository: https://github.com/liberodark/ODrive
+website: https://github.com/liberodark/ODrive
+latest: 0.2.1
+src: https://github.com/liberodark/ODrive/archive/refs/tags/0.2.1.zip
+downloads:
+- name: odrive_0.2.1_amd64.deb
+  url: https://github.com/liberodark/ODrive/releases/download/0.2.1/odrive_0.2.1_amd64.deb
+- name: odrive_0.2.1_amd64.snap
+  url: https://github.com/liberodark/ODrive/releases/download/0.2.1/odrive_0.2.1_amd64.snap
+- name: OpenDrive.0.2.1.AppImage
+  url: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.0.2.1.AppImage
+- name: OpenDrive.Setup.0.2.1.exe
+  url: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.Setup.0.2.1.exe
+electron: 2.0.18
+method: src-range-guess
+homebrew: odrive

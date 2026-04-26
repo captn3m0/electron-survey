@@ -1,0 +1,9 @@
+id: popsql
+website: https://popsql.com
+aur:
+- popsql
+homebrew: popsql
+downloads:
+- url: https://popsql-releases.s3.amazonaws.com/mac/PopSQL-1.0.135-arm64.dmg
+  name: PopSQL-1.0.135-arm64.dmg
+  version: 1.0.135

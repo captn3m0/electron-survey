@@ -1,0 +1,17 @@
+id: premid
+repository: https://github.com/PreMiD/PreMiD
+website: https://premid.app/
+latest: app-v2.2.0
+src: https://github.com/PreMiD/PreMiD/archive/refs/tags/app-v2.2.0.zip
+downloads:
+- name: PreMiD-darwin-x64.zip
+  url: https://github.com/PreMiD/PreMiD/releases/download/app-v2.2.0/PreMiD-darwin-x64.zip
+- name: PreMiD-win32-ia32.zip
+  url: https://github.com/PreMiD/PreMiD/releases/download/app-v2.2.0/PreMiD-win32-ia32.zip
+- name: PreMiD-win32-x64.zip
+  url: https://github.com/PreMiD/PreMiD/releases/download/app-v2.2.0/PreMiD-win32-x64.zip
+electron: 11.3.0
+method: src-yarn-lock
+aur:
+- premid
+- premid-nightly

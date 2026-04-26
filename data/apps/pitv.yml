@@ -1,0 +1,24 @@
+id: pitv
+repository: https://github.com/ozankaraali/PiTV
+website: https://ozankaraali.com/PiTV/
+latest: latest
+src: https://github.com/ozankaraali/PiTV/archive/refs/tags/latest.zip
+downloads:
+- name: PiTV-1.1.2-1.x86_64.rpm
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/PiTV-1.1.2-1.x86_64.rpm
+- name: PiTV-1.1.2-arm64.dmg
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/PiTV-1.1.2-arm64.dmg
+- name: pitv-1.1.2-full.nupkg
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv-1.1.2-full.nupkg
+- name: PiTV-1.1.2.Setup.exe
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/PiTV-1.1.2.Setup.exe
+- name: PiTV-darwin-arm64-1.1.2.zip
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/PiTV-darwin-arm64-1.1.2.zip
+- name: pitv_1.1.2_amd64.deb
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv_1.1.2_amd64.deb
+- name: RELEASES
+  url: https://github.com/ozankaraali/PiTV/releases/download/latest/RELEASES
+electron: 22.0.0
+method: src-yarn-lock
+aur:
+- pitv-bin

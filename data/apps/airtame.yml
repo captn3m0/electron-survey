@@ -1,0 +1,9 @@
+id: airtame
+website: https://www.airtame.com
+aur:
+- airtame-application
+homebrew: airtame
+downloads:
+- url: https://downloads-cdn.airtame.com/app/latest/mac/Airtame-4.15.0.dmg
+  name: Airtame-4.15.0.dmg
+  version: 4.15.0

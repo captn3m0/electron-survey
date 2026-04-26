@@ -1,0 +1,22 @@
+id: tess
+repository: https://github.com/SquitchYT/Tess/
+website: https://github.com/SquitchYT/Tess/
+latest: 0.6.3
+src: https://github.com/SquitchYT/Tess/archive/refs/tags/0.6.3.zip
+downloads:
+- name: tess-0.6.3-0.x86_64.rpm
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess-0.6.3-0.x86_64.rpm
+- name: tess-0.6.3-portable-x86_64.zip
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess-0.6.3-portable-x86_64.zip
+- name: tess-0.6.3-setup-x86_64.exe
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess-0.6.3-setup-x86_64.exe
+- name: tess-0.6.3-x86_64.tar.gz
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess-0.6.3-x86_64.tar.gz
+- name: tess-git-x86_64.pkg.tar.zst
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess-git-x86_64.pkg.tar.zst
+- name: tess_0.6.3-1_x86-64.deb
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess_0.6.3-1_x86-64.deb
+- name: tess_0.6.3.AppImage
+  url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess_0.6.3.AppImage
+electron: 17.4.11
+method: src-package-lock

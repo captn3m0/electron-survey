@@ -1,0 +1,30 @@
+id: mailspring
+repository: https://github.com/Foundry376/Mailspring
+website: https://getmailspring.com/
+latest: 1.19.0
+src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.19.0.zip
+downloads:
+- name: mailspring-1.19.0-0.1.aarch64.rpm
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-0.1.aarch64.rpm
+- name: mailspring-1.19.0-0.1.x86_64.rpm
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-0.1.x86_64.rpm
+- name: mailspring-1.19.0-amd64.deb
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-amd64.deb
+- name: mailspring-1.19.0-arm64.deb
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/mailspring-1.19.0-arm64.deb
+- name: Mailspring-1.19.0-full.nupkg
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/Mailspring-1.19.0-full.nupkg
+- name: Mailspring-AppleSilicon.zip
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/Mailspring-AppleSilicon.zip
+- name: Mailspring.zip
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/Mailspring.zip
+- name: MailspringSetup.exe
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/MailspringSetup.exe
+- name: RELEASES
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.19.0/RELEASES
+electron: 39.2.7
+method: src-package-lock
+aur:
+- mailspring-bin
+- mailspring-git
+homebrew: mailspring

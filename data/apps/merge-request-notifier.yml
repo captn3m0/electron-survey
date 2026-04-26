@@ -1,0 +1,28 @@
+id: merge-request-notifier
+repository: https://github.com/codecentric/merge-request-notifier
+website: https://github.com/codecentric/merge-request-notifier
+latest: v1.9.0
+src: https://github.com/codecentric/merge-request-notifier/archive/refs/tags/v1.9.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/latest-mac.yml
+- name: Merge-Request-Notifier-1.9.0-mac.zip
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/Merge-Request-Notifier-1.9.0-mac.zip
+- name: Merge-Request-Notifier-1.9.0.dmg
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/Merge-Request-Notifier-1.9.0.dmg
+- name: Merge-Request-Notifier-1.9.0.dmg.blockmap
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/Merge-Request-Notifier-1.9.0.dmg.blockmap
+- name: merge-request-notifier-1.9.0.freebsd
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/merge-request-notifier-1.9.0.freebsd
+- name: merge-request-notifier-1.9.0.pacman
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/merge-request-notifier-1.9.0.pacman
+- name: merge-request-notifier-1.9.0.tar.xz
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/merge-request-notifier-1.9.0.tar.xz
+- name: merge-request-notifier_1.9.0_amd64.deb
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/merge-request-notifier_1.9.0_amd64.deb
+- name: merge-request-notifier_1.9.0_amd64.snap
+  url: https://github.com/codecentric/merge-request-notifier/releases/download/v1.9.0/merge-request-notifier_1.9.0_amd64.snap
+electron: 7.3.3
+method: src-yarn-lock
+aur:
+- merge-request-notifier

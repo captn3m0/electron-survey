@@ -1,0 +1,15 @@
+id: pencil
+repository: https://github.com/evolus/pencil
+website: https://pencil.evolus.vn/
+latest: v3.1.1
+src: https://github.com/evolus/pencil/archive/refs/tags/v3.1.1.zip
+electron: 16.0.0
+method: src-package-lock
+aur:
+- pencil-bin
+- pencil-git
+homebrew: pencil
+downloads:
+- url: https://pencil.evolus.vn/dl/V3.1.1.ga/Pencil-3.1.1.ga-universal.dmg
+  name: Pencil-3.1.1.ga-universal.dmg
+  version: 3.1.1

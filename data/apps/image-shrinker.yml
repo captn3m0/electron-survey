@@ -1,0 +1,16 @@
+id: image-shrinker
+repository: https://github.com/stefansl/image-shrinker
+website: https://image-shrinker.com
+latest: v1.6.4
+src: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip
+downloads:
+- name: Image-Shrinker-1.6.4-mac.zip
+  url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/Image-Shrinker-1.6.4-mac.zip
+- name: Image-Shrinker-1.6.4.dmg
+  url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/Image-Shrinker-1.6.4.dmg
+- name: Image-Shrinker-1.6.4.dmg.blockmap
+  url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/Image-Shrinker-1.6.4.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/latest-mac.yml
+electron: 10.4.7
+method: src-range-guess

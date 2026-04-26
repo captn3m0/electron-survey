@@ -1,0 +1,63 @@
+id: opencomic
+repository: https://github.com/ollm/OpenComic
+website: https://github.com/ollm/OpenComic
+latest: v1.6.5
+src: https://github.com/ollm/OpenComic/archive/refs/tags/v1.6.5.zip
+downloads:
+- name: OpenComic-1.6.5-aarch64.flatpak
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-aarch64.flatpak
+- name: OpenComic-1.6.5-arm64-mac.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-arm64-mac.7z
+- name: opencomic-1.6.5-arm64.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-1.6.5-arm64.7z
+- name: OpenComic-1.6.5-arm64.AppImage
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-arm64.AppImage
+- name: OpenComic-1.6.5-arm64.dmg
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-arm64.dmg
+- name: OpenComic-1.6.5-arm64.pkg
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-arm64.pkg
+- name: opencomic-1.6.5-arm64.tar.gz
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-1.6.5-arm64.tar.gz
+- name: OpenComic-1.6.5-mac.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-mac.7z
+- name: OpenComic-1.6.5-x86_64.flatpak
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5-x86_64.flatpak
+- name: opencomic-1.6.5.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-1.6.5.7z
+- name: opencomic-1.6.5.aarch64.rpm
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-1.6.5.aarch64.rpm
+- name: OpenComic-1.6.5.AppImage
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5.AppImage
+- name: OpenComic-1.6.5.dmg
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5.dmg
+- name: OpenComic-1.6.5.pkg
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-1.6.5.pkg
+- name: opencomic-1.6.5.tar.gz
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-1.6.5.tar.gz
+- name: opencomic-1.6.5.x86_64.rpm
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-1.6.5.x86_64.rpm
+- name: OpenComic-Folder-Portable-1.6.5.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic-Folder-Portable-1.6.5.7z
+- name: opencomic-folder-portable-linux-1.6.5-arm64.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-folder-portable-linux-1.6.5-arm64.7z
+- name: opencomic-folder-portable-linux-1.6.5.7z
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic-folder-portable-linux-1.6.5.7z
+- name: OpenComic.Folder.Portable.1.6.5.exe
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic.Folder.Portable.1.6.5.exe
+- name: OpenComic.Portable.1.6.5.exe
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic.Portable.1.6.5.exe
+- name: OpenComic.Setup.1.6.5.arm64.exe
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic.Setup.1.6.5.arm64.exe
+- name: OpenComic.Setup.1.6.5.exe
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/OpenComic.Setup.1.6.5.exe
+- name: opencomic_1.6.5_amd64.deb
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic_1.6.5_amd64.deb
+- name: opencomic_1.6.5_amd64.snap
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic_1.6.5_amd64.snap
+- name: opencomic_1.6.5_arm64.deb
+  url: https://github.com/ollm/OpenComic/releases/download/v1.6.5/opencomic_1.6.5_arm64.deb
+electron: 37.8.0
+method: src-package-lock
+aur:
+- opencomic
+homebrew: opencomic

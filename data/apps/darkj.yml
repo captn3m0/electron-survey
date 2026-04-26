@@ -1,0 +1,20 @@
+id: darkj
+website: https://github.com/Yamazaki93/DarkJ-Release
+repository: https://github.com/Yamazaki93/DarkJ-Release
+latest: v0.1.1
+src: https://github.com/Yamazaki93/DarkJ-Release/archive/refs/tags/v0.1.1.zip
+downloads:
+- name: DarkJ-0.1.1-mac.zip
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/DarkJ-0.1.1-mac.zip
+- name: DarkJ-0.1.1.dmg
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/DarkJ-0.1.1.dmg
+- name: DarkJ-0.1.1.dmg.blockmap
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/DarkJ-0.1.1.dmg.blockmap
+- name: darkj-setup-0.1.1.exe
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/darkj-setup-0.1.1.exe
+- name: darkj-setup-0.1.1.exe.blockmap
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/darkj-setup-0.1.1.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/latest.yml

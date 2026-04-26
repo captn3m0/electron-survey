@@ -1,0 +1,18 @@
+id: discord
+website: https://discord.com/
+aur:
+- discord-development
+- discord-electron-openasar
+- discord-electron-openasar-git
+- discord-game-sdk
+- discord-latest-bin
+- discordmessenger-mingw
+- discordmessenger-msvc
+- discord_arch_electron
+- spacebar-client-git
+- spacebar-git
+homebrew: discord
+downloads:
+- url: https://dl.discordapp.net/apps/osx/0.0.382/Discord.dmg
+  name: Discord.dmg
+  version: 0.0.382

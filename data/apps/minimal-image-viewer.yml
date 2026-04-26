@@ -1,0 +1,16 @@
+id: minimal-image-viewer
+repository: https://github.com/hayhaydz/MIV
+website: https://github.com/hayhaydz/MIV
+latest: v1.0.0
+src: https://github.com/hayhaydz/MIV/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Minimal-Image-Viewer-1.0.0.exe
+  url: https://github.com/hayhaydz/MIV/releases/download/v1.0.0/Minimal-Image-Viewer-1.0.0.exe
+- name: Minimal-Image-Viewer-1.0.0.zip
+  url: https://github.com/hayhaydz/MIV/releases/download/v1.0.0/Minimal-Image-Viewer-1.0.0.zip
+- name: SOURCE_CODE.tar.gz
+  url: https://github.com/hayhaydz/MIV/releases/download/v1.0.0/SOURCE_CODE.tar.gz
+- name: SOURCE_CODE.zip
+  url: https://github.com/hayhaydz/MIV/releases/download/v1.0.0/SOURCE_CODE.zip
+electron: 13.1.4
+method: src-yarn-lock

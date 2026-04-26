@@ -1,0 +1,5 @@
+id: oomol-studio
+website: https://oomol.com/
+download_urls:
+- https://update.oomol.com/latest/darwin-arm64/stable
+- https://update.oomol.com/latest/win32-x64-user/stable

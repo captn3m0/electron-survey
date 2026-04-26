@@ -1,0 +1,31 @@
+id: switchhosts
+repository: https://github.com/oldj/SwitchHosts
+website: https://swh.app
+latest: v4.2.0
+src: https://github.com/oldj/SwitchHosts/archive/refs/tags/v4.2.0.zip
+downloads:
+- name: SwitchHosts-4.2.0-universal-mac.zip
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts-4.2.0-universal-mac.zip
+- name: SwitchHosts-4.2.0-win.zip
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts-4.2.0-win.zip
+- name: SwitchHosts_linux_amd64_4.2.0.6119.deb
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_linux_amd64_4.2.0.6119.deb
+- name: SwitchHosts_linux_arm64_4.2.0.6119.deb
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_linux_arm64_4.2.0.6119.deb
+- name: SwitchHosts_mac_arm64_4.2.0.6119.dmg
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_mac_arm64_4.2.0.6119.dmg
+- name: SwitchHosts_mac_x64_4.2.0.6119.dmg
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_mac_x64_4.2.0.6119.dmg
+- name: SwitchHosts_windows_installer_arm64_4.2.0.6119.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_arm64_4.2.0.6119.exe
+- name: SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
+- name: SwitchHosts_windows_installer_x64_4.2.0.6119.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_x64_4.2.0.6119.exe
+- name: SwitchHosts_windows_portable_x64_4.2.0.6119.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_portable_x64_4.2.0.6119.exe
+electron: 30.1.2
+method: src-package-lock
+aur:
+- switchhosts-bin
+homebrew: switchhosts

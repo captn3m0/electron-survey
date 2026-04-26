@@ -1,0 +1,14 @@
+id: dn-tool-container
+repository: https://github.com/como65416/DnToolContainer
+website: https://github.com/como65416/DnToolContainer
+latest: 1.5.1
+src: https://github.com/como65416/DnToolContainer/archive/refs/tags/1.5.1.zip
+downloads:
+- name: DN-Tool-Container-darwin-x64.zip
+  url: https://github.com/como65416/DnToolContainer/releases/download/1.5.1/DN-Tool-Container-darwin-x64.zip
+- name: DN-Tool-Container-linux-x64.zip
+  url: https://github.com/como65416/DnToolContainer/releases/download/1.5.1/DN-Tool-Container-linux-x64.zip
+- name: DN-Tool-Container-win32-x64.zip
+  url: https://github.com/como65416/DnToolContainer/releases/download/1.5.1/DN-Tool-Container-win32-x64.zip
+electron: 8.4.1
+method: src-package-lock

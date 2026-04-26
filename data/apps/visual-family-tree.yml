@@ -1,0 +1,26 @@
+id: visual-family-tree
+repository: https://github.com/Jisco/VisualFamilyTree
+website: https://jisco.me/VisualFamilyTree
+latest: v1.4.0
+src: https://github.com/Jisco/VisualFamilyTree/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: VisualFamilyTree.1.4.0.AppImage
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.AppImage
+- name: VisualFamilyTree.1.4.0.deb
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.deb
+- name: VisualFamilyTree.1.4.0.exe
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.exe
+- name: VisualFamilyTree.1.4.0.pkg
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.pkg
+- name: VisualFamilyTree.1.4.0.portable-ia32.exe
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.portable-ia32.exe
+- name: VisualFamilyTree.1.4.0.portable.exe
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.portable.exe
+- name: VisualFamilyTree.1.4.0.snap
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.snap
+- name: VisualFamilyTree.1.4.0.zip
+  url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.zip
+aur:
+- visualfamilytree-bin
+electron: 4.2.12
+method: aur-depends

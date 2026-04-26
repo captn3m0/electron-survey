@@ -1,0 +1,13 @@
+id: image-optimizer
+repository: https://github.com/antonreshetov/image-optimizer
+latest: v1.4.0
+src: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: Image.Optimizer-1.4.0-arm64.dmg
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v1.4.0/Image.Optimizer-1.4.0-arm64.dmg
+- name: Image.Optimizer-1.4.0.dmg
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v1.4.0/Image.Optimizer-1.4.0.dmg
+electron: 16.0.6
+method: src-package-lock
+aur:
+- image-optimizer

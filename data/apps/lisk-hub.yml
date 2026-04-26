@@ -1,0 +1,46 @@
+id: lisk-hub
+repository: https://github.com/LiskHQ/lisk-hub
+website: https://lisk.com
+latest: v4.0.0
+src: https://github.com/LiskHQ/lisk-hub/archive/refs/tags/v4.0.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/latest.yml
+- name: lisk-linux-x86_64-4.0.0.AppImage
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-linux-x86_64-4.0.0.AppImage
+- name: lisk-mac-arm64-4.0.0.dmg
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-arm64-4.0.0.dmg
+- name: lisk-mac-arm64-4.0.0.dmg.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-arm64-4.0.0.dmg.blockmap
+- name: lisk-mac-arm64-4.0.0.zip
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-arm64-4.0.0.zip
+- name: lisk-mac-arm64-4.0.0.zip.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-arm64-4.0.0.zip.blockmap
+- name: lisk-mac-x64-4.0.0.dmg
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-x64-4.0.0.dmg
+- name: lisk-mac-x64-4.0.0.dmg.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-x64-4.0.0.dmg.blockmap
+- name: lisk-mac-x64-4.0.0.zip
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-x64-4.0.0.zip
+- name: lisk-mac-x64-4.0.0.zip.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-mac-x64-4.0.0.zip.blockmap
+- name: lisk-win-4.0.0.exe
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-win-4.0.0.exe
+- name: lisk-win-4.0.0.exe.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-win-4.0.0.exe.blockmap
+- name: lisk-win-ia32-4.0.0.exe
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-win-ia32-4.0.0.exe
+- name: lisk-win-ia32-4.0.0.exe.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-win-ia32-4.0.0.exe.blockmap
+- name: lisk-win-x64-4.0.0.exe
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-win-x64-4.0.0.exe
+- name: lisk-win-x64-4.0.0.exe.blockmap
+  url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-win-x64-4.0.0.exe.blockmap
+electron: 29.3.0
+method: src-yarn-lock
+aur:
+- lisk-desktop-bin

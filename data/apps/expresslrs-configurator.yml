@@ -1,0 +1,32 @@
+id: expresslrs-configurator
+repository: https://github.com/ExpressLRS/ExpressLRS-Configurator
+website: https://github.com/ExpressLRS/ExpressLRS-Configurator
+latest: v1.7.11
+src: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.7.11.zip
+downloads:
+- name: ExpressLRS-Configurator-1.7.11.dmg
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/ExpressLRS-Configurator-1.7.11.dmg
+- name: ExpressLRS-Configurator-1.7.11.dmg.blockmap
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/ExpressLRS-Configurator-1.7.11.dmg.blockmap
+- name: expresslrs-configurator-1.7.11.pacman
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/expresslrs-configurator-1.7.11.pacman
+- name: expresslrs-configurator-1.7.11.x86_64.rpm
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/expresslrs-configurator-1.7.11.x86_64.rpm
+- name: expresslrs-configurator-1.7.11.zip
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/expresslrs-configurator-1.7.11.zip
+- name: ExpressLRS-Configurator-Setup-1.7.11.exe
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/ExpressLRS-Configurator-Setup-1.7.11.exe
+- name: ExpressLRS-Configurator-Setup-1.7.11.exe.blockmap
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/ExpressLRS-Configurator-Setup-1.7.11.exe.blockmap
+- name: expresslrs-configurator_1.7.11_amd64.deb
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/expresslrs-configurator_1.7.11_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.7.11/latest.yml
+electron: 27.3.11
+method: src-yarn-lock
+aur:
+- expresslrs-configurator

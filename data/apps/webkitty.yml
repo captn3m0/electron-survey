@@ -1,0 +1,14 @@
+id: webkitty
+repository: https://github.com/yikuansun/webkitty
+website: https://yikuansun.github.io/dartfling/product.html?pid=3
+latest: v3.2.1
+src: https://github.com/yikuansun/webkitty/archive/refs/tags/v3.2.1.zip
+downloads:
+- name: WebKitty-3.2.1-mac.zip
+  url: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty-3.2.1-mac.zip
+- name: WebKitty-3.2.1.AppImage
+  url: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty-3.2.1.AppImage
+- name: WebKitty.Setup.3.2.1.exe
+  url: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty.Setup.3.2.1.exe
+electron: 17.4.11
+method: src-range-guess

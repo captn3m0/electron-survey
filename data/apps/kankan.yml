@@ -1,0 +1,9 @@
+id: kankan
+repository: https://github.com/newham/kankan
+latest: v0.4.0
+src: https://github.com/newham/kankan/archive/refs/tags/v0.4.0.zip
+downloads:
+- name: kankan-0.4.0.dmg.zip
+  url: https://github.com/newham/kankan/releases/download/v0.4.0/kankan-0.4.0.dmg.zip
+electron: 8.5.5
+method: src-range-guess

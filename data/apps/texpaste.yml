@@ -1,0 +1,37 @@
+id: texpaste
+repository: https://github.com/jonasmusall/texpaste
+website: https://github.com/jonasmusall/texpaste#readme
+latest: v1.2.0
+src: https://github.com/jonasmusall/texpaste/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/latest-linux.yml
+  checksum: MZ5XDMICzamxZdcAusTdHzoyoTRUh1Cdl1gKCQQeYkaqMOpvnko0Th2w/0WSs/ZeETePmSfRP4smV+ad6uiaHw==
+- name: latest.yml
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/latest.yml
+  checksum: +xZ4cp70QWcApXRER1cvedVOV+nJfBdWVmHX91dA3bvEEngVS60crXHV1fmKrXtzr5ae7naBWgg1wTFNamtniw==
+- name: SHA512CHECKSUMS.txt
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/SHA512CHECKSUMS.txt
+- name: texpaste_1.2.0_linux.AppImage
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_linux.AppImage
+  checksum: RhdUuIcu78zP4fcYg1j36lsA/8tAx1+0Kf+9AwvcF9Br3EKzLKoqVwu6Q/ewblTlIqPXAKK253qkDiLHdJcEYQ==
+- name: texpaste_1.2.0_linux.deb
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_linux.deb
+  checksum: wL3heSeSPua7/5LayvOtyfDJ1ZZMPQ1ax1/RG/Z37y0zY6w7NtT7pfduxksbp4Ypm6rARsYV+BAENleI3NYBEw==
+- name: texpaste_1.2.0_linux.tar.gz
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_linux.tar.gz
+  checksum: o2uEPapOkxgpTmW1f2gUSks3bXI+51JmJgmmJh8RClgRHBsgs98eEvHzLlYYbzWyT4hDRdUnyMRs1YTJf5wiMw==
+- name: texpaste_1.2.0_win.zip
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_win.zip
+  checksum: L9MeCVVXj/aNjLPVTnFGiAXvbVgqsiGZnbvTFSZ5/G8wRtObn0uNzVCSRXv2rRdM4x6zvrs3lfj2QORMqmjZyA==
+- name: texpaste_1.2.0_win_portable.exe
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_win_portable.exe
+  checksum: VddkTDcSedAL7OkrRbERFKzf4LvOFpAWx+kzKbAdn3/dieAJS4YmTs7X9KtCe0WmnTEE8IUXjjDbnE5NoW526A==
+- name: texpaste_1.2.0_win_setup.exe
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_win_setup.exe
+  checksum: D+S6Y/zFHeMiShuDMckYOAZghoBRGsSwxKgi2CQpMC54rXdP0VETJbMjWMnLVTSyLsOr48iFPTGYC+b173WY/w==
+- name: texpaste_1.2.0_win_setup.exe.blockmap
+  url: https://github.com/jonasmusall/texpaste/releases/download/v1.2.0/texpaste_1.2.0_win_setup.exe.blockmap
+  checksum: 6Y7Ep287cKw2ei0lFpwEZZmBwZBhFsidvj7869bSqIWY2kDutjUZNecdvZ8/BuqnDDzy5EJ0AoTAcC4n3Ka+yA==
+electron: 17.0.0
+method: src-package-lock

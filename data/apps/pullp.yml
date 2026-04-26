@@ -1,0 +1,20 @@
+id: pullp
+repository: https://github.com/rkclark/pullp
+website: https://github.com/rkclark/pullp
+latest: v4.0.2
+src: https://github.com/rkclark/pullp/archive/refs/tags/v4.0.2.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/rkclark/pullp/releases/download/v4.0.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/rkclark/pullp/releases/download/v4.0.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/rkclark/pullp/releases/download/v4.0.2/latest.yml
+- name: Pullp-4.0.2.AppImage
+  url: https://github.com/rkclark/pullp/releases/download/v4.0.2/Pullp-4.0.2.AppImage
+- name: Pullp-4.0.2.dmg
+  url: https://github.com/rkclark/pullp/releases/download/v4.0.2/Pullp-4.0.2.dmg
+- name: Pullp-Setup-4.0.2.exe
+  url: https://github.com/rkclark/pullp/releases/download/v4.0.2/Pullp-Setup-4.0.2.exe
+electron: 14.0.1
+method: src-package-lock

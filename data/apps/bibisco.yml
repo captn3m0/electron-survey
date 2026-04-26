@@ -1,0 +1,10 @@
+id: bibisco
+repository: https://github.com/andreafeccomandi/bibisco/
+website: https://bibisco.com/
+latest: v2.2.0
+src: https://github.com/andreafeccomandi/bibisco/archive/refs/tags/v2.2.0.zip
+electron: 4.2.12
+method: src-package-lock
+aur:
+- bibisco
+- bibisco-ce

@@ -1,0 +1,38 @@
+id: logsnag
+repository: https://github.com/LogSnag/LogSnag
+website: https://logsnag.com
+latest: v1.8.0
+src: https://github.com/LogSnag/LogSnag/archive/refs/tags/v1.8.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/latest.yml
+- name: LogSnag-1.8.0-arm64-mac.zip
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0-arm64-mac.zip
+- name: LogSnag-1.8.0-arm64-mac.zip.blockmap
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0-arm64-mac.zip.blockmap
+- name: LogSnag-1.8.0-arm64.dmg
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0-arm64.dmg
+- name: LogSnag-1.8.0-arm64.dmg.blockmap
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0-arm64.dmg.blockmap
+- name: LogSnag-1.8.0-mac.zip
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0-mac.zip
+- name: LogSnag-1.8.0-mac.zip.blockmap
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0-mac.zip.blockmap
+- name: LogSnag-1.8.0.AppImage
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0.AppImage
+- name: LogSnag-1.8.0.dmg
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0.dmg
+- name: LogSnag-1.8.0.dmg.blockmap
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0.dmg.blockmap
+- name: LogSnag-1.8.0.exe
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-1.8.0.exe
+- name: LogSnag-Setup-1.8.0.exe
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-Setup-1.8.0.exe
+- name: LogSnag-Setup-1.8.0.exe.blockmap
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-Setup-1.8.0.exe.blockmap
+- name: logsnag_1.8.0_amd64.deb
+  url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/logsnag_1.8.0_amd64.deb

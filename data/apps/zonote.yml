@@ -1,0 +1,14 @@
+id: zonote
+repository: https://github.com/zonetti/zonote
+website: https://github.com/zonetti/zonote
+latest: v0.4.4
+src: https://github.com/zonetti/zonote/archive/refs/tags/v0.4.4.zip
+downloads:
+- name: zonote-linux.zip
+  url: https://github.com/zonetti/zonote/releases/download/v0.4.4/zonote-linux.zip
+- name: zonote-mac.zip
+  url: https://github.com/zonetti/zonote/releases/download/v0.4.4/zonote-mac.zip
+- name: zonote-win.zip
+  url: https://github.com/zonetti/zonote/releases/download/v0.4.4/zonote-win.zip
+electron: 9.4.4
+method: src-package-lock

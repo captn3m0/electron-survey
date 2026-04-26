@@ -1,0 +1,15 @@
+id: postman
+website: https://www.getpostman.com/
+aur:
+- postman-bin
+- postman-bin-zh
+- postman-electron-bin
+- postman-live-bin
+- postman9-bin
+electron: 28.3.3
+method: aur-depends
+homebrew: postman
+downloads:
+- url: https://dl.pstmn.io/download/version/12.3.2/osx_arm64
+  name: osx_arm64
+  version: 12.3.2

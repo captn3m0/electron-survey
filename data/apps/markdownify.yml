@@ -1,0 +1,7 @@
+id: markdownify
+repository: https://github.com/amitmerchant1990/electron-markdownify
+website: https://markdownify.js.org
+latest: 1.4.1
+src: https://github.com/amitmerchant1990/electron-markdownify/archive/refs/tags/1.4.1.zip
+electron: 7.3.3
+method: src-range-guess

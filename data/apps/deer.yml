@@ -1,0 +1,20 @@
+id: deer
+repository: https://github.com/abahmed/Deer
+website: https://github.com/abahmed/Deer
+latest: v1.0.0
+src: https://github.com/abahmed/Deer/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Deer-linux-amd64.deb
+  url: https://github.com/abahmed/Deer/releases/download/v1.0.0/Deer-linux-amd64.deb
+- name: Deer-linux-x64.zip
+  url: https://github.com/abahmed/Deer/releases/download/v1.0.0/Deer-linux-x64.zip
+- name: Deer-linux-x86_64.rpm
+  url: https://github.com/abahmed/Deer/releases/download/v1.0.0/Deer-linux-x86_64.rpm
+- name: Deer-mac.dmg
+  url: https://github.com/abahmed/Deer/releases/download/v1.0.0/Deer-mac.dmg
+- name: Deer-win.exe
+  url: https://github.com/abahmed/Deer/releases/download/v1.0.0/Deer-win.exe
+electron: 4.1.0
+method: src-package-lock
+aur:
+- deer

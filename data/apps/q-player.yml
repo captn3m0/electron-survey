@@ -1,0 +1,20 @@
+id: q-player
+repository: https://github.com/Toooorch/q-player/
+website: http://www.q-player.com
+latest: 1.1.0
+src: https://github.com/Toooorch/q-player/archive/refs/tags/1.1.0.zip
+downloads:
+- name: Q-Player-1.1.0.AppImage
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/Q-Player-1.1.0.AppImage
+- name: Q-Player-1.1.0.dmg
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/Q-Player-1.1.0.dmg
+- name: q-player-1.1.0.x86_64.rpm
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player-1.1.0.x86_64.rpm
+- name: Q-Player.1.1.0.exe
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/Q-Player.1.1.0.exe
+- name: Q-Player.Setup.1.1.0.exe
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/Q-Player.Setup.1.1.0.exe
+- name: q-player_1.1.0_amd64.deb
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player_1.1.0_amd64.deb
+- name: q-player_1.1.0_amd64.snap
+  url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player_1.1.0_amd64.snap

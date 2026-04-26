@@ -1,0 +1,16 @@
+id: geniemoji
+repository: https://github.com/virejdasani/Geniemoji
+website: https://virejdasani.github.io/Geniemoji/
+latest: v6.0.0
+src: https://github.com/virejdasani/Geniemoji/archive/refs/tags/v6.0.0.zip
+downloads:
+- name: Geniemoji-Linux.zip
+  url: https://github.com/virejdasani/Geniemoji/releases/download/v6.0.0/Geniemoji-Linux.zip
+- name: Geniemoji-MacOS.zip
+  url: https://github.com/virejdasani/Geniemoji/releases/download/v6.0.0/Geniemoji-MacOS.zip
+- name: Geniemoji-Windows-PortableVersion.zip
+  url: https://github.com/virejdasani/Geniemoji/releases/download/v6.0.0/Geniemoji-Windows-PortableVersion.zip
+- name: Geniemoji-Windows.zip
+  url: https://github.com/virejdasani/Geniemoji/releases/download/v6.0.0/Geniemoji-Windows.zip
+electron: 12.0.15
+method: src-package-lock

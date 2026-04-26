@@ -1,0 +1,24 @@
+id: i5sing
+repository: https://github.com/i5sing/i5SING
+website: https://github.com/i5sing/i5SING
+latest: v0.3.0
+src: https://github.com/i5sing/i5SING/archive/refs/tags/v0.3.0.zip
+downloads:
+- name: i5sing-0.3.0-1.x86_64.rpm
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/i5sing-0.3.0-1.x86_64.rpm
+- name: i5sing-0.3.0-full.nupkg
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/i5sing-0.3.0-full.nupkg
+- name: i5sing-0.3.0.dmg
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/i5sing-0.3.0.dmg
+- name: i5sing-0.3.0.Setup.exe
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/i5sing-0.3.0.Setup.exe
+- name: i5sing-darwin-x64-0.3.0.zip
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/i5sing-darwin-x64-0.3.0.zip
+- name: i5sing_0.3.0_amd64.deb
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/i5sing_0.3.0_amd64.deb
+- name: RELEASES
+  url: https://github.com/i5sing/i5SING/releases/download/v0.3.0/RELEASES
+electron: 9.1.1
+method: src-yarn-lock
+aur:
+- i5sing

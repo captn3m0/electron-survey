@@ -1,0 +1,14 @@
+id: slack
+website: https://slack.com
+aur:
+- slack-cli
+- slack-desktop
+- slack-desktop-wayland
+- slack-electron
+electron: 39.8.3
+method: aur-depends
+homebrew: slack
+downloads:
+- url: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.48.102/Slack-4.48.102-macOS.dmg
+  name: Slack-4.48.102-macOS.dmg
+  version: 4.48.102

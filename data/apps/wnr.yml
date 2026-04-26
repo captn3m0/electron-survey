@@ -1,0 +1,24 @@
+id: wnr
+repository: https://github.com/RoderickQiu/wnr
+website: https://getwnr.com/
+latest: v1.32.0
+src: https://github.com/RoderickQiu/wnr/archive/refs/tags/v1.32.0.zip
+downloads:
+- name: wnr-1.32.0-Linux.AppImage
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Linux.AppImage
+- name: wnr-1.32.0-MacOS-arm64.dmg
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-MacOS-arm64.dmg
+- name: wnr-1.32.0-MacOS-x64.dmg
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-MacOS-x64.dmg
+- name: wnr-1.32.0-Setup-arm64.exe
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Setup-arm64.exe
+- name: wnr-1.32.0-Setup-x64.exe
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Setup-x64.exe
+- name: wnr-1.32.0-Win-arm64.7z
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Win-arm64.7z
+- name: wnr-1.32.0-Win-x64.7z
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Win-x64.7z
+electron: 22.3.27
+method: src-yarn-lock
+aur:
+- wnr-bin

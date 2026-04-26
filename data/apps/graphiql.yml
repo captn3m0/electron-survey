@@ -1,0 +1,23 @@
+id: graphiql
+website: https://github.com/skevy/graphiql-app
+homebrew: graphiql
+downloads:
+- name: GraphiQL-0.7.2.dmg
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/GraphiQL-0.7.2.dmg
+- name: graphiql-app-0.7.2-mac.zip
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/graphiql-app-0.7.2-mac.zip
+- name: graphiql-app-0.7.2-x86_64.AppImage
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/graphiql-app-0.7.2-x86_64.AppImage
+- name: graphiql-app-setup-0.7.2.exe
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/graphiql-app-setup-0.7.2.exe
+- name: latest-linux.yml
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/latest-linux.yml
+- name: latest-mac.json
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/latest-mac.json
+- name: latest-mac.yml
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/latest.yml
+repository: https://github.com/skevy/graphiql-app
+latest: v0.7.2
+src: https://github.com/skevy/graphiql-app/archive/refs/tags/v0.7.2.zip

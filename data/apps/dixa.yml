@@ -1,0 +1,27 @@
+id: dixa
+repository: https://github.com/dixahq/dixa-desktop-app-release
+website: https://dixa.com
+latest: v4.0.12
+src: https://github.com/dixahq/dixa-desktop-app-release/archive/refs/tags/v4.0.12.zip
+downloads:
+- name: dixa-4.0.12.dmg
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-4.0.12.dmg
+- name: dixa-4.0.12.dmg.blockmap
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-4.0.12.dmg.blockmap
+- name: dixa-4.0.12.zip
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-4.0.12.zip
+- name: dixa-4.0.12.zip.blockmap
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-4.0.12.zip.blockmap
+- name: dixa-setup-4.0.12.exe
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-setup-4.0.12.exe
+- name: dixa-setup-4.0.12.exe.blockmap
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-setup-4.0.12.exe.blockmap
+- name: dixa-setup-4.0.12.msi
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-setup-4.0.12.msi
+- name: dixa-standalone-4.0.12.msi
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-standalone-4.0.12.msi
+- name: latest-mac.yml
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/latest.yml
+homebrew: dixa

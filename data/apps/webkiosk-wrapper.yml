@@ -1,0 +1,22 @@
+id: webkiosk-wrapper
+website: https://github.com/ngudbhav/Webkiosk-Wrapper
+repository: https://github.com/ngudbhav/Webkiosk-Wrapper
+latest: v1.1.3
+src: https://github.com/ngudbhav/Webkiosk-Wrapper/archive/refs/tags/v1.1.3.zip
+downloads:
+- name: Compressed-MAC.tar.xz
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Compressed-MAC.tar.xz
+- name: Portable-x64.exe
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Portable-x64.exe
+- name: Portable-x86.exe
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Portable-x86.exe
+- name: Setup-x64.exe
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Setup-x64.exe
+- name: Setup-x86.exe
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Setup-x86.exe
+- name: Setup.deb
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Setup.deb
+- name: Setup.rpm
+  url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Setup.rpm
+electron: 5.0.2
+method: src-package-lock

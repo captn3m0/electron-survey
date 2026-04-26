@@ -1,0 +1,16 @@
+id: dict
+repository: https://github.com/bryht/Dict
+website: https://goo.gl/tVdhAB
+latest: v0.7.6
+src: https://github.com/bryht/Dict/archive/refs/tags/v0.7.6.zip
+downloads:
+- name: Dian_Setup_win_x64.exe
+  url: https://github.com/bryht/dian/releases/download/v0.7.6/Dian_Setup_win_x64.exe
+- name: Dian_Setup_win_x64.exe.blockmap
+  url: https://github.com/bryht/dian/releases/download/v0.7.6/Dian_Setup_win_x64.exe.blockmap
+- name: latest.yml
+  url: https://github.com/bryht/dian/releases/download/v0.7.6/latest.yml
+electron: 33.4.11
+method: src-package-lock
+aur:
+- pairing_tool

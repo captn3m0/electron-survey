@@ -1,0 +1,28 @@
+id: glyphr-studio
+repository: https://github.com/glyphr-studio/Glyphr-Studio-Desktop
+website: https://github.com/glyphr-studio/Glyphr-Studio-Desktop
+latest: v0.6.0
+src: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/archive/refs/tags/v0.6.0.zip
+downloads:
+- name: glyphr-studio-desktop_0.6.0_amd64.deb
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/glyphr-studio-desktop_0.6.0_amd64.deb
+- name: glyphr-studio-desktop_0.6.0_amd64.snap
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/glyphr-studio-desktop_0.6.0_amd64.snap
+- name: glyphr-studio-desktop_0.6.0_arm64.deb
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/glyphr-studio-desktop_0.6.0_arm64.deb
+- name: glyphr-studio-desktop_0.6.0_arm64.snap
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/glyphr-studio-desktop_0.6.0_arm64.snap
+- name: Glyphr.Studio-0.6.0-arm64.AppImage
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio-0.6.0-arm64.AppImage
+- name: Glyphr.Studio-0.6.0-arm64.dmg
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio-0.6.0-arm64.dmg
+- name: Glyphr.Studio-0.6.0.AppImage
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio-0.6.0.AppImage
+- name: Glyphr.Studio-0.6.0.dmg
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio-0.6.0.dmg
+- name: Glyphr.Studio.Setup.0.6.0-arm64.exe
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio.Setup.0.6.0-arm64.exe
+- name: Glyphr.Studio.Setup.0.6.0-x64.exe
+  url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio.Setup.0.6.0-x64.exe
+electron: 28.2.1
+method: src-package-lock

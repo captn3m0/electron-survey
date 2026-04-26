@@ -1,0 +1,6 @@
+id: caption-pro
+website: https://caption-pro.com/
+download_urls:
+- https://caption-pro-releases.s3-eu-west-1.amazonaws.com/Caption-Pro-9.0.3.exe
+- https://caption-pro-releases.s3-eu-west-1.amazonaws.com/Caption-Pro-arm64-9.0.3.dmg
+- https://caption-pro-releases.s3-eu-west-1.amazonaws.com/Caption-Pro-x64-9.0.3.dmg

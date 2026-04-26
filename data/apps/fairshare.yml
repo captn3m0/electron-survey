@@ -1,0 +1,30 @@
+id: fairshare
+repository: https://github.com/fairdataihub/FAIRshare
+website: https://fairdataihub.org/fairshare
+latest: v2.1.0
+src: https://github.com/fairdataihub/FAIRshare/archive/refs/tags/v2.1.0.zip
+downloads:
+- name: FAIRshare-2.1.0-mac.zip
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-2.1.0-mac.zip
+- name: FAIRshare-2.1.0-mac.zip.blockmap
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-2.1.0-mac.zip.blockmap
+- name: FAIRshare-2.1.0.AppImage
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-2.1.0.AppImage
+- name: FAIRshare-2.1.0.dmg
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-2.1.0.dmg
+- name: FAIRshare-2.1.0.dmg.blockmap
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-2.1.0.dmg.blockmap
+- name: FAIRshare-Setup-2.1.0.exe
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-Setup-2.1.0.exe
+- name: FAIRshare-Setup-2.1.0.exe.blockmap
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/FAIRshare-Setup-2.1.0.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/fairdataihub/FAIRshare/releases/download/v2.1.0/latest.yml
+electron: 25.2.0
+method: src-yarn-lock
+aur:
+- fairshare-bin

@@ -1,0 +1,22 @@
+id: assessment-disaggregation
+repository: https://github.com/tazzben/Assessment-Disaggregation.git
+website: https://www.assessmentdisaggregation.org/
+latest: v1.7.4
+src: https://github.com/tazzben/Assessment-Disaggregation/archive/refs/tags/v1.7.4.zip
+downloads:
+- name: Assessment_Disaggregation-darwin-arm64-1.7.4.zip
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/Assessment_Disaggregation-darwin-arm64-1.7.4.zip
+- name: Assessment_Disaggregation-darwin-x64-1.7.4.zip
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/Assessment_Disaggregation-darwin-x64-1.7.4.zip
+- name: assessment_disaggregation-win32-arm64-1.7.4-full.nupkg
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/assessment_disaggregation-win32-arm64-1.7.4-full.nupkg
+- name: Assessment_Disaggregation-win32-arm64-1.7.4.Setup.exe
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/Assessment_Disaggregation-win32-arm64-1.7.4.Setup.exe
+- name: assessment_disaggregation-win32-x64-1.7.4-full.nupkg
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/assessment_disaggregation-win32-x64-1.7.4-full.nupkg
+- name: Assessment_Disaggregation-win32-x64-1.7.4.Setup.exe
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/Assessment_Disaggregation-win32-x64-1.7.4.Setup.exe
+- name: RELEASES
+  url: https://github.com/tazzben/Assessment-Disaggregation/releases/download/v1.7.4/RELEASES
+electron: 40.0.0
+method: src-package-lock

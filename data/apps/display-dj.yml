@@ -1,0 +1,14 @@
+id: display-dj
+repository: https://github.com/synle/display-dj
+website: https://synle.github.io/display-dj/
+latest: 1.11.8
+src: https://github.com/synle/display-dj/archive/refs/tags/1.11.8.zip
+downloads:
+- name: display-dj-darwin.dmg
+  url: https://github.com/synle/display-dj/releases/download/1.11.8/display-dj-darwin.dmg
+- name: display-dj-setup.exe
+  url: https://github.com/synle/display-dj/releases/download/1.11.8/display-dj-setup.exe
+electron: 19.1.9
+method: src-range-guess
+aur:
+- sqlui-native-bin

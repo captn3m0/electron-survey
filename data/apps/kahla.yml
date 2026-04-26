@@ -1,0 +1,22 @@
+id: kahla
+repository: https://github.com/AiursoftWeb/Kahla.App
+website: https://www.kahla.app/
+latest: v4.5.0
+src: https://github.com/AiursoftWeb/Kahla.App/archive/refs/tags/v4.5.0.zip
+downloads:
+- name: Kahla-4.5.0-win.zip
+  url: https://github.com/AiursoftWeb/Kahla/releases/download/v4.5.0/Kahla-4.5.0-win.zip
+- name: Kahla-4.5.0.dmg
+  url: https://github.com/AiursoftWeb/Kahla/releases/download/v4.5.0/Kahla-4.5.0.dmg
+- name: kahla-4.5.0.tar.gz
+  url: https://github.com/AiursoftWeb/Kahla/releases/download/v4.5.0/kahla-4.5.0.tar.gz
+- name: kahla-4.5.0.x86_64.rpm
+  url: https://github.com/AiursoftWeb/Kahla/releases/download/v4.5.0/kahla-4.5.0.x86_64.rpm
+- name: Kahla.Setup.4.5.0.exe
+  url: https://github.com/AiursoftWeb/Kahla/releases/download/v4.5.0/Kahla.Setup.4.5.0.exe
+- name: kahla_4.5.0_amd64.deb
+  url: https://github.com/AiursoftWeb/Kahla/releases/download/v4.5.0/kahla_4.5.0_amd64.deb
+electron: 8.5.5
+method: src-package-lock
+aur:
+- kahla-bin

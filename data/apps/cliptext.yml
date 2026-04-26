@@ -1,0 +1,10 @@
+id: cliptext
+repository: https://github.com/aaabhilash97/cliptext
+website: https://github.com/aaabhilash97/cliptext
+latest: v2.0.2
+src: https://github.com/aaabhilash97/cliptext/archive/refs/tags/v2.0.2.zip
+downloads:
+- name: cliptext-2.0.2-mac.zip
+  url: https://github.com/aaabhilash97/cliptext-clipboard-manager/releases/download/v2.0.2/cliptext-2.0.2-mac.zip
+electron: 7.2.4
+method: src-package-lock

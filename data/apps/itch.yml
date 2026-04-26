@@ -1,0 +1,17 @@
+id: itch
+repository: https://github.com/itchio/itch
+website: https://itch.io/app
+latest: v26.9.0
+src: https://github.com/itchio/itch/archive/refs/tags/v26.9.0.zip
+downloads:
+- name: itch-v26.9.0-darwin-amd64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.9.0/itch-v26.9.0-darwin-amd64.tar.gz
+- name: itch-v26.9.0-darwin-arm64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.9.0/itch-v26.9.0-darwin-arm64.tar.gz
+- name: itch-v26.9.0-linux-amd64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.9.0/itch-v26.9.0-linux-amd64.tar.gz
+- name: itch-v26.9.0-windows-amd64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.9.0/itch-v26.9.0-windows-amd64.tar.gz
+electron: 40.4.1
+method: src-package-lock
+homebrew: itch

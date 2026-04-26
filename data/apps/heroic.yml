@@ -1,0 +1,47 @@
+id: heroic
+repository: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+website: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+latest: v2.20.1
+src: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/archive/refs/tags/v2.20.1.zip
+downloads:
+- name: Heroic-2.20.1-linux-amd64.deb
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-amd64.deb
+- name: Heroic-2.20.1-linux-x64.pacman
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-x64.pacman
+- name: Heroic-2.20.1-linux-x64.tar.xz
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-x64.tar.xz
+- name: Heroic-2.20.1-linux-x86_64.AppImage
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-x86_64.AppImage
+- name: Heroic-2.20.1-linux-x86_64.rpm
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-linux-x86_64.rpm
+- name: Heroic-2.20.1-macOS-arm64.dmg
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-arm64.dmg
+- name: Heroic-2.20.1-macOS-arm64.dmg.blockmap
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-arm64.dmg.blockmap
+- name: Heroic-2.20.1-macOS-arm64.zip
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-arm64.zip
+- name: Heroic-2.20.1-macOS-arm64.zip.blockmap
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-arm64.zip.blockmap
+- name: Heroic-2.20.1-macOS-x64.dmg
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-x64.dmg
+- name: Heroic-2.20.1-macOS-x64.dmg.blockmap
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-x64.dmg.blockmap
+- name: Heroic-2.20.1-macOS-x64.zip
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-x64.zip
+- name: Heroic-2.20.1-macOS-x64.zip.blockmap
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-macOS-x64.zip.blockmap
+- name: Heroic-2.20.1-Portable-x64.exe
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-Portable-x64.exe
+- name: Heroic-2.20.1-Setup-x64.exe
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-Setup-x64.exe
+- name: Heroic-2.20.1-Setup-x64.exe.blockmap
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/Heroic-2.20.1-Setup-x64.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.20.1/latest.yml
+electron: 23.3.13
+method: src-pnpm-lock
+homebrew: heroic

@@ -1,0 +1,10 @@
+id: paperarxiv
+repository: https://github.com/fuzihaofzh/PaperArxiv
+website: https://github.com/fuzihaofzh/PaperArxiv
+latest: v0.2.1
+src: https://github.com/fuzihaofzh/PaperArxiv/archive/refs/tags/v0.2.1.zip
+downloads:
+- name: PaperArxiv-0.2.1-arm64.dmg
+  url: https://github.com/fuzihaofzh/PaperArxiv/releases/download/v0.2.1/PaperArxiv-0.2.1-arm64.dmg
+electron: 33.4.11
+method: src-package-lock

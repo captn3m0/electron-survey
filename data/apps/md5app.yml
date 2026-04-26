@@ -1,0 +1,10 @@
+id: md5app
+repository: https://github.com/mhmdkrmabd/md5-app
+website: https://github.com/mhmdkrmabd/md5-app
+latest: v1.0.0
+src: https://github.com/mhmdkrmabd/md5-app/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: 32bit.exe
+  url: https://github.com/mhmdkrmabd/md5-app/releases/download/v1.0.0/32bit.exe
+- name: 64bit.exe
+  url: https://github.com/mhmdkrmabd/md5-app/releases/download/v1.0.0/64bit.exe

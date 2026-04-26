@@ -1,0 +1,7 @@
+id: asana
+website: https://asana.com/
+homebrew: asana
+downloads:
+- url: https://desktop-downloads.asana.com/darwin_arm64/prod/v2.6.0/Asana-darwin-arm64-2.6.0.zip
+  name: Asana-darwin-arm64-2.6.0.zip
+  version: 2.6.0

@@ -1,0 +1,34 @@
+id: lbry-desktop
+repository: https://github.com/lbryio/lbry-desktop
+website: https://lbry.com
+latest: v0.53.9
+src: https://github.com/lbryio/lbry-desktop/archive/refs/tags/v0.53.9.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/latest.yml
+- name: LBRY_0.53.9.AppImage
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.AppImage
+- name: LBRY_0.53.9.deb
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.deb
+- name: LBRY_0.53.9.dmg
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.dmg
+- name: LBRY_0.53.9.dmg.blockmap
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.dmg.blockmap
+- name: LBRY_0.53.9.exe
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.exe
+- name: LBRY_0.53.9.exe.blockmap
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.exe.blockmap
+- name: LBRY_0.53.9.zip
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.zip
+- name: LBRY_0.53.9.zip.blockmap
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.zip.blockmap
+- name: LBRY_v0.53.9_sigs.asc
+  url: https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_v0.53.9_sigs.asc
+electron: 17.2.0
+method: src-yarn-lock
+aur:
+- lbry-desktop

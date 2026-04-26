@@ -1,0 +1,25 @@
+id: electrocrud
+repository: https://github.com/garrylachman/ElectroCRUD
+website: https://garrylachman.github.io/ElectroCRUD/
+latest: v3.0.19
+src: https://github.com/garrylachman/ElectroCRUD/archive/refs/tags/v3.0.19.zip
+downloads:
+- name: ElectroCRUD-v3.0.19--x64.RELEASES
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19--x64.RELEASES
+- name: ElectroCRUD-v3.0.19-linux-x64.deb
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19-linux-x64.deb
+- name: ElectroCRUD-v3.0.19-linux-x64.rpm
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19-linux-x64.rpm
+- name: ElectroCRUD-v3.0.19-mac-x64.dmg
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19-mac-x64.dmg
+- name: ElectroCRUD-v3.0.19-mac-x64.zip
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19-mac-x64.zip
+- name: ElectroCRUD-v3.0.19-win-x64.exe
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19-win-x64.exe
+- name: ElectroCRUD-v3.0.19-win-x64.nupkg
+  url: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.0.19/ElectroCRUD-v3.0.19-win-x64.nupkg
+electron: 22.3.10
+method: src-yarn-lock
+aur:
+- electrocrud-bin
+homebrew: electrocrud

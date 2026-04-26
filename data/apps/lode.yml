@@ -1,0 +1,10 @@
+id: lode
+website: https://lode.run
+aur:
+- lode-bin
+- loderunner
+- loderunner-ng
+- scavenger
+- xlode
+electron: 30.5.1
+method: aur-depends

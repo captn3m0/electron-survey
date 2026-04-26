@@ -1,0 +1,48 @@
+id: tockler
+repository: https://github.com/MayGo/tockler
+website: https://tockler.trimatech.dev/
+latest: v4.0.21
+src: https://github.com/MayGo/tockler/archive/refs/tags/v4.0.21.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/latest.yml
+- name: Tockler-4.0.21-arm64-mac.zip
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21-arm64-mac.zip
+- name: Tockler-4.0.21-arm64-mac.zip.blockmap
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21-arm64-mac.zip.blockmap
+- name: Tockler-4.0.21-arm64.dmg
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21-arm64.dmg
+- name: Tockler-4.0.21-arm64.dmg.blockmap
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21-arm64.dmg.blockmap
+- name: Tockler-4.0.21-mac.zip
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21-mac.zip
+- name: Tockler-4.0.21-mac.zip.blockmap
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21-mac.zip.blockmap
+- name: tockler-4.0.21-portable-win-arm64.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-portable-win-arm64.exe
+- name: tockler-4.0.21-portable-win-ia32.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-portable-win-ia32.exe
+- name: tockler-4.0.21-portable-win-x64.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-portable-win-x64.exe
+- name: tockler-4.0.21-portable-win.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-portable-win.exe
+- name: tockler-4.0.21-setup-win-arm64.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-setup-win-arm64.exe
+- name: tockler-4.0.21-setup-win-ia32.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-setup-win-ia32.exe
+- name: tockler-4.0.21-setup-win-x64.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-setup-win-x64.exe
+- name: tockler-4.0.21-setup-win.exe
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/tockler-4.0.21-setup-win.exe
+- name: Tockler-4.0.21.AppImage
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21.AppImage
+- name: Tockler-4.0.21.dmg
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21.dmg
+- name: Tockler-4.0.21.dmg.blockmap
+  url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21.dmg.blockmap
+electron: 16.2.8
+method: src-package-lock

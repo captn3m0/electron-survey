@@ -1,0 +1,16 @@
+id: responsively
+repository: https://github.com/responsively-org/responsively-app
+website: https://responsively.app
+latest: v1.18.0
+src: https://github.com/responsively-org/responsively-app/archive/refs/tags/v1.18.0.zip
+electron: 27.0.4
+method: src-package-lock
+aur:
+- responsively
+- responsively-bin
+- responsively-git
+homebrew: responsively
+downloads:
+- url: https://github.com/responsively-org/responsively-app-releases/releases/download/v1.18.0/ResponsivelyApp-1.18.0-arm64.dmg
+  name: ResponsivelyApp-1.18.0-arm64.dmg
+  version: 1.18.0

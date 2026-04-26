@@ -1,0 +1,9 @@
+id: tidal
+website: https://www.tidal.com
+aur:
+- tidal-hifi-git
+homebrew: tidal
+downloads:
+- url: https://download.tidal.com/desktop/mac/TIDAL.arm64.2.41.3.zip
+  name: TIDAL.arm64.2.41.3.zip
+  version: 2.41.3

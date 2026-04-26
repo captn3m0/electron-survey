@@ -1,0 +1,14 @@
+id: magiccap
+repository: https://github.com/MagicCap/MagicCap
+latest: v2.1.2
+src: https://github.com/MagicCap/MagicCap/archive/refs/tags/v2.1.2.zip
+downloads:
+- name: magiccap-linux.zip
+  url: https://github.com/MagicCap/MagicCap/releases/download/v2.1.2/magiccap-linux.zip
+- name: magiccap-mac.dmg
+  url: https://github.com/MagicCap/MagicCap/releases/download/v2.1.2/magiccap-mac.dmg
+- name: magiccap-mac.zip
+  url: https://github.com/MagicCap/MagicCap/releases/download/v2.1.2/magiccap-mac.zip
+electron: 5.0.11
+method: src-package-lock
+homebrew: magiccap

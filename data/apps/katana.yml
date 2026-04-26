@@ -1,0 +1,12 @@
+id: katana
+repository: https://github.com/bluegill/katana
+website: https://github.com/bluegill/katana
+latest: v1.4.4
+src: https://github.com/bluegill/katana/archive/refs/tags/v1.4.4.zip
+downloads:
+- name: katana-1.4.4-mac.zip
+  url: https://github.com/bluegill/katana/releases/download/v1.4.4/katana-1.4.4-mac.zip
+electron: 4.1.0
+method: src-package-lock
+aur:
+- katana

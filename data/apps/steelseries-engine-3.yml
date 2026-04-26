@@ -1,0 +1,7 @@
+id: steelseries-engine-3
+website: https://steelseries.com/engine
+homebrew: steelseries-gg
+downloads:
+- url: https://engine.steelseriescdn.com/SteelSeriesGG107.0.0.pkg
+  name: SteelSeriesGG107.0.0.pkg
+  version: 107.0.0

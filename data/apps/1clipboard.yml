@@ -1,0 +1,8 @@
+id: 1clipboard
+repository: https://github.com/wiziple/1clipboard
+website: http://1clipboard.io
+homebrew: 1clipboard
+downloads:
+- url: https://1clipboard.io/download/darwin/1Clipboard.dmg
+  name: 1Clipboard.dmg
+  version: 0.1.8

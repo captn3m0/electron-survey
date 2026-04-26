@@ -1,0 +1,44 @@
+id: altair
+repository: https://github.com/imolorhe/altair
+website: https://altair.sirmuel.design/
+latest: v8.5.0
+src: https://github.com/imolorhe/altair/archive/refs/tags/v8.5.0.zip
+downloads:
+- name: altair_8.5.0_amd64_linux.deb
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_amd64_linux.deb
+- name: altair_8.5.0_arm64_linux.AppImage
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_linux.AppImage
+- name: altair_8.5.0_arm64_mac.dmg
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.dmg
+- name: altair_8.5.0_arm64_mac.dmg.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.dmg.blockmap
+- name: altair_8.5.0_arm64_mac.zip
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.zip
+- name: altair_8.5.0_arm64_mac.zip.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.zip.blockmap
+- name: altair_8.5.0_x64_mac.dmg
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_mac.dmg
+- name: altair_8.5.0_x64_mac.dmg.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_mac.dmg.blockmap
+- name: altair_8.5.0_x64_mac.zip
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_mac.zip
+- name: altair_8.5.0_x64_mac.zip.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_mac.zip.blockmap
+- name: altair_8.5.0_x64_win.exe
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_win.exe
+- name: altair_8.5.0_x64_win.exe.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_win.exe.blockmap
+- name: altair_8.5.0_x86_64_linux.AppImage
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x86_64_linux.AppImage
+- name: latest-linux-arm64.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/latest.yml
+electron: 38.3.0
+method: src-pnpm-lock
+aur:
+- altair

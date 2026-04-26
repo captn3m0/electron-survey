@@ -1,0 +1,16 @@
+id: data-forge-notebook
+website: https://www.data-forge-notebook.com/
+repository: https://github.com/data-forge-notebook/data-forge-notebook
+latest: v2.0.0
+src: https://github.com/data-forge-notebook/data-forge-notebook/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: Data-Forge.Notebook.v2-linux-2.0.0.tar.gz
+  url: https://github.com/ashleydavis/data-forge-notebook/releases/download/v2.0.0/Data-Forge.Notebook.v2-linux-2.0.0.tar.gz
+- name: Data-Forge.Notebook.v2-mac-2.0.0.dmg
+  url: https://github.com/ashleydavis/data-forge-notebook/releases/download/v2.0.0/Data-Forge.Notebook.v2-mac-2.0.0.dmg
+- name: Data-Forge.Notebook.v2-mac-2.0.0.tar.gz
+  url: https://github.com/ashleydavis/data-forge-notebook/releases/download/v2.0.0/Data-Forge.Notebook.v2-mac-2.0.0.tar.gz
+- name: Data-Forge.Notebook.v2-win-2.0.0.exe
+  url: https://github.com/ashleydavis/data-forge-notebook/releases/download/v2.0.0/Data-Forge.Notebook.v2-win-2.0.0.exe
+- name: Data-Forge.Notebook.v2-win-2.0.0.zip
+  url: https://github.com/ashleydavis/data-forge-notebook/releases/download/v2.0.0/Data-Forge.Notebook.v2-win-2.0.0.zip

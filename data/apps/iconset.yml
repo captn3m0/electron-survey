@@ -1,0 +1,7 @@
+id: iconset
+website: https://iconset.io
+homebrew: iconset
+downloads:
+- url: https://github.com/IconsetApp/iconset/releases/download/v2.5.0/Iconset-2.5.0-arm64-mac.zip
+  name: Iconset-2.5.0-arm64-mac.zip
+  version: 2.5.0

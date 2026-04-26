@@ -1,0 +1,7 @@
+id: abstract
+website: https://www.goabstract.com
+homebrew: abstract
+downloads:
+- url: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
+  name: Abstract-98.6.3.zip
+  version: 98.6.3

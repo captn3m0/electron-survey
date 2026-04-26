@@ -1,0 +1,36 @@
+id: tagspaces
+repository: https://github.com/tagspaces/tagspaces
+website: https://www.tagspaces.org/
+latest: v6.10.3
+src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.10.3.zip
+downloads:
+- name: SHA256SUMS.txt
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/SHA256SUMS.txt
+- name: tagspaces-android-6.10.3.apk
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-android-6.10.3.apk
+- name: tagspaces-linux-amd64-6.10.3.deb
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-linux-amd64-6.10.3.deb
+- name: tagspaces-linux-x64-6.10.3.tar.gz
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-linux-x64-6.10.3.tar.gz
+- name: tagspaces-linux-x86_64-6.10.3.AppImage
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-linux-x86_64-6.10.3.AppImage
+- name: tagspaces-mac-arm64-6.10.3.dmg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-arm64-6.10.3.dmg
+- name: tagspaces-mac-arm64-6.10.3.pkg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-arm64-6.10.3.pkg
+- name: tagspaces-mac-x64-6.10.3.dmg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-x64-6.10.3.dmg
+- name: tagspaces-mac-x64-6.10.3.pkg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-mac-x64-6.10.3.pkg
+- name: tagspaces-web-6.10.3.zip
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-web-6.10.3.zip
+- name: tagspaces-win-x64-6.10.3.exe
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-win-x64-6.10.3.exe
+- name: tagspaces-win-x64-6.10.3.zip
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.10.3/tagspaces-win-x64-6.10.3.zip
+electron: 40.8.3
+method: src-package-lock
+aur:
+- tagspaces
+- tagspaces-bin
+homebrew: tagspaces

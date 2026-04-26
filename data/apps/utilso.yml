@@ -1,0 +1,6 @@
+id: utilso
+website: https://utilso.com
+aur:
+- utilso-bin
+electron: 15.5.7
+method: aur-depends

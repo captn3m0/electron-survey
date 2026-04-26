@@ -1,0 +1,38 @@
+id: linked
+repository: https://github.com/lostdesign/linked
+website: https://uselinked.com/
+latest: v1.5.2
+src: https://github.com/lostdesign/linked/archive/refs/tags/v1.5.2.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/latest.yml
+- name: linked-1.5.2-mac.zip
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2-mac.zip
+- name: linked-1.5.2-mac.zip.blockmap
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2-mac.zip.blockmap
+- name: linked-1.5.2.AppImage
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.AppImage
+- name: linked-1.5.2.dmg
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.dmg
+- name: linked-1.5.2.dmg.blockmap
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.dmg.blockmap
+- name: linked-1.5.2.exe
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.exe
+- name: linked-1.5.2.pacman
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.pacman
+- name: linked-1.5.2.x86_64.rpm
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.x86_64.rpm
+- name: linked-Setup-1.5.2.exe
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-Setup-1.5.2.exe
+- name: linked-Setup-1.5.2.exe.blockmap
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-Setup-1.5.2.exe.blockmap
+- name: linked_1.5.2_amd64.deb
+  url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked_1.5.2_amd64.deb
+electron: 17.0.0
+method: src-yarn-lock
+aur:
+- linked-bin

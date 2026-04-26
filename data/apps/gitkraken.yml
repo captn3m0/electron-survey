@@ -1,0 +1,11 @@
+id: gitkraken
+website: https://www.gitkraken.com/
+aur:
+- gitkraken
+- gitkraken-cli
+- gitkraken-standalone
+homebrew: gitkraken
+downloads:
+- url: https://api.gitkraken.dev/releases/production/darwin/arm64/11.10.0/GitKraken-v11.10.0.zip
+  name: GitKraken-v11.10.0.zip
+  version: 11.10.0

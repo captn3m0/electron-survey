@@ -2,7 +2,7 @@ META = meta
 
 .PHONY: all clean
 
-all: $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages
+all: $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages $(META)/homebrew-casks.json
 
 $(META):
 	mkdir -p $(META)
@@ -16,5 +16,8 @@ $(META)/packages-meta-ext-v1.json: | $(META)
 $(META)/aur-packages: | $(META)
 	curl -fsSL https://aur.archlinux.org/packages.gz | gunzip > $@
 
+$(META)/homebrew-casks.json: | $(META)
+	curl -fsSL https://formulae.brew.sh/api/cask.json -o $@
+
 clean:
-	rm -f $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages
+	rm -f $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages $(META)/homebrew-casks.json

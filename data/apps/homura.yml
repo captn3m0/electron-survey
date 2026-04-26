@@ -1,0 +1,18 @@
+id: homura
+repository: https://github.com/Saul-Mirone/homura
+website: https://github.com/Saul-Mirone/homura
+latest: v0.1.0
+src: https://github.com/Saul-Mirone/homura/archive/refs/tags/v0.1.0.zip
+downloads:
+- name: Homura-darwin-x64-0.1.0.zip
+  url: https://github.com/Saul-Mirone/homura/releases/download/v0.1.0/Homura-darwin-x64-0.1.0.zip
+- name: Homura-linux-x64-0.1.0.zip
+  url: https://github.com/Saul-Mirone/homura/releases/download/v0.1.0/Homura-linux-x64-0.1.0.zip
+- name: Homura-squirrel-x64-0.1.0.zip
+  url: https://github.com/Saul-Mirone/homura/releases/download/v0.1.0/Homura-squirrel-x64-0.1.0.zip
+- name: Homura-win32-x64-0.1.0.zip
+  url: https://github.com/Saul-Mirone/homura/releases/download/v0.1.0/Homura-win32-x64-0.1.0.zip
+- name: homura_0.1.0_amd64.deb
+  url: https://github.com/Saul-Mirone/homura/releases/download/v0.1.0/homura_0.1.0_amd64.deb
+electron: 11.2.1
+method: src-yarn-lock

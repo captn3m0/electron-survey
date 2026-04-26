@@ -1,0 +1,12 @@
+id: spotspot
+repository: https://github.com/will-stone/SpotSpot
+website: https://github.com/will-stone/SpotSpot
+latest: v4.0.2
+src: https://github.com/will-stone/SpotSpot/archive/refs/tags/v4.0.2.zip
+downloads:
+- name: SpotSpot-4.0.2.dmg
+  url: https://github.com/will-stone/SpotSpot/releases/download/v4.0.2/SpotSpot-4.0.2.dmg
+- name: SpotSpot-darwin-x64-4.0.2.zip
+  url: https://github.com/will-stone/SpotSpot/releases/download/v4.0.2/SpotSpot-darwin-x64-4.0.2.zip
+electron: 8.3.1
+method: src-yarn-lock

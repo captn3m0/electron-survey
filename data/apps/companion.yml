@@ -1,0 +1,15 @@
+id: companion
+repository: https://github.com/brunurd/companion
+website: https://github.com/brunurd/companion
+latest: v1.5.9
+src: https://github.com/brunurd/companion/archive/refs/tags/v1.5.9.zip
+downloads:
+- name: Companion-1.5.9.AppImage
+  url: https://github.com/leonaaraujo/companion/releases/download/v1.5.9/Companion-1.5.9.AppImage
+- name: Companion.1.5.9.exe
+  url: https://github.com/leonaaraujo/companion/releases/download/v1.5.9/Companion.1.5.9.exe
+electron: 11.5.0
+method: src-package-lock
+aur:
+- companion
+homebrew: companion

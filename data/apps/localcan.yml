@@ -1,0 +1,7 @@
+id: localcan
+name: LocalCan
+website: https://www.localcan.com/
+download_urls:
+- https://assets.localcan.com/download/LocalCan-2.7.0-arm64.dmg
+- https://assets.localcan.com/download/LocalCan-2.7.0-x64.dmg
+- https://assets.localcan.com/download/LocalCan-2.7.0%20Setup.exe

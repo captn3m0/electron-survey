@@ -1,0 +1,7 @@
+id: graviton-editor
+repository: https://github.com/Graviton-Code-Editor/Graviton-App
+website: https://graviton.netlify.app/
+aur:
+- graviton
+- graviton-bin
+- graviton-git

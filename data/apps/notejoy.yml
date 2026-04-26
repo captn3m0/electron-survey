@@ -1,0 +1,7 @@
+id: notejoy
+website: https://notejoy.com
+download_urls:
+- https://notejoy.com/downloads/windows/x64
+- https://notejoy.com/downloads/windows/ia32
+- https://notejoy.com/downloads/mac/x64
+- https://notejoy.com/downloads/mac/arm64

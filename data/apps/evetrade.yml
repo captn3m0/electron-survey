@@ -1,0 +1,12 @@
+id: evetrade
+website: https://evetrade.space
+repository: https://github.com/awhipp/evetrade
+latest: 1.0b
+src: https://github.com/awhipp/evetrade/archive/refs/tags/1.0b.zip
+downloads:
+- name: EVE-Trade-Standalone-win32-x64.zip
+  url: https://github.com/awhipp/evetrade/releases/download/1.0b/EVE-Trade-Standalone-win32-x64.zip
+- name: EVETrade-Standalone-darwin-x64.zip
+  url: https://github.com/awhipp/evetrade/releases/download/1.0b/EVETrade-Standalone-darwin-x64.zip
+- name: EVETrade-Standalone-linux-x64.tar.gz
+  url: https://github.com/awhipp/evetrade/releases/download/1.0b/EVETrade-Standalone-linux-x64.tar.gz

@@ -1,0 +1,9 @@
+id: inkdrop
+website: https://www.inkdrop.app/
+aur:
+- inkdrop
+homebrew: inkdrop
+downloads:
+- url: https://d3ip0rje8grhnl.cloudfront.net/v5.11.8/Inkdrop-5.11.8-arm64-Mac.zip
+  name: Inkdrop-5.11.8-arm64-Mac.zip
+  version: 5.11.8

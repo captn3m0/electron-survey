@@ -1,0 +1,22 @@
+id: upnotes
+repository: https://github.com/thoughtsunificator/domodel-diary-electron
+website: https://github.com/thoughtsunificator/domodel-diary-electron
+latest: v1.0.12
+src: https://github.com/thoughtsunificator/domodel-diary-electron/archive/refs/tags/v1.0.12.zip
+downloads:
+- name: domodel-diary-1.0.12-i386.AppImage
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary-1.0.12-i386.AppImage
+- name: domodel-diary-1.0.12-ia32-win.zip
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary-1.0.12-ia32-win.zip
+- name: domodel-diary-1.0.12-win.zip
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary-1.0.12-win.zip
+- name: domodel-diary-1.0.12.AppImage
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary-1.0.12.AppImage
+- name: domodel-diary-electron_1.0.12_amd64.deb
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary-electron_1.0.12_amd64.deb
+- name: domodel-diary-electron_1.0.12_i386.deb
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary-electron_1.0.12_i386.deb
+- name: domodel-diary.Setup.1.0.12.exe
+  url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary.Setup.1.0.12.exe
+electron: 15.1.1
+method: src-package-lock

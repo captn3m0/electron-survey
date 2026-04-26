@@ -1,0 +1,94 @@
+id: standard-notes
+repository: https://github.com/standardnotes/desktop
+website: https://standardnotes.com
+latest: v3.22.11
+src: https://github.com/standardnotes/desktop/archive/refs/tags/v3.22.11.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/builder-debug.yml
+  checksum: f7dd1e02a517d29d7ca0706fd500e967aa8470a8fa92553c15cd5a48e0eec3d8
+- name: latest-linux-arm64.yml
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/latest-linux-arm64.yml
+  checksum: 7bc3d46a196952545183901ed06b5b9653354364f8abc41d6e83f3b1eb35d21f
+- name: latest-linux-ia32.yml
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/latest-linux-ia32.yml
+  checksum: 705594e2f83034babeccb7494ee212ca68ca33f49e330955fff9cbe9866ef2b4
+- name: latest-linux.yml
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/latest-linux.yml
+  checksum: 3fc6cc2dc1ee91e1ad6c1964bae01fd29e9465924b9989982a53dfee00118981
+- name: latest-mac.yml
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/latest-mac.yml
+  checksum: 23dc27061ef5fb4f29dc9d857cbf001cbe05b09dac49dd8b9fb0a06809495273
+- name: latest.yml
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/latest.yml
+  checksum: 44244924388e7bfef870a7eb1f52a34b9a2ece6bdec725b78ec8c490e5a3812f
+- name: SHA256SUMS
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/SHA256SUMS
+- name: standard-notes-3.22.11-linux-amd64.deb
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-amd64.deb
+  checksum: ffe1d8ba1f7c6f43e4db5c5f274bcde115bab491fe25572630ec7424ba087d4b
+- name: standard-notes-3.22.11-linux-amd64.snap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-amd64.snap
+  checksum: ec4598ced457b4bc1a36b0557634a9c48cb127bee5cb98575d94836d58113ab4
+- name: standard-notes-3.22.11-linux-arm64.AppImage
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-arm64.AppImage
+  checksum: 93bdc60e7fc0fab2e5564396c6cf10c580a3c4bf8035ef77192374921712a95b
+- name: standard-notes-3.22.11-linux-arm64.deb
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-arm64.deb
+  checksum: e08c051ce417369fe9d9776c8964ccc3cc44bac04f422392995fa5c98986f715
+- name: standard-notes-3.22.11-linux-i386.AppImage
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-i386.AppImage
+  checksum: a273508bd8d436504b2b8f756f6b26eba63b07f2efa619dc6139d62a58c712d1
+- name: standard-notes-3.22.11-linux-i386.deb
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-i386.deb
+  checksum: 0a16268fbe041b87f4976f12d41356968a0311e1cbc06d637d48d2703719dc49
+- name: standard-notes-3.22.11-linux-x86_64.AppImage
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-x86_64.AppImage
+  checksum: be6a55bb16605965d93d14ca2ed6e23825cd544115958f6c8cb763fda6111d6d
+- name: standard-notes-3.22.11-mac-arm64.dmg
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-arm64.dmg
+  checksum: 66605242838ebf0aaa9214f057c5541e7fd9860c4ec1a9abe7d24d905855913e
+- name: standard-notes-3.22.11-mac-arm64.dmg.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-arm64.dmg.blockmap
+  checksum: 0c7ef71cf34296f1ddb0d386137d2b02f5c1ae172c912ab69e530eacd8c17529
+- name: standard-notes-3.22.11-mac-arm64.zip
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-arm64.zip
+  checksum: 0957ea6f00124dba2edf4ef427343e917c5f1e96f86d915a4c65aef763868127
+- name: standard-notes-3.22.11-mac-arm64.zip.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-arm64.zip.blockmap
+  checksum: ca92c903a04f5d29d978f24213eeab7c10031e8d98dc8f2fb935f6ca0007294f
+- name: standard-notes-3.22.11-mac-x64.dmg
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-x64.dmg
+  checksum: 600cf3d12bf9aed77238c7279ada4204529e8392a4de45a083d9687472a96e05
+- name: standard-notes-3.22.11-mac-x64.dmg.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-x64.dmg.blockmap
+  checksum: 78591d6d612965a7f6d018f309c439d19a67b6d20c70e3cf057af6e2b808c9e1
+- name: standard-notes-3.22.11-mac-x64.zip
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-x64.zip
+  checksum: 03a20c8b09c3273aaf1c4c89406e9a2e293b1bd23f0c5dd6dba80379b07109ac
+- name: standard-notes-3.22.11-mac-x64.zip.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-mac-x64.zip.blockmap
+  checksum: aa5e1417c8ff9a8201b07ae4dd670563214b6f7d49902dadea60c8c3d557cecb
+- name: standard-notes-3.22.11-win-ia32.exe
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-win-ia32.exe
+  checksum: 16f99bc8984b09c22039eebafd4cf0a4b33ca4d1a16a838ca29ea99ba0841daa
+- name: standard-notes-3.22.11-win-ia32.exe.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-win-ia32.exe.blockmap
+  checksum: 7663295ebd1ac04492d41b96541406ebb361063fb3b524366a910feb57425a83
+- name: standard-notes-3.22.11-win-x64.exe
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-win-x64.exe
+  checksum: 8eb1a8589b2ac0ea84451c08e399644e2b3369c08b460f48f9fce3b826390529
+- name: standard-notes-3.22.11-win-x64.exe.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-win-x64.exe.blockmap
+  checksum: bfed18220801d75a7f06957c01784022cc4573ced38334c353262098840d36d2
+- name: standard-notes-3.22.11-win.exe
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-win.exe
+  checksum: fb3d2084a86b122f5cef330f1974ad33790d6fb3207d3262af7f78f0d51fbe3b
+- name: standard-notes-3.22.11-win.exe.blockmap
+  url: https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-win.exe.blockmap
+  checksum: b8a0bcebbbc660dc7e0868b83dad256d8d3acf46ab9f8b3ddf6e42b7e7facb69
+electron: 17.4.2
+method: src-yarn-lock
+aur:
+- standardnotes
+homebrew: standard-notes

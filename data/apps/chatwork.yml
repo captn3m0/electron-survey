@@ -1,0 +1,7 @@
+id: chatwork
+website: http://www.chatwork.com/download/
+homebrew: chatwork
+downloads:
+- url: https://desktop-app.chatwork.com/installer/ChatWork.dmg
+  name: ChatWork.dmg
+  version: 2.21.0

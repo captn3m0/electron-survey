@@ -1,0 +1,43 @@
+id: znote
+repository: https://github.com/alagrede/znote-app
+website: https://znote.io
+latest: v3.6.11
+src: https://github.com/alagrede/znote-app/archive/refs/tags/v3.6.11.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/latest.yml
+- name: znote-3.6.11-arm64-mac.zip
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64-mac.zip
+- name: znote-3.6.11-arm64-mac.zip.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64-mac.zip.blockmap
+- name: znote-3.6.11-arm64.AppImage
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64.AppImage
+- name: znote-3.6.11-arm64.dmg
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64.dmg
+- name: znote-3.6.11-arm64.dmg.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-arm64.dmg.blockmap
+- name: znote-3.6.11-mac.zip
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-mac.zip
+- name: znote-3.6.11-mac.zip.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11-mac.zip.blockmap
+- name: znote-3.6.11.AppImage
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11.AppImage
+- name: znote-3.6.11.dmg
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11.dmg
+- name: znote-3.6.11.dmg.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-3.6.11.dmg.blockmap
+- name: znote-Setup-3.6.11.exe
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-Setup-3.6.11.exe
+- name: znote-Setup-3.6.11.exe.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v3.6.11/znote-Setup-3.6.11.exe.blockmap
+aur:
+- znote-bin
+electron: 36.9.5
+method: aur-depends
+homebrew: znote

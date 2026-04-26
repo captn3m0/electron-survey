@@ -1,0 +1,24 @@
+id: boxhero
+repository: https://github.com/bgpworks/boxhero-electron
+website: https://www.boxhero-app.com
+latest: 3.1.6
+src: https://github.com/bgpworks/boxhero-electron/archive/refs/tags/3.1.6.zip
+downloads:
+- name: BoxHero-3.1.6-full.nupkg
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero-3.1.6-full.nupkg
+- name: BoxHero-3.1.6.Setup.exe
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero-3.1.6.Setup.exe
+- name: BoxHero-darwin-universal-3.1.6.zip
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero-darwin-universal-3.1.6.zip
+- name: BoxHero-win32-x64-3.1.6.zip
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero-win32-x64-3.1.6.zip
+- name: BoxHero.dmg
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero.dmg
+- name: BoxHero.exe
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/BoxHero.exe
+- name: RELEASES
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/RELEASES
+- name: RELEASES.json
+  url: https://github.com/bgpworks/boxhero-electron/releases/download/3.1.6/RELEASES.json
+electron: 40.1.0
+method: src-package-lock

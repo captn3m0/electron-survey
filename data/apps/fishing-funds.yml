@@ -1,0 +1,36 @@
+id: fishing-funds
+repository: https://github.com/1zilc/fishing-funds
+website: https://ff.1zilc.top
+latest: v8.8.0
+src: https://github.com/1zilc/fishing-funds/archive/refs/tags/v8.8.0.zip
+downloads:
+- name: Fishing-Funds-8.8.0-arm64.AppImage
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0-arm64.AppImage
+- name: Fishing-Funds-8.8.0-arm64.dmg
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0-arm64.dmg
+- name: Fishing-Funds-8.8.0-arm64.dmg.blockmap
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0-arm64.dmg.blockmap
+- name: Fishing-Funds-8.8.0.AppImage
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0.AppImage
+- name: Fishing-Funds-8.8.0.dmg
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0.dmg
+- name: Fishing-Funds-8.8.0.dmg.blockmap
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0.dmg.blockmap
+- name: Fishing-Funds-Setup-8.8.0.exe
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-Setup-8.8.0.exe
+- name: Fishing-Funds-Setup-8.8.0.exe.blockmap
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-Setup-8.8.0.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/latest.yml
+electron: 40.0.0
+method: src-pnpm-lock
+aur:
+- fishing-funds-bin
+- fishing-funds-git
+homebrew: fishing-funds

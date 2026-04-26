@@ -1,0 +1,45 @@
+id: sqlectron
+repository: https://github.com/sqlectron/sqlectron-gui
+website: https://sqlectron.github.io
+latest: v1.39.0
+src: https://github.com/sqlectron/sqlectron-gui/archive/refs/tags/v1.39.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/latest.yml
+- name: sqlectron-1.39.0-arm64.dmg
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0-arm64.dmg
+- name: sqlectron-1.39.0-arm64.dmg.blockmap
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0-arm64.dmg.blockmap
+- name: sqlectron-1.39.0.dmg
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.dmg
+- name: sqlectron-1.39.0.dmg.blockmap
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.dmg.blockmap
+- name: sqlectron-1.39.0.exe
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.exe
+- name: sqlectron-1.39.0.freebsd
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.freebsd
+- name: sqlectron-1.39.0.pacman
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.pacman
+- name: sqlectron-1.39.0.tar.gz
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.tar.gz
+- name: sqlectron-1.39.0.tar.xz
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.tar.xz
+- name: sqlectron-1.39.0.x86_64.rpm
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-1.39.0.x86_64.rpm
+- name: sqlectron-Setup-1.39.0.exe
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-Setup-1.39.0.exe
+- name: sqlectron-Setup-1.39.0.exe.blockmap
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron-Setup-1.39.0.exe.blockmap
+- name: sqlectron_1.39.0_amd64.deb
+  url: https://github.com/sqlectron/sqlectron/releases/download/v1.39.0/sqlectron_1.39.0_amd64.deb
+electron: 24.8.8
+method: src-package-lock
+aur:
+- sqlectron-gui
+- sqlectron-gui-bin
+- sqlectron-gui-git
+homebrew: sqlectron

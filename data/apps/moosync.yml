@@ -1,0 +1,54 @@
+id: moosync
+repository: https://github.com/Moosync/Moosync
+website: https://moosync.app
+latest: Moosync-v11.0.2
+src: https://github.com/Moosync/Moosync/archive/refs/tags/Moosync-v11.0.2.zip
+downloads:
+- name: latest-android.json
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/latest-android.json
+- name: latest.json
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/latest.json
+- name: Moosync-11.0.2-1.aarch64.rpm
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync-11.0.2-1.aarch64.rpm
+- name: Moosync-11.0.2-1.x86_64.rpm
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync-11.0.2-1.x86_64.rpm
+- name: Moosync-aarch64-11.0.2.apk
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync-aarch64-11.0.2.apk
+- name: Moosync-armv7-11.0.2.apk
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync-armv7-11.0.2.apk
+- name: Moosync-x86_64-11.0.2.apk
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync-x86_64-11.0.2.apk
+- name: Moosync_11.0.2_aarch64.AppImage
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_aarch64.AppImage
+- name: Moosync_11.0.2_aarch64.AppImage.sig
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_aarch64.AppImage.sig
+- name: Moosync_11.0.2_aarch64.dmg
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_aarch64.dmg
+- name: Moosync_11.0.2_amd64.AppImage
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_amd64.AppImage
+- name: Moosync_11.0.2_amd64.AppImage.sig
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_amd64.AppImage.sig
+- name: Moosync_11.0.2_amd64.deb
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_amd64.deb
+- name: Moosync_11.0.2_arm64.deb
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_arm64.deb
+- name: Moosync_11.0.2_x64-setup.exe
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_x64-setup.exe
+- name: Moosync_11.0.2_x64-setup.exe.sig
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_x64-setup.exe.sig
+- name: Moosync_11.0.2_x64.dmg
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_x64.dmg
+- name: Moosync_11.0.2_x64_en-US.msi
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_x64_en-US.msi
+- name: Moosync_11.0.2_x64_en-US.msi.sig
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_11.0.2_x64_en-US.msi.sig
+- name: Moosync_aarch64.app.tar.gz
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_aarch64.app.tar.gz
+- name: Moosync_aarch64.app.tar.gz.sig
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_aarch64.app.tar.gz.sig
+- name: Moosync_x64.app.tar.gz
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_x64.app.tar.gz
+- name: Moosync_x64.app.tar.gz.sig
+  url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_x64.app.tar.gz.sig
+aur:
+- moosync

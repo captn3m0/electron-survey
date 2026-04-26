@@ -1,0 +1,15 @@
+id: notion
+website: https://www.notion.so/
+aur:
+- lotion
+- notion-app-electron
+- notion-calendar-electron
+- notion-calendar-electron-fixed
+- notion-git
+electron: 39.8.3
+method: aur-depends
+homebrew: notion
+downloads:
+- url: https://desktop-release.notion-static.com/Notion-7.9.0-arm64.dmg
+  name: Notion-7.9.0-arm64.dmg
+  version: 7.9.0

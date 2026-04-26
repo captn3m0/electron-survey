@@ -1,0 +1,10 @@
+id: yet-another-gitbook-reader
+repository: https://github.com/gnu4cn/gitbook-reader-app
+website: https://github.com/gnu4cn/gitbook-reader-app
+latest: v0.8.8
+src: https://github.com/gnu4cn/gitbook-reader-app/archive/refs/tags/v0.8.8.zip
+downloads:
+- name: Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
+  url: https://github.com/gnu4cn/gitbook-reader-app/releases/download/v0.8.8/Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
+electron: 10.4.7
+method: src-range-guess

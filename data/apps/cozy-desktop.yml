@@ -1,0 +1,34 @@
+id: cozy-desktop
+repository: https://github.com/cozy-labs/cozy-desktop
+website: https://cozy.io/
+latest: v5.0.0
+src: https://github.com/cozy-labs/cozy-desktop/archive/refs/tags/v5.0.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/latest-mac.yml
+- name: Twake-Desktop-5.0.0-arm64-mac.zip
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-5.0.0-arm64-mac.zip
+- name: Twake-Desktop-5.0.0-arm64.dmg
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-5.0.0-arm64.dmg
+- name: Twake-Desktop-5.0.0-arm64.dmg.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-5.0.0-arm64.dmg.blockmap
+- name: Twake-Desktop-5.0.0-mac.zip
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-5.0.0-mac.zip
+- name: Twake-Desktop-5.0.0.dmg
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-5.0.0.dmg
+- name: Twake-Desktop-5.0.0.dmg.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-5.0.0.dmg.blockmap
+- name: Twake-Desktop-Setup-5.0.0.exe
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-Setup-5.0.0.exe
+- name: Twake-Desktop-Setup-5.0.0.exe.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-Setup-5.0.0.exe.blockmap
+- name: Twake-Desktop-x86_64.AppImage
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake-Desktop-x86_64.AppImage
+- name: Twake.Desktop-5.0.0-arm64-mac.zip.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake.Desktop-5.0.0-arm64-mac.zip.blockmap
+- name: Twake.Desktop-5.0.0-mac.zip.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.0.0/Twake.Desktop-5.0.0-mac.zip.blockmap
+electron: 31.7.3
+method: src-yarn-lock

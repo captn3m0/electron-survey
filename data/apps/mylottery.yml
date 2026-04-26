@@ -1,0 +1,5 @@
+id: mylottery
+repository: https://gitee.com/gemron/myLottery
+website: https://gitee.com/gemron/myLottery/blob/master/README.md
+download_urls:
+- https://gitee.com/gemron/myLottery/releases/download/v0.1/myLottery-win32-ia32.7z

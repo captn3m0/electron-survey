@@ -1,0 +1,6 @@
+id: horen
+repository: https://github.com/kevinjobs/Horen
+aur:
+- horen
+electron: 28.3.3
+method: aur-depends

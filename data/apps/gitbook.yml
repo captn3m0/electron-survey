@@ -1,0 +1,4 @@
+id: gitbook
+website: https://www.gitbook.com/?utm_source=electron&utm_medium=logo
+aur:
+- nodejs-gitbook-cli

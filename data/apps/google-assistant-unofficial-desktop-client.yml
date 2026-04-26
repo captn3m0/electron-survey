@@ -1,0 +1,32 @@
+id: google-assistant-unofficial-desktop-client
+repository: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+website: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+latest: v1.1.0
+src: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: Google-Assistant-1.1.0-mac.zip
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-1.1.0-mac.zip
+- name: Google-Assistant-1.1.0.dmg
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-1.1.0.dmg
+- name: Google-Assistant-1.1.0.dmg.blockmap
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-1.1.0.dmg.blockmap
+- name: Google-Assistant-Setup-1.1.0-amd64.deb
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-amd64.deb
+- name: Google-Assistant-Setup-1.1.0-amd64.snap
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-amd64.snap
+- name: Google-Assistant-Setup-1.1.0-x86_64.AppImage
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-x86_64.AppImage
+- name: Google-Assistant-Setup-1.1.0-x86_64.rpm
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-x86_64.rpm
+- name: Google-Assistant-Setup-1.1.0.exe
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0.exe
+- name: Google-Assistant-Setup-1.1.0.exe.blockmap
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/latest.yml
+electron: 10.3.2
+method: src-package-lock

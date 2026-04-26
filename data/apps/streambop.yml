@@ -1,0 +1,21 @@
+id: streambop
+repository: https://github.com/snaildos/StreamBop
+website: https://snaildos.com/streambop
+latest: v1.6.1
+src: https://github.com/snaildos/StreamBop/archive/refs/tags/v1.6.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/snaildos/StreamBop/releases/download/v1.6.1/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/snaildos/StreamBop/releases/download/v1.6.1/latest.yml
+- name: StreamBop-1.6.1.AppImage
+  url: https://github.com/snaildos/StreamBop/releases/download/v1.6.1/StreamBop-1.6.1.AppImage
+- name: StreamBop-Setup-1.6.1.exe
+  url: https://github.com/snaildos/StreamBop/releases/download/v1.6.1/StreamBop-Setup-1.6.1.exe
+- name: StreamBop-Setup-1.6.1.exe.blockmap
+  url: https://github.com/snaildos/StreamBop/releases/download/v1.6.1/StreamBop-Setup-1.6.1.exe.blockmap
+electron: 25.2.0
+aur:
+- fifo-bin
+- fifo-browser-bin
+- snailfm-bin

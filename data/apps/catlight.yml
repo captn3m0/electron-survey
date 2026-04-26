@@ -1,0 +1,10 @@
+id: catlight
+website: https://catlight.io
+download_urls:
+- url: https://catlight.io/downloads/linux/beta
+  name: catlight-latest.deb
+homebrew: catlight
+downloads:
+- url: https://download.catlight.io/rel/mac/release/CatLightSetup-3.9.1.dmg
+  name: CatLightSetup-3.9.1.dmg
+  version: 3.9.1

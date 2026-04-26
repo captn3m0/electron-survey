@@ -1,0 +1,9 @@
+id: flow
+website: https://www.getflow.com/solutions/startups
+aur:
+- flow
+homebrew: flow-desktop
+downloads:
+- url: https://cdn.getflow.com/darwin_x64/Flow.zip
+  name: Flow.zip
+  version: 6.2.0.2082

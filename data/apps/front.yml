@@ -1,0 +1,7 @@
+id: front
+website: https://frontapp.com/
+homebrew: front
+downloads:
+- url: https://dl.frontapp.com/desktop/builds/3.71.1/Front-3.71.1-arm64.zip
+  name: Front-3.71.1-arm64.zip
+  version: 3.71.1

@@ -1,0 +1,26 @@
+id: last-hit
+repository: https://github.com/last-hit-aab/last-hit
+website: https://last-hit.com
+latest: v0.9.19
+src: https://github.com/last-hit-aab/last-hit/archive/refs/tags/v0.9.19.zip
+downloads:
+- name: last-hit-0.9.19-linux-x86_64.AppImage
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/last-hit-0.9.19-linux-x86_64.AppImage
+- name: last-hit-0.9.19-mac.dmg
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/last-hit-0.9.19-mac.dmg
+- name: last-hit-0.9.19-mac.dmg.blockmap
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/last-hit-0.9.19-mac.dmg.blockmap
+- name: last-hit-0.9.19-mac.zip
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/last-hit-0.9.19-mac.zip
+- name: last-hit-0.9.19-win.exe
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/last-hit-0.9.19-win.exe
+- name: last-hit-0.9.19-win.exe.blockmap
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/last-hit-0.9.19-win.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/latest.yml
+electron: 7.1.1
+method: src-yarn-lock

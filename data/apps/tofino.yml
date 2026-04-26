@@ -1,0 +1,18 @@
+id: tofino
+repository: https://github.com/mozilla/tofino
+website: https://github.com/mozilla/tofino
+latest: v0.2.0
+src: https://github.com/mozilla/tofino/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/mozilla/tofino/releases/download/v0.2.0/RELEASES
+- name: Tofino-0.2.0-full.nupkg
+  url: https://github.com/mozilla/tofino/releases/download/v0.2.0/Tofino-0.2.0-full.nupkg
+- name: tofino-darwin-x64.dmg
+  url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-darwin-x64.dmg
+- name: tofino-darwin-x64.zip
+  url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-darwin-x64.zip
+- name: tofino-linux-x64.tar.bz2
+  url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-linux-x64.tar.bz2
+- name: tofino-win32-ia32.exe
+  url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-win32-ia32.exe

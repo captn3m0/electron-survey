@@ -1,0 +1,40 @@
+id: brim
+repository: https://github.com/brimsec/brim
+website: https://www.brimsecurity.com
+latest: v1.18.0
+src: https://github.com/brimsec/brim/archive/refs/tags/v1.18.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/latest.yml
+- name: Zui-1.18.0-arm64.dmg
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-arm64.dmg
+- name: Zui-1.18.0-arm64.dmg.blockmap
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-arm64.dmg.blockmap
+- name: Zui-1.18.0-arm64.zip
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-arm64.zip
+- name: Zui-1.18.0-arm64.zip.blockmap
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-arm64.zip.blockmap
+- name: Zui-1.18.0-x64.dmg
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-x64.dmg
+- name: Zui-1.18.0-x64.dmg.blockmap
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-x64.dmg.blockmap
+- name: Zui-1.18.0-x64.zip
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-x64.zip
+- name: Zui-1.18.0-x64.zip.blockmap
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-x64.zip.blockmap
+- name: zui-1.18.0.x86_64.rpm
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/zui-1.18.0.x86_64.rpm
+- name: Zui-Setup-1.18.0.exe
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-Setup-1.18.0.exe
+- name: Zui-Setup-1.18.0.exe.blockmap
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-Setup-1.18.0.exe.blockmap
+- name: zui_1.18.0_amd64.deb
+  url: https://github.com/brimdata/zui/releases/download/v1.18.0/zui_1.18.0_amd64.deb
+electron: 30.0.5
+method: src-yarn-lock
+aur:
+- brim

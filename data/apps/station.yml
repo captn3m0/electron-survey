@@ -1,0 +1,8 @@
+id: station
+website: https://getstation.com/
+aur:
+- station-bin
+- station-desktop
+- station-desktop-git
+electron: 27.3.11
+method: aur-depends

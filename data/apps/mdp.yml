@@ -1,0 +1,10 @@
+id: mdp
+repository: https://github.com/ericlink/mdp
+website: https://ericlink.github.io/mdp/
+latest: v1.0.0
+src: https://github.com/ericlink/mdp/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: mdp-1.0.0.dmg
+  url: https://github.com/ericlink/mdp/releases/download/v1.0.0/mdp-1.0.0.dmg
+electron: 5.0.13
+method: src-package-lock

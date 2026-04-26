@@ -1,0 +1,18 @@
+id: petal
+repository: https://github.com/ilime/Petal
+website: https://github.com/ilime/Petal
+latest: v2.25.0
+src: https://github.com/ilime/Petal/archive/refs/tags/v2.25.0.zip
+downloads:
+- name: Petal-2.25.0.dmg
+  url: https://github.com/ilime/Petal/releases/download/v2.25.0/Petal-2.25.0.dmg
+- name: Petal-2.25.0.tar.gz
+  url: https://github.com/ilime/Petal/releases/download/v2.25.0/Petal-2.25.0.tar.gz
+- name: Petal.Setup.2.25.0.exe
+  url: https://github.com/ilime/Petal/releases/download/v2.25.0/Petal.Setup.2.25.0.exe
+- name: Petal_2.25.0_amd64.deb
+  url: https://github.com/ilime/Petal/releases/download/v2.25.0/Petal_2.25.0_amd64.deb
+electron: 8.0.0
+method: src-yarn-lock
+aur:
+- petal

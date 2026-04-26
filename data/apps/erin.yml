@@ -1,0 +1,30 @@
+id: erin
+repository: https://github.com/losbiw/erin
+website: https://erin-website.onrender.com/
+latest: v2.1.6
+src: https://github.com/losbiw/erin/archive/refs/tags/v2.1.6.zip
+downloads:
+- name: erin-2.1.6.dmg
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin-2.1.6.dmg
+- name: erin-2.1.6.dmg.blockmap
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin-2.1.6.dmg.blockmap
+- name: erin.AppImage
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin.AppImage
+- name: erin.deb
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin.deb
+- name: erin.exe
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin.exe
+- name: erin.exe.blockmap
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin.exe.blockmap
+- name: erin.pacman
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin.pacman
+- name: erin.rpm
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/erin.rpm
+- name: latest-linux-arm64.yml
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/latest-linux-arm64.yml
+- name: latest-mac.yml
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/losbiw/erin/releases/download/v2.1.6/latest.yml
+electron: 33.2.1
+method: src-yarn-lock

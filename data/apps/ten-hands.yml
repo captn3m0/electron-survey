@@ -1,0 +1,26 @@
+id: ten-hands
+repository: https://github.com/saisandeepvaddi/ten-hands
+website: https://tenhands.app
+latest: v2.10.3
+src: https://github.com/saisandeepvaddi/ten-hands/archive/refs/tags/v2.10.3.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/latest.yml
+- name: ten-hands-app_2.10.3_amd64.deb
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/ten-hands-app_2.10.3_amd64.deb
+- name: Ten.Hands-2.10.3-mac.zip
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/Ten.Hands-2.10.3-mac.zip
+- name: Ten.Hands-2.10.3.dmg
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/Ten.Hands-2.10.3.dmg
+- name: Ten.Hands-2.10.3.dmg.blockmap
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/Ten.Hands-2.10.3.dmg.blockmap
+- name: Ten.Hands.Setup.2.10.3.exe
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/Ten.Hands.Setup.2.10.3.exe
+- name: Ten.Hands.Setup.2.10.3.exe.blockmap
+  url: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.10.3/Ten.Hands.Setup.2.10.3.exe.blockmap
+electron: 11.2.0
+method: src-yarn-lock
+aur:
+- ten-hands-bin

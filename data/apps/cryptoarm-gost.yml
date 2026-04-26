@@ -1,0 +1,22 @@
+id: cryptoarm-gost
+repository: https://github.com/TrustedRu/CryptoARMGOST
+website: https://cryptoarm.ru/cryptoarm-gost/
+latest: v2.5.12
+src: https://github.com/TrustedRu/CryptoARMGOST/archive/refs/tags/v2.5.12.zip
+downloads:
+- name: cryptoarm-gost-v2.5.12-darwin-x64.dmg
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12-darwin-x64.dmg
+- name: cryptoarm-gost-v2.5.12-darwin-x64.pkg
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12-darwin-x64.pkg
+- name: cryptoarm-gost-v2.5.12-linux-x64.deb
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12-linux-x64.deb
+- name: cryptoarm-gost-v2.5.12-linux-x64.rpm
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12-linux-x64.rpm
+- name: cryptoarm-gost-v2.5.12-win32-x64.msi
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12-win32-x64.msi
+- name: cryptoarm-gost-v2.5.12-win32.msi
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12-win32.msi
+- name: cryptoarm-gost-v2.5.12.linux-aarch64.deb
+  url: https://github.com/CryptoARM/CryptoARMGOST/releases/download/v2.5.12/cryptoarm-gost-v2.5.12.linux-aarch64.deb
+electron: 7.1.13
+method: src-package-lock

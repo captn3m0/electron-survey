@@ -1,0 +1,28 @@
+id: redis-gui-unofficial
+repository: https://github.com/ekvedaras/redis-gui
+website: https://ekvedaras.github.io
+latest: v2.3.0
+src: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.3.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/latest.yml
+- name: redis-gui-2.3.0-mac.zip
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0-mac.zip
+- name: redis-gui-2.3.0-mac.zip.blockmap
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0-mac.zip.blockmap
+- name: redis-gui-2.3.0.AppImage
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.AppImage
+- name: redis-gui-2.3.0.dmg
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.dmg
+- name: redis-gui-2.3.0.dmg.blockmap
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.dmg.blockmap
+- name: redis-gui-Setup-2.3.0.exe
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-Setup-2.3.0.exe
+- name: redis-gui-Setup-2.3.0.exe.blockmap
+  url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-Setup-2.3.0.exe.blockmap
+electron: 19.1.9
+method: src-yarn-lock

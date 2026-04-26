@@ -1,0 +1,10 @@
+id: onecopy
+website: https://github.com/HiroshiFuu/onecopy-electron
+repository: https://github.com/HiroshiFuu/onecopy-electron
+latest: 1.0.3
+src: https://github.com/HiroshiFuu/onecopy-electron/archive/refs/tags/1.0.3.zip
+downloads:
+- name: onecopy-electron.Setup.1.0.3.exe
+  url: https://github.com/HiroshiFuu/onecopy-electron/releases/download/1.0.3/onecopy-electron.Setup.1.0.3.exe
+electron: 12.2.3
+method: src-range-guess

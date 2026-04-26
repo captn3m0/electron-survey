@@ -1,0 +1,32 @@
+id: moderndeck
+repository: https://github.com/dangeredwolf/ModernDeck
+website: https://moderndeck.org/
+latest: v10.0.0
+src: https://github.com/dangeredwolf/ModernDeck/archive/refs/tags/v10.0.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/latest.yml
+- name: ModernDeck-arm64.AppImage
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-arm64.AppImage
+- name: ModernDeck-universal.dmg
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-universal.dmg
+- name: ModernDeck-universal.dmg.blockmap
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-universal.dmg.blockmap
+- name: ModernDeck-universal.zip
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-universal.zip
+- name: ModernDeck-universal.zip.blockmap
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-universal.zip.blockmap
+- name: ModernDeck-x64.exe
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x64.exe
+- name: ModernDeck-x64.exe.blockmap
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x64.exe.blockmap
+- name: ModernDeck-x86_64.AppImage
+  url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x86_64.AppImage
+electron: 19.1.9
+method: src-package-lock

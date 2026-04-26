@@ -1,0 +1,7 @@
+id: turbo-download-manager
+website: https://add0n.com/turbo-download-manager.html
+aur:
+- browser-open-in
+- firefox-extension-styl-us-bin
+- firefox-stylus
+- open-in-native-client

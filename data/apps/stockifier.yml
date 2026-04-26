@@ -1,0 +1,12 @@
+id: stockifier
+repository: https://github.com/jainsamyak/Stockifier
+website: https://github.com/jainsamyak/Stockifier
+latest: v1.0.0
+src: https://github.com/jainsamyak/Stockifier/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Stockifier-v1.0.0.MacOSX.dmg
+  url: https://github.com/jainsamyak/Stockifier/releases/download/v1.0.0/Stockifier-v1.0.0.MacOSX.dmg
+- name: Stockifier-v1.0.0.Windows10.Setupx64.zip
+  url: https://github.com/jainsamyak/Stockifier/releases/download/v1.0.0/Stockifier-v1.0.0.Windows10.Setupx64.zip
+electron: 4.1.4
+method: src-package-lock

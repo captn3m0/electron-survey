@@ -1,0 +1,25 @@
+id: multrin
+repository: https://github.com/sentialx/multrin
+latest: v1.3.0
+src: https://github.com/sentialx/multrin/archive/refs/tags/v1.3.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/latest.yml
+- name: Multrin-1.3.0-ia32-win.zip
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-1.3.0-ia32-win.zip
+- name: Multrin-1.3.0-mac.zip
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-1.3.0-mac.zip
+- name: Multrin-1.3.0-win.zip
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-1.3.0-win.zip
+- name: Multrin-1.3.0.dmg
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-1.3.0.dmg
+- name: Multrin-1.3.0.dmg.blockmap
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-1.3.0.dmg.blockmap
+- name: Multrin-Setup-1.3.0.exe
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-Setup-1.3.0.exe
+- name: Multrin-Setup-1.3.0.exe.blockmap
+  url: https://github.com/sentialx/multrin/releases/download/v1.3.0/Multrin-Setup-1.3.0.exe.blockmap
+electron: 8.2.2
+method: src-yarn-lock

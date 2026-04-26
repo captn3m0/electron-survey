@@ -1,0 +1,36 @@
+id: y2mp3
+repository: https://github.com/moshfeu/y2mp3
+website: https://github.com/moshfeu/y2mp3
+latest: v3.0.1
+src: https://github.com/moshfeu/y2mp3/archive/refs/tags/v3.0.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/latest.yml
+- name: y2mp3-3.0.1-arm64-mac.zip
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1-arm64-mac.zip
+- name: y2mp3-3.0.1-arm64-mac.zip.blockmap
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1-arm64-mac.zip.blockmap
+- name: y2mp3-3.0.1-arm64.dmg
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1-arm64.dmg
+- name: y2mp3-3.0.1-arm64.dmg.blockmap
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1-arm64.dmg.blockmap
+- name: y2mp3-3.0.1-mac.zip
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1-mac.zip
+- name: y2mp3-3.0.1-mac.zip.blockmap
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1-mac.zip.blockmap
+- name: y2mp3-3.0.1.AppImage
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1.AppImage
+- name: y2mp3-3.0.1.dmg
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1.dmg
+- name: y2mp3-3.0.1.dmg.blockmap
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-3.0.1.dmg.blockmap
+- name: y2mp3-Setup-3.0.1.exe
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-Setup-3.0.1.exe
+- name: y2mp3-Setup-3.0.1.exe.blockmap
+  url: https://github.com/moshfeu/y2mp3/releases/download/v3.0.1/y2mp3-Setup-3.0.1.exe.blockmap
+electron: 17.4.11
+method: src-yarn-lock

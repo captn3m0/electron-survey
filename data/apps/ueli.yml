@@ -1,0 +1,63 @@
+id: ueli
+repository: https://github.com/oliverschwendener/ueli
+website: https://ueli.app
+latest: v9.27.1
+src: https://github.com/oliverschwendener/ueli/archive/refs/tags/v9.27.1.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/latest.yml
+- name: Ueli-9.27.1-arm64-mac.zip
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-arm64-mac.zip
+- name: Ueli-9.27.1-arm64-mac.zip.blockmap
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-arm64-mac.zip.blockmap
+- name: Ueli-9.27.1-arm64.AppImage
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-arm64.AppImage
+- name: Ueli-9.27.1-arm64.dmg
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-arm64.dmg
+- name: Ueli-9.27.1-arm64.dmg.blockmap
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-arm64.dmg.blockmap
+- name: ueli-9.27.1-arm64.zip
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/ueli-9.27.1-arm64.zip
+- name: Ueli-9.27.1-mac.zip
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-mac.zip
+- name: Ueli-9.27.1-mac.zip.blockmap
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-mac.zip.blockmap
+- name: Ueli-9.27.1-win.zip
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1-win.zip
+- name: ueli-9.27.1.aarch64.rpm
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/ueli-9.27.1.aarch64.rpm
+- name: Ueli-9.27.1.AppImage
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1.AppImage
+- name: Ueli-9.27.1.appx
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1.appx
+- name: Ueli-9.27.1.dmg
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1.dmg
+- name: Ueli-9.27.1.dmg.blockmap
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1.dmg.blockmap
+- name: Ueli-9.27.1.msi
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-9.27.1.msi
+- name: ueli-9.27.1.x86_64.rpm
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/ueli-9.27.1.x86_64.rpm
+- name: ueli-9.27.1.zip
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/ueli-9.27.1.zip
+- name: Ueli-Setup-9.27.1.exe
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-Setup-9.27.1.exe
+- name: Ueli-Setup-9.27.1.exe.blockmap
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/Ueli-Setup-9.27.1.exe.blockmap
+- name: ueli_9.27.1_amd64.deb
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/ueli_9.27.1_amd64.deb
+- name: ueli_9.27.1_arm64.deb
+  url: https://github.com/oliverschwendener/ueli/releases/download/v9.27.1/ueli_9.27.1_arm64.deb
+electron: 40.6.0
+method: src-package-lock
+aur:
+- ueli
+- ueli-bin
+- ueli-git
+homebrew: ueli

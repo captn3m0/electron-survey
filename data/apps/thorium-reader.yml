@@ -1,0 +1,27 @@
+id: thorium-reader
+repository: https://github.com/edrlab/thorium-reader/
+website: https://www.edrlab.org/software/thorium-reader/
+latest: v3.3.0
+src: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.3.0.zip
+downloads:
+- name: EDRLab.ThoriumReader_3.3.0_amd64.deb
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/EDRLab.ThoriumReader_3.3.0_amd64.deb
+- name: EDRLab.ThoriumReader_3.3.0_arm64.deb
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/EDRLab.ThoriumReader_3.3.0_arm64.deb
+- name: Thorium-3.3.0-arm64.AppImage
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium-3.3.0-arm64.AppImage
+- name: Thorium-3.3.0-arm64.dmg
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium-3.3.0-arm64.dmg
+- name: Thorium-3.3.0.AppImage
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium-3.3.0.AppImage
+- name: Thorium-3.3.0.dmg
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium-3.3.0.dmg
+- name: Thorium.Setup.3.3.0-arm64.exe
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium.Setup.3.3.0-arm64.exe
+- name: Thorium.Setup.3.3.0.exe
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium.Setup.3.3.0.exe
+electron: 38.7.2
+method: src-package-lock
+aur:
+- thorium-reader
+homebrew: thorium

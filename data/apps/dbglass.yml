@@ -1,0 +1,16 @@
+id: dbglass
+repository: https://github.com/web-pal/DBGlass
+website: http://dbglass.web-pal.com
+latest: v0.1.0-beta.6
+src: https://github.com/web-pal/DBGlass/archive/refs/tags/v0.1.0-beta.6.zip
+downloads:
+- name: linux-ia32.tar.gz
+  url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/linux-ia32.tar.gz
+- name: linux-x64.tar.gz
+  url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/linux-x64.tar.gz
+- name: MAC_OS-X.zip
+  url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/MAC_OS-X.zip
+- name: win32-ia32.zip
+  url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/win32-ia32.zip
+- name: win32-x64.zip
+  url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/win32-x64.zip

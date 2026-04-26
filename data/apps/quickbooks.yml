@@ -1,0 +1,7 @@
+id: quickbooks
+website: https://quickbooks.intuit.com/desktop/
+homebrew: quickbooks
+downloads:
+- url: https://http-download.intuit.com/http.intuit/Downloads/2023/Latest/QuickBooksMac2023.dmg
+  name: QuickBooksMac2023.dmg
+  version: 22.0.8.900,2023

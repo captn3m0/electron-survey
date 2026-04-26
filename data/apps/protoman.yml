@@ -1,0 +1,14 @@
+id: protoman
+repository: https://github.com/spluxx/protoman
+website: https://github.com/spluxx/protoman
+latest: v0.4.1
+src: https://github.com/spluxx/protoman/archive/refs/tags/v0.4.1.zip
+downloads:
+- name: Protoman-0.4.1.AppImage
+  url: https://github.com/spluxx/Protoman/releases/download/v0.4.1/Protoman-0.4.1.AppImage
+- name: Protoman-0.4.1.dmg
+  url: https://github.com/spluxx/Protoman/releases/download/v0.4.1/Protoman-0.4.1.dmg
+- name: Protoman.Setup.0.4.1.exe
+  url: https://github.com/spluxx/Protoman/releases/download/v0.4.1/Protoman.Setup.0.4.1.exe
+electron: 9.4.0
+method: src-package-lock

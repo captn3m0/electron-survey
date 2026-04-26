@@ -1,0 +1,10 @@
+id: teseve
+repository: https://github.com/teseve/teseve
+website: https://teseve.github.io/
+latest: 0.5.3
+src: https://github.com/teseve/teseve/archive/refs/tags/0.5.3.zip
+downloads:
+- name: Teseve-0.5.3-mac-x64.zip
+  url: https://github.com/teseve/teseve/releases/download/0.5.3/Teseve-0.5.3-mac-x64.zip
+- name: Teseve-0.5.3-win32-x64.zip
+  url: https://github.com/teseve/teseve/releases/download/0.5.3/Teseve-0.5.3-win32-x64.zip

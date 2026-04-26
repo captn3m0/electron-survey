@@ -1,0 +1,12 @@
+id: lazytype
+website: https://github.com/ngudbhav/lazyType
+repository: https://github.com/ngudbhav/lazyType
+latest: v1.0.1
+src: https://github.com/ngudbhav/lazyType/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: Setupx64.exe
+  url: https://github.com/ngudbhav/lazyType/releases/download/v1.0.1/Setupx64.exe
+- name: Setupx86.exe
+  url: https://github.com/ngudbhav/lazyType/releases/download/v1.0.1/Setupx86.exe
+electron: 6.1.12
+method: src-range-guess

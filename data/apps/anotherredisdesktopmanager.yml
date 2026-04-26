@@ -1,0 +1,30 @@
+id: anotherredisdesktopmanager
+repository: https://github.com/qishibo/AnotherRedisDesktopManager
+website: https://github.com/qishibo/AnotherRedisDesktopManager
+latest: v1.7.1
+src: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.1.zip
+downloads:
+- name: Another-Redis-Desktop-Manager-linux-1.7.1-arm64.AppImage
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-linux-1.7.1-arm64.AppImage
+- name: Another-Redis-Desktop-Manager-linux-1.7.1-x86_64.AppImage
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-linux-1.7.1-x86_64.AppImage
+- name: Another-Redis-Desktop-Manager-mac-1.7.1-arm64.dmg
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-mac-1.7.1-arm64.dmg
+- name: Another-Redis-Desktop-Manager-mac-1.7.1-x64.dmg
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-mac-1.7.1-x64.dmg
+- name: Another-Redis-Desktop-Manager-win-1.7.1-arm64.exe
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-arm64.exe
+- name: Another-Redis-Desktop-Manager-win-1.7.1-x64.exe
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-x64.exe
+- name: Another-Redis-Desktop-Manager-win-1.7.1-x64.zip
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-x64.zip
+- name: latest-linux-arm64.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest.yml
+electron: 12.2.3
+method: src-package-lock

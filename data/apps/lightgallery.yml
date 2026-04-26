@@ -1,0 +1,13 @@
+id: lightgallery
+repository: https://github.com/sachinchoolur/lightgallery-desktop
+website: https://sachinchoolur.github.io/lightgallery-desktop/
+latest: 0.1.1
+src: https://github.com/sachinchoolur/lightgallery-desktop/archive/refs/tags/0.1.1.zip
+downloads:
+- name: lightgallery_0.1.1-windows.zip
+  url: https://github.com/sachinchoolur/lightgallery-desktop/releases/download/0.1.1/lightgallery_0.1.1-windows.zip
+- name: lightgallery_0.1.1.dmg-mac.zip
+  url: https://github.com/sachinchoolur/lightgallery-desktop/releases/download/0.1.1/lightgallery_0.1.1.dmg-mac.zip
+- name: lightgallery_0.1.1_amd64-linux.deb
+  url: https://github.com/sachinchoolur/lightgallery-desktop/releases/download/0.1.1/lightgallery_0.1.1_amd64-linux.deb
+homebrew: lightgallery

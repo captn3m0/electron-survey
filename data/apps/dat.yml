@@ -1,0 +1,36 @@
+id: dat
+repository: https://github.com/datproject/dat-desktop
+website: https://datproject.org
+latest: v3.0.1
+src: https://github.com/datproject/dat-desktop/archive/refs/tags/v3.0.1.zip
+downloads:
+- name: Dat-Desktop-3.0.1-i386.AppImage
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-3.0.1-i386.AppImage
+- name: Dat-Desktop-3.0.1-mac.zip
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-3.0.1-mac.zip
+- name: Dat-Desktop-3.0.1.AppImage
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-3.0.1.AppImage
+- name: Dat-Desktop-3.0.1.dmg
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-3.0.1.dmg
+- name: Dat-Desktop-3.0.1.dmg.blockmap
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-3.0.1.dmg.blockmap
+- name: Dat-Desktop-Setup-3.0.1.exe
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-Setup-3.0.1.exe
+- name: Dat-Desktop-Setup-3.0.1.exe.blockmap
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-Setup-3.0.1.exe.blockmap
+- name: dat-desktop_3.0.1_amd64.deb
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/dat-desktop_3.0.1_amd64.deb
+- name: dat-desktop_3.0.1_i386.deb
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/dat-desktop_3.0.1_i386.deb
+- name: latest-linux-ia32.yml
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/latest-linux-ia32.yml
+- name: latest-linux.yml
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/latest.yml
+electron: 8.0.1
+method: src-package-lock
+aur:
+- dat

@@ -1,0 +1,17 @@
+id: signal
+repository: https://github.com/signalapp/Signal-Desktop
+website: https://signal.org
+latest: v8.4.0
+src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.4.0.zip
+electron: 23.3.13
+method: src-pnpm-lock
+aur:
+- signal-desktop-beta
+- signal-desktop-beta-bin
+- signal-desktop-git
+- signal-desktop-system-electron
+homebrew: signal
+downloads:
+- url: https://updates.signal.org/desktop/signal-desktop-mac-arm64-8.3.0.zip
+  name: signal-desktop-mac-arm64-8.3.0.zip
+  version: 8.3.0

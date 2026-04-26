@@ -1,0 +1,16 @@
+id: wire
+repository: https://github.com/wireapp
+website: https://wire.com
+aur:
+- frostwire
+- marmot
+- muwire
+- muwire-git
+- wire-desktop-git
+electron: 38.8.6
+method: aur-depends
+homebrew: wire
+downloads:
+- url: https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.40.5442/Wire.pkg
+  name: Wire.pkg
+  version: 3.40.5442

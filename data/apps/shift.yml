@@ -1,0 +1,12 @@
+id: shift
+website: https://shift.com
+aur:
+- ocm-cli-bin
+- opc-bin
+- openshift-pipelines-bin
+- shift
+homebrew: shift
+downloads:
+- url: https://updates.tryshift.com/v9.6.4/stable/shift-v9.6.4.1231-stable-arm64.dmg
+  name: shift-v9.6.4.1231-stable-arm64.dmg
+  version: 9.6.4.1231

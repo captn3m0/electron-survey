@@ -1,0 +1,28 @@
+id: recode-converter
+repository: https://github.com/murgatt/recode-converter
+website: https://murgatt.github.io/recode-converter/
+latest: v2.1.1
+src: https://github.com/murgatt/recode-converter/archive/refs/tags/v2.1.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/latest.yml
+- name: Recode-Converter-Linux-2.1.1.AppImage
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Linux-2.1.1.AppImage
+- name: Recode-Converter-Mac-arm64-2.1.1-Installer.dmg
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Mac-arm64-2.1.1-Installer.dmg
+- name: Recode-Converter-Mac-arm64-2.1.1-Installer.dmg.blockmap
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Mac-arm64-2.1.1-Installer.dmg.blockmap
+- name: Recode-Converter-Mac-x64-2.1.1-Installer.dmg
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Mac-x64-2.1.1-Installer.dmg
+- name: Recode-Converter-Mac-x64-2.1.1-Installer.dmg.blockmap
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Mac-x64-2.1.1-Installer.dmg.blockmap
+- name: Recode-Converter-Windows-2.1.1-Setup.exe
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Windows-2.1.1-Setup.exe
+- name: Recode-Converter-Windows-2.1.1-Setup.exe.blockmap
+  url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Windows-2.1.1-Setup.exe.blockmap
+electron: 40.6.1
+method: src-pnpm-lock

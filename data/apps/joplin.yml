@@ -1,0 +1,49 @@
+id: joplin
+repository: https://github.com/laurent22/joplin
+website: https://joplinapp.org/
+latest: v3.5.13
+src: https://github.com/laurent22/joplin/archive/refs/tags/v3.5.13.zip
+downloads:
+- name: Joplin-3.5.13-arm64.DMG
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13-arm64.DMG
+- name: Joplin-3.5.13-arm64.dmg.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13-arm64.dmg.blockmap
+- name: Joplin-3.5.13-arm64.zip
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13-arm64.zip
+- name: Joplin-3.5.13-arm64.zip.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13-arm64.zip.blockmap
+- name: Joplin-3.5.13-mac.zip
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13-mac.zip
+- name: Joplin-3.5.13-mac.zip.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13-mac.zip.blockmap
+- name: Joplin-3.5.13.AppImage
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13.AppImage
+- name: Joplin-3.5.13.AppImage.sha512
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13.AppImage.sha512
+- name: Joplin-3.5.13.deb
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13.deb
+- name: Joplin-3.5.13.dmg
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13.dmg
+- name: Joplin-3.5.13.dmg.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-3.5.13.dmg.blockmap
+- name: Joplin-Setup-3.5.13.exe
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-Setup-3.5.13.exe
+- name: Joplin-Setup-3.5.13.exe.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/Joplin-Setup-3.5.13.exe.blockmap
+- name: JoplinPortable.exe
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/JoplinPortable.exe
+- name: latest-linux.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/latest-linux.yml
+- name: latest-mac-arm64.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/latest-mac-arm64.yml
+- name: latest-mac.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.5.13/latest.yml
+electron: 39.2.3
+method: src-yarn-lock
+aur:
+- joplin
+- joplin-desktop
+- joplin-beta
+homebrew: joplin

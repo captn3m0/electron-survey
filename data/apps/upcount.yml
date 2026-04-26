@@ -1,0 +1,28 @@
+id: upcount
+repository: https://github.com/madisvain/upcount
+website: https://www.upcount.app
+latest: v2.0.0-beta.23
+src: https://github.com/madisvain/upcount/archive/refs/tags/v2.0.0-beta.23.zip
+downloads:
+- name: latest.json
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/latest.json
+- name: Upcount-2.0.0-beta.23-1.x86_64.rpm
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount-2.0.0-beta.23-1.x86_64.rpm
+- name: Upcount_2.0.0-beta.23_aarch64.dmg
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_2.0.0-beta.23_aarch64.dmg
+- name: Upcount_2.0.0-beta.23_amd64.AppImage
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_2.0.0-beta.23_amd64.AppImage
+- name: Upcount_2.0.0-beta.23_amd64.AppImage.sig
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_2.0.0-beta.23_amd64.AppImage.sig
+- name: Upcount_2.0.0-beta.23_amd64.deb
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_2.0.0-beta.23_amd64.deb
+- name: Upcount_2.0.0-beta.23_x64.dmg
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_2.0.0-beta.23_x64.dmg
+- name: Upcount_aarch64.app.tar.gz
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_aarch64.app.tar.gz
+- name: Upcount_aarch64.app.tar.gz.sig
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_aarch64.app.tar.gz.sig
+- name: Upcount_x64.app.tar.gz
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_x64.app.tar.gz
+- name: Upcount_x64.app.tar.gz.sig
+  url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_x64.app.tar.gz.sig

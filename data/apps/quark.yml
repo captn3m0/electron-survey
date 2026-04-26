@@ -1,0 +1,38 @@
+id: quark
+repository: https://github.com/Nishkalkashyap/Quark-electron
+website: https://quarkjs.io
+latest: v0.6.2
+src: https://github.com/Nishkalkashyap/Quark-electron/archive/refs/tags/v0.6.2.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/latest.yml
+- name: Quark-linux-amd64-0.6.2.deb
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-linux-amd64-0.6.2.deb
+- name: Quark-linux-x64-0.6.2.tar.gz
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-linux-x64-0.6.2.tar.gz
+- name: Quark-linux-x86_64-0.6.2.AppImage
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-linux-x86_64-0.6.2.AppImage
+- name: Quark-mac-0.6.2.dmg
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-mac-0.6.2.dmg
+- name: Quark-mac-0.6.2.dmg.blockmap
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-mac-0.6.2.dmg.blockmap
+- name: Quark-mac-0.6.2.zip
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-mac-0.6.2.zip
+- name: Quark-win-0.6.2.exe
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-win-0.6.2.exe
+- name: Quark-win-0.6.2.exe.blockmap
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-win-0.6.2.exe.blockmap
+- name: Quark-win-x64-0.6.2.msi
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-win-x64-0.6.2.msi
+- name: Quark-win-x64-0.6.2.zip
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/Quark-win-x64-0.6.2.zip
+- name: www.tar.gz
+  url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.2/www.tar.gz
+electron: 6.0.10
+method: src-package-lock
+aur:
+- quark-electron-bin

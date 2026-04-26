@@ -1,0 +1,9 @@
+id: loom
+website: https://www.loom.com
+aur:
+- decker
+homebrew: loom
+downloads:
+- url: https://packages.loom.com/desktop-packages/Loom-0.338.4-arm64.dmg
+  name: Loom-0.338.4-arm64.dmg
+  version: 0.338.4

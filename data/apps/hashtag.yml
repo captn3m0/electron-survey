@@ -1,0 +1,10 @@
+id: hashtag
+repository: https://github.com/MrAnyx/HashTag
+website: https://github.com/MrAnyx/HashTag
+latest: '1.0'
+src: https://github.com/MrAnyx/HashTag/archive/refs/tags/1.0.zip
+downloads:
+- name: HashTag-win32-x64.zip
+  url: https://github.com/MrAnyx/HashTag/releases/download/1.0/HashTag-win32-x64.zip
+electron: 7.2.4
+method: src-package-lock

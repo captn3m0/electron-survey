@@ -1,0 +1,10 @@
+id: keycombiner
+repository: https://github.com/tkainrad/keycombiner
+website: https://keycombiner.com/
+aur:
+- keycombiner
+homebrew: keycombiner
+downloads:
+- url: https://keycombiner.com/download/KeyCombiner-0.8.0-universal.dmg
+  name: KeyCombiner-0.8.0-universal.dmg
+  version: 0.8.0

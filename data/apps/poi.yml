@@ -1,0 +1,65 @@
+id: poi
+repository: https://github.com/poooi/poi
+website: https://poi.moe
+latest: v11.1.0
+src: https://github.com/poooi/poi/archive/refs/tags/v11.1.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/latest.yml
+- name: poi-11.1.0-aarch64.pacman
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-aarch64.pacman
+- name: poi-11.1.0-arm64-mac.zip
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64-mac.zip
+- name: poi-11.1.0-arm64-mac.zip.blockmap
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64-mac.zip.blockmap
+- name: poi-11.1.0-arm64-win.7z
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64-win.7z
+- name: poi-11.1.0-arm64.7z
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64.7z
+- name: poi-11.1.0-arm64.AppImage
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64.AppImage
+- name: poi-11.1.0-arm64.dmg
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64.dmg
+- name: poi-11.1.0-arm64.dmg.blockmap
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-arm64.dmg.blockmap
+- name: poi-11.1.0-ia32-win.7z
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-ia32-win.7z
+- name: poi-11.1.0-mac.zip
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-mac.zip
+- name: poi-11.1.0-mac.zip.blockmap
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-mac.zip.blockmap
+- name: poi-11.1.0-win.7z
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0-win.7z
+- name: poi-11.1.0.7z
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.7z
+- name: poi-11.1.0.aarch64.rpm
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.aarch64.rpm
+- name: poi-11.1.0.AppImage
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.AppImage
+- name: poi-11.1.0.dmg
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.dmg
+- name: poi-11.1.0.dmg.blockmap
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.dmg.blockmap
+- name: poi-11.1.0.pacman
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.pacman
+- name: poi-11.1.0.x86_64.rpm
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-11.1.0.x86_64.rpm
+- name: poi-setup-11.1.0.exe
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-setup-11.1.0.exe
+- name: poi-setup-11.1.0.exe.blockmap
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi-setup-11.1.0.exe.blockmap
+- name: poi_11.1.0_amd64.deb
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi_11.1.0_amd64.deb
+- name: poi_11.1.0_arm64.deb
+  url: https://github.com/poooi/poi/releases/download/v11.1.0/poi_11.1.0_arm64.deb
+electron: 38.3.0
+method: src-package-lock
+aur:
+- poi-git
+homebrew: poi

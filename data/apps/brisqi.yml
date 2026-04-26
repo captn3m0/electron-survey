@@ -1,0 +1,6 @@
+id: brisqi
+website: https://brisqi.com
+aur:
+- brisqi-bin
+electron: 40.8.3
+method: aur-depends

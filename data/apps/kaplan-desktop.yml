@@ -1,0 +1,7 @@
+id: kaplan-desktop
+repository: https://github.com/kaplanPRO/kaplan-desktop
+website: https://kaplan.pro
+latest: v0.6.4
+src: https://github.com/kaplanPRO/kaplan-desktop/archive/refs/tags/v0.6.4.zip
+electron: 13.6.9
+method: src-yarn-lock

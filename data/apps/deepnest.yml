@@ -1,0 +1,41 @@
+id: deepnest
+website: https://deepnest.io/
+repository: https://github.com/deepnest-next/deepnest
+homebrew: deepnest
+downloads:
+- name: deepnest-v1.5.6-darwin-arm64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-darwin-arm64.zip
+- name: deepnest-v1.5.6-darwin-x64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-darwin-x64.zip
+- name: deepnest-v1.5.6-linux-arm64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-linux-arm64.zip
+- name: deepnest-v1.5.6-linux-x64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-linux-x64.zip
+- name: deepnest-v1.5.6-mac-arm64.dmg
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-arm64.dmg
+- name: deepnest-v1.5.6-mac-arm64.dmg.blockmap
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-arm64.dmg.blockmap
+- name: deepnest-v1.5.6-mac-arm64.pkg
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-arm64.pkg
+- name: deepnest-v1.5.6-mac-arm64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-arm64.zip
+- name: deepnest-v1.5.6-mac-arm64.zip.blockmap
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-arm64.zip.blockmap
+- name: deepnest-v1.5.6-mac-x64.dmg
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-x64.dmg
+- name: deepnest-v1.5.6-mac-x64.dmg.blockmap
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-x64.dmg.blockmap
+- name: deepnest-v1.5.6-mac-x64.pkg
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-x64.pkg
+- name: deepnest-v1.5.6-mac-x64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-x64.zip
+- name: deepnest-v1.5.6-mac-x64.zip.blockmap
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-mac-x64.zip.blockmap
+- name: deepnest-v1.5.6-win32-x64.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-win32-x64.zip
+- name: deepnest-v1.5.6-win32-x64_signed.zip
+  url: https://github.com/deepnest-next/deepnest/releases/download/v1.5.6/deepnest-v1.5.6-win32-x64_signed.zip
+latest: v1.5.6
+src: https://github.com/deepnest-next/deepnest/archive/refs/tags/v1.5.6.zip
+electron: 34.5.5
+method: src-package-lock

@@ -1,0 +1,9 @@
+id: franz
+website: https://meetfranz.com/
+aur:
+- franz-bin
+homebrew: franz
+downloads:
+- url: https://github.com/meetfranz/franz/releases/download/v5.11.0/franz-5.11.0-arm64.dmg
+  name: franz-5.11.0-arm64.dmg
+  version: 5.11.0

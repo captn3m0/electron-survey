@@ -1,0 +1,18 @@
+id: todometer
+repository: https://github.com/cassidoo/todometer/
+website: https://cassidoo.github.io/todometer/
+latest: v2.0.1
+src: https://github.com/cassidoo/todometer/archive/refs/tags/v2.0.1.zip
+downloads:
+- name: todometer.for.linux.zip
+  url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.linux.zip
+- name: todometer.for.mac.zip
+  url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.mac.zip
+- name: todometer.for.windows.zip
+  url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.windows.zip
+electron: 7.3.3
+method: src-range-guess
+aur:
+- todometer-bin
+- todometer-git
+homebrew: todometer

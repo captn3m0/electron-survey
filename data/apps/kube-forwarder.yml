@@ -1,0 +1,29 @@
+id: kube-forwarder
+repository: https://github.com/pixel-point/kube-forwarder
+website: https://kube-forwarder.pixelpoint.io/
+latest: v1.5.1
+src: https://github.com/pixel-point/kube-forwarder/archive/refs/tags/v1.5.1.zip
+downloads:
+- name: kube-forwarder.AppImage
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/kube-forwarder.AppImage
+- name: kube-forwarder.dmg
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/kube-forwarder.dmg
+- name: kube-forwarder.dmg.blockmap
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/kube-forwarder.dmg.blockmap
+- name: kube-forwarder.exe
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/kube-forwarder.exe
+- name: kube-forwarder.exe.blockmap
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/kube-forwarder.exe.blockmap
+- name: kube-forwarder.zip
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/kube-forwarder.zip
+- name: latest-linux.yml
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/pixel-point/kube-forwarder/releases/download/v1.5.1/latest.yml
+electron: 5.0.6
+method: src-package-lock
+aur:
+- kube-forwarder
+homebrew: kube-forwarder

@@ -1,0 +1,7 @@
+id: illyriad
+website: https://store.steampowered.com/app/559310
+homebrew: steam
+downloads:
+- url: https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg
+  name: steam.dmg
+  version: '6.0'

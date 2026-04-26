@@ -1,0 +1,14 @@
+id: todo
+repository: https://github.com/luapp/ToDo
+website: https://to-do-tasks-lists.web.app
+latest: v1.0.0
+src: https://github.com/luapp/ToDo/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: To-Do-Setup-1.0.0.exe
+  url: https://github.com/luapp/ToDo/releases/download/v1.0.0/To-Do-Setup-1.0.0.exe
+- name: To.Do-1.0.0.dmg
+  url: https://github.com/luapp/ToDo/releases/download/v1.0.0/To.Do-1.0.0.dmg
+electron: 11.1.1
+method: src-package-lock
+aur:
+- todo

@@ -1,0 +1,16 @@
+id: lot-lot-of-things
+repository: https://github.com/Jisco/LotOfThings
+website: https://jisco.me/lot
+latest: v1.1.0
+src: https://github.com/Jisco/LotOfThings/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: LoT.1.1.0.dmg
+  url: https://github.com/Jisco/LotOfThings/releases/download/v1.1.0/LoT.1.1.0.dmg
+- name: LoT.1.1.0.exe
+  url: https://github.com/Jisco/LotOfThings/releases/download/v1.1.0/LoT.1.1.0.exe
+- name: LoT.1.1.0.portable.exe
+  url: https://github.com/Jisco/LotOfThings/releases/download/v1.1.0/LoT.1.1.0.portable.exe
+aur:
+- visualfamilytree-bin
+electron: 4.2.12
+method: aur-depends

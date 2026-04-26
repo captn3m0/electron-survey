@@ -1,0 +1,26 @@
+id: tilde
+repository: https://github.com/paologiua/tilde
+website: https://github.com/paologiua/tilde
+latest: v1.0.0
+src: https://github.com/paologiua/tilde/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Tilde-1.0.0.AppImage
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/Tilde-1.0.0.AppImage
+- name: tilde-podcast-1.0.0.x86_64.rpm
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/tilde-podcast-1.0.0.x86_64.rpm
+- name: tilde-podcast_1.0.0_amd64.deb
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/tilde-podcast_1.0.0_amd64.deb
+- name: tilde-podcast_1.0.0_amd64.snap
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/tilde-podcast_1.0.0_amd64.snap
+- name: Tilde.1.0.0.exe
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/Tilde.1.0.0.exe
+- name: Tilde.1.0.0.msi
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/Tilde.1.0.0.msi
+- name: Tilde.Setup.0.9.9.exe
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/Tilde.Setup.0.9.9.exe
+- name: Tilde.Setup.1.0.0.exe
+  url: https://github.com/paologiua/tilde/releases/download/v1.0.0/Tilde.Setup.1.0.0.exe
+electron: 10.1.5
+method: src-package-lock
+aur:
+- tilde

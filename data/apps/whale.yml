@@ -1,0 +1,37 @@
+id: whale
+repository: https://github.com/1000ch/whale
+website: https://github.com/1000ch/whale
+latest: v2.4.0
+src: https://github.com/1000ch/whale/archive/refs/tags/v2.4.0.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/builder-debug.yml
+- name: builder-effective-config.yaml
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/builder-effective-config.yaml
+- name: latest-linux.yml
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/latest.yml
+- name: Whale-2.4.0-mac.zip
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/Whale-2.4.0-mac.zip
+- name: Whale-2.4.0.AppImage
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/Whale-2.4.0.AppImage
+- name: Whale-2.4.0.dmg
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/Whale-2.4.0.dmg
+- name: Whale-2.4.0.dmg.blockmap
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/Whale-2.4.0.dmg.blockmap
+- name: Whale.Setup.2.4.0.exe
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/Whale.Setup.2.4.0.exe
+- name: Whale.Setup.2.4.0.exe.blockmap
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/Whale.Setup.2.4.0.exe.blockmap
+- name: whale_2.4.0_amd64.deb
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/whale_2.4.0_amd64.deb
+- name: whale_2.4.0_amd64.snap
+  url: https://github.com/1000ch/whale/releases/download/v2.4.0/whale_2.4.0_amd64.snap
+electron: 12.0.0
+method: src-package-lock
+aur:
+- whale
+homebrew: whale

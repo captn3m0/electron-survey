@@ -1,0 +1,38 @@
+id: webtorrent
+repository: https://github.com/webtorrent/webtorrent-desktop
+website: https://webtorrent.io/
+latest: v0.24.0
+src: https://github.com/webtorrent/webtorrent-desktop/archive/refs/tags/v0.24.0.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/RELEASES
+- name: WebTorrent-0.24.0-full.nupkg
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-0.24.0-full.nupkg
+- name: webtorrent-desktop-0.24.0-1.arm64.rpm
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop-0.24.0-1.arm64.rpm
+- name: webtorrent-desktop-0.24.0-1.x86_64.rpm
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop-0.24.0-1.x86_64.rpm
+- name: webtorrent-desktop_0.24.0_amd64.deb
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop_0.24.0_amd64.deb
+- name: webtorrent-desktop_0.24.0_arm64.deb
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/webtorrent-desktop_0.24.0_arm64.deb
+- name: WebTorrent-v0.24.0-darwin.zip
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-darwin.zip
+- name: WebTorrent-v0.24.0-linux-arm64.zip
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-linux-arm64.zip
+- name: WebTorrent-v0.24.0-linux-x64.zip
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-linux-x64.zip
+- name: WebTorrent-v0.24.0-win.zip
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-win.zip
+- name: WebTorrent-v0.24.0.dmg
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0.dmg
+- name: WebTorrentSetup-v0.24.0.exe
+  url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrentSetup-v0.24.0.exe
+electron: 10.1.0
+method: src-package-lock
+aur:
+- webtorrent-cli
+- webtorrent-desktop
+- webtorrent-desktop-bin
+- webtorrent-desktop-git
+homebrew: webtorrent

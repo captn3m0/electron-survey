@@ -1,0 +1,44 @@
+id: e-search
+repository: https://github.com/xushengfeng/eSearch
+website: https://esearch.vercel.app/
+latest: 15.2.3
+src: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.2.3.zip
+downloads:
+- name: eSearch-15.2.3-darwin-arm64.dmg
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-darwin-arm64.dmg
+- name: eSearch-15.2.3-darwin-arm64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-darwin-arm64.zip
+- name: eSearch-15.2.3-darwin-x64.dmg
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-darwin-x64.dmg
+- name: eSearch-15.2.3-darwin-x64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-darwin-x64.zip
+- name: eSearch-15.2.3-linux-arm64.AppImage
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-arm64.AppImage
+- name: eSearch-15.2.3-linux-arm64.deb
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-arm64.deb
+- name: eSearch-15.2.3-linux-arm64.rpm
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-arm64.rpm
+- name: eSearch-15.2.3-linux-arm64.tar.gz
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-arm64.tar.gz
+- name: eSearch-15.2.3-linux-x64.AppImage
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-x64.AppImage
+- name: eSearch-15.2.3-linux-x64.deb
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-x64.deb
+- name: eSearch-15.2.3-linux-x64.rpm
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-x64.rpm
+- name: eSearch-15.2.3-linux-x64.tar.gz
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-linux-x64.tar.gz
+- name: eSearch-15.2.3-win32-arm64.exe
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-win32-arm64.exe
+- name: eSearch-15.2.3-win32-arm64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-win32-arm64.zip
+- name: eSearch-15.2.3-win32-x64.exe
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-win32-x64.exe
+- name: eSearch-15.2.3-win32-x64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch-15.2.3-win32-x64.zip
+- name: eSearch_15.2.3.aur
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.2.3/eSearch_15.2.3.aur
+electron: 35.7.5
+method: src-pnpm-lock
+aur:
+- e-search

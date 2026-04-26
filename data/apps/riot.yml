@@ -1,0 +1,13 @@
+id: riot
+repository: https://github.com/vector-im/element-desktop
+website: https://element.io/
+latest: v1.12.13
+src: https://github.com/vector-im/element-desktop/archive/refs/tags/v1.12.13.zip
+downloads:
+- name: v1.12.13.tar.gz.asc
+  url: https://github.com/element-hq/element-desktop/releases/download/v1.12.13/v1.12.13.tar.gz.asc
+electron: 40.6.1
+method: src-pnpm-lock
+aur:
+- element-desktop-nightly-bin
+homebrew: element

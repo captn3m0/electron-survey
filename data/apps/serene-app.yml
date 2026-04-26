@@ -1,0 +1,7 @@
+id: serene-app
+website: https://sereneapp.com/
+homebrew: serene
+downloads:
+- url: https://storage.googleapis.com/serene-production-builds/Serene-3.0.1.dmg
+  name: Serene-3.0.1.dmg
+  version: 3.0.1

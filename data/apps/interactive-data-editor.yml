@@ -1,0 +1,18 @@
+id: interactive-data-editor
+website: https://github.com/Koushikphy/Interactive_Data_Editor
+repository: https://github.com/Koushikphy/Interactive_Data_Editor
+latest: v2.13.1
+src: https://github.com/Koushikphy/Interactive_Data_Editor/archive/refs/tags/v2.13.1.zip
+downloads:
+- name: interactive-data-editor_2.13.1_amd64.deb
+  url: https://github.com/Koushikphy/Interactive_Data_Editor/releases/download/v2.13.1/interactive-data-editor_2.13.1_amd64.deb
+- name: interactive-data-editor_2.13.1_amd64.snap
+  url: https://github.com/Koushikphy/Interactive_Data_Editor/releases/download/v2.13.1/interactive-data-editor_2.13.1_amd64.snap
+- name: interactive-data-editor_2.13.1_x64.exe
+  url: https://github.com/Koushikphy/Interactive_Data_Editor/releases/download/v2.13.1/interactive-data-editor_2.13.1_x64.exe
+- name: interactive-data-editor_2.13.1_x64.msi
+  url: https://github.com/Koushikphy/Interactive_Data_Editor/releases/download/v2.13.1/interactive-data-editor_2.13.1_x64.msi
+- name: interactive-data-editor_2.13.1_x86_64.AppImage
+  url: https://github.com/Koushikphy/Interactive_Data_Editor/releases/download/v2.13.1/interactive-data-editor_2.13.1_x86_64.AppImage
+electron: 17.4.11
+method: src-range-guess

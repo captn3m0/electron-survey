@@ -1,0 +1,35 @@
+id: swifty
+repository: https://github.com/alchaplinsky/swifty
+website: https://github.com/alchaplinsky/swifty
+latest: v0.6.13
+src: https://github.com/alchaplinsky/swifty/archive/refs/tags/v0.6.13.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/latest.yml
+- name: Swifty-0.6.13-mac.zip
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13-mac.zip
+- name: Swifty-0.6.13-mac.zip.blockmap
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13-mac.zip.blockmap
+- name: Swifty-0.6.13.AppImage
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.AppImage
+- name: Swifty-0.6.13.dmg
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.dmg
+- name: Swifty-0.6.13.dmg.blockmap
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.dmg.blockmap
+- name: Swifty-0.6.13.pkg
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.pkg
+- name: Swifty-0.6.13.x86_64.rpm
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.x86_64.rpm
+- name: Swifty-Setup-0.6.13.exe
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-Setup-0.6.13.exe
+- name: Swifty-Setup-0.6.13.exe.blockmap
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-Setup-0.6.13.exe.blockmap
+- name: Swifty_0.6.13_amd64.deb
+  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty_0.6.13_amd64.deb
+electron: 21.2.0
+method: src-yarn-lock
+homebrew: swifty

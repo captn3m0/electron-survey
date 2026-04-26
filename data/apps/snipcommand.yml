@@ -1,0 +1,14 @@
+id: snipcommand
+repository: https://github.com/gurayyarar/SnipCommand
+website: https://github.com/gurayyarar/SnipCommand
+latest: v0.1.0
+src: https://github.com/gurayyarar/SnipCommand/archive/refs/tags/v0.1.0.zip
+downloads:
+- name: SnipCommand-0.1.0.AppImage
+  url: https://github.com/gurayyarar/SnipCommand/releases/download/v0.1.0/SnipCommand-0.1.0.AppImage
+- name: SnipCommand-0.1.0.dmg
+  url: https://github.com/gurayyarar/SnipCommand/releases/download/v0.1.0/SnipCommand-0.1.0.dmg
+- name: SnipCommand-0.1.0.exe
+  url: https://github.com/gurayyarar/SnipCommand/releases/download/v0.1.0/SnipCommand-0.1.0.exe
+electron: 9.3.0
+method: src-yarn-lock

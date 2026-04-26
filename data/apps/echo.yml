@@ -1,0 +1,10 @@
+id: echo
+repository: https://github.com/afractal/echo-app
+website: https://afractal.github.io/echo-app
+latest: '1.0'
+src: https://github.com/afractal/echo-app/archive/refs/tags/1.0.zip
+downloads:
+- name: Echo-v1.0.0.exe
+  url: https://github.com/afractal/echo-app/releases/download/1.0/Echo-v1.0.0.exe
+aur:
+- echo

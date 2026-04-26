@@ -1,0 +1,10 @@
+id: morgen
+website: https://morgen.so
+aur:
+- morgen-bin
+- morgen3-bin
+homebrew: morgen
+downloads:
+- url: https://download.todesktop.com/210203cqcj00tw1/Morgen%204.0.4%20-%20Build%202602193oszs1hv7-arm64.dmg
+  name: Morgen%204.0.4%20-%20Build%202602193oszs1hv7-arm64.dmg
+  version: 4.0.4,2602193oszs1hv7

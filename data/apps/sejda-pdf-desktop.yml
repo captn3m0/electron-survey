@@ -1,0 +1,9 @@
+id: sejda-pdf-desktop
+website: https://www.sejda.com/desktop
+aur:
+- sejda-desktop
+homebrew: sejda-pdf
+downloads:
+- url: https://downloads.sejda-cdn.com/sejda-desktop_7.9.3_arm64.dmg
+  name: sejda-desktop_7.9.3_arm64.dmg
+  version: 7.9.3

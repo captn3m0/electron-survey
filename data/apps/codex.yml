@@ -1,0 +1,27 @@
+id: codex
+repository: https://github.com/jcv8000/Codex
+website: https://www.codexnotes.com/
+latest: v2.0.5
+src: https://github.com/jcv8000/Codex/archive/refs/tags/v2.0.5.zip
+downloads:
+- name: Codex-2.0.5-amd64.deb
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-amd64.deb
+- name: Codex-2.0.5-arm64-mac.zip
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-arm64-mac.zip
+- name: Codex-2.0.5-arm64.dmg
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-arm64.dmg
+- name: Codex-2.0.5-intel-mac.zip
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-intel-mac.zip
+- name: Codex-2.0.5-intel.dmg
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-intel.dmg
+- name: Codex-2.0.5-Setup.exe
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-Setup.exe
+- name: Codex-2.0.5-win.zip
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-win.zip
+- name: Codex-2.0.5.tar.xz
+  url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5.tar.xz
+electron: 32.3.1
+method: src-pnpm-lock
+aur:
+- codex-bin
+homebrew: codex

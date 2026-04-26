@@ -1,0 +1,10 @@
+id: wanna-class
+repository: https://github.com/MissterHao/WannaClass
+website: https://github.com/MissterHao/WannaClass
+latest: v1.0.0
+src: https://github.com/MissterHao/WannaClass/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Wanna.Class.1.0.0.exe
+  url: https://github.com/MissterHao/WannaClass/releases/download/v1.0.0/Wanna.Class.1.0.0.exe
+electron: 12.2.3
+method: src-range-guess

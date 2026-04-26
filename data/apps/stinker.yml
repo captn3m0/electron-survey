@@ -1,0 +1,16 @@
+id: stinker
+repository: https://github.com/PatentLobster/stinker
+website: https://itzik.co
+latest: v0.3.2
+src: https://github.com/PatentLobster/stinker/archive/refs/tags/v0.3.2.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/PatentLobster/stinker/releases/download/v0.3.2/latest-mac.yml
+- name: Stinker-0.3.2-mac.zip
+  url: https://github.com/PatentLobster/stinker/releases/download/v0.3.2/Stinker-0.3.2-mac.zip
+- name: Stinker-0.3.2.dmg
+  url: https://github.com/PatentLobster/stinker/releases/download/v0.3.2/Stinker-0.3.2.dmg
+- name: Stinker-0.3.2.dmg.blockmap
+  url: https://github.com/PatentLobster/stinker/releases/download/v0.3.2/Stinker-0.3.2.dmg.blockmap
+electron: 11.4.11
+method: src-yarn-lock

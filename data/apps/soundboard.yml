@@ -1,0 +1,18 @@
+id: soundboard
+repository: https://github.com/Glecun/soundboard
+website: https://github.com/Glecun/soundboard
+latest: v0.0.6
+src: https://github.com/Glecun/soundboard/archive/refs/tags/v0.0.6.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Glecun/soundboard/releases/download/v0.0.6/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/Glecun/soundboard/releases/download/v0.0.6/latest.yml
+- name: soundboard-0.0.6.AppImage
+  url: https://github.com/Glecun/soundboard/releases/download/v0.0.6/soundboard-0.0.6.AppImage
+- name: soundboard-Setup-0.0.6.exe
+  url: https://github.com/Glecun/soundboard/releases/download/v0.0.6/soundboard-Setup-0.0.6.exe
+- name: soundboard-Setup-0.0.6.exe.blockmap
+  url: https://github.com/Glecun/soundboard/releases/download/v0.0.6/soundboard-Setup-0.0.6.exe.blockmap
+electron: 11.0.1
+method: src-yarn-lock

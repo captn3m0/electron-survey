@@ -1,0 +1,17 @@
+id: wail
+repository: https://github.com/N0taN3rd/wail
+website: https://github.com/N0taN3rd/wail
+latest: 1.1.0
+src: https://github.com/N0taN3rd/wail/archive/refs/tags/1.1.0.zip
+downloads:
+- name: WAIL-darwin-x64.zip
+  url: https://github.com/N0taN3rd/wail/releases/download/1.1.0/WAIL-darwin-x64.zip
+- name: WAIL-linux-x64.zip
+  url: https://github.com/N0taN3rd/wail/releases/download/1.1.0/WAIL-linux-x64.zip
+- name: WAIL-win32-x64.zip
+  url: https://github.com/N0taN3rd/wail/releases/download/1.1.0/WAIL-win32-x64.zip
+- name: WAIL.dmg
+  url: https://github.com/N0taN3rd/wail/releases/download/1.1.0/WAIL.dmg
+electron: 1.7.3
+method: src-yarn-lock
+homebrew: wail

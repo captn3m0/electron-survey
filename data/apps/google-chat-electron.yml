@@ -1,0 +1,19 @@
+id: google-chat-electron
+repository: https://github.com/ankurk91/google-chat-electron
+website: https://github.com/ankurk91/google-chat-electron
+latest: 2.20.0
+src: https://github.com/ankurk91/google-chat-electron/archive/refs/tags/2.20.0.zip
+downloads:
+- name: google-chat-electron-2.20.0-darwin-arm64.zip
+  url: https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron-2.20.0-darwin-arm64.zip
+- name: google-chat-electron-2.20.0-darwin-x64.zip
+  url: https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron-2.20.0-darwin-x64.zip
+- name: google-chat-electron-deb-SHA512.txt
+  url: https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron-deb-SHA512.txt
+- name: google-chat-electron-setup-win-x64-2.20.0.exe
+  url: https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron-setup-win-x64-2.20.0.exe
+- name: google-chat-electron_2.20.0_amd64.deb
+  url: https://github.com/ankurk91/google-chat-electron/releases/download/2.20.0/google-chat-electron_2.20.0_amd64.deb
+  checksum: b7b108bf0bfd877d8b69ba0085655b94aa8aa0961f9137c7604d65a6e4f6ba35ab86016df1a743d704acadd125d782045d267bd668e686710e43cf9719162186
+electron: 21.3.1
+method: src-pnpm-lock

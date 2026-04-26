@@ -1,0 +1,14 @@
+id: lsdeer
+repository: https://github.com/AlexanderPershin/lsdeer
+website: https://lsdeer.vercel.app/
+latest: v0.1.6
+src: https://github.com/AlexanderPershin/lsdeer/archive/refs/tags/v0.1.6.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/AlexanderPershin/lsdeer/releases/download/v0.1.6/latest.yml
+- name: lsdeer-Setup-0.1.6.exe
+  url: https://github.com/AlexanderPershin/lsdeer/releases/download/v0.1.6/lsdeer-Setup-0.1.6.exe
+- name: lsdeer-Setup-0.1.6.exe.blockmap
+  url: https://github.com/AlexanderPershin/lsdeer/releases/download/v0.1.6/lsdeer-Setup-0.1.6.exe.blockmap
+electron: 8.2.1
+method: src-package-lock

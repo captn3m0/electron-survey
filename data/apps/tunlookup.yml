@@ -1,0 +1,34 @@
+id: tunlookup
+repository: https://github.com/thephucit/tunlookup
+website: https://thephucit.github.io/tunlookup/
+latest: 4.2.4
+src: https://github.com/thephucit/tunlookup/archive/refs/tags/4.2.4.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/builder-debug.yml
+- name: builder-effective-config.yaml
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/builder-effective-config.yaml
+- name: latest-mac.yml
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/latest.yml
+- name: Tunlookup-4.2.4-arm64-mac.zip
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-arm64-mac.zip
+- name: Tunlookup-4.2.4-arm64-mac.zip.blockmap
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-arm64-mac.zip.blockmap
+- name: Tunlookup-4.2.4-arm64.dmg
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-arm64.dmg
+- name: Tunlookup-4.2.4-arm64.dmg.blockmap
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-arm64.dmg.blockmap
+- name: Tunlookup-4.2.4-mac.zip
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-mac.zip
+- name: Tunlookup-4.2.4-mac.zip.blockmap
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-mac.zip.blockmap
+- name: Tunlookup-4.2.4.dmg
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4.dmg
+- name: Tunlookup-4.2.4.dmg.blockmap
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4.dmg.blockmap
+- name: Tunlookup.Setup.4.2.4.exe
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe
+- name: Tunlookup.Setup.4.2.4.exe.blockmap
+  url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe.blockmap

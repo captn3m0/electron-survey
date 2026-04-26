@@ -1,0 +1,34 @@
+id: email-securely-app
+website: https://github.com/vladimiry/email-securely-app
+repository: https://github.com/vladimiry/email-securely-app
+latest: v5.3.6
+src: https://github.com/vladimiry/email-securely-app/archive/refs/tags/v5.3.6.zip
+downloads:
+- name: electron-mail-5.3.6-linux-aarch64.pacman
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-aarch64.pacman
+- name: electron-mail-5.3.6-linux-aarch64.rpm
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-aarch64.rpm
+- name: electron-mail-5.3.6-linux-amd64.deb
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-amd64.deb
+- name: electron-mail-5.3.6-linux-amd64.snap
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-amd64.snap
+- name: electron-mail-5.3.6-linux-arm64.deb
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-arm64.deb
+- name: electron-mail-5.3.6-linux-x64.freebsd
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-x64.freebsd
+- name: electron-mail-5.3.6-linux-x64.pacman
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-x64.pacman
+- name: electron-mail-5.3.6-linux-x86_64.AppImage
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-x86_64.AppImage
+- name: electron-mail-5.3.6-linux-x86_64.rpm
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-x86_64.rpm
+- name: electron-mail-5.3.6-mac-arm64.dmg
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-mac-arm64.dmg
+- name: electron-mail-5.3.6-mac-x64.dmg
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-mac-x64.dmg
+- name: electron-mail-5.3.6-windows-arm64-nsis-installer.exe
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-arm64-nsis-installer.exe
+- name: electron-mail-5.3.6-windows-x64-nsis-installer.exe
+  url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-x64-nsis-installer.exe
+electron: 40.4.1
+method: src-pnpm-lock

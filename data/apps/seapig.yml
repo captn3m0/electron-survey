@@ -1,0 +1,20 @@
+id: seapig
+repository: https://github.com/yasumichi/seapig
+website: https://github.com/yasumichi/seapig/blob/master/README.md
+latest: v0.8.2
+src: https://github.com/yasumichi/seapig/archive/refs/tags/v0.8.2.zip
+downloads:
+- name: seapig-linux-arm64-0.8.2.zip
+  url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-linux-arm64-0.8.2.zip
+- name: seapig-linux-armv7l-0.8.2.zip
+  url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-linux-armv7l-0.8.2.zip
+- name: seapig-linux-ia32-0.8.2.zip
+  url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-linux-ia32-0.8.2.zip
+- name: seapig-linux-x64-0.8.2.zip
+  url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-linux-x64-0.8.2.zip
+- name: seapig-win32-ia32-0.8.2.zip
+  url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-win32-ia32-0.8.2.zip
+- name: seapig-win32-x64-0.8.2.zip
+  url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-win32-x64-0.8.2.zip
+electron: 6.1.12
+method: src-range-guess

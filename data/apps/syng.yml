@@ -1,0 +1,18 @@
+id: syng
+repository: https://github.com/sotch-pr35mac/syng
+website: https://syngdict.com/
+latest: v2.0.0-beta-7
+src: https://github.com/sotch-pr35mac/syng/archive/refs/tags/v2.0.0-beta-7.zip
+downloads:
+- name: Syng.2_0.0.7_aarch64.app.tar.gz
+  url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_aarch64.app.tar.gz
+- name: Syng.2_0.0.7_aarch64.app.zip
+  url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_aarch64.app.zip
+- name: Syng.2_0.0.7_aarch64.dmg
+  url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_aarch64.dmg
+- name: Syng.2_0.0.7_x64.app.tar.gz
+  url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_x64.app.tar.gz
+- name: Syng.2_0.0.7_x64.app.zip
+  url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_x64.app.zip
+- name: Syng.2_0.0.7_x64.dmg
+  url: https://github.com/sotch-pr35mac/syng/releases/download/v2.0.0-beta-7/Syng.2_0.0.7_x64.dmg

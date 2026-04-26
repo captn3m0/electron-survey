@@ -1,0 +1,13 @@
+id: headset
+website: https://headsetapp.co/
+aur:
+- headset
+- headset-bin
+- headset-git
+electron: 14.2.9
+method: aur-depends
+homebrew: headset
+downloads:
+- url: https://github.com/headsetapp/headset-electron/releases/download/v4.2.1/Headset-4.2.1-mac-arm64.zip
+  name: Headset-4.2.1-mac-arm64.zip
+  version: 4.2.1

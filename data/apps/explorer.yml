@@ -1,0 +1,13 @@
+id: explorer
+repository: https://github.com/jfbouzereau/explorer
+website: https://github.com/jfbouzereau/explorer
+latest: '1.104'
+src: https://github.com/jfbouzereau/explorer/archive/refs/tags/1.104.zip
+downloads:
+- name: Explorer-darwin-x64.zip
+  url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-darwin-x64.zip
+- name: Explorer-win32-ia32.zip
+  url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-win32-ia32.zip
+- name: Explorer-win32-x64.zip
+  url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-win32-x64.zip
+homebrew: explorer

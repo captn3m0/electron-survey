@@ -1,0 +1,10 @@
+id: sizzy
+website: https://sizzy.co
+download_urls:
+- url: https://updates.sizzy.co/download/AppImage?type=download&arch=x64
+  name: sizzy-latest.AppImage
+homebrew: sizzy
+downloads:
+- url: https://proxy.sizzy.co/updates/download/mac?arch=arm64
+  name: mac
+  version: 73.1.0

@@ -1,0 +1,37 @@
+id: mstream
+repository: https://github.com/IrosTheBeggar/mStream
+website: https://mstream.io/
+latest: v5.14.3
+src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v5.14.3.zip
+downloads:
+- name: latest-linux-arm.yml
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-linux-arm.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/latest.yml
+- name: mStream-Server-5.14.3-arm64-mac.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64-mac.zip
+- name: mStream-Server-5.14.3-arm64.AppImage
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64.AppImage
+- name: mStream-Server-5.14.3-arm64.dmg
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64.dmg
+- name: mStream-Server-5.14.3-arm64.dmg.blockmap
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-arm64.dmg.blockmap
+- name: mStream-Server-5.14.3-armv7l.AppImage
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3-armv7l.AppImage
+- name: mStream-Server-5.14.3.AppImage
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-5.14.3.AppImage
+- name: mStream-Server-Setup-5.14.3.exe
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-Setup-5.14.3.exe
+- name: mStream-Server-Setup-5.14.3.exe.blockmap
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream-Server-Setup-5.14.3.exe.blockmap
+- name: mStream.Server-5.14.3-arm64-mac.zip.blockmap
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v5.14.3/mStream.Server-5.14.3-arm64-mac.zip.blockmap
+aur:
+- mstream
+- mstream-git

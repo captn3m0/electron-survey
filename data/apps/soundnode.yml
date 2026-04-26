@@ -1,0 +1,14 @@
+id: soundnode
+repository: https://github.com/Soundnode/soundnode-app
+website: https://soundnode.github.io/soundnode-website/
+latest: 7.0.0
+src: https://github.com/Soundnode/soundnode-app/archive/refs/tags/7.0.0.zip
+downloads:
+- name: Soundnode-darwin-x64.tar.xz
+  url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-darwin-x64.tar.xz
+- name: Soundnode-linux-x64.tar.xz
+  url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-linux-x64.tar.xz
+- name: Soundnode-win32-x64.zip
+  url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-win32-x64.zip
+electron: 1.8.8
+method: src-range-guess

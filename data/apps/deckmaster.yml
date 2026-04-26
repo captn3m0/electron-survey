@@ -1,0 +1,32 @@
+id: deckmaster
+repository: https://github.com/TheOtterlord/deckmaster
+website: https://theotterlord.github.io/deckmaster
+latest: v1.0.2
+src: https://github.com/TheOtterlord/deckmaster/archive/refs/tags/v1.0.2.zip
+downloads:
+- name: installer.dmg
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.dmg
+- name: installer.dmg.blockmap
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.dmg.blockmap
+- name: installer.exe
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.exe
+- name: installer.exe.blockmap
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.exe.blockmap
+- name: installer.zip
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/installer.zip
+- name: latest-linux.yml
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/latest.yml
+- name: linux-installer.AppImage
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/linux-installer.AppImage
+- name: linux-installer.deb
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/linux-installer.deb
+- name: linux-installer.rpm
+  url: https://github.com/TheOtterlord/deckmaster/releases/download/v1.0.2/linux-installer.rpm
+electron: 11.2.3
+method: src-package-lock
+aur:
+- deckmaster

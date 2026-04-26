@@ -1,0 +1,17 @@
+id: git-it
+repository: https://github.com/Git-it-App/git-it-electron
+website: https://github.com/Git-it-App/git-it-electron
+latest: v6.0.1
+src: https://github.com/Git-it-App/git-it-electron/archive/refs/tags/v6.0.1.zip
+downloads:
+- name: Git-it-darwin-arm64-6.0.1.zip
+  url: https://github.com/Git-it-App/git-it-electron/releases/download/v6.0.1/Git-it-darwin-arm64-6.0.1.zip
+- name: Git-it-linux-x64-6.0.1.zip
+  url: https://github.com/Git-it-App/git-it-electron/releases/download/v6.0.1/Git-it-linux-x64-6.0.1.zip
+- name: Git-it-win32-x64-6.0.1.zip
+  url: https://github.com/Git-it-App/git-it-electron/releases/download/v6.0.1/Git-it-win32-x64-6.0.1.zip
+electron: 36.4.0
+method: src-package-lock
+aur:
+- git-it
+homebrew: git-it

@@ -1,0 +1,24 @@
+id: peacock
+repository: https://github.com/peacockweb/peacock
+website: https://github.com/peacockweb/peacock
+latest: v2.3.5
+src: https://github.com/peacockweb/peacock/archive/refs/tags/v2.3.5.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/latest.yml
+- name: Peacock-2.3.5-win.zip
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/Peacock-2.3.5-win.zip
+- name: Peacock-2.3.5.AppImage
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/Peacock-2.3.5.AppImage
+- name: Peacock-Setup-2.3.5.exe
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/Peacock-Setup-2.3.5.exe
+- name: Peacock-Setup-2.3.5.exe.blockmap
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/Peacock-Setup-2.3.5.exe.blockmap
+- name: peacock_2.3.5_amd64.deb
+  url: https://github.com/spikecodes/peacock/releases/download/v2.3.5/peacock_2.3.5_amd64.deb
+electron: 9.0.0-beta.13
+method: src-package-lock
+aur:
+- peacock

@@ -1,0 +1,7 @@
+id: digiexam
+website: https://www.digiexam.com
+homebrew: digiexam
+downloads:
+- url: https://www.digiexam.com/hubfs/client/Digiexam_Mac_universal.dmg
+  name: Digiexam_Mac_universal.dmg
+  version: 26.1.10

@@ -1,0 +1,12 @@
+id: source-me
+website: https://github.com/theIYD/source-me
+repository: https://github.com/theIYD/source-me
+latest: 0.2.1
+src: https://github.com/theIYD/source-me/archive/refs/tags/0.2.1.zip
+downloads:
+- name: source-me-linux-x64.zip
+  url: https://github.com/theIYD/source-me/releases/download/0.2.1/source-me-linux-x64.zip
+- name: source-me-win-x64.zip
+  url: https://github.com/theIYD/source-me/releases/download/0.2.1/source-me-win-x64.zip
+electron: 1.7.8
+method: src-package-lock

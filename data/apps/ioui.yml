@@ -1,0 +1,7 @@
+id: ioui
+repository: https://github.com/shivang-pokar/ioui
+website: https://github.com/shivang-pokar/ioui
+latest: v1.0
+src: https://github.com/shivang-pokar/ioui/archive/refs/tags/v1.0.zip
+electron: 7.1.2
+method: src-package-lock

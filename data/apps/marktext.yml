@@ -1,0 +1,48 @@
+id: marktext
+repository: https://github.com/marktext/marktext
+website: https://github.com/marktext/marktext
+latest: v0.17.1
+src: https://github.com/marktext/marktext/archive/refs/tags/v0.17.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/latest.yml
+- name: marktext-amd64.deb
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-amd64.deb
+- name: marktext-arm64-mac.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64-mac.zip
+- name: marktext-arm64-mac.zip.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64-mac.zip.blockmap
+- name: marktext-arm64.dmg
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64.dmg
+- name: marktext-arm64.dmg.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64.dmg.blockmap
+- name: marktext-ia32-win.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-ia32-win.zip
+- name: marktext-setup.exe
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe
+- name: marktext-setup.exe.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe.blockmap
+- name: marktext-x64-mac.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64-mac.zip
+- name: marktext-x64-mac.zip.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64-mac.zip.blockmap
+- name: marktext-x64-win.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64-win.zip
+- name: marktext-x64.dmg
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64.dmg
+- name: marktext-x64.dmg.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64.dmg.blockmap
+- name: marktext-x64.tar.gz
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64.tar.gz
+- name: marktext-x86_64.AppImage
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x86_64.AppImage
+- name: marktext-x86_64.rpm
+  url: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x86_64.rpm
+electron: 15.4.0
+method: src-yarn-lock
+aur:
+- marktext

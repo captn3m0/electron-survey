@@ -1,0 +1,16 @@
+id: rocket-chat
+website: https://rocket.chat
+aur:
+- rocketchat-client-bin
+- rocketchat-desktop
+- rocketchat-desktop-git
+- rocketchat-server
+- rocketchat-server-standalone
+- ruqola
+- ruqola-git
+- tailchat-desktop
+homebrew: rocket-chat
+downloads:
+- url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.13.0/rocketchat-4.13.0-mac.dmg
+  name: rocketchat-4.13.0-mac.dmg
+  version: 4.13.0

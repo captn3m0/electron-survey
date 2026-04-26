@@ -1,0 +1,13 @@
+id: jasper
+repository: https://github.com/jasperapp/jasper
+website: https://jasperapp.io
+latest: v2.0.0
+src: https://github.com/jasperapp/jasper/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: jasper_v2.0.0_mac_arm64.zip
+  url: https://github.com/jasperapp/jasper/releases/download/v2.0.0/jasper_v2.0.0_mac_arm64.zip
+electron: 37.4.0
+method: src-package-lock
+aur:
+- jasperapp-bin
+homebrew: jasper-app

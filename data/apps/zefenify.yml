@@ -1,0 +1,8 @@
+id: zefenify
+repository: https://github.com/Zefenify/Wolf-Cola
+website: https://zefenify.com/about.html
+latest: v2.3
+src: https://github.com/Zefenify/Wolf-Cola/archive/refs/tags/v2.3.zip
+downloads:
+- name: Zefenify-v2.3-macOS.zip
+  url: https://github.com/zefenify/Wolf-Cola/releases/download/v2.3/Zefenify-v2.3-macOS.zip

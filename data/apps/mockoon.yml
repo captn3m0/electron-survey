@@ -1,0 +1,39 @@
+id: mockoon
+repository: https://github.com/255kb/mockoon
+website: https://mockoon.com
+latest: v9.5.0
+src: https://github.com/255kb/mockoon/archive/refs/tags/v9.5.0.zip
+downloads:
+- name: mockoon-9.5.0.amd64.deb
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-9.5.0.amd64.deb
+- name: mockoon-9.5.0.amd64.snap
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-9.5.0.amd64.snap
+- name: mockoon-9.5.0.arm64.AppImage
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-9.5.0.arm64.AppImage
+- name: mockoon-9.5.0.arm64.deb
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-9.5.0.arm64.deb
+- name: mockoon-9.5.0.x86_64.AppImage
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-9.5.0.x86_64.AppImage
+- name: mockoon-9.5.0.x86_64.rpm
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-9.5.0.x86_64.rpm
+- name: mockoon-app-v9.5.0-sbom.spdx.json
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon-app-v9.5.0-sbom.spdx.json
+- name: mockoon.9.5.0.appx
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon.9.5.0.appx
+- name: mockoon.portable.9.5.0.exe
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon.portable.9.5.0.exe
+- name: mockoon.setup.9.5.0.arm64.dmg
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon.setup.9.5.0.arm64.dmg
+- name: mockoon.setup.9.5.0.exe
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon.setup.9.5.0.exe
+- name: mockoon.setup.9.5.0.universal.dmg
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon.setup.9.5.0.universal.dmg
+- name: mockoon.setup.9.5.0.x64.dmg
+  url: https://github.com/mockoon/mockoon/releases/download/v9.5.0/mockoon.setup.9.5.0.x64.dmg
+electron: 39.2.7
+method: src-package-lock
+aur:
+- mockoon
+- mockoon-bin
+- mockoon-git
+homebrew: mockoon

@@ -1,0 +1,9 @@
+id: playback
+repository: https://github.com/mafintosh/playback
+website: https://github.com/mafintosh/playback
+latest: v1.6.0
+src: https://github.com/mafintosh/playback/archive/refs/tags/v1.6.0.zip
+downloads:
+- name: Playback.app.zip
+  url: https://github.com/mafintosh/playback/releases/download/v1.6.0/Playback.app.zip
+homebrew: playback

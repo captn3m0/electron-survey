@@ -1,0 +1,35 @@
+id: camunda-modeler
+repository: https://github.com/camunda/camunda-modeler/
+website: https://camunda.com/products/modeler/
+latest: v5.45.0
+src: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.45.0.zip
+downloads:
+- name: camunda-modeler-5.45.0-linux-x64.tar.gz
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-linux-x64.tar.gz
+- name: camunda-modeler-5.45.0-mac-arm64.dmg
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.dmg
+- name: camunda-modeler-5.45.0-mac-arm64.dmg.blockmap
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.dmg.blockmap
+- name: camunda-modeler-5.45.0-mac-arm64.zip
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.zip
+- name: camunda-modeler-5.45.0-mac-arm64.zip.blockmap
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-arm64.zip.blockmap
+- name: camunda-modeler-5.45.0-mac-x64.dmg
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.dmg
+- name: camunda-modeler-5.45.0-mac-x64.dmg.blockmap
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.dmg.blockmap
+- name: camunda-modeler-5.45.0-mac-x64.zip
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.zip
+- name: camunda-modeler-5.45.0-mac-x64.zip.blockmap
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-mac-x64.zip.blockmap
+- name: camunda-modeler-5.45.0-win-ia32.zip
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-win-ia32.zip
+- name: camunda-modeler-5.45.0-win-x64.zip
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/camunda-modeler-5.45.0-win-x64.zip
+- name: latest-mac.yml
+  url: https://github.com/camunda/camunda-modeler/releases/download/v5.45.0/latest-mac.yml
+electron: 39.0.0
+method: src-package-lock
+aur:
+- zbctl
+homebrew: camunda-modeler

@@ -1,0 +1,16 @@
+id: snippetstore
+repository: https://github.com/ZeroX-DG/SnippetStore
+website: https://zerox-dg.github.io/SnippetStoreWeb/
+latest: v0.2.12
+src: https://github.com/ZeroX-DG/SnippetStore/archive/refs/tags/v0.2.12.zip
+downloads:
+- name: Snippet.Store.Setup.0.2.12.exe
+  url: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.12/Snippet.Store.Setup.0.2.12.exe
+- name: Snippet.Store.Setup.0.2.12.exe.blockmap
+  url: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.12/Snippet.Store.Setup.0.2.12.exe.blockmap
+- name: snippetstore-0.2.12-x86_64.AppImage
+  url: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.12/snippetstore-0.2.12-x86_64.AppImage
+- name: snippetstore_0.2.12_amd64.deb
+  url: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.12/snippetstore_0.2.12_amd64.deb
+electron: 1.8.8
+method: src-package-lock

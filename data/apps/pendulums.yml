@@ -1,0 +1,20 @@
+id: pendulums
+repository: https://github.com/Swing-team/pendulums-web-client
+website: https://pendulums.io/
+latest: v1.1.0
+src: https://github.com/Swing-team/pendulums-web-client/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: Pendulums.apk
+  url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.apk
+- name: Pendulums.AppImage
+  url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.AppImage
+- name: Pendulums.deb
+  url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.deb
+- name: Pendulums.dmg
+  url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.dmg
+- name: Pendulums.exe
+  url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.exe
+- name: Pendulums.snap
+  url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.snap
+electron: 6.0.7
+method: src-package-lock

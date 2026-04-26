@@ -1,0 +1,19 @@
+id: nimblenote
+repository: https://github.com/nimblenote/nimblenote
+website: https://nimblenote.app
+latest: v3.2.2
+src: https://github.com/nimblenote/nimblenote/archive/refs/tags/v3.2.2.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/latest.yml
+- name: nimblenote-3.2.2.dmg
+  url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/nimblenote-3.2.2.dmg
+- name: nimblenote-3.2.2.exe
+  url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/nimblenote-3.2.2.exe
+- name: nimblenote-3.2.2.zip
+  url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/nimblenote-3.2.2.zip
+- name: release.json
+  url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/release.json
+homebrew: nimblenote

@@ -1,0 +1,10 @@
+id: neucalculator
+repository: https://github.com/moh3n9595/neu-calculator
+website: https://github.com/moh3n9595/neu-calculator
+latest: V1.0.0
+src: https://github.com/moh3n9595/neu-calculator/archive/refs/tags/V1.0.0.zip
+downloads:
+- name: NeuCalculator-1.0.0.dmg
+  url: https://github.com/moh3n9595/neu-calculator/releases/download/V1.0.0/NeuCalculator-1.0.0.dmg
+electron: 7.1.13
+method: src-yarn-lock

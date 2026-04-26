@@ -1,0 +1,19 @@
+id: snailfm
+repository: https://github.com/snaildos/SnailFM-Application
+website: https://snaildos.com/snailfm
+latest: v2.1.8
+src: https://github.com/snaildos/SnailFM-Application/archive/refs/tags/v2.1.8.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/latest.yml
+- name: SnailFM-2.1.8.AppImage
+  url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/SnailFM-2.1.8.AppImage
+- name: SnailFM-Setup-2.1.8.exe
+  url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/SnailFM-Setup-2.1.8.exe
+- name: SnailFM-Setup-2.1.8.exe.blockmap
+  url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/SnailFM-Setup-2.1.8.exe.blockmap
+electron: 25.2.0
+aur:
+- snailfm-bin

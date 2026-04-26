@@ -1,0 +1,21 @@
+id: csbooks
+repository: https://github.com/caesiumstudio/csBooks-updates.git
+website: https://caesiumstudio.com
+latest: latest
+src: https://github.com/caesiumstudio/csBooks-updates/archive/refs/tags/latest.zip
+downloads:
+- name: csBooks-8.5.0.AppImage
+  url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-8.5.0.AppImage
+- name: csBooks-8.5.0.pacman
+  url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-8.5.0.pacman
+- name: csBooks-8.5.0.x86_64.rpm
+  url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-8.5.0.x86_64.rpm
+- name: csBooks-8.5.1.dmg
+  url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-8.5.1.dmg
+- name: csBooks_8.5.0_amd64.deb
+  url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks_8.5.0_amd64.deb
+aur:
+- csbooks
+- csbooks-bin
+electron: 13.6.9
+method: aur-depends

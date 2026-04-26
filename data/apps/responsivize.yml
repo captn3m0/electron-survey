@@ -1,0 +1,16 @@
+id: responsivize
+repository: https://github.com/virejdasani/Responsivize
+website: https://virejdasani.github.io/Responsivize/
+latest: v3.0.0
+src: https://github.com/virejdasani/Responsivize/archive/refs/tags/v3.0.0.zip
+downloads:
+- name: Responsivize-Linux.zip
+  url: https://github.com/virejdasani/Responsivize/releases/download/v3.0.0/Responsivize-Linux.zip
+- name: Responsivize-MacOS.zip
+  url: https://github.com/virejdasani/Responsivize/releases/download/v3.0.0/Responsivize-MacOS.zip
+- name: Responsivize-Windows.zip
+  url: https://github.com/virejdasani/Responsivize/releases/download/v3.0.0/Responsivize-Windows.zip
+- name: Responsivize-WindowsPortable.zip
+  url: https://github.com/virejdasani/Responsivize/releases/download/v3.0.0/Responsivize-WindowsPortable.zip
+electron: 12.1.0
+method: src-package-lock

@@ -1,0 +1,18 @@
+id: primate
+repository: https://github.com/getprimate/primate
+website: https://www.getprimate.xyz
+latest: v1.1.0
+src: https://github.com/getprimate/primate/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: Primate-Setup-v1.1.0-x64.exe
+  url: https://github.com/getprimate/primate/releases/download/v1.1.0/Primate-Setup-v1.1.0-x64.exe
+- name: Primate-v1.1.0-x64.AppImage
+  url: https://github.com/getprimate/primate/releases/download/v1.1.0/Primate-v1.1.0-x64.AppImage
+- name: Primate-v1.1.0-x64.tar.gz
+  url: https://github.com/getprimate/primate/releases/download/v1.1.0/Primate-v1.1.0-x64.tar.gz
+- name: Primate-v1.1.0.dmg
+  url: https://github.com/getprimate/primate/releases/download/v1.1.0/Primate-v1.1.0.dmg
+electron: 22.0.3
+method: src-yarn-lock
+aur:
+- primate-bin

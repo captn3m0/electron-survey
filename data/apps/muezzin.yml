@@ -1,0 +1,24 @@
+id: muezzin
+repository: https://github.com/DBChoco/Muezzin
+website: https://github.com/DBChoco/Muezzin
+latest: v2.6.0
+src: https://github.com/DBChoco/Muezzin/archive/refs/tags/v2.6.0.zip
+downloads:
+- name: muezzin-2.6.0.AppImage
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin-2.6.0.AppImage
+- name: muezzin-2.6.0.pacman
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin-2.6.0.pacman
+- name: muezzin-2.6.0.tar.gz
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin-2.6.0.tar.gz
+- name: muezzin.2.6.0.exe
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin.2.6.0.exe
+- name: muezzin.2.6.0.msi
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin.2.6.0.msi
+- name: muezzin.Setup.2.6.0.exe
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin.Setup.2.6.0.exe
+- name: muezzin_2.6.0_amd64.deb
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin_2.6.0_amd64.deb
+- name: muezzin_2.6.0_amd64.snap
+  url: https://github.com/DBChoco/Muezzin/releases/download/v2.6.0/muezzin_2.6.0_amd64.snap
+electron: 25.8.4
+method: src-package-lock

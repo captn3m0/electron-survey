@@ -1,0 +1,16 @@
+id: visual-studio-code
+website: https://code.visualstudio.com
+aur:
+- code-insiders-bin
+- visual-studio-code-bin
+- visual-studio-code-cli-bin
+- visual-studio-code-electron-bin
+- visual-studio-code-insiders-bin
+- visual-studio-code-live-bin
+electron: 39.8.3
+method: aur-depends
+homebrew: visual-studio-code
+downloads:
+- url: https://update.code.visualstudio.com/1.113.0/darwin-arm64/stable
+  name: stable
+  version: 1.113.0

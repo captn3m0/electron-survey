@@ -1,0 +1,16 @@
+id: social-amnesia
+repository: https://github.com/Nick-Gottschlich/Social-Amnesia
+website: https://github.com/Nick-Gottschlich/Social-Amnesia
+latest: v2.0.2
+src: https://github.com/Nick-Gottschlich/Social-Amnesia/archive/refs/tags/v2.0.2.zip
+downloads:
+- name: Social.Amnesia-2.0.2-MAC.dmg
+  url: https://github.com/Nick-Gottschlich/Social-Amnesia/releases/download/v2.0.2/Social.Amnesia-2.0.2-MAC.dmg
+- name: Social.Amnesia.Setup.2.0.2-WINDOWS.exe
+  url: https://github.com/Nick-Gottschlich/Social-Amnesia/releases/download/v2.0.2/Social.Amnesia.Setup.2.0.2-WINDOWS.exe
+- name: Social.Amnesia.Setup.2.0.2-WINDOWS32BIT.exe
+  url: https://github.com/Nick-Gottschlich/Social-Amnesia/releases/download/v2.0.2/Social.Amnesia.Setup.2.0.2-WINDOWS32BIT.exe
+- name: social_amnesia_2.0.2_amd64-LINUX.snap
+  url: https://github.com/Nick-Gottschlich/Social-Amnesia/releases/download/v2.0.2/social_amnesia_2.0.2_amd64-LINUX.snap
+electron: 7.3.2
+method: src-yarn-lock

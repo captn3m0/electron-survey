@@ -1,0 +1,8 @@
+id: ubauth
+repository: https://github.com/chrisenytc/ubauth
+website: http://ubauth.enytc.com
+latest: v1.0.0
+src: https://github.com/chrisenytc/ubauth/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: ubauth-darwin-x64.dmg
+  url: https://github.com/chrisenytc/ubauth/releases/download/v1.0.0/ubauth-darwin-x64.dmg

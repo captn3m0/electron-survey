@@ -1,0 +1,16 @@
+id: qikqr
+repository: https://github.com/deep5050/qikQR
+website: https://github.com/deep5050/qikQR
+latest: v1.0.0
+src: https://github.com/deep5050/qikQR/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: qikqr-1.0.0.AppImage
+  url: https://github.com/deep5050/qikQR/releases/download/v1.0.0/qikqr-1.0.0.AppImage
+- name: qikqr-1.0.0.exe
+  url: https://github.com/deep5050/qikQR/releases/download/v1.0.0/qikqr-1.0.0.exe
+- name: qikqr-1.0.0.tar.xz
+  url: https://github.com/deep5050/qikQR/releases/download/v1.0.0/qikqr-1.0.0.tar.xz
+- name: qikqr_1.0.0_amd64.deb
+  url: https://github.com/deep5050/qikQR/releases/download/v1.0.0/qikqr_1.0.0_amd64.deb
+electron: 8.2.5
+method: src-yarn-lock

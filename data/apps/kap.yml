@@ -1,0 +1,27 @@
+id: kap
+repository: https://github.com/wulkano/kap
+website: https://getkap.co
+latest: v3.6.0
+src: https://github.com/wulkano/kap/archive/refs/tags/v3.6.0.zip
+downloads:
+- name: Kap-3.6.0-arm64-mac.zip
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-arm64-mac.zip
+- name: Kap-3.6.0-arm64-mac.zip.blockmap
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-arm64-mac.zip.blockmap
+- name: Kap-3.6.0-arm64.dmg
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-arm64.dmg
+- name: Kap-3.6.0-arm64.dmg.blockmap
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-arm64.dmg.blockmap
+- name: Kap-3.6.0-mac.zip
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-mac.zip
+- name: Kap-3.6.0-mac.zip.blockmap
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-mac.zip.blockmap
+- name: Kap-3.6.0-x64.dmg
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-x64.dmg
+- name: Kap-3.6.0-x64.dmg.blockmap
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/Kap-3.6.0-x64.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/wulkano/Kap/releases/download/v3.6.0/latest-mac.yml
+electron: 13.6.9
+method: src-yarn-lock
+homebrew: kap

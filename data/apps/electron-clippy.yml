@@ -1,0 +1,7 @@
+id: electron-clippy
+repository: https://github.com/HeyitSaif/Clippy.git
+website: https://github.com/HeyitSaif/Clippy.git
+latest: refs/heads/master
+src: https://github.com/HeyitSaif/Clippy/archive/refs/tags/refs/heads/master.zip
+electron: 9.4.4
+method: src-range-guess

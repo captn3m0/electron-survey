@@ -1,0 +1,44 @@
+id: youtube-music-for-desktop
+repository: https://github.com/Venipa/ytmdesktop2
+website: https://youtube-music.app/
+latest: v0.18.9
+src: https://github.com/Venipa/ytmdesktop2/archive/refs/tags/v0.18.9.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/latest.yml
+- name: YouTube-Music-for-Desktop-0.18.9-arm64-mac.zip
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64-mac.zip
+- name: YouTube-Music-for-Desktop-0.18.9-arm64.AppImage
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64.AppImage
+- name: YouTube-Music-for-Desktop-0.18.9-arm64.dmg
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64.dmg
+- name: YouTube-Music-for-Desktop-0.18.9-arm64.dmg.blockmap
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-arm64.dmg.blockmap
+- name: YouTube-Music-for-Desktop-0.18.9-mac.zip
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-mac.zip
+- name: YouTube-Music-for-Desktop-0.18.9-setup.exe
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-setup.exe
+- name: YouTube-Music-for-Desktop-0.18.9-setup.exe.blockmap
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9-setup.exe.blockmap
+- name: YouTube-Music-for-Desktop-0.18.9.AppImage
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9.AppImage
+- name: YouTube-Music-for-Desktop-0.18.9.dmg
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9.dmg
+- name: YouTube-Music-for-Desktop-0.18.9.dmg.blockmap
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop-0.18.9.dmg.blockmap
+- name: YouTube-Music-for-Desktop_0.18.9_amd64.deb
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube-Music-for-Desktop_0.18.9_amd64.deb
+- name: YouTube.Music.for.Desktop-0.18.9-arm64-mac.zip.blockmap
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube.Music.for.Desktop-0.18.9-arm64-mac.zip.blockmap
+- name: YouTube.Music.for.Desktop-0.18.9-mac.zip.blockmap
+  url: https://github.com/Venipa/ytmdesktop2/releases/download/v0.18.9/YouTube.Music.for.Desktop-0.18.9-mac.zip.blockmap
+electron: 36.9.5
+method: src-pnpm-lock
+aur:
+- youtube-music-for-desktop-bin

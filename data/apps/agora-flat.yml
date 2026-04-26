@@ -1,0 +1,9 @@
+id: agora-flat
+repository: https://github.com/netless-io/flat
+website: https://flat.whiteboard.agora.io/
+latest: v2.3.6
+src: https://github.com/netless-io/flat/archive/refs/tags/v2.3.6.zip
+electron: 12.0.15
+method: src-pnpm-lock
+aur:
+- flat-bin

@@ -1,0 +1,12 @@
+id: lax
+website: https://github.com/brandly/Lax
+repository: https://github.com/brandly/Lax
+latest: v0.6.6
+src: https://github.com/brandly/Lax/archive/refs/tags/v0.6.6.zip
+downloads:
+- name: Lax-win32-x64.zip
+  url: https://github.com/brandly/Lax/releases/download/v0.6.6/Lax-win32-x64.zip
+- name: Lax.zip
+  url: https://github.com/brandly/Lax/releases/download/v0.6.6/Lax.zip
+electron: 8.2.4
+method: src-package-lock

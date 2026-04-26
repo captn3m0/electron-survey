@@ -1,0 +1,13 @@
+id: stickynotes
+repository: https://github.com/Playork/StickyNotes
+latest: v0.3.0
+src: https://github.com/Playork/StickyNotes/archive/refs/tags/v0.3.0.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/Playork/StickyNotes/releases/download/v0.3.0/latest.yml
+- name: stickynotes-setup-0.3.0.exe
+  url: https://github.com/Playork/StickyNotes/releases/download/v0.3.0/stickynotes-setup-0.3.0.exe
+- name: stickynotes-setup-0.3.0.exe.blockmap
+  url: https://github.com/Playork/StickyNotes/releases/download/v0.3.0/stickynotes-setup-0.3.0.exe.blockmap
+electron: 4.1.4
+method: src-package-lock

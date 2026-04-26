@@ -1,0 +1,11 @@
+id: runjs
+website: https://runjs.app
+aur:
+- runjs-electron-bin
+electron: 37.10.3
+method: aur-depends
+homebrew: runjs
+downloads:
+- url: https://github.com/lukehaas/RunJS/releases/download/v3.2.2/RunJS-3.2.2-universal.dmg
+  name: RunJS-3.2.2-universal.dmg
+  version: 3.2.2

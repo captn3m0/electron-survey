@@ -1,0 +1,18 @@
+id: standup-picker
+repository: https://github.com/Mokkapps/scrum-daily-standup-picker
+website: https://mokkapps.de
+latest: v2.0.0
+src: https://github.com/Mokkapps/scrum-daily-standup-picker/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/latest-mac.yml
+- name: StandupPicker-2.0.0-x64-mac.dmg
+  url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/StandupPicker-2.0.0-x64-mac.dmg
+- name: StandupPicker-2.0.0-x64-mac.dmg.blockmap
+  url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/StandupPicker-2.0.0-x64-mac.dmg.blockmap
+- name: StandupPicker-2.0.0-x64-mac.zip
+  url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/StandupPicker-2.0.0-x64-mac.zip
+- name: StandupPicker-2.0.0-x64-mac.zip.blockmap
+  url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/StandupPicker-2.0.0-x64-mac.zip.blockmap
+electron: 16.0.7
+method: src-package-lock

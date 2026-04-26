@@ -1,0 +1,36 @@
+id: gitify
+repository: https://github.com/manosim/gitify
+website: https://www.gitify.io/
+latest: v6.19.0
+src: https://github.com/manosim/gitify/archive/refs/tags/v6.19.0.zip
+downloads:
+- name: Gitify-6.19.0-universal-mac.zip
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal-mac.zip
+- name: Gitify-6.19.0-universal-mac.zip.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal-mac.zip.blockmap
+- name: Gitify-6.19.0-universal.dmg
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal.dmg
+- name: Gitify-6.19.0-universal.dmg.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal.dmg.blockmap
+- name: Gitify-6.19.0.AppImage
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0.AppImage
+- name: gitify-6.19.0.x86_64.rpm
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/gitify-6.19.0.x86_64.rpm
+- name: Gitify-Setup-6.19.0.exe
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-Setup-6.19.0.exe
+- name: Gitify-Setup-6.19.0.exe.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-Setup-6.19.0.exe.blockmap
+- name: gitify_6.19.0_amd64.deb
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/gitify_6.19.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/latest.yml
+electron: 23.3.13
+method: src-pnpm-lock
+aur:
+- gitify
+- gitify-bin
+homebrew: gitify

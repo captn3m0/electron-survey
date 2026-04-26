@@ -1,0 +1,28 @@
+id: infiniti-clips
+repository: https://github.com/azure06/infiniti-clips.git
+website: https://infiniticlips.com/
+latest: v0.2.6
+src: https://github.com/azure06/infiniti-clips/archive/refs/tags/v0.2.6.zip
+downloads:
+- name: Clips-0.2.6-mac.zip
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-0.2.6-mac.zip
+- name: Clips-0.2.6.AppImage
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-0.2.6.AppImage
+- name: Clips-0.2.6.dmg
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-0.2.6.dmg
+- name: Clips-0.2.6.dmg.blockmap
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-0.2.6.dmg.blockmap
+- name: Clips-0.2.6.pkg
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-0.2.6.pkg
+- name: Clips-Setup-0.2.6.exe
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-Setup-0.2.6.exe
+- name: Clips-Setup-0.2.6.exe.blockmap
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/Clips-Setup-0.2.6.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/azure06/clips/releases/download/v0.2.6/latest.yml
+electron: 21.2.0
+method: src-package-lock

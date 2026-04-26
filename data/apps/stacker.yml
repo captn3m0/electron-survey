@@ -1,0 +1,14 @@
+id: stacker
+repository: https://github.com/enqueuer-land/stacker
+website: https://enqueuer-land.github.io/stacker
+latest: v0.2.0
+src: https://github.com/enqueuer-land/stacker/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: stacker-0.2.0.AppImage.zip
+  url: https://github.com/enqueuer-land/stacker/releases/download/v0.2.0/stacker-0.2.0.AppImage.zip
+- name: stacker-0.2.0.dmg
+  url: https://github.com/enqueuer-land/stacker/releases/download/v0.2.0/stacker-0.2.0.dmg
+- name: stacker.Setup.0.2.0.exe.zip
+  url: https://github.com/enqueuer-land/stacker/releases/download/v0.2.0/stacker.Setup.0.2.0.exe.zip
+electron: 6.1.9
+method: src-package-lock

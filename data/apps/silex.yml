@@ -1,0 +1,18 @@
+id: silex
+repository: https://github.com/silexlabs/silex-desktop/
+website: https://www.silex.me/
+latest: v2.7.30
+src: https://github.com/silexlabs/silex-desktop/archive/refs/tags/v2.7.30.zip
+downloads:
+- name: silex-desktop-2.7.30.AppImage
+  url: https://github.com/silexlabs/silex-desktop/releases/download/v2.7.30/silex-desktop-2.7.30.AppImage
+- name: silex-desktop-2.7.30.dmg
+  url: https://github.com/silexlabs/silex-desktop/releases/download/v2.7.30/silex-desktop-2.7.30.dmg
+- name: silex-desktop-Setup-2.7.30.exe
+  url: https://github.com/silexlabs/silex-desktop/releases/download/v2.7.30/silex-desktop-Setup-2.7.30.exe
+- name: silex-desktop_2.7.30_amd64.snap
+  url: https://github.com/silexlabs/silex-desktop/releases/download/v2.7.30/silex-desktop_2.7.30_amd64.snap
+electron: 10.1.5
+method: src-package-lock
+aur:
+- silex-desktop-bin

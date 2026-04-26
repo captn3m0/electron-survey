@@ -1,0 +1,25 @@
+id: beaker-browser
+repository: https://github.com/beakerbrowser/beaker
+website: https://beakerbrowser.com
+latest: 1.1.0
+src: https://github.com/beakerbrowser/beaker/archive/refs/tags/1.1.0.zip
+downloads:
+- name: beaker-browser-1.1.0-mac.zip
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/beaker-browser-1.1.0-mac.zip
+- name: beaker-browser-1.1.0.dmg
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/beaker-browser-1.1.0.dmg
+- name: beaker-browser-setup-1.1.0.exe
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/beaker-browser-setup-1.1.0.exe
+- name: Beaker.Browser-1.1.0.AppImage
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/Beaker.Browser-1.1.0.AppImage
+- name: latest-linux.yml
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/latest.yml
+electron: 11.0.0
+method: src-range-guess
+aur:
+- beaker-browser-bin
+- beaker-browser-git

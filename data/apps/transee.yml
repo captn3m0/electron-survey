@@ -1,0 +1,32 @@
+id: transee
+repository: https://github.com/alessioforte/transee
+website: https://alessioforte.github.io/transee/
+latest: v2.1.0
+src: https://github.com/alessioforte/transee/archive/refs/tags/v2.1.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/latest.yml
+- name: Transee-2.1.0-arm64-mac.zip
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0-arm64-mac.zip
+- name: Transee-2.1.0-arm64-mac.zip.blockmap
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0-arm64-mac.zip.blockmap
+- name: Transee-2.1.0-arm64.dmg
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0-arm64.dmg
+- name: Transee-2.1.0-arm64.dmg.blockmap
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0-arm64.dmg.blockmap
+- name: Transee-2.1.0-mac.zip
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0-mac.zip
+- name: Transee-2.1.0-mac.zip.blockmap
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0-mac.zip.blockmap
+- name: Transee-2.1.0.dmg
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0.dmg
+- name: Transee-2.1.0.dmg.blockmap
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-2.1.0.dmg.blockmap
+- name: Transee-Setup-2.1.0.exe
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-Setup-2.1.0.exe
+- name: Transee-Setup-2.1.0.exe.blockmap
+  url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-Setup-2.1.0.exe.blockmap
+electron: 18.2.0
+method: src-package-lock

@@ -1,0 +1,33 @@
+id: gdevelop
+repository: https://github.com/4ian/GDevelop
+website: https://gdevelop-app.com/
+latest: v5.6.262
+src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.262.zip
+downloads:
+- name: GDevelop-5-5.6.262-arm64.AppImage
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-5.6.262-arm64.AppImage
+- name: GDevelop-5-5.6.262-universal-mac.zip
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-5.6.262-universal-mac.zip
+- name: GDevelop-5-5.6.262-universal.dmg
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-5.6.262-universal.dmg
+- name: GDevelop-5-5.6.262-universal.dmg.blockmap
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-5.6.262-universal.dmg.blockmap
+- name: GDevelop-5-5.6.262.AppImage
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-5.6.262.AppImage
+- name: GDevelop-5-Setup-5.6.262.exe
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-Setup-5.6.262.exe
+- name: GDevelop-5-Setup-5.6.262.exe.blockmap
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/GDevelop-5-Setup-5.6.262.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.262/latest.yml
+electron: 32.3.3
+method: src-package-lock
+aur:
+- gdevelop
+homebrew: gdevelop

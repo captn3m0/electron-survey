@@ -1,0 +1,12 @@
+id: healthi
+repository: https://github.com/pablopunk/healthi-app
+website: https://pablopunk.github.io/healthi-app/
+latest: 4.0.1
+src: https://github.com/pablopunk/healthi-app/archive/refs/tags/4.0.1.zip
+downloads:
+- name: Healthi-4.0.1-mac.zip
+  url: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi-4.0.1-mac.zip
+- name: Healthi_4.0.1_amd64.deb
+  url: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi_4.0.1_amd64.deb
+electron: 4.2.12
+method: src-range-guess

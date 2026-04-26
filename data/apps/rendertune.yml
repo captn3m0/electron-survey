@@ -1,0 +1,34 @@
+id: rendertune
+repository: https://github.com/MartinBarker/RenderTune
+website: https://www.martinbarker.me/rendertune
+latest: v2.0.12
+src: https://github.com/MartinBarker/RenderTune/archive/refs/tags/v2.0.12.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/latest-mac.yml
+- name: RenderTune-linux-arm64.tar.bz2
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-arm64.tar.bz2
+- name: RenderTune-linux-armv7l.tar.bz2
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-armv7l.tar.bz2
+- name: RenderTune-linux-x64.tar.bz2
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-x64.tar.bz2
+- name: RenderTune-linux-x86_64.AppImage
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-x86_64.AppImage
+- name: RenderTune-mac-arm64.dmg
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-mac-arm64.dmg
+- name: RenderTune-mac-arm64.dmg.blockmap
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-mac-arm64.dmg.blockmap
+- name: RenderTune-mac-x64.dmg
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-mac-x64.dmg
+- name: RenderTune-mac-x64.dmg.blockmap
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-mac-x64.dmg.blockmap
+- name: RenderTune-win-x64.7z
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-win-x64.7z
+- name: RenderTune-win-x64.exe
+  url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-win-x64.exe
+electron: 33.2.1
+method: src-yarn-lock
+aur:
+- rendertune-bin

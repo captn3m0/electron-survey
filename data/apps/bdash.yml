@@ -1,0 +1,31 @@
+id: bdash
+repository: https://github.com/bdash-app/bdash
+website: https://github.com/bdash-app/bdash
+latest: v1.33.0
+src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.33.0.zip
+downloads:
+- name: Bdash-1.33.0-universal-mac.zip
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal-mac.zip
+- name: Bdash-1.33.0-universal-mac.zip.blockmap
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal-mac.zip.blockmap
+- name: Bdash-1.33.0-universal.dmg
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal.dmg
+- name: Bdash-1.33.0-universal.dmg.blockmap
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0-universal.dmg.blockmap
+- name: Bdash-1.33.0.AppImage
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-1.33.0.AppImage
+- name: Bdash-Setup-1.33.0.exe
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-Setup-1.33.0.exe
+- name: Bdash-Setup-1.33.0.exe.blockmap
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/Bdash-Setup-1.33.0.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/bdash-app/bdash/releases/download/v1.33.0/latest.yml
+electron: 40.6.0
+method: src-yarn-lock
+aur:
+- bdash
+homebrew: bdash

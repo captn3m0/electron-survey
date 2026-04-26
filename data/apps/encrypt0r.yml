@@ -1,0 +1,9 @@
+id: encrypt0r
+repository: https://github.com/kunalnagar/encrypt0r
+website: https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/
+latest: v3.12.64
+src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.64.zip
+electron: 35.7.5
+method: src-yarn-lock
+aur:
+- encrypt0r-bin

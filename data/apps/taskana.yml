@@ -1,0 +1,26 @@
+id: taskana
+repository: https://github.com/mountainash/taskana
+website: https://mountainash.github.io/taskana/
+latest: v1.18.2
+src: https://github.com/mountainash/taskana/archive/refs/tags/v1.18.2.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/latest-mac.yml
+- name: Taskana-1.18.2-arm64-mac.zip
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2-arm64-mac.zip
+- name: Taskana-1.18.2-arm64-mac.zip.blockmap
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2-arm64-mac.zip.blockmap
+- name: Taskana-1.18.2-arm64.dmg
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2-arm64.dmg
+- name: Taskana-1.18.2-arm64.dmg.blockmap
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2-arm64.dmg.blockmap
+- name: Taskana-1.18.2-mac.zip
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2-mac.zip
+- name: Taskana-1.18.2-mac.zip.blockmap
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2-mac.zip.blockmap
+- name: Taskana-1.18.2.dmg
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2.dmg
+- name: Taskana-1.18.2.dmg.blockmap
+  url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2.dmg.blockmap
+electron: 35.0.2
+method: src-package-lock

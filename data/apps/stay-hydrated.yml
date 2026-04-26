@@ -1,0 +1,15 @@
+id: stay-hydrated
+repository: https://github.com/QuentinGruber/stay-hydrated
+latest: v1.1.0
+src: https://github.com/QuentinGruber/stay-hydrated/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: stay-hydrated-1.1.0.AppImage
+  url: https://github.com/QuentinGruber/stay-hydrated/releases/download/v1.1.0/stay-hydrated-1.1.0.AppImage
+- name: stay-hydrated.Setup.1.1.0.exe
+  url: https://github.com/QuentinGruber/stay-hydrated/releases/download/v1.1.0/stay-hydrated.Setup.1.1.0.exe
+- name: stay-hydrated_1.1.0_amd64.deb
+  url: https://github.com/QuentinGruber/stay-hydrated/releases/download/v1.1.0/stay-hydrated_1.1.0_amd64.deb
+- name: win-unpacked.zip
+  url: https://github.com/QuentinGruber/stay-hydrated/releases/download/v1.1.0/win-unpacked.zip
+electron: 9.0.5
+method: src-yarn-lock

@@ -1,0 +1,35 @@
+id: vagrant-manager
+repository: https://github.com/absalomedia/vagrant-manager
+website: https://github.com/absalomedia/vagrant-manager
+latest: 2.3.2
+src: https://github.com/absalomedia/vagrant-manager/archive/refs/tags/2.3.2.zip
+downloads:
+- name: vagrant-manager-2.3.2-ia32.nsis.7z
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-2.3.2-ia32.nsis.7z
+- name: vagrant-manager-2.3.2-x64.nsis.7z
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-2.3.2-x64.nsis.7z
+- name: vagrant-manager-amd64.deb
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-amd64.deb
+- name: vagrant-manager-i386.AppImage
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-i386.AppImage
+- name: vagrant-manager-i386.deb
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-i386.deb
+- name: vagrant-manager-ia32.7z
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-ia32.7z
+- name: vagrant-manager-ia32.zip
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-ia32.zip
+- name: vagrant-manager-x64.7z
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-x64.7z
+- name: vagrant-manager-x64.zip
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-x64.zip
+- name: vagrant-manager-x86_64.AppImage
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager-x86_64.AppImage
+- name: vagrant-manager.dmg
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager.dmg
+- name: vagrant-manager.exe
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager.exe
+- name: vagrant-manager.zip
+  url: https://github.com/absalomedia/vagrant-manager/releases/download/2.3.2/vagrant-manager.zip
+electron: 5.0.7
+method: src-yarn-lock
+homebrew: vagrant-manager

@@ -1,0 +1,12 @@
+id: stopawu
+repository: https://github.com/tariibaba/stopawu
+website: https://github.com/tariibaba/stopawu#readme
+latest: v1.0.0
+src: https://github.com/tariibaba/stopawu/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Stopawu-1.0.0-x64.exe
+  url: https://github.com/tariibaba/stopawu/releases/download/v1.0.0/Stopawu-1.0.0-x64.exe
+- name: Stopawu-1.0.0-x86.exe
+  url: https://github.com/tariibaba/stopawu/releases/download/v1.0.0/Stopawu-1.0.0-x86.exe
+electron: 16.0.4
+method: src-yarn-lock

@@ -1,0 +1,12 @@
+id: tviewer
+repository: https://github.com/msaltnet/T.Viewer
+website: https://github.com/msaltnet/T.Viewer
+latest: ver1.2.2
+src: https://github.com/msaltnet/T.Viewer/archive/refs/tags/ver1.2.2.zip
+downloads:
+- name: tviewer-1.2.2.AppImage
+  url: https://github.com/msaltnet/T.Viewer/releases/download/ver1.2.2/tviewer-1.2.2.AppImage
+- name: tviewer-setup-1.2.2.exe
+  url: https://github.com/msaltnet/T.Viewer/releases/download/ver1.2.2/tviewer-setup-1.2.2.exe
+electron: 9.4.0
+method: src-package-lock

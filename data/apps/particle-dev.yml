@@ -1,0 +1,6 @@
+id: particle-dev
+website: https://www.particle.io/dev
+aur:
+- particle-cli
+- partio-git
+- prtcl-bin

@@ -1,0 +1,10 @@
+id: data-pixels-playground
+repository: https://github.com/gmattie/Data-Pixels
+website: https://github.com/gmattie/Data-Pixels
+latest: 1.1.0
+src: https://github.com/gmattie/Data-Pixels/archive/refs/tags/1.1.0.zip
+downloads:
+- name: Data.Pixels.Playground-win32-x64.zip
+  url: https://github.com/gmattie/Data-Pixels/releases/download/1.1.0/Data.Pixels.Playground-win32-x64.zip
+electron: 3.0.10
+method: src-package-lock

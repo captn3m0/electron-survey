@@ -1,0 +1,32 @@
+id: threema-for-desktop
+repository: https://github.com/GeekCornerGH/Threema-For-Desktop
+website: https://github.com/GeekCornerGH/Threema-For-Desktop#readme
+latest: v2.5.1
+src: https://github.com/GeekCornerGH/Threema-For-Desktop/archive/refs/tags/v2.5.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/latest.yml
+- name: Threema-For-Desktop-linux-2.5.1.AppImage
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-linux-2.5.1.AppImage
+- name: Threema-For-Desktop-mac-universal-2.5.1.dmg
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-mac-universal-2.5.1.dmg
+- name: Threema-For-Desktop-mac-universal-2.5.1.dmg.blockmap
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-mac-universal-2.5.1.dmg.blockmap
+- name: Threema-For-Desktop-portable-2.5.1.exe
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-portable-2.5.1.exe
+- name: Threema-For-Desktop-portable-arm64-2.5.1.exe
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-portable-arm64-2.5.1.exe
+- name: Threema-For-Desktop-portable-ia32-2.5.1.exe
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-portable-ia32-2.5.1.exe
+- name: Threema-For-Desktop-portable-x64-2.5.1.exe
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-portable-x64-2.5.1.exe
+- name: Threema-For-Desktop-setup-2.5.1.exe
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-setup-2.5.1.exe
+- name: Threema-For-Desktop-setup-2.5.1.exe.blockmap
+  url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-setup-2.5.1.exe.blockmap
+electron: 21.2.2
+method: src-pnpm-lock

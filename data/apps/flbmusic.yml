@@ -1,0 +1,14 @@
+id: flbmusic
+repository: https://github.com/Patrick-web/FLB-Music-Player-Official
+website: https://flb.netlify.app
+latest: v1.1.9
+src: https://github.com/Patrick-web/FLB-Music-Player-Official/archive/refs/tags/v1.1.9.zip
+downloads:
+- name: FLB.Music-1.1.9.AppImage
+  url: https://github.com/Patrick-web/FLB-Music-Player-Official/releases/download/v1.1.9/FLB.Music-1.1.9.AppImage
+- name: FLB.Music.Setup.1.1.9.exe
+  url: https://github.com/Patrick-web/FLB-Music-Player-Official/releases/download/v1.1.9/FLB.Music.Setup.1.1.9.exe
+- name: flbmusic_1.1.9_amd64.snap
+  url: https://github.com/Patrick-web/FLB-Music-Player-Official/releases/download/v1.1.9/flbmusic_1.1.9_amd64.snap
+electron: 13.2.2
+method: src-package-lock

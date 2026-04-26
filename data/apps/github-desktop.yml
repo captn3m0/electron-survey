@@ -1,0 +1,31 @@
+id: github-desktop
+repository: https://github.com/desktop/desktop
+website: https://desktop.github.com
+latest: release-3.5.6
+src: https://github.com/desktop/desktop/archive/refs/tags/release-3.5.6.zip
+downloads:
+- name: GitHub.Desktop-3.5.6-checksums.txt
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-3.5.6-checksums.txt
+- name: GitHub.Desktop-arm64.zip
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-arm64.zip
+- name: GitHub.Desktop-x64.zip
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-x64.zip
+- name: GitHubDesktop-3.5.6-x64-delta.nupkg
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-delta.nupkg
+  checksum: 577e8aca06a11c28e432f974facf31a4d53ebd253fa82f37c3fa0c9bd15d3eb9
+- name: GitHubDesktop-3.5.6-x64-full.nupkg
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-full.nupkg
+  checksum: 5cf5d18bb353bb35ac6edb7079b76be56051fbe84c50ed250eef7cfc05ebc68d
+- name: GitHubDesktopSetup-x64.exe
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.exe
+  checksum: 885787059e225a4594459ea7ec1339f1a27d08ebce118b095e9f0e9371ab3385
+- name: GitHubDesktopSetup-x64.msi
+  url: https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.msi
+  checksum: bb2b5ef2257ec7c37033262ab236c44d972b9f67e0b1562c5a38e1e3c499b27d
+electron: 40.1.0
+method: src-yarn-lock
+aur:
+- github-desktop
+- github-desktop-bin
+- github-desktop-zh-bin
+homebrew: github

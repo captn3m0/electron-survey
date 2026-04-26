@@ -1,0 +1,7 @@
+id: zeplin
+website: https://zeplin.io
+homebrew: zeplin
+downloads:
+- url: https://pkg.zeplin.io/macos/latest/zeplin-darwin-universal.zip
+  name: zeplin-darwin-universal.zip
+  version: 10.31.0

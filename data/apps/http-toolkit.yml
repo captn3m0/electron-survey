@@ -1,0 +1,33 @@
+id: http-toolkit
+repository: https://github.com/httptoolkit/httptoolkit-desktop
+website: https://httptoolkit.tech
+homebrew: http-toolkit
+downloads:
+- name: HttpToolkit-1.25.0-arm64.AppImage
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-arm64.AppImage
+- name: HttpToolkit-1.25.0-arm64.deb
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-arm64.deb
+- name: HttpToolkit-1.25.0-arm64.dmg
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-arm64.dmg
+- name: HttpToolkit-1.25.0-arm64.rpm
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-arm64.rpm
+- name: HttpToolkit-1.25.0-linux-arm64.zip
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-linux-arm64.zip
+- name: HttpToolkit-1.25.0-linux-x64.zip
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-linux-x64.zip
+- name: HttpToolkit-1.25.0-win-x64.zip
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-win-x64.zip
+- name: HttpToolkit-1.25.0-x64.AppImage
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-x64.AppImage
+- name: HttpToolkit-1.25.0-x64.deb
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-x64.deb
+- name: HttpToolkit-1.25.0-x64.dmg
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-x64.dmg
+- name: HttpToolkit-1.25.0-x64.rpm
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0-x64.rpm
+- name: HttpToolkit-1.25.0.exe
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.25.0/HttpToolkit-1.25.0.exe
+latest: v1.25.0
+src: https://github.com/httptoolkit/httptoolkit-desktop/archive/refs/tags/v1.25.0.zip
+electron: 39.2.7
+method: src-package-lock

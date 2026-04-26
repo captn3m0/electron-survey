@@ -1,0 +1,17 @@
+id: papyrus
+repository: https://github.com/morkro/papyrus
+website: https://github.com/morkro/papyrus
+latest: 1.0.3
+src: https://github.com/morkro/papyrus/archive/refs/tags/1.0.3.zip
+downloads:
+- name: Papyrus-linux-1.0.3.zip
+  url: https://github.com/morkro/papyrus/releases/download/1.0.3/Papyrus-linux-1.0.3.zip
+- name: Papyrus-osx-1.0.3.zip
+  url: https://github.com/morkro/papyrus/releases/download/1.0.3/Papyrus-osx-1.0.3.zip
+- name: Papyrus-windows-1.0.3.zip
+  url: https://github.com/morkro/papyrus/releases/download/1.0.3/Papyrus-windows-1.0.3.zip
+electron: 10.1.2
+method: src-package-lock
+aur:
+- papyrus
+homebrew: papyrus

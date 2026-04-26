@@ -1,0 +1,30 @@
+id: deckboard
+repository: https://github.com/rivafarabi/deckboard
+website: https://rivafarabi.github.io/deckboard
+latest: v3.1.4
+src: https://github.com/rivafarabi/deckboard/archive/refs/tags/v3.1.4.zip
+downloads:
+- name: Deckboard-3.1.4-universal-mac.zip
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4-universal-mac.zip
+- name: Deckboard-3.1.4-universal-mac.zip.blockmap
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4-universal-mac.zip.blockmap
+- name: Deckboard-3.1.4-universal.dmg
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4-universal.dmg
+- name: Deckboard-3.1.4-universal.dmg.blockmap
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4-universal.dmg.blockmap
+- name: Deckboard-3.1.4.AppImage
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4.AppImage
+- name: deckboard-3.1.4.tar.gz
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/deckboard-3.1.4.tar.gz
+- name: Deckboard-Setup-3.1.4.exe
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-Setup-3.1.4.exe
+- name: Deckboard-Setup-3.1.4.exe.blockmap
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-Setup-3.1.4.exe.blockmap
+- name: deckboard_3.1.4_amd64.deb
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/deckboard_3.1.4_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest.yml

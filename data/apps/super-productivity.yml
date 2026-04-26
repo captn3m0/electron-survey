@@ -1,0 +1,57 @@
+id: super-productivity
+repository: https://github.com/johannesjo/super-productivity
+website: https://super-productivity.com/
+latest: v18.0.0
+src: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.0.0.zip
+downloads:
+- name: app-play-release.apk
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/app-play-release.apk
+- name: latest-linux.yml
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/latest.yml
+- name: Super-Productivity-Setup-arm64.exe
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-arm64.exe
+- name: Super-Productivity-Setup-arm64.exe.blockmap
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-arm64.exe.blockmap
+- name: Super-Productivity-Setup-x64.exe
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-x64.exe
+- name: Super-Productivity-Setup-x64.exe.blockmap
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup-x64.exe.blockmap
+- name: Super-Productivity-Setup.exe
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup.exe
+- name: Super-Productivity-Setup.exe.blockmap
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/Super-Productivity-Setup.exe.blockmap
+- name: superProductivity-amd64.deb
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-amd64.deb
+- name: superProductivity-arm64.dmg
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-arm64.dmg
+- name: superProductivity-arm64.dmg.blockmap
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-arm64.dmg.blockmap
+- name: superProductivity-arm64.exe
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-arm64.exe
+- name: superProductivity-universal.dmg
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-universal.dmg
+- name: superProductivity-universal.dmg.blockmap
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-universal.dmg.blockmap
+- name: superProductivity-x64.dmg
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x64.dmg
+- name: superProductivity-x64.dmg.blockmap
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x64.dmg.blockmap
+- name: superProductivity-x64.exe
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x64.exe
+- name: superProductivity-x86_64.AppImage
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x86_64.AppImage
+- name: superProductivity-x86_64.rpm
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity-x86_64.rpm
+- name: superProductivity.exe
+  url: https://github.com/super-productivity/super-productivity/releases/download/v18.0.0/superProductivity.exe
+electron: 37.10.3
+method: src-package-lock
+aur:
+- superproductivity
+- superproductivity-bin
+- superproductivity-git
+homebrew: super-productivity

@@ -1,0 +1,6 @@
+id: metastream
+repository: https://github.com/samuelmaddock/metastream
+website: https://getmetastream.com
+latest: v0.10.4
+src: https://github.com/samuelmaddock/metastream/archive/refs/tags/v0.10.4.zip
+dead: true

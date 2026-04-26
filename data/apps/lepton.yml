@@ -1,0 +1,36 @@
+id: lepton
+repository: https://github.com/hackjutsu/Lepton
+website: https://hackjutsu.com/Lepton/
+latest: v1.10.0
+src: https://github.com/hackjutsu/Lepton/archive/refs/tags/v1.10.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/latest.yml
+- name: Lepton-1.10.0-ia32-win.7z
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0-ia32-win.7z
+- name: Lepton-1.10.0-mac.zip
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0-mac.zip
+- name: Lepton-1.10.0-win.7z
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0-win.7z
+- name: Lepton-1.10.0.AppImage
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0.AppImage
+- name: Lepton-1.10.0.dmg
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0.dmg
+- name: Lepton-1.10.0.dmg.blockmap
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0.dmg.blockmap
+- name: Lepton-Setup-1.10.0.exe
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-Setup-1.10.0.exe
+- name: Lepton-Setup-1.10.0.exe.blockmap
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-Setup-1.10.0.exe.blockmap
+- name: Lepton_1.10.0_amd64.snap
+  url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton_1.10.0_amd64.snap
+electron: 13.1.2
+method: src-yarn-lock
+aur:
+- lepton-bin
+- lepton-snippet-manager-appimage
+homebrew: lepton

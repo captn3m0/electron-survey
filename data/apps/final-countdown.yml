@@ -1,0 +1,10 @@
+id: final-countdown
+repository: https://github.com/hunterphillips/countdown
+website: https://github.com/hunterphillips/countdown
+latest: 2.0.0
+src: https://github.com/hunterphillips/countdown/archive/refs/tags/2.0.0.zip
+downloads:
+- name: FinalCountdown.zip
+  url: https://github.com/hunterphillips/countdown/releases/download/2.0.0/FinalCountdown.zip
+electron: 7.3.3
+method: src-range-guess

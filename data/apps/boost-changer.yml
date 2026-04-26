@@ -1,0 +1,20 @@
+id: boost-changer
+repository: https://github.com/nbebaw/boostchanger
+website: https://github.com/nbebaw/boostchanger
+latest: v5.2.0
+src: https://github.com/nbebaw/boostchanger/archive/refs/tags/v5.2.0.zip
+downloads:
+- name: boostchanger-5.2.0.AppImage
+  url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/boostchanger-5.2.0.AppImage
+- name: boostchanger-5.2.0.pacman
+  url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/boostchanger-5.2.0.pacman
+- name: boostchanger-5.2.0.tar.xz
+  url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/boostchanger-5.2.0.tar.xz
+- name: boostchanger-5.2.0.zip
+  url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/boostchanger-5.2.0.zip
+- name: boostchanger_5.2.0_amd64.deb
+  url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/boostchanger_5.2.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/latest-linux.yml
+electron: 40.8.0
+method: src-package-lock

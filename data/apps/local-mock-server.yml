@@ -1,0 +1,18 @@
+id: local-mock-server
+repository: https://github.com/jayakumarreddy/Local-Mock-Server/
+website: https://github.com/jayakumarreddy/Local-Mock-Server/
+latest: v1.2.0
+src: https://github.com/jayakumarreddy/Local-Mock-Server/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: Local-Mock-Server-1.2.0.AppImage
+  url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-1.2.0.AppImage
+- name: Local-Mock-Server-1.2.0.dmg
+  url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-1.2.0.dmg
+- name: Local-Mock-Server-1.2.0.dmg.blockmap
+  url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-1.2.0.dmg.blockmap
+- name: Local-Mock-Server-Setup-1.2.0.exe
+  url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-Setup-1.2.0.exe
+- name: Local-Mock-Server-Setup-1.2.0.exe.blockmap
+  url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-Setup-1.2.0.exe.blockmap
+electron: 8.2.5
+method: src-package-lock

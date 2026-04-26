@@ -1,0 +1,14 @@
+id: kube-dev-dashboard
+repository: https://github.com/prsh9/KubeCtl-Dashboard
+website: https://prsh9.github.io/kubectl-dashboard/
+latest: v0.14.3
+src: https://github.com/prsh9/KubeCtl-Dashboard/archive/refs/tags/v0.14.3.zip
+downloads:
+- name: kube-dev-dashboard-0.14.3-linux.zip
+  url: https://github.com/prsh9/kubectl-dashboard/releases/download/v0.14.3/kube-dev-dashboard-0.14.3-linux.zip
+- name: kube-dev-dashboard-0.14.3-mac.dmg
+  url: https://github.com/prsh9/kubectl-dashboard/releases/download/v0.14.3/kube-dev-dashboard-0.14.3-mac.dmg
+- name: kube-dev-dashboard-0.14.3-win.exe
+  url: https://github.com/prsh9/kubectl-dashboard/releases/download/v0.14.3/kube-dev-dashboard-0.14.3-win.exe
+electron: 22.0.0
+method: src-yarn-lock

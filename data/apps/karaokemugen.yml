@@ -1,0 +1,8 @@
+id: karaokemugen
+repository: https://gitlab.com/karaokemugen/karaokemugen-app
+website: https://mugen.karaokes.moe/en
+aur:
+- karaokemugen
+- karaokemugen-git
+electron: 39.8.3
+method: aur-depends

@@ -1,0 +1,7 @@
+id: figma
+website: https://www.figma.com/
+homebrew: figma
+downloads:
+- url: https://desktop.figma.com/mac-arm/Figma-126.2.9.zip
+  name: Figma-126.2.9.zip
+  version: 126.2.9

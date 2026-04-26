@@ -1,0 +1,33 @@
+id: losslesscut
+repository: https://github.com/mifi/lossless-cut
+website: https://github.com/mifi/lossless-cut
+latest: v3.68.0
+src: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.68.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/latest-mac.yml
+- name: LosslessCut-linux-arm64.tar.bz2
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-linux-arm64.tar.bz2
+- name: LosslessCut-linux-x64.tar.bz2
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-linux-x64.tar.bz2
+- name: LosslessCut-linux-x86_64.AppImage
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-linux-x86_64.AppImage
+- name: LosslessCut-mac-arm64.dmg
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-mac-arm64.dmg
+- name: LosslessCut-mac-arm64.dmg.blockmap
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-mac-arm64.dmg.blockmap
+- name: LosslessCut-mac-universal.pkg
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-mac-universal.pkg
+- name: LosslessCut-mac-x64.dmg
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-mac-x64.dmg
+- name: LosslessCut-mac-x64.dmg.blockmap
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-mac-x64.dmg.blockmap
+- name: LosslessCut-win-x64.7z
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-win-x64.7z
+- name: LosslessCut-win-x64.appx
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.68.0/LosslessCut-win-x64.appx
+electron: 38.7.2
+method: src-yarn-lock
+homebrew: losslesscut

@@ -1,0 +1,27 @@
+id: lectrote
+repository: https://github.com/erkyrath/lectrote
+website: https://github.com/erkyrath/lectrote
+latest: lectrote-1.5.6
+src: https://github.com/erkyrath/lectrote/archive/refs/tags/lectrote-1.5.6.zip
+downloads:
+- name: Lectrote-1.5.6-linux-arm64.zip
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-linux-arm64.zip
+- name: Lectrote-1.5.6-linux-x64.zip
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-linux-x64.zip
+- name: Lectrote-1.5.6-macos-arm64.dmg
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-macos-arm64.dmg
+- name: Lectrote-1.5.6-macos-universal.dmg
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-macos-universal.dmg
+- name: Lectrote-1.5.6-macos-x64.dmg
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-macos-x64.dmg
+- name: Lectrote-1.5.6-win32-arm64.zip
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-win32-arm64.zip
+- name: Lectrote-1.5.6-win32-ia32.zip
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-win32-ia32.zip
+- name: Lectrote-1.5.6-win32-x64.zip
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-win32-x64.zip
+- name: Lectrote-1.5.6-WinInstall.exe
+  url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-WinInstall.exe
+electron: 36.9.5
+method: src-range-guess
+homebrew: lectrote

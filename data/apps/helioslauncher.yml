@@ -1,0 +1,28 @@
+id: helioslauncher
+repository: https://github.com/dscalzi/HeliosLauncher
+website: https://github.com/dscalzi/HeliosLauncher
+latest: v2.2.1
+src: https://github.com/dscalzi/HeliosLauncher/archive/refs/tags/v2.2.1.zip
+downloads:
+- name: Helios-Launcher-setup-2.2.1-arm64.dmg
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1-arm64.dmg
+- name: Helios-Launcher-setup-2.2.1-arm64.dmg.blockmap
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1-arm64.dmg.blockmap
+- name: Helios-Launcher-setup-2.2.1-x64.dmg
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1-x64.dmg
+- name: Helios-Launcher-setup-2.2.1-x64.dmg.blockmap
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1-x64.dmg.blockmap
+- name: Helios-Launcher-setup-2.2.1.AppImage
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1.AppImage
+- name: Helios-Launcher-setup-2.2.1.exe
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1.exe
+- name: Helios-Launcher-setup-2.2.1.exe.blockmap
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/Helios-Launcher-setup-2.2.1.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/dscalzi/HeliosLauncher/releases/download/v2.2.1/latest.yml
+electron: 29.1.0
+method: src-package-lock

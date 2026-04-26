@@ -1,0 +1,13 @@
+id: ditto
+repository: https://github.com/RubinderS/DittoPlusPlus/
+website: https://github.com/RubinderS/DittoPlusPlus/
+latest: v1.0.0
+src: https://github.com/RubinderS/DittoPlusPlus/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Ditto++_v1.0.0_Setup_Mac.dmg
+  url: https://github.com/RubinderS/DittoPlusPlus/releases/download/v1.0.0/Ditto%2B%2B_v1.0.0_Setup_Mac.dmg
+- name: Ditto++_v1.0.0_Setup_Windows.exe
+  url: https://github.com/RubinderS/DittoPlusPlus/releases/download/v1.0.0/Ditto%2B%2B_v1.0.0_Setup_Windows.exe
+electron: 13.1.7
+method: src-package-lock
+homebrew: ditto

@@ -1,0 +1,25 @@
+id: switch
+repository: https://github.com/ahkohd/switch-desktop
+website: https://ahkohd.github.io/switch-desktop
+latest: v1.0.23
+src: https://github.com/ahkohd/switch-desktop/archive/refs/tags/v1.0.23.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/latest.yml
+- name: Switch-1.0.23-mac.zip
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-1.0.23-mac.zip
+- name: Switch-1.0.23-win.zip
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-1.0.23-win.zip
+- name: Switch-1.0.23.dmg
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-1.0.23.dmg
+- name: Switch-1.0.23.dmg.blockmap
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-1.0.23.dmg.blockmap
+- name: Switch-Setup-1.0.23.exe
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-Setup-1.0.23.exe
+- name: Switch-Setup-1.0.23.exe.blockmap
+  url: https://github.com/ahkohd/switch-desktop/releases/download/v1.0.23/Switch-Setup-1.0.23.exe.blockmap
+electron: 6.0.0
+method: src-package-lock
+homebrew: switch

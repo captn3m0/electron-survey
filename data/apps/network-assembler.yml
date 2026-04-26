@@ -1,0 +1,10 @@
+id: network-assembler
+repository: https://github.com/kir486680/Network-Assembler
+website: https://github.com/kir486680/Network-Assembler
+latest: 0.0.2
+src: https://github.com/kir486680/Network-Assembler/archive/refs/tags/0.0.2.zip
+downloads:
+- name: Network-Assembler.zip
+  url: https://github.com/kir486680/Network-Assembler/releases/download/0.0.2/Network-Assembler.zip
+electron: 7.2.4
+method: src-package-lock

@@ -1,0 +1,8 @@
+id: domterm
+repository: https://github.com/PerBothner/DomTerm
+website: https://domterm.org/
+latest: 3.2.0
+src: https://github.com/PerBothner/DomTerm/archive/refs/tags/3.2.0.zip
+downloads:
+- name: DomTerm.AppImage
+  url: https://github.com/PerBothner/DomTerm/releases/download/3.2.0/DomTerm.AppImage

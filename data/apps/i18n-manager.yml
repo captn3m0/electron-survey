@@ -1,0 +1,26 @@
+id: i18n-manager
+repository: https://github.com/gilmarsquinelato/i18n-manager
+website: https://github.com/gilmarsquinelato/i18n-manager
+latest: 3.0.3
+src: https://github.com/gilmarsquinelato/i18n-manager/archive/refs/tags/3.0.3.zip
+downloads:
+- name: i18n-Manager-3.0.3.AppImage
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/i18n-Manager-3.0.3.AppImage
+- name: i18n-Manager-3.0.3.dmg
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/i18n-Manager-3.0.3.dmg
+- name: i18n-Manager-3.0.3.dmg.blockmap
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/i18n-Manager-3.0.3.dmg.blockmap
+- name: i18n-Manager-Setup-3.0.3.exe
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/i18n-Manager-Setup-3.0.3.exe
+- name: i18n-Manager-Setup-3.0.3.exe.blockmap
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/i18n-Manager-Setup-3.0.3.exe.blockmap
+- name: i18n-manager_3.0.3_amd64.snap
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/i18n-manager_3.0.3_amd64.snap
+- name: latest-linux.yml
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/gilmarsquinelato/i18n-manager/releases/download/3.0.3/latest.yml
+electron: 8.2.0
+method: src-yarn-lock

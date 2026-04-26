@@ -1,0 +1,14 @@
+id: r6rc
+repository: https://github.com/austinleath/r6rc
+website: https://r6rc.com/
+latest: v0.4.6
+src: https://github.com/austinleath/r6rc/archive/refs/tags/v0.4.6.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/AustinLeath/r6rc/releases/download/v0.4.6/latest.yml
+- name: R6RC-Setup-0.4.6.exe
+  url: https://github.com/AustinLeath/r6rc/releases/download/v0.4.6/R6RC-Setup-0.4.6.exe
+- name: R6RC-Setup-0.4.6.exe.blockmap
+  url: https://github.com/AustinLeath/r6rc/releases/download/v0.4.6/R6RC-Setup-0.4.6.exe.blockmap
+electron: 6.1.12
+method: src-range-guess

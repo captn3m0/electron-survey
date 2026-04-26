@@ -1,0 +1,33 @@
+id: electorrent
+repository: https://github.com/Tympanix/Electorrent
+website: https://github.com/Tympanix/Electorrent
+latest: v2.8.5
+src: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.8.5.zip
+downloads:
+- name: electorrent-2.8.5-full.nupkg
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/electorrent-2.8.5-full.nupkg
+- name: Electorrent-2.8.5-mac.zip
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/Electorrent-2.8.5-mac.zip
+- name: Electorrent-2.8.5-mac.zip.blockmap
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/Electorrent-2.8.5-mac.zip.blockmap
+- name: Electorrent-2.8.5.AppImage
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/Electorrent-2.8.5.AppImage
+- name: Electorrent-2.8.5.dmg
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/Electorrent-2.8.5.dmg
+- name: Electorrent-2.8.5.dmg.blockmap
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/Electorrent-2.8.5.dmg.blockmap
+- name: electorrent-Setup-2.8.5.exe
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/electorrent-Setup-2.8.5.exe
+- name: electorrent_2.8.5_amd64.snap
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/electorrent_2.8.5_amd64.snap
+- name: latest-linux.yml
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/latest-mac.yml
+- name: RELEASES
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.8.5/RELEASES
+electron: 15.5.5
+method: src-package-lock
+aur:
+- electorrent
+homebrew: electorrent

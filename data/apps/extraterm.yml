@@ -1,0 +1,25 @@
+id: extraterm
+repository: https://github.com/sedwards2009/extraterm
+website: http://extraterm.org
+latest: v0.81.4
+src: https://github.com/sedwards2009/extraterm/archive/refs/tags/v0.81.4.zip
+downloads:
+- name: extraterm-commands-0.9.4.zip
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extraterm-commands-0.9.4.zip
+- name: extratermqt-0.81.4-linux-x64.zip
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt-0.81.4-linux-x64.zip
+- name: extratermqt-0.81.4-macos-x64.zip
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt-0.81.4-macos-x64.zip
+- name: extratermqt-0.81.4-windows-x64.zip
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt-0.81.4-windows-x64.zip
+- name: ExtratermQt-0.81.4.glibc2.34-x86_64.AppImage
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/ExtratermQt-0.81.4.glibc2.34-x86_64.AppImage
+- name: extratermqt-setup-0.81.4.exe
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt-setup-0.81.4.exe
+- name: ExtratermQt_0.81.4.dmg
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/ExtratermQt_0.81.4.dmg
+- name: extratermqt_0.81.4_amd64.deb
+  url: https://github.com/sedwards2009/extraterm/releases/download/v0.81.4/extratermqt_0.81.4_amd64.deb
+aur:
+- extraterm-bin
+homebrew: extraterm

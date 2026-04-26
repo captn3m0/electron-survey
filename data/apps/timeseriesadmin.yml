@@ -1,0 +1,14 @@
+id: timeseriesadmin
+repository: https://github.com/timeseriesadmin/timeseriesadmin
+website: https://timeseriesadmin.github.io
+latest: v0.1.13
+src: https://github.com/timeseriesadmin/timeseriesadmin/archive/refs/tags/v0.1.13.zip
+downloads:
+- name: TimeSeriesAdmin.deb
+  url: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.13/TimeSeriesAdmin.deb
+- name: TimeSeriesAdmin.dmg
+  url: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.13/TimeSeriesAdmin.dmg
+- name: TimeSeriesAdmin.exe
+  url: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.13/TimeSeriesAdmin.exe
+electron: 8.4.1
+method: src-package-lock

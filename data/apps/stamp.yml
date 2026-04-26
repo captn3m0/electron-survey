@@ -1,0 +1,7 @@
+id: stamp
+website: https://freeyourmusic.com/
+homebrew: freeyourmusic
+downloads:
+- url: https://fym-app-production.s3.nl-ams.scw.cloud/FreeYourMusic-9.22.1.dmg
+  name: FreeYourMusic-9.22.1.dmg
+  version: 9.22.1

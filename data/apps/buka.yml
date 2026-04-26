@@ -1,0 +1,22 @@
+id: buka
+repository: https://github.com/oguzhaninan/Buka.git
+website: https://github.com/oguzhaninan/Buka
+latest: v1.0.0
+src: https://github.com/oguzhaninan/Buka/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Buka-1.0.0-x86_64.AppImage
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka-1.0.0-x86_64.AppImage
+- name: Buka-1.0.0.freebsd
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka-1.0.0.freebsd
+- name: Buka-1.0.0.pacman
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka-1.0.0.pacman
+- name: Buka-1.0.0.rpm
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka-1.0.0.rpm
+- name: Buka_1.0.0_amd64.deb
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka_1.0.0_amd64.deb
+- name: buka_1.0.0_amd64.snap
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/buka_1.0.0_amd64.snap
+- name: Buka_1.0.0_i386.deb
+  url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka_1.0.0_i386.deb
+electron: 1.6.3
+method: src-yarn-lock

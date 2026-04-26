@@ -1,0 +1,10 @@
+id: weltenschaft
+repository: https://github.com/HoubkneghteS/Weltenschaft
+website: https://github.com/HoubkneghteS/Weltenschaft
+latest: v0.4.2
+src: https://github.com/HoubkneghteS/Weltenschaft/archive/refs/tags/v0.4.2.zip
+downloads:
+- name: Weltenschaft.0.4.2.zip
+  url: https://github.com/HoubkneghteS/Weltenschaft/releases/download/v0.4.2/Weltenschaft.0.4.2.zip
+electron: 9.4.4
+method: src-range-guess

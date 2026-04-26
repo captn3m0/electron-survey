@@ -1,0 +1,16 @@
+id: compact-log-viewer
+repository: https://github.com/warrenbuckley/Compact-Log-Format-Viewer
+website: https://github.com/warrenbuckley/Compact-Log-Format-Viewer
+latest: v1.4.0
+src: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: Compact-Log-Viewer-1.4.0.appx
+  url: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/releases/download/v1.4.0/Compact-Log-Viewer-1.4.0.appx
+- name: Compact.Log.Viewer.Setup.1.4.0.exe
+  url: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/releases/download/v1.4.0/Compact.Log.Viewer.Setup.1.4.0.exe
+- name: Compact.Log.Viewer.Setup.1.4.0.exe.blockmap
+  url: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/releases/download/v1.4.0/Compact.Log.Viewer.Setup.1.4.0.exe.blockmap
+- name: latest.yml
+  url: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/releases/download/v1.4.0/latest.yml
+electron: 22.0.0
+method: src-package-lock

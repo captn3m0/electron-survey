@@ -1,0 +1,26 @@
+id: playcode
+repository: https://github.com/playcode/playcode-desktop
+website: https://github.com/playcode/playcode-desktop
+latest: v2022.12.27
+src: https://github.com/playcode/playcode-desktop/archive/refs/tags/v2022.12.27.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/latest.yml
+- name: PLAYCODE-2022.12.27-universal.dmg
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-2022.12.27-universal.dmg
+- name: PLAYCODE-2022.12.27-x64.dmg
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-2022.12.27-x64.dmg
+- name: PLAYCODE-2022.12.27-x64.dmg.blockmap
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-2022.12.27-x64.dmg.blockmap
+- name: PLAYCODE-2022.12.27.AppImage
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-2022.12.27.AppImage
+- name: PLAYCODE-Setup-2022.12.27.exe
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-Setup-2022.12.27.exe
+- name: PLAYCODE-Setup-2022.12.27.exe.blockmap
+  url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-Setup-2022.12.27.exe.blockmap
+electron: 22.0.0
+method: src-package-lock

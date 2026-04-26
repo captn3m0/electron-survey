@@ -1,0 +1,10 @@
+id: jukeboks
+repository: https://github.com/hirohisa/Jukeboks
+website: https://github.com/hirohisa/Jukeboks
+latest: v2.2.4
+src: https://github.com/hirohisa/Jukeboks/archive/refs/tags/v2.2.4.zip
+downloads:
+- name: Jukeboks.app.zip
+  url: https://github.com/hirohisa/Jukeboks/releases/download/v2.2.4/Jukeboks.app.zip
+electron: 11.4.8
+method: src-yarn-lock

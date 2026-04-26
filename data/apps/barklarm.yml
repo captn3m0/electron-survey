@@ -1,0 +1,28 @@
+id: barklarm
+repository: https://github.com/kanekotic/barklarm
+website: https://www.barklarm.com/
+latest: v2.4.8
+src: https://github.com/kanekotic/barklarm/archive/refs/tags/v2.4.8.zip
+downloads:
+- name: barklarm-2.4.8-1.x86_64.rpm
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8-1.x86_64.rpm
+- name: barklarm-2.4.8-arm64.dmg
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8-arm64.dmg
+- name: barklarm-2.4.8-full.nupkg
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8-full.nupkg
+- name: barklarm-2.4.8.Setup.exe
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8.Setup.exe
+- name: barklarm-darwin-arm64-2.4.8.zip
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-darwin-arm64-2.4.8.zip
+- name: barklarm-linux-x64-2.4.8.zip
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-linux-x64-2.4.8.zip
+- name: barklarm-win32-x64-2.4.8.zip
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-win32-x64-2.4.8.zip
+- name: barklarm_2.4.8_amd64.deb
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm_2.4.8_amd64.deb
+- name: RELEASES
+  url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/RELEASES
+electron: 31.3.1
+method: src-package-lock
+aur:
+- barklarm-bin

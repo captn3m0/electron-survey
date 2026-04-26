@@ -1,0 +1,10 @@
+id: twinkle-tray
+repository: https://github.com/xanderfrangos/twinkle-tray
+website: https://twinkletray.com/
+latest: v1.17.2
+src: https://github.com/xanderfrangos/twinkle-tray/archive/refs/tags/v1.17.2.zip
+downloads:
+- name: Twinkle.Tray.v1.17.2.exe
+  url: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.17.2/Twinkle.Tray.v1.17.2.exe
+electron: 39.2.7
+method: src-package-lock

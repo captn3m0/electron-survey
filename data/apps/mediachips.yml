@@ -1,0 +1,18 @@
+id: mediachips
+repository: https://github.com/fupdec/mediaChips
+website: https://mediachips.app
+latest: v0.12.5-beta
+src: https://github.com/fupdec/mediaChips/archive/refs/tags/v0.12.5-beta.zip
+downloads:
+- name: MediaChips.v0.12.0.Linux.AppImage
+  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.0.Linux.AppImage
+- name: MediaChips.v0.12.0.Windows.Portable.exe
+  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.0.Windows.Portable.exe
+- name: MediaChips.v0.12.5.Mac.dmg
+  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.5.Mac.dmg
+- name: MediaChips.v0.12.5.Windows.Installer.exe
+  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.5.Windows.Installer.exe
+electron: 17.0.0
+method: src-package-lock
+aur:
+- mediachips-bin

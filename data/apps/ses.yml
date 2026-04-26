@@ -1,0 +1,10 @@
+id: ses
+website: https://github.com/dbilgili/Ses
+repository: https://github.com/dbilgili/Ses
+latest: 1.0.4
+src: https://github.com/dbilgili/Ses/archive/refs/tags/1.0.4.zip
+downloads:
+- name: Ses-1.0.4.dmg.zip
+  url: https://github.com/dbilgili/Ses/releases/download/1.0.4/Ses-1.0.4.dmg.zip
+electron: 6.1.9
+method: src-package-lock

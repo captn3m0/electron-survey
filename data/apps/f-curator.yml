@@ -1,0 +1,12 @@
+id: f-curator
+repository: https://github.com/xizon/F-Curator/tree/main/package
+website: https://xizon.github.io/F-Curator-Official-Website/
+latest: v1.3.7
+src: https://github.com/xizon/F-Curator/archive/refs/tags/v1.3.7.zip
+downloads:
+- name: F-Curator.1.3.7.dmg
+  url: https://github.com/xizon/F-Curator/releases/download/v1.3.7/F-Curator.1.3.7.dmg
+- name: F-Curator.win.1.3.7.zip
+  url: https://github.com/xizon/F-Curator/releases/download/v1.3.7/F-Curator.win.1.3.7.zip
+electron: 16.0.6
+method: src-package-lock
