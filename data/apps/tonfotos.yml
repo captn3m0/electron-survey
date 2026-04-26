@@ -5,3 +5,4 @@ download_urls:
   name: tonfotos-latest.deb
 - url: https://cdn.tonfotos.com/distribution/tonfotos/release/latest/linux/x64/tonfotos.rpm
   name: tonfotos-latest.rpm
+name: tonfotos

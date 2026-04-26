@@ -24,3 +24,4 @@ downloads:
   url: https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-Setup-2022.12.27.exe.blockmap
 electron: 22.0.0
 method: src-package-lock
+name: PlayCode

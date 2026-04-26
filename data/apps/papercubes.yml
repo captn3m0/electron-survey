@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/FlorianFe/PaperCubes/releases/download/v1.3.0-beta/PaperCubes_amd64.deb
 electron: 1.7.8
 method: src-package-lock
+name: PaperCubes

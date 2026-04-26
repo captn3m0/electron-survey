@@ -5,3 +5,4 @@ downloads:
 - url: https://cdn.jandi.com/jandi-pc/download/JANDI-arm64.dmg
   name: JANDI-arm64.dmg
   version: 1.7.7
+name: JANDI

@@ -1,6 +1,5 @@
 id: datazenit
 website: https://datazenit.com
-repository: https://github.com/datazenit/datazenit-releases
 homebrew: datazenit
 downloads:
 - name: linux32.tar.gz
@@ -13,3 +12,4 @@ downloads:
   url: https://github.com/datazenit/datazenit-releases/releases/download/v1.1.0/win.zip
 latest: v1.1.0
 src: https://github.com/datazenit/datazenit-releases/archive/refs/tags/v1.1.0.zip
+name: Datazenit

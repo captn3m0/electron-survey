@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.13/TimeSeriesAdmin.exe
 electron: 8.4.1
 method: src-package-lock
+name: Time Series Admin

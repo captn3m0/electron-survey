@@ -32,3 +32,4 @@ electron: 18.0.0
 method: src-package-lock
 aur:
 - melodie-bin
+name: Mélodie

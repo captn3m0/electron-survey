@@ -15,3 +15,4 @@ downloads:
 electron: 40.4.1
 method: src-package-lock
 homebrew: itch
+name: itch

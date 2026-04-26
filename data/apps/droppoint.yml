@@ -27,3 +27,4 @@ method: src-package-lock
 aur:
 - droppoint-bin
 - droppoint-git
+name: DropPoint

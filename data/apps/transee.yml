@@ -30,3 +30,4 @@ downloads:
   url: https://github.com/alessioforte/transee/releases/download/v2.1.0/Transee-Setup-2.1.0.exe.blockmap
 electron: 18.2.0
 method: src-package-lock
+name: Transee

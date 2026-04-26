@@ -22,3 +22,4 @@ electron: 9.1.1
 method: src-yarn-lock
 aur:
 - i5sing
+name: i5sing

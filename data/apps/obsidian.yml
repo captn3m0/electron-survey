@@ -1,6 +1,5 @@
 id: obsidian
 website: https://obsidian.md/
-repository: https://github.com/obsidianmd/obsidian-releases
 homebrew: obsidian
 downloads:
 - name: Obsidian-1.12.7-arm64.AppImage
@@ -44,3 +43,4 @@ packages:
   format: appimage
   os: linux
   arch: x64
+name: Obsidian

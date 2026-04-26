@@ -24,3 +24,4 @@ downloads:
   url: https://github.com/jotron/StudyMD/releases/download/v0.3.2/studymd_0.3.2_amd64.snap
 electron: 1.8.2
 method: src-yarn-lock
+name: StudyMD

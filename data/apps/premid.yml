@@ -15,3 +15,4 @@ method: src-yarn-lock
 aur:
 - premid
 - premid-nightly
+name: PreMiD

@@ -39,3 +39,4 @@ packages:
   format: zip
   os: macos
   arch: universal
+name: Gitify

@@ -16,3 +16,4 @@ downloads:
   url: https://github.com/matthijsgroen/geppetto/releases/download/1.3.1/geppetto_1.3.1_arm64.deb
 electron: 16.0.0
 method: src-yarn-lock
+name: Geppetto

@@ -27,3 +27,4 @@ downloads:
 electron: 33.0.1
 method: src-package-lock
 homebrew: quba
+name: Quba E-Invoice Viewer

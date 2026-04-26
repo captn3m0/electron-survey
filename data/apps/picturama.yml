@@ -14,3 +14,4 @@ electron: 9.0.4
 method: src-yarn-lock
 aur:
 - picturama-bin
+name: Picturama

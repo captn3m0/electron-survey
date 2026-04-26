@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/releases/download/v1.4.0/latest.yml
 electron: 22.0.0
 method: src-package-lock
+name: Compact Log Viewer

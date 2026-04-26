@@ -77,3 +77,4 @@ method: src-yarn-lock
 aur:
 - tabby
 - tabby-electron-bin
+name: Tabby Terminal

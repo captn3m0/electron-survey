@@ -54,3 +54,4 @@ packages:
 - url: https://www.zettlr.com/download/linux
   format: appimage
   os: linux
+name: Zettlr

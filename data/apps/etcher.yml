@@ -43,3 +43,4 @@ downloads:
 electron: 37.2.4
 aur:
 - balena-etcher-bin
+name: Etcher

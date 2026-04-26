@@ -35,3 +35,4 @@ downloads:
   checksum: 6Y7Ep287cKw2ei0lFpwEZZmBwZBhFsidvj7869bSqIWY2kDutjUZNecdvZ8/BuqnDDzy5EJ0AoTAcC4n3Ka+yA==
 electron: 17.0.0
 method: src-package-lock
+name: texpaste

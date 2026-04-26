@@ -13,3 +13,4 @@ method: src-package-lock
 aur:
 - companion
 homebrew: companion
+name: Companion

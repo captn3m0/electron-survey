@@ -31,3 +31,4 @@ downloads:
   url: https://github.com/wexond/browser-base/releases/download/v5.2.0/wexond_5.2.0_amd64.deb
 electron: 11.2.3
 method: src-yarn-lock
+name: Wexond

@@ -52,3 +52,4 @@ downloads:
   url: https://github.com/Moosync/Moosync/releases/download/Moosync-v11.0.2/Moosync_x64.app.tar.gz.sig
 aur:
 - moosync
+name: Moosync

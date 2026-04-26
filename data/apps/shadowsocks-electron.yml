@@ -56,3 +56,4 @@ downloads:
   url: https://github.com/nojsja/shadowsocks-electron/releases/download/v1.2.3/Shadowsocks.Electron-1.2.3-mac.zip.blockmap
 electron: 18.0.3
 method: src-yarn-lock
+name: shadowsocks-electron

@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/AustinLeath/r6rc/releases/download/v0.4.6/R6RC-Setup-0.4.6.exe.blockmap
 electron: 6.1.12
 method: src-range-guess
+name: R6RC

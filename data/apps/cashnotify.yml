@@ -5,3 +5,4 @@ downloads:
 - url: https://github.com/BaguetteEngineering/download.cashnotify.com/releases/download/v3.7.0/CashNotify-3.7.0.dmg
   name: CashNotify-3.7.0.dmg
   version: 3.7.0
+name: CashNotify

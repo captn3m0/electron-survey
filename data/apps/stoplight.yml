@@ -7,3 +7,4 @@ downloads:
 - url: https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.9587.git-0533c10/stoplight-studio-mac-arm64.dmg
   name: stoplight-studio-mac-arm64.dmg
   version: 2.10.0,9587.git-0533c10
+name: StopLight

@@ -20,3 +20,4 @@ packages:
   format: zip
   os: macos
   arch: x64
+name: Git-it

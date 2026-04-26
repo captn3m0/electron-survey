@@ -24,3 +24,4 @@ downloads:
   url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.12/SimpleInstaBot-win.exe
 electron: 38.8.4
 method: src-yarn-lock
+name: SimpleInstaBot

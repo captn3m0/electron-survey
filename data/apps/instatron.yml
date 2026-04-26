@@ -5,3 +5,4 @@ latest: v1.5.0
 src: https://github.com/alexdevero/instatron/archive/refs/tags/v1.5.0.zip
 electron: 9.0.0
 method: src-yarn-lock
+name: Instatron

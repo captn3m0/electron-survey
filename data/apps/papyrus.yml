@@ -15,3 +15,4 @@ method: src-package-lock
 aur:
 - papyrus
 homebrew: papyrus
+name: Papyrus

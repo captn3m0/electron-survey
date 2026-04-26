@@ -3,3 +3,4 @@ repository: https://github.com/aethereans/aether-app
 website: https://getaether.net
 aur:
 - aether
+name: Aether

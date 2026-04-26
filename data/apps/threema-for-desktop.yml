@@ -30,3 +30,4 @@ downloads:
   url: https://github.com/GeekCornerGH/threema-for-desktop/releases/download/v2.5.1/Threema-For-Desktop-setup-2.5.1.exe.blockmap
 electron: 21.2.2
 method: src-pnpm-lock
+name: Threema For Desktop

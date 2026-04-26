@@ -41,3 +41,4 @@ method: src-package-lock
 aur:
 - buttercup
 homebrew: buttercup
+name: Buttercup

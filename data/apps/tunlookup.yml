@@ -32,3 +32,4 @@ downloads:
   url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe
 - name: Tunlookup.Setup.4.2.4.exe.blockmap
   url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe.blockmap
+name: Tunlookup

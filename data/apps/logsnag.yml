@@ -36,3 +36,4 @@ downloads:
   url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/LogSnag-Setup-1.8.0.exe.blockmap
 - name: logsnag_1.8.0_amd64.deb
   url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/logsnag_1.8.0_amd64.deb
+name: LogSnag

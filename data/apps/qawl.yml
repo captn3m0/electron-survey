@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/sufone/qawl/releases/download/v0.0.7/qawl_Linux_0.0.7_amd64.deb
 electron: 10.1.5
 method: src-yarn-lock
+name: Qawl

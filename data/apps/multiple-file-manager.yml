@@ -11,3 +11,4 @@ downloads:
   url: https://github.com/dhanyn10/multiple-file-manager/releases/download/v5.0.0/Multiple.File.Manager-5.0.0.dmg
 electron: 30.5.1
 method: src-package-lock
+name: Multiple File Manager

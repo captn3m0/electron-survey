@@ -18,3 +18,4 @@ packages:
   os: macos
   invalid: true
   invalid_reason: HTTP 403
+name: Loom

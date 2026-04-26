@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267_zerofootprint.zip
 electron: 34.5.5
 method: src-package-lock
+name: RIDE

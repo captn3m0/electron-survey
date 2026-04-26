@@ -10,3 +10,4 @@ downloads:
   url: https://github.com/fakob/MoviePrint_v004/releases/download/0.2.23/MoviePrint_v004-0.2.23-win.zip
 electron: 7.1.11
 method: src-yarn-lock
+name: MoviePrint

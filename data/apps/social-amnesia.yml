@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/Nick-Gottschlich/Social-Amnesia/releases/download/v2.0.2/social_amnesia_2.0.2_amd64-LINUX.snap
 electron: 7.3.2
 method: src-yarn-lock
+name: Social Amnesia

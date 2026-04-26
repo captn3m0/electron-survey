@@ -15,3 +15,4 @@ downloads:
 electron: 1.7.3
 method: src-yarn-lock
 homebrew: wail
+name: WAIL

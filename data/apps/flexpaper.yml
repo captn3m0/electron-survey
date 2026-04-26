@@ -1,7 +1,8 @@
 id: flexpaper
-website: https://flowpaper.com/
+website: https://flexpaper.devaldi.com/
 download_urls:
 - https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-x64.exe
 - https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-ia32.exe
 - https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-arm64.dmg
 - https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher.dmg
+name: FlexPaper

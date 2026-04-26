@@ -4,3 +4,4 @@ download_urls:
 - https://releases.astroprint.com/AstroPrint+Setup+0.3.1.exe
 - https://releases.astroprint.com/AstroPrint-0.3.1.dmg
 - https://releases.astroprint.com/astroprint-0.3.1-x86_64.AppImage
+name: AstroPrint Desktop

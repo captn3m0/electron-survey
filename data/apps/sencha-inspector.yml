@@ -8,3 +8,4 @@ downloads:
 - url: https://trials.sencha.com/cmd/7.9.0/jre/SenchaCmd-7.9.0.35-osx.app.zip
   name: SenchaCmd-7.9.0.35-osx.app.zip
   version: 7.9.0.35
+name: Sencha Inspector

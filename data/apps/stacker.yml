@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/enqueuer-land/stacker/releases/download/v0.2.0/stacker.Setup.0.2.0.exe.zip
 electron: 6.1.9
 method: src-package-lock
+name: stacker

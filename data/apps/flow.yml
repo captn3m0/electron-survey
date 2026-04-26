@@ -7,3 +7,4 @@ downloads:
 - url: https://cdn.getflow.com/darwin_x64/Flow.zip
   name: Flow.zip
   version: 6.2.0.2082
+name: Flow

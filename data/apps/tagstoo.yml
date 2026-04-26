@@ -3,3 +3,4 @@ repository: https://sourceforge.net/projects/tagstoo/files/Tagstoo__sourcecode/
 website: https://tagstoo.sourceforge.io/
 aur:
 - tagstoo
+name: Tagstoo

@@ -43,3 +43,4 @@ aur:
 - sqlectron-gui-bin
 - sqlectron-gui-git
 homebrew: sqlectron
+name: Sqlectron

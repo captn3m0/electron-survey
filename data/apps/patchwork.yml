@@ -32,3 +32,4 @@ downloads:
   url: https://github.com/ssbc/patchwork/releases/download/v3.18.1/ssb-patchwork_3.18.1_amd64.snap
 electron: 11.3.0
 method: src-package-lock
+name: Patchwork

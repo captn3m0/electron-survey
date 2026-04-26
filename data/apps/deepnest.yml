@@ -1,6 +1,5 @@
 id: deepnest
 website: https://deepnest.io/
-repository: https://github.com/deepnest-next/deepnest
 homebrew: deepnest
 downloads:
 - name: deepnest-v1.5.6-darwin-arm64.zip
@@ -43,3 +42,4 @@ packages:
 - url: https://deepnest.io/Deepnest-1.0.5-mac.zip
   format: zip
   os: macos
+name: Deepnest

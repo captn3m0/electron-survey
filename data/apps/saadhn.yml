@@ -10,3 +10,4 @@ downloads:
   url: https://github.com/arkokoley/saadhn/releases/download/v0.3/Saadhn-linux-x64.zip
 - name: Saadhn-win32-x64.zip
   url: https://github.com/arkokoley/saadhn/releases/download/v0.3/Saadhn-win32-x64.zip
+name: Saadhn

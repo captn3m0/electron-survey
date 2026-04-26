@@ -60,3 +60,4 @@ packages:
 - url: https://github.com/marktext/marktext/releases/latest/download/marktext-amd64.deb
   format: deb
   os: linux
+name: MarkText

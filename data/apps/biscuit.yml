@@ -7,3 +7,4 @@ downloads:
 - url: https://github.com/agata/dl.biscuit/releases/download/1.2.33/Biscuit-1.2.33-arm64.dmg
   name: Biscuit-1.2.33-arm64.dmg
   version: 1.2.33
+name: Biscuit

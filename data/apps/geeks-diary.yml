@@ -10,3 +10,4 @@ downloads:
   url: https://github.com/seokju-na/geeks-diary/releases/download/1.0.0-beta2/Geeks.Diary-1.0.0-beta2.dmg
 electron: 2.0.11
 method: src-yarn-lock
+name: Geeks Diary

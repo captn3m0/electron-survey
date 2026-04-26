@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/MrChuckomo/poddycast/releases/download/v0.13.0/Poddycast-win32-x64.zip
 electron: 35.7.5
 method: src-package-lock
+name: Poddycast

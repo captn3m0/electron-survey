@@ -24,3 +24,4 @@ downloads:
   url: https://github.com/icidasset/diffuse/releases/download/3.5.0/Diffuse_3.5.0_x64_en-US.msi
 aur:
 - diffuse-player-bin
+name: Diffuse

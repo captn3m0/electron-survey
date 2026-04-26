@@ -4,3 +4,4 @@ aur:
 - xuanxuan-bin
 electron: 31.7.7
 method: aur-depends
+name: Xuanxuan IM

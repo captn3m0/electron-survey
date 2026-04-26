@@ -3,3 +3,4 @@ repository: https://github.com/ciderapp/Cider
 website: https://cider.sh
 aur:
 - cider
+name: Cider

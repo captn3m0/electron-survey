@@ -1,6 +1,5 @@
 id: darkj
 website: https://github.com/Yamazaki93/DarkJ-Release
-repository: https://github.com/Yamazaki93/DarkJ-Release
 latest: v0.1.1
 src: https://github.com/Yamazaki93/DarkJ-Release/archive/refs/tags/v0.1.1.zip
 downloads:
@@ -18,3 +17,4 @@ downloads:
   url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/latest.yml
+name: DarkJ

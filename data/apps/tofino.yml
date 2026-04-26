@@ -16,3 +16,4 @@ downloads:
   url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-linux-x64.tar.bz2
 - name: tofino-win32-ia32.exe
   url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-win32-ia32.exe
+name: Tofino

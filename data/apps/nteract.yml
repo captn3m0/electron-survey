@@ -11,3 +11,4 @@ downloads:
 - url: https://github.com/nteract/desktop/releases/download/v1.4.1-stable.202603102148/nteract-stable-darwin-arm64.dmg
   name: nteract-stable-darwin-arm64.dmg
   version: 1.4.1,202603102148
+name: nteract

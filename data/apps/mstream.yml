@@ -35,3 +35,4 @@ downloads:
 aur:
 - mstream
 - mstream-git
+name: mStream

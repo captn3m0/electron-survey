@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/nxshell/nxshell/releases/download/v1.9.3/NxShell-x64-win-1.9.3-202303220723.exe
 - name: NxShell-x86_64-linux-1.9.3-202303220832.AppImage
   url: https://github.com/nxshell/nxshell/releases/download/v1.9.3/NxShell-x86_64-linux-1.9.3-202303220832.AppImage
+name: nxshell

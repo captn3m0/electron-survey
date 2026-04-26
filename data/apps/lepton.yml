@@ -34,3 +34,4 @@ aur:
 - lepton-bin
 - lepton-snippet-manager-appimage
 homebrew: lepton
+name: Lepton

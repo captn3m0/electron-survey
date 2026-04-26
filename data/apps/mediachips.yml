@@ -16,3 +16,4 @@ electron: 17.0.0
 method: src-package-lock
 aur:
 - mediachips-bin
+name: mediaChips

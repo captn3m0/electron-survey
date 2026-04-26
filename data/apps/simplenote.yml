@@ -55,3 +55,4 @@ method: src-package-lock
 aur:
 - sncli
 homebrew: simplenote
+name: Simplenote

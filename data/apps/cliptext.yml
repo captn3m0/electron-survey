@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/aaabhilash97/cliptext-clipboard-manager/releases/download/v2.0.2/cliptext-2.0.2-mac.zip
 electron: 7.2.4
 method: src-package-lock
+name: cliptext

@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty.Setup.3.2.1.exe
 electron: 17.4.11
 method: src-range-guess
+name: WebKitty

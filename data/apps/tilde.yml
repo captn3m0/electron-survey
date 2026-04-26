@@ -24,3 +24,4 @@ electron: 10.1.5
 method: src-package-lock
 aur:
 - tilde
+name: Tilde

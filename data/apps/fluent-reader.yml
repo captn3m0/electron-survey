@@ -25,3 +25,4 @@ aur:
 - fluent-reader-electron-bin
 - fluent-reader-git
 homebrew: fluent-reader
+name: Fluent Reader

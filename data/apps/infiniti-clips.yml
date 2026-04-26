@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/azure06/clips/releases/download/v0.2.6/latest.yml
 electron: 21.2.0
 method: src-package-lock
+name: Infiniti Clips

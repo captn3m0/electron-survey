@@ -7,3 +7,4 @@ downloads:
 - url: https://trial2.autodesk.com/NET17SWDLD/2017/EGLPRM/ESD/Autodesk_EAGLE_9.6.2_English_Mac_64bit.pkg
   name: Autodesk_EAGLE_9.6.2_English_Mac_64bit.pkg
   version: 9.6.2
+name: Eagle

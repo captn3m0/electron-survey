@@ -1,6 +1,5 @@
 id: remaining-time
 website: https://github.com/funkyremi/macos-battery-remaining-menubar
-repository: https://github.com/funkyremi/macos-battery-remaining-menubar
 latest: 1.0.3
 src: https://github.com/funkyremi/macos-battery-remaining-menubar/archive/refs/tags/1.0.3.zip
 downloads:
@@ -8,3 +7,4 @@ downloads:
   url: https://github.com/funkyremi/macos-battery-remaining-menubar/releases/download/1.0.3/Battery.Remaining-1.0.3.dmg
 electron: 5.0.8
 method: src-yarn-lock
+name: Remaining Time

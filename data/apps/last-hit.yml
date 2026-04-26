@@ -24,3 +24,4 @@ downloads:
   url: https://github.com/last-hit-aab/last-hit/releases/download/v0.9.19/latest.yml
 electron: 7.1.1
 method: src-yarn-lock
+name: Last Hit

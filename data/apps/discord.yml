@@ -32,3 +32,4 @@ packages:
   format: tar.gz
   os: linux
   arch: x64
+name: Discord

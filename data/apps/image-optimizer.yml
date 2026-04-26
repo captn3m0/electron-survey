@@ -11,3 +11,4 @@ electron: 16.0.6
 method: src-package-lock
 aur:
 - image-optimizer
+name: Image Optimizer

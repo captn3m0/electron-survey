@@ -42,3 +42,4 @@ electron: 38.3.0
 method: src-pnpm-lock
 aur:
 - altair
+name: Altair GraphQL Client

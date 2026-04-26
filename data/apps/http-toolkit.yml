@@ -1,5 +1,5 @@
 id: http-toolkit
-repository: https://github.com/httptoolkit/httptoolkit-desktop
+repository: https://github.com/httptoolkit
 website: https://httptoolkit.tech
 homebrew: http-toolkit
 downloads:
@@ -31,3 +31,4 @@ latest: v1.25.0
 src: https://github.com/httptoolkit/httptoolkit-desktop/archive/refs/tags/v1.25.0.zip
 electron: 39.2.7
 method: src-package-lock
+name: HTTP Toolkit

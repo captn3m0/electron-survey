@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-Setup-2.3.0.exe.blockmap
 electron: 19.1.9
 method: src-yarn-lock
+name: Redis GUI (unofficial)

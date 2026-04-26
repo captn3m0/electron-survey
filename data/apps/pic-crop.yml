@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/ujw0l/pic-crop/releases/download/1.1.0/pic-crop.app.zip
 electron: 13.6.6
 method: src-package-lock
+name: Pic Crop

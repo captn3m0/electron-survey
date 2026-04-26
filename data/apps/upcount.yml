@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_x64.app.tar.gz
 - name: Upcount_x64.app.tar.gz.sig
   url: https://github.com/madisvain/upcount/releases/download/v2.0.0-beta.23/Upcount_x64.app.tar.gz.sig
+name: Upcount

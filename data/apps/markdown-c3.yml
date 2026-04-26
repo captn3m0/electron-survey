@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/el3um4s/markdown-c3/releases/download/v.1.0.0/Markdown.C3.1.0.0.exe
 electron: 3.0.10
 method: src-package-lock
+name: Markdown C3

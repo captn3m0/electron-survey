@@ -9,3 +9,4 @@ packages:
 - url: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
   format: zip
   os: macos
+name: Abstract

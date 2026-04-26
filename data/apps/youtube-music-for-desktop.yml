@@ -42,3 +42,4 @@ electron: 36.9.5
 method: src-pnpm-lock
 aur:
 - youtube-music-for-desktop-bin
+name: Youtube Music for Desktop (Unofficial)

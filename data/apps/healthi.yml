@@ -10,3 +10,4 @@ downloads:
   url: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi_4.0.1_amd64.deb
 electron: 4.2.12
 method: src-range-guess
+name: healthi

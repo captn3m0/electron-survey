@@ -6,3 +6,4 @@ src: https://github.com/monsterkodi/kappo/archive/refs/tags/v1.31.0.zip
 downloads:
 - name: kappo-1.31.0-setup.exe
   url: https://github.com/monsterkodi/kappo/releases/download/v1.31.0/kappo-1.31.0-setup.exe
+name: kappo

@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/AlexanderPershin/lsdeer/releases/download/v0.1.6/lsdeer-Setup-0.1.6.exe.blockmap
 electron: 8.2.1
 method: src-package-lock
+name: lsdeer

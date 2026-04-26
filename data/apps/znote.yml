@@ -41,3 +41,4 @@ aur:
 electron: 36.9.5
 method: aur-depends
 homebrew: znote
+name: Znote

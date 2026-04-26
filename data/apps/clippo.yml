@@ -6,3 +6,4 @@ src: https://github.com/monsterkodi/clippo/archive/refs/tags/v1.40.0.zip
 downloads:
 - name: clippo-1.40.0.dmg
   url: https://github.com/monsterkodi/clippo/releases/download/v1.40.0/clippo-1.40.0.dmg
+name: clippo

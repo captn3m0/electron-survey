@@ -23,3 +23,4 @@ downloads:
 aur:
 - extraterm-bin
 homebrew: extraterm
+name: Extraterm

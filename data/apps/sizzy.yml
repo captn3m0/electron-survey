@@ -8,3 +8,4 @@ downloads:
 - url: https://proxy.sizzy.co/updates/download/mac?arch=arm64
   name: mac
   version: 73.1.0
+name: Sizzy

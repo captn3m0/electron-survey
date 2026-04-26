@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/murgatt/recode-converter/releases/download/v2.1.1/Recode-Converter-Windows-2.1.1-Setup.exe.blockmap
 electron: 40.6.1
 method: src-pnpm-lock
+name: Recode Converter

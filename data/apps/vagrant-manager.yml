@@ -33,3 +33,4 @@ downloads:
 electron: 5.0.7
 method: src-yarn-lock
 homebrew: vagrant-manager
+name: Vagrant Manager

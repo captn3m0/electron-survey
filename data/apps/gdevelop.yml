@@ -31,3 +31,4 @@ method: src-package-lock
 aur:
 - gdevelop
 homebrew: gdevelop
+name: GDevelop

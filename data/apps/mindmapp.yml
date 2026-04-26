@@ -3,3 +3,4 @@ repository: https://github.com/Mindmapp/mindmapp
 website: https://mindmapp.cedoor.dev/
 latest: v0.10.0
 src: https://github.com/Mindmapp/mindmapp/archive/refs/tags/v0.10.0.zip
+name: Mindmapp

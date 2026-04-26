@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/deep5050/qikQR/releases/download/v1.0.0/qikqr_1.0.0_amd64.deb
 electron: 8.2.5
 method: src-yarn-lock
+name: qikQR

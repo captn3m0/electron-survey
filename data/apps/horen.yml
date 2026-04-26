@@ -4,3 +4,4 @@ aur:
 - horen
 electron: 28.3.3
 method: aur-depends
+name: Horen

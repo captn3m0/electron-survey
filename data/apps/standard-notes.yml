@@ -103,3 +103,4 @@ packages:
   format: appimage
   os: linux
   arch: x64
+name: Standard Notes

@@ -3,3 +3,4 @@ website: https://dashy.futureglobe.de/
 download_urls:
 - https://buildserver.futureglobe.de/Dashy/DashySetup.exe
 - https://buildserver.futureglobe.de/Dashy/DashySetup.dmg
+name: Dashy

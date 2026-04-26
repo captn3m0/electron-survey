@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/Squitch1/Tess/releases/download/0.6.3/tess_0.6.3.AppImage
 electron: 17.4.11
 method: src-package-lock
+name: Tess

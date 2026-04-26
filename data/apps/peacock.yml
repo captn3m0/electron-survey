@@ -22,3 +22,4 @@ electron: 9.0.0-beta.13
 method: src-package-lock
 aur:
 - peacock
+name: Peacock

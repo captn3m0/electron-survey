@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/4gray/oversetter/releases/download/v0.4.0/oversetter_0.4.0_amd64.snap
 electron: 7.2.4
 method: src-package-lock
+name: Oversetter

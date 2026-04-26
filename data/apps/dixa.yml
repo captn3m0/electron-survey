@@ -25,3 +25,4 @@ downloads:
 - name: latest.yml
   url: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/latest.yml
 homebrew: dixa
+name: Dixa

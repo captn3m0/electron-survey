@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/samuelmeuli/mini-diary/releases/download/v3.3.0/Mini-Diary-Setup-3.3.0.exe.blockmap
 electron: 8.3.0
 method: src-yarn-lock
+name: Mini Diary

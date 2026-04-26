@@ -29,3 +29,4 @@ method: src-package-lock
 aur:
 - switchhosts-bin
 homebrew: switchhosts
+name: SwitchHosts

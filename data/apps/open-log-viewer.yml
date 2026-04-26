@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/tmoreno/open-log-viewer/releases/download/1.6.0/open-log-viewer_1.6.0.rpm
 electron: 8.1.1
 method: src-package-lock
+name: Open Log Viewer

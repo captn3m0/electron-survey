@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/rkclark/pullp/releases/download/v4.0.2/Pullp-Setup-4.0.2.exe
 electron: 14.0.1
 method: src-package-lock
+name: Pullp

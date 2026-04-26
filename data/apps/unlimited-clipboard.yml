@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.snap
 electron: 8.5.5
 method: src-range-guess
+name: clipboard-manager-electron

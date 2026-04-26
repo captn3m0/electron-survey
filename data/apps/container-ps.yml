@@ -11,3 +11,4 @@ downloads:
 electron: 12.0.1
 method: src-package-lock
 homebrew: container-ps
+name: Container PS

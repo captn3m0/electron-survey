@@ -3,3 +3,4 @@ repository: https://github.com/seobrowse/serp/
 website: https://seobrowse.com/?rel=electron
 latest: 1.3.2
 src: https://github.com/seobrowse/serp/archive/refs/tags/1.3.2.zip
+name: SEOBrowse

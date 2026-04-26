@@ -3,3 +3,4 @@ website: https://www.cargo.lt/asp/software.asp
 download_urls:
 - https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger%20Web%20Setup%201.0.22.exe
 - https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger-1.0.22.dmg
+name: Cargo Messenger

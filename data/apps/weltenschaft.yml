@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/HoubkneghteS/Weltenschaft/releases/download/v0.4.2/Weltenschaft.0.4.2.zip
 electron: 9.4.4
 method: src-range-guess
+name: Weltenschaft

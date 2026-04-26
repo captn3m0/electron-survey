@@ -6,3 +6,4 @@ src: https://github.com/FalconSoft/worksheets-data.studio/archive/refs/tags/v3.2
 downloads:
 - name: WORKSHEETS.Data.Studio.exe
   url: https://github.com/FalconSoft/worksheets-data.studio/releases/download/v3.2.2/WORKSHEETS.Data.Studio.exe
+name: WORKSHEETS Data Studio

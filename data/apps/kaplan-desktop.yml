@@ -5,3 +5,4 @@ latest: v0.6.4
 src: https://github.com/kaplanPRO/kaplan-desktop/archive/refs/tags/v0.6.4.zip
 electron: 13.6.9
 method: src-yarn-lock
+name: Kaplan Desktop

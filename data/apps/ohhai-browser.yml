@@ -14,3 +14,4 @@ electron: 8.2.5
 method: src-package-lock
 aur:
 - ohhaibrowser-bin
+name: OhHai Browser

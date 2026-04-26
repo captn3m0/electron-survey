@@ -1,6 +1,5 @@
 id: email-securely-app
 website: https://github.com/vladimiry/email-securely-app
-repository: https://github.com/vladimiry/email-securely-app
 latest: v5.3.6
 src: https://github.com/vladimiry/email-securely-app/archive/refs/tags/v5.3.6.zip
 downloads:
@@ -32,3 +31,4 @@ downloads:
   url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-x64-nsis-installer.exe
 electron: 40.4.1
 method: src-pnpm-lock
+name: email-securely-app

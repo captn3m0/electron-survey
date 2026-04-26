@@ -7,3 +7,4 @@ downloads:
 - name: Playback.app.zip
   url: https://github.com/mafintosh/playback/releases/download/v1.6.0/Playback.app.zip
 homebrew: playback
+name: Playback

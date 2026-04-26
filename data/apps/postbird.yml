@@ -25,3 +25,4 @@ downloads:
 electron: 6.1.4
 method: src-yarn-lock
 homebrew: postbird
+name: Postbird

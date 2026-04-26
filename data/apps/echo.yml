@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/afractal/echo-app/releases/download/1.0/Echo-v1.0.0.exe
 aur:
 - echo
+name: echo

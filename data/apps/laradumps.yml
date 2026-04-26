@@ -27,3 +27,4 @@ downloads:
 electron: 38.1.0
 aur:
 - laradumps-bin
+name: LaraDumps

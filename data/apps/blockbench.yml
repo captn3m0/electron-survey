@@ -52,3 +52,4 @@ aur:
 - blockbench
 - blockbench-bin
 homebrew: blockbench
+name: Blockbench

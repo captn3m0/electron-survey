@@ -17,3 +17,4 @@ downloads:
 electron: 25.2.0
 aur:
 - snailfm-bin
+name: SnailFM

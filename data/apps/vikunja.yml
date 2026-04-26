@@ -3,3 +3,4 @@ repository: https://code.vikunja.io/desktop
 website: https://vikunja.cloud/
 aur:
 - vikunja
+name: Vikunja

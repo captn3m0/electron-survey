@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/glyphr-studio/Glyphr-Studio-Desktop/releases/download/v0.6.0/Glyphr.Studio.Setup.0.6.0-x64.exe
 electron: 28.2.1
 method: src-package-lock
+name: Glyphr Studio

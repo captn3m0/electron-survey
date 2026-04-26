@@ -47,3 +47,4 @@ packages:
   format: deb
   os: linux
   arch: x64
+name: WebTorrent

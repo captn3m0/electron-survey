@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-win32-x64.zip
 electron: 1.8.8
 method: src-range-guess
+name: Soundnode

@@ -29,3 +29,4 @@ downloads:
 electron: 2.0.11
 method: src-yarn-lock
 homebrew: graphql-playground
+name: GraphQL Playground

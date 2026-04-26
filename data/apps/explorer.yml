@@ -11,3 +11,4 @@ downloads:
 - name: Explorer-win32-x64.zip
   url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-win32-x64.zip
 homebrew: explorer
+name: Explorer

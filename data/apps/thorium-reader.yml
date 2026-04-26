@@ -25,3 +25,4 @@ method: src-package-lock
 aur:
 - thorium-reader
 homebrew: thorium
+name: Thorium Reader

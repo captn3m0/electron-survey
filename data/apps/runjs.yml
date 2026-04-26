@@ -9,3 +9,4 @@ downloads:
 - url: https://github.com/lukehaas/RunJS/releases/download/v3.2.2/RunJS-3.2.2-universal.dmg
   name: RunJS-3.2.2-universal.dmg
   version: 3.2.2
+name: RunJS

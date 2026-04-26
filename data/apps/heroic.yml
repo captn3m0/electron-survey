@@ -45,3 +45,4 @@ downloads:
 electron: 23.3.13
 method: src-pnpm-lock
 homebrew: heroic
+name: Heroic

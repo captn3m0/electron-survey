@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/alibaba/lightproxy/releases/download/v1.1.41/LightProxy-Setup-1.1.41.exe.blockmap
 electron: 10.1.5
 homebrew: lightproxy
+name: LightProxy

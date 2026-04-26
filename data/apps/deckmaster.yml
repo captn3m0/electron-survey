@@ -30,3 +30,4 @@ electron: 11.2.3
 method: src-package-lock
 aur:
 - deckmaster
+name: DeckMaster

@@ -74,3 +74,4 @@ electron: 40.6.0
 method: src-package-lock
 homebrew: mattermost
 packages: []
+name: Mattermost

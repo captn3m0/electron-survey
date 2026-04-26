@@ -46,3 +46,4 @@ downloads:
   url: https://github.com/MayGo/tockler/releases/download/v4.0.21/Tockler-4.0.21.dmg.blockmap
 electron: 16.2.8
 method: src-package-lock
+name: Tockler

@@ -31,3 +31,4 @@ downloads:
 electron: 11.4.4
 method: src-yarn-lock
 homebrew: exifcleaner
+name: ExifCleaner

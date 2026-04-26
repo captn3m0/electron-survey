@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/zonetti/zonote/releases/download/v0.4.4/zonote-win.zip
 electron: 9.4.4
 method: src-package-lock
+name: zonote

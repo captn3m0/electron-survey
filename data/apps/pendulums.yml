@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/Swing-team/pendulums-web-client/releases/download/v1.1.0/Pendulums.snap
 electron: 6.0.7
 method: src-package-lock
+name: Pendulums

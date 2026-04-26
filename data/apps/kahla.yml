@@ -20,3 +20,4 @@ electron: 8.5.5
 method: src-package-lock
 aur:
 - kahla-bin
+name: Kahla

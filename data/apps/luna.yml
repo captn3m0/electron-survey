@@ -18,3 +18,4 @@ electron: 8.5.2
 method: src-package-lock
 aur:
 - luna
+name: luna

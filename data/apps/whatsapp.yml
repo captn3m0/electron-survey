@@ -13,3 +13,4 @@ packages:
 - url: https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg
   format: dmg
   os: macos
+name: WhatsApp

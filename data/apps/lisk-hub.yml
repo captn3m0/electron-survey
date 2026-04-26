@@ -44,3 +44,4 @@ electron: 29.3.0
 method: src-yarn-lock
 aur:
 - lisk-desktop-bin
+name: Lisk Hub

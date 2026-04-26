@@ -30,3 +30,4 @@ downloads:
   url: https://github.com/meowtec/Imagine/releases/download/v0.7.5/latest.yml
 electron: 12.2.3
 method: src-package-lock
+name: Imagine

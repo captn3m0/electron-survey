@@ -19,3 +19,4 @@ aur:
 - csbooks-bin
 electron: 13.6.9
 method: aur-depends
+name: csBooks

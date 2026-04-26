@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/spluxx/Protoman/releases/download/v0.4.1/Protoman.Setup.0.4.1.exe
 electron: 9.4.0
 method: src-package-lock
+name: Protoman

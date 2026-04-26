@@ -16,3 +16,4 @@ downloads:
   url: https://github.com/Mokkapps/scrum-daily-standup-picker/releases/download/v2.0.0/StandupPicker-2.0.0-x64-mac.zip.blockmap
 electron: 16.0.7
 method: src-package-lock
+name: Standup Picker

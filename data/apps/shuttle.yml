@@ -23,3 +23,4 @@ downloads:
 electron: 4.0.1
 method: src-package-lock
 homebrew: shuttle
+name: Shuttle

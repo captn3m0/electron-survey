@@ -64,3 +64,4 @@ aur:
 - beekeeper-studio-appimage
 - beekeeper-studio-git
 homebrew: beekeeper-studio
+name: Beekeeper Studio

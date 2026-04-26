@@ -28,3 +28,4 @@ downloads:
   url: https://github.com/yafp/media-dupes/releases/download/0.10.3/media-dupes-0.10.3-win-x64.zip
 electron: 9.1.2
 method: src-package-lock
+name: media-dupes

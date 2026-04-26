@@ -22,3 +22,4 @@ electron: 22.0.0
 method: src-yarn-lock
 aur:
 - pitv-bin
+name: PiTV

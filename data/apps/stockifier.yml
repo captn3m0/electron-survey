@@ -10,3 +10,4 @@ downloads:
   url: https://github.com/jainsamyak/Stockifier/releases/download/v1.0.0/Stockifier-v1.0.0.Windows10.Setupx64.zip
 electron: 4.1.4
 method: src-package-lock
+name: Stockifier

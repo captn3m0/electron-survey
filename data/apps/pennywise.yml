@@ -32,8 +32,8 @@ downloads:
   url: https://github.com/kamranahmedse/pennywise/releases/download/v0.8.0/pennywise_0.8.0_amd64.deb
 - name: pennywise_0.8.0_i386.deb
   url: https://github.com/kamranahmedse/pennywise/releases/download/v0.8.0/pennywise_0.8.0_i386.deb
-repository: https://github.com/kamranahmedse/pennywise
 latest: v0.8.0
 src: https://github.com/kamranahmedse/pennywise/archive/refs/tags/v0.8.0.zip
 electron: 5.0.3
 method: src-yarn-lock
+name: Pennywise

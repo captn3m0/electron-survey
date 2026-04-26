@@ -61,3 +61,4 @@ aur:
 - ueli-bin
 - ueli-git
 homebrew: ueli
+name: ueli

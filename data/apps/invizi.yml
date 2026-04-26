@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/invizi/invizi/releases/download/v1.0.0/Invizi_1.0.0_amd64.snap
 electron: 8.3.0
 method: src-package-lock
+name: Invizi

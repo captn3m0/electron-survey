@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/gurayyarar/SnipCommand/releases/download/v0.1.0/SnipCommand-0.1.0.exe
 electron: 9.3.0
 method: src-yarn-lock
+name: SnipCommand

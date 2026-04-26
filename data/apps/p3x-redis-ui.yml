@@ -53,3 +53,4 @@ method: src-yarn-lock
 aur:
 - p3x-onenote-bin
 - p3x-redis-ui-bin
+name: P3X Redis UI

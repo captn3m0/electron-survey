@@ -16,3 +16,4 @@ electron: 22.0.3
 method: src-yarn-lock
 aur:
 - primate-bin
+name: Primate

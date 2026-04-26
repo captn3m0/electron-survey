@@ -25,3 +25,4 @@ downloads:
 electron: 36.9.5
 method: src-range-guess
 homebrew: lectrote
+name: Lectrote

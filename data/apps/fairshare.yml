@@ -28,3 +28,4 @@ electron: 25.2.0
 method: src-yarn-lock
 aur:
 - fairshare-bin
+name: FAIRshare

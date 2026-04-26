@@ -19,3 +19,4 @@ packages:
   format: rpm
   os: linux
   arch: x64
+name: Skype

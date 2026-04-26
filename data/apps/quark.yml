@@ -36,3 +36,4 @@ electron: 6.0.10
 method: src-package-lock
 aur:
 - quark-electron-bin
+name: Quark

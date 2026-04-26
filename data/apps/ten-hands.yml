@@ -24,3 +24,4 @@ electron: 11.2.0
 method: src-yarn-lock
 aur:
 - ten-hands-bin
+name: Ten Hands

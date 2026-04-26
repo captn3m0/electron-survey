@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/oguzhaninan/Buka/releases/download/v1.0.0/Buka_1.0.0_i386.deb
 electron: 1.6.3
 method: src-yarn-lock
+name: Buka

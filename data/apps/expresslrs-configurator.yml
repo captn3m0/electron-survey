@@ -30,3 +30,4 @@ electron: 27.3.11
 method: src-yarn-lock
 aur:
 - expresslrs-configurator
+name: ExpressLRS Configurator

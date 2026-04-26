@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/Webdeskme/wdOS/releases/download/v1.1.2/WebDesktop-1.1.2.AppImage
 electron: 5.0.11
 method: src-package-lock
+name: wdOS

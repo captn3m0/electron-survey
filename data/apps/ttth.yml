@@ -30,3 +30,4 @@ downloads:
   url: https://github.com/yafp/ttth/releases/download/1.8.0/ttth-1.8.0-win-x64.zip
 electron: 7.1.6
 method: src-package-lock
+name: ttth

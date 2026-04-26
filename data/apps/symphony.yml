@@ -5,3 +5,4 @@ latest: v25.11.0
 src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v25.11.0.zip
 electron: 39.0.0
 method: src-package-lock
+name: Symphony

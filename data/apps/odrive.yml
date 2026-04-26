@@ -15,3 +15,4 @@ downloads:
 electron: 2.0.18
 method: src-range-guess
 homebrew: odrive
+name: ODrive

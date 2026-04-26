@@ -31,3 +31,4 @@ method: src-package-lock
 aur:
 - electorrent
 homebrew: electorrent
+name: Electorrent

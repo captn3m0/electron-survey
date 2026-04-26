@@ -27,3 +27,4 @@ method: src-package-lock
 aur:
 - kube-forwarder
 homebrew: kube-forwarder
+name: Kube Forwarder

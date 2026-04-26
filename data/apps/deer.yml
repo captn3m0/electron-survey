@@ -18,3 +18,4 @@ electron: 4.1.0
 method: src-package-lock
 aur:
 - deer
+name: Deer

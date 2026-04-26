@@ -32,3 +32,4 @@ electron: 17.2.0
 method: src-yarn-lock
 aur:
 - lbry-desktop
+name: LBRY Desktop

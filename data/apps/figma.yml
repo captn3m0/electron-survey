@@ -12,3 +12,4 @@ packages:
 - url: https://desktop.figma.com/mac/Figma.dmg
   format: dmg
   os: macos
+name: Figma

@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/security-companion/primitive.nextgen/releases/download/v2.0.2/RELEASES
 electron: 28.2.0
 method: src-package-lock
+name: primitive.nextgen

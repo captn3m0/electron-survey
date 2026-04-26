@@ -6,3 +6,4 @@ aur:
 - station-desktop-git
 electron: 27.3.11
 method: aur-depends
+name: Station

@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.12/snippetstore_0.2.12_amd64.deb
 electron: 1.8.8
 method: src-package-lock
+name: Snippet Store

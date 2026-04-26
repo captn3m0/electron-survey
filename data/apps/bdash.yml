@@ -29,3 +29,4 @@ method: src-yarn-lock
 aur:
 - bdash
 homebrew: bdash
+name: Bdash

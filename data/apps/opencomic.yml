@@ -61,3 +61,4 @@ method: src-package-lock
 aur:
 - opencomic
 homebrew: opencomic
+name: OpenComic

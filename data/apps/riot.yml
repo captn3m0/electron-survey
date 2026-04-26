@@ -11,3 +11,4 @@ method: src-pnpm-lock
 aur:
 - element-desktop-nightly-bin
 homebrew: element
+name: Riot

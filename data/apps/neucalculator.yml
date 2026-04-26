@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/moh3n9595/neu-calculator/releases/download/V1.0.0/NeuCalculator-1.0.0.dmg
 electron: 7.1.13
 method: src-yarn-lock
+name: NeuCalculator

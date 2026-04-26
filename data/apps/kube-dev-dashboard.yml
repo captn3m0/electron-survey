@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/prsh9/kubectl-dashboard/releases/download/v0.14.3/kube-dev-dashboard-0.14.3-win.exe
 electron: 22.0.0
 method: src-yarn-lock
+name: Kube Dev Dashboard

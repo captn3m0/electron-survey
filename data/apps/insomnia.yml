@@ -77,3 +77,4 @@ packages:
 - url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.rpm
   format: rpm
   os: linux
+name: Insomnia

@@ -30,3 +30,4 @@ aur:
 - aeon-bin
 electron: 23.3.13
 method: aur-depends
+name: Aeon

@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player_1.1.0_amd64.deb
 - name: q-player_1.1.0_amd64.snap
   url: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player_1.1.0_amd64.snap
+name: Q-player

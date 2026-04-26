@@ -38,3 +38,4 @@ electron: 30.0.5
 method: src-yarn-lock
 aur:
 - brim
+name: Brim

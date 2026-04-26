@@ -16,3 +16,4 @@ electron: 10.1.5
 method: src-package-lock
 aur:
 - silex-desktop-bin
+name: Silex website builder

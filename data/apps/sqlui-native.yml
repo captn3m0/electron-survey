@@ -28,3 +28,4 @@ electron: 28.3.3
 method: src-package-lock
 aur:
 - sqlui-native-bin
+name: sqlui-native

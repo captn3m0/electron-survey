@@ -42,3 +42,4 @@ aur:
 - panwriter
 - panwriter-bin
 homebrew: panwriter
+name: PanWriter

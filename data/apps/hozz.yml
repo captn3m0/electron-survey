@@ -1,8 +1,8 @@
 id: hozz
 website: https://ppoffice.github.io/Hozz
-repository: https://github.com/ppoffice/Hozz
 latest: v0.1.4
 src: https://github.com/ppoffice/Hozz/archive/refs/tags/v0.1.4.zip
 downloads:
 - name: core.zip
   url: https://github.com/ppoffice/Hozz/releases/download/v0.1.4/core.zip
+name: Hozz

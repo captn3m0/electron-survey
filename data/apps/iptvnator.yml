@@ -35,3 +35,4 @@ downloads:
 electron: 39.2.7
 method: src-package-lock
 homebrew: iptvnator
+name: IPTVnator

@@ -44,3 +44,4 @@ packages:
 - url: https://github.com/Foundry376/Mailspring/releases/latest/download/mailspring-1.20.1-amd64.deb
   format: tar.gz
   os: linux
+name: Mailspring

@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/kir486680/Network-Assembler/releases/download/0.0.2/Network-Assembler.zip
 electron: 7.2.4
 method: src-package-lock
+name: NetworkAssembler

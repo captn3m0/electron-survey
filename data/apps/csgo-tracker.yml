@@ -10,3 +10,4 @@ downloads:
   url: https://github.com/davidaf3/csgo-tracker/releases/download/v0.2.2/csgo-tracker-windows.zip
 electron: 33.0.2
 method: src-package-lock
+name: csgo-tracker

@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/virejdasani/Responsivize/releases/download/v3.0.0/Responsivize-WindowsPortable.zip
 electron: 12.1.0
 method: src-package-lock
+name: Responsivize

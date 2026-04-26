@@ -8,3 +8,4 @@ aur:
 - xlode
 electron: 30.5.1
 method: aur-depends
+name: Lode

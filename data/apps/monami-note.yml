@@ -1,6 +1,7 @@
 id: monami-note
-website: https://monaminote.net/
+website: https://simbust.com
 download_urls:
 - https://monaminote.net/index.php?c=main&m=download_monami_win
 - https://monaminote.net/index.php?c=main&m=download_monami_mac
 - https://monaminote.net/index.php?c=main&m=download_monami_linux
+name: MonAmi Note

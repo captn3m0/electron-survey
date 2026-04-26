@@ -28,3 +28,4 @@ electron: 11.0.3
 method: src-yarn-lock
 aur:
 - devhub
+name: DevHub

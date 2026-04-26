@@ -33,3 +33,4 @@ downloads:
 electron: 12.0.0
 method: src-package-lock
 homebrew: quail
+name: Quail

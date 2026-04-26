@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/latest-mac.yml
 electron: 10.4.7
 method: src-range-guess
+name: ImageShrinker

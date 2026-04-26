@@ -66,3 +66,4 @@ packages:
 - url: https://www.zulip.com/apps/linux
   format: deb
   os: linux
+name: Zulip

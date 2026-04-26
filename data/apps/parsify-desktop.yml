@@ -7,3 +7,4 @@ downloads:
 - url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.zip
   name: Parsify-2.0.1-mac-arm64.zip
   version: 2.0.1
+name: Parsify Desktop

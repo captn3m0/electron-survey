@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/angrykoala/gaucho/releases/download/1.1.0/Gaucho_Windows_Setup_1.1.0.exe
 electron: 13.1.9
 method: src-package-lock
+name: Gaucho

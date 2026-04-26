@@ -1,6 +1,5 @@
 id: webkiosk-wrapper
 website: https://github.com/ngudbhav/Webkiosk-Wrapper
-repository: https://github.com/ngudbhav/Webkiosk-Wrapper
 latest: v1.1.3
 src: https://github.com/ngudbhav/Webkiosk-Wrapper/archive/refs/tags/v1.1.3.zip
 downloads:
@@ -20,3 +19,4 @@ downloads:
   url: https://github.com/ngudbhav/Webkiosk-Wrapper/releases/download/v1.1.3/Setup.rpm
 electron: 5.0.2
 method: src-package-lock
+name: Webkiosk-Wrapper

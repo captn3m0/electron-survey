@@ -7,3 +7,4 @@ downloads:
   url: https://github.com/newham/kankan/releases/download/v0.4.0/kankan-0.4.0.dmg.zip
 electron: 8.5.5
 method: src-range-guess
+name: KanKan

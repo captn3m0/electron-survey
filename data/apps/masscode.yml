@@ -16,3 +16,4 @@ aur:
 - masscode-bin
 - masscode-git
 homebrew: masscode
+name: massCode

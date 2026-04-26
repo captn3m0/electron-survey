@@ -11,3 +11,4 @@ downloads:
 electron: 13.1.7
 method: src-package-lock
 homebrew: ditto
+name: Ditto++

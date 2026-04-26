@@ -20,3 +20,4 @@ electron: 20.3.12
 aur:
 - fifo-bin
 - fifo-browser-bin
+name: Fifo

@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/gnu4cn/gitbook-reader-app/releases/download/v0.8.8/Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
 electron: 10.4.7
 method: src-range-guess
+name: Yet-Another-Gitbook-Reader

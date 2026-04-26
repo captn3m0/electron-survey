@@ -63,3 +63,4 @@ method: src-package-lock
 aur:
 - poi-git
 homebrew: poi
+name: poi

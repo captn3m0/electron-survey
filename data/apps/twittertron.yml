@@ -6,3 +6,4 @@ src: https://github.com/afractal/twittertron-app/archive/refs/tags/1.0.2.zip
 downloads:
 - name: twittertron-setup-win-v1.0.2.exe
   url: https://github.com/afractal/twittertron-app/releases/download/1.0.2/twittertron-setup-win-v1.0.2.exe
+name: TwitterTron

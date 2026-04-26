@@ -7,3 +7,4 @@ electron: 35.7.5
 method: src-yarn-lock
 aur:
 - encrypt0r-bin
+name: encrypt0r

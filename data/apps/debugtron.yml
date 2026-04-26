@@ -26,3 +26,4 @@ electron: 31.2.0
 method: src-yarn-lock
 aur:
 - debugtron
+name: Debugtron

@@ -17,3 +17,4 @@ downloads:
 - name: release.json
   url: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/release.json
 homebrew: nimblenote
+name: nimblenote

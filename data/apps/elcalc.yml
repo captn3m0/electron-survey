@@ -20,3 +20,4 @@ downloads:
 electron: 6.0.7
 aur:
 - elcalc
+name: elcalc

@@ -28,3 +28,4 @@ downloads:
   url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest.yml
 electron: 12.2.3
 method: src-package-lock
+name: AnotherRedisDesktopManager

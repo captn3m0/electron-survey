@@ -5,3 +5,4 @@ latest: '1.0'
 src: https://github.com/Sanjit1/WizardMirror/archive/refs/tags/1.0.zip
 electron: 6.0.0
 method: src-package-lock
+name: WizardMirror

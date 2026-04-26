@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/jackh-sh/Socially/releases/download/V1.0/Socially-Windows_1.0.0-amd64.exe
 electron: 12.0.2
 method: src-package-lock
+name: Socially

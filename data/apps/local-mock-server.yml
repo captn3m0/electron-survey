@@ -16,3 +16,4 @@ downloads:
   url: https://github.com/jayakumarreddy/Local-Mock-Server/releases/download/v1.2.0/Local-Mock-Server-Setup-1.2.0.exe.blockmap
 electron: 8.2.5
 method: src-package-lock
+name: Local Mock Server

@@ -62,3 +62,4 @@ packages:
 - url: https://releases.hyper.is/download/rpm
   format: rpm
   os: linux
+name: Hyper

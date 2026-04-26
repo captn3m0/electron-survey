@@ -8,3 +8,4 @@ method: src-package-lock
 aur:
 - bibisco
 - bibisco-ce
+name: bibisco

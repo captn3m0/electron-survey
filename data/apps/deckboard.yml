@@ -28,3 +28,4 @@ downloads:
   url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest-mac.yml
 - name: latest.yml
   url: https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/latest.yml
+name: Deckboard

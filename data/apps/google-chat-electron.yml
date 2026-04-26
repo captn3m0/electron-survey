@@ -17,3 +17,4 @@ downloads:
   checksum: b7b108bf0bfd877d8b69ba0085655b94aa8aa0961f9137c7604d65a6e4f6ba35ab86016df1a743d704acadd125d782045d267bd668e686710e43cf9719162186
 electron: 21.3.1
 method: src-pnpm-lock
+name: Unofficial Google Chat App

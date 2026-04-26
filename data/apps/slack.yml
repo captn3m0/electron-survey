@@ -20,3 +20,4 @@ packages:
 - url: https://slack.com/ssb/download-osx
   format: dmg
   os: macos
+name: Slack

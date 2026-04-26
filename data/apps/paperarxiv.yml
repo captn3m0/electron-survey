@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/fuzihaofzh/PaperArxiv/releases/download/v0.2.1/PaperArxiv-0.2.1-arm64.dmg
 electron: 33.4.11
 method: src-package-lock
+name: PaperArxiv

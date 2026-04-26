@@ -5,3 +5,4 @@ latest: v0.0.4
 src: https://github.com/tuantvk/r2e-todoworks/archive/refs/tags/v0.0.4.zip
 electron: 2.0.18
 method: src-yarn-lock
+name: r2e-todoworks

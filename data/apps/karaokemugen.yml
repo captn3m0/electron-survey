@@ -6,3 +6,4 @@ aur:
 - karaokemugen-git
 electron: 39.8.3
 method: aur-depends
+name: Karaoke Mugen

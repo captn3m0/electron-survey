@@ -25,3 +25,4 @@ method: src-pnpm-lock
 aur:
 - codex-bin
 homebrew: codex
+name: Codex

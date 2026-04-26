@@ -16,3 +16,4 @@ packages:
   format: zip
   os: macos
   arch: arm64
+name: Browserosaurus

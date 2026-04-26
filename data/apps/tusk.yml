@@ -34,3 +34,4 @@ electron: 4.2.2
 method: src-yarn-lock
 aur:
 - tusk
+name: Tusk

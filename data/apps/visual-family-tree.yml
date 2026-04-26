@@ -24,3 +24,4 @@ aur:
 - visualfamilytree-bin
 electron: 4.2.12
 method: aur-depends
+name: Visual Family Tree

@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/KDani-99/school_timetable/releases/download/1.2.0/Timetable.Setup.1.2.0.exe
 electron: 2.0.7
 method: src-package-lock
+name: Timetable

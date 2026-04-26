@@ -26,3 +26,4 @@ downloads:
   url: https://github.com/huyunan/japankana/releases/download/v1.0.2/japankana_1.0.2_amd64.deb
 electron: 12.2.3
 method: src-range-guess
+name: Janpankana

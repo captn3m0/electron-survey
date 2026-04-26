@@ -11,3 +11,4 @@ method: src-package-lock
 aur:
 - jasperapp-bin
 homebrew: jasper-app
+name: Jasper

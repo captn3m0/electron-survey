@@ -32,3 +32,4 @@ electron: 33.2.1
 method: src-yarn-lock
 aur:
 - rendertune-bin
+name: RenderTune

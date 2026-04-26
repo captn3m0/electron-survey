@@ -31,3 +31,4 @@ downloads:
 electron: 38.7.2
 method: src-yarn-lock
 homebrew: losslesscut
+name: LosslessCut

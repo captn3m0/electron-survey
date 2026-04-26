@@ -87,3 +87,4 @@ packages:
   format: tar.gz
   os: linux
   arch: arm
+name: Visual Studio Code

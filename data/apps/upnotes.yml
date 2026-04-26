@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/thoughtsunificator/domodel-diary-electron/releases/download/v1.0.12/domodel-diary.Setup.1.0.12.exe
 electron: 15.1.1
 method: src-package-lock
+name: domodel-diary

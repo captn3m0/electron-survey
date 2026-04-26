@@ -30,3 +30,4 @@ downloads:
   url: https://github.com/dangeredwolf/ModernDeck/releases/download/v10.0.0/ModernDeck-x86_64.AppImage
 electron: 19.1.9
 method: src-package-lock
+name: ModernDeck for Twitter

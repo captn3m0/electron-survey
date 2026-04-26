@@ -10,3 +10,4 @@ downloads:
 - url: https://www.jamovi.org/downloads/jamovi-2.7.24.0-macos-arm64.dmg
   name: jamovi-2.7.24.0-macos-arm64.dmg
   version: 2.7.24.0
+name: jamovi

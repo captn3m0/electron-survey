@@ -12,3 +12,4 @@ downloads:
   url: https://github.com/Patrick-web/FLB-Music-Player-Official/releases/download/v1.1.9/flbmusic_1.1.9_amd64.snap
 electron: 13.2.2
 method: src-package-lock
+name: FLB Music

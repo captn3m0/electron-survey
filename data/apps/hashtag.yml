@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/MrAnyx/HashTag/releases/download/1.0/HashTag-win32-x64.zip
 electron: 7.2.4
 method: src-package-lock
+name: HashTag

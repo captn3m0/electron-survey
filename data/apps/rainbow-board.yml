@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/harshkhandeparkar/rainbow-board/releases/download/v0.8.1/rainbow-board_0.8.1_amd64.deb
 electron: 12.2.2
 method: src-yarn-lock
+name: Rainbow Board

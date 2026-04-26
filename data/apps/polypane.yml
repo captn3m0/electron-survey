@@ -7,3 +7,4 @@ downloads:
 - url: https://github.com/firstversionist/polypane/releases/download/v28.0.3/Polypane-28.0.3-arm64.dmg
   name: Polypane-28.0.3-arm64.dmg
   version: 28.0.3
+name: Polypane

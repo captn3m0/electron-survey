@@ -1,6 +1,5 @@
 id: mongodb-compass
 website: https://mongodb.com/compass
-repository: https://github.com/mongodb-js/compass
 homebrew: mongodb-compass
 downloads:
 - name: manifest.json
@@ -129,3 +128,4 @@ latest: v1.49.4
 src: https://github.com/mongodb-js/compass/archive/refs/tags/v1.49.4.zip
 electron: 37.10.3
 method: src-package-lock
+name: MongoDB Compass

@@ -32,3 +32,4 @@ electron: 8.5.0
 method: src-yarn-lock
 aur:
 - subtitler-bin
+name: Subtitler

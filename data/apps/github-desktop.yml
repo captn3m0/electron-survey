@@ -29,3 +29,4 @@ aur:
 - github-desktop-bin
 - github-desktop-zh-bin
 homebrew: github
+name: GitHub Desktop

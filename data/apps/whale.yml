@@ -35,3 +35,4 @@ method: src-package-lock
 aur:
 - whale
 homebrew: whale
+name: Whale

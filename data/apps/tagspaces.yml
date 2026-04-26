@@ -34,3 +34,4 @@ aur:
 - tagspaces
 - tagspaces-bin
 homebrew: tagspaces
+name: TagSpaces

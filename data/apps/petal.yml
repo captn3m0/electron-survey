@@ -16,3 +16,4 @@ electron: 8.0.0
 method: src-yarn-lock
 aur:
 - petal
+name: Petal

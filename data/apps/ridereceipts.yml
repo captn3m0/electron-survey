@@ -20,3 +20,4 @@ downloads:
   url: https://github.com/hello-efficiency-inc/ridereceipts/releases/download/v1.7.6/ridereceipts-setup-1.7.6.exe.blockmap
 electron: 4.0.5
 method: src-yarn-lock
+name: Ride Receipts

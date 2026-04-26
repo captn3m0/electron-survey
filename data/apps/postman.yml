@@ -38,3 +38,4 @@ packages:
   format: tar.gz
   os: linux
   arch: x86
+name: Postman

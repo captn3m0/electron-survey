@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/nbebaw/boostchanger/releases/download/v5.2.0/latest-linux.yml
 electron: 40.8.0
 method: src-package-lock
+name: Boost Changer

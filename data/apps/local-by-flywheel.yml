@@ -3,3 +3,4 @@ repository: https://github.com/getflywheel/local-components
 website: https://localbyflywheel.com
 aur:
 - local-by-flywheel-bin
+name: Local by Flywheel

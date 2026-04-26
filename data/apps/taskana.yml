@@ -24,3 +24,4 @@ downloads:
   url: https://github.com/mountainash/taskana/releases/download/v1.18.2/Taskana-1.18.2.dmg.blockmap
 electron: 35.0.2
 method: src-package-lock
+name: Taskana

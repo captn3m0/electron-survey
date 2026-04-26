@@ -18,3 +18,4 @@ downloads:
   url: https://github.com/warpdesign/react-explorer/releases/download/v3.1.0/react-explorer-3.1.0-windows-universal-setup.exe
 electron: 21.2.3
 method: src-package-lock
+name: React-Explorer

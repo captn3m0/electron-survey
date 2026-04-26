@@ -3,3 +3,4 @@ repository: https://github.com/cocos-creator/engine
 website: https://www.cocos.com/en/creator
 latest: 3.8.8
 src: https://github.com/cocos-creator/engine/archive/refs/tags/3.8.8.zip
+name: Cocos Creator

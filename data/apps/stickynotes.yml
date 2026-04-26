@@ -11,3 +11,4 @@ downloads:
   url: https://github.com/Playork/StickyNotes/releases/download/v0.3.0/stickynotes-setup-0.3.0.exe.blockmap
 electron: 4.1.4
 method: src-package-lock
+name: StickyNotes

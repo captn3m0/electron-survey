@@ -45,3 +45,4 @@ aur:
 - nuclear-player-bin
 - nuclear-player-git
 homebrew: nuclear
+name: nuclear

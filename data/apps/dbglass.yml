@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/win32-ia32.zip
 - name: win32-x64.zip
   url: https://github.com/it-pal-net/DBGlass/releases/download/v0.1.0-beta.6/win32-x64.zip
+name: DBGlass

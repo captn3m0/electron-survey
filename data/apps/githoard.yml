@@ -32,3 +32,4 @@ downloads:
   url: https://github.com/beepboopbangbang/githoard/releases/download/v0.4.0/latest.yml
 electron: 8.4.0
 method: src-package-lock
+name: GitHoard

@@ -14,3 +14,4 @@ downloads:
   url: https://github.com/el3um4s/vue-calc/releases/download/v0.18.04.15/vue-calc-x86_64.AppImage
 electron: 1.8.3
 method: src-package-lock
+name: Vue Calc

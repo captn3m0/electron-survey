@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/gmattie/Data-Pixels/releases/download/1.1.0/Data.Pixels.Playground-win32-x64.zip
 electron: 3.0.10
 method: src-package-lock
+name: Data Pixels Playground

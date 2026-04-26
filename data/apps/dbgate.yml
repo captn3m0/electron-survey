@@ -139,3 +139,4 @@ aur:
 - dbgate-bin
 - dbgate-git
 homebrew: dbgate
+name: DbGate

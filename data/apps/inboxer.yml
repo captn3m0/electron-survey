@@ -31,3 +31,4 @@ method: src-package-lock
 aur:
 - inboxer
 homebrew: ukrainian-typographic-keyboard
+name: Inboxer

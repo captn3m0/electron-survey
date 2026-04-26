@@ -14,3 +14,4 @@ electron: 33.4.11
 method: src-package-lock
 aur:
 - pairing_tool
+name: Dict

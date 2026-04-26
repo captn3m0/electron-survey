@@ -26,3 +26,4 @@ electron: 7.3.3
 method: src-yarn-lock
 aur:
 - merge-request-notifier
+name: Merge Request Notifier

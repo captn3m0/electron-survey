@@ -5,3 +5,4 @@ latest: v0.3.4
 src: https://github.com/supunlakmal/thismypc/archive/refs/tags/v0.3.4.zip
 electron: 3.1.8
 method: src-package-lock
+name: ThisMyPC

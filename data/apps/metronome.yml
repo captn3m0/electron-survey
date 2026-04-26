@@ -1,5 +1,5 @@
 id: metronome
 website: https://afractal.github.io/metronome-app
-repository: https://github.com/afractal/metronome-app
 download_urls:
 - https://github.com/afractal/metronome-app/releases/download/1.0.60/Metronome-v1.0.60.exe
+name: Metronome

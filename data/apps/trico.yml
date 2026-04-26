@@ -1,6 +1,5 @@
 id: trico
 website: https://github.com/ngudbhav/TriCo-electron-app
-repository: https://github.com/ngudbhav/TriCo-electron-app
 latest: v3.1.0
 src: https://github.com/ngudbhav/TriCo-electron-app/archive/refs/tags/v3.1.0.zip
 downloads:
@@ -24,3 +23,4 @@ downloads:
   url: https://github.com/ngudbhav/TriCo-electron-app/releases/download/v3.1.0/TriCo_3.1.0_amd64.deb
 electron: 22.0.3
 method: src-yarn-lock
+name: TriCo
