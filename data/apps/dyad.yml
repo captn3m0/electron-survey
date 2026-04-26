@@ -1,0 +1,25 @@
+id: dyad
+name: Dyad
+website: https://dyad.sh/
+repository: https://github.com/dyad-sh/dyad
+packages:
+- url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-darwin-arm64-0.43.0.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-darwin-x64-0.43.0.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad-0.43.0.Setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad_0.43.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/dyad-sh/dyad/releases/download/v0.43.0/dyad_0.43.0_x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

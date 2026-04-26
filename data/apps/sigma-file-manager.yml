@@ -1,0 +1,13 @@
+id: sigma-file-manager
+name: Sigma File Manager
+website: https://github.com/aleksey-hoffman/sigma-file-manager
+repository: https://github.com/aleksey-hoffman/sigma-file-manager
+packages:
+- url: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v2.0.0-beta.3/Sigma-File-Manager-2.0.0-beta.3-linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v2.0.0-beta.3/Sigma-File-Manager-2.0.0-beta.3-windows-setup.exe
+  format: exe
+  os: windows
+  arch: x64

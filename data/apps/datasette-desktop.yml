@@ -1,0 +1,8 @@
+id: datasette-desktop
+name: Datasette
+website: https://datasette.io/desktop
+repository: https://github.com/simonw/datasette-app
+packages:
+- url: https://github.com/simonw/datasette-app/releases/download/0.2.3/Datasette.app.zip
+  format: zip
+  os: macos

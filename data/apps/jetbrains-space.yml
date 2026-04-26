@@ -1,0 +1,7 @@
+id: jetbrains-space
+name: JetBrains Space
+website: https://www.jetbrains.com/space/
+packages:
+- url: https://download-cdn.jetbrains.com/space/jetbrains-space-2023.1.7.zip
+  format: zip
+  os: macos

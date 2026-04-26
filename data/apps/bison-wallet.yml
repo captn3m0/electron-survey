@@ -1,0 +1,17 @@
+id: bison-wallet
+name: Bison Wallet
+website: https://github.com/decred/dcrdex
+repository: https://github.com/decred/dcrdex
+packages:
+- url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-darwin-arm64-v1.0.5.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-linux-amd64-v1.0.5.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-windows-amd64-v1.0.5.msi
+  format: msi
+  os: windows
+  arch: x64

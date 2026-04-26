@@ -1,0 +1,21 @@
+id: postcat
+name: Postcat
+website: https://www.postcat.com/
+repository: https://github.com/Postcatlab/postcat
+packages:
+- url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.AppImage
+  format: appimage
+  os: linux
+  arch: x64

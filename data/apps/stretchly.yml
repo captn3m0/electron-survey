@@ -1,0 +1,25 @@
+id: stretchly
+name: Stretchly
+website: https://hovancik.net/stretchly/
+repository: https://github.com/hovancik/stretchly
+packages:
+- url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-Setup-1.21.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/hovancik/stretchly/releases/download/v1.21.0/Stretchly-1.21.0-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

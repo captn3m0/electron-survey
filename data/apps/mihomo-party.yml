@@ -1,0 +1,21 @@
+id: mihomo-party
+name: Mihomo Party
+website: https://github.com/mihomo-party-org/mihomo-party
+repository: https://github.com/mihomo-party-org/mihomo-party
+packages:
+- url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-macos-1.9.4-arm64.pkg
+  format: pkg
+  os: macos
+  arch: arm64
+- url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-macos-1.9.4-x64.pkg
+  format: pkg
+  os: macos
+  arch: x64
+- url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-linux-1.9.4-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.9.4/clash-party-linux-1.9.4-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

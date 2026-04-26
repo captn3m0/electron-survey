@@ -1,0 +1,29 @@
+id: electron-fiddle
+name: Electron Fiddle
+website: https://www.electronjs.org/fiddle
+repository: https://github.com/electron/fiddle
+packages:
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-arm64-0.39.0.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-x64-0.39.0.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-win32-x64-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-win32-ia32-setup.exe
+  format: exe
+  os: windows
+  arch: x86
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-0.39.0-x64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle_0.39.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

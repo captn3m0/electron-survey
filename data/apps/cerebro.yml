@@ -1,0 +1,21 @@
+id: cerebro
+name: Cerebro
+website: https://cerebroapp.com/
+repository: https://github.com/cerebroapp/cerebro
+packages:
+- url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-Setup-0.11.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/cerebro_0.11.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

@@ -36,3 +36,14 @@ aur:
 - webtorrent-desktop-bin
 - webtorrent-desktop-git
 homebrew: webtorrent
+packages:
+- url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/WebTorrentSetup-v0.24.0.exe
+  format: exe
+  os: windows
+- url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/WebTorrent-v0.24.0.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/webtorrent/webtorrent-desktop/releases/latest/download/webtorrent-desktop_0.24.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

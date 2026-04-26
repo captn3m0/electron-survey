@@ -1,0 +1,8 @@
+id: material-colors
+name: Material Colors for Mac
+website: https://github.com/romannurik/MaterialColorsApp
+repository: https://github.com/romannurik/MaterialColorsApp
+packages:
+- url: https://github.com/romannurik/MaterialColorsApp/releases/download/v2.0.3/MaterialColors-2.0.3.zip
+  format: zip
+  os: macos

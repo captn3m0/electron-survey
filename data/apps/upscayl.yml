@@ -1,0 +1,21 @@
+id: upscayl
+name: Upscayl
+website: https://upscayl.org/
+repository: https://github.com/upscayl/upscayl
+packages:
+- url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-mac.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-win.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-linux.deb
+  format: deb
+  os: linux
+  arch: x64

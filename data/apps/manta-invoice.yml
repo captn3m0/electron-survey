@@ -1,0 +1,21 @@
+id: manta-invoice
+name: Manta
+website: https://github.com/hql287/Manta
+repository: https://github.com/hql287/Manta
+packages:
+- url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta.Setup.1.1.4.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta_1.1.4_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

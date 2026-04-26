@@ -1,0 +1,25 @@
+id: electerm
+name: Electerm
+website: https://electerm.github.io/electerm/
+repository: https://github.com/electerm/electerm
+packages:
+- url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/electerm/electerm/releases/latest/download/electerm-3.6.16-win-x64-installer.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/electerm/electerm/releases/download/v3.6.16/electerm-3.6.16-linux-amd64.snap
+  format: snap
+  os: linux
+  arch: x64

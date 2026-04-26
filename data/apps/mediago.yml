@@ -1,0 +1,21 @@
+id: mediago
+name: Mediago
+website: https://github.com/caorushizi/mediago
+repository: https://github.com/caorushizi/mediago
+packages:
+- url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-arm64-3.5.0.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-x64-3.5.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-win32-x64-3.5.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/caorushizi/mediago/releases/download/v3.5.0/mediago-community-setup-linux-amd64-3.5.0.deb
+  format: deb
+  os: linux
+  arch: x64

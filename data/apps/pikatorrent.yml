@@ -1,0 +1,17 @@
+id: pikatorrent
+name: PikaTorrent
+website: https://github.com/G-Ray/pikatorrent
+repository: https://github.com/G-Ray/pikatorrent
+packages:
+- url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-macos.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-windows-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64

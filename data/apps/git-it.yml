@@ -15,3 +15,8 @@ method: src-package-lock
 aur:
 - git-it
 homebrew: git-it
+packages:
+- url: https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Mac-x64.zip
+  format: zip
+  os: macos
+  arch: x64

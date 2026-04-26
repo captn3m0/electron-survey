@@ -1,0 +1,25 @@
+id: yank-note
+name: Yank Note
+website: https://github.com/purocean/yn
+repository: https://github.com/purocean/yn
+packages:
+- url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-mac-arm64-3.87.1.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-mac-x64-3.87.1.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-win-x64-3.87.1.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-linux-x86_64-3.87.1.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/purocean/yn/releases/download/v3.87.1/Yank-Note-linux-amd64-3.87.1.deb
+  format: deb
+  os: linux
+  arch: x64

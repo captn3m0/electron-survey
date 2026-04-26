@@ -14,3 +14,4 @@ downloads:
 - url: https://github.com/responsively-org/responsively-app-releases/releases/download/v1.18.0/ResponsivelyApp-1.18.0-arm64.dmg
   name: ResponsivelyApp-1.18.0-arm64.dmg
   version: 1.18.0
+packages: []

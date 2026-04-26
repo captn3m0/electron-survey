@@ -1,0 +1,17 @@
+id: kui
+name: Kui
+website: https://github.com/kubernetes-sigs/kui
+repository: https://github.com/kubernetes-sigs/kui
+packages:
+- url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
+  format: tar.gz
+  os: macos
+  arch: arm64
+- url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64
+- url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64

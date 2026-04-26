@@ -7,3 +7,20 @@ downloads:
 - url: https://github.com/meetfranz/franz/releases/download/v5.11.0/franz-5.11.0-arm64.dmg
   name: franz-5.11.0-arm64.dmg
   version: 5.11.0
+repository: https://github.com/meetfranz/franz
+packages:
+- url: https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-Setup-5.9.2.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/meetfranz/franz/releases/download/v5.9.2/franz_5.9.2_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/meetfranz/franz/releases/latest/download/Franz-5.11.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64

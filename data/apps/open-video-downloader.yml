@@ -1,0 +1,25 @@
+id: open-video-downloader
+name: Open Video Downloader
+website: https://github.com/jely2002/youtube-dl-gui
+repository: https://github.com/jely2002/youtube-dl-gui
+packages:
+- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_aarch64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_x64-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_amd64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.0/Open.Video.Downloader_3.2.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

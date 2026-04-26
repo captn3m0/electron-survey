@@ -1,0 +1,8 @@
+id: lexicon-dj
+name: Lexicon
+website: https://www.lexicondj.com/
+packages:
+- url: https://update.rekord.cloud/releases/lexicon/latest/lexicon-1.10.7-mac-aarch64.zip
+  format: zip
+  os: macos
+  arch: arm64

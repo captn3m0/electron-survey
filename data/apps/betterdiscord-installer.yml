@@ -1,0 +1,8 @@
+id: betterdiscord-installer
+name: BetterDiscord
+website: https://betterdiscord.app/
+repository: https://github.com/BetterDiscord/Installer
+packages:
+- url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Mac.zip
+  format: zip
+  os: macos

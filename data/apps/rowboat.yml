@@ -1,0 +1,9 @@
+id: rowboat
+name: Rowboat
+website: https://www.rowboatlabs.com/
+repository: https://github.com/rowboatlabs/rowboat
+packages:
+- url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-darwin-arm64-0.3.2.zip
+  format: zip
+  os: macos
+  arch: arm64

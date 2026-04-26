@@ -1,0 +1,8 @@
+id: notion-calendar
+name: Notion Calendar
+website: https://www.notion.com/product/calendar
+packages:
+- url: https://calendar-desktop-release.notion-static.com/Notion%20Calendar-darwin-arm64-1.133.0.zip
+  format: zip
+  os: macos
+  arch: arm64

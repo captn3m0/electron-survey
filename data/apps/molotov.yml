@@ -1,0 +1,7 @@
+id: molotov
+name: Molotov
+website: https://www.molotov.tv/
+packages:
+- url: https://desktop-auto-upgrade.molotov.tv/mac/m1/Molotov-7.0.0-mac.zip
+  format: zip
+  os: macos

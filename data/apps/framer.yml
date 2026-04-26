@@ -1,0 +1,8 @@
+id: framer
+name: Framer
+website: https://www.framer.com/
+packages:
+- url: https://updates.framer.com/electron/darwin/arm64/Framer-2026.12.6.zip
+  format: zip
+  os: macos
+  arch: arm64

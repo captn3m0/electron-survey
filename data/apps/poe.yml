@@ -1,0 +1,8 @@
+id: poe
+name: Poe
+website: https://poe.com/
+packages:
+- url: https://desktop-app.poecdn.net/updates/darwin_arm64/1.1.40.zip
+  format: zip
+  os: macos
+  arch: arm64

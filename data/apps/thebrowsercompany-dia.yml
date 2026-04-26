@@ -1,0 +1,7 @@
+id: thebrowsercompany-dia
+name: Dia
+website: https://www.diabrowser.com/
+packages:
+- url: https://releases.diabrowser.com/release/Dia-1.28.0-79513.zip
+  format: zip
+  os: macos

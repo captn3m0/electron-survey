@@ -1,0 +1,17 @@
+id: comma-chameleon
+name: Comma Chameleon
+website: https://comma-chameleon.io/
+repository: https://github.com/theodi/comma-chameleon
+packages:
+- url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/theodi/comma-chameleon/releases/download/0.5.1/comma-chameleon-linux-x64.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

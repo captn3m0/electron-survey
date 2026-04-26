@@ -1,0 +1,17 @@
+id: reactotron
+name: Reactotron
+website: https://github.com/infinitered/reactotron
+repository: https://github.com/infinitered/reactotron
+packages:
+- url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64

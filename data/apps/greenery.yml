@@ -1,0 +1,8 @@
+id: greenery
+name: Greenery
+website: https://www.greenery.finance/
+repository: https://github.com/GreenfireInc/Releases.Greenery
+packages:
+- url: https://github.com/GreenfireInc/Releases.Greenery/releases/download/v1.0.0/Greenery.1.0.0.zip
+  format: zip
+  os: macos

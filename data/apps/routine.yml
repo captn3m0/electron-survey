@@ -1,0 +1,8 @@
+id: routine
+name: Routine
+website: https://www.routine.co/
+packages:
+- url: https://releases.routine.co/routine/osx-arm64/Routine-1.0.2.zip
+  format: zip
+  os: macos
+  arch: arm64

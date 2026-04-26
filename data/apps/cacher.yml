@@ -7,3 +7,8 @@ downloads:
 - url: https://cacher-download.nyc3.digitaloceanspaces.com/Cacher-2.47.9-universal-mac.zip
   name: Cacher-2.47.9-universal-mac.zip
   version: 2.47.9
+packages:
+- url: https://cacher-download.nyc3.digitaloceanspaces.com/Cacher-2.47.9-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

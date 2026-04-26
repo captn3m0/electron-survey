@@ -1,0 +1,21 @@
+id: polyglot
+name: Polyglot
+website: https://github.com/liou666/polyglot
+repository: https://github.com/liou666/polyglot
+packages:
+- url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_arm64_0.3.7.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_x64_0.3.7.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_0.3.7.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_0.3.7.AppImage
+  format: appimage
+  os: linux
+  arch: x64

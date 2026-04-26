@@ -1,0 +1,17 @@
+id: betwixt
+name: Betwixt
+website: https://github.com/kdzwinel/betwixt
+repository: https://github.com/kdzwinel/betwixt
+packages:
+- url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64

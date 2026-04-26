@@ -1,0 +1,21 @@
+id: notesnook
+name: Notesnook
+website: https://notesnook.com/
+repository: https://github.com/streetwriters/notesnook
+packages:
+- url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_win_x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_mac_arm64.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_linux_x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/streetwriters/notesnook/releases/latest/download/notesnook_linux_x86_64.AppImage
+  format: deb
+  os: linux
+  arch: x64

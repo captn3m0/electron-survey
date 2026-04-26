@@ -1,0 +1,25 @@
+id: jupyterlab-desktop
+name: JupyterLab Desktop
+website: https://github.com/jupyterlab/jupyterlab-desktop
+repository: https://github.com/jupyterlab/jupyterlab-desktop
+packages:
+- url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-macOS-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-macOS-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Windows-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Debian-x64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup.snap
+  format: snap
+  os: linux
+  arch: x64

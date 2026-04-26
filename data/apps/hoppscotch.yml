@@ -1,0 +1,17 @@
+id: hoppscotch
+name: Hoppscotch
+website: https://hoppscotch.com/download
+repository: https://github.com/hoppscotch/releases
+packages:
+- url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_win_x64.msi
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_mac_x64.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/hoppscotch/releases/releases/latest/download/Hoppscotch_linux_x64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,17 @@
+id: eserver
+name: EServer
+website: https://github.com/xianyunleo/EServer
+repository: https://github.com/xianyunleo/EServer
+packages:
+- url: https://github.com/xianyunleo/EServer/releases/download/v5.3.6/EServer-mac-5.3.6-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/xianyunleo/EServer/releases/download/v5.3.6/EServer-mac-5.3.6-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/xianyunleo/EServer/releases/download/v5.3.6/EServer-5.3.6-setup.exe
+  format: exe
+  os: windows
+  arch: x64

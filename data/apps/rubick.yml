@@ -1,0 +1,21 @@
+id: rubick
+name: Rubick
+website: https://rubick.vip/
+repository: https://github.com/rubickCenter/rubick
+packages:
+- url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick_4.3.8_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

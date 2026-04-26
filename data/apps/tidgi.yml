@@ -23,3 +23,28 @@ downloads:
 electron: 34.0.2
 method: src-pnpm-lock
 homebrew: tidgi
+packages:
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi-darwin-arm64-0.13.0.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/TidGi-darwin-x64-0.13.0.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/Install-TidGi-Windows-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/Install-TidGi-Windows-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi_0.13.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.13.0/tidgi-0.13.0-1.x86_64.rpm
+  format: rpm
+  os: linux
+  arch: x64

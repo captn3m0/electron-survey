@@ -1,0 +1,8 @@
+id: pikpak
+name: PikPak
+website: https://mypikpak.com/
+packages:
+- url: https://static.mypikpak.com/mac/PikPak-v2.0.4.2265-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -1,0 +1,7 @@
+id: tableflip
+name: TableFlip
+website: https://tableflipapp.com/
+packages:
+- url: https://tableflipapp.com/download
+  format: dmg
+  os: macos

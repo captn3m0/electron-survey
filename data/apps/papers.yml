@@ -1,0 +1,8 @@
+id: papers
+name: ReadCube Papers
+website: https://www.readcube.com/home
+packages:
+- url: https://update.readcube.com/desktop/updates/Papers_Setup_4.37.2395-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

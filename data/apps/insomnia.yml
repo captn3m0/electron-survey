@@ -61,3 +61,19 @@ aur:
 - insomnia-bin
 - insomnia-designer-bin
 homebrew: insomnia
+packages:
+- url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.exe
+  format: exe
+  os: windows
+- url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.AppImage
+  format: appimage
+  os: linux
+- url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.deb
+  format: deb
+  os: linux
+- url: https://github.com/Kong/insomnia/releases/latest/download/Insomnia.Core-12.5.0.rpm
+  format: rpm
+  os: linux

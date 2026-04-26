@@ -38,3 +38,19 @@ method: src-yarn-lock
 aur:
 - zettlr-git
 homebrew: zettlr
+packages:
+- url: https://www.zettlr.com/download/win32
+  format: exe
+  os: windows
+- url: https://www.zettlr.com/download/macos
+  format: dmg
+  os: macos
+- url: https://www.zettlr.com/download/linux_deb
+  format: deb
+  os: linux
+- url: https://www.zettlr.com/download/linux_rpm
+  format: rpm
+  os: linux
+- url: https://www.zettlr.com/download/linux
+  format: appimage
+  os: linux

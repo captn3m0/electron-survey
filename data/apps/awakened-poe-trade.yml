@@ -1,0 +1,17 @@
+id: awakened-poe-trade
+name: Awakened PoE Trade
+website: https://github.com/SnosMe/awakened-poe-trade
+repository: https://github.com/SnosMe/awakened-poe-trade
+packages:
+- url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.103/Awakened-PoE-Trade-3.28.103-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.103/Awakened-PoE-Trade-Setup-3.28.103.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.103/Awakened-PoE-Trade-3.28.103.AppImage
+  format: appimage
+  os: linux
+  arch: x64

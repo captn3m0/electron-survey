@@ -1,0 +1,7 @@
+id: ecamm-live
+name: Ecamm Live
+website: https://www.ecamm.com/
+packages:
+- url: https://downloads.ecamm.com/EcammLive.zip
+  format: zip
+  os: macos

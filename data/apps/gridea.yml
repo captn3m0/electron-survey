@@ -1,0 +1,17 @@
+id: gridea
+name: Gridea
+website: https://open.gridea.dev/
+repository: https://github.com/getgridea/gridea
+packages:
+- url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea.Setup.0.9.3.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.AppImage
+  format: appimage
+  os: linux
+  arch: x64

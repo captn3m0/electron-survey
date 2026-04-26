@@ -1,0 +1,8 @@
+id: native-access
+name: Native Access
+website: https://www.native-instruments.com/en/specials/native-access-2/
+packages:
+- url: https://na-update.native-instruments.com/arm64/Native-Access-arm64-mac-latest.zip
+  format: zip
+  os: macos
+  arch: arm64

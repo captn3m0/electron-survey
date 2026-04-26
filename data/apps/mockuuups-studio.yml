@@ -1,0 +1,8 @@
+id: mockuuups-studio
+name: Mockuuups Studio
+website: https://mockuuups.studio/
+packages:
+- url: https://binaries.mockuuups.com/Mockuuups%20Studio-3.7.0-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -35,3 +35,16 @@ downloads:
 - name: notable_1.8.4_amd64.snap
   url: https://github.com/notable/notable/releases/download/v1.8.4/notable_1.8.4_amd64.snap
 homebrew: notable
+packages:
+- url: https://github.com/notable/notable/releases/latest/download/Notable.Setup.1.8.4.exe
+  format: exe
+  os: windows
+- url: https://github.com/notable/notable/releases/latest/download/Notable-1.8.4.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/notable/notable/releases/latest/download/Notable-1.8.4.AppImage
+  format: appimage
+  os: linux
+- url: https://github.com/notable/notable/releases/latest/download/notable_1.8.4_amd64.deb
+  format: deb
+  os: linux

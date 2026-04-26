@@ -1,0 +1,9 @@
+id: appium-inspector
+name: Appium Inspector GUI
+website: https://github.com/appium/appium-inspector/
+repository: https://github.com/appium/appium-inspector
+packages:
+- url: https://github.com/appium/appium-inspector/releases/download/v2026.2.1/Appium-Inspector-2026.2.1-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

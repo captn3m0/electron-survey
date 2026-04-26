@@ -1,0 +1,7 @@
+id: nucleo
+name: Nucleo
+website: https://nucleoapp.com/
+packages:
+- url: https://downloads.nucleoapp.com/mac-silicon/Nucleo_4.2.0.zip
+  format: zip
+  os: macos

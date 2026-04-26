@@ -1,0 +1,8 @@
+id: kactus
+name: Kactus
+website: https://kactus.io/
+repository: https://github.com/kactus-io/kactus
+packages:
+- url: https://github.com/kactus-io/kactus/releases/download/v0.3.35/Kactus-macos.zip
+  format: zip
+  os: macos

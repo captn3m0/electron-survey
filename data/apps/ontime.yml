@@ -1,0 +1,25 @@
+id: ontime
+name: Ontime
+website: https://getontime.no/
+repository: https://github.com/cpvalente/ontime
+packages:
+- url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-macOS-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-macOS-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-win64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/cpvalente/ontime/releases/download/v4.7.0/ontime-linux-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

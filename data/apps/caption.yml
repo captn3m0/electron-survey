@@ -1,0 +1,8 @@
+id: caption
+name: Caption
+website: https://getcaption.co/
+repository: https://github.com/gielcobben/caption
+packages:
+- url: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-2.0.1-mac.zip
+  format: zip
+  os: macos

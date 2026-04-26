@@ -10,3 +10,36 @@ electron: 7.1.7
 aur:
 - tabby
 homebrew: tabby
+packages:
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-setup-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-setup-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-macos-x86_64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-macos-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-x64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-x64.rpm
+  format: rpm
+  os: linux
+  arch: x64
+- url: https://github.com/Eugeny/tabby/releases/latest/download/tabby-1.0.230-linux-x64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,29 @@
+id: frappe-books
+name: Frappe Books
+website: https://frappebooks.com/
+repository: https://github.com/frappe/books
+packages:
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-windows-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

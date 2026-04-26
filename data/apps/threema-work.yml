@@ -1,0 +1,8 @@
+id: threema-work
+name: Threema Work
+website: https://threema.com/products/work
+packages:
+- url: https://releases.threema.ch/web-electron/v1/release/Threema-Work-Latest.dmg
+  format: dmg
+  os: macos
+  arch: universal

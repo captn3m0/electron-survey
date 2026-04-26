@@ -1,0 +1,17 @@
+id: gerbil
+name: Gerbil
+website: https://github.com/lone-cloud/gerbil
+repository: https://github.com/lone-cloud/gerbil
+packages:
+- url: https://github.com/lone-cloud/gerbil/releases/download/v1.23.3/Gerbil-1.23.3-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/lone-cloud/gerbil/releases/download/v1.23.3/Gerbil-Setup-1.23.3.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/lone-cloud/gerbil/releases/download/v1.23.3/Gerbil-1.23.3.AppImage
+  format: appimage
+  os: linux
+  arch: x64

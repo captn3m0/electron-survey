@@ -1,0 +1,17 @@
+id: before-dawn
+name: Before Dawn
+website: https://github.com/muffinista/before-dawn
+repository: https://github.com/muffinista/before-dawn
+packages:
+- url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-0.37.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-Setup-0.37.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/before-dawn_0.37.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

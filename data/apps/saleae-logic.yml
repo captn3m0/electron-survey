@@ -1,0 +1,8 @@
+id: saleae-logic
+name: Saleae Logic2
+website: https://www.saleae.com/
+packages:
+- url: https://downloads2.saleae.com/logic2/Logic-2.4.44-macos-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

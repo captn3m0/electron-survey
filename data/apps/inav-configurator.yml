@@ -1,0 +1,9 @@
+id: inav-configurator
+name: INAV Configurator
+website: https://github.com/iNavFlight/inav-configurator/
+repository: https://github.com/iNavFlight/inav-configurator
+packages:
+- url: https://github.com/iNavFlight/inav-configurator/releases/download/9.0.1/INAV-Configurator_MacOS_arm64_9.0.1.zip
+  format: zip
+  os: macos
+  arch: arm64

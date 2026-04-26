@@ -1,0 +1,33 @@
+id: electronmail
+name: ElectronMail
+website: https://github.com/vladimiry/ElectronMail
+repository: https://github.com/vladimiry/ElectronMail
+packages:
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-x64-nsis-installer.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-windows-arm64-nsis-installer.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.6/electron-mail-5.3.6-linux-amd64.snap
+  format: snap
+  os: linux
+  arch: x64

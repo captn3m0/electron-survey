@@ -1,0 +1,8 @@
+id: sdm
+name: sdm
+website: https://www.strongdm.com/
+packages:
+- url: https://downloads.strongdm.com/builds/desktop/23.74.0/darwin-universal/DB54956AC61175C8A6F81412772AAA5631811D3C/SDM-23.74.0.universal.zip
+  format: zip
+  os: macos
+  arch: universal

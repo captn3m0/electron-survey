@@ -1,0 +1,21 @@
+id: pomotroid
+name: Pomotroid
+website: https://splode.github.io/pomotroid/
+repository: https://github.com/Splode/pomotroid
+packages:
+- url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_x64-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_amd64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/Splode/pomotroid/releases/download/v1.5.2/Pomotroid_1.5.2_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

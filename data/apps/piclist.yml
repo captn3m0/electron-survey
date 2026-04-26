@@ -1,0 +1,33 @@
+id: piclist
+name: PicList
+website: https://piclist.cn/
+repository: https://github.com/Kuingsmile/PicList
+packages:
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-Setup-3.3.2-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-Setup-3.3.2-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.3.2/PicList-3.3.2-amd64.deb
+  format: deb
+  os: linux
+  arch: x64

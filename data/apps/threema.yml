@@ -1,0 +1,8 @@
+id: threema
+name: Threema
+website: https://threema.ch/
+packages:
+- url: https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg
+  format: dmg
+  os: macos
+  arch: universal

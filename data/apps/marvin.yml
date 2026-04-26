@@ -1,0 +1,8 @@
+id: marvin
+name: Amazing Marvin
+website: https://www.amazingmarvin.com/
+packages:
+- url: https://amarm.s3.amazonaws.com/Marvin-1.69.1-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

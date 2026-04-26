@@ -1,0 +1,17 @@
+id: redis-gui
+name: Redis GUI
+website: https://github.com/ekvedaras/redis-gui
+repository: https://github.com/ekvedaras/redis-gui
+packages:
+- url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-Setup-2.3.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/ekvedaras/redis-gui/releases/download/v2.3.0/redis-gui-2.3.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,20 @@
+id: typora
+name: Typora
+website: https://typora.io/
+packages:
+- url: https://download.typora.io/mac/Typora-1.13.4.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://downloads.typora.io/windows/typora-setup-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://downloads.typora.io/windows/typora-setup-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://download.typora.io/linux/typora_1.13.4_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

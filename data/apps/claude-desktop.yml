@@ -1,0 +1,16 @@
+id: claude-desktop
+name: Claude
+website: https://claude.ai/download
+packages:
+- url: https://downloads.claude.ai/releases/darwin/universal/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
+  format: zip
+  os: macos
+  arch: universal
+- url: https://downloads.claude.ai/releases/win32/x64/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.msix
+  format: msix
+  os: windows
+  arch: x64
+- url: https://downloads.claude.ai/releases/win32/arm64/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.msix
+  format: msix
+  os: windows
+  arch: arm64

@@ -1,0 +1,8 @@
+id: removebg
+name: remove.bg
+website: https://www.remove.bg/
+packages:
+- url: https://storage.googleapis.com/removebg-static/desktop/release/darwin/x64/remove.bg-darwin-x64-2.4.1.zip
+  format: zip
+  os: macos
+  arch: x64

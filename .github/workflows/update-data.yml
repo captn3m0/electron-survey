@@ -30,4 +30,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update app list and electron versions [skip ci]"
-          file_pattern: "data/apps.yml data/versions.txt REPORT.md"
+          file_pattern: "data/apps/ data/versions.txt REPORT.md"

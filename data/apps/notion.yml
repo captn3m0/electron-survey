@@ -13,3 +13,10 @@ downloads:
 - url: https://desktop-release.notion-static.com/Notion-7.9.0-arm64.dmg
   name: Notion-7.9.0-arm64.dmg
   version: 7.9.0
+packages:
+- url: https://desktop-release.notion-static.com/Notion%20Setup%207.12.0.exe
+  format: exe
+  os: windows
+- url: https://desktop-release.notion-static.com/Notion-7.12.0-universal.dmg
+  format: dmg
+  os: macos

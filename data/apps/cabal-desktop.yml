@@ -1,0 +1,21 @@
+id: cabal-desktop
+name: Cabal Desktop
+website: https://cabal.chat/
+repository: https://github.com/cabal-club/cabal-desktop
+packages:
+- url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-mac.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-windows.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop_8.0.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

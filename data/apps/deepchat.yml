@@ -1,0 +1,21 @@
+id: deepchat
+name: DeepChat
+website: https://github.com/ThinkInAIXYZ/deepchat
+repository: https://github.com/ThinkInAIXYZ/deepchat
+packages:
+- url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-windows-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v1.0.3/DeepChat-1.0.3-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,29 @@
+id: teams-for-linux
+name: Teams for Linux
+website: https://github.com/IsmaelMartinez/teams-for-linux
+repository: https://github.com/IsmaelMartinez/teams-for-linux
+packages:
+- url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-2.8.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-Setup-2.8.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-2.8.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux-2.8.0-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux_2.8.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.8.0/teams-for-linux_2.8.0_arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

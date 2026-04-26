@@ -1,0 +1,25 @@
+id: gitfiend
+name: GitFiend
+website: https://gitfiend.com/
+repository: https://github.com/GitFiend/Support
+packages:
+- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend.Setup.0.45.3.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend_0.45.3_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.AppImage
+  format: appimage
+  os: linux
+  arch: x64

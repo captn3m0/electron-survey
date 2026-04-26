@@ -1,0 +1,13 @@
+id: tts-vue
+name: TTS-Vue
+website: https://github.com/LokerL/tts-vue
+repository: https://github.com/LokerL/tts-vue
+packages:
+- url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-macos-latest.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-windows-latest.zip
+  format: zip
+  os: windows
+  arch: x64

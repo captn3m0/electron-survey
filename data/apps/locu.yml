@@ -1,0 +1,8 @@
+id: locu
+name: Locu
+website: https://locu.app/
+packages:
+- url: https://locu.sfo2.digitaloceanspaces.com/Locu-0.31.0-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -1,0 +1,29 @@
+id: bloodhound
+name: BloodHound
+website: https://github.com/SpecterOps/BloodHound-Legacy
+repository: https://github.com/SpecterOps/BloodHound-Legacy
+packages:
+- url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-arm64.zip
+  format: zip
+  os: windows
+  arch: arm64
+- url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64
+- url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-arm64.zip
+  format: zip
+  os: linux
+  arch: arm64

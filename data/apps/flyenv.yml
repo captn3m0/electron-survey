@@ -1,0 +1,25 @@
+id: flyenv
+name: FlyEnv
+website: https://www.macphpstudy.com/
+repository: https://github.com/xpf0000/FlyEnv
+packages:
+- url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-Setup-4.14.2.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2-x64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/xpf0000/FlyEnv/releases/download/v4.14.2/FlyEnv-4.14.2-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

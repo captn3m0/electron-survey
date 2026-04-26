@@ -16,6 +16,10 @@ jobs:
         with:
           submodules: true
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
       - uses: astral-sh/setup-uv@v5
 
       - name: Restore zips cache
@@ -23,7 +27,7 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: zips/
-          key: zips-${{ hashFiles('data/apps.yml') }}
+          key: zips-${{ hashFiles('data/apps/**/*.yml') }}
           restore-keys: |
             zips-
 
@@ -34,6 +38,9 @@ jobs:
 
       - name: Run source processor
         run: uv run main.py process source
+
+      - name: Run which-electron processor
+        run: uv run main.py process which-electron
 
       - name: Save zips cache
         if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
@@ -48,4 +55,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update release and electron version data [skip ci]"
-          file_pattern: "data/apps.yml REPORT.md"
+          file_pattern: "data/apps/ REPORT.md"

@@ -5,3 +5,10 @@ downloads:
 - url: https://desktop.figma.com/mac-arm/Figma-126.2.9.zip
   name: Figma-126.2.9.zip
   version: 126.2.9
+packages:
+- url: https://desktop.figma.com/win/FigmaSetup.exe
+  format: exe
+  os: windows
+- url: https://desktop.figma.com/mac/Figma.dmg
+  format: dmg
+  os: macos

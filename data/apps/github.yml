@@ -1,0 +1,8 @@
+id: github
+name: GitHub Desktop
+website: https://desktop.github.com/
+packages:
+- url: https://desktop.githubusercontent.com/releases/3.5.8-b1d863ab/GitHubDesktop-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

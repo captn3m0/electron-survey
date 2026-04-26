@@ -1,0 +1,8 @@
+id: graphql-ide
+name: GraphQL IDE
+website: https://github.com/andev-software/graphql-ide
+repository: https://github.com/andev-software/graphql-ide
+packages:
+- url: https://github.com/andev-software/graphql-ide/releases/download/v1.1.1/GraphQL.IDE.zip
+  format: zip
+  os: macos

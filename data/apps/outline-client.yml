@@ -1,0 +1,13 @@
+id: outline-client
+name: Outline
+website: https://getoutline.org/
+repository: https://github.com/OutlineFoundation/outline-apps
+packages:
+- url: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.exe
+  format: exe
+  os: windows
+  arch: x64

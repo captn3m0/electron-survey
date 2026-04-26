@@ -1,0 +1,13 @@
+id: freedomgpt
+name: FreedomGPT
+website: https://www.freedomgpt.com/
+repository: https://github.com/ohmplatform/FreedomGPT
+packages:
+- url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-darwin-arm64-3.0.4.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-3.0.4.Setup.exe
+  format: exe
+  os: windows
+  arch: x64

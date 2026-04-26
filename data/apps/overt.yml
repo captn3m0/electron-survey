@@ -1,0 +1,9 @@
+id: overt
+name: Overt
+website: https://getovert.app/
+repository: https://github.com/GetOvert/Overt
+packages:
+- url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-arm64-0.6.0.zip
+  format: zip
+  os: macos
+  arch: arm64

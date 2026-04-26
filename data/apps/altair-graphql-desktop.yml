@@ -1,0 +1,29 @@
+id: altair-graphql-desktop
+name: Altair GraphQL Client
+website: https://altairgraphql.dev/
+repository: https://github.com/altair-graphql/altair
+packages:
+- url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x64_mac.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/altair-graphql/altair/releases/latest/download/altair_8.5.0_x64_win.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_amd64_linux.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_x86_64_linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/altair-graphql/altair/releases/download/v8.5.0/altair_8.5.0_arm64_linux.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

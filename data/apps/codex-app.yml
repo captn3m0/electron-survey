@@ -1,0 +1,8 @@
+id: codex-app
+name: Codex
+website: https://openai.com/codex
+packages:
+- url: https://persistent.oaistatic.com/codex-app-prod/Codex-darwin-arm64-26.422.30944.zip
+  format: zip
+  os: macos
+  arch: arm64

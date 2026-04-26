@@ -1,0 +1,17 @@
+id: firefly-iota
+name: Firefly (IOTA)
+website: https://firefly.iota.org/
+repository: https://github.com/iotaledger/firefly
+packages:
+- url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,8 @@
+id: hey-desktop
+name: HEY
+website: https://hey.com/
+packages:
+- url: https://hey.com/desktop/HEY-1.3.3-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -1,0 +1,18 @@
+id: motrix
+name: Motrix
+website: https://motrix.app/
+repository: https://github.com/agalwood/Motrix
+packages:
+- url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-Setup-1.8.19.exe
+  format: exe
+  os: windows
+- url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-1.8.19.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix-1.8.19.AppImage
+  format: appimage
+  os: linux
+- url: https://github.com/agalwood/Motrix/releases/latest/download/Motrix_1.8.19_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

@@ -1,0 +1,8 @@
+id: curseforge
+name: CurseForge
+website: https://curseforge.overwolf.com/
+packages:
+- url: https://curseforge.overwolf.com/electron/mac/CurseForge-1.302.0-32857-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

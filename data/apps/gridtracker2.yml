@@ -1,0 +1,8 @@
+id: gridtracker2
+name: GridTracker2
+website: https://gridtracker.org/
+packages:
+- url: https://download2.gridtracker.org/GridTracker2-2.260421.1-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

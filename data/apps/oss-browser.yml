@@ -1,0 +1,17 @@
+id: oss-browser
+name: OSS Browser
+website: https://github.com/aliyun/oss-browser
+repository: https://github.com/aliyun/oss-browser
+packages:
+- url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64

@@ -1,0 +1,29 @@
+id: lx-music-desktop
+name: LX Music Desktop
+website: https://github.com/lyswhut/lx-music-desktop
+repository: https://github.com/lyswhut/lx-music-desktop
+packages:
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-2.12.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-2.12.1-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-v2.12.1-x64-Setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop-v2.12.1-arm64-Setup.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop_2.12.1_x64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.1/lx-music-desktop_2.12.1_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

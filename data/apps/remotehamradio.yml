@@ -1,0 +1,8 @@
+id: remotehamradio
+name: RemoteHamRadio
+website: https://www.remotehamradio.com/
+packages:
+- url: https://rhr-electron.s3.amazonaws.com/desktop-releases/RemoteHamRadio-2.4.1-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

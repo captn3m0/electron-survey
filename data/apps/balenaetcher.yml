@@ -1,0 +1,29 @@
+id: balenaetcher
+name: balenaEtcher
+website: https://etcher.balena.io/
+repository: https://github.com/balena-io/etcher
+packages:
+- url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4.Setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4.Setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/balena-io/etcher/releases/latest/download/balenaEtcher-2.1.4-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/balena-io/etcher/releases/latest/download/balena-etcher_2.1.4_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/balena-io/etcher/releases/latest/download/balena-etcher-2.1.4-1.x86_64.rpm
+  format: rpm
+  os: linux
+  arch: x64

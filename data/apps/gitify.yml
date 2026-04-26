@@ -34,3 +34,8 @@ aur:
 - gitify
 - gitify-bin
 homebrew: gitify
+packages:
+- url: https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

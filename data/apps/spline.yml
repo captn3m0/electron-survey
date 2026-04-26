@@ -1,0 +1,8 @@
+id: spline
+name: Spline
+website: https://spline.design/
+packages:
+- url: https://cdn.spline.design/_assets/Spline-0.12.11-arm64.mac.zip
+  format: zip
+  os: macos
+  arch: arm64

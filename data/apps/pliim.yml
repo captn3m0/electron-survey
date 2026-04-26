@@ -1,0 +1,8 @@
+id: pliim
+name: Pliim
+website: https://zehfernandes.github.io/pliim/
+repository: https://github.com/zehfernandes/pliim
+packages:
+- url: https://github.com/zehfernandes/pliim/releases/download/v1.7.0/Pliim.app.zip
+  format: zip
+  os: macos

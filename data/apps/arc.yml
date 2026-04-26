@@ -1,0 +1,7 @@
+id: arc
+name: Arc
+website: https://arc.net/
+packages:
+- url: https://releases.arc.net/release/Arc-1.144.0-79514.zip
+  format: zip
+  os: macos

@@ -1,0 +1,8 @@
+id: qqnews
+name: qqnews
+website: https://news.qq.com/
+packages:
+- url: https://h5.news.qq.com/qqnews-desk/mac-arm64/qqnews_2.3.40_arm64_signed.zip
+  format: zip
+  os: macos
+  arch: arm64

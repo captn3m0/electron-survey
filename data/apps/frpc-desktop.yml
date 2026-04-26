@@ -1,0 +1,17 @@
+id: frpc-desktop
+name: Frpc Desktop
+website: https://github.com/luckjiawei/frpc-desktop
+repository: https://github.com/luckjiawei/frpc-desktop
+packages:
+- url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.5/Frpc-Desktop-1.2.5-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.5/Frpc-Desktop-1.2.5-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.5/Frpc-Desktop-1.2.5-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

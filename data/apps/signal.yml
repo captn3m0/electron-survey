@@ -15,3 +15,11 @@ downloads:
 - url: https://updates.signal.org/desktop/signal-desktop-mac-arm64-8.3.0.zip
   name: signal-desktop-mac-arm64-8.3.0.zip
   version: 8.3.0
+packages:
+- url: https://signal.org/download/windows/
+  format: exe
+  os: windows
+  arch: x64
+- url: https://signal.org/download/macos/
+  format: dmg
+  os: macos

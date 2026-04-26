@@ -1,0 +1,9 @@
+id: backlog
+name: Backlog
+website: https://github.com/czytelny/backlog
+repository: https://github.com/czytelny/backlog
+packages:
+- url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64

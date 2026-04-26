@@ -1,0 +1,25 @@
+id: godmode
+name: GodMode
+website: https://github.com/smol-ai/GodMode
+repository: https://github.com/smol-ai/GodMode
+packages:
+- url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode.Setup.1.0.0-beta.10.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10.AppImage
+  format: appimage
+  os: linux
+  arch: x64

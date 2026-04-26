@@ -1,0 +1,25 @@
+id: sengi
+name: Sengi
+website: https://github.com/NicolasConstant/sengi
+repository: https://github.com/NicolasConstant/sengi
+packages:
+- url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-mac.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-win.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.snap
+  format: snap
+  os: linux
+  arch: x64

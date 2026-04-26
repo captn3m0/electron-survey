@@ -1,0 +1,15 @@
+id: keybase
+name: Keybase
+website: https://keybase.io/download
+packages:
+- url: https://prerelease.keybase.io/Keybase.dmg
+  format: dmg
+  os: macos
+- url: https://prerelease.keybase.io/keybase_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://prerelease.keybase.io/keybase_amd64.rpm
+  format: rpm
+  os: linux
+  arch: x64

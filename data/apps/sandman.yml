@@ -1,0 +1,21 @@
+id: sandman
+name: Sandman
+website: https://github.com/alexanderepstein/Sandman
+repository: https://github.com/alexanderepstein/Sandman
+packages:
+- url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman-1.9.2.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman.Version.1.9.2.64.Bit.Windows.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman_1.9.2_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman.rpm
+  format: rpm
+  os: linux
+  arch: x64

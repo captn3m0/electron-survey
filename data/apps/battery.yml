@@ -1,0 +1,9 @@
+id: battery
+name: Battery
+website: https://github.com/actuallymentor/battery/
+repository: https://github.com/actuallymentor/battery
+packages:
+- url: https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

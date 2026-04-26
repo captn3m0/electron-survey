@@ -1,0 +1,17 @@
+id: colanode
+name: Colanode
+website: https://colanode.com/
+repository: https://github.com/colanode/colanode
+packages:
+- url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7.Setup.exe
+  format: exe
+  os: windows
+  arch: x64

@@ -47,3 +47,19 @@ aur:
 - joplin-desktop
 - joplin-beta
 homebrew: joplin
+packages:
+- url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-Setup-3.5.13.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.5.13.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.5.13-arm64.DMG
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/laurent22/joplin/releases/latest/download/Joplin-3.5.13.AppImage
+  format: appimage
+  os: linux
+  arch: x64

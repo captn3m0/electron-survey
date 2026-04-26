@@ -1,0 +1,8 @@
+id: codebuddy-cn
+name: CodeBuddy CN
+website: https://copilot.tencent.com/ide/
+packages:
+- url: https://acc-1258344699.cos.accelerate.myqcloud.com/aiide/darwin-arm64/CodeBuddy-darwin-arm64-4.7.0.23812295-7d73d160ce-a0234226-cn.zip
+  format: zip
+  os: macos
+  arch: arm64

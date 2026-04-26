@@ -1,0 +1,8 @@
+id: vysor
+name: Vysor
+website: https://www.vysor.io/
+repository: https://github.com/koush/vysor.io
+packages:
+- url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
+  format: zip
+  os: macos

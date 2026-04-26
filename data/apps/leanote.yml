@@ -1,0 +1,8 @@
+id: leanote
+name: Leanote
+website: https://github.com/leanote/desktop-app
+repository: https://github.com/leanote/desktop-app
+packages:
+- url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-mac-v2.7.0.zip
+  format: zip
+  os: macos

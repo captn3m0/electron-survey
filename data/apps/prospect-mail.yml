@@ -1,0 +1,37 @@
+id: prospect-mail
+name: Prospect Mail
+website: https://github.com/julian-alarcon/prospect-mail
+repository: https://github.com/julian-alarcon/prospect-mail
+packages:
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-Setup-1.2.1.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_arm64.deb
+  format: deb
+  os: linux
+  arch: arm64
+- url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1.x86_64.rpm
+  format: rpm
+  os: linux
+  arch: x64

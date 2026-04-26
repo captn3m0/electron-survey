@@ -1,0 +1,13 @@
+id: reflect
+name: Reflect Notes
+website: https://reflect.app/
+repository: https://github.com/team-reflect/reflect-electron-updates
+packages:
+- url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.2.4/Reflect-darwin-universal-3.2.4.zip
+  format: zip
+  os: macos
+  arch: universal
+- url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.2.4/Reflect-darwin-arm64-3.2.4.zip
+  format: zip
+  os: macos
+  arch: arm64

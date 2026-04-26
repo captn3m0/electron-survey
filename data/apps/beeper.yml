@@ -1,0 +1,19 @@
+id: beeper
+name: Beeper
+website: https://www.beeper.com/download
+packages:
+- url: https://download.beeper.com/windows/nsis/x64
+  format: exe
+  os: windows
+  arch: x64
+- url: https://download.beeper.com/mac/dmg
+  format: dmg
+  os: macos
+- url: https://download.beeper.com/linux/deb/x64
+  format: deb
+  os: linux
+  arch: x64
+- url: https://download.beeper.com/linux/appImage/x64
+  format: appimage
+  os: linux
+  arch: x64

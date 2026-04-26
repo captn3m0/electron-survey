@@ -1,0 +1,8 @@
+id: inmusic-software-center
+name: inMusic Software Center
+website: https://www.airmusictech.com/downloads/
+packages:
+- url: https://cdn.inmusicbrands.com/Software/SI04/inMusic%20Software%20Center-darwin-universal-1.38.0.zip
+  format: zip
+  os: macos
+  arch: universal

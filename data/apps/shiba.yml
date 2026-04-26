@@ -1,0 +1,9 @@
+id: shiba
+name: Shiba
+website: https://github.com/rhysd/Shiba/
+repository: https://github.com/rhysd/Shiba
+packages:
+- url: https://github.com/rhysd/Shiba/releases/download/v1.2.1/Shiba-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64

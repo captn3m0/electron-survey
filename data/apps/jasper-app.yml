@@ -1,0 +1,9 @@
+id: jasper-app
+name: Jasper
+website: https://jasperapp.io/
+repository: https://github.com/jasperapp/jasper
+packages:
+- url: https://github.com/jasperapp/jasper/releases/download/v2.0.0/jasper_v2.0.0_mac_arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

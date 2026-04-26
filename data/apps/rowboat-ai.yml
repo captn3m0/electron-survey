@@ -1,0 +1,21 @@
+id: rowboat-ai
+name: Rowboat
+website: https://www.rowboatlabs.com/
+repository: https://github.com/rowboatlabs/rowboat
+packages:
+- url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-darwin-arm64-0.3.2.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-darwin-x64-0.3.2.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/Rowboat-win32-x64-0.3.2-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/rowboatlabs/rowboat/releases/download/v0.3.2/rowboat-linux_0.3.2_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

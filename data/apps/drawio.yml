@@ -1,0 +1,19 @@
+id: drawio
+name: draw.io Desktop
+website: https://github.com/jgraph/drawio-desktop/releases
+repository: https://github.com/jgraph/drawio-desktop
+packages:
+- url: https://github.com/jgraph/drawio-desktop/releases/latest/download/draw.io-29.7.9-windows-installer.exe
+  format: exe
+  os: windows
+- url: https://github.com/jgraph/drawio-desktop/releases/latest/download/draw.io-universal-29.7.9.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-amd64-29.7.9.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-x86_64-29.7.9.AppImage
+  format: appimage
+  os: linux
+  arch: x64

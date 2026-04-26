@@ -28,3 +28,19 @@ aur:
 - mailspring-bin
 - mailspring-git
 homebrew: mailspring
+packages:
+- url: https://github.com/Foundry376/Mailspring/releases/latest/download/MailspringSetup.exe
+  format: exe
+  os: windows
+- url: https://github.com/Foundry376/Mailspring/releases/latest/download/Mailspring.zip
+  format: dmg
+  os: macos
+- url: https://updates.getmailspring.com/download?platform=linuxDeb
+  format: deb
+  os: linux
+- url: https://updates.getmailspring.com/download?platform=linuxRpm
+  format: rpm
+  os: linux
+- url: https://github.com/Foundry376/Mailspring/releases/latest/download/mailspring-1.20.1-amd64.deb
+  format: tar.gz
+  os: linux

@@ -1,0 +1,21 @@
+id: ubports-installer
+name: UBports Installer
+website: https://ubports.com/
+repository: https://github.com/ubports/ubports-installer
+packages:
+- url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_mac_x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_win_x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

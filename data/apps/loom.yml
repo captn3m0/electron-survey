@@ -7,3 +7,14 @@ downloads:
 - url: https://packages.loom.com/desktop-packages/Loom-0.338.4-arm64.dmg
   name: Loom-0.338.4-arm64.dmg
   version: 0.338.4
+packages:
+- url: https://cdn.loom.com/desktop-packages/latest/LoomSetup.exe
+  format: exe
+  os: windows
+  invalid: true
+  invalid_reason: HTTP 403
+- url: https://cdn.loom.com/desktop-packages/latest/Loom.dmg
+  format: dmg
+  os: macos
+  invalid: true
+  invalid_reason: HTTP 403

@@ -1,0 +1,9 @@
+id: electron
+name: Electron
+website: https://electronjs.org/
+repository: https://github.com/electron/electron
+packages:
+- url: https://github.com/electron/electron/releases/download/v41.3.0/electron-v41.3.0-darwin-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

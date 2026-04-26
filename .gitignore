@@ -5,3 +5,4 @@ aur-packages
 .env
 src/
 meta/*
+which-electron/

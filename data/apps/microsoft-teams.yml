@@ -1,3 +1,15 @@
 id: microsoft-teams
 website: https://products.office.com/en-us/microsoft-teams/group-chat-software
 dead: true
+packages:
+- url: https://teams.microsoft.com/downloads/desktopurl?env=production&plat=windows&arch=x64&managedInstaller=true&download=true
+  format: msi
+  os: windows
+  arch: x64
+- url: https://teams.microsoft.com/downloads/desktopurl?env=production&plat=windows&arch=x64&download=true
+  format: exe
+  os: windows
+  arch: x64
+- url: https://teams.microsoft.com/downloads/desktopurl?env=production&plat=osx&download=true
+  format: pkg
+  os: macos

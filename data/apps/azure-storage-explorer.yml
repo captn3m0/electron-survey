@@ -1,0 +1,25 @@
+id: azure-storage-explorer
+name: Azure Storage Explorer
+website: https://azure.microsoft.com/en-us/products/storage/storage-explorer/
+repository: https://github.com/microsoft/AzureStorageExplorer
+packages:
+- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-darwin-arm64.pkg
+  format: pkg
+  os: macos
+  arch: arm64
+- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-darwin-x64.pkg
+  format: pkg
+  os: macos
+  arch: x64
+- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-windows-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-windows-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-linux-x64.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

@@ -1,0 +1,29 @@
+id: colour-contrast-analyser
+name: Colour Contrast Analyser
+website: https://www.tpgi.com/color-contrast-checker/
+repository: https://github.com/ThePacielloGroup/CCAe
+packages:
+- url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-3.5.5.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-Setup-x64-3.5.5.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-Setup-3.5.5.msi
+  format: msi
+  os: windows
+  arch: x64
+- url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/Colour-Contrast-Analyser-Setup-3.5.5.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/Colour-Contrast-Analyser-Setup-3.5.5.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/Colour-Contrast-Analyser-Setup-3.5.5.rpm
+  format: rpm
+  os: linux
+  arch: x64

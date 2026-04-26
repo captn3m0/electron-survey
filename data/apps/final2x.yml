@@ -1,0 +1,17 @@
+id: final2x
+name: Final2x
+website: https://github.com/Chaoses-Ib/Final2x
+repository: https://github.com/Chaoses-Ib/Final2x
+packages:
+- url: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-macos-arm64-dmg.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-linux-pip-x64-AppImage.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-linux-pip-x64-deb.deb
+  format: deb
+  os: linux
+  arch: x64

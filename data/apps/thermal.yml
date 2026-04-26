@@ -1,0 +1,21 @@
+id: thermal
+name: Thermal
+website: https://thermal.codecarrot.net/
+repository: https://github.com/gitthermal/thermal
+packages:
+- url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-mac-0.0.4.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-win-0.0.4.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-x86_64-0.0.4.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-amd64-0.0.4.deb
+  format: deb
+  os: linux
+  arch: x64

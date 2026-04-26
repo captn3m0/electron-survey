@@ -1,0 +1,21 @@
+id: heptabase
+name: Heptabase
+website: https://heptabase.com/
+repository: https://github.com/heptameta/project-meta
+packages:
+- url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-1.91.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-1.91.1.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-Setup-1.91.1.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/heptameta/project-meta/releases/download/v1.91.1/Heptabase-1.91.1.AppImage
+  format: appimage
+  os: linux
+  arch: x64

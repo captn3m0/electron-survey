@@ -1,0 +1,29 @@
+id: bruno
+name: Bruno
+website: https://www.usebruno.com/downloads
+repository: https://github.com/usebruno/bruno
+packages:
+- url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_x64_win.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_arm64_win.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_arm64_mac.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_x86_64_linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_amd64_linux.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/usebruno/bruno/releases/latest/download/bruno_3.3.0_x86_64_linux.rpm
+  format: rpm
+  os: linux
+  arch: x64

@@ -1,0 +1,13 @@
+id: openmtp
+name: OpenMTP
+website: https://openmtp.ganeshrvel.com/
+repository: https://github.com/ganeshrvel/openmtp
+packages:
+- url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64

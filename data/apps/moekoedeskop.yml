@@ -1,0 +1,25 @@
+id: moekoedeskop
+name: MoeKoe Music
+website: https://github.com/MoeKoeMusic/MoeKoeMusic
+repository: https://github.com/MoeKoeMusic/MoeKoeMusic
+packages:
+- url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_Setup_v1.6.2.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.2/MoeKoe_Music_v1.6.2_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

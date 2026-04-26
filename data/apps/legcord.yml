@@ -1,0 +1,37 @@
+id: legcord
+name: Legcord
+website: https://legcord.app/
+repository: https://github.com/Legcord/Legcord
+packages:
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-mac-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-win-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-win-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-aarch64.rpm
+  format: rpm
+  os: linux
+  arch: arm64

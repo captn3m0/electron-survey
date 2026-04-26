@@ -92,3 +92,14 @@ method: src-yarn-lock
 aur:
 - standardnotes
 homebrew: standard-notes
+packages:
+- url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-3.201.21-win-x64.exe
+  format: exe
+  os: windows
+- url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-3.201.21-mac-x64.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/standardnotes/app/releases/latest/download/standard-notes-3.201.21-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,13 @@
+id: tutanota
+name: Tuta (Tutanota)
+website: https://tuta.com/download
+packages:
+- url: https://mail.tutanota.com/desktop/tutanota-desktop-win.exe
+  format: exe
+  os: windows
+- url: https://mail.tutanota.com/desktop/tutanota-desktop-mac.dmg
+  format: dmg
+  os: macos
+- url: https://mail.tutanota.com/desktop/tutanota-desktop-linux.AppImage
+  format: appimage
+  os: linux

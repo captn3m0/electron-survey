@@ -1,0 +1,21 @@
+id: time-to-leave
+name: Time to Leave
+website: https://github.com/TTLApp/time-to-leave
+repository: https://github.com/TTLApp/time-to-leave
+packages:
+- url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-installer.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-amd64.rpm
+  format: rpm
+  os: linux
+  arch: x64

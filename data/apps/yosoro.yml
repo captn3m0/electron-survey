@@ -1,0 +1,17 @@
+id: yosoro
+name: Yosoro
+website: https://github.com/IceEnd/Yosoro
+repository: https://github.com/IceEnd/Yosoro
+packages:
+- url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-osx.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-win32-x64-setup.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/yosoro-linux.deb
+  format: deb
+  os: linux
+  arch: x64

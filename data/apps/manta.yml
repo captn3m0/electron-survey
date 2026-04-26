@@ -1,0 +1,8 @@
+id: manta
+name: Manta
+website: https://getmanta.app/
+repository: https://github.com/hql287/Manta
+packages:
+- url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-mac.zip
+  format: zip
+  os: macos

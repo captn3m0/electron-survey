@@ -1,0 +1,17 @@
+id: zy-player
+name: ZY-Player
+website: https://github.com/Hunlongyu/ZY-Player
+repository: https://github.com/Hunlongyu/ZY-Player
+packages:
+- url: https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-2.8.8.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-Setup-2.8.8.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-2.8.8.AppImage
+  format: appimage
+  os: linux
+  arch: x64

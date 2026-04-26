@@ -1,0 +1,7 @@
+id: onlyoffice
+name: ONLYOFFICE
+website: https://www.onlyoffice.com/
+packages:
+- url: https://download.onlyoffice.com/install/desktop/editors/mac/arm/updates/ONLYOFFICE-arm-9.3.1.zip
+  format: zip
+  os: macos

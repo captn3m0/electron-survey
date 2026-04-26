@@ -1,0 +1,7 @@
+id: sipgate
+name: sipgate
+website: https://www.sipgate.de/app
+packages:
+- url: https://s3-eu-central-1.amazonaws.com/desktop.download.sipgate.com/sipgate-2.36.1.zip
+  format: zip
+  os: macos

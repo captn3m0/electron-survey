@@ -1,0 +1,25 @@
+id: binggpt
+name: BingGPT
+website: https://github.com/dice2o/BingGPT
+repository: https://github.com/dice2o/BingGPT
+packages:
+- url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-darwin-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-darwin-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-win32-arm64-Setup.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-x64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/dice2o/BingGPT/releases/download/v0.3.7/BingGPT-0.3.7-linux-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

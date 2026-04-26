@@ -1,0 +1,21 @@
+id: maestro-ai
+name: Maestro
+website: https://runmaestro.ai/
+repository: https://github.com/pedramamini/Maestro
+packages:
+- url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-arm64-mac.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-x64-mac.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/pedramamini/Maestro/releases/download/v0.15.3/maestro-0.15.3-amd64.deb
+  format: deb
+  os: linux
+  arch: x64

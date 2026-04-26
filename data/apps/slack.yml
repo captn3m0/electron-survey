@@ -12,3 +12,11 @@ downloads:
 - url: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.48.102/Slack-4.48.102-macOS.dmg
   name: Slack-4.48.102-macOS.dmg
   version: 4.48.102
+packages:
+- url: https://slack.com/ssb/download-win64
+  format: exe
+  os: windows
+  arch: x64
+- url: https://slack.com/ssb/download-osx
+  format: dmg
+  os: macos

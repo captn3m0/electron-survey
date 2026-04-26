@@ -1,0 +1,21 @@
+id: spacedrive
+name: Spacedrive
+website: https://www.spacedrive.com/
+repository: https://github.com/spacedriveapp/spacedrive
+packages:
+- url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-windows-x86_64.msi
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-darwin-aarch64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-darwin-x86_64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/spacedriveapp/spacedrive/releases/latest/download/Spacedrive-linux-x86_64.deb
+  format: deb
+  os: linux
+  arch: x64

@@ -13,3 +13,28 @@ downloads:
 - url: https://dl.pstmn.io/download/version/12.3.2/osx_arm64
   name: osx_arm64
   version: 12.3.2
+packages:
+- url: https://dl.pstmn.io/download/latest/win64
+  format: exe
+  os: windows
+  arch: x64
+- url: https://dl.pstmn.io/download/latest/win64
+  format: exe
+  os: windows
+  arch: x86
+- url: https://dl.pstmn.io/download/latest/osx_64
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://dl.pstmn.io/download/latest/osx_arm64
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://dl.pstmn.io/download/latest/linux64
+  format: tar.gz
+  os: linux
+  arch: x64
+- url: https://dl.pstmn.io/download/latest/linux64
+  format: tar.gz
+  os: linux
+  arch: x86

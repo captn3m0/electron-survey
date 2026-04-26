@@ -46,3 +46,17 @@ electron: 15.4.0
 method: src-yarn-lock
 aur:
 - marktext
+packages:
+- url: https://github.com/marktext/marktext/releases/latest/download/marktext-setup.exe
+  format: exe
+  os: windows
+- url: https://github.com/marktext/marktext/releases/latest/download/marktext-x64.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/marktext/marktext/releases/latest/download/marktext-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/marktext/marktext/releases/latest/download/marktext-amd64.deb
+  format: deb
+  os: linux

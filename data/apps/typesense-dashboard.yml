@@ -1,0 +1,17 @@
+id: typesense-dashboard
+name: Typesense Dashboard
+website: https://github.com/bfritscher/typesense-dashboard
+repository: https://github.com/bfritscher/typesense-dashboard
+packages:
+- url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-darwin-x64-v2.4.8.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-win32-x64-v2.4.8.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-linux-x64-v2.4.8.zip
+  format: zip
+  os: linux
+  arch: x64

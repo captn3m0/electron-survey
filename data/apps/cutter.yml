@@ -1,0 +1,21 @@
+id: cutter
+name: Cutter
+website: https://cutter.re/
+repository: https://github.com/rizinorg/cutter
+packages:
+- url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-Windows-x86_64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-macOS-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-macOS-x86_64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/rizinorg/cutter/releases/latest/download/Cutter-v2.4.1-Linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

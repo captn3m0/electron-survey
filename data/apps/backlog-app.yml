@@ -1,0 +1,17 @@
+id: backlog-app
+name: Backlog
+website: https://github.com/czytelny/backlog
+repository: https://github.com/czytelny/backlog
+packages:
+- url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-linux-x64.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

@@ -1,0 +1,17 @@
+id: bilibili-video-download
+name: Bilibili Video Download
+website: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload
+repository: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload
+packages:
+- url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload-3.3.3.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload.Setup.3.3.3.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload-3.3.3.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,29 @@
+id: pulsar-edit
+name: Pulsar
+website: https://pulsar-edit.dev/
+repository: https://github.com/pulsar-edit/pulsar
+packages:
+- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Silicon.Mac.Pulsar-1.131.3-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Intel.Mac.Pulsar-1.131.3.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Windows.Pulsar.Setup.1.131.3.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Linux.Pulsar-1.131.3.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/Linux.pulsar_1.131.3_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.131.3/ARM.Linux.Pulsar-1.131.3-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

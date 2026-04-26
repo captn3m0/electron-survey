@@ -33,3 +33,8 @@ aur:
 - min
 - min-browser-bin
 homebrew: min
+packages:
+- url: https://github.com/minbrowser/min/releases/download/v1.35.2/min-v1.35.2-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

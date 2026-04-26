@@ -1,0 +1,16 @@
+id: mullvad
+name: Mullvad VPN
+website: https://mullvad.net/en/download/
+packages:
+- url: https://mullvad.net/download/app/exe/latest
+  format: exe
+  os: windows
+- url: https://mullvad.net/download/app/pkg/latest
+  format: pkg
+  os: macos
+- url: https://mullvad.net/download/app/deb/latest
+  format: deb
+  os: linux
+- url: https://mullvad.net/download/app/rpm/latest
+  format: rpm
+  os: linux

@@ -1,0 +1,7 @@
+id: meta-quest-developer-hub
+name: meta-quest-developer-hub
+website: https://developer.oculus.com/meta-quest-developer-hub/
+packages:
+- url: https://www.oculus.com/x2asset/electron-apps/odh/5a1a35d130e03890ed3ec1a417b8c05a/Meta%20Quest%20Developer%20Hub-6.3.2.zip
+  format: zip
+  os: macos

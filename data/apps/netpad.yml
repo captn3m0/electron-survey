@@ -1,0 +1,37 @@
+id: netpad
+name: NetPad
+website: https://github.com/tareqimbasher/NetPad
+repository: https://github.com/tareqimbasher/NetPad
+packages:
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-mac-aarch64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-win-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-win-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad-0.12.0-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad-0.12.0-linux-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/tareqimbasher/NetPad/releases/download/v0.12.0/netpad_vnext-0.12.0-linux-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

@@ -62,3 +62,7 @@ electron: 13.6.3
 aur:
 - rambox-pro-bin
 homebrew: rambox
+packages:
+- url: https://github.com/ramboxapp/download/releases/download/v2.6.2/Rambox-2.6.2-mac.zip
+  format: zip
+  os: macos

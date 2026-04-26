@@ -1,0 +1,19 @@
+id: anytype
+name: Anytype
+website: https://anytype.io/
+packages:
+- url: https://download.anytype.io/?platform=windows_x64
+  format: exe
+  os: windows
+  arch: x64
+- url: https://download.anytype.io/?platform=mac_x64
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://download.anytype.io/?platform=mac_arm64
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://download.anytype.io/?platform=linux
+  format: appimage
+  os: linux

@@ -1,0 +1,20 @@
+id: publii
+name: Publii
+website: https://getpublii.com/
+packages:
+- url: https://getpublii.com/download/Publii-0.47.6-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://cdn.getpublii.com/Publii-0.47.6-intel.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://cdn.getpublii.com/Publii-0.47.6.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://getpublii.com/download/Publii-0.47.6.AppImage
+  format: appimage
+  os: linux
+  arch: x64

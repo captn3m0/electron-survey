@@ -1,0 +1,21 @@
+id: jitsi-meet-desktop
+name: Jitsi Meet
+website: https://jitsi.org/
+repository: https://github.com/jitsi/jitsi-meet-electron
+packages:
+- url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet-amd64.deb
+  format: deb
+  os: linux
+  arch: x64

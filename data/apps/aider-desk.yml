@@ -1,0 +1,25 @@
+id: aider-desk
+name: AiderDesk
+website: https://github.com/hotovo/aider-desk
+repository: https://github.com/hotovo/aider-desk
+packages:
+- url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-macos-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-macos-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/hotovo/aider-desk/releases/download/v0.62.0/aider-desk-0.62.0-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

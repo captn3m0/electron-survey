@@ -1,0 +1,21 @@
+id: headlamp
+name: Headlamp
+website: https://headlamp.dev/
+repository: https://github.com/kubernetes-sigs/headlamp
+packages:
+- url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-win-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/kubernetes-sigs/headlamp/releases/latest/download/Headlamp-0.41.0-linux-x64.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

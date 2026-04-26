@@ -1,0 +1,21 @@
+id: figma-linux
+name: Figma for Linux
+website: https://github.com/Figma-Linux/figma-linux
+repository: https://github.com/Figma-Linux/figma-linux
+packages:
+- url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.deb
+  format: deb
+  os: linux
+  arch: arm64
+- url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_aarch64.rpm
+  format: rpm
+  os: linux
+  arch: arm64
+- url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

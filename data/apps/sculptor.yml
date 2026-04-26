@@ -1,0 +1,8 @@
+id: sculptor
+name: Sculptor
+website: https://imbue.com/sculptor/
+packages:
+- url: https://imbue-sculptor-releases.s3.us-west-2.amazonaws.com/sculptor/zip/darwin/arm64/Sculptor-darwin-arm64-0.7.0.zip
+  format: zip
+  os: macos
+  arch: arm64

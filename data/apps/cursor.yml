@@ -1,0 +1,40 @@
+id: cursor
+name: Cursor
+website: https://cursor.com/downloads
+packages:
+- url: https://download.cursor.sh/windows/nsis/x64
+  format: exe
+  os: windows
+  arch: x64
+  invalid: true
+  invalid_reason: None
+- url: https://download.cursor.sh/windows/nsis/arm64
+  format: exe
+  os: windows
+  arch: arm64
+  invalid: true
+  invalid_reason: None
+- url: https://download.cursor.sh/mac/dmg/x64
+  format: dmg
+  os: macos
+  arch: x64
+  invalid: true
+  invalid_reason: None
+- url: https://download.cursor.sh/mac/dmg/arm64
+  format: dmg
+  os: macos
+  arch: arm64
+  invalid: true
+  invalid_reason: None
+- url: https://download.cursor.sh/linux/appImage/x64
+  format: appimage
+  os: linux
+  arch: x64
+  invalid: true
+  invalid_reason: None
+- url: https://download.cursor.sh/linux/appImage/arm64
+  format: appimage
+  os: linux
+  arch: arm64
+  invalid: true
+  invalid_reason: None

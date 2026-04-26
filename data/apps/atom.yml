@@ -1,0 +1,24 @@
+id: atom
+name: Atom
+website: https://github.com/atom/atom
+repository: https://github.com/atom/atom
+packages:
+- url: https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip
+  format: zip
+  os: macos
+- url: https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/atom/atom/releases/download/v1.60.0/atom.x86_64.rpm
+  format: rpm
+  os: linux
+  arch: x64
+- url: https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

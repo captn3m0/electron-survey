@@ -1,0 +1,16 @@
+id: portmaster
+name: Portmaster
+website: https://safing.io/download/
+packages:
+- url: https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://updates.safing.io/latest/linux_amd64/packages/portmaster-installer.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://updates.safing.io/latest/linux_amd64/packages/portmaster-installer.rpm
+  format: rpm
+  os: linux
+  arch: x64

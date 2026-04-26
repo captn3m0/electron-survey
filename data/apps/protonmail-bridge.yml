@@ -1,0 +1,19 @@
+id: protonmail-bridge
+name: Proton Mail Bridge
+website: https://proton.me/mail/bridge
+repository: https://github.com/ProtonMail/proton-bridge
+packages:
+- url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/Bridge-Installer.exe
+  format: exe
+  os: windows
+- url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/Bridge-Installer.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/protonmail-bridge_3.24.1-1_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/ProtonMail/proton-bridge/releases/latest/download/protonmail-bridge-3.24.1-1.x86_64.rpm
+  format: rpm
+  os: linux
+  arch: x64

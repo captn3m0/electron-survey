@@ -1,0 +1,21 @@
+id: yesplaymusic
+name: YesPlayMusic
+website: https://github.com/qier222/YesPlayMusic
+repository: https://github.com/qier222/YesPlayMusic
+packages:
+- url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-mac-0.4.10-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-mac-0.4.10-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-0.4.10.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.10/YesPlayMusic-0.4.10.AppImage
+  format: appimage
+  os: linux
+  arch: x64

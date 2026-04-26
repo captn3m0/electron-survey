@@ -1,0 +1,8 @@
+id: snwe
+name: snwe
+website: https://github.com/blahsd/snwe
+repository: https://github.com/blahsd/snwe
+packages:
+- url: https://github.com/blahsd/snwe/releases/download/v0.1.0/snwe.app.zip
+  format: zip
+  os: macos

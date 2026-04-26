@@ -39,3 +39,7 @@ latest: v1.5.6
 src: https://github.com/deepnest-next/deepnest/archive/refs/tags/v1.5.6.zip
 electron: 34.5.5
 method: src-package-lock
+packages:
+- url: https://deepnest.io/Deepnest-1.0.5-mac.zip
+  format: zip
+  os: macos

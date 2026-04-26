@@ -1,0 +1,8 @@
+id: workflowy
+name: WorkFlowy
+website: https://workflowy.com/downloads/mac/
+repository: https://github.com/workflowy/desktop
+packages:
+- url: https://github.com/workflowy/desktop/releases/download/v4.3.2604231210/WorkFlowy.zip
+  format: zip
+  os: macos

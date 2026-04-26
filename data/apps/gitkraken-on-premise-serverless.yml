@@ -1,0 +1,8 @@
+id: gitkraken-on-premise-serverless
+name: GitKraken Serverless
+website: https://www.gitkraken.com/git-client/on-premise
+packages:
+- url: https://api.gitkraken.dev/releases/standalone/production/darwin/arm64/12.0.1/GitKraken-v12.0.1.zip
+  format: zip
+  os: macos
+  arch: arm64

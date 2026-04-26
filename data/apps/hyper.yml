@@ -49,3 +49,16 @@ downloads:
 electron: 20.3.6
 method: src-yarn-lock
 homebrew: hyper
+packages:
+- url: https://releases.hyper.is/download/win
+  format: exe
+  os: windows
+- url: https://releases.hyper.is/download/mac
+  format: dmg
+  os: macos
+- url: https://releases.hyper.is/download/deb
+  format: deb
+  os: linux
+- url: https://releases.hyper.is/download/rpm
+  format: rpm
+  os: linux

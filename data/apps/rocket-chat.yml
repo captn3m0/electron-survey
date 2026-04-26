@@ -14,3 +14,15 @@ downloads:
 - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.13.0/rocketchat-4.13.0-mac.dmg
   name: rocketchat-4.13.0-mac.dmg
   version: 4.13.0
+repository: https://github.com/RocketChat/Rocket.Chat.Electron
+packages:
+- url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-4.14.0-win-x64.exe
+  format: exe
+  os: windows
+- url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-4.14.0-mac.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest/download/rocketchat-4.14.0-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64

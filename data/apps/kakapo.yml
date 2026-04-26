@@ -1,0 +1,8 @@
+id: kakapo
+name: Kakapo
+website: https://github.com/bluedaniel/Kakapo-app
+repository: https://github.com/bluedaniel/Kakapo-app
+packages:
+- url: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/Kakapo-1.3.0-Mac.zip
+  format: zip
+  os: macos

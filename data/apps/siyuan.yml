@@ -1,0 +1,29 @@
+id: siyuan
+name: SiYuan
+website: https://b3log.org/siyuan/
+repository: https://github.com/siyuan-note/siyuan
+packages:
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-mac.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-win.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-linux-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.6.5/siyuan-3.6.5-linux.deb
+  format: deb
+  os: linux
+  arch: x64

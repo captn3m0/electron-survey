@@ -1,0 +1,8 @@
+id: block-goose
+name: Goose
+website: https://block.github.io/goose/
+repository: https://github.com/block/goose
+packages:
+- url: https://github.com/block/goose/releases/download/v1.32.0/Goose.zip
+  format: zip
+  os: macos

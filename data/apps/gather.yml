@@ -1,0 +1,13 @@
+id: gather
+name: Gather
+website: https://gather.town/
+repository: https://github.com/gathertown/gather-town-desktop-releases
+packages:
+- url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.37.1/Gather-1.37.1-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.37.1/Gather-1.37.1-Setup.exe
+  format: exe
+  os: windows
+  arch: x64

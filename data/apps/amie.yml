@@ -1,0 +1,13 @@
+id: amie
+name: Amie
+website: https://amie.so/
+repository: https://github.com/amieso/electron-releases
+packages:
+- url: https://github.com/amieso/electron-releases/releases/download/v260216.1.0/Amie-260216.1.0-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/amieso/electron-releases/releases/download/v260216.1.0/Amie-260216.1.0-mac.zip
+  format: zip
+  os: macos
+  arch: x64

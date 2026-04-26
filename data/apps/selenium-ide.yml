@@ -1,0 +1,17 @@
+id: selenium-ide
+name: Selenium IDE
+website: https://www.selenium.dev/selenium-ide/
+repository: https://github.com/SeleniumHQ/selenium-ide
+packages:
+- url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-Setup-4.0.1-beta.14.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14.AppImage
+  format: appimage
+  os: linux
+  arch: x64

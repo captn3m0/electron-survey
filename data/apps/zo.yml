@@ -1,0 +1,13 @@
+id: zo
+name: Zo
+website: https://www.zo.computer/
+repository: https://github.com/zocomputer/Zo
+packages:
+- url: https://github.com/zocomputer/Zo/releases/download/v1.5.0/Zo-1.5.0-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/zocomputer/Zo/releases/download/v1.5.0/Zo-1.5.0-setup.exe
+  format: exe
+  os: windows
+  arch: x64

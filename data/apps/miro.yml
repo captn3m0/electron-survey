@@ -1,0 +1,11 @@
+id: miro
+name: Miro
+website: https://miro.com/desktop/
+packages:
+- url: https://desktop.miro.com/platforms/win32-nsis-pu/Miro-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://desktop.miro.com/platforms/darwin/Miro.dmg
+  format: dmg
+  os: macos

@@ -1,0 +1,8 @@
+id: basecamp
+name: Basecamp
+website: https://3.basecamp-help.com/
+packages:
+- url: https://basecamp.com/desktop/mac_arm64/basecamp3-2.5.2.zip
+  format: zip
+  os: macos
+  arch: arm64

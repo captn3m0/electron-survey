@@ -1,0 +1,21 @@
+id: ytdownloader
+name: YTDownloader
+website: https://github.com/aandrew-me/ytDownloader
+repository: https://github.com/aandrew-me/ytDownloader
+packages:
+- url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Mac_arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Mac_x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Linux.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.20.2/YTDownloader_Linux.deb
+  format: deb
+  os: linux
+  arch: x64

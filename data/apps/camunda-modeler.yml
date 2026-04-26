@@ -33,3 +33,8 @@ method: src-package-lock
 aur:
 - zbctl
 homebrew: camunda-modeler
+packages:
+- url: https://downloads.camunda.cloud/release/camunda-modeler/5.46.1/camunda-modeler-5.46.1-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

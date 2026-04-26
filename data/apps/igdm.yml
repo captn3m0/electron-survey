@@ -1,0 +1,17 @@
+id: igdm
+name: IGdm
+website: https://igdm.me/
+repository: https://github.com/igdmapps/igdm
+packages:
+- url: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-3.0.4.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-Setup-3.0.4.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm-3.0.4.AppImage
+  format: appimage
+  os: linux
+  arch: x64

@@ -1,0 +1,13 @@
+id: sabaki
+name: Sabaki
+website: https://sabaki.yichuanshen.de/
+repository: https://github.com/SabakiHQ/Sabaki
+packages:
+- url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-win-x64-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage
+  format: appimage
+  os: linux
+  arch: x64

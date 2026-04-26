@@ -5,3 +5,9 @@ downloads:
 - url: https://github.com/IconsetApp/iconset/releases/download/v2.5.0/Iconset-2.5.0-arm64-mac.zip
   name: Iconset-2.5.0-arm64-mac.zip
   version: 2.5.0
+repository: https://github.com/IconsetApp/iconset
+packages:
+- url: https://github.com/IconsetApp/iconset/releases/download/v2.5.0/Iconset-2.5.0-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

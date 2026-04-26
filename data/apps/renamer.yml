@@ -1,0 +1,9 @@
+id: renamer
+name: Renamer
+website: https://renamer.com/
+repository: https://github.com/incbee/renamer-7-releases
+packages:
+- url: https://github.com/incbee/renamer-7-releases/releases/download/v7.2.1/Renamer-7.2.1-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

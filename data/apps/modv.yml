@@ -1,0 +1,13 @@
+id: modv
+name: modV
+website: https://modv.vcync.gl/
+repository: https://github.com/vcync/modV
+packages:
+- url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/vcync/modV/releases/download/3.30.0/modV-3.30.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64

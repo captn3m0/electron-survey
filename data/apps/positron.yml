@@ -1,0 +1,8 @@
+id: positron
+name: Positron
+website: https://positron.posit.co/
+packages:
+- url: https://cdn.posit.co/positron/releases/mac/arm64/Positron-darwin-2026.04.1-10-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

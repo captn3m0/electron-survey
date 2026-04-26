@@ -1,0 +1,17 @@
+id: ldtk
+name: LDtk
+website: https://ldtk.io/
+repository: https://github.com/deepnight/ldtk
+packages:
+- url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/LDtk-1.5.3-installer.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/mac-distribution.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/ubuntu-distribution.zip
+  format: zip
+  os: linux
+  arch: x64

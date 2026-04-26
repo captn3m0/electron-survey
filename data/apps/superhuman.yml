@@ -1,0 +1,8 @@
+id: superhuman
+name: Superhuman
+website: https://superhuman.com/
+packages:
+- url: https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1038.0.32-arm64-latest-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

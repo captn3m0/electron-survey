@@ -1,0 +1,21 @@
+id: yana
+name: Yana
+website: https://github.com/lukasbach/yana
+repository: https://github.com/lukasbach/yana
+packages:
+- url: https://github.com/lukasbach/yana/releases/download/v1.0.16/Yana-Setup-1.0.16.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/lukasbach/yana/releases/download/v1.0.16/Yana-1.0.16.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/lukasbach/yana/releases/download/v1.0.16/yana_1.0.16_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/lukasbach/yana/releases/download/v1.0.16/yana_1.0.16_amd64.snap
+  format: snap
+  os: linux
+  arch: x64

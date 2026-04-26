@@ -1,0 +1,21 @@
+id: refi-app
+name: Refi App
+website: https://refiapp.io/
+repository: https://github.com/thanhlmm/refi-app
+packages:
+- url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-Setup-0.0.19.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/refi-app_0.0.19_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

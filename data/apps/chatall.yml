@@ -1,0 +1,25 @@
+id: chatall
+name: ChatALL
+website: https://github.com/ai-shifu/ChatALL
+repository: https://github.com/ai-shifu/ChatALL
+packages:
+- url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64
+- url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-amd64.deb
+  format: deb
+  os: linux
+  arch: x64

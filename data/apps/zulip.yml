@@ -56,3 +56,13 @@ aur:
 - zulip-desktop-electron
 - zulip-desktop-git
 homebrew: zulip
+packages:
+- url: https://www.zulip.com/apps/windows
+  format: exe
+  os: windows
+- url: https://www.zulip.com/apps/mac
+  format: dmg
+  os: macos
+- url: https://www.zulip.com/apps/linux
+  format: deb
+  os: linux

@@ -1,0 +1,23 @@
+id: bitwarden
+name: Bitwarden
+website: https://bitwarden.com/download/
+repository: https://github.com/bitwarden/clients
+packages:
+- url: https://vault.bitwarden.com/download/?app=desktop&platform=windows&variant=exe
+  format: exe
+  os: windows
+- url: https://vault.bitwarden.com/download/?app=desktop&platform=windows
+  format: msi
+  os: windows
+- url: https://vault.bitwarden.com/download/?app=desktop&platform=macos
+  format: dmg
+  os: macos
+- url: https://github.com/bitwarden/clients/releases/latest/download/Bitwarden-2026.3.1-amd64.deb
+  format: appimage
+  os: linux
+- url: https://vault.bitwarden.com/download/?app=desktop&platform=linux&variant=deb
+  format: deb
+  os: linux
+- url: https://vault.bitwarden.com/download/?app=desktop&platform=linux&variant=rpm
+  format: rpm
+  os: linux

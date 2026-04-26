@@ -1,0 +1,16 @@
+id: element-desktop
+name: Element Desktop
+website: https://element.io/download
+packages:
+- url: https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://packages.riot.im/desktop/install/macos/Element.dmg
+  format: dmg
+  os: macos
+- url: https://packages.riot.im/debian/pool/main/e/element-desktop/
+  format: deb
+  os: linux
+  arch: x64
+  note: Available via Element APT repository

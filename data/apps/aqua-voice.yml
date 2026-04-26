@@ -1,0 +1,8 @@
+id: aqua-voice
+name: Aqua Voice
+website: https://aquavoice.com/
+packages:
+- url: https://d1a1dx1sgvjqrz.cloudfront.net/aqua-voice-updates/darwin/arm64/Aqua%20Voice-darwin-arm64-0.12.1.zip
+  format: zip
+  os: macos
+  arch: arm64

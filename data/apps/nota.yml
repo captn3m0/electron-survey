@@ -15,3 +15,8 @@ downloads:
 aur:
 - nota
 homebrew: nota
+packages:
+- url: https://github.com/notaapp/releases/releases/download/0.41.0/Nota-0.41.0-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

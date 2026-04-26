@@ -16,3 +16,19 @@ downloads:
 - url: https://dl.discordapp.net/apps/osx/0.0.382/Discord.dmg
   name: Discord.dmg
   version: 0.0.382
+packages:
+- url: https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64
+  format: exe
+  os: windows
+  arch: x64
+- url: https://stable.dl2.discordapp.net/apps/osx/0.0.387/Discord.dmg
+  format: dmg
+  os: macos
+- url: https://stable.dl2.discordapp.net/apps/linux/0.0.134/discord-0.0.134.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://stable.dl2.discordapp.net/apps/linux/0.0.134/discord-0.0.134.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

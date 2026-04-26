@@ -1,0 +1,7 @@
+id: geogebra
+name: GeoGebra
+website: https://www.geogebra.org/
+packages:
+- url: https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
+  format: zip
+  os: macos

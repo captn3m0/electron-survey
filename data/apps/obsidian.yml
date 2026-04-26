@@ -23,3 +23,24 @@ downloads:
   url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian_1.12.7_amd64.deb
 latest: v1.12.7
 src: https://github.com/obsidianmd/obsidian-releases/archive/refs/tags/v1.12.7.zip
+packages:
+- url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/obsidianmd/obsidian-releases/releases/latest/download/Obsidian-1.12.7.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/obsidian_1.8.10_amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/obsidianmd/obsidian-releases/releases/latest/download/Obsidian-1.12.7.AppImage
+  format: appimage
+  os: linux
+  arch: x64

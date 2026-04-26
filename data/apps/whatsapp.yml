@@ -1,3 +1,15 @@
 id: whatsapp
 website: https://www.whatsapp.com
 dead: true
+packages:
+- url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://web.whatsapp.com/desktop/windows/release/arm64/WhatsAppSetup.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg
+  format: dmg
+  os: macos

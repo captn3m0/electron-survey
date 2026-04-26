@@ -1,0 +1,25 @@
+id: simple-web-server
+name: Simple Web Server
+website: https://simplewebserver.org/
+repository: https://github.com/terreng/simple-web-server
+packages:
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-arm64.deb
+  format: deb
+  os: linux
+  arch: arm64

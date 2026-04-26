@@ -1,0 +1,8 @@
+id: chronos
+name: Chronos Timetracker
+website: https://github.com/web-pal/chronos-timetracker
+repository: https://github.com/web-pal/chronos-timetracker
+packages:
+- url: https://github.com/web-pal/chronos-timetracker/releases/download/v6.3.2/Chronos-6.3.2-mac.zip
+  format: zip
+  os: macos

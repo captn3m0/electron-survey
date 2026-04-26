@@ -1,0 +1,8 @@
+id: infra
+name: infra
+website: https://infra.app/
+packages:
+- url: https://download.infra.app/darwin/Infra-darwin-universal-0.47.0.zip
+  format: zip
+  os: macos
+  arch: universal

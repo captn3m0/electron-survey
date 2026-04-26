@@ -5,3 +5,8 @@ downloads:
 - url: https://desktop.splice.com/conveyor/stable/splice-5.4.9-mac-aarch64.zip
   name: splice-5.4.9-mac-aarch64.zip
   version: 5.4.9
+packages:
+- url: https://desktop.splice.com/conveyor/stable/splice-5.4.9-mac-aarch64.zip
+  format: zip
+  os: macos
+  arch: arm64

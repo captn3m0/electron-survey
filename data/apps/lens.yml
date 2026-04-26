@@ -1,0 +1,22 @@
+id: lens
+name: Lens
+website: https://k8slens.dev/
+repository: https://github.com/MuhammedKalkan/OpenLens
+packages:
+- url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens.6.5.2-366.exe
+  format: exe
+  os: windows
+- url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.amd64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.x86_64.rpm
+  format: rpm
+  os: linux
+  arch: x64
+- url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.x86_64.AppImage
+  format: appimage
+  os: linux

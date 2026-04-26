@@ -1,0 +1,29 @@
+id: kando
+name: Kando
+website: https://kando.menu/
+repository: https://github.com/kando-menu/kando
+packages:
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-x64.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0.Setup-arm64.exe
+  format: exe
+  os: windows
+  arch: arm64
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0.Setup-x64.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-x86_64.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.0/Kando-2.3.0-aarch64.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

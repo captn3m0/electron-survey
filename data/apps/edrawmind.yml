@@ -1,0 +1,7 @@
+id: edrawmind
+name: EdrawMind
+website: https://www.edrawsoft.com/edrawmind/
+packages:
+- url: https://download.wondershare.com/cbs_down/edrawmind_13.0.16_full5378.zip
+  format: zip
+  os: macos

@@ -16,3 +16,7 @@ aur:
 - todometer-bin
 - todometer-git
 homebrew: todometer
+packages:
+- url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.mac.zip
+  format: zip
+  os: macos

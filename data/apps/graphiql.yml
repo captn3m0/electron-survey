@@ -21,3 +21,7 @@ downloads:
 repository: https://github.com/skevy/graphiql-app
 latest: v0.7.2
 src: https://github.com/skevy/graphiql-app/archive/refs/tags/v0.7.2.zip
+packages:
+- url: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/graphiql-app-0.7.2-mac.zip
+  format: zip
+  os: macos

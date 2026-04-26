@@ -1,0 +1,17 @@
+id: mongotron
+name: Mongotron
+website: https://github.com/officert/mongotron
+repository: https://github.com/officert/mongotron
+packages:
+- url: https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64

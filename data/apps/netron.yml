@@ -27,3 +27,7 @@ method: src-package-lock
 aur:
 - netron
 homebrew: netron
+packages:
+- url: https://github.com/lutzroeder/netron/releases/download/v9.0.4/Netron-9.0.4-mac.zip
+  format: zip
+  os: macos

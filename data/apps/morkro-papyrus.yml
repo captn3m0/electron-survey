@@ -1,0 +1,8 @@
+id: morkro-papyrus
+name: Papyrus
+website: https://github.com/morkro/papyrus
+repository: https://github.com/morkro/papyrus
+packages:
+- url: https://github.com/morkro/papyrus/releases/download/1.0.3/Papyrus-osx-1.0.3.zip
+  format: zip
+  os: macos

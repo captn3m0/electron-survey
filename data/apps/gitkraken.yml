@@ -9,3 +9,11 @@ downloads:
 - url: https://api.gitkraken.dev/releases/production/darwin/arm64/11.10.0/GitKraken-v11.10.0.zip
   name: GitKraken-v11.10.0.zip
   version: 11.10.0
+packages:
+- url: https://api.gitkraken.dev/releases/production/darwin/arm64/12.0.1/GitKraken-v12.0.1.zip
+  format: dmg
+  os: macos
+- url: https://release.axocdn.com/linux/gitkraken-amd64.tar.gz
+  format: tar.gz
+  os: linux
+  arch: x64

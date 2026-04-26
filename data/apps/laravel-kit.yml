@@ -31,3 +31,8 @@ method: src-yarn-lock
 aur:
 - laravel-kit
 homebrew: laravel-kit
+packages:
+- url: https://github.com/tmdh/laravel-kit/releases/download/v2.0.9/Laravel-Kit-2.0.9-arm64-mac.zip
+  format: zip
+  os: macos
+  arch: arm64

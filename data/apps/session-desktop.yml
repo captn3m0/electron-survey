@@ -1,0 +1,20 @@
+id: session-desktop
+name: Session
+website: https://getsession.org/download
+repository: https://github.com/oxen-io/session-desktop
+packages:
+- url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-win-x64-1.14.3.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-mac-x64-1.14.3.dmg
+  format: dmg
+  os: macos
+- url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-linux-amd64-1.14.3.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/oxen-io/session-desktop/releases/latest/download/session-desktop-linux-x86_64-1.14.3.AppImage
+  format: appimage
+  os: linux
+  arch: x64

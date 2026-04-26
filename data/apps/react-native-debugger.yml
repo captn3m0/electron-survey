@@ -1,0 +1,17 @@
+id: react-native-debugger
+name: React Native Debugger
+website: https://github.com/jhen0409/react-native-debugger
+repository: https://github.com/jhen0409/react-native-debugger
+packages:
+- url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger_0.14.0_universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react_native_debugger-0.14.0-setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger_0.14.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

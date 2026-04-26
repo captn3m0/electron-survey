@@ -1,0 +1,7 @@
+id: mathcha-notebook
+name: Mathcha Notebook
+website: https://www.mathcha.io/
+packages:
+- url: https://notebook-downloads.mathcha.io/public/Mathcha%20Notebook-1.0.450-mac.zip
+  format: zip
+  os: macos

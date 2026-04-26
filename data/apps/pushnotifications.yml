@@ -1,0 +1,9 @@
+id: pushnotifications
+name: Push Notifications
+website: https://github.com/onmyway133/PushNotifications
+repository: https://github.com/onmyway133/PushNotifications
+packages:
+- url: https://github.com/onmyway133/PushNotifications/releases/download/1.7.10/Push.Notifications-1.7.10-mac.dmg
+  format: dmg
+  os: macos
+  arch: x64

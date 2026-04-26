@@ -1,3 +1,21 @@
 id: skype
 website: https://skype.com
 dead: true
+packages:
+- url: https://go.skype.com/windows.download
+  format: exe
+  os: windows
+- url: https://go.skype.com/msi.download
+  format: msi
+  os: windows
+- url: https://go.skype.com/mac.download
+  format: dmg
+  os: macos
+- url: https://go.skype.com/skypeforlinux-64.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://go.skype.com/skypeforlinux-64.rpm
+  format: rpm
+  os: linux
+  arch: x64

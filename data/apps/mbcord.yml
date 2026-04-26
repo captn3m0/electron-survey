@@ -1,0 +1,17 @@
+id: mbcord
+name: MBCord
+website: https://github.com/oonqt/MBCord
+repository: https://github.com/oonqt/MBCord
+packages:
+- url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-darwin-x64.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-win32-x64.zip
+  format: zip
+  os: windows
+  arch: x64
+- url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-linux-x64.zip
+  format: zip
+  os: linux
+  arch: x64

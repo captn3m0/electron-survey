@@ -1,0 +1,21 @@
+id: restfox
+name: Restfox
+website: https://restfox.dev/
+repository: https://github.com/flawiddsouza/Restfox
+packages:
+- url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-arm64-0.40.0.zip
+  format: zip
+  os: macos
+  arch: arm64
+- url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-x64-0.40.0.zip
+  format: zip
+  os: macos
+  arch: x64
+- url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0.Setup.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/restfox_0.40.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

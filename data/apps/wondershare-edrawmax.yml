@@ -1,0 +1,7 @@
+id: wondershare-edrawmax
+name: EdrawMax
+website: https://www.edrawsoft.com/
+packages:
+- url: https://download.edrawsoft.com/cbs_down/edraw-max_full5380.zip
+  format: zip
+  os: macos

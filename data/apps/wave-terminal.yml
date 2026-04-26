@@ -1,0 +1,29 @@
+id: wave-terminal
+name: Wave Terminal
+website: https://www.waveterm.dev/
+repository: https://github.com/wavetermdev/waveterm
+packages:
+- url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-arm64-0.14.5.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-x64-0.14.5.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.msi
+  format: msi
+  os: windows
+  arch: x64
+- url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-amd64-0.14.5.deb
+  format: deb
+  os: linux
+  arch: x64
+- url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-arm64-0.14.5.AppImage
+  format: appimage
+  os: linux
+  arch: arm64

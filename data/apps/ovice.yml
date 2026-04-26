@@ -1,0 +1,8 @@
+id: ovice
+name: ovice
+website: https://www.ovice.com/
+packages:
+- url: https://assets.ovice.io/desktop-apps/staging/darwin/arm64/ovice-darwin-arm64-1.18.8.zip
+  format: zip
+  os: macos
+  arch: arm64

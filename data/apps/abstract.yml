@@ -5,3 +5,7 @@ downloads:
 - url: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
   name: Abstract-98.6.3.zip
   version: 98.6.3
+packages:
+- url: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
+  format: zip
+  os: macos

@@ -1,0 +1,8 @@
+id: kiwi-for-gmail
+name: Kiwi for Gmail
+website: https://www.kiwiforgmail.com/
+packages:
+- url: https://downloads.kiwiforgmail.com/kiwi/release/consumer/Kiwi%20for%20Gmail-4.6.2-universal-mac.zip
+  format: zip
+  os: macos
+  arch: universal

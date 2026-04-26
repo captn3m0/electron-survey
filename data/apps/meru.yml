@@ -1,0 +1,25 @@
+id: meru
+name: Meru
+website: https://github.com/timche/gmail-desktop
+repository: https://github.com/timche/gmail-desktop
+packages:
+- url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0.dmg
+  format: dmg
+  os: macos
+  arch: x64
+- url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/Meru-3.45.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64
+- url: https://github.com/timche/gmail-desktop/releases/download/v3.45.0/meru_3.45.0_amd64.deb
+  format: deb
+  os: linux
+  arch: x64

@@ -1,0 +1,8 @@
+id: devkinsta
+name: DevKinsta
+website: https://devkinsta.com/
+packages:
+- url: https://devkinsta-updates.s3.amazonaws.com/DevKinsta-2.13.6-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

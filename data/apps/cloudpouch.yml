@@ -1,0 +1,17 @@
+id: cloudpouch
+name: CloudPouch
+website: https://cloudpouch.dev/
+repository: https://github.com/CloudPouch/CloudPouch.dev
+packages:
+- url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.43.0/CloudPouch-1.43.0-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal
+- url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.43.0/CloudPouch-Setup-1.43.0.exe
+  format: exe
+  os: windows
+  arch: x64
+- url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.43.0/CloudPouch-1.43.0.AppImage
+  format: appimage
+  os: linux
+  arch: x64

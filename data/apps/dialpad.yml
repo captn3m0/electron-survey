@@ -1,0 +1,8 @@
+id: dialpad
+name: Dialpad
+website: https://dialpad.com/download
+packages:
+- url: https://storage.googleapis.com/dialpad_native/osx/arm64/Dialpad.2603.3.5.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -1,0 +1,8 @@
+id: wordpresscom-studio
+name: Wordpress Studio
+website: https://developer.wordpress.com/studio/
+packages:
+- url: https://appscdn.wordpress.com/downloads/wordpress-com-studio/mac-silicon/v1.7.8/14116/update/studio-arm64-v1.7.8.zip
+  format: zip
+  os: macos
+  arch: arm64
