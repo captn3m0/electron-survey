@@ -96,7 +96,7 @@ Apps with detected Electron version: 323 / 905
 | [Invizi](https://invizi.co/) [[repo]](https://github.com/invizi/invizi/) | 8.3.0 ⚠️ | 6y 1mo ago | src-package-lock |
 | [Janpankana](https://github.com/styunan/japankana#readme) [[repo]](https://github.com/styunan/japankana) | 12.2.3 ⚠️ | 4y 6mo ago | src-range-guess |
 | [Jasper](https://jasperapp.io) [[repo]](https://github.com/jasperapp/jasper) | 37.4.0 ⚠️ | 8mo ago | src-package-lock |
-| [Joplin](https://joplinapp.org/) [[repo]](https://github.com/laurent22/joplin) | 39.2.3 ⚠️ | 5mo ago | src-yarn-lock |
+| [Joplin](https://joplinapp.org/) [[repo]](https://github.com/laurent22/joplin) | 39.2.3 ⚠️ | 6mo ago | src-yarn-lock |
 | [Jukeboks](https://github.com/hirohisa/Jukeboks) [[repo]](https://github.com/hirohisa/Jukeboks) | 11.4.8 ⚠️ | 5y ago | src-yarn-lock |
 | [Kahla](https://www.kahla.app/) [[repo]](https://github.com/AiursoftWeb/Kahla.App) | 8.5.5 ⚠️ | 5y 6mo ago | src-package-lock |
 | KanKan [[repo]](https://github.com/newham/kankan) | 8.5.5 ⚠️ | 5y 6mo ago | src-range-guess |
@@ -183,7 +183,7 @@ Apps with detected Electron version: 323 / 905
 | [Quba E-Invoice Viewer](https://quba-viewer.org/) [[repo]](https://github.com/ZUGFeRD/quba-viewer) | 33.0.1 ⚠️ | 1y 7mo ago | src-package-lock |
 | [R6RC](https://r6rc.com/) [[repo]](https://github.com/austinleath/r6rc) | 6.1.12 ⚠️ | 6y 1mo ago | src-range-guess |
 | [RIDE](https://github.com/Dyalog/ride) [[repo]](https://github.com/Dyalog/ride) | 34.5.5 ⚠️ | 1y ago | src-package-lock |
-| [Rainbow Board](https://harshkhandeparkar.github.io/rainbow-board) [[repo]](https://github.com/HarshKhandeparkar/rainbow-board) | 12.2.2 ⚠️ | 4y 7mo ago | src-yarn-lock |
+| [Rainbow Board](https://harshkhandeparkar.github.io/rainbow-board) [[repo]](https://github.com/HarshKhandeparkar/rainbow-board) | 12.2.2 ⚠️ | 4y 8mo ago | src-yarn-lock |
 | [Rambox](https://rambox.app/) [[repo]](https://github.com/saenzramiro/rambox) | 13.6.3 ⚠️ | 4y 6mo ago |  |
 | Raven Reader [[repo]](https://github.com/hello-efficiency-inc/raven-reader) | 19.1.2 ⚠️ | 3y 8mo ago | src-yarn-lock |
 | [React-Explorer](https://github.com/warpdesign/react-explorer) [[repo]](https://github.com/warpdesign/react-explorer) | 21.2.3 ⚠️ | 3y 6mo ago | src-package-lock |
