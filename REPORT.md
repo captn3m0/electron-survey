@@ -13,7 +13,7 @@ Apps with detected Electron version: 323 / 905
 | [Assessment Disaggregation](https://www.assessmentdisaggregation.org/) [[repo]](https://github.com/tazzben/Assessment-Disaggregation.git) | 40.0.0 ⚠️ | 4mo ago | src-package-lock |
 | [Barklarm](https://www.barklarm.com/) [[repo]](https://github.com/kanekotic/barklarm) | 31.3.1 ⚠️ | 1y 9mo ago | src-package-lock |
 | [Bdash](https://github.com/bdash-app/bdash) [[repo]](https://github.com/bdash-app/bdash) | 40.6.0 ⚠️ | 2mo ago | src-yarn-lock |
-| [Beaker Browser](https://beakerbrowser.com) [[repo]](https://github.com/beakerbrowser/beaker) | 11.0.0 ⚠️ | 5y 6mo ago | src-range-guess |
+| [Beaker Browser](https://beakerbrowser.com) [[repo]](https://github.com/beakerbrowser/beaker) | 11.0.0 ⚠️ | 5y 7mo ago | src-range-guess |
 | [Beekeeper Studio](https://www.beekeeperstudio.io) [[repo]](https://github.com/beekeeper-studio/beekeeper-studio) | 39.5.2 ⚠️ | 3mo ago | src-yarn-lock |
 | [Blockbench](https://blockbench.net/) [[repo]](https://github.com/JannisX11/blockbench) | 40.8.3 ⚠️ | 2mo ago | src-package-lock |
 | [Boost Changer](https://github.com/nbebaw/boostchanger) [[repo]](https://github.com/nbebaw/boostchanger) | 40.8.0 ⚠️ | 2mo ago | src-package-lock |
@@ -21,7 +21,7 @@ Apps with detected Electron version: 323 / 905
 | [Brim](https://www.brimsecurity.com) [[repo]](https://github.com/brimsec/brim) | 30.0.5 ⚠️ | 2y ago | src-yarn-lock |
 | [Brisqi](https://brisqi.com) | 40.8.3 ⚠️ | 2mo ago | aur-depends |
 | [Browserosaurus](https://github.com/will-stone/browserosaurus) [[repo]](https://github.com/will-stone/browserosaurus) | 33.0.1 ⚠️ | 1y 7mo ago | src-package-lock |
-| [Buka](https://github.com/oguzhaninan/Buka) [[repo]](https://github.com/oguzhaninan/Buka.git) | 1.6.3 ⚠️ | 9y 3mo ago | src-yarn-lock |
+| [Buka](https://github.com/oguzhaninan/Buka) [[repo]](https://github.com/oguzhaninan/Buka.git) | 1.6.3 ⚠️ | 9y 4mo ago | src-yarn-lock |
 | [Buttercup](https://buttercup.pw) [[repo]](https://github.com/buttercup/buttercup-desktop) | 22.3.27 ⚠️ | 2y 7mo ago | src-package-lock |
 | [Calmly Writer](https://www.calmlywriter.com) | 34.5.8 ⚠️ | 11mo ago | aur-depends |
 | [Camunda Modeler](https://camunda.com/products/modeler/) [[repo]](https://github.com/camunda/camunda-modeler/) | 39.0.0 ⚠️ | 6mo ago | src-package-lock |
@@ -32,7 +32,7 @@ Apps with detected Electron version: 323 / 905
 | [Companion](https://github.com/brunurd/companion) [[repo]](https://github.com/brunurd/companion) | 11.5.0 ⚠️ | 4y 9mo ago | src-package-lock |
 | [Container PS](https://github.com/Toinane/container-ps) [[repo]](https://github.com/Toinane/container-ps) | 12.0.1 ⚠️ | 5y 3mo ago | src-package-lock |
 | [Cozy Desktop](https://cozy.io/) [[repo]](https://github.com/cozy-labs/cozy-desktop) | 31.7.3 ⚠️ | 1y 6mo ago | src-yarn-lock |
-| [CryptoARM GOST](https://cryptoarm.ru/cryptoarm-gost/) [[repo]](https://github.com/TrustedRu/CryptoARMGOST) | 7.1.13 ⚠️ | 6y 3mo ago | src-package-lock |
+| [CryptoARM GOST](https://cryptoarm.ru/cryptoarm-gost/) [[repo]](https://github.com/TrustedRu/CryptoARMGOST) | 7.1.13 ⚠️ | 6y 4mo ago | src-package-lock |
 | [Dat](https://datproject.org) [[repo]](https://github.com/datproject/dat-desktop) | 8.0.1 ⚠️ | 6y 4mo ago | src-package-lock |
 | [Data Pixels Playground](https://github.com/gmattie/Data-Pixels) [[repo]](https://github.com/gmattie/Data-Pixels) | 3.0.10 ⚠️ | 7y 7mo ago | src-package-lock |
 | [DbGate](https://dbgate.org) [[repo]](https://github.com/dbgate/dbgate) | 38.6.0 ⚠️ | 6mo ago | src-yarn-lock |
@@ -53,7 +53,7 @@ Apps with detected Electron version: 323 / 905
 | [Electron-clippy](https://github.com/HeyitSaif/Clippy.git) [[repo]](https://github.com/HeyitSaif/Clippy.git) | 9.4.4 ⚠️ | 5y 3mo ago | src-range-guess |
 | [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 39.2.6 ⚠️ | 5mo ago | src-package-lock |
 | [Erin](https://erin-website.onrender.com/) [[repo]](https://github.com/losbiw/erin) | 33.2.1 ⚠️ | 1y 5mo ago | src-yarn-lock |
-| [Etcher](https://etcher.balena.io/) [[repo]](https://github.com/resin-io/etcher) | 37.2.4 ⚠️ | 9mo ago |  |
+| [Etcher](https://etcher.balena.io/) [[repo]](https://github.com/resin-io/etcher) | 37.2.4 ⚠️ | 10mo ago |  |
 | [Excel Parser Processor](https://github.com/btargac/excel-parser-processor) [[repo]](https://github.com/btargac/excel-parser-processor) | 17.0.0 ⚠️ | 4y 4mo ago | src-package-lock |
 | [ExifCleaner](https://exifcleaner.com) [[repo]](https://github.com/szTheory/exifcleaner) | 11.4.4 ⚠️ | 5y 1mo ago | src-yarn-lock |
 | [ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator) [[repo]](https://github.com/ExpressLRS/ExpressLRS-Configurator) | 27.3.11 ⚠️ | 2y 1mo ago | src-yarn-lock |
@@ -143,7 +143,7 @@ Apps with detected Electron version: 323 / 905
 | [Mélodie](https://feugy.github.io/melodie) [[repo]](https://github.com/feugy/melodie) | 18.0.0 ⚠️ | 4y 2mo ago | src-package-lock |
 | [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 41.0.3 ⚠️ | 2mo ago | src-package-lock |
 | [NetworkAssembler](https://github.com/kir486680/Network-Assembler) [[repo]](https://github.com/kir486680/Network-Assembler) | 7.2.4 ⚠️ | 6y 1mo ago | src-package-lock |
-| [NeuCalculator](https://github.com/moh3n9595/neu-calculator) [[repo]](https://github.com/moh3n9595/neu-calculator) | 7.1.13 ⚠️ | 6y 3mo ago | src-yarn-lock |
+| [NeuCalculator](https://github.com/moh3n9595/neu-calculator) [[repo]](https://github.com/moh3n9595/neu-calculator) | 7.1.13 ⚠️ | 6y 4mo ago | src-yarn-lock |
 | [Notion](https://www.notion.so/) | 39.8.3 ⚠️ | 2mo ago | aur-depends |
 | [ODrive](https://github.com/liberodark/ODrive) [[repo]](https://github.com/liberodark/ODrive) | 2.0.18 ⚠️ | 7y 3mo ago | src-range-guess |
 | [OhHai Browser](https://ohhaibrowser.com) [[repo]](https://github.com/OhHaiBrowser/Browser/) | 8.2.5 ⚠️ | 6y 1mo ago | src-package-lock |
