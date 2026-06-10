@@ -26,7 +26,7 @@ Apps with detected Electron version: 323 / 905
 | [Calmly Writer](https://www.calmlywriter.com) | 34.5.8 ⚠️ | 1y ago | aur-depends |
 | [Camunda Modeler](https://camunda.com/products/modeler/) [[repo]](https://github.com/camunda/camunda-modeler/) | 39.0.0 ⚠️ | 7mo ago | src-package-lock |
 | [Clipper](https://github.com/AkashRajpurohit/clipper) [[repo]](https://github.com/AkashRajpurohit/clipper) | 8.5.2 ⚠️ | 5y 9mo ago | src-package-lock |
-| [Codex](https://www.codexnotes.com/) [[repo]](https://github.com/jcv8000/Codex) | 32.3.1 ⚠️ | 1y 3mo ago | src-pnpm-lock |
+| [Codex](https://www.codexnotes.com/) [[repo]](https://github.com/jcv8000/Codex) | 32.3.1 ⚠️ | 1y 4mo ago | src-pnpm-lock |
 | [Colorpicker](https://colorpicker.fr) [[repo]](https://github.com/Toinane/colorpicker) | 38.2.0 ⚠️ | 8mo ago | src-package-lock |
 | [Compact Log Viewer](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) [[repo]](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) | 22.0.0 ⚠️ | 3y 6mo ago | src-package-lock |
 | [Companion](https://github.com/brunurd/companion) [[repo]](https://github.com/brunurd/companion) | 11.5.0 ⚠️ | 4y 10mo ago | src-package-lock |
@@ -37,7 +37,7 @@ Apps with detected Electron version: 323 / 905
 | [Data Pixels Playground](https://github.com/gmattie/Data-Pixels) [[repo]](https://github.com/gmattie/Data-Pixels) | 3.0.10 ⚠️ | 7y 7mo ago | src-package-lock |
 | [DbGate](https://dbgate.org) [[repo]](https://github.com/dbgate/dbgate) | 38.6.0 ⚠️ | 7mo ago | src-yarn-lock |
 | [Debugtron](https://github.com/bytedance/debugtron) [[repo]](https://github.com/bytedance/debugtron) | 31.2.0 ⚠️ | 1y 11mo ago | src-yarn-lock |
-| [DeckMaster](https://theotterlord.github.io/deckmaster) [[repo]](https://github.com/TheOtterlord/deckmaster) | 11.2.3 ⚠️ | 5y 4mo ago | src-package-lock |
+| [DeckMaster](https://theotterlord.github.io/deckmaster) [[repo]](https://github.com/TheOtterlord/deckmaster) | 11.2.3 ⚠️ | 5y 5mo ago | src-package-lock |
 | [Deepnest](https://deepnest.io/) | 34.5.5 ⚠️ | 1y 1mo ago | src-package-lock |
 | [Deer](https://github.com/abahmed/Deer) [[repo]](https://github.com/abahmed/Deer) | 4.1.0 ⚠️ | 7y 4mo ago | src-package-lock |
 | [DevHub](https://github.com/devhubapp/devhub) [[repo]](https://github.com/devhubapp/devhub) | 11.0.3 ⚠️ | 5y 7mo ago | src-yarn-lock |
@@ -54,7 +54,7 @@ Apps with detected Electron version: 323 / 905
 | [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 39.2.6 ⚠️ | 6mo ago | src-package-lock |
 | [Erin](https://erin-website.onrender.com/) [[repo]](https://github.com/losbiw/erin) | 33.2.1 ⚠️ | 1y 6mo ago | src-yarn-lock |
 | [Etcher](https://etcher.balena.io/) [[repo]](https://github.com/resin-io/etcher) | 37.2.4 ⚠️ | 10mo ago |  |
-| [Excel Parser Processor](https://github.com/btargac/excel-parser-processor) [[repo]](https://github.com/btargac/excel-parser-processor) | 17.0.0 ⚠️ | 4y 4mo ago | src-package-lock |
+| [Excel Parser Processor](https://github.com/btargac/excel-parser-processor) [[repo]](https://github.com/btargac/excel-parser-processor) | 17.0.0 ⚠️ | 4y 5mo ago | src-package-lock |
 | [ExifCleaner](https://exifcleaner.com) [[repo]](https://github.com/szTheory/exifcleaner) | 11.4.4 ⚠️ | 5y 2mo ago | src-yarn-lock |
 | [ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator) [[repo]](https://github.com/ExpressLRS/ExpressLRS-Configurator) | 27.3.11 ⚠️ | 2y 2mo ago | src-yarn-lock |
 | [F-Curator](https://xizon.github.io/F-Curator-Official-Website/) [[repo]](https://github.com/xizon/F-Curator/tree/main/package) | 16.0.6 ⚠️ | 4y 5mo ago | src-package-lock |
@@ -155,7 +155,7 @@ Apps with detected Electron version: 323 / 905
 | [P3X Redis UI](https://www.corifeus.com/redis-ui) [[repo]](https://github.com/patrikx3/redis-ui) | 41.0.3 ⚠️ | 2mo ago | src-yarn-lock |
 | [PanWriter](https://panwriter.com) [[repo]](https://github.com/mb21/panwriter) | 39.2.7 ⚠️ | 5mo ago | src-package-lock |
 | [PaperArxiv](https://github.com/fuzihaofzh/PaperArxiv) [[repo]](https://github.com/fuzihaofzh/PaperArxiv) | 33.4.11 ⚠️ | 1y 1mo ago | src-package-lock |
-| [PaperCubes](https://github.com/FlorianFe/PaperCubes) [[repo]](https://github.com/FlorianFe/PaperCubes) | 1.7.8 ⚠️ | 8y 9mo ago | src-package-lock |
+| [PaperCubes](https://github.com/FlorianFe/PaperCubes) [[repo]](https://github.com/FlorianFe/PaperCubes) | 1.7.8 ⚠️ | 8y 10mo ago | src-package-lock |
 | [Papyrus](https://github.com/morkro/papyrus) [[repo]](https://github.com/morkro/papyrus) | 10.1.2 ⚠️ | 5y 9mo ago | src-package-lock |
 | [Patchwork](https://www.scuttlebutt.nz/) [[repo]](https://github.com/ssbc/patchwork) | 11.3.0 ⚠️ | 5y 4mo ago | src-package-lock |
 | [Peacock](https://github.com/peacockweb/peacock) [[repo]](https://github.com/peacockweb/peacock) | 9.0.0-beta.13 ⚠️ | 6y 3mo ago | src-package-lock |
@@ -213,7 +213,7 @@ Apps with detected Electron version: 323 / 905
 | [Socially](https://getsocially.app) [[repo]](https://github.com/JackHumphries9/Socially) | 12.0.2 ⚠️ | 5y 3mo ago | src-package-lock |
 | [Soundboard](https://github.com/Glecun/soundboard) [[repo]](https://github.com/Glecun/soundboard) | 11.0.1 ⚠️ | 5y 7mo ago | src-yarn-lock |
 | [Soundnode](https://soundnode.github.io/soundnode-website/) [[repo]](https://github.com/Soundnode/soundnode-app) | 1.8.8 ⚠️ | 7y 10mo ago | src-range-guess |
-| [Source Me](https://github.com/theIYD/source-me) | 1.7.8 ⚠️ | 8y 9mo ago | src-package-lock |
+| [Source Me](https://github.com/theIYD/source-me) | 1.7.8 ⚠️ | 8y 10mo ago | src-package-lock |
 | [SpotSpot](https://github.com/will-stone/SpotSpot) [[repo]](https://github.com/will-stone/SpotSpot) | 8.3.1 ⚠️ | 6y 1mo ago | src-yarn-lock |
 | [Sqlectron](https://sqlectron.github.io) [[repo]](https://github.com/sqlectron/sqlectron-gui) | 24.8.8 ⚠️ | 2y 8mo ago | src-package-lock |
 | [Standard Notes](https://standardnotes.com) [[repo]](https://github.com/standardnotes/desktop) | 17.4.2 ⚠️ | 4y 2mo ago | src-yarn-lock |
@@ -229,13 +229,13 @@ Apps with detected Electron version: 323 / 905
 | [Super Productivity](https://super-productivity.com/) [[repo]](https://github.com/johannesjo/super-productivity) | 37.10.3 ⚠️ | 6mo ago | src-package-lock |
 | [Swifty](https://github.com/alchaplinsky/swifty) [[repo]](https://github.com/alchaplinsky/swifty) | 21.2.0 ⚠️ | 3y 8mo ago | src-yarn-lock |
 | [Switch](https://ahkohd.github.io/switch-desktop) [[repo]](https://github.com/ahkohd/switch-desktop) | 6.0.0 ⚠️ | 6y 11mo ago | src-package-lock |
-| [SwitchHosts](https://swh.app) [[repo]](https://github.com/oldj/SwitchHosts) | 30.1.2 ⚠️ | 1y 11mo ago | src-package-lock |
+| [SwitchHosts](https://swh.app) [[repo]](https://github.com/oldj/SwitchHosts) | 30.1.2 ⚠️ | 2y ago | src-package-lock |
 | [Symphony](https://symphony.com) [[repo]](https://github.com/symphonyoss/SymphonyElectron) | 39.0.0 ⚠️ | 7mo ago | src-package-lock |
 | [T.Viewer](https://github.com/msaltnet/T.Viewer) [[repo]](https://github.com/msaltnet/T.Viewer) | 9.4.0 ⚠️ | 5y 6mo ago | src-package-lock |
 | [Tabby](https://github.com/natixco/tabby) [[repo]](https://github.com/natixco/tabby) | 7.1.7 ⚠️ | 6y 6mo ago |  |
 | [Tabby Terminal](https://tabby.sh) [[repo]](https://github.com/Eugeny/tabby) | 38.2.2 ⚠️ | 8mo ago | src-yarn-lock |
 | [TagSpaces](https://www.tagspaces.org/) [[repo]](https://github.com/tagspaces/tagspaces) | 40.8.3 ⚠️ | 2mo ago | src-package-lock |
-| [Taskana](https://mountainash.github.io/taskana/) [[repo]](https://github.com/mountainash/taskana) | 35.0.2 ⚠️ | 1y 2mo ago | src-package-lock |
+| [Taskana](https://mountainash.github.io/taskana/) [[repo]](https://github.com/mountainash/taskana) | 35.0.2 ⚠️ | 1y 3mo ago | src-package-lock |
 | [Ten Hands](https://tenhands.app) [[repo]](https://github.com/saisandeepvaddi/ten-hands) | 11.2.0 ⚠️ | 5y 5mo ago | src-yarn-lock |
 | [Tess](https://github.com/SquitchYT/Tess/) [[repo]](https://github.com/SquitchYT/Tess/) | 17.4.11 ⚠️ | 3y 10mo ago | src-package-lock |
 | [ThisMyPC](https://github.com/supunlakmal/thismypc) [[repo]](https://github.com/supunlakmal/thismypc) | 3.1.8 ⚠️ | 7y 3mo ago | src-package-lock |
@@ -254,11 +254,11 @@ Apps with detected Electron version: 323 / 905
 | [Tropy](https://tropy.org) [[repo]](https://github.com/tropy/tropy/) | 39.2.7 ⚠️ | 5mo ago | src-package-lock |
 | [Tusk](https://klaudiosinani.com/tusk/) [[repo]](https://github.com/klaudiosinani/tusk) | 4.2.2 ⚠️ | 7y 2mo ago | src-yarn-lock |
 | [Twinkle Tray](https://twinkletray.com/) [[repo]](https://github.com/xanderfrangos/twinkle-tray) | 39.2.7 ⚠️ | 5mo ago | src-package-lock |
-| [Unofficial Desktop Client for Google Assistant](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) [[repo]](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | 10.3.2 ⚠️ | 5y 4mo ago | src-package-lock |
+| [Unofficial Desktop Client for Google Assistant](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) [[repo]](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | 10.3.2 ⚠️ | 5y 5mo ago | src-package-lock |
 | [Unofficial Google Chat App](https://github.com/ankurk91/google-chat-electron) [[repo]](https://github.com/ankurk91/google-chat-electron) | 21.3.1 ⚠️ | 3y 7mo ago | src-pnpm-lock |
 | [Unofficial Zalo](https://github.com/SafeStudio/unofficial-zalo) [[repo]](https://github.com/SafeStudio/unofficial-zalo) | 5.0.13 ⚠️ | 6y 6mo ago | src-range-guess |
 | [Utilso](https://utilso.com) | 15.5.7 ⚠️ | 4y 1mo ago | aur-depends |
-| [Vagrant Manager](https://github.com/absalomedia/vagrant-manager) [[repo]](https://github.com/absalomedia/vagrant-manager) | 5.0.7 ⚠️ | 6y 11mo ago | src-yarn-lock |
+| [Vagrant Manager](https://github.com/absalomedia/vagrant-manager) [[repo]](https://github.com/absalomedia/vagrant-manager) | 5.0.7 ⚠️ | 7y ago | src-yarn-lock |
 | [Visual Family Tree](https://jisco.me/VisualFamilyTree) [[repo]](https://github.com/Jisco/VisualFamilyTree) | 4.2.12 ⚠️ | 6y 8mo ago | aur-depends |
 | [Visual Studio Code](https://code.visualstudio.com) | 39.8.3 ⚠️ | 2mo ago | aur-depends |
 | [Vue Calc](https://github.com/el3um4s/vue-calc) [[repo]](https://github.com/el3um4s/vue-calc) | 1.8.3 ⚠️ | 8y 4mo ago | src-package-lock |
@@ -269,7 +269,7 @@ Apps with detected Electron version: 323 / 905
 | [Webkiosk-Wrapper](https://github.com/ngudbhav/Webkiosk-Wrapper) | 5.0.2 ⚠️ | 7y 1mo ago | src-package-lock |
 | [WeekToDo](https://weektodo.me) | 25.9.8 ⚠️ | 2y 6mo ago | aur-depends |
 | [Weltenschaft](https://github.com/HoubkneghteS/Weltenschaft) [[repo]](https://github.com/HoubkneghteS/Weltenschaft) | 9.4.4 ⚠️ | 5y 4mo ago | src-range-guess |
-| Wexond [[repo]](https://github.com/wexond/wexond) | 11.2.3 ⚠️ | 5y 4mo ago | src-yarn-lock |
+| Wexond [[repo]](https://github.com/wexond/wexond) | 11.2.3 ⚠️ | 5y 5mo ago | src-yarn-lock |
 | [Whale](https://github.com/1000ch/whale) [[repo]](https://github.com/1000ch/whale) | 12.0.0 ⚠️ | 5y 4mo ago | src-package-lock |
 | [Wire](https://wire.com) [[repo]](https://github.com/wireapp) | 38.8.6 ⚠️ | 3mo ago | aur-depends |
 | [WizardMirror](https://github.com/Sanjit1/WizardMirror#wizard-mirror) [[repo]](https://www.github.com/Sanjit1/WizardMirror) | 6.0.0 ⚠️ | 6y 11mo ago | src-package-lock |
@@ -300,13 +300,13 @@ Apps with detected Electron version: 323 / 905
 | [ioui](https://github.com/shivang-pokar/ioui) [[repo]](https://github.com/shivang-pokar/ioui) | 7.1.2 ⚠️ | 6y 7mo ago | src-package-lock |
 | [itch](https://itch.io/app) [[repo]](https://github.com/itchio/itch) | 40.4.1 ⚠️ | 3mo ago | src-package-lock |
 | [lazyType](https://github.com/ngudbhav/lazyType) | 6.1.12 ⚠️ | 6y 1mo ago | src-range-guess |
-| [linked](https://uselinked.com/) [[repo]](https://github.com/lostdesign/linked) | 17.0.0 ⚠️ | 4y 4mo ago | src-yarn-lock |
+| [linked](https://uselinked.com/) [[repo]](https://github.com/lostdesign/linked) | 17.0.0 ⚠️ | 4y 5mo ago | src-yarn-lock |
 | [lsdeer](https://lsdeer.vercel.app/) [[repo]](https://github.com/AlexanderPershin/lsdeer) | 8.2.1 ⚠️ | 6y 3mo ago | src-package-lock |
 | [luna](https://github.com/rvpanoz/luna) [[repo]](https://github.com/rvpanoz/luna) | 8.5.2 ⚠️ | 5y 9mo ago | src-package-lock |
 | [massCode](https://masscode.io) [[repo]](https://github.com/antonreshetov/massCode) | 7.1.6 ⚠️ | 6y 6mo ago | src-yarn-lock |
 | [mdp](https://ericlink.github.io/mdp/) [[repo]](https://github.com/ericlink/mdp) | 5.0.13 ⚠️ | 6y 6mo ago | src-package-lock |
 | [media-dupes](https://github.com/yafp/media-dupes) [[repo]](https://github.com/yafp/media-dupes) | 9.1.2 ⚠️ | 5y 11mo ago | src-package-lock |
-| [mediaChips](https://mediachips.app) [[repo]](https://github.com/fupdec/mediaChips) | 17.0.0 ⚠️ | 4y 4mo ago | src-package-lock |
+| [mediaChips](https://mediachips.app) [[repo]](https://github.com/fupdec/mediaChips) | 17.0.0 ⚠️ | 4y 5mo ago | src-package-lock |
 | [muezzin](https://github.com/DBChoco/Muezzin) [[repo]](https://github.com/DBChoco/Muezzin) | 25.8.4 ⚠️ | 2y 8mo ago | src-package-lock |
 | [music-player](https://aveek-saha.github.io/) [[repo]](https://github.com/Aveek-Saha/MusicPlayer) | 7.3.3 ⚠️ | 5y 10mo ago | src-package-lock |
 | [passky](https://passky.org) [[repo]](https://github.com/Rabbit-Company/Passky-Desktop) | 40.8.0 ⚠️ | 3mo ago | src-yarn-lock |
@@ -319,7 +319,7 @@ Apps with detected Electron version: 323 / 905
 | [sqlui-native](https://synle.github.io/sqlui-native/) [[repo]](https://github.com/synle/sqlui-native) | 28.3.3 ⚠️ | 2y ago | src-package-lock |
 | [stacker](https://enqueuer-land.github.io/stacker) [[repo]](https://github.com/enqueuer-land/stacker) | 6.1.9 ⚠️ | 6y 4mo ago | src-package-lock |
 | stay-hydrated [[repo]](https://github.com/QuentinGruber/stay-hydrated) | 9.0.5 ⚠️ | 6y ago | src-yarn-lock |
-| [texpaste](https://github.com/jonasmusall/texpaste#readme) [[repo]](https://github.com/jonasmusall/texpaste) | 17.0.0 ⚠️ | 4y 4mo ago | src-package-lock |
+| [texpaste](https://github.com/jonasmusall/texpaste#readme) [[repo]](https://github.com/jonasmusall/texpaste) | 17.0.0 ⚠️ | 4y 5mo ago | src-package-lock |
 | [todometer](https://cassidoo.github.io/todometer/) [[repo]](https://github.com/cassidoo/todometer/) | 7.3.3 ⚠️ | 5y 10mo ago | src-range-guess |
 | [ttth](https://github.com/yafp/ttth) [[repo]](https://github.com/yafp/ttth) | 7.1.6 ⚠️ | 6y 6mo ago | src-package-lock |
 | [ueli](https://ueli.app) [[repo]](https://github.com/oliverschwendener/ueli) | 40.6.0 ⚠️ | 3mo ago | src-package-lock |
