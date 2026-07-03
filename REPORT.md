@@ -4,7 +4,7 @@ Apps with detected Electron version: 323 / 905
 
 | App | Electron | Age | Method |
 | --- | -------- | --- | ------ |
-| [Advanced REST Client](https://install.advancedrestclient.com) [[repo]](https://github.com/advanced-rest-client/arc-electron) | 17.1.0 ⚠️ | 4y 4mo ago | src-package-lock |
+| [Advanced REST Client](https://install.advancedrestclient.com) [[repo]](https://github.com/advanced-rest-client/arc-electron) | 17.1.0 ⚠️ | 4y 5mo ago | src-package-lock |
 | [Aeon](https://aeon.technology) [[repo]](https://github.com/leinelissen/aeon) | 23.3.13 ⚠️ | 2y 11mo ago | aur-depends |
 | [Agora Flat](https://flat.whiteboard.agora.io/) [[repo]](https://github.com/netless-io/flat) | 12.0.15 ⚠️ | 5y ago | src-pnpm-lock |
 | [Altair GraphQL Client](https://altair.sirmuel.design/) [[repo]](https://github.com/imolorhe/altair) | 38.3.0 ⚠️ | 8mo ago | src-pnpm-lock |
@@ -246,7 +246,7 @@ Apps with detected Electron version: 323 / 905
 | [Time Series Admin](https://timeseriesadmin.github.io) [[repo]](https://github.com/timeseriesadmin/timeseriesadmin) | 8.4.1 ⚠️ | 6y ago | src-package-lock |
 | [Timetable](https://github.com/KDani-99/school_timetable) [[repo]](https://github.com/KDani-99/school_timetable) | 2.0.7 ⚠️ | 8y ago | src-package-lock |
 | [To Do](https://to-do-tasks-lists.web.app) [[repo]](https://github.com/luapp/ToDo) | 11.1.1 ⚠️ | 5y 7mo ago | src-package-lock |
-| [Tockler](https://tockler.trimatech.dev/) [[repo]](https://github.com/MayGo/tockler) | 16.2.8 ⚠️ | 4y 1mo ago | src-package-lock |
+| [Tockler](https://tockler.trimatech.dev/) [[repo]](https://github.com/MayGo/tockler) | 16.2.8 ⚠️ | 4y 2mo ago | src-package-lock |
 | [Transee](https://alessioforte.github.io/transee/) [[repo]](https://github.com/alessioforte/transee) | 18.2.0 ⚠️ | 4y 2mo ago | src-package-lock |
 | [Trello](https://trello.com) | 17.4.11 ⚠️ | 3y 11mo ago | aur-depends |
 | [TriCo](https://github.com/ngudbhav/TriCo-electron-app) | 22.0.3 ⚠️ | 3y 6mo ago | src-yarn-lock |
@@ -257,7 +257,7 @@ Apps with detected Electron version: 323 / 905
 | [Unofficial Desktop Client for Google Assistant](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) [[repo]](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | 10.3.2 ⚠️ | 5y 5mo ago | src-package-lock |
 | [Unofficial Google Chat App](https://github.com/ankurk91/google-chat-electron) [[repo]](https://github.com/ankurk91/google-chat-electron) | 21.3.1 ⚠️ | 3y 7mo ago | src-pnpm-lock |
 | [Unofficial Zalo](https://github.com/SafeStudio/unofficial-zalo) [[repo]](https://github.com/SafeStudio/unofficial-zalo) | 5.0.13 ⚠️ | 6y 7mo ago | src-range-guess |
-| [Utilso](https://utilso.com) | 15.5.7 ⚠️ | 4y 1mo ago | aur-depends |
+| [Utilso](https://utilso.com) | 15.5.7 ⚠️ | 4y 2mo ago | aur-depends |
 | [Vagrant Manager](https://github.com/absalomedia/vagrant-manager) [[repo]](https://github.com/absalomedia/vagrant-manager) | 5.0.7 ⚠️ | 7y ago | src-yarn-lock |
 | [Visual Family Tree](https://jisco.me/VisualFamilyTree) [[repo]](https://github.com/Jisco/VisualFamilyTree) | 4.2.12 ⚠️ | 6y 9mo ago | aur-depends |
 | [Visual Studio Code](https://code.visualstudio.com) | 39.8.3 ⚠️ | 3mo ago | aur-depends |
