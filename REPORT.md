@@ -29,7 +29,7 @@ Apps with detected Electron version: 323 / 905
 | [Codex](https://www.codexnotes.com/) [[repo]](https://github.com/jcv8000/Codex) | 32.3.1 ⚠️ | 1y 4mo ago | src-pnpm-lock |
 | [Colorpicker](https://colorpicker.fr) [[repo]](https://github.com/Toinane/colorpicker) | 38.2.0 ⚠️ | 9mo ago | src-package-lock |
 | [Compact Log Viewer](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) [[repo]](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) | 22.0.0 ⚠️ | 3y 7mo ago | src-package-lock |
-| [Companion](https://github.com/brunurd/companion) [[repo]](https://github.com/brunurd/companion) | 11.5.0 ⚠️ | 4y 10mo ago | src-package-lock |
+| [Companion](https://github.com/brunurd/companion) [[repo]](https://github.com/brunurd/companion) | 11.5.0 ⚠️ | 4y 11mo ago | src-package-lock |
 | [Container PS](https://github.com/Toinane/container-ps) [[repo]](https://github.com/Toinane/container-ps) | 12.0.1 ⚠️ | 5y 4mo ago | src-package-lock |
 | [Cozy Desktop](https://cozy.io/) [[repo]](https://github.com/cozy-labs/cozy-desktop) | 31.7.3 ⚠️ | 1y 8mo ago | src-yarn-lock |
 | [CryptoARM GOST](https://cryptoarm.ru/cryptoarm-gost/) [[repo]](https://github.com/TrustedRu/CryptoARMGOST) | 7.1.13 ⚠️ | 6y 5mo ago | src-package-lock |
@@ -71,14 +71,14 @@ Apps with detected Electron version: 323 / 905
 | [Geniemoji](https://virejdasani.github.io/Geniemoji/) [[repo]](https://github.com/virejdasani/Geniemoji) | 12.0.15 ⚠️ | 5y ago | src-package-lock |
 | [Geppetto](https://geppetto.js.org/) [[repo]](https://github.com/matthijsgroen/geppetto) | 16.0.0 ⚠️ | 4y 8mo ago | src-yarn-lock |
 | [Git-it](https://github.com/Git-it-App/git-it-electron) [[repo]](https://github.com/Git-it-App/git-it-electron) | 36.4.0 ⚠️ | 1y 1mo ago | src-package-lock |
-| [GitHoard](https://github.com/beepboopbangbang/githoard) [[repo]](https://github.com/beepboopbangbang/githoard) | 8.4.0 ⚠️ | 6y ago | src-package-lock |
+| [GitHoard](https://github.com/beepboopbangbang/githoard) [[repo]](https://github.com/beepboopbangbang/githoard) | 8.4.0 ⚠️ | 6y 1mo ago | src-package-lock |
 | [GitHub Desktop](https://desktop.github.com) [[repo]](https://github.com/desktop/desktop) | 40.1.0 ⚠️ | 5mo ago | src-yarn-lock |
 | [Gitify](https://www.gitify.io/) [[repo]](https://github.com/manosim/gitify) | 23.3.13 ⚠️ | 2y 11mo ago | src-pnpm-lock |
 | [Glyphr Studio](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) [[repo]](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) | 28.2.1 ⚠️ | 2y 5mo ago | src-package-lock |
 | [GraphQL Playground](https://github.com/graphql/graphql-playground) [[repo]](https://github.com/graphql/graphql-playground) | 2.0.11 ⚠️ | 7y 10mo ago | src-yarn-lock |
 | [HTTP Toolkit](https://httptoolkit.tech) [[repo]](https://github.com/httptoolkit) | 39.2.7 ⚠️ | 6mo ago | src-package-lock |
 | [HashTag](https://github.com/MrAnyx/HashTag) [[repo]](https://github.com/MrAnyx/HashTag) | 7.2.4 ⚠️ | 6y 3mo ago | src-package-lock |
-| [Headset](https://headsetapp.co/) | 14.2.9 ⚠️ | 4y 3mo ago | aur-depends |
+| [Headset](https://headsetapp.co/) | 14.2.9 ⚠️ | 4y 4mo ago | aur-depends |
 | [Helios Launcher](https://github.com/dscalzi/HeliosLauncher) [[repo]](https://github.com/dscalzi/HeliosLauncher) | 29.1.0 ⚠️ | 2y 4mo ago | src-package-lock |
 | [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) [[repo]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | 23.3.13 ⚠️ | 2y 11mo ago | src-pnpm-lock |
 | Horen [[repo]](https://github.com/kevinjobs/Horen) | 28.3.3 ⚠️ | 2y 1mo ago | aur-depends |
@@ -110,7 +110,7 @@ Apps with detected Electron version: 323 / 905
 | [Kube Forwarder](https://kube-forwarder.pixelpoint.io/) [[repo]](https://github.com/pixel-point/kube-forwarder) | 5.0.6 ⚠️ | 7y 1mo ago | src-package-lock |
 | [LBRY Desktop](https://lbry.com) [[repo]](https://github.com/lbryio/lbry-desktop) | 17.2.0 ⚠️ | 4y 4mo ago | src-yarn-lock |
 | [LaraDumps](https://laradumps.dev) [[repo]](https://github.com/laradumps/app) | 38.1.0 ⚠️ | 9mo ago |  |
-| [Laravel Kit](https://tmdh.github.io/laravel-kit) [[repo]](https://github.com/tmdh/laravel-kit) | 33.0.0 ⚠️ | 1y 8mo ago | src-yarn-lock |
+| [Laravel Kit](https://tmdh.github.io/laravel-kit) [[repo]](https://github.com/tmdh/laravel-kit) | 33.0.0 ⚠️ | 1y 9mo ago | src-yarn-lock |
 | [Last Hit](https://last-hit.com) [[repo]](https://github.com/last-hit-aab/last-hit) | 7.1.1 ⚠️ | 6y 9mo ago | src-yarn-lock |
 | [Lax](https://github.com/brandly/Lax) | 8.2.4 ⚠️ | 6y 3mo ago | src-package-lock |
 | [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 41.0.2 ⚠️ | 3mo ago | src-package-lock |
@@ -140,7 +140,7 @@ Apps with detected Electron version: 323 / 905
 | [MoviePrint](https://www.movieprint.org/) [[repo]](https://github.com/fakob/MoviePrint_v004) | 7.1.11 ⚠️ | 6y 6mo ago | src-yarn-lock |
 | Multiple File Manager [[repo]](https://github.com/dhanyn10/multiple-file-manager) | 30.5.1 ⚠️ | 1y 10mo ago | src-package-lock |
 | Multrin [[repo]](https://github.com/sentialx/multrin) | 8.2.2 ⚠️ | 6y 3mo ago | src-yarn-lock |
-| [Mélodie](https://feugy.github.io/melodie) [[repo]](https://github.com/feugy/melodie) | 18.0.0 ⚠️ | 4y 3mo ago | src-package-lock |
+| [Mélodie](https://feugy.github.io/melodie) [[repo]](https://github.com/feugy/melodie) | 18.0.0 ⚠️ | 4y 4mo ago | src-package-lock |
 | [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 41.0.3 ⚠️ | 3mo ago | src-package-lock |
 | [NetworkAssembler](https://github.com/kir486680/Network-Assembler) [[repo]](https://github.com/kir486680/Network-Assembler) | 7.2.4 ⚠️ | 6y 3mo ago | src-package-lock |
 | [NeuCalculator](https://github.com/moh3n9595/neu-calculator) [[repo]](https://github.com/moh3n9595/neu-calculator) | 7.1.13 ⚠️ | 6y 5mo ago | src-yarn-lock |
@@ -148,7 +148,7 @@ Apps with detected Electron version: 323 / 905
 | [ODrive](https://github.com/liberodark/ODrive) [[repo]](https://github.com/liberodark/ODrive) | 2.0.18 ⚠️ | 7y 5mo ago | src-range-guess |
 | [OhHai Browser](https://ohhaibrowser.com) [[repo]](https://github.com/OhHaiBrowser/Browser/) | 8.2.5 ⚠️ | 6y 3mo ago | src-package-lock |
 | [One Copy](https://github.com/HiroshiFuu/onecopy-electron) | 12.2.3 ⚠️ | 4y 8mo ago | src-range-guess |
-| [Open Log Viewer](https://github.com/tmoreno/open-log-viewer) [[repo]](https://github.com/tmoreno/open-log-viewer) | 8.1.1 ⚠️ | 6y 4mo ago | src-package-lock |
+| [Open Log Viewer](https://github.com/tmoreno/open-log-viewer) [[repo]](https://github.com/tmoreno/open-log-viewer) | 8.1.1 ⚠️ | 6y 5mo ago | src-package-lock |
 | [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 37.8.0 ⚠️ | 8mo ago | src-package-lock |
 | [Oversetter](https://4gray.github.io/oversetter/) [[repo]](https://github.com/4gray/oversetter) | 7.2.4 ⚠️ | 6y 3mo ago | src-package-lock |
 | [P3X OneNote](https://www.corifeus.com/onenote) [[repo]](https://github.com/patrikx3/onenote) | 41.0.2 ⚠️ | 3mo ago | src-yarn-lock |
@@ -193,7 +193,7 @@ Apps with detected Electron version: 323 / 905
 | [Remaining Time](https://github.com/funkyremi/macos-battery-remaining-menubar) | 5.0.8 ⚠️ | 7y ago | src-yarn-lock |
 | [RenderTune](https://www.martinbarker.me/rendertune) [[repo]](https://github.com/MartinBarker/RenderTune) | 33.2.1 ⚠️ | 1y 7mo ago | src-yarn-lock |
 | [Responsively App](https://responsively.app) [[repo]](https://github.com/responsively-org/responsively-app) | 27.0.4 ⚠️ | 2y 8mo ago | src-package-lock |
-| [Responsivize](https://virejdasani.github.io/Responsivize/) [[repo]](https://github.com/virejdasani/Responsivize) | 12.1.0 ⚠️ | 4y 10mo ago | src-package-lock |
+| [Responsivize](https://virejdasani.github.io/Responsivize/) [[repo]](https://github.com/virejdasani/Responsivize) | 12.1.0 ⚠️ | 4y 11mo ago | src-package-lock |
 | [Ride Receipts](https://www.ridereceipts.io) [[repo]](https://github.com/ridereceipts/ridereceipts) | 4.0.5 ⚠️ | 7y 5mo ago | src-yarn-lock |
 | [Riot](https://element.io/) [[repo]](https://github.com/vector-im/element-desktop) | 40.6.1 ⚠️ | 4mo ago | src-pnpm-lock |
 | [RunJS](https://runjs.app) | 37.10.3 ⚠️ | 7mo ago | aur-depends |
@@ -247,7 +247,7 @@ Apps with detected Electron version: 323 / 905
 | [Timetable](https://github.com/KDani-99/school_timetable) [[repo]](https://github.com/KDani-99/school_timetable) | 2.0.7 ⚠️ | 8y ago | src-package-lock |
 | [To Do](https://to-do-tasks-lists.web.app) [[repo]](https://github.com/luapp/ToDo) | 11.1.1 ⚠️ | 5y 7mo ago | src-package-lock |
 | [Tockler](https://tockler.trimatech.dev/) [[repo]](https://github.com/MayGo/tockler) | 16.2.8 ⚠️ | 4y 2mo ago | src-package-lock |
-| [Transee](https://alessioforte.github.io/transee/) [[repo]](https://github.com/alessioforte/transee) | 18.2.0 ⚠️ | 4y 2mo ago | src-package-lock |
+| [Transee](https://alessioforte.github.io/transee/) [[repo]](https://github.com/alessioforte/transee) | 18.2.0 ⚠️ | 4y 3mo ago | src-package-lock |
 | [Trello](https://trello.com) | 17.4.11 ⚠️ | 3y 11mo ago | aur-depends |
 | [TriCo](https://github.com/ngudbhav/TriCo-electron-app) | 22.0.3 ⚠️ | 3y 6mo ago | src-yarn-lock |
 | [Trilium Notes](https://github.com/zadam/trilium) [[repo]](https://github.com/zadam/trilium) | 40.6.1 ⚠️ | 4mo ago | src-pnpm-lock |
