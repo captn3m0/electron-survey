@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: universal
+aur:
+- element-desktop-nightly-bin
+homebrew: element
+downloads:
+- url: https://packages.element.io/desktop/update/macos/Element-1.12.23-universal-mac.zip
+  name: Element-1.12.23-universal-mac.zip
+  version: 1.12.23
+electron: 42.4.1
+method: which-electron-rg

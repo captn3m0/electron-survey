@@ -23,3 +23,13 @@ packages:
   format: appimage
   os: linux
   arch: arm64
+aur:
+- stretchly
+- stretchly-git
+electron: 39.8.10
+method: aur-depends
+homebrew: stretchly
+downloads:
+- url: https://github.com/hovancik/stretchly/releases/download/v1.22.0/stretchly-1.22.0-arm64.dmg
+  name: stretchly-1.22.0-arm64.dmg
+  version: 1.22.0

@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: ovice
+downloads:
+- url: https://assets.ovice.io/desktop-apps/staging/darwin/arm64/ovice-darwin-arm64-1.18.8.zip
+  name: ovice-darwin-arm64-1.18.8.zip
+  version: 1.18.8
+electron: 37.6.0
+method: which-electron-rg

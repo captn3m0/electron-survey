@@ -6,3 +6,10 @@ packages:
 - url: https://github.com/web-pal/chronos-timetracker/releases/download/v6.3.2/Chronos-6.3.2-mac.zip
   format: zip
   os: macos
+homebrew: chronos
+downloads:
+- url: https://github.com/web-pal/chronos-timetracker/releases/download/v6.3.2/Chronos-6.3.2-mac.zip
+  name: Chronos-6.3.2-mac.zip
+  version: 6.3.2
+electron: 27.0.0
+method: which-electron-rg

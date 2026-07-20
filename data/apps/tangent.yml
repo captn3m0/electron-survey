@@ -2,3 +2,8 @@ id: tangent
 name: Tangent Notes
 website: https://www.tangentnotes.com/Download
 packages: []
+aur:
+- tangent-bin
+- tangent-dev-bin
+electron: 42.7.0
+method: aur-depends

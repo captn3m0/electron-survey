@@ -18,3 +18,15 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- typora
+- typora-electron
+- typora-free
+- typora-free-bin
+- typora-free-with-plugin
+- typora-plugin
+homebrew: typora
+downloads:
+- url: https://downloads.typora.io/mac/Typora-1.13.8.dmg
+  name: Typora-1.13.8.dmg
+  version: 1.13.8

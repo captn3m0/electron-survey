@@ -20,3 +20,13 @@ packages:
 - url: https://github.com/MuhammedKalkan/OpenLens/releases/latest/download/OpenLens-6.5.2-366.x86_64.AppImage
   format: appimage
   os: linux
+aur:
+- lens-bin
+- openlens-bin
+homebrew: lens
+downloads:
+- url: https://api.k8slens.dev/binaries/Lens-2026.6.260931-latest-arm64.dmg
+  name: Lens-2026.6.260931-latest-arm64.dmg
+  version: 2026.6.260931
+electron: 22.3.3
+method: which-electron-rg

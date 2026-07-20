@@ -9,3 +9,10 @@ packages:
 - url: https://desktop.miro.com/platforms/darwin/Miro.dmg
   format: dmg
   os: macos
+aur:
+- miro
+homebrew: miro
+downloads:
+- url: https://desktop.miro.com/platforms/darwin-arm64/Install-Miro.dmg
+  name: Install-Miro.dmg
+  version: 0.11.160

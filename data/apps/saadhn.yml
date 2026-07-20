@@ -11,3 +11,5 @@ downloads:
 - name: Saadhn-win32-x64.zip
   url: https://github.com/arkokoley/saadhn/releases/download/v0.3/Saadhn-win32-x64.zip
 name: Saadhn
+electron: 0.37.3
+method: which-electron-version_file

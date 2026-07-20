@@ -15,3 +15,12 @@ packages:
   format: zip
   os: linux
   arch: x64
+aur:
+- oss-browser
+homebrew: oss-browser
+downloads:
+- url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-darwin-x64.zip
+  name: oss-browser-darwin-x64.zip
+  version: 1.18.0
+electron: 1.8.4
+method: which-electron-version_file

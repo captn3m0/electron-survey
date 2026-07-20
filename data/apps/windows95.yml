@@ -19,3 +19,8 @@ packages:
   format: deb
   os: linux
   arch: x64
+homebrew: windows95
+downloads:
+- url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-darwin-arm64-5.0.1.zip
+  name: windows95-darwin-arm64-5.0.1.zip
+  version: 5.0.1

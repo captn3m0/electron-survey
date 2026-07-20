@@ -15,3 +15,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- gridea-bin
+electron: 7.3.3
+method: aur-depends
+homebrew: gridea
+downloads:
+- url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.dmg
+  name: Gridea-0.9.3.dmg
+  version: 0.9.3

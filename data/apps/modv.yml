@@ -11,3 +11,7 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- modv-bin
+electron: 25.9.8
+method: aur-depends

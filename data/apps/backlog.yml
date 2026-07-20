@@ -7,3 +7,10 @@ packages:
   format: zip
   os: macos
   arch: x64
+homebrew: backlog
+downloads:
+- url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
+  name: Backlog-darwin-x64.zip
+  version: 1.8.0
+electron: 2.0.6
+method: which-electron-version_file

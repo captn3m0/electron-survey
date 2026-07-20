@@ -19,3 +19,9 @@ packages:
   format: deb
   os: linux
   arch: x64
+homebrew: pomotroid
+downloads:
+- url: https://github.com/Splode/pomotroid/releases/download/v1.7.1/Pomotroid_1.7.1_universal.dmg
+  name: Pomotroid_1.7.1_universal.dmg
+  version: 1.7.1
+we_tried: urls:3248c7e1258b

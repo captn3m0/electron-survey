@@ -6,3 +6,10 @@ packages:
 - url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
   format: zip
   os: macos
+aur:
+- vysor-bin
+homebrew: vysor
+downloads:
+- url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
+  name: Vysor-mac-5.0.7.zip
+  version: 5.0.7

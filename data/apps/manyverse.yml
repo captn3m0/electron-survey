@@ -9,3 +9,5 @@ downloads:
   name: Manyverse-0.2310.9-beta.dmg
   version: 0.2310.9-beta
 name: Manyverse
+electron: 18.3.7
+method: which-electron-rg

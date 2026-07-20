@@ -8,3 +8,5 @@ downloads:
   name: FontBase-2026.2.5.dmg
   version: 2026.2.5
 name: FontBase
+electron: 39.6.1
+method: which-electron-rg

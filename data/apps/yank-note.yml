@@ -23,3 +23,7 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- yank-note
+electron: 41.10.2
+method: aur-depends

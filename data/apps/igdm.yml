@@ -15,3 +15,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- igdm
+homebrew: igdm
+downloads:
+- url: https://github.com/ifedapoolarewaju/igdm/releases/download/v3.0.4/IGdm-3.0.4.dmg
+  name: IGdm-3.0.4.dmg
+  version: 3.0.4
+electron: 10.4.2
+method: which-electron-rg

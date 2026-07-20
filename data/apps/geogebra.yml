@@ -5,3 +5,14 @@ packages:
 - url: https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
   format: zip
   os: macos
+aur:
+- geogebra-6-bin
+- geogebra-6-electron
+- geogebra-html
+homebrew: geogebra
+downloads:
+- url: https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
+  name: GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
+  version: 6.0.920.0
+electron: 38.2.0
+method: which-electron-rg

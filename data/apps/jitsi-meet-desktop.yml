@@ -19,3 +19,5 @@ packages:
   format: deb
   os: linux
   arch: x64
+electron: 41.1.0
+method: which-electron-rg

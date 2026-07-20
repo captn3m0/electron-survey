@@ -7,3 +7,10 @@ packages:
   format: zip
   os: macos
   arch: universal
+homebrew: archiver-app
+downloads:
+- url: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.10/Archiver-5.0.10-universal-mac.zip
+  name: Archiver-5.0.10-universal-mac.zip
+  version: 5.0.10
+electron: 38.4.0
+method: which-electron-rg

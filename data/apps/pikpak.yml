@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: pikpak
+downloads:
+- url: https://static.mypikpak.com/mac/PikPak-v2.2.1.2340-arm64.zip
+  name: PikPak-v2.2.1.2340-arm64.zip
+  version: 2.2.1.2340
+electron: 42.4.0
+method: which-electron-rg

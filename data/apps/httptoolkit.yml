@@ -31,3 +31,9 @@ packages:
   format: deb
   os: linux
   arch: arm64
+aur:
+- httptoolkit
+- httptoolkit-bin
+- httptoolkit-git
+electron: 39.8.10
+method: aur-depends

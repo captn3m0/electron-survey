@@ -9,3 +9,5 @@ downloads:
   name: Buckets-arm64-0.80.0.dmg
   version: 0.80.0
 name: Buckets
+electron: 26.6.7
+method: which-electron-rg

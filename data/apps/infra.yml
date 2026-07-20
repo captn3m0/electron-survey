@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: universal
+aur:
+- infra-appimage
+homebrew: infra
+downloads:
+- url: https://download.infra.app/darwin/Infra-darwin-universal-0.47.0.zip
+  name: Infra-darwin-universal-0.47.0.zip
+  version: 0.47.0
+electron: 18.0.3
+method: which-electron-rg

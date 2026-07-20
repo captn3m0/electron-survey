@@ -8,3 +8,5 @@ downloads:
   name: sejda-desktop_7.9.3_arm64.dmg
   version: 7.9.3
 name: Sejda PDF Desktop
+electron: 37.3.1
+method: which-electron-rg

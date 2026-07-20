@@ -7,3 +7,12 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- inav-configurator
+homebrew: inav-configurator
+downloads:
+- url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_MacOS_arm64_9.1.1.zip
+  name: INAV-Configurator_MacOS_arm64_9.1.1.zip
+  version: 9.1.1
+electron: 38.7.2
+method: which-electron-rg

@@ -6,3 +6,8 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: qqnews
+downloads:
+- url: https://h5.news.qq.com/qqnews-desk/mac-arm64/qqnews_2.3.70_arm64_signed.zip
+  name: qqnews_2.3.70_arm64_signed.zip
+  version: 2.3.70

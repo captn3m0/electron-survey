@@ -14,3 +14,16 @@ packages:
   format: msix
   os: windows
   arch: arm64
+aur:
+- ai-gate-bin
+- antigravity-manager-git
+- auto-claude-bin
+- blender-mcp-git
+- claude
+- claude-desktop
+- claude-linux-client-bin
+- claude-monitor-git
+- claude-vault
+- claudebar
+electron: 41.3.0
+method: which-electron-rg

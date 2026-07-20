@@ -19,3 +19,7 @@ packages:
   format: appimage
   os: linux
   arch: arm64
+aur:
+- figma-linux
+electron: 30.5.1
+method: which-electron-rg

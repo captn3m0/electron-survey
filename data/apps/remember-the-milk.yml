@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- rememberthemilk
+homebrew: remember-the-milk
+downloads:
+- url: https://www.rememberthemilk.com/download/mac/RememberTheMilk-1.7.1-arm64.zip
+  name: RememberTheMilk-1.7.1-arm64.zip
+  version: 1.7.1
+electron: 39.2.2
+method: which-electron-rg

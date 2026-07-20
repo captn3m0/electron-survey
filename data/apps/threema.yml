@@ -6,3 +6,15 @@ packages:
   format: dmg
   os: macos
   arch: universal
+aur:
+- threema-desktop
+- threema-desktop-beta
+- threema-desktop-bin
+- threema-web
+electron: 37.10.3
+method: aur-depends
+homebrew: threema
+downloads:
+- url: https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg
+  name: Threema-Latest.dmg
+  version: 1.2.50

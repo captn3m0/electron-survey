@@ -31,3 +31,13 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- piclist
+- piclist-bin
+electron: 39.8.10
+method: aur-depends
+homebrew: piclist
+downloads:
+- url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-arm64.dmg
+  name: PicList-3.5.0-arm64.dmg
+  version: 3.5.0

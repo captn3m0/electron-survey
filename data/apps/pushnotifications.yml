@@ -7,3 +7,5 @@ packages:
   format: dmg
   os: macos
   arch: x64
+electron: 6.1.12
+method: which-electron-fingerprint

@@ -6,3 +6,5 @@ downloads:
   name: infinity_1.2.2_darwin_universal.dmg
   version: 1.2.2
 name: Infinity
+electron: 24.3.1
+method: which-electron-rg

@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: universal
+homebrew: kiwi-for-gmail
+downloads:
+- url: https://downloads.kiwiforgmail.com/kiwi/release/consumer/Kiwi%20for%20Gmail-4.6.2-universal-mac.zip
+  name: Kiwi%20for%20Gmail-4.6.2-universal-mac.zip
+  version: 4.6.2
+electron: 37.2.5
+method: which-electron-rg

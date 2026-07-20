@@ -27,3 +27,12 @@ packages:
   format: snap
   os: linux
   arch: x64
+aur:
+- vieb
+electron: 43.1.1
+method: aur-depends
+homebrew: vieb
+downloads:
+- url: https://github.com/Jelmerro/Vieb/releases/download/12.10.0/Vieb-12.10.0-arm64-mac.zip
+  name: Vieb-12.10.0-arm64-mac.zip
+  version: 12.10.0

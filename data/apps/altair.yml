@@ -43,3 +43,9 @@ method: src-pnpm-lock
 aur:
 - altair
 name: Altair GraphQL Client
+packages:
+- url: https://github.com/imolorhe/altair/releases/download/v8.5.0/altair_8.5.0_arm64_mac.zip
+  format: zip
+  os: macos
+  arch: arm64
+homebrew: altair-graphql-client

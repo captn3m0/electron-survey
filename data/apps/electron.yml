@@ -7,3 +7,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: electron
+downloads:
+- url: https://github.com/electron/electron/releases/download/v43.1.1/electron-v43.1.1-darwin-arm64.zip
+  name: electron-v43.1.1-darwin-arm64.zip
+  version: 43.1.1
+electron: 43.1.1
+method: which-electron-rg

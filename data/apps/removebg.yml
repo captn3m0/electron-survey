@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: x64
+homebrew: removebg
+downloads:
+- url: https://storage.googleapis.com/removebg-static/desktop/release/darwin/x64/remove.bg-darwin-x64-2.4.1.zip
+  name: remove.bg-darwin-x64-2.4.1.zip
+  version: 2.4.1
+electron: 29.1.5
+method: which-electron-rg

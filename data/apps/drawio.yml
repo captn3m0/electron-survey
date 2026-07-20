@@ -17,3 +17,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- drawio
+homebrew: drawio
+downloads:
+- url: https://github.com/jgraph/drawio-desktop/releases/download/v30.3.14/draw.io-arm64-30.3.14.dmg
+  name: draw.io-arm64-30.3.14.dmg
+  version: 30.3.14
+electron: 42.7.0
+method: which-electron-rg

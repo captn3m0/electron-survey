@@ -5,3 +5,8 @@ packages:
 - url: https://tableflipapp.com/download
   format: dmg
   os: macos
+homebrew: tableflip
+downloads:
+- url: https://update.christiantietze.de/tableflip/v1/TableFlip-v1.7.0.zip
+  name: TableFlip-v1.7.0.zip
+  version: 1.7.0

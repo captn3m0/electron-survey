@@ -8,3 +8,5 @@ downloads:
   name: PopSQL-1.0.135-arm64.dmg
   version: 1.0.135
 name: PopSQL
+electron: 27.0.2
+method: which-electron-rg

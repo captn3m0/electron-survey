@@ -6,3 +6,8 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: spline
+downloads:
+- url: https://cdn.spline.design/_assets/Spline-0.12.11-arm64.mac.zip
+  name: Spline-0.12.11-arm64.mac.zip
+  version: 0.12.11

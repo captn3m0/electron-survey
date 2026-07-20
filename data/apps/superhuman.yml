@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- superhuman
+homebrew: superhuman
+downloads:
+- url: https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.18-arm64-latest-mac.zip
+  name: Superhuman-1041.0.18-arm64-latest-mac.zip
+  version: 1041.0.18

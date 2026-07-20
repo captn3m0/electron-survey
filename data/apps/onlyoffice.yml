@@ -5,3 +5,12 @@ packages:
 - url: https://download.onlyoffice.com/install/desktop/editors/mac/arm/updates/ONLYOFFICE-arm-9.3.1.zip
   format: zip
   os: macos
+aur:
+- onlyoffice
+- onlyoffice-bin
+homebrew: onlyoffice
+downloads:
+- url: https://download.onlyoffice.com/install/desktop/editors/mac/arm/updates/ONLYOFFICE-arm-9.4.0.zip
+  name: ONLYOFFICE-arm-9.4.0.zip
+  version: 9.4.0
+we_tried: urls:058b584e6590

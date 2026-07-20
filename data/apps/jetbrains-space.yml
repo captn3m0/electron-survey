@@ -5,3 +5,10 @@ packages:
 - url: https://download-cdn.jetbrains.com/space/jetbrains-space-2023.1.7.zip
   format: zip
   os: macos
+homebrew: jetbrains-space
+downloads:
+- url: https://download-cdn.jetbrains.com/space/jetbrains-space-2023.1.7.zip
+  name: jetbrains-space-2023.1.7.zip
+  version: 2023.1.7
+electron: 27.0.1
+method: which-electron-rg

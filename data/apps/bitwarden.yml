@@ -21,3 +21,17 @@ packages:
 - url: https://vault.bitwarden.com/download/?app=desktop&platform=linux&variant=rpm
   format: rpm
   os: linux
+aur:
+- bitwarden-bin
+- bitwarden-cli-bin
+- bitwarden-cli-git
+- bws-bin
+- goldwarden
+- goldwarden-gui
+homebrew: bitwarden
+downloads:
+- url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.6.1/Bitwarden-2026.6.1-universal.dmg
+  name: Bitwarden-2026.6.1-universal.dmg
+  version: 2026.6.1
+electron: 39.8.5
+method: which-electron-rg

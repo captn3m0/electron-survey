@@ -10,3 +10,5 @@ downloads:
 - name: EVETrade-Standalone-linux-x64.tar.gz
   url: https://github.com/awhipp/evetrade/releases/download/1.0b/EVETrade-Standalone-linux-x64.tar.gz
 name: EVE Trade
+electron: 5.1.0
+method: which-electron-version_file

@@ -21,3 +21,5 @@ packages:
   os: macos
   arch: arm64
 name: Nota
+electron: 27.3.11
+method: which-electron-rg

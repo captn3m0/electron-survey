@@ -11,3 +11,15 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- sabaki
+- sabaki-bin
+- sabaki-electron
+- sabaki-git
+electron: 43.1.1
+method: aur-depends
+homebrew: sabaki
+downloads:
+- url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-mac-arm64.dmg
+  name: sabaki-v0.60.0-mac-arm64.dmg
+  version: 0.60.0

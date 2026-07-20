@@ -6,3 +6,5 @@ downloads:
   name: JANDI-arm64.dmg
   version: 1.7.7
 name: JANDI
+electron: 21.4.3
+method: which-electron-rg

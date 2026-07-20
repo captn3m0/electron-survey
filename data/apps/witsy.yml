@@ -2,3 +2,12 @@ id: witsy
 name: Witsy
 website: https://witsyai.com/
 packages: []
+aur:
+- witsy-git
+electron: 38.8.6
+method: aur-depends
+homebrew: witsy
+downloads:
+- url: https://github.com/Kochava-Studios/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-arm64.dmg
+  name: Witsy-3.5.2-darwin-arm64.dmg
+  version: 3.5.2

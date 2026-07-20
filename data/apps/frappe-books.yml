@@ -27,3 +27,12 @@ packages:
   format: deb
   os: linux
   arch: arm64
+aur:
+- frappe-books-bin
+electron: 22.3.27
+method: aur-depends
+homebrew: frappe-books
+downloads:
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-mac-arm64.dmg
+  name: Frappe-Books-v0.36.0-mac-arm64.dmg
+  version: 0.36.0

@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: mockuuups-studio
+downloads:
+- url: https://binaries.mockuuups.com/Mockuuups%20Studio-3.7.0-arm64-mac.zip
+  name: Mockuuups%20Studio-3.7.0-arm64-mac.zip
+  version: 3.7.0
+electron: 13.2.1
+method: which-electron-rg

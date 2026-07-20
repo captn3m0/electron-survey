@@ -19,3 +19,14 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- spacedrive
+- spacedrive-bin
+- spacedrive-clean
+- spacedrive-clean-foss
+- spacedrive-git
+homebrew: spacedrive
+downloads:
+- url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-aarch64.dmg
+  name: Spacedrive-darwin-aarch64.dmg
+  version: 0.4.3

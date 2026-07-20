@@ -9,3 +9,4 @@ downloads:
 aur:
 - echo
 name: echo
+we_tried: '1.0'

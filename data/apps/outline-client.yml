@@ -11,3 +11,13 @@ packages:
   format: exe
   os: windows
   arch: x64
+aur:
+- outline-client-appimage
+- outline-client-appimage-git
+homebrew: outline-manager
+downloads:
+- url: https://s3.amazonaws.com/outline-releases/manager/macos/1.20.0/1/Outline-Manager.dmg
+  name: Outline-Manager.dmg
+  version: 1.20.0,1
+electron: 19.1.9
+method: which-electron-rg

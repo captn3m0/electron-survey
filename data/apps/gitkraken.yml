@@ -18,3 +18,5 @@ packages:
   os: linux
   arch: x64
 name: GitKraken
+electron: 41.3.0
+method: which-electron-rg

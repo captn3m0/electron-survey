@@ -22,3 +22,5 @@ packages:
   format: tar.gz
   os: linux
   arch: x64
+electron: 1.1.1
+method: which-electron-rg

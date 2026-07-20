@@ -5,3 +5,12 @@ packages:
 - url: https://s3-eu-central-1.amazonaws.com/desktop.download.sipgate.com/sipgate-2.36.1.zip
   format: zip
   os: macos
+aur:
+- sipgate
+homebrew: sipgate
+downloads:
+- url: https://s3-eu-central-1.amazonaws.com/desktop.download.sipgate.com/sipgate-2.41.3.zip
+  name: sipgate-2.41.3.zip
+  version: 2.41.3
+electron: 42.3.0
+method: which-electron-rg

@@ -23,3 +23,5 @@ packages:
   format: deb
   os: linux
   arch: arm64
+electron: 24.4.0
+method: which-electron-rg

@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: devkinsta
+downloads:
+- url: https://devkinsta-updates.s3.amazonaws.com/DevKinsta-2.13.6-arm64.zip
+  name: DevKinsta-2.13.6-arm64.zip
+  version: 2.13.6
+electron: 26.6.1
+method: which-electron-rg

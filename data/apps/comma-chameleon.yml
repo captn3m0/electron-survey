@@ -15,3 +15,10 @@ packages:
   format: tar.gz
   os: linux
   arch: x64
+homebrew: comma-chameleon
+downloads:
+- url: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-darwin-x64.zip
+  name: Comma.Chameleon-darwin-x64.zip
+  version: 0.5.2
+electron: 1.0.1
+method: which-electron-version_file

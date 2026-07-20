@@ -14,3 +14,7 @@ packages:
   format: rpm
   os: linux
   arch: x64
+aur:
+- portmaster-bin
+- portmaster-legacy-bin
+we_tried: urls:31b505e989de

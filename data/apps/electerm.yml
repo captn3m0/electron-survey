@@ -23,3 +23,12 @@ packages:
   format: snap
   os: linux
   arch: x64
+aur:
+- electerm
+electron: 41.10.2
+method: aur-depends
+homebrew: electerm
+downloads:
+- url: https://mirror.electerm.org/https://github.com/electerm/electerm/releases/download/v3.15.138/electerm-3.15.138-mac-arm64.dmg
+  name: electerm-3.15.138-mac-arm64.dmg
+  version: 3.15.138

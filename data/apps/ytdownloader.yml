@@ -19,3 +19,5 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- ytdownloader

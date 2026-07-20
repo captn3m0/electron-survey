@@ -31,3 +31,8 @@ packages:
   format: deb
   os: linux
   arch: arm64
+aur:
+- turbowarp-desktop-bin
+- turbowarp-desktop-git
+electron: 42.7.0
+method: aur-depends

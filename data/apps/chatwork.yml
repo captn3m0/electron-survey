@@ -6,3 +6,5 @@ downloads:
   name: ChatWork.dmg
   version: 2.21.0
 name: ChatWork
+electron: 41.1.1
+method: which-electron-rg

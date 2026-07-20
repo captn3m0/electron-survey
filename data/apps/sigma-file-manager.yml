@@ -11,3 +11,6 @@ packages:
   format: exe
   os: windows
   arch: x64
+aur:
+- sigma-file-manager
+we_tried: urls:60deffabb7c2

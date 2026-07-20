@@ -13,3 +13,16 @@ packages:
   format: rpm
   os: linux
   arch: x64
+aur:
+- keybase
+- kbfs
+- keybase-gui
+- keybase-bin
+- keybase-git
+electron: 32.3.3
+method: aur-depends
+homebrew: keybase
+downloads:
+- url: https://prerelease.keybase.io/Keybase-arm64.dmg
+  name: Keybase-arm64.dmg
+  version: 6.6.3,20260603142618,f60f2ff97e

@@ -6,3 +6,10 @@ packages:
 - url: https://github.com/workflowy/desktop/releases/download/v4.3.2604231210/WorkFlowy.zip
   format: zip
   os: macos
+aur:
+- workflowy
+homebrew: workflowy
+downloads:
+- url: https://github.com/workflowy/desktop/releases/download/v4.3.2607170652/WorkFlowy.zip
+  name: WorkFlowy.zip
+  version: 4.3.2607170652

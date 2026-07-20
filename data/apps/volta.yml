@@ -2,3 +2,10 @@ id: volta
 name: Volta
 website: https://volta.net/
 packages: []
+aur:
+- volta
+homebrew: volta-app
+downloads:
+- url: https://volta-build.s3.fr-par.scw.cloud/Volta-1.18.1-arm64.dmg
+  name: Volta-1.18.1-arm64.dmg
+  version: 1.18.1

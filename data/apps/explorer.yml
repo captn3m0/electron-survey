@@ -12,3 +12,5 @@ downloads:
   url: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-win32-x64.zip
 homebrew: explorer
 name: Explorer
+electron: 0.35.6
+method: which-electron-fingerprint

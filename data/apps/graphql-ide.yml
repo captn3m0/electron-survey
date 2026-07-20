@@ -6,3 +6,5 @@ packages:
 - url: https://github.com/andev-software/graphql-ide/releases/download/v1.1.1/GraphQL.IDE.zip
   format: zip
   os: macos
+electron: 1.7.6
+method: which-electron-fingerprint

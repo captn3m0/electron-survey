@@ -6,3 +6,5 @@ downloads:
   name: FreeYourMusic-9.22.1.dmg
   version: 9.22.1
 name: STAMP
+aur:
+- stamp

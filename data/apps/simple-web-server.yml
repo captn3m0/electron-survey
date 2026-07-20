@@ -23,3 +23,13 @@ packages:
   format: deb
   os: linux
   arch: arm64
+aur:
+- simple-web-server
+- simple-web-server-bin
+electron: 38.8.6
+method: aur-depends
+homebrew: simple-web-server
+downloads:
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-arm64.dmg
+  name: Simple-Web-Server-macOS-1.2.17-arm64.dmg
+  version: 1.2.17

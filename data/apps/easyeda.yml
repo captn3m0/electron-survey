@@ -6,3 +6,14 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- easyeda-bin
+- easyeda-pro-bin
+- easyeda-pro-electron
+- easyeda-router
+- easykiconverter
+homebrew: easyeda
+downloads:
+- url: https://image.easyeda.com/files/easyeda-mac-arm64-6.5.51.zip
+  name: easyeda-mac-arm64-6.5.51.zip
+  version: 6.5.51

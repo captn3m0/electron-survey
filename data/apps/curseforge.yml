@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: universal
+aur:
+- curseforge
+homebrew: curseforge
+downloads:
+- url: https://curseforge.overwolf.com/electron/mac/CurseForge-1.312.2-36076-universal-mac.zip
+  name: CurseForge-1.312.2-36076-universal-mac.zip
+  version: 1.312.2-36076
+electron: 39.6.1
+method: which-electron-rg

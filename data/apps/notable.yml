@@ -49,3 +49,5 @@ packages:
   format: deb
   os: linux
 name: Notable
+electron: 7.1.9
+method: which-electron-fingerprint

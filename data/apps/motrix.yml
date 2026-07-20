@@ -16,3 +16,12 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- motrix-git
+electron: 22.3.27
+method: aur-depends
+homebrew: motrix
+downloads:
+- url: https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19-arm64.dmg
+  name: Motrix-1.8.19-arm64.dmg
+  version: 1.8.19

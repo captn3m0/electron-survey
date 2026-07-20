@@ -24,3 +24,5 @@ packages:
   os: linux
   arch: x64
 name: Franz
+electron: 33.3.0
+method: which-electron-rg

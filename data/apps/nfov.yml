@@ -11,3 +11,10 @@ packages:
   format: zip
   os: macos
   arch: x64
+homebrew: nfov
+downloads:
+- url: https://github.com/nrlquaker/nfov/releases/download/v1.3.1/nfov-darwin-x64-1.3.1.zip
+  name: nfov-darwin-x64-1.3.1.zip
+  version: 1.3.1
+electron: 1.8.4
+method: which-electron-fingerprint

@@ -19,3 +19,6 @@ packages:
   format: deb
   os: linux
   arch: arm64
+aur:
+- mihomo-party
+we_tried: urls:d7f6c5306d15

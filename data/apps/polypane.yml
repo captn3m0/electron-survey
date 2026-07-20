@@ -8,3 +8,5 @@ downloads:
   name: Polypane-28.0.3-arm64.dmg
   version: 28.0.3
 name: Polypane
+electron: 41.0.0
+method: which-electron-rg

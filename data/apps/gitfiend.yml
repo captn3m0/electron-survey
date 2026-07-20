@@ -23,3 +23,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- gitfiend
+homebrew: gitfiend
+downloads:
+- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3-arm64.dmg
+  name: GitFiend-0.45.3-arm64.dmg
+  version: 0.45.3
+electron: 29.4.2
+method: which-electron-rg

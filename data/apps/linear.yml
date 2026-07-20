@@ -2,3 +2,16 @@ id: linear
 name: Linear
 website: https://linear.app/download
 packages: []
+aur:
+- linear-bin
+- linear-cli-finesssee
+- linear-cli-finesssee-bin
+- linear-desktop-bin
+- linear-desktop-git
+homebrew: linear
+downloads:
+- url: https://releases.linear.app/Linear-1.31.1-universal.dmg
+  name: Linear-1.31.1-universal.dmg
+  version: 1.31.1
+electron: 41.3.0
+method: which-electron-rg

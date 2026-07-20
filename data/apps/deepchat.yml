@@ -19,3 +19,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- deepchat
+homebrew: deepchat
+downloads:
+- url: https://github.com/ThinkInAIXYZ/deepchat/releases/download/v0.5.7/DeepChat-0.5.7-mac-arm64.dmg
+  name: DeepChat-0.5.7-mac-arm64.dmg
+  version: 0.5.7
+electron: 37.10.3
+method: which-electron-rg

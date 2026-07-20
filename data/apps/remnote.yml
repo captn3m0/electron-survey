@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- remnote
+homebrew: remnote
+downloads:
+- url: https://download2.remnote.io/remnote-desktop2/RemNote-1.26.32-arm64-mac.zip
+  name: RemNote-1.26.32-arm64-mac.zip
+  version: 1.26.32
+electron: 36.9.3
+method: which-electron-rg

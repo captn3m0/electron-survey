@@ -9,3 +9,5 @@ downloads:
   name: CatLightSetup-3.9.1.dmg
   version: 3.9.1
 name: CatLight
+electron: 19.0.8
+method: which-electron-rg

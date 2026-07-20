@@ -27,3 +27,12 @@ packages:
   format: appimage
   os: linux
   arch: arm64
+aur:
+- altair-bin
+electron: 33.4.11
+method: aur-depends
+homebrew: altair-graphql-client
+downloads:
+- url: https://github.com/imolorhe/altair/releases/download/v8.5.7/altair_8.5.7_arm64_mac.zip
+  name: altair_8.5.7_arm64_mac.zip
+  version: 8.5.7

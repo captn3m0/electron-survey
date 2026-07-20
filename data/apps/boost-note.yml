@@ -19,3 +19,13 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- boost-note-local-bin
+- boostnote-bin
+homebrew: boost-note
+downloads:
+- url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-mac.dmg
+  name: boost-note-mac.dmg
+  version: 0.23.1
+electron: 12.2.3
+method: which-electron-fingerprint

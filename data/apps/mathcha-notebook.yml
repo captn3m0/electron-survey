@@ -5,3 +5,10 @@ packages:
 - url: https://notebook-downloads.mathcha.io/public/Mathcha%20Notebook-1.0.450-mac.zip
   format: zip
   os: macos
+homebrew: mathcha-notebook
+downloads:
+- url: https://notebook-downloads.mathcha.io/public/Mathcha%20Notebook-1.0.461-arm64-mac.zip
+  name: Mathcha%20Notebook-1.0.461-arm64-mac.zip
+  version: 1.0.461
+electron: 41.3.0
+method: which-electron-rg

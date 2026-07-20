@@ -31,3 +31,12 @@ packages:
   format: snap
   os: linux
   arch: x64
+aur:
+- electronmail
+electron: 42.7.0
+method: aur-depends
+homebrew: electronmail
+downloads:
+- url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.8/electron-mail-5.3.8-mac-arm64.dmg
+  name: electron-mail-5.3.8-mac-arm64.dmg
+  version: 5.3.8

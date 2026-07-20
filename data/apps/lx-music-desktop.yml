@@ -27,3 +27,5 @@ packages:
   format: deb
   os: linux
   arch: x64
+electron: 37.6.1
+method: which-electron-rg

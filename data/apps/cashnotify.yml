@@ -6,3 +6,5 @@ downloads:
   name: CashNotify-3.7.0.dmg
   version: 3.7.0
 name: CashNotify
+electron: 14.2.9
+method: which-electron-rg

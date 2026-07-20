@@ -19,3 +19,10 @@ packages:
   format: appimage
   os: linux
   arch: x64
+homebrew: aya
+downloads:
+- url: https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-mac-arm64.dmg
+  name: AYA-1.14.2-mac-arm64.dmg
+  version: 1.14.2
+electron: 30.5.1
+method: which-electron-rg

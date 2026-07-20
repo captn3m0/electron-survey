@@ -15,3 +15,10 @@ packages:
   format: zip
   os: windows
   arch: x64
+homebrew: kui
+downloads:
+- url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
+  name: Kui-darwin-arm64.tar.bz2
+  version: 13.1.4
+electron: 22.2.1
+method: which-electron-rg

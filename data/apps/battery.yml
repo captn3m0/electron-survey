@@ -7,3 +7,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: battery
+downloads:
+- url: https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip
+  name: battery-1.4.0-mac-arm64.zip
+  version: 1.4.0
+electron: 29.2.0
+method: which-electron-rg

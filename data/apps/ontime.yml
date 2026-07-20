@@ -23,3 +23,10 @@ packages:
   format: appimage
   os: linux
   arch: arm64
+homebrew: ontime
+downloads:
+- url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-macOS-arm64.dmg
+  name: ontime-macOS-arm64.dmg
+  version: 4.10.0
+electron: 38.2.1
+method: which-electron-rg

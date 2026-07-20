@@ -44,3 +44,5 @@ packages:
   os: linux
   arch: x64
 name: Obsidian
+electron: 39.8.3
+method: which-electron-rg

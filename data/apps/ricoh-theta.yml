@@ -5,3 +5,10 @@ packages:
 - url: https://theta360-statics.s3.amazonaws.com/app/viewer/SphericalViewerUpdate/RICOH%20THETA.3.21.0.app.zip
   format: zip
   os: macos
+homebrew: ricoh-theta
+downloads:
+- url: https://theta360-statics.s3.amazonaws.com/app/viewer/SphericalViewerUpdate/RICOH%20THETA.3.21.0.app.zip
+  name: RICOH%20THETA.3.21.0.app.zip
+  version: 3.21.0
+electron: 17.4.11
+method: which-electron-rg

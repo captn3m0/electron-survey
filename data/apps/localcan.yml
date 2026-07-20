@@ -5,3 +5,10 @@ download_urls:
 - https://assets.localcan.com/download/LocalCan-2.7.0-arm64.dmg
 - https://assets.localcan.com/download/LocalCan-2.7.0-x64.dmg
 - https://assets.localcan.com/download/LocalCan-2.7.0%20Setup.exe
+homebrew: localcan
+downloads:
+- url: https://assets.localcan.com/download/LocalCan-2.7.0-arm64.dmg
+  name: LocalCan-2.7.0-arm64.dmg
+  version: 2.7.0
+electron: 38.1.0
+method: which-electron-rg

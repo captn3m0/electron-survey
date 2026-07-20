@@ -19,3 +19,12 @@ packages:
   format: tar.gz
   os: linux
   arch: x64
+aur:
+- headlamp-bin
+homebrew: headlamp
+downloads:
+- url: https://github.com/headlamp-k8s/headlamp/releases/download/v0.43.0/Headlamp-0.43.0-mac-arm64.dmg
+  name: Headlamp-0.43.0-mac-arm64.dmg
+  version: 0.43.0
+electron: 38.8.6
+method: which-electron-rg

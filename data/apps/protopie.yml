@@ -6,3 +6,5 @@ downloads:
   name: ProtoPie-9.0.0-universal.dmg
   version: 9.0.0
 name: ProtoPie
+electron: 32.2.1
+method: which-electron-rg

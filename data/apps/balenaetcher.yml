@@ -27,3 +27,10 @@ packages:
   format: rpm
   os: linux
   arch: x64
+homebrew: balenaetcher
+downloads:
+- url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6-arm64.dmg
+  name: balenaEtcher-2.1.6-arm64.dmg
+  version: 2.1.6
+electron: 37.2.4
+method: which-electron-rg

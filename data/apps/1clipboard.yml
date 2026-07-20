@@ -7,3 +7,5 @@ downloads:
   name: 1Clipboard.dmg
   version: 0.1.8
 name: 1Clipboard
+electron: 0.35.6
+method: which-electron-fingerprint

@@ -27,3 +27,12 @@ packages:
   format: zip
   os: linux
   arch: arm64
+aur:
+- bloodhound
+homebrew: bloodhound
+downloads:
+- url: https://github.com/BloodHoundAD/BloodHound/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
+  name: BloodHound-darwin-arm64.zip
+  version: 4.3.1
+electron: 11.5.0
+method: which-electron-rg

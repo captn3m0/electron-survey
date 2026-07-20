@@ -15,3 +15,10 @@ packages:
   format: exe
   os: windows
   arch: x64
+homebrew: amical
+downloads:
+- url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-macos-arm64.dmg
+  name: Amical-macos-arm64.dmg
+  version: 1.11.3
+electron: 38.1.0
+method: which-electron-rg

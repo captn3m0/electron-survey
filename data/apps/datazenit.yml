@@ -13,3 +13,5 @@ downloads:
 latest: v1.1.0
 src: https://github.com/datazenit/datazenit-releases/archive/refs/tags/v1.1.0.zip
 name: Datazenit
+electron: 0.37.8
+method: which-electron-version_file

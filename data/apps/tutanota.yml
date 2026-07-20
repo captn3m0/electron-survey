@@ -11,3 +11,11 @@ packages:
 - url: https://mail.tutanota.com/desktop/tutanota-desktop-linux.AppImage
   format: appimage
   os: linux
+aur:
+- tutanota-desktop
+- tutanota-desktop-bin
+homebrew: tuta-mail
+downloads:
+- url: https://app.tuta.com/desktop/tutanota-desktop-mac.dmg
+  name: tutanota-desktop-mac.dmg
+  version: 355.260710.0

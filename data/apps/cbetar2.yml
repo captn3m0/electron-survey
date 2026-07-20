@@ -33,3 +33,5 @@ downloads:
 aur:
 - cbetar2
 name: CBETA Reader 2 (Unofficial)
+electron: 40.6.1
+method: which-electron-rg

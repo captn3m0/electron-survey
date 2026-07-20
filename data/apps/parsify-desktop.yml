@@ -8,3 +8,5 @@ downloads:
   name: Parsify-2.0.1-mac-arm64.zip
   version: 2.0.1
 name: Parsify Desktop
+electron: 21.4.4
+method: which-electron-rg

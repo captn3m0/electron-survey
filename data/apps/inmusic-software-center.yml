@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: universal
+homebrew: inmusic-software-center
+downloads:
+- url: https://cdn.inmusicbrands.com/Software/SI04/inMusic%20Software%20Center-darwin-universal-1.39.0.zip
+  name: inMusic%20Software%20Center-darwin-universal-1.39.0.zip
+  version: 1.39.0
+electron: 39.8.0
+method: which-electron-rg

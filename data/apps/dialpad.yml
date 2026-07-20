@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: dialpad
+downloads:
+- url: https://download.dialpad.com/osx/arm64/dialpad.pkg
+  name: dialpad.pkg
+  version: 2606.1.2
+electron: 39.2.7
+method: which-electron-rg

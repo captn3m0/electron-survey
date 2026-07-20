@@ -27,3 +27,15 @@ packages:
   format: rpm
   os: linux
   arch: x64
+aur:
+- bruno
+- bruno-bin
+- bruno-electron
+- bruno-git
+electron: 37.10.3
+method: aur-depends
+homebrew: bruno
+downloads:
+- url: https://github.com/usebruno/bruno/releases/download/v3.5.2/bruno_3.5.2_arm64_mac.dmg
+  name: bruno_3.5.2_arm64_mac.dmg
+  version: 3.5.2

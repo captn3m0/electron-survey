@@ -2,3 +2,5 @@ id: koofr
 name: Koofr Desktop
 website: https://koofr.eu/
 packages: []
+aur:
+- koofr-desktop-bin

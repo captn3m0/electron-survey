@@ -19,3 +19,10 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- ubports-installer
+homebrew: ubports-installer
+downloads:
+- url: https://github.com/ubports/ubports-installer/releases/download/0.11.1/ubports-installer_0.11.1_mac_arm64.dmg
+  name: ubports-installer_0.11.1_mac_arm64.dmg
+  version: 0.11.1

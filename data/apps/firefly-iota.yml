@@ -15,3 +15,14 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- firefly-canary-desktop-bin
+- firefly-iota-desktop-bin
+- firefly-shimmer-desktop-bin
+electron: 27.3.11
+method: aur-depends
+homebrew: firefly-iota-desktop
+downloads:
+- url: https://dl.firefly.iota.org/firefly-iota-desktop-2.1.2.dmg
+  name: firefly-iota-desktop-2.1.2.dmg
+  version: 2.1.2

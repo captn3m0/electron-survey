@@ -5,3 +5,13 @@ packages:
 - url: https://download.edrawsoft.com/cbs_down/edraw-max_full5380.zip
   format: zip
   os: macos
+aur:
+- edrawinfo-bin
+- edrawmax-bin
+- edrawmind-bin
+- edrawproject-en
+homebrew: wondershare-edrawmax
+downloads:
+- url: https://download.edrawsoft.com/cbs_down/edraw-max_full5380.zip
+  name: edraw-max_full5380.zip
+  version: 14.5.2

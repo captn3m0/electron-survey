@@ -11,3 +11,5 @@ packages:
   os: macos
   arch: arm64
 name: Iconset
+electron: 18.0.0
+method: which-electron-rg

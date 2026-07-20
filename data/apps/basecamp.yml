@@ -6,3 +6,8 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: basecamp
+downloads:
+- url: https://basecamp.com/desktop/Basecamp-5.1.4-mac.zip
+  name: Basecamp-5.1.4-mac.zip
+  version: 5.1.4

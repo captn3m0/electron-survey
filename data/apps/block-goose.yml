@@ -6,3 +6,9 @@ packages:
 - url: https://github.com/block/goose/releases/download/v1.32.0/Goose.zip
   format: zip
   os: macos
+homebrew: block-goose
+downloads:
+- url: https://github.com/block/goose/releases/download/v1.43.0/Goose.zip
+  name: Goose.zip
+  version: 1.43.0
+we_tried: urls:86d21bd3d9fa

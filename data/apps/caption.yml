@@ -6,3 +6,5 @@ packages:
 - url: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-2.0.1-mac.zip
   format: zip
   os: macos
+electron: 1.7.12
+method: which-electron-fingerprint

@@ -19,3 +19,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- decrediton
+homebrew: decrediton
+downloads:
+- url: https://github.com/decred/decred-binaries/releases/download/v2.1.5/decrediton-darwin-arm64-v2.1.5.dmg
+  name: decrediton-darwin-arm64-v2.1.5.dmg
+  version: 2.1.5
+electron: 26.4.3
+method: which-electron-rg

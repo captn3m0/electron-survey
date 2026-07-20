@@ -39,3 +39,7 @@ packages:
   format: rpm
   os: linux
   arch: x64
+aur:
+- webcord
+electron: 43.1.1
+method: aur-depends

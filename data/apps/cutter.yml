@@ -19,3 +19,13 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- grasscutter-git
+- grasscutter-resources-git
+- rz-cutter-git
+homebrew: cutter
+downloads:
+- url: https://github.com/rizinorg/cutter/releases/download/v2.5.0/Cutter-v2.5.0-macOS-arm64.dmg
+  name: Cutter-v2.5.0-macOS-arm64.dmg
+  version: 2.5.0
+we_tried: urls:b3165e837419

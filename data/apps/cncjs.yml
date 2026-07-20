@@ -15,3 +15,12 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- cncjs
+homebrew: cncjs
+downloads:
+- url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-macos-arm64.dmg
+  name: cncjs-app-1.11.2-macos-arm64.dmg
+  version: 1.11.2
+electron: 22.0.3
+method: which-electron-rg

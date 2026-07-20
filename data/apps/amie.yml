@@ -11,3 +11,10 @@ packages:
   format: zip
   os: macos
   arch: x64
+homebrew: amie
+downloads:
+- url: https://github.com/amieso/electron-releases/releases/download/v260713.0.0/Amie-260713.0.0-arm64-mac.zip
+  name: Amie-260713.0.0-arm64-mac.zip
+  version: 260713.0.0
+electron: 38.7.1
+method: which-electron-rg

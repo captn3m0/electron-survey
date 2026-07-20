@@ -5,9 +5,15 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:
 
+# Don't let a slow run pile up on the next schedule tick.
+concurrency:
+  group: process-apps
+  cancel-in-progress: false
+
 jobs:
   process:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     permissions:
       contents: write
 
@@ -16,11 +22,22 @@ jobs:
         with:
           submodules: true
 
+      - name: Free extra disk space
+        run: |
+          # The runner ships with ~14 GB free; reclaim the big preinstalled
+          # toolchains we never use so binary downloads have headroom.
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc \
+            /usr/local/share/boost "$AGENT_TOOLSDIRECTORY" || true
+          df -h /
+
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
 
       - uses: astral-sh/setup-uv@v5
+
+      - name: Build meta indexes (AUR, Homebrew, Electron headers)
+        run: make all
 
       - name: Restore zips cache
         id: cache-zips-restore
@@ -36,11 +53,28 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      - name: Run source processor
-        run: uv run main.py process source
+      - name: Copy curated download URLs
+        run: uv run main.py process static-downloads
 
-      - name: Run which-electron processor
-        run: uv run main.py process which-electron
+      - name: Match Homebrew casks
+        run: uv run main.py process homebrew
+
+      - name: Detect Electron from source lockfiles
+        run: uv run main.py process source --source-fast
+
+      - name: Match AUR packages
+        run: uv run main.py process aur
+
+      - name: Detect Electron from AUR depends
+        run: uv run main.py process aur-version
+
+      # Bounded so the job stays well under the time limit; the we_tried marker
+      # means each run works through fresh binaries and skips ones already
+      # fingerprinted at their current release.
+      - name: Fingerprint binaries with which-electron
+        run: uv run main.py process which-electron --limit 120
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: Save zips cache
         if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
@@ -50,9 +84,15 @@ jobs:
           key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
 
       - name: Generate report
+        if: always()
         run: uv run main.py report
 
+      - name: Print stats
+        if: always()
+        run: uv run main.py stats
+
       - uses: stefanzweifel/git-auto-commit-action@v5
+        if: always()
         with:
           commit_message: "chore: update release and electron version data [skip ci]"
           file_pattern: "data/apps/ REPORT.md"

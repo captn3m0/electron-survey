@@ -46,3 +46,4 @@ aur:
 - nuclear-player-git
 homebrew: nuclear
 name: nuclear
+we_tried: player@1.28.0

@@ -23,3 +23,10 @@ packages:
   format: deb
   os: linux
   arch: arm64
+homebrew: flyenv
+downloads:
+- url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64-mac.zip
+  name: FlyEnv-4.17.0-arm64-mac.zip
+  version: 4.17.0
+electron: 39.8.7
+method: which-electron-rg

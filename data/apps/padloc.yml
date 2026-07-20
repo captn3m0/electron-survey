@@ -27,3 +27,12 @@ packages:
   format: snap
   os: linux
   arch: x64
+aur:
+- padloc-bin
+homebrew: padloc
+downloads:
+- url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_macos_electron_arm64.dmg
+  name: padloc_4.3.0_macos_electron_arm64.dmg
+  version: 4.3.0
+electron: 19.0.5
+method: which-electron-rg

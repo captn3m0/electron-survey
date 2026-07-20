@@ -14,3 +14,5 @@ downloads:
 - name: Data-Forge.Notebook.v2-win-2.0.0.zip
   url: https://github.com/ashleydavis/data-forge-notebook/releases/download/v2.0.0/Data-Forge.Notebook.v2-win-2.0.0.zip
 name: Data-Forge Notebook
+electron: 27.1.2
+method: which-electron-rg

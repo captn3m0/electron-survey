@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: sculptor
+downloads:
+- url: https://imbue-sculptor-releases.s3.us-west-2.amazonaws.com/sculptor/zip/darwin/arm64/Sculptor-darwin-arm64-0.7.0.zip
+  name: Sculptor-darwin-arm64-0.7.0.zip
+  version: 0.7.0
+electron: 37.2.6
+method: which-electron-rg

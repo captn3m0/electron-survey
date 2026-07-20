@@ -12,3 +12,4 @@ downloads:
   name: nteract-stable-darwin-arm64.dmg
   version: 1.4.1,202603102148
 name: nteract
+we_tried: v1.9.1

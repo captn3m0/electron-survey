@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- amazingmarvin-appimage
+homebrew: marvin
+downloads:
+- url: https://amarm.s3.amazonaws.com/Marvin-1.70.0-arm64-mac.zip
+  name: Marvin-1.70.0-arm64-mac.zip
+  version: 1.70.0
+electron: 36.1.0
+method: which-electron-rg

@@ -17,3 +17,14 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- beeper-bin
+- beeper-nightly-bin
+- beeper-v4-bin
+homebrew: beeper
+downloads:
+- url: https://beeper-desktop.download.beeper.com/builds/Beeper-4.2.985-arm64-mac.zip
+  name: Beeper-4.2.985-arm64-mac.zip
+  version: 4.2.985
+electron: 41.2.0
+method: which-electron-rg

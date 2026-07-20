@@ -18,3 +18,5 @@ downloads:
 - name: latest.yml
   url: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/latest.yml
 name: DarkJ
+electron: 2.0.5
+method: which-electron-fingerprint

@@ -19,3 +19,12 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- restfox-bin
+electron: 29.4.6
+method: aur-depends
+homebrew: restfox
+downloads:
+- url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-arm64-0.40.0.zip
+  name: Restfox-darwin-arm64-0.40.0.zip
+  version: 0.40.0

@@ -15,3 +15,7 @@ packages:
   format: exe
   os: windows
   arch: x64
+aur:
+- aingdesk
+electron: 31.7.7
+method: aur-depends

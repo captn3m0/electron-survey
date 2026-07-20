@@ -27,3 +27,13 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- siyuan
+- siyuan-b3log-appimage
+- siyuan-bin
+- siyuan-git
+homebrew: siyuan
+downloads:
+- url: https://github.com/siyuan-note/siyuan/releases/download/v3.7.2/siyuan-3.7.2-mac-arm64.dmg
+  name: siyuan-3.7.2-mac-arm64.dmg
+  version: 3.7.2

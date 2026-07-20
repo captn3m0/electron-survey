@@ -19,3 +19,5 @@ packages:
   format: appimage
   os: linux
   arch: x64
+electron: 30.5.1
+method: which-electron-rg

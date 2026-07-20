@@ -19,3 +19,7 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- refi-app-bin
+electron: 19.1.9
+method: aur-depends

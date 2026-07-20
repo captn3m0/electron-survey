@@ -23,3 +23,12 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- chatall
+electron: 33.4.11
+method: aur-depends
+homebrew: chatall
+downloads:
+- url: https://github.com/sunner/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg
+  name: ChatALL-1.85.110-mac-arm64.dmg
+  version: 1.85.110

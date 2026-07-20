@@ -23,3 +23,10 @@ packages:
   format: deb
   os: linux
   arch: x64
+homebrew: meru
+downloads:
+- url: https://github.com/zoidsh/meru/releases/download/v3.56.0/Meru-3.56.0-arm64.dmg
+  name: Meru-3.56.0-arm64.dmg
+  version: 3.56.0
+electron: 41.2.1
+method: which-electron-rg

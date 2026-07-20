@@ -19,3 +19,7 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- altus
+electron: 35.7.5
+method: aur-depends

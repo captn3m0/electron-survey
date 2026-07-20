@@ -5,3 +5,8 @@ packages:
 - url: https://releases.diabrowser.com/release/Dia-1.28.0-79513.zip
   format: zip
   os: macos
+homebrew: thebrowsercompany-dia
+downloads:
+- url: https://releases.diabrowser.com/release/Dia-1.40.1-83624.zip
+  name: Dia-1.40.1-83624.zip
+  version: 1.40.1,83624

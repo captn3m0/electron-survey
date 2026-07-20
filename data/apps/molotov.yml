@@ -5,3 +5,13 @@ packages:
 - url: https://desktop-auto-upgrade.molotov.tv/mac/m1/Molotov-7.0.0-mac.zip
   format: zip
   os: macos
+aur:
+- molotov
+- molotov-deb
+homebrew: molotov
+downloads:
+- url: https://desktop-auto-upgrade.molotov.tv/mac/m1/Molotov-7.0.0-mac.zip
+  name: Molotov-7.0.0-mac.zip
+  version: 7.0.0
+electron: 34.0.0
+method: which-electron-rg

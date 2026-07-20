@@ -12,8 +12,10 @@ using npm semver semantics (highest matching version wins).
 import hashlib
 import json
 import logging
+import os
 import pathlib
 import re
+import shutil
 import zipfile
 from typing import Any
 
@@ -26,6 +28,13 @@ log = logging.getLogger(__name__)
 ZIPS_DIR = pathlib.Path("zips")
 SRC_DIR = pathlib.Path("src")
 
+# Skip source archives larger than this (MB): normal npm projects are small,
+# and huge archives are usually repos vendoring binaries — not worth the disk.
+_MAX_ZIP_MB = int(os.environ.get("SOURCE_MAX_MB", "300"))
+# Keep the extracted tree after parsing? Off by default so runs don't fill the
+# disk (src/ reached 8 GB on CI); set SURVEY_KEEP_SRC=1 for local debugging.
+_KEEP_SRC = os.environ.get("SURVEY_KEEP_SRC") == "1"
+
 _SESSION = requests.Session()
 
 
@@ -37,17 +46,37 @@ def matches(entry: dict[str, Any]) -> bool:
 # Download / extract helpers
 # ---------------------------------------------------------------------------
 
-def _download_zip(url: str) -> pathlib.Path:
+def _download_zip(url: str) -> pathlib.Path | None:
     url_hash = hashlib.sha256(url.encode()).hexdigest()[:10]
     ZIPS_DIR.mkdir(exist_ok=True)
     zip_path = ZIPS_DIR / f"{url_hash}.zip"
-    if not zip_path.exists():
-        resp = _SESSION.get(url, timeout=60, stream=True)
-        resp.raise_for_status()
-        with zip_path.open("wb") as f:
+    if zip_path.exists() and zip_path.stat().st_size > 0:
+        return zip_path
+    cap = _MAX_ZIP_MB * 1024 * 1024
+    resp = _SESSION.get(url, timeout=60, stream=True)
+    resp.raise_for_status()
+    if int(resp.headers.get("content-length", 0)) > cap:
+        log.info("skip %s: archive larger than %d MB", url, _MAX_ZIP_MB)
+        return None
+    tmp = zip_path.with_suffix(".zip.part")
+    written = 0
+    try:
+        with tmp.open("wb") as f:
             for chunk in resp.iter_content(chunk_size=65536):
+                written += len(chunk)
+                if written > cap:
+                    log.info("skip %s: archive grew past %d MB", url, _MAX_ZIP_MB)
+                    raise _ArchiveTooLarge
                 f.write(chunk)
+    except _ArchiveTooLarge:
+        tmp.unlink(missing_ok=True)
+        return None
+    tmp.replace(zip_path)
     return zip_path
+
+
+class _ArchiveTooLarge(Exception):
+    """Raised to abort a source archive that exceeds the size cap."""
 
 
 def _extract_zip(zip_path: pathlib.Path, dest: pathlib.Path) -> None:
@@ -178,8 +207,23 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     src_url: str = entry["src"]
 
     zip_path = _download_zip(src_url)
+    if zip_path is None:
+        return None
     extract_dir = SRC_DIR / app_id
-    _extract_zip(zip_path, extract_dir)
+    try:
+        return _detect(app_id, zip_path, extract_dir)
+    finally:
+        if not _KEEP_SRC:
+            shutil.rmtree(extract_dir, ignore_errors=True)
+
+
+def _detect(app_id: str, zip_path: pathlib.Path, extract_dir: pathlib.Path) -> dict[str, Any] | None:
+    try:
+        _extract_zip(zip_path, extract_dir)
+    except zipfile.BadZipFile:
+        log.warning("[%s] corrupt archive %s, discarding", app_id, zip_path)
+        zip_path.unlink(missing_ok=True)
+        return None
 
     # Locate all instances of each file type, sorted shallowest first
     pkg_locks = _by_depth(list(extract_dir.rglob("package-lock.json")))

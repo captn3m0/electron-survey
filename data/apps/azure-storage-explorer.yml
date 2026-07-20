@@ -23,3 +23,10 @@ packages:
   format: tar.gz
   os: linux
   arch: x64
+homebrew: microsoft-azure-storage-explorer
+downloads:
+- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-arm64.zip
+  name: StorageExplorer-darwin-arm64.zip
+  version: 1.44.0
+electron: 40.6.1
+method: which-electron-rg

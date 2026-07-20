@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- fastmail
+homebrew: fastmail
+downloads:
+- url: https://dl.fastmailcdn.com/desktop/production/mac/arm64/Fastmail-1.5.1-arm64-mac.zip
+  name: Fastmail-1.5.1-arm64-mac.zip
+  version: 1.5.1
+electron: 43.1.1
+method: which-electron-rg

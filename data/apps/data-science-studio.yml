@@ -5,3 +5,10 @@ packages:
 - url: https://cdn.downloads.dataiku.com/public/launcher/macos/DataScienceStudio-14.0.3-mac.zip
   format: zip
   os: macos
+homebrew: data-science-studio
+downloads:
+- url: https://cdn.downloads.dataiku.com/public/launcher/macos/DataScienceStudio-14.0.3-mac.zip
+  name: DataScienceStudio-14.0.3-mac.zip
+  version: 14.0.3
+electron: 36.1.0
+method: which-electron-rg

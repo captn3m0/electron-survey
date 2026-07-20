@@ -19,3 +19,8 @@ packages:
   format: rpm
   os: linux
   arch: x64
+homebrew: time-to-leave
+downloads:
+- url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0.dmg
+  name: time-to-leave-4.0.0.dmg
+  version: 4.0.0

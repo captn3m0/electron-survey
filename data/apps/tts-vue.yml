@@ -11,3 +11,7 @@ packages:
   format: zip
   os: windows
   arch: x64
+aur:
+- tts-vue
+electron: 19.1.9
+method: aur-depends

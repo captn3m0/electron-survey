@@ -27,3 +27,17 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- ferdium
+- ferdium-bin
+- ferdium-electron
+- ferdium-git
+- ferdium-nightly
+- ferdium-nightly-bin
+electron: 37.10.3
+method: aur-depends
+homebrew: ferdium
+downloads:
+- url: https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-mac-7.1.2-arm64.dmg
+  name: Ferdium-mac-7.1.2-arm64.dmg
+  version: 7.1.2

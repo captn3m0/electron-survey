@@ -25,3 +25,5 @@ packages:
   format: zip
   os: macos
 name: GraphiQL
+electron: 1.4.13
+method: which-electron-fingerprint

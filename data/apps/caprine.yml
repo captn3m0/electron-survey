@@ -15,3 +15,13 @@ packages:
 - url: https://github.com/sindresorhus/caprine/releases/latest/download/caprine_2.61.0_amd64.deb
   format: deb
   os: linux
+aur:
+- caprine-bin
+- caprine-git
+electron: 29.4.6
+method: aur-depends
+homebrew: caprine
+downloads:
+- url: https://github.com/sindresorhus/caprine/releases/download/v2.61.0/Caprine-2.61.0-arm64.dmg
+  name: Caprine-2.61.0-arm64.dmg
+  version: 2.61.0

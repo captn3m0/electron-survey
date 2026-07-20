@@ -19,3 +19,11 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- upscayl
+- upscayl-git
+homebrew: upscayl
+downloads:
+- url: https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-mac.dmg
+  name: upscayl-2.15.0-mac.dmg
+  version: 2.15.0

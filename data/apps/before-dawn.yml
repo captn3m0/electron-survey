@@ -15,3 +15,7 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- before-dawn
+electron: 37.10.3
+method: aur-depends

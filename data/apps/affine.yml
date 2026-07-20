@@ -27,3 +27,14 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- affine
+- affine-bin
+- affine-canary-bin
+electron: 39.8.10
+method: aur-depends
+homebrew: affine
+downloads:
+- url: https://github.com/toeverything/AFFiNE/releases/download/v0.27.0/affine-0.27.0-stable-macos-arm64.zip
+  name: affine-0.27.0-stable-macos-arm64.zip
+  version: 0.27.0

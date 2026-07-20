@@ -8,3 +8,5 @@ downloads:
   url: https://github.com/mafintosh/playback/releases/download/v1.6.0/Playback.app.zip
 homebrew: playback
 name: Playback
+electron: 0.35.4
+method: which-electron-fingerprint

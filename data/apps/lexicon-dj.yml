@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: lexicon-dj
+downloads:
+- url: https://update.rekord.cloud/releases/lexicon/latest/lexicon-1.11.10-mac-aarch64.zip
+  name: lexicon-1.11.10-mac-aarch64.zip
+  version: 1.11.10
+electron: 32.3.3
+method: which-electron-rg

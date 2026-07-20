@@ -5,3 +5,10 @@ packages:
 - url: https://www.oculus.com/x2asset/electron-apps/odh/5a1a35d130e03890ed3ec1a417b8c05a/Meta%20Quest%20Developer%20Hub-6.3.2.zip
   format: zip
   os: macos
+homebrew: meta-quest-developer-hub
+downloads:
+- url: https://www.oculus.com/x2asset/electron-apps/odh/39d919119a63419159e7dce344162dfb/Meta%20Quest%20Developer%20Hub-6.4.1.zip
+  name: Meta%20Quest%20Developer%20Hub-6.4.1.zip
+  version: 6.4.1,39d919119a63419159e7dce344162dfb
+electron: 32.1.1
+method: which-electron-rg

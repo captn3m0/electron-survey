@@ -15,3 +15,10 @@ packages:
   format: deb
   os: linux
   arch: x64
+homebrew: react-native-debugger
+downloads:
+- url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-macos-universal.zip
+  name: rn-debugger-macos-universal.zip
+  version: 0.14.0
+electron: 25.3.0
+method: which-electron-rg

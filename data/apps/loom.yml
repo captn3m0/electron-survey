@@ -19,3 +19,5 @@ packages:
   invalid: true
   invalid_reason: HTTP 403
 name: Loom
+electron: 39.2.6
+method: which-electron-rg

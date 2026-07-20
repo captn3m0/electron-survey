@@ -5,3 +5,8 @@ packages:
 - url: https://downloads.ecamm.com/EcammLive.zip
   format: zip
   os: macos
+homebrew: ecamm-live
+downloads:
+- url: https://downloads.ecamm.com/EcammLive.zip
+  name: EcammLive.zip
+  version: 4.5.9

@@ -13,3 +13,5 @@ packages:
   os: macos
   arch: universal
 name: Cacher
+electron: 17.2.0
+method: which-electron-rg

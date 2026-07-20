@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: framer
+downloads:
+- url: https://updates.framer.com/electron/darwin/arm64/Framer-2026.24.3.zip
+  name: Framer-2026.24.3.zip
+  version: 2026.24.3
+electron: 42.3.0
+method: which-electron-rg

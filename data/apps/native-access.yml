@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: native-access
+downloads:
+- url: https://na-update.native-instruments.com/arm64/Native-Access-arm64-mac-latest.zip
+  name: Native-Access-arm64-mac-latest.zip
+  version: 3.25.1
+electron: 41.7.0
+method: which-electron-rg

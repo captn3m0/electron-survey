@@ -6,3 +6,12 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- codebuddy-cli
+homebrew: codebuddy-cn
+downloads:
+- url: https://acc-1258344699.cos.accelerate.myqcloud.com/aiide/darwin-arm64/CodeBuddy-darwin-arm64-4.10.3.33770460-427f3937-cn.zip
+  name: CodeBuddy-darwin-arm64-4.10.3.33770460-427f3937-cn.zip
+  version: 4.10.3.33770460,427f3937
+electron: 37.7.0
+method: which-electron-rg

@@ -27,3 +27,15 @@ packages:
   format: snap
   os: linux
   arch: x64
+aur:
+- mqttx-appimage
+- mqttx-bin
+- mqttx-clean-bin
+- mqttx-git
+electron: 39.8.10
+method: aur-depends
+homebrew: mqttx
+downloads:
+- url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0-arm64.dmg
+  name: MQTTX-1.13.0-arm64.dmg
+  version: 1.13.0

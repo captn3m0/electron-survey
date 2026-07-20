@@ -18,3 +18,14 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- session-desktop
+- session-desktop-bin
+- session-desktop-git
+electron: 40.10.6
+method: aur-depends
+homebrew: session
+downloads:
+- url: https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-mac-arm64-1.18.1.dmg
+  name: session-desktop-mac-arm64-1.18.1.dmg
+  version: 1.18.1

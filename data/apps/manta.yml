@@ -6,3 +6,12 @@ packages:
 - url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-mac.zip
   format: zip
   os: macos
+aur:
+- manta
+homebrew: manta
+downloads:
+- url: https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-mac.zip
+  name: Manta-1.1.4-mac.zip
+  version: 1.1.4
+electron: 1.7.12
+method: which-electron-fingerprint

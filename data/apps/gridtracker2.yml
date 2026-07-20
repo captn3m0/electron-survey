@@ -6,3 +6,13 @@ packages:
   format: zip
   os: macos
   arch: universal
+aur:
+- gridtracker2
+- gridtracker2-bin
+electron: 35.7.5
+method: aur-depends
+homebrew: gridtracker2
+downloads:
+- url: https://download2.gridtracker.org/GridTracker2-2.260705.2-universal-mac.zip
+  name: GridTracker2-2.260705.2-universal-mac.zip
+  version: 2.260705.2

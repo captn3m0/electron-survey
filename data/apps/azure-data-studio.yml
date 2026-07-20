@@ -6,3 +6,18 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- mdatp-bin
+- sqlpackage
+- ttf-ms-win11-fod
+- ttf-segoe-fluent-icons
+- ttf-segoe-ui-variable
+- ttf-vista-fonts
+- ttf-win10
+homebrew: azure-data-studio
+downloads:
+- url: https://download.microsoft.com/download/6b2bfeac-9c1b-4182-9a2f-ce86ff8cc371/azuredatastudio-macos-arm64-1.52.0.zip
+  name: azuredatastudio-macos-arm64-1.52.0.zip
+  version: 1.52.0
+electron: 30.5.1
+method: which-electron-rg

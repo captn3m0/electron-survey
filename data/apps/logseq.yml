@@ -19,3 +19,13 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- logseq-desktop-electron-bin
+- logseq-desktop-git
+electron: 38.8.6
+method: aur-depends
+homebrew: logseq
+downloads:
+- url: https://github.com/logseq/logseq/releases/download/2.0.1/logseq-darwin-arm64-2.0.1.dmg
+  name: logseq-darwin-arm64-2.0.1.dmg
+  version: 2.0.1

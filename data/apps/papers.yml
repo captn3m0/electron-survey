@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: papers
+downloads:
+- url: https://update.readcube.com/desktop/updates/Papers_Setup_4.37.2395-arm64.zip
+  name: Papers_Setup_4.37.2395-arm64.zip
+  version: 4.37.2395
+electron: 25.9.0
+method: which-electron-rg

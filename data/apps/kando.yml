@@ -27,3 +27,12 @@ packages:
   format: appimage
   os: linux
   arch: arm64
+aur:
+- kando-git
+homebrew: kando
+downloads:
+- url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1-arm64.dmg
+  name: Kando-2.3.1-arm64.dmg
+  version: 2.3.1
+electron: 41.2.0
+method: which-electron-rg

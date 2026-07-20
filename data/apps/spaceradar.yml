@@ -7,3 +7,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+homebrew: spaceradar
+downloads:
+- url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-arm64-SpaceRadar.dmg
+  name: stable-macos-arm64-SpaceRadar.dmg
+  version: 6.0.1

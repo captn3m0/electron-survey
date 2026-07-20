@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: aqua-voice
+downloads:
+- url: https://d1a1dx1sgvjqrz.cloudfront.net/aqua-voice-updates/darwin/arm64/Aqua%20Voice-darwin-arm64-0.12.1.zip
+  name: Aqua%20Voice-darwin-arm64-0.12.1.zip
+  version: 0.12.1
+electron: 32.3.3
+method: which-electron-rg

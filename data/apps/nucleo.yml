@@ -5,3 +5,10 @@ packages:
 - url: https://downloads.nucleoapp.com/mac-silicon/Nucleo_4.2.0.zip
   format: zip
   os: macos
+homebrew: nucleo
+downloads:
+- url: https://downloads.nucleoapp.com/mac-silicon/Nucleo_4.2.0.zip
+  name: Nucleo_4.2.0.zip
+  version: 4.2.0
+electron: 32.1.2
+method: which-electron-rg

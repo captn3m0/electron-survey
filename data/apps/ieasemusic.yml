@@ -15,3 +15,5 @@ packages:
   format: deb
   os: linux
   arch: x64
+electron: 4.0.1
+method: which-electron-fingerprint

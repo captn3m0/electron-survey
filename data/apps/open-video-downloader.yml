@@ -23,3 +23,9 @@ packages:
   format: deb
   os: linux
   arch: x64
+homebrew: open-video-downloader
+downloads:
+- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_aarch64.dmg
+  name: Open.Video.Downloader_3.2.1_aarch64.dmg
+  version: 3.2.1
+we_tried: urls:55abb406a042

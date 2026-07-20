@@ -23,3 +23,7 @@ packages:
   format: zip
   os: linux
   arch: arm64
+aur:
+- webgal-terre-bin
+electron: 29.4.6
+method: aur-depends

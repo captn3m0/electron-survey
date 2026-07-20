@@ -37,3 +37,5 @@ downloads:
 - name: logsnag_1.8.0_amd64.deb
   url: https://github.com/LogSnag/LogSnag/releases/download/v1.8.0/logsnag_1.8.0_amd64.deb
 name: LogSnag
+electron: 18.0.1
+method: which-electron-rg

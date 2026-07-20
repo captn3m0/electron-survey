@@ -6,3 +6,8 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: codex-app
+downloads:
+- url: https://persistent.oaistatic.com/codex-app-prod/Codex-darwin-arm64-26.623.141536.zip
+  name: Codex-darwin-arm64-26.623.141536.zip
+  version: 26.623.141536

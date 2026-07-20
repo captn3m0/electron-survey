@@ -6,3 +6,10 @@ packages:
 - url: https://github.com/romannurik/MaterialColorsApp/releases/download/v2.0.3/MaterialColors-2.0.3.zip
   format: zip
   os: macos
+homebrew: material-colors
+downloads:
+- url: https://github.com/romannurik/MaterialColorsApp/releases/download/v2.0.3/MaterialColors-2.0.3.zip
+  name: MaterialColors-2.0.3.zip
+  version: 2.0.3
+electron: 11.3.0
+method: which-electron-rg

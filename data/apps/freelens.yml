@@ -27,3 +27,12 @@ packages:
   format: appimage
   os: linux
   arch: arm64
+aur:
+- freelens-bin
+homebrew: freelens
+downloads:
+- url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-macos-arm64.dmg
+  name: Freelens-1.10.3-macos-arm64.dmg
+  version: 1.10.3
+electron: 39.5.2
+method: which-electron-rg

@@ -35,3 +35,12 @@ packages:
   format: rpm
   os: linux
   arch: arm64
+aur:
+- legcord-bin
+electron: 41.10.2
+method: aur-depends
+homebrew: legcord
+downloads:
+- url: https://github.com/legcord/legcord/releases/download/v1.2.4/legcord-1.2.4-mac-universal.dmg
+  name: legcord-1.2.4-mac-universal.dmg
+  version: 1.2.4

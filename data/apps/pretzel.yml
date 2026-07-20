@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: universal
+homebrew: pretzel
+downloads:
+- url: https://download.pretzel.rocks/Pretzel-2.13.2-universal-mac.zip
+  name: Pretzel-2.13.2-universal-mac.zip
+  version: 2.13.2
+electron: 35.7.5
+method: which-electron-rg

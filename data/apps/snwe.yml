@@ -6,3 +6,8 @@ packages:
 - url: https://github.com/blahsd/snwe/releases/download/v0.1.0/snwe.app.zip
   format: zip
   os: macos
+homebrew: snwe
+downloads:
+- url: https://github.com/blahsd/snwe/releases/download/v0.1.0/snwe.app.zip
+  name: snwe.app.zip
+  version: 0.1.0

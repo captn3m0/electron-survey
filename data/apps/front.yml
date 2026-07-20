@@ -11,3 +11,5 @@ packages:
   os: macos
   arch: arm64
 name: Front
+electron: 37.9.0
+method: which-electron-rg

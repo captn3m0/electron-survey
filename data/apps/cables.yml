@@ -19,3 +19,10 @@ packages:
   format: appimage
   os: linux
   arch: x64
+homebrew: cables
+downloads:
+- url: https://github.com/cables-gl/cables_electron/releases/download/v0.11.0/cables-0.11.0-mac-arm64.dmg
+  name: cables-0.11.0-mac-arm64.dmg
+  version: 0.11.0
+electron: 31.7.3
+method: which-electron-rg

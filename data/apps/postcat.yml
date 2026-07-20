@@ -19,3 +19,8 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- postcat-appimage
+- postcat-bin
+electron: 22.3.27
+method: aur-depends

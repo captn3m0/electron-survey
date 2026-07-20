@@ -33,3 +33,5 @@ downloads:
 electron: 31.7.3
 method: src-yarn-lock
 name: Cozy Desktop
+aur:
+- cozy-desktop

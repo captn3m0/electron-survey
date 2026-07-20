@@ -11,3 +11,10 @@ packages:
   format: dmg
   os: macos
   arch: x64
+homebrew: openmtp
+downloads:
+- url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.zip
+  name: openmtp-3.2.25-mac-arm64.zip
+  version: 3.2.25
+electron: 18.3.15
+method: which-electron-rg

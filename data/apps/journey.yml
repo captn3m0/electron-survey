@@ -6,3 +6,12 @@ packages:
 - url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-darwin-2.14.6.zip
   format: zip
   os: macos
+aur:
+- journey
+homebrew: journey
+downloads:
+- url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-darwin-2.14.6.zip
+  name: Journey-darwin-2.14.6.zip
+  version: 2.14.6
+electron: 6.1.7
+method: which-electron-fingerprint

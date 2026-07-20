@@ -27,3 +27,10 @@ packages:
   format: deb
   os: linux
   arch: x64
+homebrew: electron-fiddle
+downloads:
+- url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-arm64-0.39.0.zip
+  name: Electron.Fiddle-darwin-arm64-0.39.0.zip
+  version: 0.39.0
+electron: 40.8.5
+method: which-electron-rg

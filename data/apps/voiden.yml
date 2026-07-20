@@ -6,3 +6,11 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- voiden-appimage
+- voiden-beta-appimage
+homebrew: voiden
+downloads:
+- url: https://voiden-releases.s3.eu-west-1.amazonaws.com/voiden/darwin/arm64/Voiden-darwin-arm64-2.2.2.zip
+  name: Voiden-darwin-arm64-2.2.2.zip
+  version: 2.2.2

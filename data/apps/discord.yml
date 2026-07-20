@@ -33,3 +33,5 @@ packages:
   os: linux
   arch: x64
 name: Discord
+electron: 37.6.0
+method: which-electron-rg

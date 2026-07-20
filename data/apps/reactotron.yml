@@ -15,3 +15,12 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- reactotron
+homebrew: reactotron
+downloads:
+- url: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.11.0/Reactotron-3.11.0-arm64-mac.zip
+  name: Reactotron-3.11.0-arm64-mac.zip
+  version: 3.11.0
+electron: 27.0.3
+method: which-electron-rg

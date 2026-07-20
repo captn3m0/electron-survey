@@ -6,3 +6,9 @@ packages:
   format: zip
   os: macos
   arch: x64
+homebrew: medis
+downloads:
+- url: https://api.getmedis.com/medis/medis-2.16.1.zip
+  name: medis-2.16.1.zip
+  version: 2.16.1
+we_tried: urls:0853f90c9b08

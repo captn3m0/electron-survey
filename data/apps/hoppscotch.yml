@@ -15,3 +15,9 @@ packages:
   format: appimage
   os: linux
   arch: x64
+homebrew: hoppscotch
+downloads:
+- url: https://github.com/hoppscotch/releases/releases/download/v26.6.0-0/Hoppscotch_mac_aarch64.dmg
+  name: Hoppscotch_mac_aarch64.dmg
+  version: 26.6.0-0
+we_tried: urls:b92dde207af5

@@ -5,3 +5,15 @@ packages:
 - url: https://releases.arc.net/release/Arc-1.144.0-79514.zip
   format: zip
   os: macos
+aur:
+- archnet-bin
+- dnscap-git
+- dnsjit
+- dnsperf
+- dnsperf-git
+homebrew: arc
+downloads:
+- url: https://releases.arc.net/release/Arc-1.156.0-83514.zip
+  name: Arc-1.156.0-83514.zip
+  version: 1.156.0,83514
+we_tried: urls:1989ed48850f

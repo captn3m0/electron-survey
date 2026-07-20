@@ -15,3 +15,10 @@ packages:
   format: appimage
   os: linux
   arch: x64
+homebrew: cloudpouch
+downloads:
+- url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0-universal-mac.zip
+  name: CloudPouch-1.49.0-universal-mac.zip
+  version: 1.49.0
+electron: 13.1.8
+method: which-electron-rg

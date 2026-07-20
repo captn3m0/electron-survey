@@ -15,3 +15,5 @@ packages:
   format: exe
   os: windows
   arch: x64
+electron: 22.3.27
+method: which-electron-rg

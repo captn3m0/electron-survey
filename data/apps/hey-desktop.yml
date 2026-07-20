@@ -6,3 +6,13 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- dontmove-hib
+- hey-mail-bin
+- process-watcher-git
+- silo-hey
+homebrew: hey-desktop
+downloads:
+- url: https://hey.com/desktop/HEY-1.3.3-arm64-mac.zip
+  name: HEY-1.3.3-arm64-mac.zip
+  version: 1.3.3

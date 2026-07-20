@@ -8,3 +8,5 @@ downloads:
   name: Biscuit-1.2.33-arm64.dmg
   version: 1.2.33
 name: Biscuit
+electron: 39.2.5
+method: which-electron-rg

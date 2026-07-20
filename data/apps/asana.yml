@@ -11,3 +11,5 @@ packages:
   os: macos
   arch: arm64
 name: Asana
+electron: 37.7.0
+method: which-electron-rg

@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: universal
+homebrew: sdm
+downloads:
+- url: https://downloads.strongdm.com/builds/desktop/23.74.2/darwin-universal/D05BEEC55A66B54D3F5B91F1C3B4A4AE162632BB/SDM-23.74.2.universal.zip
+  name: SDM-23.74.2.universal.zip
+  version: 23.74.2,D05BEEC55A66B54D3F5B91F1C3B4A4AE162632BB
+electron: 37.3.1
+method: which-electron-rg

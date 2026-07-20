@@ -15,3 +15,8 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- selenium-ide-bin
+- selenium-manager
+electron: 28.3.3
+method: aur-depends

@@ -23,3 +23,7 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- godmode
+electron: 26.6.10
+method: aur-depends

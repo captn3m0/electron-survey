@@ -15,3 +15,7 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- gerbil
+electron: 41.3.0
+method: which-electron-rg

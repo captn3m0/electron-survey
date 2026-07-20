@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: universal
+homebrew: remotehamradio
+downloads:
+- url: https://rhr-electron.s3.amazonaws.com/desktop-releases/RemoteHamRadio-2.4.1-universal-mac.zip
+  name: RemoteHamRadio-2.4.1-universal-mac.zip
+  version: 2.4.1
+electron: 29.1.6
+method: which-electron-rg

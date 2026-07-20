@@ -15,3 +15,5 @@ packages:
   format: deb
   os: linux
   arch: x64
+electron: 27.3.11
+method: which-electron-rg

@@ -23,3 +23,12 @@ packages:
   format: snap
   os: linux
   arch: x64
+aur:
+- ipfs-desktop
+electron: 41.10.2
+method: aur-depends
+homebrew: ipfs-desktop
+downloads:
+- url: https://github.com/ipfs/ipfs-desktop/releases/download/v0.49.1/ipfs-desktop-0.49.1-mac.dmg
+  name: ipfs-desktop-0.49.1-mac.dmg
+  version: 0.49.1

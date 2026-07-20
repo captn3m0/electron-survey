@@ -23,3 +23,10 @@ packages:
   format: snap
   os: linux
   arch: x64
+homebrew: sengi
+downloads:
+- url: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-mac.dmg
+  name: Sengi-1.8.0-mac.dmg
+  version: 1.8.0
+electron: 23.3.13
+method: which-electron-rg

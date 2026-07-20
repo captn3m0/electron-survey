@@ -9,3 +9,5 @@ downloads:
   name: KeyCombiner-0.8.0-universal.dmg
   version: 0.8.0
 name: KeyCombiner
+electron: 16.0.7
+method: which-electron-rg

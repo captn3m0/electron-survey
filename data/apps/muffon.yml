@@ -27,3 +27,8 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- muffon-bin
+- muffon-git
+electron: 39.2.7
+method: which-electron-rg

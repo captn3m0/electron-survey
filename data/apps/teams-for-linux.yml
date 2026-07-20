@@ -27,3 +27,5 @@ packages:
   format: deb
   os: linux
   arch: arm64
+aur:
+- teams-for-linux

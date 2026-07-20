@@ -6,3 +6,10 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: huly
+downloads:
+- url: https://dist.huly.io/Huly-macos-0.7.426-arm64.zip
+  name: Huly-macos-0.7.426-arm64.zip
+  version: 0.7.426
+electron: 38.6.0
+method: which-electron-rg

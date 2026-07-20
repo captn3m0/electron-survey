@@ -5,3 +5,13 @@ packages:
 - url: https://download.wondershare.com/cbs_down/edrawmind_13.0.16_full5378.zip
   format: zip
   os: macos
+aur:
+- edrawinfo-bin
+- edrawmax-bin
+- edrawmind-bin
+- edrawproject-en
+homebrew: edrawmind
+downloads:
+- url: https://download.wondershare.com/cbs_down/edrawmind_13.0.16_full5378.zip
+  name: edrawmind_13.0.16_full5378.zip
+  version: 13.0.16

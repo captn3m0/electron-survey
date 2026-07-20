@@ -6,3 +6,17 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur:
+- perl-poe-component-curl-multi
+- perl-poe-component-generic
+- perl-poe-component-irc
+- perl-poe-component-jabber
+- perl-poe-component-pluggable
+- perl-poe-component-syndicator
+homebrew: poe
+downloads:
+- url: https://desktop-app.poecdn.net/updates/darwin_arm64/1.1.45.zip
+  name: 1.1.45.zip
+  version: 1.1.45
+electron: 37.2.4
+method: which-electron-rg

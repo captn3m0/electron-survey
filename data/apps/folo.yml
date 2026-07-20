@@ -19,3 +19,15 @@ packages:
   format: appimage
   os: linux
   arch: x64
+aur:
+- folo
+- folo-appimage
+- folo-bin
+- folo-git
+electron: 43.1.1
+method: aur-depends
+homebrew: folo
+downloads:
+- url: https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.11.0/Folo-1.11.0-macos-arm64.dmg
+  name: Folo-1.11.0-macos-arm64.dmg
+  version: 1.11.0

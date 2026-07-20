@@ -19,3 +19,14 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- notesnook
+- notesnook-electron-bin
+- notesnook-git
+electron: 37.10.3
+method: aur-depends
+homebrew: notesnook
+downloads:
+- url: https://github.com/streetwriters/notesnook/releases/download/v3.4.3/notesnook_mac_arm64.dmg
+  name: notesnook_mac_arm64.dmg
+  version: 3.4.3

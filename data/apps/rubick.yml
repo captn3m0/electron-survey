@@ -19,3 +19,7 @@ packages:
   format: deb
   os: linux
   arch: x64
+aur:
+- rubick
+electron: 26.6.10
+method: aur-depends
