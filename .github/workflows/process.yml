@@ -70,6 +70,23 @@ jobs:
       - name: Detect Electron from AUR depends
         run: uv run main.py process aur-version
 
+      # steps/which-electron.py runs the fingerprinter as
+      # `node which-electron/src/index.js` (the tool's bin script has no
+      # shebang, so the npx/.bin shim gets executed by /bin/sh and dies with
+      # `Syntax error: "(" unexpected`). Provision the same local checkout the
+      # step expects, pinned to a fixed commit so the fingerprint epoch
+      # (`we<package.json-version>`) stays stable across runs. The tool has real
+      # runtime deps (@vscode/ripgrep, 7zip-bin, electron-fingerprints, …), so
+      # `npm ci --omit=dev` is required for `node src/index.js` to run.
+      - name: Provision which-electron fingerprinter
+        run: |
+          WE_REF=5fdbae4e15e27e8dd2d42714d66c250947059840  # captn3m0/which-electron main, package.json 1.2.1
+          git init -q which-electron
+          git -C which-electron remote add origin https://github.com/captn3m0/which-electron.git
+          git -C which-electron fetch --depth 1 origin "$WE_REF"
+          git -C which-electron checkout -q FETCH_HEAD
+          npm --prefix which-electron ci --omit=dev
+
       # Bounded so the job stays well under the time limit; the we_tried marker
       # means each run works through fresh binaries and skips ones already
       # fingerprinted at their current release.

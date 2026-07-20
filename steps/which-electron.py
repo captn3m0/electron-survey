@@ -68,13 +68,48 @@ class _TooLarge(Exception):
     """Raised to abort a download that grew past the size cap mid-stream."""
 
 
-# Prefer a local which-electron checkout (repo keeps one, gitignored) so runs
-# don't depend on npm network access; fall back to npx on CI.
-_LOCAL_WE = pathlib.Path("which-electron/src/index.js")
-if _LOCAL_WE.exists():
-    _WE_CMD = ["node", str(_LOCAL_WE)]
-else:
-    _WE_CMD = ["npx", "-y", "which-electron"]
+def _resolve_we_cmd() -> list[str]:
+    """Build the argv prefix that runs which-electron.
+
+    which-electron's bin entry (``src/index.js``) ships without a
+    ``#!/usr/bin/env node`` shebang, so executing the package's ``.bin`` shim
+    directly — as ``npx which-electron`` does — hands the file to ``/bin/sh``,
+    which chokes on the first line with ``Syntax error: "(" unexpected``. Always
+    run the JS file through ``node`` explicitly to sidestep the broken shim.
+
+    Prefer the repo's local checkout (kept gitignored, and provisioned the same
+    way on CI) so runs don't depend on npm's network cache. If it's absent, fall
+    back to an npm-resolvable install — still via ``node`` — and, failing that,
+    log loudly and return a no-op so the misconfiguration is obvious instead of
+    silently surfacing as "no JSON" on every artefact.
+    """
+    local = pathlib.Path("which-electron/src/index.js")
+    if local.exists():
+        return ["node", str(local)]
+    try:
+        proc = subprocess.run(
+            ["node", "-e", "process.stdout.write(require.resolve('which-electron'))"],
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
+        entry = proc.stdout.strip()
+        if proc.returncode == 0 and entry:
+            return ["node", entry]
+    except (OSError, subprocess.SubprocessError):
+        pass
+    log.error(
+        "which-electron not found: no checkout at %s and not resolvable via node. "
+        "Fingerprinting will produce no results — provision it with "
+        "`git clone https://github.com/captn3m0/which-electron` + `npm ci --omit=dev`.",
+        local,
+    )
+    # Trailing `--` so the wrapper's appended `--json <file>` are treated as
+    # script args, not node options (node would reject an unknown `--json`).
+    return ["node", "-e", "process.exit(127)", "--"]
+
+
+_WE_CMD = _resolve_we_cmd()
 
 
 def _ext_of(url: str) -> str:
