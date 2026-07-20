@@ -1,0 +1,8 @@
+id: headermaker
+name: Headermaker
+website: https://github.com/NewBumpEr/HeaderMaker
+repository: https://github.com/NewBumpEr/HeaderMaker
+aur:
+- headermaker-git
+electron: 31.7.7
+method: aur-depends

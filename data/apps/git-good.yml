@@ -1,0 +1,8 @@
+id: git-good
+name: Git Good
+website: https://github.com/weedz/git-good
+repository: https://github.com/weedz/git-good
+aur:
+- git-good-bin
+electron: 31.7.7
+method: aur-depends

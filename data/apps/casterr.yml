@@ -1,0 +1,7 @@
+id: casterr
+name: Casterr
+website: https://casterr.sbond.co/
+aur:
+- casterr-bin
+electron: 28.3.3
+method: aur-depends

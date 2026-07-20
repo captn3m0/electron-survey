@@ -1,0 +1,6 @@
+id: electron-deepseek
+name: Electron Deepseek
+website: https://github.com/RicardoCA/electron-deepseek
+repository: https://github.com/RicardoCA/electron-deepseek
+aur:
+- electron-deepseek

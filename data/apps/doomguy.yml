@@ -1,0 +1,8 @@
+id: doomguy
+name: Doomguy
+website: https://github.com/CMOISDEAD/doomguy
+repository: https://github.com/CMOISDEAD/doomguy
+aur:
+- doomguy-git
+electron: 28.3.3
+method: aur-depends

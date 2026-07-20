@@ -6,3 +6,5 @@ packages:
   format: dmg
   os: macos
   arch: universal
+aur:
+- tana

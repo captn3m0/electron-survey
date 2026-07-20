@@ -1,0 +1,7 @@
+id: ecency-surfer
+name: Ecency Surfer
+website: https://ecency.com/
+aur:
+- ecency-surfer-bin
+electron: 25.9.8
+method: aur-depends

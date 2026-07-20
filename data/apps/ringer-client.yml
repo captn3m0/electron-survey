@@ -1,0 +1,7 @@
+id: ringer-client
+name: Ringer Client
+website: https://lifplatforms.com/ringer.html
+aur:
+- ringer-client-desktop
+electron: 29.4.6
+method: aur-depends

@@ -1,0 +1,9 @@
+id: qoder
+name: Qoder
+website: https://qoder.com/
+aur:
+- qoder-bin
+additionalAUR:
+- qoder-cn-bin
+electron: 42.7.0
+method: aur-depends

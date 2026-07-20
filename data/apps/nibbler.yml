@@ -1,0 +1,6 @@
+id: nibbler
+name: Nibbler
+website: https://github.com/rooklift/nibbler
+repository: https://github.com/rooklift/nibbler
+aur:
+- nibbler-git

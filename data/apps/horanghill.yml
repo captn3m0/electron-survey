@@ -1,0 +1,7 @@
+id: horanghill
+name: Horanghill
+website: http://horanghill.great-site.net/
+aur:
+- horanghill-bin
+electron: 4.2.12
+method: aur-depends

@@ -1,0 +1,8 @@
+id: weread
+name: Weread
+website: https://github.com/NeilYXIN/WeRead_Desktop
+repository: https://github.com/NeilYXIN/WeRead_Desktop
+aur:
+- weread-bin
+electron: 33.4.11
+method: aur-depends

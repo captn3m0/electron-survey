@@ -1,0 +1,7 @@
+id: soulfire
+name: Soulfire
+website: https://app.soulfiremc.com/
+aur:
+- soulfire-bin
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,7 @@
+id: thoughts
+name: Thoughts
+website: https://wanglin2.github.io/mind-map/#/index
+aur:
+- thoughts-bin
+electron: 23.3.13
+method: aur-depends

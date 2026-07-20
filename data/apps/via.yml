@@ -1,0 +1,12 @@
+id: via
+name: Via
+website: https://github.com/cebby2420/via-desktop
+repository: https://github.com/cebby2420/via-desktop
+aur:
+- via-desktop-bin
+packages:
+- url: https://github.com/the-via/releases/releases/download/v3.0.0/via-3.0.0-mac.dmg
+  format: dmg
+  os: macos
+electron: 33.4.11
+method: aur-depends

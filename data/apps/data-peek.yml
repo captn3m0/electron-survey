@@ -1,0 +1,7 @@
+id: data-peek
+name: Data Peek
+website: https://www.datapeek.dev/
+aur:
+- data-peek
+electron: 38.8.6
+method: aur-depends

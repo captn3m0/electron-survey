@@ -1,0 +1,8 @@
+id: slacky
+name: Slacky
+website: https://github.com/andirsun/Slacky
+repository: https://github.com/andirsun/Slacky
+aur:
+- slacky-git
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,8 @@
+id: hexpick
+name: Hexpick
+website: https://github.com/KartoffelChipss/HexPick
+repository: https://github.com/KartoffelChipss/HexPick
+aur:
+- hexpick-bin
+electron: 29.4.6
+method: aur-depends

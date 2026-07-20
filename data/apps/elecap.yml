@@ -1,0 +1,9 @@
+id: elecap
+name: Elecap
+website: http://electroncapture.app
+aur:
+- elecap-bin
+additionalAUR:
+- elecap-git
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: live2d-desktop-pet
+name: Live2d Desktop Pet
+website: https://github.com/wasd09090030/live2Dpet_Miku
+repository: https://github.com/wasd09090030/live2Dpet_Miku
+aur:
+- live2d-desktop-pet-git
+electron: 24.8.8
+method: aur-depends

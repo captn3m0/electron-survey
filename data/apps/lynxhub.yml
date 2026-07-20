@@ -1,0 +1,11 @@
+id: lynxhub
+name: Lynxhub
+website: https://github.com/KindaBrazy/LynxHub
+repository: https://github.com/KindaBrazy/LynxHub
+aur:
+- lynxhub
+additionalAUR:
+- lynxhub-bin
+- lynxhub-git
+electron: 42.7.0
+method: aur-depends

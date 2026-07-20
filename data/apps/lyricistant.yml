@@ -1,0 +1,7 @@
+id: lyricistant
+name: Lyricistant
+website: https://lyricistant.app/
+aur:
+- lyricistant-bin
+electron: 30.5.1
+method: aur-depends

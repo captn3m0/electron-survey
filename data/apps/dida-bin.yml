@@ -1,0 +1,10 @@
+id: dida-bin
+name: Dida
+website: https://dida365.com/home
+aur:
+- dida
+repository: https://github.com/jialeens/dida
+additionalAUR:
+- dida-bin
+- dida-git
+- dida365-bin

@@ -1,0 +1,8 @@
+id: subtitle-translator
+name: Subtitle Translator
+website: https://github.com/gnehs/subtitle-translator-electron
+repository: https://github.com/gnehs/subtitle-translator-electron
+aur:
+- subtitle-translator-electron-bin
+electron: 43.1.1
+method: aur-depends

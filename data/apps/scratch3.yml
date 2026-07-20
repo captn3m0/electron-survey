@@ -1,0 +1,8 @@
+id: scratch3
+name: Scratch3
+website: https://github.com/scratchfoundation/scratch-desktop
+repository: https://github.com/scratchfoundation/scratch-desktop
+aur:
+- scratch3
+electron: 39.8.10
+method: aur-depends

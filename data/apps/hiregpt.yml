@@ -1,0 +1,8 @@
+id: hiregpt
+name: Hiregpt
+website: https://github.com/jaejaywoo/HireGPT
+repository: https://github.com/jaejaywoo/HireGPT
+aur:
+- hiregpt
+electron: 23.3.13
+method: aur-depends

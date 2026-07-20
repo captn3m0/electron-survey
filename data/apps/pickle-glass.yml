@@ -1,0 +1,7 @@
+id: pickle-glass
+name: Pickle Glass
+website: https://pickle.com/glass
+aur:
+- pickle-glass-git
+electron: 30.5.1
+method: aur-depends

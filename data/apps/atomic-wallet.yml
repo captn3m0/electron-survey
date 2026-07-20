@@ -1,0 +1,9 @@
+id: atomic-wallet
+name: Atomic Wallet
+website: https://atomicwallet.io
+packages:
+- url: https://get.atomicwallet.io/download/atomicwallet.dmg
+  format: dmg
+  os: macos
+aur:
+- atomicwallet

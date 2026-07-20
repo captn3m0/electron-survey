@@ -1,0 +1,7 @@
+id: edgetx-buddy
+name: Edgetx Buddy
+website: https://buddy.edgetx.org/
+aur:
+- edgetx-buddy-bin
+electron: 29.4.6
+method: aur-depends

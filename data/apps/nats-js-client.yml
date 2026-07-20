@@ -1,0 +1,8 @@
+id: nats-js-client
+name: Nats JS Client
+website: https://github.com/S-404/nats-client-gui
+repository: https://github.com/S-404/nats-client-gui
+aur:
+- nats-js-client-bin
+electron: 26.6.10
+method: aur-depends

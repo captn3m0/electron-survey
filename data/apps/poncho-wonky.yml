@@ -1,0 +1,8 @@
+id: poncho-wonky
+name: Poncho Wonky
+website: https://github.com/soapdog/patchwork
+repository: https://github.com/soapdog/patchwork
+aur:
+- poncho-wonky
+electron: 39.8.10
+method: aur-depends

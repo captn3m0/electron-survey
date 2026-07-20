@@ -1,0 +1,7 @@
+id: transformerlab
+name: Transformerlab
+website: https://transformerlab.ai/
+aur:
+- transformerlab-bin
+electron: 26.6.10
+method: aur-depends

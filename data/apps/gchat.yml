@@ -1,0 +1,8 @@
+id: gchat
+name: Gchat
+website: https://github.com/dcrousso/GChat
+repository: https://github.com/dcrousso/GChat
+aur:
+- gchat
+electron: 23.3.13
+method: aur-depends

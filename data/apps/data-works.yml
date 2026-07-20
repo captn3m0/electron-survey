@@ -1,0 +1,8 @@
+id: data-works
+name: Data Works
+website: https://github.com/alexaib2002/project-dataworks_base
+repository: https://github.com/alexaib2002/project-dataworks_base
+aur:
+- data-works-bin
+electron: 21.4.4
+method: aur-depends

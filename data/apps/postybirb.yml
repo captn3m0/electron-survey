@@ -1,0 +1,10 @@
+id: postybirb
+name: Postybirb
+website: https://www.postybirb.com/
+aur:
+- postybirb
+additionalAUR:
+- postybirb-bin
+- postybirb-git
+electron: 41.10.2
+method: aur-depends

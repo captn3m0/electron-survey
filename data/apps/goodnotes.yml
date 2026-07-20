@@ -1,0 +1,5 @@
+id: goodnotes
+name: Goodnotes
+website: https://web.goodnotes.com
+aur:
+- goodnotes-electron

@@ -1,0 +1,10 @@
+id: less-player
+name: Less Player
+website: https://github.com/GeekLee2012/Less-Player-Desktop
+repository: https://github.com/GeekLee2012/Less-Player-Desktop
+aur:
+- less-player-bin
+additionalAUR:
+- less-player-git
+electron: 22.3.27
+method: aur-depends

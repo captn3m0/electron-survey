@@ -1,0 +1,12 @@
+id: telegram-a
+name: Telegram A
+website: https://web.telegram.org/a/get/
+aur:
+- telegram-a
+packages:
+- url: https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.51/Telegram-A-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 27.3.11
+method: aur-depends

@@ -1,0 +1,7 @@
+id: o-vault
+name: O Vault
+website: https://www.o-vault.org/
+aur:
+- o-vault-bin
+electron: 30.5.1
+method: aur-depends

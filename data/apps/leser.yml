@@ -1,0 +1,8 @@
+id: leser
+name: Leser
+website: https://github.com/KangodYan/leser
+repository: https://github.com/KangodYan/leser
+aur:
+- leser-git
+electron: 28.3.3
+method: aur-depends

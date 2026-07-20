@@ -1,0 +1,8 @@
+id: xchat
+name: Xchat
+website: https://github.com/xYx-c/xchat
+repository: https://github.com/xYx-c/xchat
+aur:
+- xchat-bin
+electron: 27.3.11
+method: aur-depends

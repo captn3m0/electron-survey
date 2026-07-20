@@ -1,0 +1,12 @@
+id: simpletex
+name: Simpletex
+website: https://simpletex.cn/
+aur:
+- simpletex
+packages:
+- url: https://update.simpletex.net/publish/electron/darwin/SimpleTex-0.2.12-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 13.6.9
+method: aur-depends

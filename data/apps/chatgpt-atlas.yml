@@ -8,3 +8,8 @@ packages:
 - url: https://persistent.oaistatic.com/classic/public/ChatGPT_Classic.dmg
   format: dmg
   os: macos
+aur:
+- chatgpt-desktop-bin
+- openai-chatgpt-nativefier
+electron: 42.7.0
+method: aur-depends

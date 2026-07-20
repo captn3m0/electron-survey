@@ -1,0 +1,8 @@
+id: slack-on-keys
+name: Slack On Keys
+website: https://github.com/yakshaG/slack-on-keys
+repository: https://github.com/yakshaG/slack-on-keys
+aur:
+- slack-on-keys-bin
+electron: 24.8.8
+method: aur-depends

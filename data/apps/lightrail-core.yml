@@ -1,0 +1,7 @@
+id: lightrail-core
+name: Lightrail Core
+website: https://lightrail.ai/
+aur:
+- lightrail-core-bin
+electron: 24.8.8
+method: aur-depends

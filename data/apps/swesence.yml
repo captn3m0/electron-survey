@@ -1,0 +1,8 @@
+id: swesence
+name: Swesence
+website: https://github.com/glitchcodes/Swesence
+repository: https://github.com/glitchcodes/Swesence
+aur:
+- swesence-bin
+electron: 20.3.12
+method: aur-depends

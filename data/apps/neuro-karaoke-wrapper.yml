@@ -1,0 +1,8 @@
+id: neuro-karaoke-wrapper
+name: Neuro Karaoke Wrapper
+website: https://github.com/AferilVT/neuro-karaoke-wrapper
+repository: https://github.com/AferilVT/neuro-karaoke-wrapper
+aur:
+- neuro-karaoke-wrapper-git
+additionalAUR:
+- neuro-karaoke-app

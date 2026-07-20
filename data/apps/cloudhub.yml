@@ -1,0 +1,7 @@
+id: cloudhub
+name: Cloudhub
+website: https://www.yunzhijia.com
+aur:
+- cloudhub-bin
+electron: 12.2.3
+method: aur-depends

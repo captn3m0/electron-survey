@@ -1,0 +1,8 @@
+id: open-image-tiny
+name: Open Image Tiny
+website: https://github.com/0604hx/open-image-tiny
+repository: https://github.com/0604hx/open-image-tiny
+aur:
+- open-image-tiny-git
+electron: 36.9.5
+method: aur-depends

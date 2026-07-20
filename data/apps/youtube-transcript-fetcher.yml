@@ -1,0 +1,8 @@
+id: youtube-transcript-fetcher
+name: Youtube Transcript Fetcher
+website: https://github.com/Zyztem/Youtube-Transcript-Fetcher
+repository: https://github.com/Zyztem/Youtube-Transcript-Fetcher
+aur:
+- youtube-transcript-fetcher-bin
+electron: 35.7.5
+method: aur-depends

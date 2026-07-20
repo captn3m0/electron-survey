@@ -1,0 +1,7 @@
+id: bimbala
+name: Bimbala
+website: https://bimbala.com/
+aur:
+- bimbala-desktop-bin
+electron: 33.4.11
+method: aur-depends

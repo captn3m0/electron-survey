@@ -1,0 +1,10 @@
+id: xilinota
+name: Xilinota
+website: https://github.com/XilinJia/Xilinota
+repository: https://github.com/XilinJia/Xilinota
+aur:
+- xilinota-bin
+additionalAUR:
+- xilinota-git
+electron: 28.3.3
+method: aur-depends

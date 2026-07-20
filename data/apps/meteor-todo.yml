@@ -1,0 +1,9 @@
+id: meteor-todo
+name: Meteor Todo
+website: https://hideko.f5.si/project/meteor.html
+aur:
+- meteor-todo-desktop
+additionalAUR:
+- meteor-todo-desktop-bin
+electron: 22.3.27
+method: aur-depends

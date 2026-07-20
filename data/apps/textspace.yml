@@ -1,0 +1,8 @@
+id: textspace
+name: Textspace
+website: https://github.com/muhammad-fiaz/textspace
+repository: https://github.com/muhammad-fiaz/textspace
+aur:
+- textspace-git
+electron: 25.9.8
+method: aur-depends

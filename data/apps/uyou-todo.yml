@@ -1,0 +1,8 @@
+id: uyou-todo
+name: Uyou Todo
+website: https://github.com/tonylu110/uyou-todo-electron
+repository: https://github.com/tonylu110/uyou-todo-electron
+aur:
+- uyou-todo-bin
+electron: 40.10.6
+method: aur-depends

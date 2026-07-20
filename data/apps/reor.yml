@@ -1,0 +1,7 @@
+id: reor
+name: Reor
+website: https://reorproject.org/
+aur:
+- reor-bin
+electron: 35.7.5
+method: aur-depends

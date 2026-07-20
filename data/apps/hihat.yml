@@ -1,0 +1,10 @@
+id: hihat
+name: Hihat
+website: https://github.com/johnnyshankman/hihat
+repository: https://github.com/johnnyshankman/hihat
+aur:
+- hihat
+additionalAUR:
+- hihat-git
+electron: 42.7.0
+method: aur-depends

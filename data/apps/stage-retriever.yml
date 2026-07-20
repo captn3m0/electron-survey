@@ -1,0 +1,8 @@
+id: stage-retriever
+name: Stage Retriever
+website: https://github.com/gabrielesilinic/stage-retriever
+repository: https://github.com/gabrielesilinic/stage-retriever
+aur:
+- stage-retriever
+electron: 29.4.6
+method: aur-depends

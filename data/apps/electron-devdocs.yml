@@ -1,0 +1,8 @@
+id: electron-devdocs
+name: Electron Devdocs
+website: https://github.com/gengjiawen/electron-devdocs
+repository: https://github.com/gengjiawen/electron-devdocs
+aur:
+- electron-devdocs-git
+electron: 29.4.6
+method: aur-depends

@@ -1,0 +1,9 @@
+id: peersky-browser
+name: Peersky Browser
+website: https://peersky.p2plabs.xyz/
+aur:
+- peersky-browser
+additionalAUR:
+- peersky-browser-bin
+electron: 41.10.2
+method: aur-depends

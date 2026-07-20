@@ -1,0 +1,10 @@
+id: lyrs
+name: Lyrs
+website: https://github.com/organization/lyrs
+repository: https://github.com/organization/lyrs
+aur:
+- lyrs-bin
+additionalAUR:
+- lyrs-git
+electron: 43.1.1
+method: aur-depends

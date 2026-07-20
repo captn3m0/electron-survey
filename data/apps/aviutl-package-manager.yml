@@ -1,0 +1,7 @@
+id: aviutl-package-manager
+name: Aviutl Package Manager
+website: https://team-apm.github.io/apm/
+aur:
+- aviutl-package-manager-bin
+electron: 34.5.8
+method: aur-depends

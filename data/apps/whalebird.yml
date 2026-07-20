@@ -1,0 +1,13 @@
+id: whalebird
+name: Whalebird
+website: https://whalebird.social/
+aur:
+- whalebird-bin
+packages:
+- url: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-mac-universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- whalebird-git
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,11 @@
+id: moose
+name: Moose
+website: https://moose.riteshkr.com/
+aur:
+- moose-bin
+packages:
+- url: https://github.com/ritz078/moose/releases/download/v0.6.2/moose-0.6.2-mac.zip
+  format: zip
+  os: macos
+electron: 9.4.4
+method: aur-depends

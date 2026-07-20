@@ -1,0 +1,11 @@
+id: copytranslator
+name: Copytranslator
+website: https://copytranslator.gitee.io/
+aur:
+- copytranslator-bin
+packages:
+- url: https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0.dmg
+  format: dmg
+  os: macos
+electron: 6.1.12
+method: aur-depends

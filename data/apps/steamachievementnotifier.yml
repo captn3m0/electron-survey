@@ -1,0 +1,10 @@
+id: steamachievementnotifier
+name: Steamachievementnotifier
+website: https://github.com/SteamAchievementNotifier/SteamAchievementNotifier
+repository: https://github.com/SteamAchievementNotifier/SteamAchievementNotifier
+aur:
+- steamachievementnotifier
+additionalAUR:
+- steamachievementnotifier-bin
+electron: 42.7.0
+method: aur-depends

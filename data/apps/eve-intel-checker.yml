@@ -1,0 +1,8 @@
+id: eve-intel-checker
+name: Eve Intel Checker
+website: https://github.com/SebastienDuruz/Eve-Intel-Checker
+repository: https://github.com/SebastienDuruz/Eve-Intel-Checker
+aur:
+- eve-intel-checker-bin
+electron: 26.6.10
+method: aur-depends

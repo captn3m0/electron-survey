@@ -1,0 +1,7 @@
+id: anklang
+name: Anklang
+website: https://anklang.testbit.eu/
+aur:
+- anklang-bin
+electron: 31.7.7
+method: aur-depends

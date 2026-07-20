@@ -1,0 +1,7 @@
+id: spotify
+name: Spotify
+website: https://antoniomrtz.github.io/SpotifyElectron_Web/
+aur:
+- spotify-electron-bin
+electron: 31.7.7
+method: aur-depends

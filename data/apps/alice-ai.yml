@@ -1,0 +1,8 @@
+id: alice-ai
+name: Alice AI
+website: https://github.com/pmbstyle/Alice
+repository: https://github.com/pmbstyle/Alice
+aur:
+- alice-ai-app-bin
+electron: 28.3.3
+method: aur-depends

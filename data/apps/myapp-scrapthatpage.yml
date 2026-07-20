@@ -1,0 +1,8 @@
+id: myapp-scrapthatpage
+name: Myapp Scrapthatpage
+website: https://github.com/kaushalmeena/myapp-scrapthatpage
+repository: https://github.com/kaushalmeena/myapp-scrapthatpage
+aur:
+- myapp-scrapthatpage-bin
+electron: 23.3.13
+method: aur-depends

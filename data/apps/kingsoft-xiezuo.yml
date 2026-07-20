@@ -1,0 +1,7 @@
+id: kingsoft-xiezuo
+name: Kingsoft Xiezuo
+website: https://365.wps.cn/download365
+aur:
+- kingsoft-xiezuo
+electron: 22.3.27
+method: aur-depends

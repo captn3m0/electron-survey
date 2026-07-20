@@ -1,0 +1,8 @@
+id: ryusak
+name: Ryusak
+website: https://github.com/Ecks1337/RyuSAK
+repository: https://github.com/Ecks1337/RyuSAK
+aur:
+- ryusak
+electron: 21.4.4
+method: aur-depends

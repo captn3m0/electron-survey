@@ -1,0 +1,9 @@
+id: mendeley-reference-manager
+name: Mendeley Reference Manager
+website: https://www.mendeley.com/download-reference-manager
+aur:
+- mendeley-reference-manager-electron
+packages:
+- url: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.148.0-universal.dmg
+  format: dmg
+  os: macos

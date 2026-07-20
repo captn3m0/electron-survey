@@ -1,0 +1,8 @@
+id: chunksize-checker
+name: Chunksize Checker
+website: https://github.com/yuma-shintani/chunksize-checker
+repository: https://github.com/yuma-shintani/chunksize-checker
+aur:
+- chunksize-checker-git
+electron: 31.7.7
+method: aur-depends

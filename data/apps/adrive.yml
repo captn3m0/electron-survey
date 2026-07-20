@@ -1,0 +1,12 @@
+id: adrive
+name: Adrive
+website: https://www.aliyundrive.com/
+aur:
+- adrive
+packages:
+- url: https://cdn.aliyundrive.net/downloads/apps/desktop/aDrive-6.9.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- aliyun-adrive-bin

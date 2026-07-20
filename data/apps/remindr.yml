@@ -1,0 +1,7 @@
+id: remindr
+name: Remindr
+website: https://mrdavidrios.github.io/remindr
+aur:
+- remindr-bin
+electron: 36.9.5
+method: aur-depends

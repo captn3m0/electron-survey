@@ -1,0 +1,8 @@
+id: gridview
+name: Gridview
+website: https://github.com/0000xFFFF/gridview
+repository: https://github.com/0000xFFFF/gridview
+aur:
+- gridview-git
+electron: 26.6.10
+method: aur-depends

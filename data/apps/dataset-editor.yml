@@ -1,0 +1,8 @@
+id: dataset-editor
+name: Dataset Editor
+website: https://github.com/Jelosus2/DatasetEditor
+repository: https://github.com/Jelosus2/DatasetEditor
+aur:
+- dataset-editor
+electron: 39.8.10
+method: aur-depends

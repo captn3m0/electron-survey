@@ -1,0 +1,11 @@
+id: botframework-emulator
+name: Botframework Emulator
+website: https://aka.ms/botemulator
+aur:
+- botframework-emulator-bin
+packages:
+- url: https://github.com/Microsoft/BotFramework-Emulator/releases/download/v4.14.1/botframework-emulator-4.14.1-mac.zip
+  format: zip
+  os: macos
+electron: 26.6.10
+method: aur-depends

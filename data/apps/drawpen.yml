@@ -1,0 +1,13 @@
+id: drawpen
+name: Drawpen
+website: https://github.com/DmytroVasin/DrawPen
+repository: https://github.com/DmytroVasin/DrawPen
+aur:
+- drawpen-bin
+packages:
+- url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-0.0.53-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 40.10.6
+method: aur-depends

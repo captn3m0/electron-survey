@@ -1,0 +1,8 @@
+id: cgdi
+name: Cgdi
+website: https://github.com/nullfuzz-pentest/CGDI
+repository: https://github.com/nullfuzz-pentest/CGDI
+aur:
+- cgdi
+electron: 23.3.13
+method: aur-depends

@@ -1,0 +1,8 @@
+id: firetail
+name: Firetail
+website: https://github.com/kawuchuu/firetail
+repository: https://github.com/kawuchuu/firetail
+aur:
+- firetail-bin
+electron: 41.10.2
+method: aur-depends

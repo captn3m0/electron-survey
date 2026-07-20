@@ -1,0 +1,10 @@
+id: blinker
+name: Blinker
+website: https://github.com/mrkpatchaa/blinker
+repository: https://github.com/mrkpatchaa/blinker
+aur:
+- blinker-bin
+additionalAUR:
+- blinker-git
+electron: 28.3.3
+method: aur-depends

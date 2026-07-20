@@ -1,0 +1,8 @@
+id: ikun-music
+name: Ikun Music
+website: https://github.com/ikunshare/ikun-music-desktop
+repository: https://github.com/ikunshare/ikun-music-desktop
+aur:
+- ikun-music-desktop-bin
+electron: 37.10.3
+method: aur-depends

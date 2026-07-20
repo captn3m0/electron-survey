@@ -1,0 +1,8 @@
+id: botclient
+name: Botclient
+website: https://github.com/DarkGuy10/BotClient
+repository: https://github.com/DarkGuy10/BotClient
+aur:
+- botclient-bin
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,6 @@
+id: electron-xiami
+name: Electron Xiami
+website: https://github.com/eNkru/electron-xiami
+repository: https://github.com/eNkru/electron-xiami
+aur:
+- electron-xiami

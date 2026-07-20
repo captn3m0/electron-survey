@@ -1,0 +1,7 @@
+id: glimboi
+name: Glimboi
+website: https://glimboi.com/
+aur:
+- glimboi-bin
+electron: 18.3.15
+method: aur-depends

@@ -1,0 +1,7 @@
+id: eaglergrab
+name: Eaglergrab
+website: https://stoppedwumm.github.io/eaglerGrab/
+aur:
+- eaglergrab-bin
+electron: 41.10.2
+method: aur-depends

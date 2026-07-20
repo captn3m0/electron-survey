@@ -1,0 +1,8 @@
+id: altitude-metrix-wallet
+name: Altitude Metrix Wallet
+website: https://github.com/TheLindaProjectInc/Altitude
+repository: https://github.com/TheLindaProjectInc/Altitude
+aur:
+- altitude-metrix-wallet-bin
+electron: 33.4.11
+method: aur-depends

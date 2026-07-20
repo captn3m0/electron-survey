@@ -1,0 +1,12 @@
+id: ente
+name: Ente
+website: https://github.com/ente-io/photos-desktop
+repository: https://github.com/ente-io/photos-desktop
+aur:
+- ente-desktop-bin
+packages:
+- url: https://github.com/ente-io/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.dmg
+  format: dmg
+  os: macos
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,8 @@
+id: spine-viewer
+name: Spine Viewer
+website: https://github.com/anosu/Spine-Viewer
+repository: https://github.com/anosu/Spine-Viewer
+aur:
+- spine-viewer-git
+electron: 30.5.1
+method: aur-depends

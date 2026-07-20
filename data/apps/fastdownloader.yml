@@ -1,0 +1,8 @@
+id: fastdownloader
+name: Fastdownloader
+website: https://github.com/BERNARDO31P/FastDownloader
+repository: https://github.com/BERNARDO31P/FastDownloader
+aur:
+- fastdownloader-bin
+electron: 39.8.10
+method: aur-depends

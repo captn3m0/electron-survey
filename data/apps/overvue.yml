@@ -1,0 +1,7 @@
+id: overvue
+name: Overvue
+website: https://www.overvue.org/
+aur:
+- overvue-git
+electron: 29.4.6
+method: aur-depends

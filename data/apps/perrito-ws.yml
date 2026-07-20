@@ -1,0 +1,10 @@
+id: perrito-ws
+name: Perrito Ws
+website: https://github.com/KAIKAKU-AI/perrito-ws
+repository: https://github.com/KAIKAKU-AI/perrito-ws
+aur:
+- perrito-ws
+additionalAUR:
+- perrito-ws-git
+electron: 29.4.6
+method: aur-depends

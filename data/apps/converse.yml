@@ -1,0 +1,8 @@
+id: converse
+name: Converse
+website: https://github.com/louisdecharson/converse
+repository: https://github.com/louisdecharson/converse
+aur:
+- converse
+electron: 33.4.11
+method: aur-depends

@@ -1,0 +1,10 @@
+id: miteiru-bin
+name: Miteiru
+website: https://github.com/hockyy/miteiru
+repository: https://github.com/hockyy/miteiru
+aur:
+- miteiru
+additionalAUR:
+- miteiru-bin
+electron: 41.10.2
+method: aur-depends

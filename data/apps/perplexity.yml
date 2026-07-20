@@ -1,0 +1,10 @@
+id: perplexity
+name: Perplexity
+website: https://github.com/mazixs/perplexity
+repository: https://github.com/mazixs/perplexity
+aur:
+- perplexity
+packages:
+- url: https://macos-download.perplexity.ai/Perplexity.dmg
+  format: dmg
+  os: macos

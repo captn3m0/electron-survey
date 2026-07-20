@@ -1,0 +1,8 @@
+id: circle-chain
+name: Circle Chain
+website: https://github.com/lidh04/circle-chain-desktop
+repository: https://github.com/lidh04/circle-chain-desktop
+aur:
+- circle-chain-desktop-git
+electron: 20.3.12
+method: aur-depends

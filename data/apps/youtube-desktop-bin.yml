@@ -1,0 +1,10 @@
+id: youtube-desktop-bin
+name: Youtube
+website: https://github.com/mikepruett3/youtube-desktop
+repository: https://github.com/mikepruett3/youtube-desktop
+aur:
+- youtube-app-bin
+additionalAUR:
+- youtube-desktop-bin
+electron: 41.10.2
+method: aur-depends

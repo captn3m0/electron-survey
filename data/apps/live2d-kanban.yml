@@ -1,0 +1,9 @@
+id: live2d-kanban
+name: Live2d Kanban
+website: http://studio.zerolite.cn/post/338/waifuproject2-live2d-kanban-desktop/
+aur:
+- live2d-kanban-desktop
+additionalAUR:
+- live2d-kanban-desktop-bin
+electron: 22.3.27
+method: aur-depends

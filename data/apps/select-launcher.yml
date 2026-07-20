@@ -1,0 +1,7 @@
+id: select-launcher
+name: Select Launcher
+website: https://select-launcher.onrender.com/
+aur:
+- select-launcher-git
+electron: 27.3.11
+method: aur-depends

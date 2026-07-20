@@ -1,0 +1,7 @@
+id: pgadmin4-desktop-native
+name: Pgadmin4 Desktop Native
+website: https://www.pgadmin.org/
+aur:
+- pgadmin4-desktop-native
+electron: 34.5.8
+method: aur-depends

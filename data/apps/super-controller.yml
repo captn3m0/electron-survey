@@ -1,0 +1,8 @@
+id: super-controller
+name: Super Controller
+website: https://github.com/aolsenjazz/super-controller
+repository: https://github.com/aolsenjazz/super-controller
+aur:
+- super-controller
+electron: 19.1.9
+method: aur-depends

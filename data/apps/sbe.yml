@@ -1,0 +1,8 @@
+id: sbe
+name: Sbe
+website: https://github.com/kondoumh/sbe
+repository: https://github.com/kondoumh/sbe
+aur:
+- sbe-bin
+electron: 39.8.10
+method: aur-depends

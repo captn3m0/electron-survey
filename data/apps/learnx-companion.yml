@@ -1,0 +1,8 @@
+id: learnx-companion
+name: Learnx Companion
+website: https://github.com/robertying/learnX-companion
+repository: https://github.com/robertying/learnX-companion
+aur:
+- learnx-companion-electron-git
+electron: 23.3.13
+method: aur-depends

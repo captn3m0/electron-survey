@@ -1,0 +1,6 @@
+id: youtube-tv
+name: Youtube TV
+website: https://github.com/etylermoss/youtube-tv-desktop
+repository: https://github.com/etylermoss/youtube-tv-desktop
+aur:
+- youtube-tv-desktop-app

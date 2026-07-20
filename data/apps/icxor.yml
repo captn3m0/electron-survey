@@ -1,0 +1,8 @@
+id: icxor
+name: Icxor
+website: https://github.com/MarkPoloChina/ICXOR
+repository: https://github.com/MarkPoloChina/ICXOR
+aur:
+- icxor-git
+electron: 26.6.10
+method: aur-depends

@@ -1,0 +1,13 @@
+id: mubu-bin
+name: Mubu
+website: https://mubu.com
+aur:
+- mubu
+packages:
+- url: https://assets.mubu.com/client/5.7.1/Mubu-5.7.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+repository: https://github.com/kudoxu/mubu
+additionalAUR:
+- mubu-bin

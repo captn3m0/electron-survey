@@ -1,0 +1,7 @@
+id: 3fa
+name: 3fa
+website: https://3fa.netlify.app/
+aur:
+- 3fa-bin
+electron: 26.6.10
+method: aur-depends

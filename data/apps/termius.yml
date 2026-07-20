@@ -6,3 +6,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+aur:
+- termius
+- termius-beta
+- termius-bin
+- termius-deb

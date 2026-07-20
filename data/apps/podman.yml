@@ -1,0 +1,12 @@
+id: podman
+name: Podman
+website: https://podman-desktop.io/
+aur:
+- podman-desktop-git
+packages:
+- url: https://github.com/containers/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 42.7.0
+method: aur-depends

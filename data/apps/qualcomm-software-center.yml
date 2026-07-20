@@ -1,0 +1,7 @@
+id: qualcomm-software-center
+name: Qualcomm Software Center
+website: https://www.qualcomm.com/developer/software/qualcomm-software-center
+aur:
+- qualcomm-software-center
+electron: 32.3.3
+method: aur-depends

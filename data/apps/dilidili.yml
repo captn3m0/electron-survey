@@ -1,0 +1,8 @@
+id: dilidili
+name: Dilidili
+website: https://github.com/Darcrandex/dilidili
+repository: https://github.com/Darcrandex/dilidili
+aur:
+- dilidili-git
+electron: 30.5.1
+method: aur-depends

@@ -1,0 +1,9 @@
+id: flomo
+name: Flomo
+website: https://flomoapp.com/
+aur:
+- flomo-bin
+additionalAUR:
+- flomo-electron
+electron: 36.9.5
+method: aur-depends

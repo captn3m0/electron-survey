@@ -1,0 +1,8 @@
+id: benchworx
+name: Benchworx
+website: https://github.com/simonireilly/dynamoDB-benchworx
+repository: https://github.com/simonireilly/dynamoDB-benchworx
+aur:
+- benchworx-bin
+electron: 12.2.3
+method: aur-depends

@@ -1,0 +1,8 @@
+id: singland
+name: Singland
+website: https://github.com/net-breaker/sing-land
+repository: https://github.com/net-breaker/sing-land
+aur:
+- singland-bin
+electron: 23.3.13
+method: aur-depends

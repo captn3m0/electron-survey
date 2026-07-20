@@ -1,0 +1,8 @@
+id: pause
+name: Pause
+website: https://github.com/Thomsch/pause
+repository: https://github.com/Thomsch/pause
+aur:
+- pause-desktop-bin
+electron: 27.3.11
+method: aur-depends

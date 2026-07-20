@@ -1,0 +1,6 @@
+id: sparkle
+name: Sparkle
+website: https://github.com/xishang0128/sparkle
+repository: https://github.com/xishang0128/sparkle
+aur:
+- sparkle-electron-git

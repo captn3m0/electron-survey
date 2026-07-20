@@ -1,0 +1,10 @@
+id: bookord
+name: Bookord
+website: https://github.com/LiprikON2/Bookord
+repository: https://github.com/LiprikON2/Bookord
+aur:
+- bookord-bin
+additionalAUR:
+- bookord-git
+electron: 29.4.6
+method: aur-depends

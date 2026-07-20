@@ -1,0 +1,7 @@
+id: graycrown
+name: Graycrown
+website: https://zeankundev.github.io/graycrown
+aur:
+- graycrown-bin
+electron: 20.3.12
+method: aur-depends

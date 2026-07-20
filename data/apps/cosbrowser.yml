@@ -1,0 +1,7 @@
+id: cosbrowser
+name: Cosbrowser
+website: https://cloud.tencent.com
+aur:
+- cosbrowser
+electron: 11.5.0
+method: aur-depends

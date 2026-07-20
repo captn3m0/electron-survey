@@ -1,0 +1,6 @@
+id: fvtt-player-client
+name: Fvtt Player Client
+website: https://github.com/theripper93/fvtt-player-client
+repository: https://github.com/theripper93/fvtt-player-client
+aur:
+- fvtt-player-client

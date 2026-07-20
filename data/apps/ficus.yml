@@ -1,0 +1,7 @@
+id: ficus
+name: Ficus
+website: https://ficus.world/
+aur:
+- ficus-bin
+electron: 13.6.9
+method: aur-depends

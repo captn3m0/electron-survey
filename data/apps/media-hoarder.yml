@@ -1,0 +1,8 @@
+id: media-hoarder
+name: Media Hoarder
+website: https://github.com/theMK2k/Media-Hoarder
+repository: https://github.com/theMK2k/Media-Hoarder
+aur:
+- media-hoarder-bin
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,7 @@
+id: tishare
+name: Tishare
+website: https://dlguswo333.github.io/tishare-docs
+aur:
+- tishare-desktop-bin
+electron: 37.10.3
+method: aur-depends

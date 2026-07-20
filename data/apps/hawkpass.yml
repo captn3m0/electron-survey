@@ -1,0 +1,7 @@
+id: hawkpass
+name: Hawkpass
+website: https://kalpetros.github.io/hawkpass
+aur:
+- hawkpass-git
+electron: 22.3.27
+method: aur-depends

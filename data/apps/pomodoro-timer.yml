@@ -1,0 +1,8 @@
+id: pomodoro-timer
+name: Pomodoro Timer
+website: https://github.com/pauchiner/pomodoro-timer
+repository: https://github.com/pauchiner/pomodoro-timer
+aur:
+- pomodoro-timer
+electron: 26.6.10
+method: aur-depends

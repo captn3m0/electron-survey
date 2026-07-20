@@ -1,0 +1,9 @@
+id: own3d
+name: Own3d
+website: https://www.own3d.pro/
+aur:
+- own3d-desktop-bin
+additionalAUR:
+- own3d-desktop-git
+electron: 29.4.6
+method: aur-depends

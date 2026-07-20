@@ -1,0 +1,10 @@
+id: seven-waves
+name: Seven Waves
+website: https://github.com/Togohogo1/7-Waves
+repository: https://github.com/Togohogo1/7-Waves
+aur:
+- seven-waves
+additionalAUR:
+- seven-waves-git
+electron: 9.4.4
+method: aur-depends

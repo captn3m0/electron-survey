@@ -1,0 +1,8 @@
+id: spotbar
+name: Spotbar
+website: https://github.com/levarr/Spotbar
+repository: https://github.com/levarr/Spotbar
+aur:
+- spotbar
+electron: 24.8.8
+method: aur-depends

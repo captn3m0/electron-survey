@@ -1,0 +1,8 @@
+id: live-plus-plus
+name: Live Plus Plus
+website: https://github.com/dipelta/live-plus-plus
+repository: https://github.com/dipelta/live-plus-plus
+aur:
+- live-plus-plus-bin
+electron: 28.3.3
+method: aur-depends

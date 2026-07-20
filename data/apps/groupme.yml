@@ -1,0 +1,8 @@
+id: groupme
+name: Groupme
+website: https://github.com/dcrousso/GroupMe
+repository: https://github.com/dcrousso/GroupMe
+aur:
+- groupme
+additionalAUR:
+- groupme-git

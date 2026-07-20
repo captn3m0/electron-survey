@@ -1,0 +1,8 @@
+id: ultra-tracker
+name: Ultra Tracker
+website: https://github.com/barcradio/ultra-tracker
+repository: https://github.com/barcradio/ultra-tracker
+aur:
+- ultra-tracker-bin
+electron: 28.3.3
+method: aur-depends

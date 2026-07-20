@@ -1,0 +1,9 @@
+id: js-design
+name: JS Design
+website: https://js.design
+aur:
+- js-design-appimage
+additionalAUR:
+- js-design-electron-bin
+electron: 25.9.8
+method: aur-depends

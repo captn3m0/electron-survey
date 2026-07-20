@@ -1,0 +1,7 @@
+id: omofun
+name: Omofun
+website: https://omofun.tv/
+aur:
+- omofun
+electron: 40.10.6
+method: aur-depends

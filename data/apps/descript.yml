@@ -1,0 +1,7 @@
+id: descript
+name: Descript
+website: https://www.descript.com
+packages:
+- url: https://static-cdn.descript.com/desktop/darwin/Descript%20Installer.zip
+  format: zip
+  os: macos

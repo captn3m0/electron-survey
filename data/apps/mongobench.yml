@@ -1,0 +1,6 @@
+id: mongobench
+name: Mongobench
+website: https://github.com/ByteExceptionM/MongoBench
+repository: https://github.com/ByteExceptionM/MongoBench
+aur:
+- mongobench-git

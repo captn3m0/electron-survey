@@ -1,0 +1,8 @@
+id: apk-installer
+name: Apk Installer
+website: https://github.com/zhujiaming/apk-installer
+repository: https://github.com/zhujiaming/apk-installer
+aur:
+- apk-installer
+electron: 10.4.7
+method: aur-depends

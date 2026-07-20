@@ -1,0 +1,7 @@
+id: megacubo
+name: Megacubo
+website: https://megacubo.tv/
+aur:
+- megacubo-bin
+electron: 35.7.5
+method: aur-depends

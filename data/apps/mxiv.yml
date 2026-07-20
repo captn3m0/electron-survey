@@ -1,0 +1,8 @@
+id: mxiv
+name: Mxiv
+website: https://github.com/rvcalisto/mxiv
+repository: https://github.com/rvcalisto/mxiv
+aur:
+- mxiv-git
+electron: 38.8.6
+method: aur-depends

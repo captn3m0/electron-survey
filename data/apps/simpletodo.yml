@@ -1,0 +1,7 @@
+id: simpletodo
+name: Simpletodo
+website: https://simpletodo.app/
+aur:
+- simpletodo-git
+electron: 27.3.11
+method: aur-depends

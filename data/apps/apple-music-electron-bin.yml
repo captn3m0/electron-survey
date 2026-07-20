@@ -1,0 +1,9 @@
+id: apple-music-electron-bin
+name: Apple Music
+website: https://github.com/Alex313031/Apple-Music-Electron
+repository: https://github.com/Alex313031/Apple-Music-Electron
+aur:
+- apple-music-desktop
+additionalAUR:
+- apple-music-electron-bin
+- apple-music-electron-git

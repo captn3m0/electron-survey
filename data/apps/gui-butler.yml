@@ -1,0 +1,7 @@
+id: gui-butler
+name: GUI Butler
+website: https://seansleblanc.itch.io/gui-butler
+aur:
+- gui-butler
+electron: 28.3.3
+method: aur-depends

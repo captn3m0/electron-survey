@@ -1,0 +1,8 @@
+id: karbonized
+name: Karbonized
+website: https://github.com/yossTheDev/karbonized
+repository: https://github.com/yossTheDev/karbonized
+aur:
+- karbonized-bin
+electron: 25.9.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: electron-music-player
+name: Electron Music Player
+website: https://github.com/kevinfrei/EMP
+repository: https://github.com/kevinfrei/EMP
+aur:
+- electron-music-player
+electron: 25.9.8
+method: aur-depends

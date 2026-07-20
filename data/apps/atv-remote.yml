@@ -1,0 +1,13 @@
+id: atv-remote
+name: Atv Remote
+website: https://github.com/jklewa/atv-desktop-remote
+repository: https://github.com/jklewa/atv-desktop-remote
+aur:
+- atv-remote-bin
+packages:
+- url: https://github.com/bsharper/atv-desktop-remote/releases/download/v2.1.1/ATV.Remote-2.1.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 33.4.11
+method: aur-depends

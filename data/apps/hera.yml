@@ -1,0 +1,8 @@
+id: hera
+name: Hera
+website: https://github.com/sandrasoueid/hera
+repository: https://github.com/sandrasoueid/hera
+aur:
+- hera-git
+electron: 32.3.3
+method: aur-depends

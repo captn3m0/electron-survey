@@ -1,0 +1,9 @@
+id: hugin-messenger
+name: Hugin Messenger
+website: https://hugin.chat/
+aur:
+- hugin-messenger
+additionalAUR:
+- hugin-messenger-bin
+electron: 30.5.1
+method: aur-depends

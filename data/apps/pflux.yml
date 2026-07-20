@@ -1,0 +1,8 @@
+id: pflux
+name: Pflux
+website: https://github.com/gaspardruan/pflux
+repository: https://github.com/gaspardruan/pflux
+aur:
+- pflux-git
+electron: 26.6.10
+method: aur-depends

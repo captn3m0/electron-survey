@@ -1,0 +1,7 @@
+id: monolith-code
+name: Monolith Code
+website: https://haeri.github.io/monolith-code
+aur:
+- monolith-code-bin
+electron: 42.7.0
+method: aur-depends

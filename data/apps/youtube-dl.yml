@@ -1,0 +1,6 @@
+id: youtube-dl
+name: Youtube Dl
+website: https://github.com/StefanLobbenmeier/youtube-dl-gui
+repository: https://github.com/StefanLobbenmeier/youtube-dl-gui
+aur:
+- youtube-dl-gui-bin

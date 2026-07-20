@@ -1,0 +1,8 @@
+id: teamide
+name: Teamide
+website: https://github.com/team-ide/teamide
+repository: https://github.com/team-ide/teamide
+aur:
+- teamide-bin
+electron: 22.3.27
+method: aur-depends

@@ -1,0 +1,9 @@
+id: xmind
+name: XMind
+website: https://xmind.com
+packages:
+- url: https://dl3.xmind.app/Xmind-for-macOS-26.04.01341-202607130058.dmg
+  format: dmg
+  os: macos
+aur:
+- xmind

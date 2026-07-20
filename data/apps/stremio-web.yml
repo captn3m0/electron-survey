@@ -1,0 +1,8 @@
+id: stremio-web
+name: Stremio Web
+website: https://github.com/Zaarrg/stremio-web-desktop
+repository: https://github.com/Zaarrg/stremio-web-desktop
+aur:
+- stremio-web-desktop-bin
+electron: 33.4.11
+method: aur-depends

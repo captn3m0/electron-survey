@@ -1,0 +1,8 @@
+id: note-mark
+name: Note Mark
+website: https://github.com/AbdulDevHub/NoteMark
+repository: https://github.com/AbdulDevHub/NoteMark
+aur:
+- note-mark-git
+electron: 28.3.3
+method: aur-depends

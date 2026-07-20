@@ -1,0 +1,10 @@
+id: bsky
+name: Bsky
+website: https://github.com/CaffeeLake/bsky-electron
+repository: https://github.com/CaffeeLake/bsky-electron
+aur:
+- bsky-electron-bin
+additionalAUR:
+- bsky-electron-git
+electron: 42.7.0
+method: aur-depends

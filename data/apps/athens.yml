@@ -1,0 +1,6 @@
+id: athens
+name: Athens
+website: https://github.com/athensresearch/athens
+repository: https://github.com/athensresearch/athens
+aur:
+- athens-git

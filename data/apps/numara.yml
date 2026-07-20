@@ -1,0 +1,7 @@
+id: numara
+name: Numara
+website: https://numara.io/
+aur:
+- numara-bin
+electron: 43.1.1
+method: aur-depends

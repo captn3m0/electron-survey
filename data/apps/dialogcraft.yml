@@ -1,0 +1,10 @@
+id: dialogcraft
+name: Dialogcraft
+website: https://github.com/Hayden2018/dialogcraft
+repository: https://github.com/Hayden2018/dialogcraft
+aur:
+- dialogcraft
+additionalAUR:
+- dialogcraft-bin
+electron: 25.9.8
+method: aur-depends

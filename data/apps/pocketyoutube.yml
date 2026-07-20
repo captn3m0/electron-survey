@@ -1,0 +1,8 @@
+id: pocketyoutube
+name: Pocketyoutube
+website: https://github.com/0adri3n/PocketYoutube
+repository: https://github.com/0adri3n/PocketYoutube
+aur:
+- pocketyoutube-git
+electron: 31.7.7
+method: aur-depends

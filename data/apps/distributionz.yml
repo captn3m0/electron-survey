@@ -1,0 +1,8 @@
+id: distributionz
+name: Distributionz
+website: https://github.com/TheDome/DistributionZ
+repository: https://github.com/TheDome/DistributionZ
+aur:
+- distributionz-bin
+electron: 22.3.27
+method: aur-depends

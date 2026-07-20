@@ -1,0 +1,7 @@
+id: ohmymd
+name: Ohmymd
+website: https://www.ohmymd.app/
+aur:
+- ohmymd-bin
+electron: 24.8.8
+method: aur-depends

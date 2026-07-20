@@ -1,0 +1,7 @@
+id: tjmc-launcher
+name: Tjmc Launcher
+website: https://launcher.tjmc.ru/
+aur:
+- tjmc-launcher-bin
+electron: 23.3.13
+method: aur-depends

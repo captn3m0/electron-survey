@@ -1,0 +1,8 @@
+id: hexo
+name: Hexo
+website: https://github.com/w-xuefeng/hexo-desktop
+repository: https://github.com/w-xuefeng/hexo-desktop
+aur:
+- hexo-desktop-git
+electron: 35.7.5
+method: aur-depends

@@ -1,0 +1,8 @@
+id: vrc-photo-viewer
+name: Vrc Photo Viewer
+website: https://github.com/vayacico/vrc-photo-viewer
+repository: https://github.com/vayacico/vrc-photo-viewer
+aur:
+- vrc-photo-viewer-git
+electron: 34.5.8
+method: aur-depends

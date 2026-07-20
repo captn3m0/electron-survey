@@ -1,0 +1,6 @@
+id: electronic-wechat-uos
+name: Electronic Wechat Uos
+website: https://github.com/Riceneeder/electronic-wechat
+repository: https://github.com/Riceneeder/electronic-wechat
+aur:
+- electronic-wechat-uos-bin

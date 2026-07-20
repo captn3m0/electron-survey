@@ -1,0 +1,7 @@
+id: flowtestai
+name: Flowtestai
+website: https://flowtestai.gitbook.io/flowtestai
+aur:
+- flowtestai-git
+electron: 29.4.6
+method: aur-depends

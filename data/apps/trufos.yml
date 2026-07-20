@@ -1,0 +1,9 @@
+id: trufos
+name: Trufos
+website: https://exxeta.github.io/trufos/
+aur:
+- trufos-bin
+additionalAUR:
+- trufos-git
+electron: 41.10.2
+method: aur-depends

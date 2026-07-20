@@ -1,0 +1,6 @@
+id: idena
+name: Idena
+website: https://github.com/idena-network/idena-desktop
+repository: https://github.com/idena-network/idena-desktop
+aur:
+- idena-desktop-git

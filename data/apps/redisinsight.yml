@@ -1,0 +1,9 @@
+id: redisinsight
+name: RedisInsight
+website: https://redis.io/insight/
+repository: https://github.com/redis/RedisInsight
+packages:
+- url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

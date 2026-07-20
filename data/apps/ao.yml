@@ -1,0 +1,11 @@
+id: ao
+name: Ao
+website: https://klaussinani.github.io/ao
+aur:
+- ao-git
+packages:
+- url: https://github.com/klaussinani/ao/releases/download/v6.9.0/Ao-6.9.0.dmg
+  format: dmg
+  os: macos
+electron: 13.6.9
+method: aur-depends

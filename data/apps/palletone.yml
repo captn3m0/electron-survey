@@ -1,0 +1,7 @@
+id: palletone
+name: Palletone
+website: https://palletone-demo.vercel.app/
+aur:
+- palletone-git
+electron: 28.3.3
+method: aur-depends

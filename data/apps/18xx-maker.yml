@@ -1,0 +1,7 @@
+id: 18xx-maker
+name: 18xx Maker
+website: https://18xx-maker.com
+aur:
+- 18xx-maker-git
+electron: 33.4.11
+method: aur-depends

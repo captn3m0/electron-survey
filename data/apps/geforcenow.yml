@@ -1,0 +1,10 @@
+id: geforcenow
+name: Geforcenow
+website: https://github.com/hmlendea/gfn-electron
+repository: https://github.com/hmlendea/gfn-electron
+aur:
+- geforcenow-electron
+additionalAUR:
+- geforcenow-electron-bin
+electron: 35.7.5
+method: aur-depends

@@ -1,0 +1,8 @@
+id: ollama-runner
+name: Ollama Runner
+website: https://github.com/Bushenzie/ollama-runner
+repository: https://github.com/Bushenzie/ollama-runner
+aur:
+- ollama-runner-git
+electron: 34.5.8
+method: aur-depends

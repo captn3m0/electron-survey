@@ -1,0 +1,8 @@
+id: ih8rtcgui
+name: Ih8rtcgui
+website: https://github.com/kenny59/ih8rtcgui
+repository: https://github.com/kenny59/ih8rtcgui
+aur:
+- ih8rtcgui
+electron: 29.4.6
+method: aur-depends

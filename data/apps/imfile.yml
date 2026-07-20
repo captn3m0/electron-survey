@@ -1,0 +1,10 @@
+id: imfile
+name: Imfile
+website: https://imfile.org/
+aur:
+- imfile
+additionalAUR:
+- imfile-bin
+- imfile-git
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,10 @@
+id: patchbay
+name: Patchbay
+website: https://github.com/ssbc/patchbay
+repository: https://github.com/ssbc/patchbay
+aur:
+- patchbay
+additionalAUR:
+- patchbay-git
+electron: 4.2.12
+method: aur-depends

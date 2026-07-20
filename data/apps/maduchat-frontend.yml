@@ -1,0 +1,8 @@
+id: maduchat-frontend
+name: Maduchat Frontend
+website: https://github.com/Madu-de/MaduChat
+repository: https://github.com/Madu-de/MaduChat
+aur:
+- maduchat-frontend-bin
+electron: 26.6.10
+method: aur-depends

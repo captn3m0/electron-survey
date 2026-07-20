@@ -1,0 +1,8 @@
+id: keep-audio-alive
+name: Keep Audio Alive
+website: https://github.com/TarnishedStella/keep-audio-alive
+repository: https://github.com/TarnishedStella/keep-audio-alive
+aur:
+- keep-audio-alive-git
+electron: 31.7.7
+method: aur-depends

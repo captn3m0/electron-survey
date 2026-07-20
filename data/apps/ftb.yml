@@ -1,0 +1,7 @@
+id: ftb
+name: Ftb
+website: https://feed-the-beast.com/ftb-app
+aur:
+- ftb-app
+electron: 39.8.10
+method: aur-depends

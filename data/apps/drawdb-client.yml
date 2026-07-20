@@ -1,0 +1,8 @@
+id: drawdb-client
+name: Drawdb Client
+website: https://github.com/1917NW/DrawDB-Client
+repository: https://github.com/1917NW/DrawDB-Client
+aur:
+- drawdb-client-git
+electron: 35.7.5
+method: aur-depends

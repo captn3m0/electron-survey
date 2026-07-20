@@ -1,0 +1,8 @@
+id: streaker
+name: Streaker
+website: https://github.com/jamieweavis/streaker
+repository: https://github.com/jamieweavis/streaker
+aur:
+- streaker-bin
+electron: 35.7.5
+method: aur-depends

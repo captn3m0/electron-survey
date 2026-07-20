@@ -1,0 +1,9 @@
+id: bbg-bin
+name: Bbg
+website: https://bbg.nekomoe.xyz/
+aur:
+- bbg
+repository: https://github.com/bbg-contributors/bbg
+additionalAUR:
+- bbg-bin
+- bbg-git

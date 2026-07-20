@@ -1,0 +1,8 @@
+id: map-download
+name: Map Download
+website: https://github.com/Hxy1992/MapDownload
+repository: https://github.com/Hxy1992/MapDownload
+aur:
+- map-download-git
+electron: 16.2.8
+method: aur-depends

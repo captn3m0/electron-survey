@@ -1,0 +1,10 @@
+id: woodfish
+name: Woodfish
+website: https://github.com/silenceboychen/woodfish
+repository: https://github.com/silenceboychen/woodfish
+aur:
+- woodfish-bin
+additionalAUR:
+- woodfish-git
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,10 @@
+id: echoplayer
+name: Echoplayer
+website: https://github.com/mkdir700/EchoPlayer
+repository: https://github.com/mkdir700/EchoPlayer
+aur:
+- echoplayer-bin
+additionalAUR:
+- echoplayer-git
+electron: 37.10.3
+method: aur-depends

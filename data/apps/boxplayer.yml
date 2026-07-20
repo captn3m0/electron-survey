@@ -1,0 +1,7 @@
+id: boxplayer
+name: Boxplayer
+website: https://xbyvideohub.com/
+aur:
+- boxplayer-bin
+electron: 40.10.6
+method: aur-depends

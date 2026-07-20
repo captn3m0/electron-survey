@@ -1,0 +1,7 @@
+id: hexhoot
+name: Hexhoot
+website: http://blog.hexhoot.com/
+aur:
+- hexhoot-bin
+electron: 30.5.1
+method: aur-depends

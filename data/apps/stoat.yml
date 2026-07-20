@@ -1,0 +1,9 @@
+id: stoat
+name: Stoat
+website: https://stoat.chat/
+aur:
+- stoat-desktop-bin
+additionalAUR:
+- stoat-desktop-git
+electron: 40.10.6
+method: aur-depends

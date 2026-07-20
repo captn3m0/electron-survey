@@ -1,0 +1,7 @@
+id: r5-wallet
+name: R5 Wallet
+website: https://r5.network/
+aur:
+- r5-wallet-bin
+electron: 35.7.5
+method: aur-depends

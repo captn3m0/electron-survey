@@ -1,0 +1,12 @@
+id: moebius
+name: Moebius
+website: https://github.com/blocktronics/moebius
+repository: https://github.com/blocktronics/moebius
+aur:
+- moebius
+packages:
+- url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
+  format: dmg
+  os: macos
+electron: 9.4.4
+method: aur-depends

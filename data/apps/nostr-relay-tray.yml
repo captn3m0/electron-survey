@@ -1,0 +1,8 @@
+id: nostr-relay-tray
+name: Nostr Relay Tray
+website: https://github.com/CodyTseng/nostr-relay-tray
+repository: https://github.com/CodyTseng/nostr-relay-tray
+aur:
+- nostr-relay-tray-bin
+electron: 28.3.3
+method: aur-depends

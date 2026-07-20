@@ -1,0 +1,8 @@
+id: favicon-generator
+name: Favicon Generator
+website: https://github.com/anthonypauwels/favicon-generator
+repository: https://github.com/anthonypauwels/favicon-generator
+aur:
+- favicon-generator
+electron: 14.2.9
+method: aur-depends

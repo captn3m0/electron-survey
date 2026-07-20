@@ -1,0 +1,8 @@
+id: clues
+name: Clues
+website: https://github.com/mucahit-sahin/CluesApp
+repository: https://github.com/mucahit-sahin/CluesApp
+aur:
+- clues-git
+electron: 27.3.11
+method: aur-depends

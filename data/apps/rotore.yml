@@ -1,0 +1,8 @@
+id: rotore
+name: Rotore
+website: https://github.com/LinneRELLa/ROTORE
+repository: https://github.com/LinneRELLa/ROTORE
+aur:
+- rotore-git
+electron: 34.5.8
+method: aur-depends

@@ -1,0 +1,10 @@
+id: cutrail
+name: Cutrail
+website: https://github.com/sabinmarcu/cutrail
+repository: https://github.com/sabinmarcu/cutrail
+aur:
+- cutrail
+additionalAUR:
+- cutrail-git
+electron: 37.10.3
+method: aur-depends

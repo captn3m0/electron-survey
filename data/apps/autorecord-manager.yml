@@ -1,0 +1,8 @@
+id: autorecord-manager
+name: Autorecord Manager
+website: https://github.com/WhiteMinds/LiveAutoRecord
+repository: https://github.com/WhiteMinds/LiveAutoRecord
+aur:
+- autorecord-manager
+electron: 40.10.6
+method: aur-depends

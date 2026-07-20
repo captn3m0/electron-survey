@@ -1,0 +1,9 @@
+id: escrcpy
+name: Escrcpy
+website: https://escrcpy.viarotel.eu.org/
+aur:
+- escrcpy
+additionalAUR:
+- escrcpy-bin
+electron: 33.4.11
+method: aur-depends

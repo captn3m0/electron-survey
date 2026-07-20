@@ -1,0 +1,7 @@
+id: elevate
+name: Elevate
+website: https://thomaschampagne.github.io/elevate-docs/
+aur:
+- elevate-git
+electron: 27.3.11
+method: aur-depends

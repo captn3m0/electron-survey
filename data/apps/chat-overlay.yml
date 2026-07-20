@@ -1,0 +1,8 @@
+id: chat-overlay
+name: Chat Overlay
+website: https://github.com/laplace-live/chat-overlay
+repository: https://github.com/laplace-live/chat-overlay
+aur:
+- chat-overlay-bin
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,8 @@
+id: owa
+name: Owa
+website: https://github.com/mikepruett3/owa-desktop
+repository: https://github.com/mikepruett3/owa-desktop
+aur:
+- owa-desktop-bin
+electron: 25.9.8
+method: aur-depends

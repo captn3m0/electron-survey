@@ -1,0 +1,7 @@
+id: eusoft-ting-de
+name: Eusoft Ting De
+website: https://www.godic.net/ting
+aur:
+- eusoft-ting-de-bin
+electron: 11.5.0
+method: aur-depends

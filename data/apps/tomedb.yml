@@ -1,0 +1,7 @@
+id: tomedb
+name: Tomedb
+website: https://tomedb.dev/
+aur:
+- tomedb-bin
+electron: 30.5.1
+method: aur-depends

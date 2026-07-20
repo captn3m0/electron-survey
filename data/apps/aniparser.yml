@@ -1,0 +1,8 @@
+id: aniparser
+name: Aniparser
+website: https://github.com/Sinedka/aniparser
+repository: https://github.com/Sinedka/aniparser
+aur:
+- aniparser
+additionalAUR:
+- aniparser-bin

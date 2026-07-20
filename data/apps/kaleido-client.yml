@@ -1,0 +1,7 @@
+id: kaleido-client
+name: Kaleido Client
+website: https://wp2code.github.io/wp2code-site/kaleido/
+aur:
+- kaleido-client-git
+electron: 31.7.7
+method: aur-depends

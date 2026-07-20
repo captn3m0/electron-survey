@@ -1,0 +1,7 @@
+id: boson
+name: Boson
+website: https://albireox.github.io/boson/
+aur:
+- boson-git
+electron: 41.10.2
+method: aur-depends

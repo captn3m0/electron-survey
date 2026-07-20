@@ -1,0 +1,6 @@
+id: vulpidl
+name: Vulpidl
+website: https://github.com/d-ord/vulpidl
+repository: https://github.com/d-ord/vulpidl
+aur:
+- vulpidl-bin

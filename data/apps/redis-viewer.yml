@@ -1,0 +1,8 @@
+id: redis-viewer
+name: Redis Viewer
+website: https://github.com/redisviewer/RedisViewer
+repository: https://github.com/redisviewer/RedisViewer
+aur:
+- redis-viewer-bin
+electron: 28.3.3
+method: aur-depends

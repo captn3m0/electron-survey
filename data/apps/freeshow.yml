@@ -1,0 +1,8 @@
+id: freeshow
+name: Freeshow
+website: https://github.com/ChurchApps/FreeShow
+repository: https://github.com/ChurchApps/FreeShow
+aur:
+- freeshow-electron-bin
+electron: 37.10.3
+method: aur-depends

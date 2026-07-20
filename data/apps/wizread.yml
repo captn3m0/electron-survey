@@ -1,0 +1,7 @@
+id: wizread
+name: Wizread
+website: https://wizread.io
+aur:
+- wizread-bin
+electron: 33.4.11
+method: aur-depends

@@ -1,0 +1,7 @@
+id: mingo
+name: Mingo
+website: https://mingo.io
+aur:
+- mingo-bin
+electron: 39.8.10
+method: aur-depends

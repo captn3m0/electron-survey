@@ -1,0 +1,8 @@
+id: bot-dev
+name: Bot.dev
+website: https://github.com/juaneth/bot.dev
+repository: https://github.com/juaneth/bot.dev
+aur:
+- bot.dev
+electron: 23.3.13
+method: aur-depends

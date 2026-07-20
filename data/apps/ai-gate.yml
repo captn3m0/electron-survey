@@ -1,0 +1,7 @@
+id: ai-gate
+name: AI Gate
+website: https://aigate.inulute.com/
+aur:
+- ai-gate
+electron: 34.5.8
+method: aur-depends

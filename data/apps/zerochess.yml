@@ -1,0 +1,8 @@
+id: zerochess
+name: Zerochess
+website: https://github.com/OscarDavilaSampedro/zerochess
+repository: https://github.com/OscarDavilaSampedro/zerochess
+aur:
+- zerochess-git
+electron: 27.3.11
+method: aur-depends

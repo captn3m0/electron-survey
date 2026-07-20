@@ -1,0 +1,8 @@
+id: fastnote
+name: Fastnote
+website: https://github.com/creamIcec/FastNote
+repository: https://github.com/creamIcec/FastNote
+aur:
+- fastnote-git
+electron: 33.4.11
+method: aur-depends

@@ -1,0 +1,7 @@
+id: reticulum-meshchat
+name: Reticulum Meshchat
+website: https://meshchat.app/
+aur:
+- reticulum-meshchat-bin
+electron: 30.5.1
+method: aur-depends

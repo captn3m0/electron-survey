@@ -1,0 +1,13 @@
+id: realm-studio
+name: Realm Studio
+website: https://realm.io/products/realm-studio/
+aur:
+- realm-studio-bin
+packages:
+- url: https://github.com/realm/realm-studio/releases/download/v15.2.1/Realm.Studio-15.2.1.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- realm-studio-git
+electron: 27.3.11
+method: aur-depends

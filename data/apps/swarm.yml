@@ -1,0 +1,7 @@
+id: swarm
+name: Swarm
+website: https://desktop.ethswarm.org/
+aur:
+- swarm-desktop
+electron: 40.10.6
+method: aur-depends

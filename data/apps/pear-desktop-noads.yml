@@ -1,0 +1,11 @@
+id: pear-desktop-noads
+name: Pear Desktop Noads
+website: https://github.com/pear-devs/pear-desktop
+repository: https://github.com/pear-devs/pear-desktop
+aur:
+- pear-desktop
+additionalAUR:
+- pear-desktop-noads-git
+- pear-desktop-git
+electron: 42.7.0
+method: aur-depends

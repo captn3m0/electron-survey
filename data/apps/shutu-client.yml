@@ -1,0 +1,7 @@
+id: shutu-client
+name: Shutu Client
+website: https://shutu.cn
+aur:
+- shutu-client-bin
+electron: 21.4.4
+method: aur-depends

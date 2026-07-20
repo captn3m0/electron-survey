@@ -1,0 +1,8 @@
+id: chrome-remote
+name: Chrome Remote
+website: https://github.com/mikepruett3/chrome-remote-desktop
+repository: https://github.com/mikepruett3/chrome-remote-desktop
+aur:
+- chrome-remote-desktop-bin
+electron: 23.3.13
+method: aur-depends

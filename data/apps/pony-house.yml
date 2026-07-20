@@ -1,0 +1,6 @@
+id: pony-house
+name: Pony House
+website: https://github.com/Pony-House/Client
+repository: https://github.com/Pony-House/Client
+aur:
+- pony-house-bin

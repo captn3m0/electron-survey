@@ -1,0 +1,7 @@
+id: tts-now
+name: Tts Now
+website: https://tts.yycc.dev/
+aur:
+- tts-now-bin
+electron: 22.3.27
+method: aur-depends

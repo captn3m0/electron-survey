@@ -1,0 +1,10 @@
+id: crankshaft-client
+name: Crankshaft Client
+website: https://github.com/KraXen72/crankshaft
+repository: https://github.com/KraXen72/crankshaft
+aur:
+- crankshaft-client-bin
+additionalAUR:
+- crankshaft-client-git
+electron: 12.2.3
+method: aur-depends

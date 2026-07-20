@@ -1,0 +1,7 @@
+id: ccae
+name: Ccae
+website: https://developer.paciellogroup.com/color-contrast-checker/
+aur:
+- ccae-git
+electron: 35.7.5
+method: aur-depends

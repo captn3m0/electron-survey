@@ -1,0 +1,5 @@
+id: ctfile
+name: Ctfile
+website: https://www.ctfile.com/
+aur:
+- ctfile-electron

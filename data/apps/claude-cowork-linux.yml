@@ -1,0 +1,6 @@
+id: claude-cowork-linux
+name: Claude Cowork Linux
+website: https://github.com/johnzfitch/claude-cowork-linux
+repository: https://github.com/johnzfitch/claude-cowork-linux
+aur:
+- claude-cowork-linux

@@ -1,0 +1,7 @@
+id: projscope-music-player
+name: Projscope Music Player
+website: https://projscope.com/portfolio-single-music-player.html
+aur:
+- projscope-music-player-bin
+electron: 17.4.11
+method: aur-depends

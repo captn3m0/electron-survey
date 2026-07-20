@@ -1,0 +1,9 @@
+id: heroic-games-launcher
+name: Heroic Games Launcher
+website: https://heroicgameslauncher.com/
+aur:
+- heroic-games-launcher
+additionalAUR:
+- heroic-games-launcher-git
+electron: 41.10.2
+method: aur-depends

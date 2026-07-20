@@ -1,0 +1,8 @@
+id: manyi-transformer
+name: Manyi Transformer
+website: https://github.com/MarshallChang/Manyi-transformer
+repository: https://github.com/MarshallChang/Manyi-transformer
+aur:
+- manyi-transformer
+electron: 23.3.13
+method: aur-depends

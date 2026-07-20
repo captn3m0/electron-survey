@@ -1,0 +1,11 @@
+id: ffbox
+name: Ffbox
+website: https://github.com/ttqftech/FFBox
+repository: https://github.com/ttqftech/FFBox
+aur:
+- ffbox
+additionalAUR:
+- ffbox-bin
+- ffbox-git
+electron: 24.8.8
+method: aur-depends

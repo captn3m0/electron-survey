@@ -1,0 +1,7 @@
+id: siki
+name: Siki
+website: https://sikiapp.net
+aur:
+- siki
+electron: 38.8.6
+method: aur-depends

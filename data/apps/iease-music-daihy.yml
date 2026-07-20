@@ -1,0 +1,8 @@
+id: iease-music-daihy
+name: Iease Music Daihy
+website: https://github.com/daihy8759/ieaseMusic
+repository: https://github.com/daihy8759/ieaseMusic
+aur:
+- iease-music-daihy-electron-git
+electron: 18.3.15
+method: aur-depends

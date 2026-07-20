@@ -1,0 +1,7 @@
+id: google-messages
+name: Google Messages
+website: https://gitlab.com/linuxbombay/googlemessages
+aur:
+- google-messages-bin
+electron: 39.8.10
+method: aur-depends

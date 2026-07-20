@@ -1,0 +1,8 @@
+id: pip-player
+name: Pip Player
+website: https://github.com/WickyPlays/pip-player
+repository: https://github.com/WickyPlays/pip-player
+aur:
+- pip-player-git
+electron: 31.7.7
+method: aur-depends

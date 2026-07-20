@@ -1,0 +1,7 @@
+id: coal-launcher
+name: Coal Launcher
+website: https://bobuxstation.github.io/Coal-Web/launcher.html
+aur:
+- coal-launcher-bin
+electron: 22.3.27
+method: aur-depends

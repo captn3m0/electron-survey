@@ -1,0 +1,8 @@
+id: mqtt5-explorer
+name: Mqtt5 Explorer
+website: https://github.com/Omniaevo/mqtt5-explorer
+repository: https://github.com/Omniaevo/mqtt5-explorer
+aur:
+- mqtt5-explorer-bin
+electron: 28.3.3
+method: aur-depends

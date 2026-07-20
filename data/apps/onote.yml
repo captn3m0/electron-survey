@@ -1,0 +1,8 @@
+id: onote
+name: Onote
+website: https://github.com/pansinm/ONote
+repository: https://github.com/pansinm/ONote
+aur:
+- onote-bin
+electron: 25.9.8
+method: aur-depends

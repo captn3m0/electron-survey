@@ -1,0 +1,8 @@
+id: electron-dam
+name: Electron Dam
+website: https://github.com/simeonradivoev/electron-dam
+repository: https://github.com/simeonradivoev/electron-dam
+aur:
+- electron-dam-bin
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,7 @@
+id: vidbee
+name: Vidbee
+website: https://vidbee.org/
+aur:
+- vidbee-bin
+electron: 38.8.6
+method: aur-depends

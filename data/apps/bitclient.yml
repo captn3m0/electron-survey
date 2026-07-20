@@ -1,0 +1,8 @@
+id: bitclient
+name: Bitclient
+website: https://github.com/sgolub/bitclient
+repository: https://github.com/sgolub/bitclient
+aur:
+- bitclient-bin
+electron: 31.7.7
+method: aur-depends

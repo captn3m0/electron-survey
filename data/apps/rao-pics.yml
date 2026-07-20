@@ -1,0 +1,7 @@
+id: rao-pics
+name: Rao Pics
+website: https://rao.pics/
+aur:
+- rao-pics-bin
+electron: 20.3.12
+method: aur-depends

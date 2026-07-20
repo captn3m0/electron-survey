@@ -1,0 +1,9 @@
+id: dash-player
+name: Dash Player
+website: https://dash-player.solidspoon.xyz/
+aur:
+- dash-player-bin
+additionalAUR:
+- dash-player-git
+electron: 39.8.10
+method: aur-depends

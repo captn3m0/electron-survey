@@ -1,0 +1,7 @@
+id: schildichat-desktop-eol
+name: Schildichat Desktop Eol
+website: https://schildi.chat
+aur:
+- schildichat-desktop-eol
+electron: 38.8.6
+method: aur-depends

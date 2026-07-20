@@ -1,0 +1,8 @@
+id: cribarth-music-player
+name: Cribarth Music Player
+website: https://github.com/glanyrafon01/cribarth-music-player
+repository: https://github.com/glanyrafon01/cribarth-music-player
+aur:
+- cribarth-music-player-bin
+electron: 29.4.6
+method: aur-depends

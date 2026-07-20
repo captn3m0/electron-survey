@@ -1,0 +1,10 @@
+id: orca
+name: Orca
+website: https://github.com/hundredrabbits/Orca
+repository: https://github.com/hundredrabbits/Orca
+aur:
+- orca-desktop-git
+packages:
+- url: https://github.com/plotly/orca/releases/download/v1.3.1/mac-release.zip
+  format: zip
+  os: macos

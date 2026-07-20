@@ -1,0 +1,7 @@
+id: shuli
+name: Shuli
+website: https://slinote.com/home
+aur:
+- shuli-bin
+electron: 41.10.2
+method: aur-depends

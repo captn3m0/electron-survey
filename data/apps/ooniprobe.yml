@@ -1,0 +1,8 @@
+id: ooniprobe
+name: Ooniprobe
+website: https://github.com/ooni/probe-desktop
+repository: https://github.com/ooni/probe-desktop
+aur:
+- ooniprobe-desktop-bin
+electron: 12.2.3
+method: aur-depends

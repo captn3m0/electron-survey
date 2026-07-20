@@ -1,0 +1,8 @@
+id: copicseal
+name: Copicseal
+website: https://github.com/copicseal/copicseal
+repository: https://github.com/copicseal/copicseal
+aur:
+- copicseal-git
+electron: 31.7.7
+method: aur-depends

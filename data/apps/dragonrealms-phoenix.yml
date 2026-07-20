@@ -1,0 +1,8 @@
+id: dragonrealms-phoenix
+name: Dragonrealms Phoenix
+website: https://github.com/dragonrealms-phoenix/phoenix
+repository: https://github.com/dragonrealms-phoenix/phoenix
+aur:
+- dragonrealms-phoenix-bin
+electron: 34.5.8
+method: aur-depends

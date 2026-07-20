@@ -1,0 +1,7 @@
+id: certbox
+name: Certbox
+website: https://certbox.io/
+aur:
+- certbox-bin
+electron: 36.9.5
+method: aur-depends

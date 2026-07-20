@@ -1,0 +1,8 @@
+id: thinreports-section-editor
+name: Thinreports Section Editor
+website: https://github.com/thinreports/thinreports
+repository: https://github.com/thinreports/thinreports
+aur:
+- thinreports-section-editor-bin
+electron: 21.4.4
+method: aur-depends

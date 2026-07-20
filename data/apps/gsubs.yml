@@ -1,0 +1,7 @@
+id: gsubs
+name: Gsubs
+website: https://cholaware.com/gsubs
+aur:
+- gsubs
+electron: 9.4.4
+method: aur-depends

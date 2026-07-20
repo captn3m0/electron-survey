@@ -1,0 +1,6 @@
+id: safe
+name: Safe
+website: https://github.com/abstra-llc/safe#readme
+repository: https://github.com/abstra-llc/safe
+aur:
+- safe

@@ -1,0 +1,14 @@
+id: nudge
+name: Nudge
+website: https://github.com/aasmart/Nudge
+repository: https://github.com/aasmart/Nudge
+aur:
+- nudge
+packages:
+- url: https://github.com/macadmins/nudge/releases/download/v2.1.2.81856/Nudge-2.1.2.81856.pkg
+  format: pkg
+  os: macos
+additionalAUR:
+- nudge-bin
+electron: 31.7.7
+method: aur-depends

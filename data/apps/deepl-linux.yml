@@ -1,0 +1,11 @@
+id: deepl-linux
+name: Deepl Linux
+website: https://github.com/kumakichi/Deepl-linux-electron
+repository: https://github.com/kumakichi/Deepl-linux-electron
+aur:
+- deepl-linux-electron
+additionalAUR:
+- deepl-linux-electron-bin
+- deepl-linux-electron-git
+electron: 33.4.11
+method: aur-depends

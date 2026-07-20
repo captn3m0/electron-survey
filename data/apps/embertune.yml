@@ -1,0 +1,8 @@
+id: embertune
+name: Embertune
+website: https://github.com/DylanAkp/EmberTune
+repository: https://github.com/DylanAkp/EmberTune
+aur:
+- embertune-bin
+electron: 35.7.5
+method: aur-depends

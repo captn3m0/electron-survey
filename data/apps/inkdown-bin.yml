@@ -1,0 +1,16 @@
+id: inkdown-bin
+name: Inkdown
+website: https://github.com/1943time/inkdown
+repository: https://github.com/1943time/inkdown
+aur:
+- inkdown
+packages:
+- url: https://assets.inkdown.me/release/v2.0.2/darwin/arm64/Inkdown-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- inkdown-bin
+- inkdown-git
+electron: 35.7.5
+method: aur-depends

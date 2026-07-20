@@ -1,0 +1,7 @@
+id: native-facebook
+name: Native Facebook
+website: https://yuhapps.dev/
+aur:
+- native-facebook-bin
+electron: 39.8.10
+method: aur-depends

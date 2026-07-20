@@ -1,0 +1,10 @@
+id: midi2-0-workbench
+name: Midi2.0 Workbench
+website: https://github.com/midi2-dev/MIDI2.0Workbench
+repository: https://github.com/midi2-dev/MIDI2.0Workbench
+aur:
+- midi2.0-workbench-git
+additionalAUR:
+- midi2-workbench
+electron: 19.1.9
+method: aur-depends

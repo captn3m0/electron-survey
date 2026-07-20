@@ -1,0 +1,8 @@
+id: magicavoxel-launcher
+name: Magicavoxel Launcher
+website: https://github.com/Kan-A-Pesh/magicavoxel-launcher
+repository: https://github.com/Kan-A-Pesh/magicavoxel-launcher
+aur:
+- magicavoxel-launcher-bin
+electron: 30.5.1
+method: aur-depends

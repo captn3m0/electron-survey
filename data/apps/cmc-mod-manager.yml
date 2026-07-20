@@ -1,0 +1,7 @@
+id: cmc-mod-manager
+name: Cmc Mod Manager
+website: https://inferno214221.com/cmc-mod-manager
+aur:
+- cmc-mod-manager-bin
+electron: 30.5.1
+method: aur-depends

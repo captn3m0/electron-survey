@@ -1,0 +1,7 @@
+id: harmony-im
+name: Harmony Im
+website: https://codeberg.org/catcraft/harmony
+aur:
+- harmony-im
+additionalAUR:
+- harmony-im-git

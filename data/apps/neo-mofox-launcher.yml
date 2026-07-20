@@ -1,0 +1,8 @@
+id: neo-mofox-launcher
+name: Neo Mofox Launcher
+website: https://github.com/MoFox-Studio/Neo-MoFox-Launcher
+repository: https://github.com/MoFox-Studio/Neo-MoFox-Launcher
+aur:
+- neo-mofox-launcher-git
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,15 @@
+id: bilibili-deb
+name: Bilibili Deb
+website: https://github.com/msojocs/bilibili-linux/
+repository: https://github.com/msojocs/bilibili-linux
+aur:
+- bilibili
+packages:
+- url: https://dl.hdslb.com/mobile/fixed/pc_electron_mac/bili_mac.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- bilibili-deb-bin
+- bilibili-linux-git
+electron: 28.3.3
+method: aur-depends

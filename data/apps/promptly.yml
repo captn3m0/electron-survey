@@ -1,0 +1,8 @@
+id: promptly
+name: Promptly
+website: https://github.com/timosaarinen/promptly
+repository: https://github.com/timosaarinen/promptly
+aur:
+- promptly-git
+electron: 28.3.3
+method: aur-depends

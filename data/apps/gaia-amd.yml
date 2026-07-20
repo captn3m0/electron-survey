@@ -1,0 +1,8 @@
+id: gaia-amd
+name: Gaia Amd
+website: https://github.com/amd/gaia
+repository: https://github.com/amd/gaia
+aur:
+- gaia-amd-webui
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,8 @@
+id: behavior3editor
+name: Behavior3editor
+website: https://github.com/zhandouxiaojiji/behavior3editor
+repository: https://github.com/zhandouxiaojiji/behavior3editor
+aur:
+- behavior3editor-git
+electron: 33.4.11
+method: aur-depends

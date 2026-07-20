@@ -1,0 +1,7 @@
+id: timing71
+name: Timing71
+website: https://www.timing71.org
+aur:
+- timing71
+electron: 9.4.4
+method: aur-depends

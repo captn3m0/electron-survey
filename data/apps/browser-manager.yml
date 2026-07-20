@@ -1,0 +1,8 @@
+id: browser-manager
+name: Browser Manager
+website: https://github.com/chenyk2016/Browser-Manager
+repository: https://github.com/chenyk2016/Browser-Manager
+aur:
+- browser-manager-git
+electron: 28.3.3
+method: aur-depends

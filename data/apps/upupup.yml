@@ -1,0 +1,8 @@
+id: upupup
+name: Upupup
+website: https://github.com/unclemcz/upupup
+repository: https://github.com/unclemcz/upupup
+aur:
+- upupup-bin
+electron: 32.3.3
+method: aur-depends

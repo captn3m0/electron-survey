@@ -2,3 +2,10 @@ id: ledger-live
 name: Ledger Live
 website: https://www.ledger.com/ledger-live
 repository: https://github.com/LedgerHQ/ledger-live
+aur:
+- ledger-live
+- ledger-live-bin
+- ledger-live-client-bin
+- ledger-live-desktop-appimage
+electron: 40.10.6
+method: aur-depends

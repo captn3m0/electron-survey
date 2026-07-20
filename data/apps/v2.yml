@@ -1,0 +1,7 @@
+id: v2
+name: V2
+website: https://v2editor.com
+aur:
+- v2
+electron: 43.1.1
+method: aur-depends

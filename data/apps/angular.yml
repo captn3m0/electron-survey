@@ -1,0 +1,8 @@
+id: angular
+name: Angular
+website: https://github.com/malacration/sap-front
+repository: https://github.com/malacration/sap-front
+aur:
+- angular-electron-bin
+electron: 23.3.13
+method: aur-depends

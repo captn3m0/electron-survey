@@ -1,0 +1,8 @@
+id: forgetools
+name: Forgetools
+website: https://github.com/tengfone/forgetools
+repository: https://github.com/tengfone/forgetools
+aur:
+- forgetools-bin
+electron: 27.3.11
+method: aur-depends

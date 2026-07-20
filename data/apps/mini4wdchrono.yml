@@ -1,0 +1,8 @@
+id: mini4wdchrono
+name: Mini4wdchrono
+website: https://github.com/Pimentoso/mini4wdchrono
+repository: https://github.com/Pimentoso/mini4wdchrono
+aur:
+- mini4wdchrono-bin
+electron: 9.4.4
+method: aur-depends

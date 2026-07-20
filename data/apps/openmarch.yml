@@ -1,0 +1,7 @@
+id: openmarch
+name: Openmarch
+website: http://openmarch.com/
+aur:
+- openmarch-bin
+electron: 40.10.6
+method: aur-depends

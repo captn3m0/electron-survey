@@ -1,0 +1,8 @@
+id: blueknight
+name: Blueknight
+website: https://github.com/KartoffelChipss/blueknight
+repository: https://github.com/KartoffelChipss/blueknight
+aur:
+- blueknight-bin
+electron: 30.5.1
+method: aur-depends

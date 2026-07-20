@@ -1,0 +1,9 @@
+id: bar-lobby
+name: Bar Lobby
+website: https://beyond-all-reason.github.io/bar-lobby/
+aur:
+- bar-lobby-bin
+additionalAUR:
+- bar-lobby-git
+electron: 37.10.3
+method: aur-depends

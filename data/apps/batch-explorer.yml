@@ -1,0 +1,7 @@
+id: batch-explorer
+name: Batch Explorer
+website: https://azure.github.io/BatchExplorer/
+aur:
+- batch-explorer-bin
+electron: 29.4.6
+method: aur-depends

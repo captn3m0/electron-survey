@@ -1,0 +1,8 @@
+id: work-log-ify
+name: Work Log Ify
+website: https://github.com/dmitrijs/WorkLogIfy
+repository: https://github.com/dmitrijs/WorkLogIfy
+aur:
+- work-log-ify-git
+electron: 42.7.0
+method: aur-depends

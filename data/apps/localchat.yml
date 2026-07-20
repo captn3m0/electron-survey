@@ -1,0 +1,7 @@
+id: localchat
+name: Localchat
+website: https://nathanlesage.github.io/local-chat/
+aur:
+- localchat-bin
+electron: 28.3.3
+method: aur-depends

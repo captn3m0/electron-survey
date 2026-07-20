@@ -1,0 +1,11 @@
+id: exodus
+name: Exodus
+website: https://www.exodus.com
+packages:
+- url: https://downloads.exodus.com/releases/exodus-macos-arm64-26.7.1.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+aur:
+- exodus
+- exodus-bin

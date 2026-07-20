@@ -1,0 +1,10 @@
+id: pupu
+name: Pupu
+website: https://github.com/haoxiang-xu/PuPu
+repository: https://github.com/haoxiang-xu/PuPu
+aur:
+- pupu-bin
+additionalAUR:
+- pupu-git
+electron: 40.10.6
+method: aur-depends

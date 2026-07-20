@@ -1,0 +1,7 @@
+id: space-client
+name: Space Client
+website: https://xtony.net/
+aur:
+- space-client-bin
+electron: 40.10.6
+method: aur-depends

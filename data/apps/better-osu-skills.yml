@@ -1,0 +1,8 @@
+id: better-osu-skills
+name: Better Osu Skills
+website: https://github.com/straightcurve/better-osuskills
+repository: https://github.com/straightcurve/better-osuskills
+aur:
+- better-osu-skills-bin
+electron: 11.5.0
+method: aur-depends

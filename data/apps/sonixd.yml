@@ -1,0 +1,15 @@
+id: sonixd
+name: Sonixd
+website: https://github.com/jeffvli/sonixd
+repository: https://github.com/jeffvli/sonixd
+aur:
+- sonixd
+packages:
+- url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- sonixd-bin
+electron: 22.3.27
+method: aur-depends

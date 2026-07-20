@@ -1,0 +1,5 @@
+id: meridius
+name: Meridius
+website: https://purplehorrorrus.github.io/meridius
+aur:
+- meridius-bin-git-electron

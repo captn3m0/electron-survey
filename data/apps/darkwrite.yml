@@ -1,0 +1,8 @@
+id: darkwrite
+name: Darkwrite
+website: https://github.com/astudentinearth/darkwrite
+repository: https://github.com/astudentinearth/darkwrite
+aur:
+- darkwrite-bin
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,9 @@
+id: garuda-rani
+name: Garuda Rani
+website: https://gitlab.com/garuda-linux/applications/rani
+aur:
+- garuda-rani
+additionalAUR:
+- garuda-rani-git
+electron: 39.8.10
+method: aur-depends

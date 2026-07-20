@@ -1,0 +1,8 @@
+id: board4you
+name: Board4you
+website: https://github.com/GachiLord/board4you
+repository: https://github.com/GachiLord/board4you
+aur:
+- board4you-bin
+electron: 26.6.10
+method: aur-depends

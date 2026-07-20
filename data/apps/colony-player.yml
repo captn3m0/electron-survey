@@ -1,0 +1,8 @@
+id: colony-player
+name: Colony Player
+website: https://github.com/SynthKittenDev/Colony-Player
+repository: https://github.com/SynthKittenDev/Colony-Player
+aur:
+- colony-player-bin
+electron: 11.5.0
+method: aur-depends

@@ -1,0 +1,8 @@
+id: hamsket
+name: Hamsket
+website: https://github.com/TheGoddessInari/hamsket
+repository: https://github.com/TheGoddessInari/hamsket
+aur:
+- hamsket
+additionalAUR:
+- hamsket-git

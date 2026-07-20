@@ -1,0 +1,8 @@
+id: kick-vod-downloader
+name: Kick Vod Downloader
+website: https://github.com/juddydev/kick-vod-downloader
+repository: https://github.com/juddydev/kick-vod-downloader
+aur:
+- kick-vod-downloader-bin
+electron: 31.7.7
+method: aur-depends

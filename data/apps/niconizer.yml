@@ -1,0 +1,8 @@
+id: niconizer
+name: Niconizer
+website: https://github.com/matzkoh/niconizer
+repository: https://github.com/matzkoh/niconizer
+aur:
+- niconizer-bin
+electron: 37.10.3
+method: aur-depends

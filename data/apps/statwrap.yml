@@ -1,0 +1,7 @@
+id: statwrap
+name: Statwrap
+website: https://sites.northwestern.edu/statwrap/
+aur:
+- statwrap-git
+electron: 39.8.10
+method: aur-depends

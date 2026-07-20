@@ -1,0 +1,8 @@
+id: onemouse
+name: Onemouse
+website: https://github.com/Scanood/onemouse
+repository: https://github.com/Scanood/onemouse
+aur:
+- onemouse-bin
+electron: 30.5.1
+method: aur-depends

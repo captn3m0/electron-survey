@@ -1,0 +1,9 @@
+id: chaterm
+name: Chaterm
+website: https://chaterm.ai/
+aur:
+- chaterm-bin
+additionalAUR:
+- chaterm-git
+electron: 41.10.2
+method: aur-depends

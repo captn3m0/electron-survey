@@ -1,0 +1,8 @@
+id: abird
+name: Abird
+website: https://github.com/nsz32/abird
+repository: https://github.com/nsz32/abird
+aur:
+- abird-bin
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,7 @@
+id: sheikah-witnet-wallet
+name: Sheikah Witnet Wallet
+website: https://witnet.io/
+aur:
+- sheikah-witnet-wallet-bin
+electron: 33.4.11
+method: aur-depends

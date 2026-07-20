@@ -1,0 +1,10 @@
+id: mustang
+name: Mustang
+website: https://mustang.im/
+aur:
+- mustang
+additionalAUR:
+- mustang-bin
+- mustang-git
+electron: 41.10.2
+method: aur-depends

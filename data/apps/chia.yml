@@ -1,0 +1,10 @@
+id: chia
+name: Chia
+website: https://www.chia.net/
+aur:
+- chia-git
+packages:
+- url: https://github.com/Chia-Network/chia-blockchain/releases/download/2.7.3/Chia-2.7.3-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

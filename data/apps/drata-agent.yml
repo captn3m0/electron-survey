@@ -1,0 +1,10 @@
+id: drata-agent
+name: Drata Agent
+website: https://github.com/drata/drata-agent
+repository: https://github.com/drata/drata-agent
+aur:
+- drata-agent
+packages:
+- url: https://github.com/drata/agent-releases/releases/download/3.9.0/Drata-Agent-mac.dmg
+  format: dmg
+  os: macos

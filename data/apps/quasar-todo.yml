@@ -1,0 +1,8 @@
+id: quasar-todo
+name: Quasar Todo
+website: https://github.com/spenserblack/quasar-todo
+repository: https://github.com/spenserblack/quasar-todo
+aur:
+- quasar-todo-bin
+electron: 22.3.27
+method: aur-depends

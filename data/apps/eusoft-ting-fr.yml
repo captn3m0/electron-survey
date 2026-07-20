@@ -1,0 +1,7 @@
+id: eusoft-ting-fr
+name: Eusoft Ting Fr
+website: https://www.frdic.com/ting
+aur:
+- eusoft-ting-fr-bin
+electron: 11.5.0
+method: aur-depends

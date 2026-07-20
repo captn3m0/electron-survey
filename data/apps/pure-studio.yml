@@ -1,0 +1,7 @@
+id: pure-studio
+name: Pure Studio
+website: https://v0-documentation-starter-96lpavxvr0u-2b7wrh.vercel.app/
+aur:
+- pure-studio-git
+electron: 28.3.3
+method: aur-depends

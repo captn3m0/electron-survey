@@ -1,0 +1,8 @@
+id: kurisu
+name: Kurisu
+website: https://github.com/MCDFsteve/Kurisu
+repository: https://github.com/MCDFsteve/Kurisu
+aur:
+- kurisu-bin
+electron: 29.4.6
+method: aur-depends

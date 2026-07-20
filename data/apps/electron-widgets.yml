@@ -1,0 +1,9 @@
+id: electron-widgets
+name: Electron Widgets
+website: https://electron-widgets.sametcc.me/
+aur:
+- electron-widgets-bin
+additionalAUR:
+- electron-widgets-git
+electron: 35.7.5
+method: aur-depends

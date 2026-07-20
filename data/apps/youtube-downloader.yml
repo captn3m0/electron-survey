@@ -1,0 +1,11 @@
+id: youtube-downloader
+name: Youtube Downloader
+website: https://youtube-playlists.onrender.com/
+aur:
+- youtube-downloader-git
+packages:
+- url: https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/download/v0.23/Youtube.Downloader.zip
+  format: zip
+  os: macos
+electron: 31.7.7
+method: aur-depends

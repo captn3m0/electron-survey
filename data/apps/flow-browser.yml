@@ -1,0 +1,7 @@
+id: flow-browser
+name: Flow Browser
+website: https://flow-browser.com/
+aur:
+- flow-browser-git
+electron: 35.7.5
+method: aur-depends

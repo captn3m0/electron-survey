@@ -1,0 +1,8 @@
+id: stampnyaa
+name: Stampnyaa
+website: https://github.com/MarvNC/StampNyaa
+repository: https://github.com/MarvNC/StampNyaa
+aur:
+- stampnyaa-bin
+electron: 25.9.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: node-toolkit
+name: Node Toolkit
+website: https://github.com/FelixZC/node-toolkit
+repository: https://github.com/FelixZC/node-toolkit
+aur:
+- node-toolkit-git
+electron: 31.7.7
+method: aur-depends

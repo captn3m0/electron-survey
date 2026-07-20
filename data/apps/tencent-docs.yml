@@ -1,0 +1,12 @@
+id: tencent-docs
+name: Tencent Docs
+website: https://docs.qq.com/home/
+aur:
+- tencent-docs-bin
+packages:
+- url: https://desktop.docs.qq.com/Installer/30001/3.10.1/TencentDocs-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- tencent-docs-electron-bin

@@ -1,0 +1,8 @@
+id: clippy-gemini
+name: Clippy Gemini
+website: https://github.com/daedaevibin/clippy
+repository: https://github.com/daedaevibin/clippy
+aur:
+- clippy-gemini
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: khiops-visualization
+name: Khiops Visualization
+website: https://github.com/KhiopsML/kv-electron
+repository: https://github.com/KhiopsML/kv-electron
+aur:
+- khiops-visualization-bin
+electron: 39.8.10
+method: aur-depends

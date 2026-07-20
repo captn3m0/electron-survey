@@ -1,0 +1,8 @@
+id: er-editor
+name: Er Editor
+website: https://github.com/ForwardFeed/er-editor
+repository: https://github.com/ForwardFeed/er-editor
+aur:
+- er-editor-git
+electron: 28.3.3
+method: aur-depends

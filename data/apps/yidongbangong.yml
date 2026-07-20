@@ -1,0 +1,7 @@
+id: yidongbangong
+name: Yidongbangong
+website: https://oa.cmzq-office.com/web/ydbg/hebangong
+aur:
+- yidongbangong-bin
+electron: 13.6.9
+method: aur-depends

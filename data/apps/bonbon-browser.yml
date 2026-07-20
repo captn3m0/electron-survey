@@ -1,0 +1,9 @@
+id: bonbon-browser
+name: Bonbon Browser
+website: https://bonbon.exchange/
+aur:
+- bonbon-browser-bin
+additionalAUR:
+- bonbon-browser-git
+electron: 32.3.3
+method: aur-depends

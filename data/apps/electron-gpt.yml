@@ -1,0 +1,8 @@
+id: electron-gpt
+name: Electron GPT
+website: https://github.com/Bubuclem/electron-gpt
+repository: https://github.com/Bubuclem/electron-gpt
+aur:
+- electron-gpt-git
+electron: 33.4.11
+method: aur-depends

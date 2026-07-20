@@ -1,0 +1,7 @@
+id: chain-desktop-wallet
+name: Chain Desktop Wallet
+website: https://crypto.com/defi-wallet
+aur:
+- chain-desktop-wallet-bin
+electron: 19.1.9
+method: aur-depends

@@ -1,0 +1,8 @@
+id: sofie-chef
+name: Sofie Chef
+website: https://github.com/Sofie-Automation/sofie-chef
+repository: https://github.com/Sofie-Automation/sofie-chef
+aur:
+- sofie-chef-bin
+electron: 40.10.6
+method: aur-depends

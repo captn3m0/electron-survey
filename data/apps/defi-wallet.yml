@@ -1,0 +1,7 @@
+id: defi-wallet
+name: Defi Wallet
+website: https://defichain.com/
+aur:
+- defi-wallet-bin
+electron: 27.3.11
+method: aur-depends

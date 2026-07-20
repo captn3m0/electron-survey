@@ -1,0 +1,14 @@
+id: bananas
+name: Bananas
+website: https://getbananas.net/
+aur:
+- bananas
+packages:
+- url: https://github.com/mistweaverco/bananas/releases/download/v0.0.22/bananas_universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- bananas-bin
+- bananas-electron-bin
+electron: 31.7.7
+method: aur-depends

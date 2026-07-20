@@ -1,0 +1,7 @@
+id: hayase
+name: Hayase
+website: https://hayase.watch/
+aur:
+- hayase-bin
+electron: 38.8.6
+method: aur-depends

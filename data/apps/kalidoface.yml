@@ -1,0 +1,7 @@
+id: kalidoface
+name: Kalidoface
+website: https://lab.kalidoface.com/
+aur:
+- kalidoface-bin
+electron: 24.8.8
+method: aur-depends

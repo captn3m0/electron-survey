@@ -1,0 +1,8 @@
+id: notes-nc
+name: Notes Nc
+website: https://github.com/mscharley/notes-nc
+repository: https://github.com/mscharley/notes-nc
+aur:
+- notes-nc-bin
+electron: 26.6.10
+method: aur-depends

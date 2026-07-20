@@ -1,0 +1,7 @@
+id: mapeo
+name: Mapeo
+website: https://mapeo.app/
+aur:
+- mapeo-desktop-bin
+electron: 9.4.4
+method: aur-depends

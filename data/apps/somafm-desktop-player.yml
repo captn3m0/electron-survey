@@ -1,0 +1,7 @@
+id: somafm-desktop-player
+name: Somafm Desktop Player
+website: https://alechko.github.io/somafm-desktop-player/
+aur:
+- somafm-desktop-player-bin
+electron: 16.2.8
+method: aur-depends

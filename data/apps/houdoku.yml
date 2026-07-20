@@ -1,0 +1,10 @@
+id: houdoku
+name: Houdoku
+website: https://houdoku.org/
+aur:
+- houdoku
+additionalAUR:
+- houdoku-bin
+- houdoku-git
+electron: 32.3.3
+method: aur-depends

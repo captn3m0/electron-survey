@@ -1,0 +1,7 @@
+id: mudita-center
+name: Mudita Center
+website: https://mudita.com/products/pure/
+aur:
+- mudita-center-bin
+electron: 40.10.6
+method: aur-depends

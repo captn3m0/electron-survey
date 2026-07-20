@@ -1,0 +1,10 @@
+id: musicfree
+name: Musicfree
+website: https://musicfree.catcat.work/
+aur:
+- musicfree-desktop
+additionalAUR:
+- musicfree-desktop-bin
+- musicfree-desktop-git
+electron: 25.9.8
+method: aur-depends

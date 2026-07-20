@@ -1,0 +1,7 @@
+id: luminary
+name: Luminary
+website: https://jakedoesdev.com/
+aur:
+- luminary-bin
+electron: 28.3.3
+method: aur-depends

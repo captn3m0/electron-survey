@@ -1,0 +1,8 @@
+id: cutie-tanks
+name: Cutie Tanks
+website: https://github.com/RobinBoers/cutie-tanks
+repository: https://github.com/RobinBoers/cutie-tanks
+aur:
+- cutie-tanks
+additionalAUR:
+- cutie-tanks-git

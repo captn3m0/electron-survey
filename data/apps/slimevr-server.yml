@@ -1,0 +1,6 @@
+id: slimevr-server
+name: Slimevr Server
+website: https://github.com/SlimeVR/SlimeVR-Server
+repository: https://github.com/SlimeVR/SlimeVR-Server
+aur:
+- slimevr-gui

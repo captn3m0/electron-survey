@@ -1,0 +1,8 @@
+id: openbazaar
+name: Openbazaar
+website: https://github.com/OpenBazaar/openbazaar-desktop
+repository: https://github.com/OpenBazaar/openbazaar-desktop
+aur:
+- openbazaar-git
+electron: 6.1.12
+method: aur-depends

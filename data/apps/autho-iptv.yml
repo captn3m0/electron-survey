@@ -1,0 +1,7 @@
+id: autho-iptv
+name: Autho Iptv
+website: https://glitport.github.io/AuthoIPTV/
+aur:
+- autho-iptv-bin
+electron: 34.5.8
+method: aur-depends

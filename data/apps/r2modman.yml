@@ -1,0 +1,8 @@
+id: r2modman
+name: R2modman
+website: https://github.com/ebkr/r2modmanPlus
+repository: https://github.com/ebkr/r2modmanPlus
+aur:
+- r2modman
+electron: 38.8.6
+method: aur-depends

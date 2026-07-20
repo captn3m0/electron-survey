@@ -1,0 +1,7 @@
+id: panfu
+name: Panfu
+website: https://www.panfu.us/download
+aur:
+- panfu-desktop-bin
+electron: 11.5.0
+method: aur-depends

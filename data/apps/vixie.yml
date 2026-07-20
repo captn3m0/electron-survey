@@ -1,0 +1,8 @@
+id: vixie
+name: Vixie
+website: https://github.com/Vinceli2401/Vixie
+repository: https://github.com/Vinceli2401/Vixie
+aur:
+- vixie-git
+electron: 33.4.11
+method: aur-depends

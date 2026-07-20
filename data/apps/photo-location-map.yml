@@ -1,0 +1,7 @@
+id: photo-location-map
+name: Photo Location Map
+website: https://tomoyukiaota.github.io/photo-location-map/
+aur:
+- photo-location-map
+electron: 32.3.3
+method: aur-depends

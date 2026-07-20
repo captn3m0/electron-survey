@@ -1,0 +1,9 @@
+id: joindesktop
+name: Joindesktop
+website: https://joaoapps.com/join/desktop/
+aur:
+- joindesktop-bin
+additionalAUR:
+- joindesktop-git
+electron: 9.4.4
+method: aur-depends

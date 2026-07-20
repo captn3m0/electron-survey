@@ -1,0 +1,10 @@
+id: r3playx
+name: R3playx
+website: https://github.com/Sherlockouo/music
+repository: https://github.com/Sherlockouo/music
+aur:
+- r3playx-bin
+additionalAUR:
+- r3playx-git
+electron: 28.3.3
+method: aur-depends

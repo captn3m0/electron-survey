@@ -1,0 +1,7 @@
+id: mechakeys
+name: Mechakeys
+website: https://v2.robolab.io
+aur:
+- mechakeys-bin
+electron: 12.2.3
+method: aur-depends

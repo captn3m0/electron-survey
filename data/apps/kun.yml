@@ -1,0 +1,8 @@
+id: kun
+name: Kun
+website: https://github.com/KunAgent/Kun
+repository: https://github.com/KunAgent/Kun
+aur:
+- kun
+electron: 34.5.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: chrolog
+name: Chrolog
+website: https://github.com/Lukylix/Chrolog-Legacy
+repository: https://github.com/Lukylix/Chrolog-Legacy
+aur:
+- chrolog-bin
+electron: 28.3.3
+method: aur-depends

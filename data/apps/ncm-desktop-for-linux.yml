@@ -1,0 +1,6 @@
+id: ncm-desktop-for-linux
+name: Ncm Desktop For Linux
+website: https://github.com/dddqmmx/ncm-desktop-for-linux
+repository: https://github.com/dddqmmx/ncm-desktop-for-linux
+aur:
+- ncm-desktop-for-linux-git

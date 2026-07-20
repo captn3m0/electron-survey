@@ -1,0 +1,7 @@
+id: basic-blackjack
+name: Basic Blackjack
+website: https://devklick.github.io/basic-blackjack/
+aur:
+- basic-blackjack-bin
+electron: 39.8.10
+method: aur-depends

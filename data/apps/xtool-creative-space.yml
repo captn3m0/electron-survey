@@ -1,0 +1,7 @@
+id: xtool-creative-space
+name: Xtool Creative Space
+website: https://www.xtool.com/pages/software
+aur:
+- xtool-creative-space
+electron: 31.7.7
+method: aur-depends

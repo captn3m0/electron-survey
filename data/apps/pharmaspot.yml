@@ -1,0 +1,9 @@
+id: pharmaspot
+name: Pharmaspot
+website: https://www.patternsdigital.com/pharmaspot
+aur:
+- pharmaspot-bin
+additionalAUR:
+- pharmaspot-git
+electron: 41.10.2
+method: aur-depends

@@ -1,0 +1,12 @@
+id: panda
+name: Panda
+website: https://github.com/GHchenjingqi/panda
+repository: https://github.com/GHchenjingqi/panda
+aur:
+- panda-app-git
+packages:
+- url: https://github.com/pablosproject/Panda-Mac-app/releases/download/1.4.2/Panda.zip
+  format: zip
+  os: macos
+electron: 35.7.5
+method: aur-depends

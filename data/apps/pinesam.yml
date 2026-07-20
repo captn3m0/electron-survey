@@ -1,0 +1,8 @@
+id: pinesam
+name: Pinesam
+website: https://github.com/builder555/PineSAM
+repository: https://github.com/builder555/PineSAM
+aur:
+- pinesam
+additionalAUR:
+- pinesam-git

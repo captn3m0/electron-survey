@@ -1,0 +1,6 @@
+id: slippi-launcher
+name: Slippi Launcher
+website: https://github.com/project-slippi/slippi-launcher
+repository: https://github.com/project-slippi/slippi-launcher
+aur:
+- slippi-launcher-bin

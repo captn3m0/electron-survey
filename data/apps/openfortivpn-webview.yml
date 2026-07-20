@@ -1,0 +1,8 @@
+id: openfortivpn-webview
+name: Openfortivpn Webview
+website: https://github.com/gm-vm/openfortivpn-webview
+repository: https://github.com/gm-vm/openfortivpn-webview
+aur:
+- openfortivpn-webview-electron
+electron: 28.3.3
+method: aur-depends

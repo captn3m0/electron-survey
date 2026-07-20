@@ -1,0 +1,8 @@
+id: yandex-music-windows
+name: Yandex Music Windows
+website: https://github.com/cucumber-sp/yandex-music-linux
+repository: https://github.com/cucumber-sp/yandex-music-linux
+aur:
+- yandex-music-windows
+electron: 34.5.8
+method: aur-depends

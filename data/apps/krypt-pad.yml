@@ -1,0 +1,8 @@
+id: krypt-pad
+name: Krypt Pad
+website: https://github.com/KryptPad/krypt-pad
+repository: https://github.com/KryptPad/krypt-pad
+aur:
+- krypt-pad-git
+electron: 31.7.7
+method: aur-depends

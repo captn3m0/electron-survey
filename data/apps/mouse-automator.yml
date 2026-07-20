@@ -1,0 +1,8 @@
+id: mouse-automator
+name: Mouse Automator
+website: https://github.com/cch01/mouse-automator
+repository: https://github.com/cch01/mouse-automator
+aur:
+- mouse-automator-bin
+electron: 30.5.1
+method: aur-depends

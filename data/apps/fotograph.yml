@@ -1,0 +1,7 @@
+id: fotograph
+name: Fotograph
+website: https://fotograph.vercel.app/
+aur:
+- fotograph-bin
+electron: 23.3.13
+method: aur-depends

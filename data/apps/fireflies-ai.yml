@@ -1,0 +1,8 @@
+id: fireflies-ai
+name: Fireflies.ai
+website: https://fireflies.ai
+packages:
+- url: https://m.fireflies.ai/desktop/releases/download?platform=macos&arch=arm64
+  format: dmg
+  os: macos
+  arch: arm64

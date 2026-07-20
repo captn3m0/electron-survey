@@ -1,0 +1,8 @@
+id: smpl
+name: Smpl
+website: https://github.com/ElianGroff/smpl
+repository: https://github.com/ElianGroff/smpl
+aur:
+- smpl-git
+electron: 32.3.3
+method: aur-depends

@@ -1,0 +1,8 @@
+id: darkorbit-client
+name: Darkorbit Client
+website: https://github.com/kaiserdj/Darkorbit-client
+repository: https://github.com/kaiserdj/Darkorbit-client
+aur:
+- darkorbit-client-bin
+electron: 11.5.0
+method: aur-depends

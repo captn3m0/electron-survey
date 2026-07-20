@@ -1,0 +1,10 @@
+id: wavy
+name: Wavy
+website: https://github.com/novrain/wavy
+repository: https://github.com/novrain/wavy
+aur:
+- wavy-bin
+additionalAUR:
+- wavy-git
+electron: 28.3.3
+method: aur-depends

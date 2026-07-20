@@ -1,0 +1,8 @@
+id: dev-sidecar
+name: Dev Sidecar
+website: https://github.com/docmirror/dev-sidecar
+repository: https://github.com/docmirror/dev-sidecar
+aur:
+- dev-sidecar-git
+electron: 41.10.2
+method: aur-depends

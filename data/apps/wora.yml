@@ -1,0 +1,9 @@
+id: wora
+name: Wora
+website: https://wora.app/
+aur:
+- wora-bin
+additionalAUR:
+- wora-git
+electron: 31.7.7
+method: aur-depends

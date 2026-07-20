@@ -1,0 +1,6 @@
+id: nook
+name: Nook
+website: https://github.com/mn6/nook-desktop
+repository: https://github.com/mn6/nook-desktop
+aur:
+- nook-desktop-electron-bin

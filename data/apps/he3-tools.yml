@@ -1,0 +1,7 @@
+id: he3-tools
+name: He3 Tools
+website: https://he3app.com
+aur:
+- he3-tools-bin
+electron: 22.3.27
+method: aur-depends

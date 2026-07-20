@@ -1,0 +1,7 @@
+id: upwork
+name: Upwork
+website: https://www.upwork.com/ab/downloads/?os=linux
+aur:
+- upwork
+electron: 36.9.5
+method: aur-depends

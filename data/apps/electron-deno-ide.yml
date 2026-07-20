@@ -1,0 +1,8 @@
+id: electron-deno-ide
+name: Electron Deno IDE
+website: https://github.com/MooudMohammady/electron-deno-IDE
+repository: https://github.com/MooudMohammady/electron-deno-IDE
+aur:
+- electron-deno-ide
+electron: 25.9.8
+method: aur-depends

@@ -1,0 +1,6 @@
+id: simmusic
+name: Simmusic
+website: https://github.com/SimMusic/SimMusic2024-Linux
+repository: https://github.com/SimMusic/SimMusic2024-Linux
+aur:
+- simmusic-git

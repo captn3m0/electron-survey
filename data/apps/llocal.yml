@@ -1,0 +1,7 @@
+id: llocal
+name: Llocal
+website: https://www.llocal.in/
+aur:
+- llocal-bin
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,8 @@
+id: deemix-gui-git
+name: Deemix
+website: https://gitlab.com/RemixDev/deemix-gui
+aur:
+- deemix-gui
+repository: https://github.com/bambanah/deemix
+additionalAUR:
+- deemix-gui-git

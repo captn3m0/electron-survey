@@ -1,0 +1,13 @@
+id: arduino-ide
+name: Arduino IDE
+website: https://github.com/arduino/arduino-ide
+repository: https://github.com/arduino/arduino-ide
+aur:
+- arduino-ide
+packages:
+- url: https://github.com/arduino/arduino-ide/releases/download/2.3.10/arduino-ide_2.3.10_macOS_ARM64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 30.5.1
+method: aur-depends

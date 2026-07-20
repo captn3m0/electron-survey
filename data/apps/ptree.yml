@@ -1,0 +1,7 @@
+id: ptree
+name: Ptree
+website: https://smariel.github.io/PTree
+aur:
+- ptree-bin
+electron: 11.5.0
+method: aur-depends

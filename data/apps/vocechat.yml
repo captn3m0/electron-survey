@@ -1,0 +1,8 @@
+id: vocechat
+name: Vocechat
+website: https://github.com/Privoce/vocechat-desktop
+repository: https://github.com/Privoce/vocechat-desktop
+aur:
+- vocechat-desktop-bin
+electron: 32.3.3
+method: aur-depends

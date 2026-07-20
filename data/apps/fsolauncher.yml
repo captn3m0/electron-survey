@@ -1,0 +1,9 @@
+id: fsolauncher
+name: Fsolauncher
+website: https://beta.freeso.org/
+aur:
+- fsolauncher
+additionalAUR:
+- fsolauncher-bin
+electron: 32.3.3
+method: aur-depends

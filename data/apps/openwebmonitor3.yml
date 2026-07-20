@@ -1,0 +1,7 @@
+id: openwebmonitor3
+name: Openwebmonitor3
+website: http://owm.fatecore.com/
+aur:
+- openwebmonitor3
+electron: 11.5.0
+method: aur-depends

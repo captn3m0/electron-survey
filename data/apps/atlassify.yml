@@ -1,0 +1,9 @@
+id: atlassify
+name: Atlassify
+website: https://atlassify.io/
+aur:
+- atlassify-bin
+additionalAUR:
+- atlassify-git
+electron: 43.1.1
+method: aur-depends

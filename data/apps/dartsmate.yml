@@ -1,0 +1,8 @@
+id: dartsmate
+name: Dartsmate
+website: https://github.com/derechtenap/dartsmate
+repository: https://github.com/derechtenap/dartsmate
+aur:
+- dartsmate-git
+electron: 40.10.6
+method: aur-depends

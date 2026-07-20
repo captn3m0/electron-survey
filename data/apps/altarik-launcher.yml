@@ -1,0 +1,7 @@
+id: altarik-launcher
+name: Altarik Launcher
+website: https://altarik.fr/
+aur:
+- altarik-launcher-bin
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,7 @@
+id: maa-x
+name: Maa X
+website: https://www.maa.plus/
+aur:
+- maa-x-bin
+electron: 25.9.8
+method: aur-depends

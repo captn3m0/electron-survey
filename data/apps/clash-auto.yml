@@ -1,0 +1,7 @@
+id: clash-auto
+name: Clash Auto
+website: https://clashr-auto.gitbook.io/
+aur:
+- clash-auto-bin
+electron: 24.8.8
+method: aur-depends

@@ -1,0 +1,7 @@
+id: spplice
+name: Spplice
+website: https://www.p2r3.com/spplice/
+aur:
+- spplice-bin
+electron: 23.3.13
+method: aur-depends

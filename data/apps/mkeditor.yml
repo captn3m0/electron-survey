@@ -1,0 +1,10 @@
+id: mkeditor
+name: Mkeditor
+website: https://versyxdigital.github.io/mkeditor
+aur:
+- mkeditor
+additionalAUR:
+- mkeditor-bin
+- mkeditor-git
+electron: 42.7.0
+method: aur-depends

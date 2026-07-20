@@ -1,0 +1,7 @@
+id: ai-chat
+name: AI Chat
+website: https://www.chatbar.top/
+aur:
+- ai-chat-bin
+electron: 28.3.3
+method: aur-depends

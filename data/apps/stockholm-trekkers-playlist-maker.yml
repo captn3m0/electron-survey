@@ -1,0 +1,8 @@
+id: stockholm-trekkers-playlist-maker
+name: Stockholm Trekkers Playlist Maker
+website: https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker
+repository: https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker
+aur:
+- stockholm-trekkers-playlist-maker-bin
+electron: 37.10.3
+method: aur-depends

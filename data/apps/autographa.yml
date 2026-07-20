@@ -1,0 +1,8 @@
+id: autographa
+name: Autographa
+website: https://github.com/friendsofagape/autographa
+repository: https://github.com/friendsofagape/autographa
+aur:
+- autographa-bin
+electron: 21.4.4
+method: aur-depends

@@ -1,0 +1,7 @@
+id: shotscreen
+name: Shotscreen
+website: https://halitsever.github.io/shotscreen-browser/
+aur:
+- shotscreen-git
+electron: 29.4.6
+method: aur-depends

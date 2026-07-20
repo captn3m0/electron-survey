@@ -1,0 +1,7 @@
+id: mods-manager-for-3dmigoto
+name: Mods Manager For 3dmigoto
+website: https://gamebanana.com/tools/17889
+aur:
+- mods-manager-for-3dmigoto-bin
+electron: 32.3.3
+method: aur-depends

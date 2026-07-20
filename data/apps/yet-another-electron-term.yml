@@ -1,0 +1,8 @@
+id: yet-another-electron-term
+name: Yet Another Electron Term
+website: https://github.com/invince/YAET
+repository: https://github.com/invince/YAET
+aur:
+- yet-another-electron-term
+electron: 39.8.10
+method: aur-depends

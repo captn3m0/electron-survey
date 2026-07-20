@@ -1,0 +1,8 @@
+id: interastral-peace-chat
+name: Interastral Peace Chat
+website: https://github.com/niizam/ipc
+repository: https://github.com/niizam/ipc
+aur:
+- interastral-peace-chat-bin
+electron: 24.8.8
+method: aur-depends

@@ -1,0 +1,7 @@
+id: koala-client
+name: Koala Client
+website: https://client.koaladev.io/
+aur:
+- koala-client-bin
+electron: 28.3.3
+method: aur-depends

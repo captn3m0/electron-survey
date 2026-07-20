@@ -1,0 +1,8 @@
+id: out-of-mind
+name: Out Of Mind
+website: https://github.com/0916dhkim/out-of-mind
+repository: https://github.com/0916dhkim/out-of-mind
+aur:
+- out-of-mind-git
+electron: 30.5.1
+method: aur-depends

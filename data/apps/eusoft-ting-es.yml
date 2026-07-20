@@ -1,0 +1,7 @@
+id: eusoft-ting-es
+name: Eusoft Ting Es
+website: https://www.esdict.cn/ting
+aur:
+- eusoft-ting-es-bin
+electron: 11.5.0
+method: aur-depends

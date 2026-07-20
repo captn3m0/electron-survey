@@ -1,0 +1,10 @@
+id: udeler
+name: Udeler
+website: https://github.com/heliomarpm/udemy-downloader-gui
+repository: https://github.com/heliomarpm/udemy-downloader-gui
+aur:
+- udeler
+additionalAUR:
+- udeler-git
+electron: 11.5.0
+method: aur-depends

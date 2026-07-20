@@ -1,0 +1,7 @@
+id: fireblocks-recovery-utility
+name: Fireblocks Recovery Utility
+website: https://www.fireblocks.com/
+aur:
+- fireblocks-recovery-utility-bin
+electron: 21.4.4
+method: aur-depends

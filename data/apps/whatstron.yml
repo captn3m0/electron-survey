@@ -1,0 +1,8 @@
+id: whatstron
+name: Whatstron
+website: https://github.com/murilopereirame/Whatstron
+repository: https://github.com/murilopereirame/Whatstron
+aur:
+- whatstron-bin
+electron: 28.3.3
+method: aur-depends

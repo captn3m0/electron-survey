@@ -1,0 +1,8 @@
+id: any-sync
+name: Any Sync
+website: https://github.com/easyhutu/any-sync-gui
+repository: https://github.com/easyhutu/any-sync-gui
+aur:
+- any-sync-gui
+electron: 25.9.8
+method: aur-depends

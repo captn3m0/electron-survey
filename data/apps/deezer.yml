@@ -1,0 +1,7 @@
+id: deezer
+name: Deezer
+website: https://www.deezer.com/
+aur:
+- deezer
+electron: 41.10.2
+method: aur-depends

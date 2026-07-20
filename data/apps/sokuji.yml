@@ -1,0 +1,8 @@
+id: sokuji
+name: Sokuji
+website: https://github.com/kizuna-ai-lab/sokuji
+repository: https://github.com/kizuna-ai-lab/sokuji
+aur:
+- sokuji-bin
+electron: 40.10.6
+method: aur-depends

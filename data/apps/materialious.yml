@@ -1,0 +1,7 @@
+id: materialious
+name: Materialious
+website: https://materialio.us
+aur:
+- materialious
+electron: 43.1.1
+method: aur-depends

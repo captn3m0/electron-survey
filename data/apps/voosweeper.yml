@@ -1,0 +1,8 @@
+id: voosweeper
+name: Voosweeper
+website: https://github.com/M4rti21/voosweeper
+repository: https://github.com/M4rti21/voosweeper
+aur:
+- voosweeper-bin
+electron: 23.3.13
+method: aur-depends

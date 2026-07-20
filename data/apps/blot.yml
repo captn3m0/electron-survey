@@ -1,0 +1,7 @@
+id: blot
+name: Blot
+website: https://www.useblot.com/
+aur:
+- blot-git
+electron: 31.7.7
+method: aur-depends

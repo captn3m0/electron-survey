@@ -1,0 +1,9 @@
+id: issie
+name: Issie
+website: https://tomcl.github.io/issie
+aur:
+- issie
+additionalAUR:
+- issie-bin
+electron: 35.7.5
+method: aur-depends

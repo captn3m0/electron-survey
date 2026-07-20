@@ -1,0 +1,8 @@
+id: venom86
+name: Venom86
+website: https://github.com/Qrodex/venom86
+repository: https://github.com/Qrodex/venom86
+aur:
+- venom86-bin
+electron: 25.9.8
+method: aur-depends

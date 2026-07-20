@@ -1,0 +1,9 @@
+id: nora
+name: Nora
+website: https://noramusic.netlify.app/
+aur:
+- nora-bin
+additionalAUR:
+- nora-git
+electron: 35.7.5
+method: aur-depends

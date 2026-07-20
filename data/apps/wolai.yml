@@ -1,0 +1,12 @@
+id: wolai
+name: Wolai
+website: https://www.wolai.com
+aur:
+- wolai-bin
+packages:
+- url: https://cdn.wostatic.cn/dist/installers/wolai-1.2.12-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 22.3.27
+method: aur-depends

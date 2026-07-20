@@ -1,0 +1,8 @@
+id: edex-ui
+name: Edex UI
+website: https://github.com/GitSquared/edex-ui
+repository: https://github.com/GitSquared/edex-ui
+aur:
+- edex-ui
+electron: 12.2.3
+method: aur-depends

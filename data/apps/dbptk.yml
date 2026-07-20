@@ -1,0 +1,8 @@
+id: dbptk
+name: Dbptk
+website: https://github.com/keeps/dbptk-desktop
+repository: https://github.com/keeps/dbptk-desktop
+aur:
+- dbptk-desktop-bin
+electron: 34.5.8
+method: aur-depends

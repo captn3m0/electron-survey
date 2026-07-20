@@ -1,0 +1,7 @@
+id: readcat
+name: Readcat
+website: https://read-cat.top/
+aur:
+- readcat-electron
+electron: 36.9.5
+method: aur-depends

@@ -1,0 +1,7 @@
+id: algermusicplayer
+name: Algermusicplayer
+website: http://mc.alger.fun/
+aur:
+- algermusicplayer-bin
+electron: 40.10.6
+method: aur-depends

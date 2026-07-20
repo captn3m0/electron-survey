@@ -1,0 +1,9 @@
+id: huaweicloudmeeting
+name: Huaweicloudmeeting
+website: https://www.huaweicloud.com/product/meeting
+aur:
+- huaweicloudmeeting
+additionalAUR:
+- huaweicloudmeeting-bin
+electron: 20.3.12
+method: aur-depends

@@ -1,0 +1,7 @@
+id: burrow
+name: Burrow
+website: https://www.brandonfowler.me/burrow/
+aur:
+- burrow-bin
+electron: 36.9.5
+method: aur-depends

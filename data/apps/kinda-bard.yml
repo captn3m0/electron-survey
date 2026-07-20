@@ -1,0 +1,7 @@
+id: kinda-bard
+name: Kinda Bard
+website: https://www.zorbawong.com/
+aur:
+- kinda-bard-bin
+electron: 24.8.8
+method: aur-depends

@@ -1,0 +1,10 @@
+id: zxinfo-file-browser
+name: Zxinfo File Browser
+website: https://github.com/thomasheckmann/zxinfo-file-browser
+repository: https://github.com/thomasheckmann/zxinfo-file-browser
+aur:
+- zxinfo-file-browser-bin
+additionalAUR:
+- zxinfo-file-browser-git
+electron: 27.3.11
+method: aur-depends

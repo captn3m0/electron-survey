@@ -1,0 +1,8 @@
+id: cuby
+name: Cuby
+website: https://github.com/Cuby-Project/Cuby-Client
+repository: https://github.com/Cuby-Project/Cuby-Client
+aur:
+- cuby-git
+electron: 26.6.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: mmimage
+name: Mmimage
+website: https://github.com/gaspardruan/MMImage
+repository: https://github.com/gaspardruan/MMImage
+aur:
+- mmimage-git
+electron: 33.4.11
+method: aur-depends

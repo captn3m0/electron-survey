@@ -1,0 +1,7 @@
+id: polar
+name: Polar
+website: https://lightningpolar.com/
+aur:
+- polar-bin
+electron: 13.6.9
+method: aur-depends

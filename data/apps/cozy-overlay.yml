@@ -1,0 +1,8 @@
+id: cozy-overlay
+name: Cozy Overlay
+website: https://github.com/puff-dayo/cozydeco-overlay
+repository: https://github.com/puff-dayo/cozydeco-overlay
+aur:
+- cozy-overlay-desktop-bin
+electron: 33.4.11
+method: aur-depends

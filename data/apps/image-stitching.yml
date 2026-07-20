@@ -1,0 +1,8 @@
+id: image-stitching
+name: Image Stitching
+website: https://github.com/DevanshuSawant/image-stitching-electron-app
+repository: https://github.com/DevanshuSawant/image-stitching-electron-app
+aur:
+- image-stitching-git
+electron: 27.3.11
+method: aur-depends

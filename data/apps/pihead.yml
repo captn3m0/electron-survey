@@ -1,0 +1,8 @@
+id: pihead
+name: Pihead
+website: https://github.com/jaredthejellyfish/pihead-gui
+repository: https://github.com/jaredthejellyfish/pihead-gui
+aur:
+- pihead-gui-git
+electron: 27.3.11
+method: aur-depends

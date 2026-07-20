@@ -1,0 +1,8 @@
+id: lameta
+name: Lameta
+website: https://github.com/onset/lameta
+repository: https://github.com/onset/lameta
+aur:
+- lameta
+electron: 39.8.10
+method: aur-depends

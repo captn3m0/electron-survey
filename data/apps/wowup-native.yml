@@ -1,0 +1,8 @@
+id: wowup-native
+name: Wowup Native
+website: https://github.com/WowUp/WowUp
+repository: https://github.com/WowUp/WowUp
+aur:
+- wowup-native
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,15 @@
+id: equibop
+name: Equibop
+website: https://github.com/Equicord/Equibop
+repository: https://github.com/Equicord/Equibop
+aur:
+- equibop
+packages:
+- url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- equibop-bin
+- equibop-git
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,8 @@
+id: yahee-music-player
+name: Yahee Music Player
+website: https://github.com/yukito0209/yahee-music-player
+repository: https://github.com/yukito0209/yahee-music-player
+aur:
+- yahee-music-player-git
+electron: 35.7.5
+method: aur-depends

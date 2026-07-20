@@ -1,0 +1,7 @@
+id: enotebook
+name: Enotebook
+website: https://enotebook-react.vercel.app/
+aur:
+- enotebook-bin
+electron: 27.3.11
+method: aur-depends

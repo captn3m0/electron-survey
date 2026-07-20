@@ -1,0 +1,7 @@
+id: ytdesk
+name: Ytdesk
+website: https://ytdesk.isaxk.com/
+aur:
+- ytdesk-git
+electron: 31.7.7
+method: aur-depends

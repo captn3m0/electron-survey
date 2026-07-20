@@ -1,0 +1,10 @@
+id: fchat-horizon
+name: Fchat Horizon
+website: https://github.com/Fchat-Horizon/Horizon
+repository: https://github.com/Fchat-Horizon/Horizon
+aur:
+- fchat-horizon-bin
+additionalAUR:
+- fchat-horizon-git
+electron: 40.10.6
+method: aur-depends

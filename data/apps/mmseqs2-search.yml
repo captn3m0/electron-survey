@@ -1,0 +1,7 @@
+id: mmseqs2-search
+name: Mmseqs2 Search
+website: https://search.mmseqs.com/
+aur:
+- mmseqs2-search-bin
+electron: 12.2.3
+method: aur-depends

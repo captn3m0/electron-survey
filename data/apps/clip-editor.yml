@@ -1,0 +1,8 @@
+id: clip-editor
+name: Clip Editor
+website: https://github.com/sn0w12/clip-editor
+repository: https://github.com/sn0w12/clip-editor
+aur:
+- clip-editor-bin
+electron: 36.9.5
+method: aur-depends

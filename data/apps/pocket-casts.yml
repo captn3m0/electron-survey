@@ -1,0 +1,15 @@
+id: pocket-casts
+name: Pocket Casts
+website: https://github.com/felicianotech/pocket-casts-desktop-app
+repository: https://github.com/felicianotech/pocket-casts-desktop-app
+aur:
+- pocket-casts-desktop-bin
+packages:
+- url: https://cdn.a8c-ci.services/pocket-casts-desktop/pocket-casts-desktop-darwin-universal-v2.4.1.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- pocket-casts-linux
+- pocket-casts-linux-git
+electron: 42.7.0
+method: aur-depends

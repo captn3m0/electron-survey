@@ -1,0 +1,8 @@
+id: media-player
+name: Media Player
+website: https://github.com/cesar-al-dev/media-player-electron
+repository: https://github.com/cesar-al-dev/media-player-electron
+aur:
+- media-player-electron-git
+electron: 26.6.10
+method: aur-depends

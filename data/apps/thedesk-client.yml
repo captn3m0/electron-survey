@@ -1,0 +1,7 @@
+id: thedesk-client
+name: Thedesk Client
+website: https://thedesk.top/
+aur:
+- thedesk-client-bin
+electron: 22.3.27
+method: aur-depends

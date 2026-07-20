@@ -1,0 +1,6 @@
+id: crossover-overlay
+name: Crossover Overlay
+website: https://github.com/lacymorrow/crossover
+repository: https://github.com/lacymorrow/crossover
+aur:
+- crossover-overlay-bin

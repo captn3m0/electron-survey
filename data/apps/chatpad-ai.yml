@@ -1,0 +1,7 @@
+id: chatpad-ai
+name: Chatpad AI
+website: https://chatpad.ai/
+aur:
+- chatpad-ai-bin
+electron: 25.9.8
+method: aur-depends

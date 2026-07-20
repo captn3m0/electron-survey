@@ -1,0 +1,8 @@
+id: gatha
+name: Gatha
+website: https://github.com/Neiums/Gatha
+repository: https://github.com/Neiums/Gatha
+aur:
+- gatha-bin
+electron: 39.8.10
+method: aur-depends

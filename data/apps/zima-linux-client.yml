@@ -1,0 +1,6 @@
+id: zima-linux-client
+name: Zima Linux Client
+website: https://github.com/chicohaager/zima-linux-client
+repository: https://github.com/chicohaager/zima-linux-client
+aur:
+- zima-linux-client

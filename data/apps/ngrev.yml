@@ -1,0 +1,8 @@
+id: ngrev
+name: Ngrev
+website: https://github.com/mgechev/ngrev
+repository: https://github.com/mgechev/ngrev
+aur:
+- ngrev-bin
+electron: 11.5.0
+method: aur-depends

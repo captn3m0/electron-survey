@@ -1,0 +1,9 @@
+id: nerimity
+name: Nerimity
+website: https://nerimity.com
+aur:
+- nerimity-desktop
+additionalAUR:
+- nerimity-desktop-bin
+electron: 41.10.2
+method: aur-depends

@@ -1,0 +1,8 @@
+id: sqview
+name: Sqview
+website: https://github.com/j128919965/sqview
+repository: https://github.com/j128919965/sqview
+aur:
+- sqview-git
+electron: 26.6.10
+method: aur-depends

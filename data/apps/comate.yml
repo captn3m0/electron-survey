@@ -1,0 +1,7 @@
+id: comate
+name: Comate
+website: https://comate.baidu.com
+aur:
+- comate-bin
+electron: 39.8.10
+method: aur-depends

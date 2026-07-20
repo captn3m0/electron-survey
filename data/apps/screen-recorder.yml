@@ -1,0 +1,8 @@
+id: screen-recorder
+name: Screen Recorder
+website: https://github.com/petya0927/screen-recorder-app
+repository: https://github.com/petya0927/screen-recorder-app
+aur:
+- screen-recorder-app
+electron: 25.9.8
+method: aur-depends

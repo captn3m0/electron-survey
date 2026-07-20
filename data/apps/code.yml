@@ -1,0 +1,6 @@
+id: code
+name: Code
+website: https://github.com/microsoft/vscode
+repository: https://github.com/microsoft/vscode
+aur:
+- code-git

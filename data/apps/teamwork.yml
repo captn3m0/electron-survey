@@ -1,0 +1,7 @@
+id: teamwork
+name: Teamwork
+website: https://integrations.teamwork.com/integrations/teamwork-projects-desktop/
+aur:
+- teamwork-desktop
+electron: 26.6.10
+method: aur-depends

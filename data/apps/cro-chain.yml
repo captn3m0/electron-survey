@@ -1,0 +1,8 @@
+id: cro-chain
+name: Cro Chain
+website: https://github.com/crypto-com/chain-desktop-wallet
+repository: https://github.com/crypto-com/chain-desktop-wallet
+aur:
+- cro-chain-desktop
+electron: 19.1.9
+method: aur-depends

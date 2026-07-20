@@ -1,0 +1,7 @@
+id: zhiximind
+name: Zhiximind
+website: https://www.zhixi.com
+aur:
+- zhiximind-desktop-bin
+electron: 22.3.27
+method: aur-depends

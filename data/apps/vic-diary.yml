@@ -1,0 +1,7 @@
+id: vic-diary
+name: Vic Diary
+website: https://vic-diary.netlify.app/
+aur:
+- vic-diary-bin
+electron: 22.3.27
+method: aur-depends

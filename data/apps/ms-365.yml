@@ -1,0 +1,7 @@
+id: ms-365
+name: Ms 365
+website: https://agam778.github.io/MS-365-Electron
+aur:
+- ms-365-electron
+electron: 30.5.1
+method: aur-depends

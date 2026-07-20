@@ -1,0 +1,8 @@
+id: deezer-enhanced
+name: Deezer Enhanced
+website: https://github.com/duzda/deezer-enhanced
+repository: https://github.com/duzda/deezer-enhanced
+aur:
+- deezer-enhanced
+electron: 37.10.3
+method: aur-depends

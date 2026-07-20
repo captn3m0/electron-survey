@@ -1,0 +1,7 @@
+id: lala-companion
+name: Lala Companion
+website: https://lalaland.chat/
+aur:
+- lala-companion-bin
+electron: 41.10.2
+method: aur-depends

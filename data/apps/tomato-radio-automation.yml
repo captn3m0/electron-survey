@@ -1,0 +1,7 @@
+id: tomato-radio-automation
+name: Tomato Radio Automation
+website: https://dtcooper.github.io/tomato/
+aur:
+- tomato-radio-automation-bin
+electron: 37.10.3
+method: aur-depends

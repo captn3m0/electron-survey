@@ -1,0 +1,8 @@
+id: priori-db
+name: Priori DB
+website: https://github.com/priori/priori-db
+repository: https://github.com/priori/priori-db
+aur:
+- priori-db-bin
+electron: 31.7.7
+method: aur-depends

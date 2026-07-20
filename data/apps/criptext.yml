@@ -1,0 +1,9 @@
+id: criptext
+name: Criptext
+website: https://criptext.com/
+aur:
+- criptext-bin
+packages:
+- url: http://cdn.criptext.com/Criptext-Email-Desktop/mac/Criptext-latest.dmg
+  format: dmg
+  os: macos

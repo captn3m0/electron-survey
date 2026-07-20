@@ -1,0 +1,9 @@
+id: geforce-infinity
+name: Geforce Infinity
+website: https://geforce-infinity.xyz
+aur:
+- geforce-infinity
+additionalAUR:
+- geforce-infinity-bin
+electron: 37.10.3
+method: aur-depends

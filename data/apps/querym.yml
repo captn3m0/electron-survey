@@ -1,0 +1,7 @@
+id: querym
+name: Querym
+website: https://querymaster.io
+aur:
+- querym-bin
+electron: 23.3.13
+method: aur-depends

@@ -1,0 +1,12 @@
+id: mater
+name: Mater
+website: https://github.com/jasonlong/mater
+repository: https://github.com/jasonlong/mater
+aur:
+- mater-bin
+packages:
+- url: https://github.com/jasonlong/mater/releases/download/v3.0.1/Mater-v3.0.1-macos.zip
+  format: zip
+  os: macos
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,9 @@
+id: local-llama
+name: Local Llama
+website: https://folio.tib0.com/
+aur:
+- local-llama-bin
+additionalAUR:
+- local-llama-git
+electron: 31.7.7
+method: aur-depends

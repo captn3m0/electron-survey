@@ -1,0 +1,9 @@
+id: kuro
+name: Kuro
+website: https://github.com/davidsmorais/kuro
+repository: https://github.com/davidsmorais/kuro
+aur:
+- kuro
+additionalAUR:
+- kuro-electron
+- kuro-git

@@ -1,0 +1,8 @@
+id: ai-writer
+name: AI Writer
+website: https://github.com/Intellicode/writer
+repository: https://github.com/Intellicode/writer
+aur:
+- ai-writer
+electron: 26.6.10
+method: aur-depends

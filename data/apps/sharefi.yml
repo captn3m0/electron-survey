@@ -1,0 +1,7 @@
+id: sharefi
+name: Sharefi
+website: https://sharefi.app
+aur:
+- sharefi-electron-bin
+electron: 24.8.8
+method: aur-depends

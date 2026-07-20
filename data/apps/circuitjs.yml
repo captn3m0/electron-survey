@@ -1,0 +1,5 @@
+id: circuitjs
+name: Circuitjs
+website: https://www.falstad.com/circuit/
+aur:
+- circuitjs-electron-git

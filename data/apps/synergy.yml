@@ -1,0 +1,7 @@
+id: synergy
+name: Synergy
+website: https://symless.com/synergy
+aur:
+- synergy
+electron: 38.8.6
+method: aur-depends

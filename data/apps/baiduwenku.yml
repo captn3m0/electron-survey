@@ -1,0 +1,7 @@
+id: baiduwenku
+name: Baiduwenku
+website: https://wenku.baidu.com
+aur:
+- baiduwenku-bin
+electron: 22.3.27
+method: aur-depends

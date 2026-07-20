@@ -1,0 +1,7 @@
+id: kiwix-js
+name: Kiwix JS
+website: https://pwa.kiwix.org/
+aur:
+- kiwix-js-electron-bin
+electron: 38.8.6
+method: aur-depends

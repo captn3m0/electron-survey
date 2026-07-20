@@ -1,0 +1,8 @@
+id: webp-converter
+name: Webp Converter
+website: https://github.com/HarrisonWang/webp-converter
+repository: https://github.com/HarrisonWang/webp-converter
+aur:
+- webp-converter-git
+electron: 33.4.11
+method: aur-depends

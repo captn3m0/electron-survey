@@ -1,0 +1,8 @@
+id: autocut-client
+name: Autocut Client
+website: https://github.com/zcf0508/autocut-client
+repository: https://github.com/zcf0508/autocut-client
+aur:
+- autocut-client
+electron: 21.4.4
+method: aur-depends

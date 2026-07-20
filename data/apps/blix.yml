@@ -1,0 +1,8 @@
+id: blix
+name: Blix
+website: https://github.com/COS301-SE-2023/AI-Photo-Editor
+repository: https://github.com/COS301-SE-2023/AI-Photo-Editor
+aur:
+- blix-bin
+electron: 24.8.8
+method: aur-depends

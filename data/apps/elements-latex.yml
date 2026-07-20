@@ -1,0 +1,8 @@
+id: elements-latex
+name: Elements Latex
+website: https://github.com/Red-Rapious/Elements-LaTeX
+repository: https://github.com/Red-Rapious/Elements-LaTeX
+aur:
+- elements-latex
+electron: 18.3.15
+method: aur-depends

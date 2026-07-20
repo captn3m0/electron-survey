@@ -1,0 +1,5 @@
+id: lichobile
+name: Lichobile
+website: https://lichess.org/mobile
+aur:
+- lichobile-electron

@@ -1,0 +1,6 @@
+id: deezer-discord-rpc
+name: Deezer Discord Rpc
+website: https://github.com/JustYuuto/deezer-discord-rpc
+repository: https://github.com/JustYuuto/deezer-discord-rpc
+aur:
+- deezer-discord-rpc-bin

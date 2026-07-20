@@ -1,0 +1,10 @@
+id: winkey
+name: Winkey
+website: https://github.com/BeastCodZ/WinKey
+repository: https://github.com/BeastCodZ/WinKey
+aur:
+- winkey-bin
+additionalAUR:
+- winkey-git
+electron: 32.3.3
+method: aur-depends

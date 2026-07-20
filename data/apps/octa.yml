@@ -1,0 +1,8 @@
+id: octa
+name: Octa
+website: https://github.com/MeroVinggen/octa-electron
+repository: https://github.com/MeroVinggen/octa-electron
+aur:
+- octa-electron
+electron: 24.8.8
+method: aur-depends

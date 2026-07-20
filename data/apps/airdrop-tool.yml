@@ -1,0 +1,8 @@
+id: airdrop-tool
+name: Airdrop Tool
+website: https://github.com/BTS-CM/airdrop_tool
+repository: https://github.com/BTS-CM/airdrop_tool
+aur:
+- airdrop-tool-bin
+electron: 26.6.10
+method: aur-depends

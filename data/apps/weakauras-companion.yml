@@ -1,0 +1,13 @@
+id: weakauras-companion
+name: Weakauras Companion
+website: https://weakauras.wtf/
+aur:
+- weakauras-companion
+packages:
+- url: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v5.3.1/WeakAuras-Companion-5.3.1-mac-universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- weakauras-companion-git
+electron: 40.10.6
+method: aur-depends

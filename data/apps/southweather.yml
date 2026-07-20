@@ -1,0 +1,7 @@
+id: southweather
+name: Southweather
+website: http://southweather.wlorigin.cf/
+aur:
+- southweather-bin
+electron: 30.5.1
+method: aur-depends

@@ -1,0 +1,8 @@
+id: brs
+name: Brs
+website: https://github.com/lvcabral/brs-desktop
+repository: https://github.com/lvcabral/brs-desktop
+aur:
+- brs-desktop-bin
+electron: 39.8.10
+method: aur-depends

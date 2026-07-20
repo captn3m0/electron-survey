@@ -1,0 +1,10 @@
+id: woocommerce-pos
+name: Woocommerce Pos
+website: https://github.com/wcpos/electron
+repository: https://github.com/wcpos/electron
+aur:
+- woocommerce-pos
+additionalAUR:
+- woocommerce-pos-bin
+electron: 30.5.1
+method: aur-depends

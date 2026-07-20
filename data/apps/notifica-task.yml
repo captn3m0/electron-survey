@@ -1,0 +1,7 @@
+id: notifica-task
+name: Notifica Task
+website: https://notifica-task.lovable.app/
+aur:
+- notifica-task-git
+electron: 30.5.1
+method: aur-depends

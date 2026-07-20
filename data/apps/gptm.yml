@@ -1,0 +1,10 @@
+id: gptm
+name: Gptm
+website: https://github.com/Technicalflight/Gptm
+repository: https://github.com/Technicalflight/Gptm
+aur:
+- gptm-bin
+additionalAUR:
+- gptm-git
+electron: 31.7.7
+method: aur-depends

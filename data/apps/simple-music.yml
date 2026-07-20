@@ -1,0 +1,9 @@
+id: simple-music
+name: Simple Music
+website: https://simple-music.netlify.app/
+aur:
+- simple-music
+additionalAUR:
+- simple-music-git
+electron: 39.8.10
+method: aur-depends

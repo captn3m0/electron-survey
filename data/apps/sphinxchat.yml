@@ -1,0 +1,5 @@
+id: sphinxchat
+name: Sphinxchat
+website: https://sphinx.chat/
+aur:
+- sphinxchat-appimage-git

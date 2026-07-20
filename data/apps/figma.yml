@@ -13,3 +13,5 @@ packages:
   format: dmg
   os: macos
 name: Figma
+additionalAUR:
+- figma-linux-next

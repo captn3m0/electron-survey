@@ -1,0 +1,6 @@
+id: t3-chat
+name: T3 Chat
+website: https://github.com/0xGingi/T3_Chat_Electron
+repository: https://github.com/0xGingi/T3_Chat_Electron
+aur:
+- t3-chat-electron-git

@@ -1,0 +1,7 @@
+id: axonops-workbench
+name: Axonops Workbench
+website: https://axonops.com/
+aur:
+- axonops-workbench-bin
+electron: 41.10.2
+method: aur-depends

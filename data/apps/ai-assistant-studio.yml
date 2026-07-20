@@ -1,0 +1,8 @@
+id: ai-assistant-studio
+name: AI Assistant Studio
+website: https://github.com/gabrielborgesdm/ai-assistant-studio
+repository: https://github.com/gabrielborgesdm/ai-assistant-studio
+aur:
+- ai-assistant-studio-bin
+electron: 35.7.5
+method: aur-depends

@@ -1,0 +1,8 @@
+id: transmissionic
+name: Transmissionic
+website: https://github.com/6c65726f79/Transmissionic
+repository: https://github.com/6c65726f79/Transmissionic
+aur:
+- transmissionic-bin
+electron: 23.3.13
+method: aur-depends

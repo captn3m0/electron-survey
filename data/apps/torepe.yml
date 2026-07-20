@@ -1,0 +1,7 @@
+id: torepe
+name: Torepe
+website: https://nekobato.github.io/Torepe/
+aur:
+- torepe-git
+electron: 42.7.0
+method: aur-depends

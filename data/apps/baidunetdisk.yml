@@ -1,0 +1,12 @@
+id: baidunetdisk
+name: Baidunetdisk
+website: https://pan.baidu.com
+aur:
+- baidunetdisk-electron
+packages:
+- url: https://pkg-ant.baidu.com/issue/netdisk/MACguanjia/8.6.0/BaiduNetdisk_mac_8.6.0_arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 22.3.27
+method: aur-depends

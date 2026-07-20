@@ -1,0 +1,7 @@
+id: pdmaas-pro
+name: Pdmaas Pro
+website: https://www.yonsum.com/
+aur:
+- pdmaas-pro-bin
+electron: 29.4.6
+method: aur-depends

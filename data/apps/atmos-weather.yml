@@ -1,0 +1,7 @@
+id: atmos-weather
+name: Atmos Weather
+website: https://atticuscornett.github.io/AtmosWeather/
+aur:
+- atmos-weather-bin
+electron: 41.10.2
+method: aur-depends

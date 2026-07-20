@@ -1,0 +1,8 @@
+id: glassy-music-nankill
+name: Glassy Music Nankill
+website: https://github.com/NanKillBro/glassy-music-nankill
+repository: https://github.com/NanKillBro/glassy-music-nankill
+aur:
+- glassy-music-nankill-git
+electron: 42.7.0
+method: aur-depends

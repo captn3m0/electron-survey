@@ -1,0 +1,8 @@
+id: node-snapdrop
+name: Node Snapdrop
+website: https://github.com/JustSch/node-snapdrop-electron
+repository: https://github.com/JustSch/node-snapdrop-electron
+aur:
+- node-snapdrop-electron-bin
+electron: 21.4.4
+method: aur-depends

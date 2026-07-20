@@ -1,0 +1,7 @@
+id: focustune
+name: Focustune
+website: https://focustune.isaxk.com/
+aur:
+- focustune-git
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,8 @@
+id: tcgtools
+name: Tcgtools
+website: https://github.com/Kazbonfim/tcgtools
+repository: https://github.com/Kazbonfim/tcgtools
+aur:
+- tcgtools-git
+electron: 34.5.8
+method: aur-depends

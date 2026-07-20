@@ -1,0 +1,10 @@
+id: electron-ssr-preview
+name: Electron Ssr Preview
+website: https://github.com/shadowsocksrr/electron-ssr
+repository: https://github.com/shadowsocksrr/electron-ssr
+aur:
+- electron-ssr
+additionalAUR:
+- electron-ssr-preview
+electron: 4.2.12
+method: aur-depends

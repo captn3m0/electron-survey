@@ -1,0 +1,6 @@
+id: claude-desktop-native
+name: Claude Desktop Native
+website: https://github.com/jkoelker/claude-desktop-native
+repository: https://github.com/jkoelker/claude-desktop-native
+aur:
+- claude-desktop-native

@@ -1,0 +1,8 @@
+id: ollama-chat
+name: Ollama Chat
+website: https://github.com/sufianetaouil/ollama-chat-desktop
+repository: https://github.com/sufianetaouil/ollama-chat-desktop
+aur:
+- ollama-chat-desktop-git
+electron: 29.4.6
+method: aur-depends

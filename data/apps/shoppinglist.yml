@@ -1,0 +1,8 @@
+id: shoppinglist
+name: Shoppinglist
+website: https://github.com/MillerSpil/ShoppingListApplication
+repository: https://github.com/MillerSpil/ShoppingListApplication
+aur:
+- shoppinglist-bin
+electron: 17.4.11
+method: aur-depends

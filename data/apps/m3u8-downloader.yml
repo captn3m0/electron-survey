@@ -1,0 +1,10 @@
+id: m3u8-downloader
+name: M3u8 Downloader
+website: https://github.com/12343954/M3U8-Downloader
+repository: https://github.com/12343954/M3U8-Downloader
+aur:
+- m3u8downloader-bin
+additionalAUR:
+- m3u8-downloader-bin
+electron: 28.3.3
+method: aur-depends

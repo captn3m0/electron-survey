@@ -1,0 +1,10 @@
+id: linkandroid
+name: Linkandroid
+website: https://linkandroid.com/
+aur:
+- linkandroid-git
+packages:
+- url: https://github.com/modstart-lib/linkandroid/releases/download/v2.0.0/LinkAndroid-2.0.0-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

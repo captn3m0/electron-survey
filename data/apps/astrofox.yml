@@ -1,0 +1,13 @@
+id: astrofox
+name: Astrofox
+website: https://astrofox.io
+aur:
+- astrofox
+packages:
+- url: https://files.astrofox.io/download/Astrofox-1.4.0.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- astrofox-bin
+electron: 34.5.8
+method: aur-depends

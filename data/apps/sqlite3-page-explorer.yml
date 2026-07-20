@@ -1,0 +1,8 @@
+id: sqlite3-page-explorer
+name: Sqlite3 Page Explorer
+website: https://github.com/siara-cc/sqlite3_page_explorer
+repository: https://github.com/siara-cc/sqlite3_page_explorer
+aur:
+- sqlite3-page-explorer-git
+electron: 22.3.27
+method: aur-depends

@@ -1,0 +1,8 @@
+id: iipython-feishin
+name: Iipython Feishin
+website: https://github.com/iceyear/iipython-feishin-electron-bin
+repository: https://github.com/iceyear/iipython-feishin-electron-bin
+aur:
+- iipython-feishin-electron-bin
+electron: 39.8.10
+method: aur-depends

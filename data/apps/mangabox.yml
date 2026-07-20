@@ -1,0 +1,8 @@
+id: mangabox
+name: Mangabox
+website: https://github.com/zpaolo11x/mangabox
+repository: https://github.com/zpaolo11x/mangabox
+aur:
+- mangabox-bin
+electron: 38.8.6
+method: aur-depends

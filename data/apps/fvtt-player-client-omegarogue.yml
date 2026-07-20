@@ -1,0 +1,6 @@
+id: fvtt-player-client-omegarogue
+name: Fvtt Player Client Omegarogue
+website: https://github.com/OmegaRogue/fvtt-player-client
+repository: https://github.com/OmegaRogue/fvtt-player-client
+aur:
+- fvtt-player-client-omegarogue

@@ -1,0 +1,6 @@
+id: pev2
+name: Pev2
+website: https://github.com/dalibo/pev2
+repository: https://github.com/dalibo/pev2
+aur:
+- pev2-electron

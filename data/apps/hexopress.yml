@@ -1,0 +1,9 @@
+id: hexopress
+name: Hexopress
+website: http://blog.charlestang.org/HexoPress/
+aur:
+- hexopress
+additionalAUR:
+- hexopress-git
+electron: 41.10.2
+method: aur-depends

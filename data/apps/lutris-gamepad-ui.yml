@@ -1,0 +1,8 @@
+id: lutris-gamepad-ui
+name: Lutris Gamepad UI
+website: https://github.com/andrew-ld/lutris-gamepad-ui
+repository: https://github.com/andrew-ld/lutris-gamepad-ui
+aur:
+- lutris-gamepad-ui-git
+electron: 43.1.1
+method: aur-depends

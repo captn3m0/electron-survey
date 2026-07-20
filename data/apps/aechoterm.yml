@@ -1,0 +1,7 @@
+id: aechoterm
+name: Aechoterm
+website: https://ec.nantian.com.cn/
+aur:
+- aechoterm-bin
+electron: 13.6.9
+method: aur-depends

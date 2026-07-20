@@ -1,0 +1,8 @@
+id: everytime
+name: Everytime
+website: https://github.com/kiprobinson/everytime
+repository: https://github.com/kiprobinson/everytime
+aur:
+- everytime
+electron: 42.7.0
+method: aur-depends

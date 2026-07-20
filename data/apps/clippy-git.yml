@@ -1,0 +1,10 @@
+id: clippy-git
+name: Clippy
+website: https://github.com/felixrieseberg/clippy
+repository: https://github.com/felixrieseberg/clippy
+aur:
+- clippy-bin
+additionalAUR:
+- clippy-git
+electron: 35.7.5
+method: aur-depends

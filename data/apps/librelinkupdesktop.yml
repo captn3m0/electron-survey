@@ -1,0 +1,7 @@
+id: librelinkupdesktop
+name: Librelinkupdesktop
+website: https://crazymarvin.com/librelinkupdesktop/
+aur:
+- librelinkupdesktop-bin
+electron: 34.5.8
+method: aur-depends

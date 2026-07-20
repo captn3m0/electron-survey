@@ -1,0 +1,8 @@
+id: calt
+name: Calt
+website: https://github.com/CyrusCKF/translator
+repository: https://github.com/CyrusCKF/translator
+aur:
+- calt-git
+electron: 31.7.7
+method: aur-depends

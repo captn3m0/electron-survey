@@ -1,0 +1,10 @@
+id: kanbanflow
+name: Kanbanflow
+website: https://github.com/metawave/kanbanflow-app
+repository: https://github.com/metawave/kanbanflow-app
+aur:
+- kanbanflow-app-bin
+additionalAUR:
+- kanbanflow-app-git
+electron: 13.6.9
+method: aur-depends

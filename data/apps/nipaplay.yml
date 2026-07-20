@@ -1,0 +1,8 @@
+id: nipaplay
+name: Nipaplay
+website: https://github.com/MCDFsteve/NipaPlay
+repository: https://github.com/MCDFsteve/NipaPlay
+aur:
+- nipaplay-bin
+electron: 29.4.6
+method: aur-depends

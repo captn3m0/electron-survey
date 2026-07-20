@@ -1,0 +1,7 @@
+id: geneanet
+name: Geneanet
+website: https://geneanet.org
+aur:
+- geneanet
+electron: 9.4.4
+method: aur-depends

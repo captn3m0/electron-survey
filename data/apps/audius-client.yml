@@ -1,0 +1,6 @@
+id: audius-client
+name: Audius Client
+website: https://github.com/AudiusProject/audius-protocol/tree/main/packages/web
+repository: https://github.com/AudiusProject/audius-protocol
+aur:
+- audius-client-bin

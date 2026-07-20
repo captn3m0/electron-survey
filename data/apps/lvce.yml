@@ -1,0 +1,7 @@
+id: lvce
+name: Lvce
+website: https://lvce-editor.github.io/lvce-editor
+aur:
+- lvce-bin
+electron: 43.1.1
+method: aur-depends

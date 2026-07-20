@@ -1,0 +1,10 @@
+id: zyfun-git
+name: Zyfun
+website: https://github.com/Hiram-Wong/ZyPlayer
+repository: https://github.com/Hiram-Wong/ZyPlayer
+aur:
+- zyfun-bin
+additionalAUR:
+- zyfun-git
+electron: 41.10.2
+method: aur-depends

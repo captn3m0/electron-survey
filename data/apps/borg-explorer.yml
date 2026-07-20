@@ -1,0 +1,8 @@
+id: borg-explorer
+name: Borg Explorer
+website: https://github.com/Netruk44/borg-repository-explorer
+repository: https://github.com/Netruk44/borg-repository-explorer
+aur:
+- borg-explorer-bin
+electron: 22.3.27
+method: aur-depends

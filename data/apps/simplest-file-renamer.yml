@@ -1,0 +1,10 @@
+id: simplest-file-renamer
+name: Simplest File Renamer
+website: https://github.com/whyboris/Simplest-File-Renamer
+repository: https://github.com/whyboris/Simplest-File-Renamer
+aur:
+- simplest-file-renamer-bin
+additionalAUR:
+- simplest-file-renamer-git
+electron: 8.5.5
+method: aur-depends

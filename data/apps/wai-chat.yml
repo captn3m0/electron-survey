@@ -1,0 +1,8 @@
+id: wai-chat
+name: Wai Chat
+website: https://github.com/ptp-build/wai-chat-desktop
+repository: https://github.com/ptp-build/wai-chat-desktop
+aur:
+- wai-chat-desktop
+electron: 24.8.8
+method: aur-depends

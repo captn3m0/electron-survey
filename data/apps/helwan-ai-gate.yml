@@ -1,0 +1,6 @@
+id: helwan-ai-gate
+name: Helwan AI Gate
+website: https://github.com/helwan-linux/helwan-ai
+repository: https://github.com/helwan-linux/helwan-ai
+aur:
+- helwan-ai-gate

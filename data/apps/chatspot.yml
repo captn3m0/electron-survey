@@ -1,0 +1,8 @@
+id: chatspot
+name: Chatspot
+website: https://github.com/gusye1234/chat-spot
+repository: https://github.com/gusye1234/chat-spot
+aur:
+- chatspot-bin
+electron: 26.6.10
+method: aur-depends

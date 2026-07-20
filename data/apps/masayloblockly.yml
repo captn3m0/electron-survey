@@ -1,0 +1,8 @@
+id: masayloblockly
+name: Masayloblockly
+website: https://github.com/agomezgar/masayloBlockly
+repository: https://github.com/agomezgar/masayloBlockly
+aur:
+- masayloblockly-bin
+electron: 33.4.11
+method: aur-depends

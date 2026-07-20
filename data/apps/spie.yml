@@ -1,0 +1,8 @@
+id: spie
+name: Spie
+website: https://github.com/robsonos/spie
+repository: https://github.com/robsonos/spie
+aur:
+- spie-bin
+electron: 34.5.8
+method: aur-depends

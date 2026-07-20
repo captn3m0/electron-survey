@@ -7,3 +7,9 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+aur:
+- actual-bin
+- actual-server
+- actual-server-runit
+electron: 41.10.2
+method: aur-depends

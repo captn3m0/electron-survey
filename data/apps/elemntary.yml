@@ -1,0 +1,8 @@
+id: elemntary
+name: Elemntary
+website: https://github.com/vti/elemntary
+repository: https://github.com/vti/elemntary
+aur:
+- elemntary-bin
+electron: 24.8.8
+method: aur-depends

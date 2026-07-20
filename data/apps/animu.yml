@@ -1,0 +1,8 @@
+id: animu
+name: Animu
+website: https://github.com/Owca525/animu
+repository: https://github.com/Owca525/animu
+aur:
+- animu-bin
+electron: 42.7.0
+method: aur-depends

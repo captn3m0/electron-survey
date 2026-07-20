@@ -1,0 +1,8 @@
+id: catcat-dm-react
+name: Catcat Dm React
+website: https://github.com/kokolokksk/catcat-dm-react
+repository: https://github.com/kokolokksk/catcat-dm-react
+aur:
+- catcat-dm-react
+electron: 23.3.13
+method: aur-depends

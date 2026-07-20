@@ -1,0 +1,8 @@
+id: vudit
+name: Vudit
+website: https://github.com/praharshjain/Vudit-Desktop
+repository: https://github.com/praharshjain/Vudit-Desktop
+aur:
+- vudit-git
+electron: 39.8.10
+method: aur-depends

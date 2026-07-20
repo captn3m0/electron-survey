@@ -67,3 +67,7 @@ packages:
   os: macos
   arch: arm64
 name: Hyper
+aur:
+- hyper
+- hyper-bin
+- hyper-git

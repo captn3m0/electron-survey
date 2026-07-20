@@ -1,0 +1,8 @@
+id: desktop-schedule
+name: Desktop Schedule
+website: https://github.com/TimFang4162/desktop-schedule
+repository: https://github.com/TimFang4162/desktop-schedule
+aur:
+- desktop-schedule-bin
+electron: 16.2.8
+method: aur-depends

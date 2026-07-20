@@ -1,0 +1,8 @@
+id: jscast
+name: Jscast
+website: https://github.com/jhedev96/jscast-app
+repository: https://github.com/jhedev96/jscast-app
+aur:
+- jscast-git
+electron: 11.5.0
+method: aur-depends

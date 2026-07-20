@@ -1,0 +1,7 @@
+id: baidu-translate-client
+name: Baidu Translate Client
+website: https://fanyi.baidu.com/
+aur:
+- baidu-translate-client-bin
+electron: 11.5.0
+method: aur-depends

@@ -1,0 +1,7 @@
+id: noi
+name: Noi
+website: https://noi.nofwl.com/
+aur:
+- noi-desktop-bin
+electron: 39.8.10
+method: aur-depends

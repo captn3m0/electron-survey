@@ -1,0 +1,8 @@
+id: taratormusic
+name: Taratormusic
+website: https://github.com/Victiniiiii/TaratorMusic
+repository: https://github.com/Victiniiiii/TaratorMusic
+aur:
+- taratormusic-bin
+electron: 40.10.6
+method: aur-depends

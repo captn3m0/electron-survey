@@ -1,0 +1,8 @@
+id: polybase
+name: Polybase
+website: https://github.com/Jgrtowy/PolyBase
+repository: https://github.com/Jgrtowy/PolyBase
+aur:
+- polybase-git
+electron: 28.3.3
+method: aur-depends

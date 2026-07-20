@@ -1,0 +1,9 @@
+id: ai-browser
+name: AI Browser
+website: https://jun-murakami.web.app/apps/ai-browser
+aur:
+- ai-browser-bin
+additionalAUR:
+- ai-browser-git
+electron: 42.7.0
+method: aur-depends

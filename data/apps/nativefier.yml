@@ -1,0 +1,7 @@
+id: nativefier
+name: Nativefier
+website: https://mattruzzi.github.io/nativefier-gui/
+aur:
+- nativefier-gui-bin
+electron: 26.6.10
+method: aur-depends

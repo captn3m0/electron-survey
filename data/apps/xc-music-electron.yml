@@ -1,0 +1,11 @@
+id: xc-music-electron
+name: Xc Music
+website: https://github.com/yiktllw/XCMusic
+repository: https://github.com/yiktllw/XCMusic
+aur:
+- xc-music-bin
+additionalAUR:
+- xc-music-electron
+- xc-music-git
+electron: 35.7.5
+method: aur-depends

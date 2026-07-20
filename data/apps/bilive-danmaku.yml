@@ -1,0 +1,8 @@
+id: bilive-danmaku
+name: Bilive Danmaku
+website: https://github.com/Beats0/bilive-danmaku
+repository: https://github.com/Beats0/bilive-danmaku
+aur:
+- bilive-danmaku-git
+electron: 26.6.10
+method: aur-depends

@@ -1,0 +1,7 @@
+id: deepnotes
+name: Deepnotes
+website: https://deepnotes.app/
+aur:
+- deepnotes-bin
+electron: 25.9.8
+method: aur-depends

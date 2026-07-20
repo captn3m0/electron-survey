@@ -1,0 +1,8 @@
+id: miuzcpc
+name: Miuzcpc
+website: https://github.com/miboqiang130/miuzcPC
+repository: https://github.com/miboqiang130/miuzcPC
+aur:
+- miuzcpc-git
+electron: 30.5.1
+method: aur-depends

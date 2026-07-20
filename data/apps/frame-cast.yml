@@ -1,0 +1,8 @@
+id: frame-cast
+name: Frame Cast
+website: https://github.com/nathan-fiscaletti/framecast
+repository: https://github.com/nathan-fiscaletti/framecast
+aur:
+- frame-cast-bin
+electron: 24.8.8
+method: aur-depends

@@ -1,0 +1,7 @@
+id: marchen
+name: Marchen
+website: https://marchen-play.suemor.com/
+aur:
+- marchen-bin
+electron: 35.7.5
+method: aur-depends

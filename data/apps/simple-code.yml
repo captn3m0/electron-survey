@@ -1,0 +1,6 @@
+id: simple-code
+name: Simple Code
+website: https://github.com/DonutsDelivery/simple-code-gui
+repository: https://github.com/DonutsDelivery/simple-code-gui
+aur:
+- simple-code-gui

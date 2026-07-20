@@ -1,0 +1,8 @@
+id: youtube-smarttv-emu
+name: Youtube Smarttv Emu
+website: https://github.com/platevoltage/youtube-smarttv-emu
+repository: https://github.com/platevoltage/youtube-smarttv-emu
+aur:
+- youtube-smarttv-emu-bin
+electron: 34.5.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: fury
+name: Fury
+website: https://github.com/naveen-devang/Fury
+repository: https://github.com/naveen-devang/Fury
+aur:
+- fury-git
+electron: 28.3.3
+method: aur-depends

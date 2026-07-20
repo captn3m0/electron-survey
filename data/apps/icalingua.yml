@@ -1,0 +1,9 @@
+id: icalingua
+name: Icalingua++
+website: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus
+repository: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus
+aur:
+- icalingua++
+additionalAUR:
+- icalingua++-bin
+- icalingua++-electron-git

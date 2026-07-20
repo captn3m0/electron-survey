@@ -1,0 +1,11 @@
+id: akuse
+name: Akuse
+website: https://github.com/akuse-app/Akuse
+repository: https://github.com/akuse-app/Akuse
+aur:
+- akuse
+additionalAUR:
+- akuse-bin
+- akuse-git
+electron: 26.6.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: minterm
+name: Minterm
+website: https://github.com/peace317/minterm
+repository: https://github.com/peace317/minterm
+aur:
+- minterm-bin
+electron: 16.2.8
+method: aur-depends

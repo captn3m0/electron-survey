@@ -1,0 +1,8 @@
+id: deskaide
+name: Deskaide
+website: https://github.com/deskaide/deskaide
+repository: https://github.com/deskaide/deskaide
+aur:
+- deskaide-bin
+electron: 22.3.27
+method: aur-depends

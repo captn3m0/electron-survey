@@ -1,0 +1,7 @@
+id: f1mv-lights-integration
+name: F1mv Lights Integration
+website: https://f1mvli.jstt.me/
+aur:
+- f1mv-lights-integration-bin
+electron: 41.10.2
+method: aur-depends

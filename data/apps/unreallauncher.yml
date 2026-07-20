@@ -1,0 +1,8 @@
+id: unreallauncher
+name: Unreallauncher
+website: https://github.com/unh0lyalexzero/Unreal-Launcher
+repository: https://github.com/unh0lyalexzero/Unreal-Launcher
+aur:
+- unreallauncher-git
+electron: 43.1.1
+method: aur-depends

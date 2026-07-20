@@ -1,0 +1,6 @@
+id: attack-shark-x11
+name: Attack Shark X11
+website: https://github.com/dressedinblack5/attack-shark-x11-electron
+repository: https://github.com/dressedinblack5/attack-shark-x11-electron
+aur:
+- attack-shark-x11-electron

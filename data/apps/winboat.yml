@@ -1,0 +1,7 @@
+id: winboat
+name: Winboat
+website: https://www.winboat.app
+aur:
+- winboat-git
+additionalAUR:
+- winboat-electron

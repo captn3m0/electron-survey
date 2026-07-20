@@ -1,0 +1,8 @@
+id: fusionkit
+name: Fusionkit
+website: https://github.com/QiuYeDx/FusionKit
+repository: https://github.com/QiuYeDx/FusionKit
+aur:
+- fusionkit-git
+electron: 33.4.11
+method: aur-depends

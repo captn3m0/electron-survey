@@ -1,0 +1,7 @@
+id: qrocad
+name: Qrocad
+website: https://qrodex.github.io/QroCAD/
+aur:
+- qrocad-desktop-bin
+electron: 25.9.8
+method: aur-depends

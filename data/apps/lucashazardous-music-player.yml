@@ -1,0 +1,8 @@
+id: lucashazardous-music-player
+name: Lucashazardous Music Player
+website: https://github.com/LucasHazardous/music-player
+repository: https://github.com/LucasHazardous/music-player
+aur:
+- lucashazardous-music-player-bin
+electron: 26.6.10
+method: aur-depends

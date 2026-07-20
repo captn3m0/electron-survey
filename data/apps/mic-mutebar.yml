@@ -1,0 +1,8 @@
+id: mic-mutebar
+name: Mic Mutebar
+website: https://github.com/azu/mic-mutebar
+repository: https://github.com/azu/mic-mutebar
+aur:
+- mic-mutebar-bin
+electron: 25.9.8
+method: aur-depends

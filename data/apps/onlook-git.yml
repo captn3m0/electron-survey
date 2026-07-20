@@ -1,0 +1,15 @@
+id: onlook-git
+name: Onlook
+website: https://github.com/onlook-dev/studio
+repository: https://github.com/onlook-dev/studio
+aur:
+- onlook-bin
+packages:
+- url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- onlook-git
+electron: 36.9.5
+method: aur-depends

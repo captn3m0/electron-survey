@@ -1,0 +1,8 @@
+id: yarle-evernote-to-md
+name: Yarle Evernote To Md
+website: https://github.com/akosbalasko/yarle
+repository: https://github.com/akosbalasko/yarle
+aur:
+- yarle-evernote-to-md-bin
+electron: 22.3.27
+method: aur-depends

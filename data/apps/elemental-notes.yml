@@ -1,0 +1,8 @@
+id: elemental-notes
+name: Elemental Notes
+website: https://github.com/harryfrzz/Elemental-Notes
+repository: https://github.com/harryfrzz/Elemental-Notes
+aur:
+- elemental-notes-git
+electron: 32.3.3
+method: aur-depends

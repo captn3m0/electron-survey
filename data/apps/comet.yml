@@ -1,0 +1,7 @@
+id: comet
+name: Comet
+website: https://comet.thavarshan.com/
+aur:
+- comet-bin
+electron: 33.4.11
+method: aur-depends

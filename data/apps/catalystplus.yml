@@ -1,0 +1,7 @@
+id: catalystplus
+name: Catalystplus
+website: https://www.researchercosmos.com/
+aur:
+- catalystplus-desktop-bin
+electron: 22.3.27
+method: aur-depends

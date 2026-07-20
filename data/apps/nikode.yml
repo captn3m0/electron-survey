@@ -1,0 +1,6 @@
+id: nikode
+name: Nikode
+website: https://github.com/m1z23r/nikode
+repository: https://github.com/m1z23r/nikode
+aur:
+- nikode-bin

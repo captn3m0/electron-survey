@@ -1,0 +1,8 @@
+id: electronim
+name: Electronim
+website: https://github.com/manusa/electronim
+repository: https://github.com/manusa/electronim
+aur:
+- electronim-bin
+electron: 39.8.10
+method: aur-depends

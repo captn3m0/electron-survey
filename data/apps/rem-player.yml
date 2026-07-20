@@ -1,0 +1,8 @@
+id: rem-player
+name: Rem Player
+website: https://github.com/reallyGoodBaker/REM
+repository: https://github.com/reallyGoodBaker/REM
+aur:
+- rem-player-bin
+electron: 33.4.11
+method: aur-depends

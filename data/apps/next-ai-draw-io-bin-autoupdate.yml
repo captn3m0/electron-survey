@@ -1,0 +1,10 @@
+id: next-ai-draw-io-bin-autoupdate
+name: Next AI Draw IO Bin Autoupdate
+website: https://github.com/DayuanJiang/next-ai-draw-io
+repository: https://github.com/DayuanJiang/next-ai-draw-io
+aur:
+- next-ai-draw-io-bin-autoupdate
+additionalAUR:
+- next-ai-draw-io-bin
+electron: 39.8.10
+method: aur-depends

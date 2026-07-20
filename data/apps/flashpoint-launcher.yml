@@ -1,0 +1,7 @@
+id: flashpoint-launcher
+name: Flashpoint Launcher
+website: http://bluemaxima.org/flashpoint/
+aur:
+- flashpoint-launcher
+electron: 19.1.9
+method: aur-depends

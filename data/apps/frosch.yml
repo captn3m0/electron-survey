@@ -1,0 +1,8 @@
+id: frosch
+name: Frosch
+website: https://github.com/ivanrey/Frosch
+repository: https://github.com/ivanrey/Frosch
+aur:
+- frosch-bin
+electron: 11.5.0
+method: aur-depends

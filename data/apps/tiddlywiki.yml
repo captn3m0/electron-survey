@@ -1,0 +1,7 @@
+id: tiddlywiki
+name: Tiddlywiki
+website: https://oeyoews.github.io/tiddlywiki-app/
+aur:
+- tiddlywiki-app-bin
+electron: 40.10.6
+method: aur-depends

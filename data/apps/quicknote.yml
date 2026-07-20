@@ -1,0 +1,10 @@
+id: quicknote
+name: Quicknote
+website: https://srilakshmikanthanp.github.io/quicknote/
+aur:
+- quicknote
+additionalAUR:
+- quicknote-bin
+- quicknote-git
+electron: 22.3.27
+method: aur-depends

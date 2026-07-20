@@ -1,0 +1,7 @@
+id: botgem
+name: Botgem
+website: https://botgem.com/
+aur:
+- botgem-bin
+electron: 22.3.27
+method: aur-depends

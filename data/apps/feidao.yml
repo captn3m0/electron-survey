@@ -1,0 +1,7 @@
+id: feidao
+name: Feidao
+website: https://www.fei-dao.com
+aur:
+- feidao-bin
+electron: 13.6.9
+method: aur-depends

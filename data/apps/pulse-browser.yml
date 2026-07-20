@@ -1,0 +1,8 @@
+id: pulse-browser
+name: Pulse Browser
+website: https://github.com/marcrdez/pulse
+repository: https://github.com/marcrdez/pulse
+aur:
+- pulse-browser-git
+electron: 34.5.8
+method: aur-depends

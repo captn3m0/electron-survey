@@ -1,0 +1,10 @@
+id: kobo2notion
+name: Kobo2notion
+website: https://github.com/ghnmqdtg/Kobo2Notion
+repository: https://github.com/ghnmqdtg/Kobo2Notion
+aur:
+- kobo2notion-bin
+additionalAUR:
+- kobo2notion-git
+electron: 42.7.0
+method: aur-depends

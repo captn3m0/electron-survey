@@ -1,0 +1,10 @@
+id: spx-translation
+name: Spx Translation
+website: https://github.com/mlmdflr/spx-translation
+repository: https://github.com/mlmdflr/spx-translation
+aur:
+- spx-translation
+additionalAUR:
+- spx-translation-bin
+electron: 25.9.8
+method: aur-depends

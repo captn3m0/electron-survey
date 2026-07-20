@@ -1,0 +1,11 @@
+id: android-toolkit
+name: Android Toolkit
+website: https://github.com/AnthonyGress/Android-Toolkit
+repository: https://github.com/AnthonyGress/Android-Toolkit
+aur:
+- android-toolkit
+additionalAUR:
+- android-toolkit-bin
+- android-toolkit-git
+electron: 25.9.8
+method: aur-depends

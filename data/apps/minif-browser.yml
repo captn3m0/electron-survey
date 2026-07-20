@@ -1,0 +1,8 @@
+id: minif-browser
+name: Minif Browser
+website: https://github.com/Klubuntu/minif-browser
+repository: https://github.com/Klubuntu/minif-browser
+aur:
+- minif-browser-bin
+electron: 32.3.3
+method: aur-depends

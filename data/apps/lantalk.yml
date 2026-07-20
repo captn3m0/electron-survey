@@ -1,0 +1,8 @@
+id: lantalk
+name: Lantalk
+website: https://github.com/scriptkavi/lantalk
+repository: https://github.com/scriptkavi/lantalk
+aur:
+- lantalk-bin
+electron: 28.3.3
+method: aur-depends

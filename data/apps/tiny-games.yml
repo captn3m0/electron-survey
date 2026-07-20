@@ -1,0 +1,7 @@
+id: tiny-games
+name: Tiny Games
+website: https://c0mplexity0.github.io/tiny-games/
+aur:
+- tiny-games-bin
+electron: 34.5.8
+method: aur-depends

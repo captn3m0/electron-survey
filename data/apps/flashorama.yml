@@ -1,0 +1,7 @@
+id: flashorama
+name: Flashorama
+website: https://flashorama.heaventy-projects.fr/
+aur:
+- flashorama-bin
+electron: 11.5.0
+method: aur-depends

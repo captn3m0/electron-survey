@@ -1,0 +1,8 @@
+id: macchatgpt
+name: Macchatgpt
+website: https://github.com/justinhartman/MacChatGPT
+repository: https://github.com/justinhartman/MacChatGPT
+aur:
+- macchatgpt
+electron: 23.3.13
+method: aur-depends

@@ -1,0 +1,8 @@
+id: simpleshell
+name: Simpleshell
+website: https://github.com/funkpopo/simpleshell
+repository: https://github.com/funkpopo/simpleshell
+aur:
+- simpleshell-git
+electron: 40.10.6
+method: aur-depends

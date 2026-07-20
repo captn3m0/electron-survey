@@ -1,0 +1,13 @@
+id: opencode
+name: Opencode
+website: https://github.com/anomalyco/opencode
+repository: https://github.com/anomalyco/opencode
+aur:
+- opencode-desktop
+packages:
+- url: https://github.com/anomalyco/opencode/releases/download/v1.18.3/opencode-desktop-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 42.7.0
+method: aur-depends

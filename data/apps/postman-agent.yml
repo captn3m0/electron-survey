@@ -1,0 +1,5 @@
+id: postman-agent
+name: Postman Agent
+website: https://www.postman.com/
+aur:
+- postman-agent

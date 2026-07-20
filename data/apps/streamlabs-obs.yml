@@ -7,3 +7,7 @@ downloads:
   name: Streamlabs+Desktop-1.20.7-arm64.dmg
   version: 1.20.7
 name: Streamlabs OBS
+packages:
+- url: https://streamlabs.com/streamlabs-desktop/download?sdb=1
+  format: exe
+  os: windows

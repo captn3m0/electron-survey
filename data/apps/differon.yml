@@ -1,0 +1,8 @@
+id: differon
+name: Differon
+website: https://github.com/wolfdenpublishing/differon
+repository: https://github.com/wolfdenpublishing/differon
+aur:
+- differon-git
+electron: 29.4.6
+method: aur-depends

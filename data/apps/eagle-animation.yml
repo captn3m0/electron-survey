@@ -1,0 +1,7 @@
+id: eagle-animation
+name: Eagle Animation
+website: https://brickfilms.com/
+aur:
+- eagle-animation-bin
+electron: 43.1.1
+method: aur-depends

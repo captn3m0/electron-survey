@@ -1,0 +1,8 @@
+id: cycode
+name: Cycode
+website: https://github.com/magayagalabs/CyCode
+repository: https://github.com/magayagalabs/CyCode
+aur:
+- cycode
+electron: 31.7.7
+method: aur-depends

@@ -1,0 +1,8 @@
+id: scripts-manager
+name: Scripts Manager
+website: https://github.com/hmhm2022/scripts-manager
+repository: https://github.com/hmhm2022/scripts-manager
+aur:
+- scripts-manager-git
+electron: 27.3.11
+method: aur-depends

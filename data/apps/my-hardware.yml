@@ -1,0 +1,8 @@
+id: my-hardware
+name: My Hardware
+website: https://github.com/Y-Moshe/my-hardware
+repository: https://github.com/Y-Moshe/my-hardware
+aur:
+- my-hardware-bin
+electron: 25.9.8
+method: aur-depends

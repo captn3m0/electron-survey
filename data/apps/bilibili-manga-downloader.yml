@@ -1,0 +1,8 @@
+id: bilibili-manga-downloader
+name: Bilibili Manga Downloader
+website: https://github.com/MOMOYATW/bilibili_manga_downloader
+repository: https://github.com/MOMOYATW/bilibili_manga_downloader
+aur:
+- bilibili-manga-downloader-bin
+electron: 21.4.4
+method: aur-depends

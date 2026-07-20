@@ -1,0 +1,7 @@
+id: pipelab
+name: Pipelab
+website: https://pipelab.app/
+aur:
+- pipelab-bin
+electron: 32.3.3
+method: aur-depends

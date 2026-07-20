@@ -1,0 +1,12 @@
+id: wiznote
+name: Wiznote
+website: https://www.wiz.cn
+aur:
+- wiznote-desktop-bin
+packages:
+- url: https://get.wiz.cn/x/wiznote-desktop-0.1.107-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 16.2.8
+method: aur-depends

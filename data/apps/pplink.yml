@@ -1,0 +1,7 @@
+id: pplink
+name: Pplink
+website: https://www.ppzhilian.com
+aur:
+- pplink-bin
+electron: 36.9.5
+method: aur-depends

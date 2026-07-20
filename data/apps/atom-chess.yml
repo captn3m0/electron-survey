@@ -1,0 +1,8 @@
+id: atom-chess
+name: Atom Chess
+website: https://github.com/awbridgers/atom-chess
+repository: https://github.com/awbridgers/atom-chess
+aur:
+- atom-chess-git
+electron: 31.7.7
+method: aur-depends

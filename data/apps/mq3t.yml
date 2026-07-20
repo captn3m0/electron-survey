@@ -1,0 +1,7 @@
+id: mq3t
+name: Mq3t
+website: https://mq3t.guillaumechx.dev/
+aur:
+- mq3t-bin
+electron: 39.8.10
+method: aur-depends

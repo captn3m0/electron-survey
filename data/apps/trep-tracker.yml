@@ -1,0 +1,7 @@
+id: trep-tracker
+name: Trep Tracker
+website: https://ltres.github.io/trep-tracker/browser/
+aur:
+- trep-tracker-bin
+electron: 31.7.7
+method: aur-depends

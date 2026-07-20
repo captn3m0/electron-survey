@@ -1,0 +1,10 @@
+id: vlsm-interfacing
+name: Vlsm Interfacing
+website: https://github.com/deforay/vlsm-interfacing
+repository: https://github.com/deforay/vlsm-interfacing
+aur:
+- vlsm-interfacing-bin
+additionalAUR:
+- vlsm-interfacing-git
+electron: 41.10.2
+method: aur-depends

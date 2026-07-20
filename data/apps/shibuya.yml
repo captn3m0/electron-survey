@@ -1,0 +1,8 @@
+id: shibuya
+name: Shibuya
+website: https://github.com/SkywardAI/shibuya
+repository: https://github.com/SkywardAI/shibuya
+aur:
+- shibuya-bin
+electron: 32.3.3
+method: aur-depends

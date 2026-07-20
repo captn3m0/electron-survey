@@ -1,0 +1,7 @@
+id: grx
+name: Grx
+website: https://grx.electronicloud.app/
+aur:
+- grx-bin
+electron: 42.7.0
+method: aur-depends

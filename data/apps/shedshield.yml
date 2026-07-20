@@ -1,0 +1,8 @@
+id: shedshield
+name: Shedshield
+website: https://github.com/ZJouba/ShedShield
+repository: https://github.com/ZJouba/ShedShield
+aur:
+- shedshield-bin
+electron: 25.9.8
+method: aur-depends

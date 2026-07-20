@@ -1,0 +1,8 @@
+id: phonotate
+name: Phonotate
+website: https://github.com/LoganRickert/Phonotate.App
+repository: https://github.com/LoganRickert/Phonotate.App
+aur:
+- phonotate-git
+electron: 34.5.8
+method: aur-depends

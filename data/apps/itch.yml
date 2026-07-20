@@ -16,3 +16,7 @@ electron: 40.4.1
 method: src-package-lock
 homebrew: itch
 name: itch
+aur:
+- itch-setup-bin
+- itch-setup-git
+- kitch-setup-bin

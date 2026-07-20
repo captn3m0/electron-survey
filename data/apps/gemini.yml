@@ -1,0 +1,10 @@
+id: gemini
+name: Gemini
+website: https://github.com/kenvandine/gemini-desktop
+repository: https://github.com/kenvandine/gemini-desktop
+aur:
+- gemini-desktop-git
+packages:
+- url: https://dl.devmate.com/com.macpaw.site.Gemini2/406/1781745541/Gemini2-406.zip
+  format: zip
+  os: macos

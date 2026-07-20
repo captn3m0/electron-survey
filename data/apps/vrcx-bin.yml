@@ -1,0 +1,10 @@
+id: vrcx-bin
+name: Vrcx
+website: https://vrcx.app/
+aur:
+- vrcx
+repository: https://github.com/vrcx-team/VRCX
+additionalAUR:
+- vrcx-bin
+- vrcx-nightly-bin
+- vrcx-git

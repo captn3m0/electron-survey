@@ -1,0 +1,8 @@
+id: duolingo
+name: Duolingo
+website: https://github.com/hmlendea/dl-desktop
+repository: https://github.com/hmlendea/dl-desktop
+aur:
+- duolingo-desktop-bin
+electron: 36.9.5
+method: aur-depends

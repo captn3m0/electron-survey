@@ -1,0 +1,8 @@
+id: oxen-electron-wallet
+name: Oxen Electron Wallet
+website: https://github.com/oxen-io/oxen-electron-gui-wallet
+repository: https://github.com/oxen-io/oxen-electron-gui-wallet
+aur:
+- oxen-electron-wallet
+electron: 4.2.12
+method: aur-depends

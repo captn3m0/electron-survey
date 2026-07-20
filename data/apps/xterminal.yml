@@ -1,0 +1,7 @@
+id: xterminal
+name: Xterminal
+website: https://www.xterminal.cn/
+aur:
+- xterminal-bin
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,6 @@
+id: material-companion
+name: Material Companion
+website: https://github.com/MaterialFoundry/MaterialCompanion
+repository: https://github.com/MaterialFoundry/MaterialCompanion
+aur:
+- material-companion

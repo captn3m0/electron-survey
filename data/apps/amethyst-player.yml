@@ -1,0 +1,7 @@
+id: amethyst-player
+name: Amethyst Player
+website: https://amethyst.pages.dev/
+aur:
+- amethyst-player-bin
+electron: 36.9.5
+method: aur-depends

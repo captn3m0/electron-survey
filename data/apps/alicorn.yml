@@ -1,0 +1,7 @@
+id: alicorn
+name: Alicorn
+website: https://alc.pages.dev/
+aur:
+- alicorn-git
+electron: 40.10.6
+method: aur-depends

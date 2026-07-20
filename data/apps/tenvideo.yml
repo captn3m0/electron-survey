@@ -1,0 +1,7 @@
+id: tenvideo
+name: Tenvideo
+website: https://v.qq.com
+aur:
+- tenvideo
+electron: 7.3.3
+method: aur-depends

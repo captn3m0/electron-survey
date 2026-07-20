@@ -1,0 +1,8 @@
+id: ibattery
+name: Ibattery
+website: https://github.com/kofi-arthur/iBattery
+repository: https://github.com/kofi-arthur/iBattery
+aur:
+- ibattery-git
+electron: 31.7.7
+method: aur-depends

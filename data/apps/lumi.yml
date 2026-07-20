@@ -1,0 +1,7 @@
+id: lumi
+name: Lumi
+website: https://lumi.education
+aur:
+- lumi-bin
+electron: 34.5.8
+method: aur-depends

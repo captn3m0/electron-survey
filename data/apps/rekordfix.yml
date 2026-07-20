@@ -1,0 +1,8 @@
+id: rekordfix
+name: Rekordfix
+website: https://github.com/rzuppur/rekordfix
+repository: https://github.com/rzuppur/rekordfix
+aur:
+- rekordfix-bin
+electron: 36.9.5
+method: aur-depends

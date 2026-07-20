@@ -1,0 +1,8 @@
+id: ringcentral-community
+name: Ringcentral Community
+website: https://github.com/ringcentral/ringcentral-community-app
+repository: https://github.com/ringcentral/ringcentral-community-app
+aur:
+- ringcentral-community-app-bin
+electron: 27.3.11
+method: aur-depends

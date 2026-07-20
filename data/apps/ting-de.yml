@@ -1,0 +1,11 @@
+id: ting-de
+name: Ting De
+website: https://www.eudic.net/v4/de/app/ting
+aur:
+- ting-de
+additionalAUR:
+- ting-en
+- ting-es
+- ting-fr
+electron: 11.5.0
+method: aur-depends

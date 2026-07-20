@@ -1,0 +1,7 @@
+id: hyperkeys
+name: Hyperkeys
+website: https://hyperkeys.xureilab.com/
+aur:
+- hyperkeys-bin
+electron: 26.6.10
+method: aur-depends

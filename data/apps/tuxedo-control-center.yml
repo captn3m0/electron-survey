@@ -1,0 +1,8 @@
+id: tuxedo-control-center
+name: Tuxedo Control Center
+website: https://github.com/tuxedocomputers/tuxedo-control-center
+repository: https://github.com/tuxedocomputers/tuxedo-control-center
+aur:
+- tuxedo-control-center
+electron: 41.10.2
+method: aur-depends

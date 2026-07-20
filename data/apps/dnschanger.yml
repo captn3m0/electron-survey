@@ -1,0 +1,9 @@
+id: dnschanger
+name: Dnschanger
+website: https://dnschanger.github.io
+aur:
+- dnschanger-desktop
+additionalAUR:
+- dnschanger-desktop-bin
+electron: 43.1.1
+method: aur-depends

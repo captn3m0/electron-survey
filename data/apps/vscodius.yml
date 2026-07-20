@@ -1,0 +1,8 @@
+id: vscodius
+name: Vscodius
+website: https://github.com/RubisetCie/vscodius
+repository: https://github.com/RubisetCie/vscodius
+aur:
+- vscodius-bin
+electron: 34.5.8
+method: aur-depends

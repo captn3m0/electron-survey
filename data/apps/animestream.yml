@@ -1,0 +1,10 @@
+id: animestream
+name: Animestream
+website: https://github.com/frostnova721/animestream-electron
+repository: https://github.com/frostnova721/animestream-electron
+aur:
+- animestream-bin
+additionalAUR:
+- animestream-git
+electron: 27.3.11
+method: aur-depends

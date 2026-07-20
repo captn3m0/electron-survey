@@ -1,0 +1,8 @@
+id: ensoai
+name: Ensoai
+website: https://github.com/J3n5en/EnsoAI
+repository: https://github.com/J3n5en/EnsoAI
+aur:
+- ensoai
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,12 @@
+id: homeassistant
+name: Homeassistant
+website: https://github.com/mikepruett3/homeassistant-desktop
+repository: https://github.com/mikepruett3/homeassistant-desktop
+aur:
+- homeassistant-desktop-bin
+packages:
+- url: https://github.com/home-assistant/iOS/releases/download/release%2F2026.7.1%2F2026.2346/home-assistant-mac.zip
+  format: zip
+  os: macos
+electron: 33.4.11
+method: aur-depends

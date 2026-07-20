@@ -1,0 +1,7 @@
+id: orca-writer
+name: Orca Writer
+website: https://orcawriter.app/
+aur:
+- orca-writer
+electron: 18.3.15
+method: aur-depends

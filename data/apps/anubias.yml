@@ -1,0 +1,7 @@
+id: anubias
+name: Anubias
+website: https://anubias.app
+aur:
+- anubias-bin
+electron: 13.6.9
+method: aur-depends

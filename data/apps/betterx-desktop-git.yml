@@ -1,0 +1,10 @@
+id: betterx-desktop-git
+name: Betterx
+website: https://github.com/Feur-Inc/BetterX-Desktop
+repository: https://github.com/Feur-Inc/BetterX-Desktop
+aur:
+- betterx-desktop-bin
+additionalAUR:
+- betterx-desktop-git
+electron: 34.5.8
+method: aur-depends

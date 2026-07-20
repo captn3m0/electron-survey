@@ -1,0 +1,10 @@
+id: mu-epub-viewer
+name: Mu Epub Viewer
+website: https://github.com/azu/mu-epub-reader
+repository: https://github.com/azu/mu-epub-reader
+aur:
+- mu-epub-viewer-bin
+additionalAUR:
+- mu-epub-viewer-git
+electron: 16.2.8
+method: aur-depends

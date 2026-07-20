@@ -1,0 +1,8 @@
+id: mdview
+name: Mdview
+website: https://github.com/c3er/mdview
+repository: https://github.com/c3er/mdview
+aur:
+- mdview-bin
+electron: 40.10.6
+method: aur-depends

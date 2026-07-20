@@ -1,0 +1,8 @@
+id: titan-rcs
+name: Titan Rcs
+website: https://github.com/ArrushC/Titan
+repository: https://github.com/ArrushC/Titan
+aur:
+- titan-rcs-git
+electron: 33.4.11
+method: aur-depends

@@ -1,0 +1,8 @@
+id: flawless-cut
+name: Flawless Cut
+website: https://github.com/metadream/app-flawless-cut
+repository: https://github.com/metadream/app-flawless-cut
+aur:
+- flawless-cut-bin
+electron: 39.8.10
+method: aur-depends

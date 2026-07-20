@@ -1,0 +1,9 @@
+id: inky
+name: Inky
+website: http://www.inklestudios.com/ink
+aur:
+- inky
+packages:
+- url: https://github.com/inkle/inky/releases/download/0.15.2/inky.dmg
+  format: dmg
+  os: macos

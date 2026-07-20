@@ -1,0 +1,8 @@
+id: creamplayer
+name: Creamplayer
+website: https://github.com/Beadd/Creamplayer
+repository: https://github.com/Beadd/Creamplayer
+aur:
+- creamplayer
+electron: 33.4.11
+method: aur-depends

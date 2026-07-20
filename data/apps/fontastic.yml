@@ -1,0 +1,8 @@
+id: fontastic
+name: Fontastic
+website: https://github.com/tomshaw/fontastic
+repository: https://github.com/tomshaw/fontastic
+aur:
+- fontastic-bin
+electron: 40.10.6
+method: aur-depends

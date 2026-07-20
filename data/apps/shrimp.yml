@@ -1,0 +1,8 @@
+id: shrimp
+name: Shrimp
+website: https://github.com/TheSingularis/shrimp
+repository: https://github.com/TheSingularis/shrimp
+aur:
+- shrimp
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,10 @@
+id: alpaca
+name: Alpaca
+website: https://github.com/ItsPi3141/alpaca-electron
+repository: https://github.com/ItsPi3141/alpaca-electron
+aur:
+- alpaca-electron-bin
+additionalAUR:
+- alpaca-electron-git
+electron: 13.6.9
+method: aur-depends

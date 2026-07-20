@@ -1,0 +1,8 @@
+id: sorted-photography
+name: Sorted Photography
+website: https://github.com/trumanjchan/sorted-photography
+repository: https://github.com/trumanjchan/sorted-photography
+aur:
+- sorted-photography-git
+electron: 36.9.5
+method: aur-depends

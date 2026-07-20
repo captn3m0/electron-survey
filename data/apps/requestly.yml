@@ -1,0 +1,14 @@
+id: requestly
+name: Requestly
+website: https://requestly.com/
+aur:
+- requestly-bin
+packages:
+- url: https://github.com/requestly/requestly-desktop-app/releases/download/v26.6.29/Requestly-26.6.29-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- requestly-git
+electron: 42.7.0
+method: aur-depends

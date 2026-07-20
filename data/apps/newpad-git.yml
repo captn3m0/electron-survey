@@ -1,0 +1,10 @@
+id: newpad-git
+name: Newpad
+website: https://github.com/OblivionOcean/Xelsior
+repository: https://github.com/OblivionOcean/Xelsior
+aur:
+- newpad-bin
+additionalAUR:
+- newpad-git
+electron: 22.3.27
+method: aur-depends

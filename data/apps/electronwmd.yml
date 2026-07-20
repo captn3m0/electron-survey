@@ -1,0 +1,8 @@
+id: electronwmd
+name: Electronwmd
+website: https://github.com/asivery/ElectronWMD
+repository: https://github.com/asivery/ElectronWMD
+aur:
+- electronwmd-bin
+electron: 31.7.7
+method: aur-depends

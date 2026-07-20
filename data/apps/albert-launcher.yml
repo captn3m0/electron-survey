@@ -1,0 +1,7 @@
+id: albert-launcher
+name: Albert Launcher
+website: https://www.producthunt.com/posts/albert-launcher
+aur:
+- albert-launcher-git
+electron: 31.7.7
+method: aur-depends

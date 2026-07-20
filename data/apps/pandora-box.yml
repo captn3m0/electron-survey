@@ -1,0 +1,11 @@
+id: pandora-box
+name: Pandora Box
+website: https://github.com/snakem982/Pandora-Box
+repository: https://github.com/snakem982/Pandora-Box
+aur:
+- pandora-box
+additionalAUR:
+- pandora-box-bin
+- pandora-box-git
+electron: 41.10.2
+method: aur-depends

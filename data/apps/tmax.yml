@@ -1,0 +1,7 @@
+id: tmax
+name: Tmax
+website: https://inbarr.github.io/tmax/
+aur:
+- tmax-bin
+electron: 30.5.1
+method: aur-depends

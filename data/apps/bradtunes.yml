@@ -1,0 +1,7 @@
+id: bradtunes
+name: Bradtunes
+website: https://itsbrad.dev/
+aur:
+- bradtunes-git
+electron: 40.10.6
+method: aur-depends

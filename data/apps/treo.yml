@@ -1,0 +1,8 @@
+id: treo
+name: Treo
+website: https://github.com/Your-Ehsan/Treo
+repository: https://github.com/Your-Ehsan/Treo
+aur:
+- treo-git
+electron: 35.7.5
+method: aur-depends

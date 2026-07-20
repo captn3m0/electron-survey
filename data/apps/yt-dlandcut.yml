@@ -1,0 +1,8 @@
+id: yt-dlandcut
+name: Yt Dlandcut
+website: https://github.com/Markkop/yt-dlandcut
+repository: https://github.com/Markkop/yt-dlandcut
+aur:
+- yt-dlandcut-bin
+electron: 25.9.8
+method: aur-depends

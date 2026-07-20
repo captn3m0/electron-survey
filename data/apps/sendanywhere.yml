@@ -1,0 +1,11 @@
+id: sendanywhere
+name: Sendanywhere
+website: http://send-anywhere.com
+aur:
+- sendanywhere
+packages:
+- url: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg
+  format: dmg
+  os: macos
+electron: 8.5.5
+method: aur-depends

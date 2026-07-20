@@ -1,0 +1,7 @@
+id: oscgoesbrrr
+name: Oscgoesbrrr
+website: https://osc.toys/
+aur:
+- oscgoesbrrr
+electron: 39.8.10
+method: aur-depends

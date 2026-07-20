@@ -1,0 +1,7 @@
+id: r3play
+name: R3play
+website: https://music.qier222.com/
+aur:
+- r3play-bin
+electron: 23.3.13
+method: aur-depends

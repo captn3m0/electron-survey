@@ -1,0 +1,7 @@
+id: prompt-evaluator
+name: Prompt Evaluator
+website: https://taqelah.sg/
+aur:
+- prompt-evaluator-bin
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,7 @@
+id: text-diff-view
+name: Text Diff View
+website: https://sandbox.saino.me/text-diff-view/
+aur:
+- text-diff-view-bin
+electron: 41.10.2
+method: aur-depends

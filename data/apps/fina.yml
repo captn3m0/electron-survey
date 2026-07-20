@@ -1,0 +1,8 @@
+id: fina
+name: Fina
+website: https://github.com/britors/Fina
+repository: https://github.com/britors/Fina
+aur:
+- fina
+electron: 38.8.6
+method: aur-depends

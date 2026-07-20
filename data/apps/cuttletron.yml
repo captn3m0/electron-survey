@@ -1,0 +1,8 @@
+id: cuttletron
+name: Cuttletron
+website: https://github.com/mantzaris/cuttleTron
+repository: https://github.com/mantzaris/cuttleTron
+aur:
+- cuttletron-bin
+electron: 27.3.11
+method: aur-depends

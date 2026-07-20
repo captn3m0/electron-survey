@@ -1,0 +1,7 @@
+id: gomoon
+name: Gomoon
+website: https://gomoon.top/
+aur:
+- gomoon-git
+electron: 29.4.6
+method: aur-depends

@@ -1,0 +1,7 @@
+id: serina
+name: Serina
+website: https://orn-fox.github.io/serina-1/
+aur:
+- serina-bin
+electron: 24.8.8
+method: aur-depends

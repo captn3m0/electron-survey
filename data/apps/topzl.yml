@@ -1,0 +1,8 @@
+id: topzl
+name: Topzl
+website: https://github.com/Heonys/topzl-desktop
+repository: https://github.com/Heonys/topzl-desktop
+aur:
+- topzl-git
+electron: 35.7.5
+method: aur-depends

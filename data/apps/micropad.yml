@@ -1,0 +1,7 @@
+id: micropad
+name: Micropad
+website: https://getmicropad.com
+aur:
+- micropad
+electron: 31.7.7
+method: aur-depends

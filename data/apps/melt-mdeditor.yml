@@ -1,0 +1,8 @@
+id: melt-mdeditor
+name: Melt Mdeditor
+website: https://github.com/qazsato/melt
+repository: https://github.com/qazsato/melt
+aur:
+- melt-mdeditor-git
+electron: 27.3.11
+method: aur-depends

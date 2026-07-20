@@ -1,0 +1,7 @@
+id: clawx
+name: Clawx
+website: https://clawx.com.cn/
+aur:
+- clawx
+electron: 40.10.6
+method: aur-depends

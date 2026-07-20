@@ -1,0 +1,7 @@
+id: pixzip-lite
+name: Pixzip Lite
+website: https://xiangsu.fun/
+aur:
+- pixzip-lite-git
+electron: 38.8.6
+method: aur-depends

@@ -1,0 +1,10 @@
+id: volt
+name: Volt
+website: https://voltagechat.app
+aur:
+- volt-desktop
+packages:
+- url: https://github.com/voltapp/volt/releases/download/0.96/volt_macos_arm64.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -1,0 +1,7 @@
+id: seanime
+name: Seanime
+website: https://seanime.app
+aur:
+- seanime-denshi-git
+electron: 42.7.0
+method: aur-depends

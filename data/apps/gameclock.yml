@@ -1,0 +1,10 @@
+id: gameclock
+name: Gameclock
+website: https://github.com/Didiloy/GameClock
+repository: https://github.com/Didiloy/GameClock
+aur:
+- gameclock-bin
+additionalAUR:
+- gameclock-git
+electron: 29.4.6
+method: aur-depends

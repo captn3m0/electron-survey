@@ -1,0 +1,8 @@
+id: smart-contract-obfuscator
+name: Smart Contract Obfuscator
+website: https://github.com/JKerbin/Smart-Contract-Obfuscator
+repository: https://github.com/JKerbin/Smart-Contract-Obfuscator
+aur:
+- smart-contract-obfuscator-git
+electron: 28.3.3
+method: aur-depends

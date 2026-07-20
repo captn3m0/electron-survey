@@ -1,0 +1,10 @@
+id: wj-markdown-editor
+name: Wj Markdown Editor
+website: https://github.com/nlbwqmz/wj-markdown-editor
+repository: https://github.com/nlbwqmz/wj-markdown-editor
+aur:
+- wj-markdown-editor-bin
+additionalAUR:
+- wj-markdown-editor-git
+electron: 39.8.10
+method: aur-depends

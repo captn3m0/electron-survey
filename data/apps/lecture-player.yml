@@ -1,0 +1,8 @@
+id: lecture-player
+name: Lecture Player
+website: https://github.com/real-vinay/learnhub
+repository: https://github.com/real-vinay/learnhub
+aur:
+- lecture-player-git
+electron: 23.3.13
+method: aur-depends

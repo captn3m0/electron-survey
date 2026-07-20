@@ -1,0 +1,7 @@
+id: moonfm
+name: Moonfm
+website: https://moon.fm/
+aur:
+- moonfm-bin
+electron: 26.6.10
+method: aur-depends

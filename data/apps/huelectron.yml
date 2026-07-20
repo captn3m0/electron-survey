@@ -1,0 +1,8 @@
+id: huelectron
+name: Huelectron
+website: https://github.com/4ch1m/huElectron
+repository: https://github.com/4ch1m/huElectron
+aur:
+- huelectron-bin
+electron: 24.8.8
+method: aur-depends

@@ -1,0 +1,7 @@
+id: my-yesplaymusic
+name: My Yesplaymusic
+website: https://my-yesplaymusic-five.vercel.app/
+aur:
+- my-yesplaymusic-bin
+electron: 13.6.9
+method: aur-depends

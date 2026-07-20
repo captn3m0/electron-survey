@@ -1,0 +1,8 @@
+id: yakuza
+name: Yakuza
+website: https://github.com/fzdwx/yakuza
+repository: https://github.com/fzdwx/yakuza
+aur:
+- yakuza-bin
+electron: 28.3.3
+method: aur-depends

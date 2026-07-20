@@ -1,0 +1,8 @@
+id: tune-player
+name: Tune Player
+website: https://github.com/Moebytes/Tune-Player
+repository: https://github.com/Moebytes/Tune-Player
+aur:
+- tune-player-bin
+electron: 40.10.6
+method: aur-depends

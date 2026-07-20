@@ -1,0 +1,6 @@
+id: eso-logs-uploader
+name: Eso Logs Uploader
+website: https://github.com/RPGLogs/Uploaders-esologs
+repository: https://github.com/RPGLogs/Uploaders-esologs
+aur:
+- eso-logs-uploader-bin

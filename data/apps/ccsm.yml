@@ -1,0 +1,8 @@
+id: ccsm
+name: Ccsm
+website: https://github.com/Jiahui-Gu/ccsm
+repository: https://github.com/Jiahui-Gu/ccsm
+aur:
+- ccsm-bin
+electron: 41.10.2
+method: aur-depends

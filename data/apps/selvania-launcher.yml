@@ -1,0 +1,7 @@
+id: selvania-launcher
+name: Selvania Launcher
+website: http://luuxis.fr/
+aur:
+- selvania-launcher-bin
+electron: 40.10.6
+method: aur-depends

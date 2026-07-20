@@ -1,0 +1,7 @@
+id: vulpecula-loom
+name: Vulpecula Loom
+website: https://ejfox.github.io/vulpecula-loom/
+aur:
+- vulpecula-loom-git
+electron: 33.4.11
+method: aur-depends

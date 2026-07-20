@@ -1,0 +1,7 @@
+id: proxy-manager
+name: Proxy Manager
+website: https://proxy-manager-pc.vercel.app/
+aur:
+- proxy-manager-git
+electron: 28.3.3
+method: aur-depends

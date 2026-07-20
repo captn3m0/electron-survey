@@ -1,0 +1,12 @@
+id: apifox
+name: Apifox
+website: https://apifox.com/
+aur:
+- apifox-bin
+packages:
+- url: https://file-assets.apifox.com/download/2.8.39/Apifox-macOS-arm64-2.8.39.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 37.10.3
+method: aur-depends

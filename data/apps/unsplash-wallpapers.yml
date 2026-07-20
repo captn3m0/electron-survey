@@ -1,0 +1,8 @@
+id: unsplash-wallpapers
+name: Unsplash Wallpapers
+website: https://github.com/soroushchehresa/unsplash-wallpapers
+repository: https://github.com/soroushchehresa/unsplash-wallpapers
+aur:
+- unsplash-wallpapers-bin
+electron: 8.5.5
+method: aur-depends

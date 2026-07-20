@@ -1,0 +1,8 @@
+id: emsmediasystem
+name: Emsmediasystem
+website: https://github.com/clockley/EjaxMediaSystem
+repository: https://github.com/clockley/EjaxMediaSystem
+aur:
+- emsmediasystem-bin
+electron: 34.5.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: chatlab
+name: Chatlab
+website: https://github.com/ChatLab/ChatLab
+repository: https://github.com/ChatLab/ChatLab
+aur:
+- chatlab-desktop
+electron: 35.7.5
+method: aur-depends

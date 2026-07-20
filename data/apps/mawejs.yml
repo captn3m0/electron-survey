@@ -1,0 +1,8 @@
+id: mawejs
+name: Mawejs
+website: https://github.com/mkoskim/mawejs
+repository: https://github.com/mkoskim/mawejs
+aur:
+- mawejs-bin
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,8 @@
+id: nft-tool
+name: Nft Tool
+website: https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool
+repository: https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool
+aur:
+- nft-tool-bin
+electron: 25.9.8
+method: aur-depends

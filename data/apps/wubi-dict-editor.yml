@@ -1,0 +1,8 @@
+id: wubi-dict-editor
+name: Wubi Dict Editor
+website: https://github.com/KyleBing/wubi-dict-editor
+repository: https://github.com/KyleBing/wubi-dict-editor
+aur:
+- wubi-dict-editor
+electron: 28.3.3
+method: aur-depends

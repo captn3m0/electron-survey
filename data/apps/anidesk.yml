@@ -1,0 +1,7 @@
+id: anidesk
+name: Anidesk
+website: https://anidesk.ds1nc.ru/
+aur:
+- anidesk-git
+electron: 39.8.10
+method: aur-depends

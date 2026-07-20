@@ -1,0 +1,7 @@
+id: ecloud
+name: Ecloud
+website: https://cloud.189.cn/
+aur:
+- ecloud-bin
+electron: 4.2.12
+method: aur-depends

@@ -1,0 +1,7 @@
+id: minimax-hub
+name: Minimax Hub
+website: https://hub.minimaxi.com/
+aur:
+- minimax-hub-bin
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: cryptique
+name: Cryptique
+website: https://github.com/truethari/Cryptique
+repository: https://github.com/truethari/Cryptique
+aur:
+- cryptique-git
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,7 @@
+id: boats-animator
+name: Boats Animator
+website: http://charlielee.uk/boats-animator
+aur:
+- boats-animator-bin
+electron: 22.3.27
+method: aur-depends

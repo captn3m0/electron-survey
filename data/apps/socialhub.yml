@@ -1,0 +1,5 @@
+id: socialhub
+name: Socialhub
+website: https://gitlab.com/mayankgite/socialhub.git
+aur:
+- socialhub-git

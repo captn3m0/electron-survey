@@ -1,0 +1,8 @@
+id: melodify
+name: Melodify
+website: https://github.com/abedio/melodify-webview-app
+repository: https://github.com/abedio/melodify-webview-app
+aur:
+- melodify-bin
+electron: 32.3.3
+method: aur-depends

@@ -1,0 +1,8 @@
+id: bintelai-ssh-assistant
+name: Bintelai Ssh Assistant
+website: https://github.com/bintelAI/aissh
+repository: https://github.com/bintelAI/aissh
+aur:
+- bintelai-ssh-assistant
+electron: 39.8.10
+method: aur-depends

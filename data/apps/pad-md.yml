@@ -1,0 +1,7 @@
+id: pad-md
+name: Pad Md
+website: https://pad-md-landing-page.vercel.app/
+aur:
+- pad-md
+electron: 24.8.8
+method: aur-depends

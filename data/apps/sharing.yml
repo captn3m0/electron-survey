@@ -1,0 +1,7 @@
+id: sharing
+name: Sharing
+website: https://sharing-gui.yuanx.me/
+aur:
+- sharing-gui
+electron: 21.4.4
+method: aur-depends

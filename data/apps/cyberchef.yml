@@ -1,0 +1,6 @@
+id: cyberchef
+name: Cyberchef
+website: https://github.com/gchq/CyberChef
+repository: https://github.com/gchq/CyberChef
+aur:
+- cyberchef-electron

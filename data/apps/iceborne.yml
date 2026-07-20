@@ -1,0 +1,8 @@
+id: iceborne
+name: Iceborne
+website: https://github.com/liuxian496/iceborne
+repository: https://github.com/liuxian496/iceborne
+aur:
+- iceborne
+electron: 25.9.8
+method: aur-depends

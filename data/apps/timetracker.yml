@@ -1,0 +1,12 @@
+id: timetracker
+name: Timetracker
+website: https://github.com/DerKommentator/time-tracker
+repository: https://github.com/DerKommentator/time-tracker
+aur:
+- timetracker-bin
+packages:
+- url: https://github.com/rburgst/time-tracker-mac/releases/download/v1.3.13-binary/Time.Tracker-1.3.13-bin.zip
+  format: zip
+  os: macos
+electron: 26.6.10
+method: aur-depends

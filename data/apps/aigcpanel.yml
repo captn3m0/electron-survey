@@ -1,0 +1,10 @@
+id: aigcpanel
+name: Aigcpanel
+website: https://aigcpanel.com/
+aur:
+- aigcpanel-git
+packages:
+- url: https://github.com/modstart-lib/aigcpanel/releases/download/v2.0.0/AigcPanel-2.0.0-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

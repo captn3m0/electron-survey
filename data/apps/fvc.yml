@@ -1,0 +1,8 @@
+id: fvc
+name: Fvc
+website: https://github.com/PrismLabsDev/fvc-desktop-electron
+repository: https://github.com/PrismLabsDev/fvc-desktop-electron
+aur:
+- fvc-bin
+electron: 12.2.3
+method: aur-depends

@@ -1,0 +1,7 @@
+id: flashbrowser
+name: Flashbrowser
+website: https://flash.pm/browser/
+aur:
+- flashbrowser-bin
+electron: 9.4.4
+method: aur-depends

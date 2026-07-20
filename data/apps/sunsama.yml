@@ -1,0 +1,10 @@
+id: sunsama
+name: Sunsama
+website: https://www.sunsama.com
+packages:
+- url: https://desktop.sunsama.com/mac/dmg/arm64
+  format: dmg
+  os: macos
+  arch: arm64
+aur:
+- sunsama-appimage

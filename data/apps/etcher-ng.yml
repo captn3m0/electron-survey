@@ -1,0 +1,8 @@
+id: etcher-ng
+name: Etcher Ng
+website: https://github.com/Alex313031/etcher-ng
+repository: https://github.com/Alex313031/etcher-ng
+aur:
+- etcher-ng-bin
+electron: 28.3.3
+method: aur-depends

@@ -1,0 +1,7 @@
+id: hathor-wallet
+name: Hathor Wallet
+website: https://hathor.network/
+aur:
+- hathor-wallet-bin
+electron: 27.3.11
+method: aur-depends

@@ -1,0 +1,8 @@
+id: animecix
+name: Animecix
+website: https://animecix.net/
+aur:
+- animecix-bin
+additionalAUR:
+- animecix-linux
+repository: https://github.com/erslly/animecix-linux

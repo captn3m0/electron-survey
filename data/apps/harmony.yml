@@ -1,0 +1,8 @@
+id: harmony
+name: Harmony
+website: https://github.com/jvegaf/harmony
+repository: https://github.com/jvegaf/harmony
+aur:
+- harmony-bin
+electron: 33.4.11
+method: aur-depends

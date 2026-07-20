@@ -1,0 +1,8 @@
+id: cubytext
+name: Cubytext
+website: https://github.com/vincentdchan/CubyText
+repository: https://github.com/vincentdchan/CubyText
+aur:
+- cubytext-bin
+electron: 19.1.9
+method: aur-depends

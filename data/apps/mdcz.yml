@@ -1,0 +1,8 @@
+id: mdcz
+name: Mdcz
+website: https://github.com/ShotHeadman/mdcz
+repository: https://github.com/ShotHeadman/mdcz
+aur:
+- mdcz-desktop
+electron: 39.8.10
+method: aur-depends

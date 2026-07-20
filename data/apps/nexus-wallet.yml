@@ -1,0 +1,7 @@
+id: nexus-wallet
+name: Nexus Wallet
+website: https://crypto.nexus.io/wallet
+aur:
+- nexus-wallet-bin
+electron: 22.3.27
+method: aur-depends

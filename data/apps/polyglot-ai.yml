@@ -1,0 +1,7 @@
+id: polyglot-ai
+name: Polyglot AI
+website: https://polyglotai.xyz/
+aur:
+- polyglot-ai-bin
+electron: 23.3.13
+method: aur-depends

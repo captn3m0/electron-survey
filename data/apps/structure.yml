@@ -1,0 +1,7 @@
+id: structure
+name: Structure
+website: https://structure.love/
+aur:
+- structure-bin
+electron: 39.8.10
+method: aur-depends

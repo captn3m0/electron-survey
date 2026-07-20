@@ -1,0 +1,10 @@
+id: handbook
+name: Handbook
+website: https://github.com/ECRomaneli/Handbook
+repository: https://github.com/ECRomaneli/Handbook
+aur:
+- handbook-bin
+additionalAUR:
+- handbook-git
+electron: 43.1.1
+method: aur-depends

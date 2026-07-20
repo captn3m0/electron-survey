@@ -1,0 +1,8 @@
+id: visty
+name: Visty
+website: https://github.com/fiahfy/visty
+repository: https://github.com/fiahfy/visty
+aur:
+- visty-git
+electron: 38.8.6
+method: aur-depends

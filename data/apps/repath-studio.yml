@@ -1,0 +1,7 @@
+id: repath-studio
+name: Repath Studio
+website: https://repath.studio/
+aur:
+- repath-studio-bin
+electron: 42.7.0
+method: aur-depends

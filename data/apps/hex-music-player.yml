@@ -1,0 +1,8 @@
+id: hex-music-player
+name: Hex Music Player
+website: https://github.com/andrew-meis/hex-music-player-2.0
+repository: https://github.com/andrew-meis/hex-music-player-2.0
+aur:
+- hex-music-player
+electron: 34.5.8
+method: aur-depends

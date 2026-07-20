@@ -1,0 +1,7 @@
+id: openai-codex
+name: Openai Codex
+website: https://developers.openai.com/codex/app/
+aur:
+- openai-codex-desktop
+electron: 42.7.0
+method: aur-depends

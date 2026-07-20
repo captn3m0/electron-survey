@@ -1,0 +1,6 @@
+id: codex-app-electron-port
+name: Codex App Electron Port
+website: https://github.com/Tomakin/codex-app-electron-port-bin
+repository: https://github.com/Tomakin/codex-app-electron-port-bin
+aur:
+- codex-app-electron-port-bin

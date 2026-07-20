@@ -1,0 +1,7 @@
+id: up2share
+name: Up2share
+website: https://up2sha.re/desktop
+aur:
+- up2share-desktop-git
+electron: 31.7.7
+method: aur-depends

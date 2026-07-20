@@ -1,0 +1,8 @@
+id: paster
+name: Paster
+website: https://github.com/zengxiaolou/paste
+repository: https://github.com/zengxiaolou/paste
+aur:
+- paster-bin
+electron: 27.3.11
+method: aur-depends

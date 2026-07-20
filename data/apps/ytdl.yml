@@ -1,0 +1,8 @@
+id: ytdl
+name: Ytdl
+website: https://github.com/kayy0812/ytdl-desktop
+repository: https://github.com/kayy0812/ytdl-desktop
+aur:
+- ytdl-desktop
+electron: 25.9.8
+method: aur-depends

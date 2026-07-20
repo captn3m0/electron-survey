@@ -1,0 +1,8 @@
+id: freecord
+name: Freecord
+website: https://github.com/MR-MKZ/Freecord
+repository: https://github.com/MR-MKZ/Freecord
+aur:
+- freecord-git
+electron: 30.5.1
+method: aur-depends

@@ -1,0 +1,8 @@
+id: imageconverter2
+name: Imageconverter2
+website: https://github.com/tkroo/image-converter2
+repository: https://github.com/tkroo/image-converter2
+aur:
+- imageconverter2-bin
+electron: 25.9.8
+method: aur-depends

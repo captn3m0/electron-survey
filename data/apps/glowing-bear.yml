@@ -1,0 +1,7 @@
+id: glowing-bear
+name: Glowing Bear
+website: https://www.glowing-bear.org/
+aur:
+- glowing-bear-git
+additionalAUR:
+- glowing-bear-electron

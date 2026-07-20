@@ -1,0 +1,7 @@
+id: code-notes
+name: Code Notes
+website: https://lauthieb.github.io/code-notes
+aur:
+- code-notes-bin
+electron: 8.5.5
+method: aur-depends

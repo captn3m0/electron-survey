@@ -1,0 +1,8 @@
+id: memocast
+name: Memocast
+website: https://github.com/TankNee/Memocast
+repository: https://github.com/TankNee/Memocast
+aur:
+- memocast-bin
+electron: 16.2.8
+method: aur-depends

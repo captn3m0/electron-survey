@@ -1,0 +1,6 @@
+id: vectorx
+name: Vectorx
+website: https://github.com/Anand-Rift/VectorXBenchmarker
+repository: https://github.com/Anand-Rift/VectorXBenchmarker
+aur:
+- vectorx-bin

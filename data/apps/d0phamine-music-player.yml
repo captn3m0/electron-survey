@@ -1,0 +1,8 @@
+id: d0phamine-music-player
+name: D0phamine Music Player
+website: https://github.com/d0phamine/d0phamine-music-player
+repository: https://github.com/d0phamine/d0phamine-music-player
+aur:
+- d0phamine-music-player-bin
+electron: 34.5.8
+method: aur-depends

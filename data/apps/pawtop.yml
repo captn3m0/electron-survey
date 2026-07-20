@@ -1,0 +1,8 @@
+id: pawtop
+name: Pawtop
+website: https://github.com/enzomtpYT/Pawtop
+repository: https://github.com/enzomtpYT/Pawtop
+aur:
+- pawtop
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,9 @@
+id: electron-netease-cloud-music-bin
+name: Electron Netease Cloud Music
+website: https://dl.encm.cf/
+aur:
+- electron-netease-cloud-music
+repository: https://github.com/Rocket1184/electron-netease-cloud-music
+additionalAUR:
+- electron-netease-cloud-music-bin
+- electron-netease-cloud-music-git

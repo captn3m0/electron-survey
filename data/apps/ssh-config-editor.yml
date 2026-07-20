@@ -1,0 +1,12 @@
+id: ssh-config-editor
+name: Ssh Config Editor
+website: https://github.com/anchel/ssh-config-editor
+repository: https://github.com/anchel/ssh-config-editor
+aur:
+- ssh-config-editor-git
+packages:
+- url: https://hejki.org/download/ssheditor/SSHConfigEditor-112.dmg
+  format: dmg
+  os: macos
+electron: 33.4.11
+method: aur-depends

@@ -1,0 +1,8 @@
+id: udeler-pro
+name: Udeler Pro
+website: https://github.com/rsathishtechit/udeler-pro
+repository: https://github.com/rsathishtechit/udeler-pro
+aur:
+- udeler-pro-bin
+electron: 24.8.8
+method: aur-depends

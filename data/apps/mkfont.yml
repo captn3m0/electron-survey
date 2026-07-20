@@ -1,0 +1,7 @@
+id: mkfont
+name: Mkfont
+website: https://nebukam.github.io/mkfont/
+aur:
+- mkfont
+electron: 24.8.8
+method: aur-depends

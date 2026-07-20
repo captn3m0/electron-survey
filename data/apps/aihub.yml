@@ -1,0 +1,11 @@
+id: aihub
+name: Aihub
+website: https://github.com/classfang/AIHub
+repository: https://github.com/classfang/AIHub
+aur:
+- aihub
+additionalAUR:
+- aihub-bin
+- aihub-git
+electron: 30.5.1
+method: aur-depends

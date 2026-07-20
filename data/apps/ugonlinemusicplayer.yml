@@ -1,0 +1,8 @@
+id: ugonlinemusicplayer
+name: Ugonlinemusicplayer
+website: https://github.com/uguang2003/UGOnlineMusicPlayer
+repository: https://github.com/uguang2003/UGOnlineMusicPlayer
+aur:
+- ugonlinemusicplayer-git
+electron: 29.4.6
+method: aur-depends

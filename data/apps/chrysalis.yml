@@ -1,0 +1,14 @@
+id: chrysalis
+name: Chrysalis
+website: https://github.com/keyboardio/Chrysalis
+repository: https://github.com/keyboardio/Chrysalis
+aur:
+- chrysalis
+packages:
+- url: https://github.com/keyboardio/Chrysalis/releases/download/v0.13.3/Chrysalis-0.13.3-universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- chrysalis-git
+electron: 23.3.13
+method: aur-depends

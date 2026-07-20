@@ -1,0 +1,8 @@
+id: deskgpt
+name: Deskgpt
+website: https://github.com/0x11c11e/DeskGPT
+repository: https://github.com/0x11c11e/DeskGPT
+aur:
+- deskgpt-bin
+electron: 26.6.10
+method: aur-depends

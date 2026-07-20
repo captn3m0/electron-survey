@@ -1,0 +1,7 @@
+id: onekey-wallet
+name: Onekey Wallet
+website: https://onekey.so/
+aur:
+- onekey-wallet-bin
+electron: 39.8.10
+method: aur-depends

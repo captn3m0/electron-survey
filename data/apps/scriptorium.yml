@@ -1,0 +1,8 @@
+id: scriptorium
+name: Scriptorium
+website: https://github.com/Toriality/scriptorium
+repository: https://github.com/Toriality/scriptorium
+aur:
+- scriptorium-git
+electron: 29.4.6
+method: aur-depends

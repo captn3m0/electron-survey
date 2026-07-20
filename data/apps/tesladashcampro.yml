@@ -1,0 +1,8 @@
+id: tesladashcampro
+name: Tesladashcampro
+website: https://github.com/JustForFunOk/TeslaDashcamPro
+repository: https://github.com/JustForFunOk/TeslaDashcamPro
+aur:
+- tesladashcampro-bin
+electron: 32.3.3
+method: aur-depends

@@ -1,0 +1,7 @@
+id: animathio
+name: Animathio
+website: https://animathio.com/
+aur:
+- animathio-bin
+electron: 38.8.6
+method: aur-depends

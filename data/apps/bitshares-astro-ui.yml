@@ -1,0 +1,8 @@
+id: bitshares-astro-ui
+name: Bitshares Astro UI
+website: https://github.com/BTS-CM/astro-ui
+repository: https://github.com/BTS-CM/astro-ui
+aur:
+- bitshares-astro-ui-bin
+electron: 40.10.6
+method: aur-depends

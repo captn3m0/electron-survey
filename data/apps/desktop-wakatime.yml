@@ -1,0 +1,7 @@
+id: desktop-wakatime
+name: Desktop Wakatime
+website: https://wakatime.com/windows
+aur:
+- desktop-wakatime-bin
+electron: 32.3.3
+method: aur-depends

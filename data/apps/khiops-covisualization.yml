@@ -1,0 +1,8 @@
+id: khiops-covisualization
+name: Khiops Covisualization
+website: https://github.com/KhiopsML/kc-electron
+repository: https://github.com/KhiopsML/kc-electron
+aur:
+- khiops-covisualization-bin
+electron: 39.8.10
+method: aur-depends

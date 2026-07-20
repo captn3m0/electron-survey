@@ -1,0 +1,8 @@
+id: lyrically
+name: Lyrically
+website: https://github.com/CyanSalt/lyrically
+repository: https://github.com/CyanSalt/lyrically
+aur:
+- lyrically-bin
+electron: 30.5.1
+method: aur-depends

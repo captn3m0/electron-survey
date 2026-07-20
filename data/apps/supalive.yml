@@ -1,0 +1,7 @@
+id: supalive
+name: Supalive
+website: https://supalive.app/
+aur:
+- supalive-bin
+electron: 27.3.11
+method: aur-depends

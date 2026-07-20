@@ -1,0 +1,8 @@
+id: currency-converter
+name: Currency Converter
+website: https://github.com/manxlr/currency-converter
+repository: https://github.com/manxlr/currency-converter
+aur:
+- currency-converter-git
+electron: 33.4.11
+method: aur-depends

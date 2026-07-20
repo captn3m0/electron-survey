@@ -1,0 +1,10 @@
+id: pear-rec
+name: Pear Rec
+website: https://027xiguapi.github.io/pear-rec/
+aur:
+- pear-rec
+additionalAUR:
+- pear-rec-bin
+- pear-rec-git
+electron: 29.4.6
+method: aur-depends

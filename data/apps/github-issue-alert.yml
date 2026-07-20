@@ -1,0 +1,8 @@
+id: github-issue-alert
+name: Github Issue Alert
+website: https://github.com/ashuvssut/github-issue-alert
+repository: https://github.com/ashuvssut/github-issue-alert
+aur:
+- github-issue-alert-bin
+electron: 36.9.5
+method: aur-depends

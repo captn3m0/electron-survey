@@ -1,0 +1,8 @@
+id: mailcowclient
+name: Mailcowclient
+website: https://github.com/JAWS-Developers-Opensource/MailcowClient
+repository: https://github.com/JAWS-Developers-Opensource/MailcowClient
+aur:
+- mailcowclient-bin
+electron: 33.4.11
+method: aur-depends

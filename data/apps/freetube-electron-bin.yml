@@ -1,0 +1,16 @@
+id: freetube-electron-bin
+name: Freetube
+website: https://github.com/FreeTubeApp/FreeTube
+repository: https://github.com/FreeTubeApp/FreeTube
+aur:
+- freetube
+packages:
+- url: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.25.0-beta/freetube-0.25.0-beta-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- freetube-electron-bin
+- freetube-git
+electron: 42.7.0
+method: aur-depends

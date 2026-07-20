@@ -1,0 +1,7 @@
+id: bulkurlopener
+name: Bulkurlopener
+website: https://bulkurlopener.com/
+aur:
+- bulkurlopener-bin
+electron: 19.1.9
+method: aur-depends

@@ -6,3 +6,7 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+aur:
+- clickup
+- clickup-desktop
+- clickup-desktop-fixed

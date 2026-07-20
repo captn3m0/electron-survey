@@ -1,0 +1,7 @@
+id: hubble-md
+name: Hubble.md
+website: https://hubble.md
+aur:
+- hubble.md
+electron: 42.7.0
+method: aur-depends

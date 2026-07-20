@@ -1,0 +1,8 @@
+id: stealthplane
+name: Stealthplane
+website: https://github.com/mahdi991613487/StealthPlane
+repository: https://github.com/mahdi991613487/StealthPlane
+aur:
+- stealthplane-bin
+electron: 29.4.6
+method: aur-depends

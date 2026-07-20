@@ -1,0 +1,9 @@
+id: chatd
+name: Chatd
+website: https://chatd.ai/
+aur:
+- chatd
+additionalAUR:
+- chatd-bin
+electron: 24.8.8
+method: aur-depends

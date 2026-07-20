@@ -1,0 +1,8 @@
+id: oneplay
+name: Oneplay
+website: https://github.com/ndungtse/oneplay_desktop_app
+repository: https://github.com/ndungtse/oneplay_desktop_app
+aur:
+- oneplay-git
+electron: 21.4.4
+method: aur-depends

@@ -1,0 +1,7 @@
+id: fumble
+name: Fumble
+website: https://bonniesimon.github.io/fumble/
+aur:
+- fumble-git
+electron: 31.7.7
+method: aur-depends

@@ -1,0 +1,8 @@
+id: live-radio
+name: Live Radio
+website: https://github.com/JesperBry/live-radio-app
+repository: https://github.com/JesperBry/live-radio-app
+aur:
+- live-radio-app-bin
+electron: 23.3.13
+method: aur-depends

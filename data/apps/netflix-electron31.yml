@@ -1,0 +1,7 @@
+id: netflix-electron31
+name: Netflix Electron31
+website: https://gitlab.com/linuxbombay/netflix-desktop
+aur:
+- netflix-electron31
+electron: 31.7.7
+method: aur-depends

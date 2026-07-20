@@ -1,0 +1,11 @@
+id: anythingllm
+name: Anythingllm
+website: https://anythingllm.com/
+aur:
+- anythingllm-desktop-bin
+packages:
+- url: https://cdn.anythingllm.com/latest/AnythingLLMDesktop-Silicon.dmg
+  format: dmg
+  os: macos
+electron: 31.7.7
+method: aur-depends

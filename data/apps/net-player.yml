@@ -1,0 +1,8 @@
+id: net-player
+name: Net Player
+website: https://github.com/Zhoucheng133/net-player
+repository: https://github.com/Zhoucheng133/net-player
+aur:
+- net-player
+electron: 13.6.9
+method: aur-depends

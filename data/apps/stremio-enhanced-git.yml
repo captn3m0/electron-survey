@@ -1,0 +1,10 @@
+id: stremio-enhanced-git
+name: Stremio Enhanced
+website: https://github.com/REVENGE977/stremio-enhanced
+repository: https://github.com/REVENGE977/stremio-enhanced
+aur:
+- stremio-enhanced-bin
+additionalAUR:
+- stremio-enhanced-git
+electron: 41.10.2
+method: aur-depends

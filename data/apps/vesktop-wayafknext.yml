@@ -1,0 +1,16 @@
+id: vesktop-wayafknext
+name: Vesktop Wayafknext
+website: https://github.com/Vencord/Vesktop
+repository: https://github.com/Vencord/Vesktop
+aur:
+- vesktop-wayafknext-bin
+packages:
+- url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- vesktop-bin
+- vesktop-electron
+- vesktop-electron-git
+electron: 40.10.6
+method: aur-depends

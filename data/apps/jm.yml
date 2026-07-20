@@ -1,0 +1,8 @@
+id: jm
+name: Jm
+website: https://github.com/Dedicatus546/jm-desktop
+repository: https://github.com/Dedicatus546/jm-desktop
+aur:
+- jm-desktop-bin
+electron: 42.7.0
+method: aur-depends

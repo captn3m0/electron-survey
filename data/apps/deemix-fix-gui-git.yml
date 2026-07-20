@@ -1,0 +1,7 @@
+id: deemix-fix-gui-git
+name: Deemix Fix
+website: https://gitlab.com/deeplydrumming/DeemixFix
+aur:
+- deemix-fix-gui
+additionalAUR:
+- deemix-fix-gui-git

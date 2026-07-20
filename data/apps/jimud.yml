@@ -1,0 +1,7 @@
+id: jimud
+name: Jimud
+website: http://www.shadowmud.com/
+aur:
+- jimud-bin
+electron: 37.10.3
+method: aur-depends

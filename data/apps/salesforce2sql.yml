@@ -1,0 +1,10 @@
+id: salesforce2sql
+name: Salesforce2sql
+website: https://github.com/acrosman/Salesforce2Sql
+repository: https://github.com/acrosman/Salesforce2Sql
+aur:
+- salesforce2sql-bin
+additionalAUR:
+- salesforce2sql-git
+electron: 36.9.5
+method: aur-depends

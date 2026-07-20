@@ -1,0 +1,7 @@
+id: owasp-threat-dragon
+name: Owasp Threat Dragon
+website: https://threatdragon.org
+aur:
+- owasp-threat-dragon
+electron: 5.0.13
+method: aur-depends

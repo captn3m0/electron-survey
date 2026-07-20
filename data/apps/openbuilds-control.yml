@@ -1,0 +1,11 @@
+id: openbuilds-control
+name: Openbuilds Control
+website: https://github.com/OpenBuilds/OpenBuilds-CONTROL
+repository: https://github.com/OpenBuilds/OpenBuilds-CONTROL
+aur:
+- openbuilds-control
+additionalAUR:
+- openbuilds-control-bin
+- openbuilds-control-git
+electron: 23.3.13
+method: aur-depends

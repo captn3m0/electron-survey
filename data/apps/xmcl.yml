@@ -1,0 +1,7 @@
+id: xmcl
+name: Xmcl
+website: https://xmcl.app/
+aur:
+- xmcl-electron-bin
+electron: 41.10.2
+method: aur-depends

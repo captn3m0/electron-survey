@@ -1,0 +1,8 @@
+id: knowledge-canvas
+name: Knowledge Canvas
+website: https://github.com/KnowledgeCanvas/knowledge
+repository: https://github.com/KnowledgeCanvas/knowledge
+aur:
+- knowledge-canvas-bin
+electron: 26.6.10
+method: aur-depends

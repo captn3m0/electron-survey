@@ -1,0 +1,8 @@
+id: echo-music
+name: Echo Music
+website: https://github.com/hoowhoami/EchoMusic
+repository: https://github.com/hoowhoami/EchoMusic
+aur:
+- echo-music-bin
+electron: 42.7.0
+method: aur-depends

@@ -1,0 +1,7 @@
+id: vnstat-client
+name: Vnstat Client
+website: https://hulxv.github.io/vnstat-client/
+aur:
+- vnstat-client-git
+electron: 19.1.9
+method: aur-depends

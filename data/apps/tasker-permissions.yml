@@ -1,0 +1,8 @@
+id: tasker-permissions
+name: Tasker Permissions
+website: https://github.com/joaomgcd/Tasker-Permissions
+repository: https://github.com/joaomgcd/Tasker-Permissions
+aur:
+- tasker-permissions-git
+electron: 34.5.8
+method: aur-depends

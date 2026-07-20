@@ -1,0 +1,7 @@
+id: zcode
+name: Zcode
+website: https://zcode.z.ai/
+aur:
+- zcode-bin
+electron: 41.10.2
+method: aur-depends

@@ -1,0 +1,8 @@
+id: explorama
+name: Explorama
+website: https://github.com/Explorama/Explorama
+repository: https://github.com/Explorama/Explorama
+aur:
+- explorama-bin
+electron: 28.3.3
+method: aur-depends

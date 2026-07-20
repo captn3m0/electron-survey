@@ -1,0 +1,8 @@
+id: nodeflow
+name: Nodeflow
+website: https://github.com/maxnth/NodeFlow
+repository: https://github.com/maxnth/NodeFlow
+aur:
+- nodeflow-bin
+electron: 23.3.13
+method: aur-depends

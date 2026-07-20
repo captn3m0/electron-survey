@@ -1,0 +1,7 @@
+id: vigad
+name: Vigad
+website: https://vigad.wordpress.com/
+aur:
+- vigad-bin
+electron: 24.8.8
+method: aur-depends

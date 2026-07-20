@@ -1,0 +1,10 @@
+id: dhis2-downloader
+name: Dhis2 Downloader
+website: https://github.com/worldbank/DHIS2-Downloader
+repository: https://github.com/worldbank/DHIS2-Downloader
+aur:
+- dhis2-downloader-bin
+additionalAUR:
+- dhis2-downloader-git
+electron: 40.10.6
+method: aur-depends

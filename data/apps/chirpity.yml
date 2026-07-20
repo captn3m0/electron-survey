@@ -1,0 +1,7 @@
+id: chirpity
+name: Chirpity
+website: https://chirpity.mattkirkland.co.uk/
+aur:
+- chirpity-bin
+electron: 39.8.10
+method: aur-depends

@@ -5,3 +5,5 @@ packages:
 - url: https://dynalist.io/standalone/download?file=Dynalist.dmg
   format: dmg
   os: macos
+aur:
+- dynalist-desktop

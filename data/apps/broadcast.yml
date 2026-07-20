@@ -1,0 +1,8 @@
+id: broadcast
+name: Broadcast
+website: https://github.com/Mobiz-Advanced-Technologies/Broadcast
+repository: https://github.com/Mobiz-Advanced-Technologies/Broadcast
+aur:
+- broadcast-bin
+electron: 25.9.8
+method: aur-depends

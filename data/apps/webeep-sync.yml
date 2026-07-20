@@ -1,0 +1,8 @@
+id: webeep-sync
+name: Webeep Sync
+website: https://github.com/toto04/webeep-sync
+repository: https://github.com/toto04/webeep-sync
+aur:
+- webeep-sync-bin
+electron: 22.3.27
+method: aur-depends

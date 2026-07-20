@@ -1,0 +1,15 @@
+id: heynote-bin
+name: Heynote
+website: https://github.com/heyman/heynote
+repository: https://github.com/heyman/heynote
+aur:
+- heynote
+packages:
+- url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+additionalAUR:
+- heynote-bin
+electron: 39.8.10
+method: aur-depends

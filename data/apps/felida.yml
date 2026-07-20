@@ -1,0 +1,8 @@
+id: felida
+name: Felida
+website: https://github.com/raluvy95/FelidaBrowser
+repository: https://github.com/raluvy95/FelidaBrowser
+aur:
+- felida-bin
+electron: 24.8.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: passbox
+name: Passbox
+website: https://github.com/zzk13180/passbox
+repository: https://github.com/zzk13180/passbox
+aur:
+- passbox
+electron: 24.8.8
+method: aur-depends

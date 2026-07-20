@@ -1,0 +1,11 @@
+id: commas
+name: Commas
+website: https://github.com/CyanSalt/commas
+repository: https://github.com/CyanSalt/commas
+aur:
+- commas
+additionalAUR:
+- commas-bin
+- commas-git
+electron: 38.8.6
+method: aur-depends

@@ -1,0 +1,10 @@
+id: pguirestore
+name: Pguirestore
+website: https://github.com/RolandoHidalgo/pg-restore-electron
+repository: https://github.com/RolandoHidalgo/pg-restore-electron
+aur:
+- pguirestore
+additionalAUR:
+- pguirestore-bin
+electron: 34.5.8
+method: aur-depends

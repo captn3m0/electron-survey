@@ -1,0 +1,10 @@
+id: simplexity-ai
+name: Simplexity AI
+website: https://github.com/inulute/simplexity-ai-app
+repository: https://github.com/inulute/simplexity-ai-app
+aur:
+- simplexity-ai-app
+additionalAUR:
+- simplexity-ai-app-bin
+electron: 33.4.11
+method: aur-depends

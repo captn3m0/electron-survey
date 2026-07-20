@@ -1,0 +1,6 @@
+id: chess
+name: Chess
+website: https://github.com/tkmxqrdxddd/chess-electron
+repository: https://github.com/tkmxqrdxddd/chess-electron
+aur:
+- chess-electron

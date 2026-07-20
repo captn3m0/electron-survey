@@ -1,0 +1,7 @@
+id: juice-client
+name: Juice Client
+website: https://juice.irrvlo.xyz/
+aur:
+- juice-client-bin
+electron: 10.4.7
+method: aur-depends

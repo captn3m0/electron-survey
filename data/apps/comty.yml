@@ -1,0 +1,10 @@
+id: comty
+name: Comty
+website: https://github.com/ragestudio/comty
+repository: https://github.com/ragestudio/comty
+aur:
+- comty-desktop
+additionalAUR:
+- comty-desktop-bin
+electron: 43.1.1
+method: aur-depends

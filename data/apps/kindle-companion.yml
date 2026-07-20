@@ -1,0 +1,7 @@
+id: kindle-companion
+name: Kindle Companion
+website: https://saharzelo.github.io/kindle-companion/
+aur:
+- kindle-companion-bin
+electron: 20.3.12
+method: aur-depends

@@ -1,0 +1,6 @@
+id: cc-map-editor
+name: Cc Map Editor
+website: https://github.com/CCDirectLink/crosscode-map-editor
+repository: https://github.com/CCDirectLink/crosscode-map-editor
+aur:
+- cc-map-editor-bin

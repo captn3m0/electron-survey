@@ -1,0 +1,7 @@
+id: oopz
+name: Oopz
+website: https://git.pysio.online/pysio/linux_oopz
+aur:
+- oopz
+electron: 39.8.10
+method: aur-depends

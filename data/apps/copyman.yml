@@ -1,0 +1,9 @@
+id: copyman
+name: Copyman
+website: http://www.atlantide-design.it/copyman
+aur:
+- copyman-bin
+additionalAUR:
+- copyman-git
+electron: 34.5.8
+method: aur-depends

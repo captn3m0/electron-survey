@@ -1,0 +1,5 @@
+id: colab
+name: Colab
+website: https://colab.research.google.com/
+aur:
+- colab-desktop

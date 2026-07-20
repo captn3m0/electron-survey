@@ -1,0 +1,7 @@
+id: inethi
+name: Inethi
+website: https://www.inethi.org.za/software/
+aur:
+- inethi-bin
+electron: 23.3.13
+method: aur-depends

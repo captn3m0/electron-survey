@@ -1,0 +1,7 @@
+id: hollama
+name: Hollama
+website: https://hollama.fernando.is/
+aur:
+- hollama-bin
+electron: 31.7.7
+method: aur-depends

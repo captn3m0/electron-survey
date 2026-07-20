@@ -1,0 +1,9 @@
+id: opentubex
+name: Opentubex
+website: https://opentubex.org
+aur:
+- opentubex
+additionalAUR:
+- opentubex-git
+electron: 41.10.2
+method: aur-depends

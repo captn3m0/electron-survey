@@ -1,0 +1,8 @@
+id: shutdown-scheduler
+name: Shutdown Scheduler
+website: https://github.com/hichemfantar/ShutdownScheduler
+repository: https://github.com/hichemfantar/ShutdownScheduler
+aur:
+- shutdown-scheduler-git
+electron: 33.4.11
+method: aur-depends

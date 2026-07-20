@@ -1,0 +1,7 @@
+id: zenshin
+name: Zenshin
+website: https://hitarth-gg.github.io/zenshin-website
+aur:
+- zenshin-git
+electron: 34.5.8
+method: aur-depends

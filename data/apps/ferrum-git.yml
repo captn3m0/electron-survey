@@ -1,0 +1,10 @@
+id: ferrum-git
+name: Ferrum
+website: https://github.com/prezdev88/ferrum
+repository: https://github.com/prezdev88/ferrum
+aur:
+- ferrum-bin
+additionalAUR:
+- ferrum-git
+electron: 30.5.1
+method: aur-depends

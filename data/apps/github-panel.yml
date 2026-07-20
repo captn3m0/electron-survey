@@ -1,0 +1,8 @@
+id: github-panel
+name: Github Panel
+website: https://github.com/littlebutt/github-panel
+repository: https://github.com/littlebutt/github-panel
+aur:
+- github-panel-bin
+electron: 33.4.11
+method: aur-depends

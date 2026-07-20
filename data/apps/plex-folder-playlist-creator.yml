@@ -1,0 +1,8 @@
+id: plex-folder-playlist-creator
+name: Plex Folder Playlist Creator
+website: https://github.com/zackria/Plex-Folder-Playlist-Creator
+repository: https://github.com/zackria/Plex-Folder-Playlist-Creator
+aur:
+- plex-folder-playlist-creator-bin
+electron: 37.10.3
+method: aur-depends

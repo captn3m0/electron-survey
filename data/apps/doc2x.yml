@@ -1,0 +1,7 @@
+id: doc2x
+name: Doc2x
+website: https://doc2x.noedgeai.com/
+aur:
+- doc2x
+electron: 24.8.8
+method: aur-depends

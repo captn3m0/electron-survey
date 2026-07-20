@@ -1,0 +1,7 @@
+id: revezone
+name: Revezone
+website: https://revezone.com/
+aur:
+- revezone
+electron: 25.9.8
+method: aur-depends

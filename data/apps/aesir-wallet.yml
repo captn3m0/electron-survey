@@ -1,0 +1,7 @@
+id: aesir-wallet
+name: Aesir Wallet
+website: https://kryptokrona.org/
+aur:
+- aesir-wallet-bin
+electron: 30.5.1
+method: aur-depends

@@ -1,0 +1,8 @@
+id: spark-wallet
+name: Spark Wallet
+website: https://github.com/shesek/spark-wallet
+repository: https://github.com/shesek/spark-wallet
+aur:
+- spark-wallet-bin
+electron: 13.6.9
+method: aur-depends

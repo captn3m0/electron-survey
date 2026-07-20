@@ -1,0 +1,7 @@
+id: alphabiz
+name: Alphabiz
+website: https://alpha.biz/
+aur:
+- alphabiz-bin
+electron: 21.4.4
+method: aur-depends

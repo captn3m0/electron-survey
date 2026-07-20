@@ -1,0 +1,8 @@
+id: electron-ffmpeg
+name: Electron Ffmpeg
+website: https://github.com/hunt-kingyo/electron-ffmpeg-gui
+repository: https://github.com/hunt-kingyo/electron-ffmpeg-gui
+aur:
+- electron-ffmpeg-gui-git
+electron: 35.7.5
+method: aur-depends

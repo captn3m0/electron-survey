@@ -1,0 +1,7 @@
+id: exiled-exchange-2
+name: Exiled Exchange 2
+website: https://kvan7.github.io/Exiled-Exchange-2/download
+aur:
+- exiled-exchange-2-bin
+electron: 31.7.7
+method: aur-depends

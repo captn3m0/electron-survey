@@ -1,0 +1,6 @@
+id: mybox
+name: Mybox
+website: https://github.com/Usta-Cagri/mybox
+repository: https://github.com/Usta-Cagri/mybox
+aur:
+- mybox-bin

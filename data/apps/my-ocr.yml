@@ -1,0 +1,8 @@
+id: my-ocr
+name: My Ocr
+website: https://github.com/liumingye/my-ocr
+repository: https://github.com/liumingye/my-ocr
+aur:
+- my-ocr-bin
+electron: 32.3.3
+method: aur-depends

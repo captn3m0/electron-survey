@@ -1,0 +1,6 @@
+id: markdown
+name: Markdown
+website: https://github.com/JP1016/Markdown-Electron
+repository: https://github.com/JP1016/Markdown-Electron
+aur:
+- markdown-electron

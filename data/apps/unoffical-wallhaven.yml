@@ -1,0 +1,8 @@
+id: unoffical-wallhaven
+name: Unoffical Wallhaven
+website: https://github.com/luisflorido/wallhaven-desktop
+repository: https://github.com/luisflorido/wallhaven-desktop
+aur:
+- unoffical-wallhaven-desktop-git
+electron: 17.4.11
+method: aur-depends

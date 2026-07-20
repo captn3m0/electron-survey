@@ -1,0 +1,10 @@
+id: augur
+name: Augur
+website: https://github.com/AugurProject/augur-app
+repository: https://github.com/AugurProject/augur-app
+aur:
+- augur-git
+packages:
+- url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.dmg
+  format: dmg
+  os: macos

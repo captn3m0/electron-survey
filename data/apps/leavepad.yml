@@ -1,0 +1,11 @@
+id: leavepad
+name: Leavepad
+website: https://github.com/kaishuu0123/leavepad
+repository: https://github.com/kaishuu0123/leavepad
+aur:
+- leavepad
+additionalAUR:
+- leavepad-bin
+- leavepad-git
+electron: 41.10.2
+method: aur-depends

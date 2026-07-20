@@ -1,0 +1,10 @@
+id: flexplayer
+name: Flexplayer
+website: https://github.com/ricmsd/flexplayer
+repository: https://github.com/ricmsd/flexplayer
+aur:
+- flexplayer
+additionalAUR:
+- flexplayer-git
+electron: 26.6.10
+method: aur-depends

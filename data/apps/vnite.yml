@@ -1,0 +1,7 @@
+id: vnite
+name: Vnite
+website: https://vnite.ximu.dev/
+aur:
+- vnite-git
+electron: 35.7.5
+method: aur-depends

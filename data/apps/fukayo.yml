@@ -1,0 +1,8 @@
+id: fukayo
+name: Fukayo
+website: https://github.com/JiPaix/Fukayo
+repository: https://github.com/JiPaix/Fukayo
+aur:
+- fukayo-bin
+electron: 24.8.8
+method: aur-depends

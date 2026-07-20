@@ -1,0 +1,8 @@
+id: coderadio
+name: Coderadio
+website: https://github.com/Guibibi/CodeRadio-Desktop
+repository: https://github.com/Guibibi/CodeRadio-Desktop
+aur:
+- coderadio-git
+electron: 36.9.5
+method: aur-depends

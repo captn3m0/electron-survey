@@ -1,0 +1,13 @@
+id: gdlauncher-git
+name: Gdlauncher
+website: https://gdevs.io
+aur:
+- gdlauncher-bin
+packages:
+- url: https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.30/GDLauncher-mac-setup.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- gdlauncher-git
+electron: 36.9.5
+method: aur-depends

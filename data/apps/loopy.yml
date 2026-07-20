@@ -1,0 +1,8 @@
+id: loopy
+name: Loopy
+website: https://github.com/jchu634/loopy-desktop
+repository: https://github.com/jchu634/loopy-desktop
+aur:
+- loopy-desktop
+electron: 21.4.4
+method: aur-depends

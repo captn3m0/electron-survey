@@ -1,0 +1,8 @@
+id: ppet
+name: Ppet
+website: https://github.com/zenghongtu/PPet
+repository: https://github.com/zenghongtu/PPet
+aur:
+- ppet
+additionalAUR:
+- ppet3-bin

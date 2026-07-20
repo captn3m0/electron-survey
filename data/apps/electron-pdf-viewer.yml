@@ -1,0 +1,10 @@
+id: electron-pdf-viewer
+name: Electron PDF Viewer
+website: https://github.com/praharshjain/Electron-PDF-Viewer
+repository: https://github.com/praharshjain/Electron-PDF-Viewer
+aur:
+- electron-pdf-viewer-bin
+additionalAUR:
+- electron-pdf-viewer-git
+electron: 2.1.0-unsupported.20180809
+method: aur-depends

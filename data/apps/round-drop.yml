@@ -1,0 +1,8 @@
+id: round-drop
+name: Round Drop
+website: https://github.com/nekobato/RoundDrop
+repository: https://github.com/nekobato/RoundDrop
+aur:
+- round-drop-git
+electron: 42.7.0
+method: aur-depends

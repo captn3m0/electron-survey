@@ -1,0 +1,7 @@
+id: wp
+name: Wp
+website: https://apps.wordpress.com/desktop/
+aur:
+- wp-desktop-bin
+electron: 39.8.10
+method: aur-depends

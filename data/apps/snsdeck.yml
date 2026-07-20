@@ -1,0 +1,10 @@
+id: snsdeck
+name: Snsdeck
+website: https://github.com/meganii/snsdeck
+repository: https://github.com/meganii/snsdeck
+aur:
+- snsdeck
+additionalAUR:
+- snsdeck-bin
+electron: 26.6.10
+method: aur-depends

@@ -1,0 +1,10 @@
+id: tetrio
+name: Tetrio
+website: https://tetr.io/
+aur:
+- tetrio-desktop-electron
+packages:
+- url: https://tetr.io/about/desktop/builds/10/TETR.IO%20Setup%20arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

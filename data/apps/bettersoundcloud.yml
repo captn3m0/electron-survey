@@ -1,0 +1,8 @@
+id: bettersoundcloud
+name: Bettersoundcloud
+website: https://github.com/AlirezaKJ/BetterSoundCloud
+repository: https://github.com/AlirezaKJ/BetterSoundCloud
+aur:
+- bettersoundcloud
+electron: 32.3.3
+method: aur-depends

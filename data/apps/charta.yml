@@ -1,0 +1,7 @@
+id: charta
+name: Charta
+website: https://lewixlabs.github.io/Charta
+aur:
+- charta-git
+electron: 35.7.5
+method: aur-depends

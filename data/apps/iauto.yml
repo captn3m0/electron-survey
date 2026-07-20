@@ -1,0 +1,7 @@
+id: iauto
+name: Iauto
+website: https://www.iautodraw.com
+aur:
+- iauto
+electron: 25.9.8
+method: aur-depends

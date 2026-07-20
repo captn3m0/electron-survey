@@ -1,0 +1,8 @@
+id: next-library
+name: Next Library
+website: https://github.com/CMOISDEAD/next-library
+repository: https://github.com/CMOISDEAD/next-library
+aur:
+- next-library-bin
+electron: 21.4.4
+method: aur-depends

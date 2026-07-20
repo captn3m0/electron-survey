@@ -1,0 +1,8 @@
+id: electron-music
+name: Electron Music
+website: https://github.com/zhongfulin123/electron-music
+repository: https://github.com/zhongfulin123/electron-music
+aur:
+- electron-music
+electron: 25.9.8
+method: aur-depends

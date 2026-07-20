@@ -1,0 +1,10 @@
+id: webcam-glass
+name: Webcam Glass
+website: https://github.com/jersonlatorre/webcam-glass-app
+repository: https://github.com/jersonlatorre/webcam-glass-app
+aur:
+- webcam-glass-bin
+additionalAUR:
+- webcam-glass-git
+electron: 9.4.4
+method: aur-depends

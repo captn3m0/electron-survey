@@ -1,0 +1,7 @@
+id: mastergo
+name: Mastergo
+website: https://mastergo.com/resource
+aur:
+- mastergo-desktop-bin
+electron: 31.7.7
+method: aur-depends

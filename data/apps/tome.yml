@@ -1,0 +1,7 @@
+id: tome
+name: Tome
+website: https://tome.evinowen.net/
+aur:
+- tome-bin
+electron: 22.3.27
+method: aur-depends

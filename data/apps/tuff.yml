@@ -1,0 +1,7 @@
+id: tuff
+name: Tuff
+website: https://tuff.tagzxia.com/
+aur:
+- tuff-bin
+electron: 41.10.2
+method: aur-depends

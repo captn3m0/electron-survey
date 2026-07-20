@@ -1,0 +1,7 @@
+id: musicbox
+name: Musicbox
+website: https://musicbox.asxe.vip/
+aur:
+- musicbox-bin
+electron: 37.10.3
+method: aur-depends

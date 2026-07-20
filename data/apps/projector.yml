@@ -1,0 +1,8 @@
+id: projector
+name: Projector
+website: https://github.com/JetBrains/projector-client
+repository: https://github.com/JetBrains/projector-client
+aur:
+- projector-bin
+electron: 16.2.8
+method: aur-depends

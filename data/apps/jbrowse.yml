@@ -1,0 +1,11 @@
+id: jbrowse
+name: Jbrowse
+website: https://jbrowse.org/jb2/
+aur:
+- jbrowse-desktop-git
+packages:
+- url: https://github.com/GMOD/jbrowse-components/releases/download/v4.3.0/jbrowse-desktop-v4.3.0-mac.dmg
+  format: dmg
+  os: macos
+electron: 42.7.0
+method: aur-depends

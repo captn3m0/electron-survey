@@ -1,0 +1,8 @@
+id: binggpt-ee
+name: Binggpt Ee
+website: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon
+repository: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon
+aur:
+- binggpt-ee-bin
+electron: 26.6.10
+method: aur-depends

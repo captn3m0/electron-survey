@@ -1,0 +1,8 @@
+id: clawd-on-desk
+name: Clawd On Desk
+website: https://github.com/rullerzhou-afk/clawd-on-desk
+repository: https://github.com/rullerzhou-afk/clawd-on-desk
+aur:
+- clawd-on-desk-bin
+electron: 41.10.2
+method: aur-depends

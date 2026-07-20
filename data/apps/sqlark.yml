@@ -1,0 +1,7 @@
+id: sqlark
+name: Sqlark
+website: https://www.sqlark.com/
+aur:
+- sqlark-bin
+electron: 32.3.3
+method: aur-depends

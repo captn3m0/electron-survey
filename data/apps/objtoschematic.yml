@@ -1,0 +1,7 @@
+id: objtoschematic
+name: Objtoschematic
+website: https://objtoschematic.com/
+aur:
+- objtoschematic-bin
+electron: 13.6.9
+method: aur-depends

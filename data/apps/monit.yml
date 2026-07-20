@@ -1,0 +1,7 @@
+id: monit
+name: Monit
+website: https://monit.fzf404.art/
+aur:
+- monit-bin
+electron: 21.4.4
+method: aur-depends

@@ -1,0 +1,12 @@
+id: devin-desktop-next
+name: Devin Desktop Next
+website: https://docs.devin.ai
+aur:
+- devin-desktop-next
+packages:
+- url: https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/next/ee593c178a9b46dc3f9cb9d5e8d43d8e916512a6/Devin-darwin-arm64-3.5.1015+next.ee593c178a.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 39.8.10
+method: aur-depends

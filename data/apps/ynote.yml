@@ -1,0 +1,7 @@
+id: ynote
+name: Ynote
+website: https://note.youdao.com/
+aur:
+- ynote-desktop-bin
+electron: 22.3.27
+method: aur-depends

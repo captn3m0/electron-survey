@@ -1,0 +1,8 @@
+id: oba-live-tool
+name: Oba Live Tool
+website: https://github.com/qiutongxue/oba-live-tool
+repository: https://github.com/qiutongxue/oba-live-tool
+aur:
+- oba-live-tool-git
+electron: 36.9.5
+method: aur-depends

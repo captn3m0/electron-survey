@@ -1,0 +1,7 @@
+id: baize-toolbox
+name: Baize Toolbox
+website: https://baize.plume.vip/
+aur:
+- baize-toolbox-git
+electron: 31.7.7
+method: aur-depends

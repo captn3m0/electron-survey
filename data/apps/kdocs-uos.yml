@@ -1,0 +1,7 @@
+id: kdocs-uos
+name: Kdocs Uos
+website: https://www.kdocs.cn/
+aur:
+- kdocs-uos
+electron: 14.2.9
+method: aur-depends

@@ -1,0 +1,8 @@
+id: compasscad
+name: Compasscad
+website: https://github.com/zeankundev/CompassCAD
+repository: https://github.com/zeankundev/CompassCAD
+aur:
+- compasscad-bin
+electron: 35.7.5
+method: aur-depends

@@ -1,0 +1,10 @@
+id: oblivion
+name: Oblivion
+website: https://github.com/bepass-org/oblivion-desktop
+repository: https://github.com/bepass-org/oblivion-desktop
+aur:
+- oblivion-desktop
+additionalAUR:
+- oblivion-desktop-git
+electron: 38.8.6
+method: aur-depends

@@ -1,0 +1,7 @@
+id: expertisex
+name: Expertisex
+website: https://expertisex.vercel.app/
+aur:
+- expertisex-bin
+electron: 35.7.5
+method: aur-depends

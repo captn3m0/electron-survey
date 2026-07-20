@@ -1,0 +1,8 @@
+id: clipharbor
+name: Clipharbor
+website: https://github.com/yurentle/ClipHarbor
+repository: https://github.com/yurentle/ClipHarbor
+aur:
+- clipharbor-bin
+electron: 35.7.5
+method: aur-depends

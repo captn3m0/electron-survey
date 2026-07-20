@@ -1,0 +1,7 @@
+id: fishpi
+name: Fishpi
+website: https://fishpi.cn
+aur:
+- fishpi-bin
+electron: 16.2.8
+method: aur-depends

@@ -1,0 +1,6 @@
+id: kute
+name: Kute
+website: https://github.com/H33aven/kute
+repository: https://github.com/H33aven/kute
+aur:
+- kute-bin

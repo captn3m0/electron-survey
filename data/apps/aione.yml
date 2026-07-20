@@ -1,0 +1,9 @@
+id: aione
+name: Aione
+website: https://sumexxx.github.io/AIOne/
+aur:
+- aione
+additionalAUR:
+- aione-bin
+electron: 33.4.11
+method: aur-depends

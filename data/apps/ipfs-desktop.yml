@@ -25,6 +25,7 @@ packages:
   arch: x64
 aur:
 - ipfs-desktop
+- ipfs-desktop-electron-bin
 electron: 41.10.2
 method: aur-depends
 homebrew: ipfs-desktop

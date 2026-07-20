@@ -1,0 +1,7 @@
+id: music-you
+name: Music You
+website: https://music-you-next.vercel.app
+aur:
+- music-you-bin
+electron: 27.3.11
+method: aur-depends

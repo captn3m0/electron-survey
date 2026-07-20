@@ -1,0 +1,8 @@
+id: cocomusic
+name: Cocomusic
+website: https://github.com/xtuJSer/CoCoMusic
+repository: https://github.com/xtuJSer/CoCoMusic
+aur:
+- cocomusic
+electron: 4.2.12
+method: aur-depends

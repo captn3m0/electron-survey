@@ -1,0 +1,8 @@
+id: backslash-bin
+name: Backslash
+website: https://github.com/backslash-app/backslash
+repository: https://github.com/backslash-app/backslash
+aur:
+- backslash
+additionalAUR:
+- backslash-bin

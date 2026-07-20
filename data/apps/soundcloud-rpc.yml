@@ -1,0 +1,10 @@
+id: soundcloud-rpc
+name: Soundcloud Rpc
+website: https://github.com/richardhbtz/soundcloud-rpc
+repository: https://github.com/richardhbtz/soundcloud-rpc
+aur:
+- soundcloud-rpc-bin
+additionalAUR:
+- soundcloud-rpc-git
+electron: 37.10.3
+method: aur-depends

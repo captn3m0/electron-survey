@@ -1,0 +1,9 @@
+id: beyondallreason
+name: Beyondallreason
+website: https://beyondallreason.info
+aur:
+- beyondallreason
+additionalAUR:
+- beyondallreason-git
+electron: 42.7.0
+method: aur-depends

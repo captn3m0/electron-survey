@@ -1,0 +1,7 @@
+id: sanguosha
+name: Sanguosha
+website: https://www.sanguosha.com
+aur:
+- sanguosha
+electron: 13.6.9
+method: aur-depends

@@ -1,0 +1,10 @@
+id: frontimer
+name: Frontimer
+website: https://github.com/seita1996/frontimer
+repository: https://github.com/seita1996/frontimer
+aur:
+- frontimer
+additionalAUR:
+- frontimer-bin
+electron: 25.9.8
+method: aur-depends

@@ -1,0 +1,9 @@
+id: devkitty
+name: Devkitty
+website: https://devkitty.app/
+aur:
+- devkitty
+additionalAUR:
+- devkitty-git
+electron: 41.10.2
+method: aur-depends

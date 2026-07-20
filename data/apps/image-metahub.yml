@@ -1,0 +1,7 @@
+id: image-metahub
+name: Image Metahub
+website: https://imagemetahub.com/
+aur:
+- image-metahub-bin
+electron: 38.8.6
+method: aur-depends

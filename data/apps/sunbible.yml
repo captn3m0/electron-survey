@@ -1,0 +1,7 @@
+id: sunbible
+name: Sunbible
+website: https://sunbible.near.page/
+aur:
+- sunbible
+electron: 23.3.13
+method: aur-depends

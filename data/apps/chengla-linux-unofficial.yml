@@ -1,0 +1,8 @@
+id: chengla-linux-unofficial
+name: Chengla Linux Unofficial
+website: https://github.com/pokon548/chengla-for-linux
+repository: https://github.com/pokon548/chengla-for-linux
+aur:
+- chengla-linux-unofficial-bin
+electron: 27.3.11
+method: aur-depends

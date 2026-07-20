@@ -1,0 +1,8 @@
+id: notely
+name: Notely
+website: https://github.com/Bilal-Belli/Notely
+repository: https://github.com/Bilal-Belli/Notely
+aur:
+- notely-git
+electron: 27.3.11
+method: aur-depends

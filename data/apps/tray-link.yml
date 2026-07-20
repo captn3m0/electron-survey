@@ -1,0 +1,8 @@
+id: tray-link
+name: Tray Link
+website: https://github.com/thejoaov/tray-link
+repository: https://github.com/thejoaov/tray-link
+aur:
+- tray-link-bin
+electron: 33.4.11
+method: aur-depends

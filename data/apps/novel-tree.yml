@@ -1,0 +1,8 @@
+id: novel-tree
+name: Novel Tree
+website: https://github.com/novel-tree/novel-tree-desktop
+repository: https://github.com/novel-tree/novel-tree-desktop
+aur:
+- novel-tree-desktop-git
+electron: 30.5.1
+method: aur-depends

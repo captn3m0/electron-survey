@@ -1,0 +1,7 @@
+id: frogtalk
+name: Frogtalk
+website: https://frogtalk.xyz/
+aur:
+- frogtalk-bin
+electron: 41.10.2
+method: aur-depends

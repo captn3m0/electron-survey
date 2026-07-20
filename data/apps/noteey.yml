@@ -1,0 +1,6 @@
+id: noteey
+name: Noteey
+website: https://github.com/andyyoungm/muenzo
+repository: https://github.com/andyyoungm/muenzo
+aur:
+- noteey-bin

@@ -1,0 +1,7 @@
+id: aniflix
+name: Aniflix
+website: https://aniflix.lamaau.space/
+aur:
+- aniflix-bin
+electron: 23.3.13
+method: aur-depends

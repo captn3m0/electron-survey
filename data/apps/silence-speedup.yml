@@ -1,0 +1,7 @@
+id: silence-speedup
+name: Silence Speedup
+website: https://vincenzopadula.altervista.org/silence-speedup/
+aur:
+- silence-speedup-bin
+electron: 34.5.8
+method: aur-depends

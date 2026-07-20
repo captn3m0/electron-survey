@@ -1,0 +1,7 @@
+id: odoo-manager
+name: Odoo Manager
+website: https://odoo.webgraphix.online/
+aur:
+- odoo-manager-bin
+electron: 35.7.5
+method: aur-depends

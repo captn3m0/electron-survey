@@ -1,0 +1,8 @@
+id: agendapp
+name: Agendapp
+website: https://github.com/johan-perso/agendapp
+repository: https://github.com/johan-perso/agendapp
+aur:
+- agendapp
+electron: 39.8.10
+method: aur-depends

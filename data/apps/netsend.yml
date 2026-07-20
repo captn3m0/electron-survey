@@ -1,0 +1,8 @@
+id: netsend
+name: Netsend
+website: https://github.com/williamnie/netSend
+repository: https://github.com/williamnie/netSend
+aur:
+- netsend-bin
+electron: 21.4.4
+method: aur-depends

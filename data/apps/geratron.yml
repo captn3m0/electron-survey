@@ -1,0 +1,8 @@
+id: geratron
+name: Geratron
+website: https://github.com/thiagowaib/geratron
+repository: https://github.com/thiagowaib/geratron
+aur:
+- geratron-git
+electron: 32.3.3
+method: aur-depends

@@ -1,0 +1,6 @@
+id: meteorman
+name: Meteorman
+website: https://github.com/harryadel/meteorman
+repository: https://github.com/harryadel/meteorman
+aur:
+- meteorman

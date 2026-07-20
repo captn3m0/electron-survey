@@ -1,0 +1,8 @@
+id: flare-player
+name: Flare Player
+website: https://github.com/jooy2/flaru
+repository: https://github.com/jooy2/flaru
+aur:
+- flare-player-bin
+electron: 35.7.5
+method: aur-depends

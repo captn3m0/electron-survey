@@ -1,0 +1,7 @@
+id: paradise-pi
+name: Paradise Pi
+website: https://paradise-pi.github.io/ParadisePi/
+aur:
+- paradise-pi-bin
+electron: 24.8.8
+method: aur-depends

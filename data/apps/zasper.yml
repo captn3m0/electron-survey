@@ -1,0 +1,9 @@
+id: zasper
+name: Zasper
+website: https://zasper.io/
+aur:
+- zasper-bin
+additionalAUR:
+- zasper-git
+electron: 40.10.6
+method: aur-depends

@@ -1,0 +1,7 @@
+id: flb-music-player
+name: Flb Music Player
+website: https://flbmusic.xyz/
+aur:
+- flb-music-player-bin
+electron: 13.6.9
+method: aur-depends

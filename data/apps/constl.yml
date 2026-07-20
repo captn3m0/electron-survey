@@ -1,0 +1,7 @@
+id: constl
+name: Constl
+website: https://appli.réseau-constellation.ca/
+aur:
+- constl-bin
+electron: 37.10.3
+method: aur-depends

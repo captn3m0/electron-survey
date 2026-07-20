@@ -1,0 +1,15 @@
+id: listen1-desktop-bin
+name: Listen1
+website: http://listen1.github.io/listen1
+aur:
+- listen1-git
+packages:
+- url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/Listen1_2.33.0_mac_arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+repository: https://github.com/listen1/listen1_desktop
+additionalAUR:
+- listen1-desktop-bin
+- listen1-desktop-git
+- listen1-desktop

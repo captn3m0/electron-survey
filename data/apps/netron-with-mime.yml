@@ -1,0 +1,7 @@
+id: netron-with-mime
+name: Netron With Mime
+website: https://netron.app/
+aur:
+- netron-with-mime-bin
+electron: 42.7.0
+method: aur-depends

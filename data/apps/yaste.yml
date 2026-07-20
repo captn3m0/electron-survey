@@ -1,0 +1,8 @@
+id: yaste
+name: Yaste
+website: https://github.com/LuanRoger/yaste
+repository: https://github.com/LuanRoger/yaste
+aur:
+- yaste-git
+electron: 31.7.7
+method: aur-depends

@@ -1,0 +1,11 @@
+id: prepros
+name: Prepros
+website: https://prepros.io
+aur:
+- prepros-bin
+packages:
+- url: https://downloads.prepros.io/v7/7.39.0/Prepros-Mac-7.39.0.zip
+  format: zip
+  os: macos
+electron: 25.9.8
+method: aur-depends

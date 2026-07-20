@@ -1,0 +1,7 @@
+id: mterm
+name: Mterm
+website: https://mterm.io/
+aur:
+- mterm-bin
+electron: 28.3.3
+method: aur-depends

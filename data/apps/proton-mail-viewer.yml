@@ -1,0 +1,8 @@
+id: proton-mail-viewer
+name: Proton Mail Viewer
+website: https://github.com/moba1/proton-mail-viewer
+repository: https://github.com/moba1/proton-mail-viewer
+aur:
+- proton-mail-viewer
+electron: 26.6.10
+method: aur-depends

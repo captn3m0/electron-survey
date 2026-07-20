@@ -1,0 +1,13 @@
+id: beaver-notes
+name: Beaver Notes
+website: https://www.beavernotes.com/
+aur:
+- beaver-notes
+packages:
+- url: https://github.com/Beaver-Notes/Beaver-Notes/releases/download/4.4.0/Beaver-notes-4.4.0-universal.dmg
+  format: dmg
+  os: macos
+additionalAUR:
+- beaver-notes-git
+electron: 39.8.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: penpot
+name: Penpot
+website: https://github.com/author-more/penpot-desktop
+repository: https://github.com/author-more/penpot-desktop
+aur:
+- penpot-desktop-bin
+electron: 42.7.0
+method: aur-depends

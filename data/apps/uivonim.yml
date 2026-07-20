@@ -1,0 +1,9 @@
+id: uivonim
+name: Uivonim
+website: https://github.com/smolck/uivonim
+repository: https://github.com/smolck/uivonim
+aur:
+- uivonim
+additionalAUR:
+- uivonim-bin
+- uivonim-git

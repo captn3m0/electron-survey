@@ -1,0 +1,8 @@
+id: easy-player
+name: Easy Player
+website: https://github.com/CmarThaa/music_player
+repository: https://github.com/CmarThaa/music_player
+aur:
+- easy-player
+electron: 25.9.8
+method: aur-depends

@@ -1,0 +1,8 @@
+id: tyrogit-client
+name: Tyrogit Client
+website: https://github.com/TheMaxium69/TyroGit
+repository: https://github.com/TheMaxium69/TyroGit
+aur:
+- tyrogit-client-git
+electron: 21.4.4
+method: aur-depends

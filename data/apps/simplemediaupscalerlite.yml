@@ -1,0 +1,7 @@
+id: simplemediaupscalerlite
+name: Simplemediaupscalerlite
+website: https://janishutz.com/projects/smuL
+aur:
+- simplemediaupscalerlite-bin
+electron: 24.8.8
+method: aur-depends

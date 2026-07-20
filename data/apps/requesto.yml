@@ -1,0 +1,7 @@
+id: requesto
+name: Requesto
+website: https://requesto.com.au/
+aur:
+- requesto-bin
+electron: 42.7.0
+method: aur-depends

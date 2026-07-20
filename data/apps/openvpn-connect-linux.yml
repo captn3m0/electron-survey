@@ -1,0 +1,8 @@
+id: openvpn-connect-linux
+name: Openvpn Connect Linux
+website: https://github.com/dresden196/openvpn-connect-linux
+repository: https://github.com/dresden196/openvpn-connect-linux
+aur:
+- openvpn-connect-linux
+electron: 37.10.3
+method: aur-depends

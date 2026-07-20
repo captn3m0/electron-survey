@@ -1,0 +1,8 @@
+id: miru-viewer
+name: Miru Viewer
+website: https://github.com/ytakahashi/miru
+repository: https://github.com/ytakahashi/miru
+aur:
+- miru-viewer-git
+electron: 40.10.6
+method: aur-depends

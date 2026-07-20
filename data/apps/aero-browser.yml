@@ -1,0 +1,10 @@
+id: aero-browser
+name: Aero Browser
+website: https://aero-mymeiy532-frostbreker.vercel.app/
+aur:
+- aero-browser
+additionalAUR:
+- aero-browser-bin
+- aero-browser-git
+electron: 23.3.13
+method: aur-depends

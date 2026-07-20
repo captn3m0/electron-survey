@@ -1,0 +1,7 @@
+id: yts-streaming
+name: Yts Streaming
+website: https://www.yts-streaming.com/
+aur:
+- yts-streaming-bin
+electron: 29.4.6
+method: aur-depends

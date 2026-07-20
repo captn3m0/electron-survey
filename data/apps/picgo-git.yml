@@ -1,0 +1,16 @@
+id: picgo-git
+name: Picgo
+website: https://molunerfinn.com/PicGo/
+aur:
+- picgo-git
+packages:
+- url: https://github.com/Molunerfinn/PicGo/releases/download/v3.0.1/PicGo-3.0.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+repository: https://github.com/Molunerfinn/PicGo
+additionalAUR:
+- picgo-electron
+- picgo-electron-bin
+electron: 38.8.6
+method: aur-depends

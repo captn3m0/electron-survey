@@ -1,0 +1,8 @@
+id: iotas-notepad
+name: Iotas Notepad
+website: https://github.com/vorlie/iotas-notepad
+repository: https://github.com/vorlie/iotas-notepad
+aur:
+- iotas-notepad-git
+electron: 39.8.10
+method: aur-depends

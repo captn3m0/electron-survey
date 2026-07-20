@@ -1,0 +1,7 @@
+id: jlc-assistant-bin
+name: Jlc Assistant
+website: https://www.jlc.com/portal/appDownloadsWithConfig.html
+aur:
+- jlc-assistant
+additionalAUR:
+- jlc-assistant-bin

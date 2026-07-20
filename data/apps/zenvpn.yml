@@ -1,0 +1,7 @@
+id: zenvpn
+name: Zenvpn
+website: https://zenvpn.net
+aur:
+- zenvpn
+electron: 25.9.8
+method: aur-depends

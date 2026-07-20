@@ -1,0 +1,7 @@
+id: chat2db
+name: Chat2db
+website: https://chat2db.ai/
+aur:
+- chat2db-bin
+electron: 22.3.27
+method: aur-depends

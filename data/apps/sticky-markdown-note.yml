@@ -1,0 +1,8 @@
+id: sticky-markdown-note
+name: Sticky Markdown Note
+website: https://github.com/seongmini/sticky-markdown-note
+repository: https://github.com/seongmini/sticky-markdown-note
+aur:
+- sticky-markdown-note-git
+electron: 29.4.6
+method: aur-depends

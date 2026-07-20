@@ -1,0 +1,12 @@
+id: outerbase-studio
+name: Outerbase Studio
+website: https://github.com/outerbase/studio-desktop
+repository: https://github.com/outerbase/studio-desktop
+aur:
+- outerbase-studio-desktop-bin
+packages:
+- url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.dmg
+  format: dmg
+  os: macos
+electron: 30.5.1
+method: aur-depends

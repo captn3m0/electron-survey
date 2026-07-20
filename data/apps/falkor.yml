@@ -1,0 +1,7 @@
+id: falkor
+name: Falkor
+website: https://falkor.moe
+aur:
+- falkor-bin
+electron: 35.7.5
+method: aur-depends

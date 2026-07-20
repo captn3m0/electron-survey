@@ -1,0 +1,7 @@
+id: soundsync
+name: Soundsync
+website: https://soundsync.app/
+aur:
+- soundsync-bin
+electron: 15.5.7
+method: aur-depends

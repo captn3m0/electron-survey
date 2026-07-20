@@ -1,0 +1,8 @@
+id: tithree
+name: Tithree
+website: https://github.com/wpwwhimself/tithree
+repository: https://github.com/wpwwhimself/tithree
+aur:
+- tithree
+electron: 25.9.8
+method: aur-depends

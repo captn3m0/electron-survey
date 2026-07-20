@@ -1,0 +1,8 @@
+id: xresconv
+name: Xresconv
+website: https://github.com/xresloader/xresconv-gui
+repository: https://github.com/xresloader/xresconv-gui
+aur:
+- xresconv-gui-bin
+electron: 41.10.2
+method: aur-depends

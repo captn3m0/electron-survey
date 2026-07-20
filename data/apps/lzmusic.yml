@@ -1,0 +1,7 @@
+id: lzmusic
+name: Lzmusic
+website: https://lzmusic.nanhaiblog.top/
+aur:
+- lzmusic-bin
+electron: 40.10.6
+method: aur-depends

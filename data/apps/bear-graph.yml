@@ -1,0 +1,8 @@
+id: bear-graph
+name: Bear Graph
+website: https://github.com/Chuckleroot/bear-graph
+repository: https://github.com/Chuckleroot/bear-graph
+aur:
+- bear-graph
+electron: 25.9.8
+method: aur-depends

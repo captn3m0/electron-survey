@@ -1,0 +1,8 @@
+id: itime
+name: Itime
+website: https://github.com/AZCodingAccount/iTime
+repository: https://github.com/AZCodingAccount/iTime
+aur:
+- itime-git
+electron: 28.3.3
+method: aur-depends

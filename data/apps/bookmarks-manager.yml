@@ -1,0 +1,8 @@
+id: bookmarks-manager
+name: Bookmarks Manager
+website: https://github.com/Hunlongyu/bookmarks-manager
+repository: https://github.com/Hunlongyu/bookmarks-manager
+aur:
+- bookmarks-manager-bin
+electron: 15.5.7
+method: aur-depends

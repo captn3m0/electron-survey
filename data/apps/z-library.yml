@@ -1,0 +1,7 @@
+id: z-library
+name: Z Library
+website: https://articles.sk/
+aur:
+- z-library-electron
+electron: 34.5.8
+method: aur-depends

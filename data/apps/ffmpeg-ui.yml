@@ -1,0 +1,8 @@
+id: ffmpeg-ui
+name: Ffmpeg UI
+website: https://github.com/VenRoot/ffmpeg-ui
+repository: https://github.com/VenRoot/ffmpeg-ui
+aur:
+- ffmpeg-ui
+electron: 42.7.0
+method: aur-depends

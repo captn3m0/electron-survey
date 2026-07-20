@@ -1,0 +1,7 @@
+id: spool
+name: Spool
+website: https://spool.pro/
+aur:
+- spool-bin
+electron: 43.1.1
+method: aur-depends

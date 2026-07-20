@@ -1,0 +1,8 @@
+id: overlay-spirit
+name: Overlay Spirit
+website: https://github.com/Rahul-Sahani04/overlay-spirit
+repository: https://github.com/Rahul-Sahani04/overlay-spirit
+aur:
+- overlay-spirit-git
+electron: 32.3.3
+method: aur-depends

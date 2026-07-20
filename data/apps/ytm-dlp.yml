@@ -1,0 +1,10 @@
+id: ytm-dlp
+name: Ytm Dlp
+website: https://github.com/RENOMIZER/ytm-dlp-gui
+repository: https://github.com/RENOMIZER/ytm-dlp-gui
+aur:
+- ytm-dlp-gui
+additionalAUR:
+- ytm-dlp-gui-bin
+electron: 26.6.10
+method: aur-depends

@@ -1,0 +1,8 @@
+id: yaradio-yamusic
+name: Yaradio Yamusic
+website: https://github.com/dedpnd/yaradio-yamusic
+repository: https://github.com/dedpnd/yaradio-yamusic
+aur:
+- yaradio-yamusic-bin
+electron: 9.4.4
+method: aur-depends

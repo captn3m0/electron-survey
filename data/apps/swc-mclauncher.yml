@@ -1,0 +1,9 @@
+id: swc-mclauncher
+name: Swc Mclauncher
+website: https://projects.software-city.org/p/mc-launcher
+aur:
+- swc-mclauncher-bin
+additionalAUR:
+- swc-ytdownloader-bin
+electron: 28.3.3
+method: aur-depends

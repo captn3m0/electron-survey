@@ -1,0 +1,9 @@
+id: electron-notes
+name: Electron Notes
+website: https://snapcraft.io/web-notes
+aur:
+- electron-notes-git
+additionalAUR:
+- whatsapp-desktop-client-git
+electron: 25.9.8
+method: aur-depends

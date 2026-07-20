@@ -1,0 +1,8 @@
+id: icloud-notes
+name: Icloud Notes
+website: https://github.com/swe-himelrana/icloud-notes
+repository: https://github.com/swe-himelrana/icloud-notes
+aur:
+- icloud-notes-git
+electron: 30.5.1
+method: aur-depends

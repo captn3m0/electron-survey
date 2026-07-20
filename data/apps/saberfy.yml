@@ -1,0 +1,8 @@
+id: saberfy
+name: Saberfy
+website: https://github.com/LoliE1ON/Saberfy
+repository: https://github.com/LoliE1ON/Saberfy
+aur:
+- saberfy
+electron: 16.2.8
+method: aur-depends

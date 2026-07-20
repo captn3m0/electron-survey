@@ -1,0 +1,6 @@
+id: freellmapi
+name: Freellmapi
+website: https://github.com/tashfeenahmed/freellmapi
+repository: https://github.com/tashfeenahmed/freellmapi
+aur:
+- freellmapi-desktop-git

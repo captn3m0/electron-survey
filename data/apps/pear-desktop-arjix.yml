@@ -1,0 +1,8 @@
+id: pear-desktop-arjix
+name: Pear Desktop Arjix
+website: https://github.com/ArjixWasTaken/pear-desktop
+repository: https://github.com/ArjixWasTaken/pear-desktop
+aur:
+- pear-desktop-arjix-git
+electron: 40.10.6
+method: aur-depends

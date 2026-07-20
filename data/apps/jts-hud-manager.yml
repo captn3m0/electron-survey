@@ -1,0 +1,8 @@
+id: jts-hud-manager
+name: Jts Hud Manager
+website: https://github.com/JohnTimmermann/JTs-Hud-Manager
+repository: https://github.com/JohnTimmermann/JTs-Hud-Manager
+aur:
+- jts-hud-manager-git
+electron: 39.8.10
+method: aur-depends

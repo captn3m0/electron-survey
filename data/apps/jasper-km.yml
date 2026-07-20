@@ -1,0 +1,8 @@
+id: jasper-km
+name: Jasper Km
+website: https://github.com/cjmalloy/jasper-app
+repository: https://github.com/cjmalloy/jasper-app
+aur:
+- jasper-km-bin
+electron: 43.1.1
+method: aur-depends

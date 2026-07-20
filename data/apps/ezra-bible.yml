@@ -1,0 +1,6 @@
+id: ezra-bible
+name: Ezra Bible
+website: https://github.com/ezra-bible-app/ezra-bible-app
+repository: https://github.com/ezra-bible-app/ezra-bible-app
+aur:
+- ezra-bible-app-git

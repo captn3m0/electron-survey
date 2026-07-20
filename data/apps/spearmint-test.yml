@@ -1,0 +1,7 @@
+id: spearmint-test
+name: Spearmint Test
+website: https://www.spearmintjs.com/
+aur:
+- spearmint-test-bin
+electron: 24.8.8
+method: aur-depends

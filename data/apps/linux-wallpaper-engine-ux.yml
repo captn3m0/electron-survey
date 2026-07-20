@@ -1,0 +1,8 @@
+id: linux-wallpaper-engine-ux
+name: Linux Wallpaper Engine UX
+website: https://github.com/jagrat7/linux-wallpaper-engine
+repository: https://github.com/jagrat7/linux-wallpaper-engine
+aur:
+- linux-wallpaper-engine-ux
+electron: 39.8.10
+method: aur-depends

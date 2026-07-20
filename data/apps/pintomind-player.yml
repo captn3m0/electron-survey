@@ -1,0 +1,8 @@
+id: pintomind-player
+name: Pintomind Player
+website: https://github.com/favo/electron-player
+repository: https://github.com/favo/electron-player
+aur:
+- pintomind-player-git
+electron: 33.4.11
+method: aur-depends

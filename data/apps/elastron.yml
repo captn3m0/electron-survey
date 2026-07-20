@@ -1,0 +1,7 @@
+id: elastron
+name: Elastron
+website: https://elastron.eney.solutions/
+aur:
+- elastron-bin
+electron: 41.10.2
+method: aur-depends

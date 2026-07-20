@@ -1,0 +1,8 @@
+id: nuclia-sync-agent
+name: Nuclia Sync Agent
+website: https://github.com/nuclia/sync-agent
+repository: https://github.com/nuclia/sync-agent
+aur:
+- nuclia-sync-agent-bin
+electron: 40.10.6
+method: aur-depends

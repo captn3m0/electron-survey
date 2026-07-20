@@ -1,0 +1,8 @@
+id: noteminder
+name: Noteminder
+website: https://github.com/hypn05/NoteMinder
+repository: https://github.com/hypn05/NoteMinder
+aur:
+- noteminder-bin
+electron: 27.3.11
+method: aur-depends

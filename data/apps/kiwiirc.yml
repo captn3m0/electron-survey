@@ -1,0 +1,7 @@
+id: kiwiirc
+name: Kiwiirc
+website: https://kiwiirc.com/
+aur:
+- kiwiirc-desktop-bin
+electron: 25.9.8
+method: aur-depends

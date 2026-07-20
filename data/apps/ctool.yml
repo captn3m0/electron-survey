@@ -1,0 +1,7 @@
+id: ctool
+name: Ctool
+website: https://ctool.dev
+aur:
+- ctool-electron-bin
+electron: 26.6.10
+method: aur-depends

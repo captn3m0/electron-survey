@@ -1,0 +1,8 @@
+id: joystick
+name: Joystick
+website: https://github.com/zenineasa/joystick
+repository: https://github.com/zenineasa/joystick
+aur:
+- joystick-bin
+electron: 32.3.3
+method: aur-depends

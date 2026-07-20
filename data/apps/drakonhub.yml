@@ -1,0 +1,8 @@
+id: drakonhub
+name: Drakonhub
+website: https://github.com/stepan-mitkin/drakonhub_desktop
+repository: https://github.com/stepan-mitkin/drakonhub_desktop
+aur:
+- drakonhub-bin
+electron: 32.3.3
+method: aur-depends

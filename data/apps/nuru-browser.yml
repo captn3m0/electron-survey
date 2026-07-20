@@ -1,0 +1,8 @@
+id: nuru-browser
+name: Nuru Browser
+website: https://github.com/ackimcu/Nuru-Browser
+repository: https://github.com/ackimcu/Nuru-Browser
+aur:
+- nuru-browser-bin
+electron: 38.8.6
+method: aur-depends

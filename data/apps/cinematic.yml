@@ -1,0 +1,9 @@
+id: cinematic
+name: Cinematic
+website: http://gh.lacymorrow.com/cinematic/
+aur:
+- cinematic-bin
+additionalAUR:
+- cinematic-git
+electron: 40.10.6
+method: aur-depends

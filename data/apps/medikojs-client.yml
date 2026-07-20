@@ -1,0 +1,8 @@
+id: medikojs-client
+name: Medikojs Client
+website: https://github.com/rafalhogent/medikoJs
+repository: https://github.com/rafalhogent/medikoJs
+aur:
+- medikojs-client-bin
+electron: 32.3.3
+method: aur-depends

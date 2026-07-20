@@ -1,0 +1,11 @@
+id: open-webui
+name: Open Webui
+website: https://github.com/open-webui/desktop
+repository: https://github.com/open-webui/desktop
+aur:
+- open-webui-desktop-bin
+packages:
+- url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

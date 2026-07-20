@@ -1,0 +1,6 @@
+id: webjcs
+name: Webjcs
+website: https://github.com/daniel-j/webjcs
+repository: https://github.com/daniel-j/webjcs
+aur:
+- webjcs-git

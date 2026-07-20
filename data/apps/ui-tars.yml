@@ -1,0 +1,13 @@
+id: ui-tars
+name: UI Tars
+website: https://github.com/bytedance/UI-TARS-desktop
+repository: https://github.com/bytedance/UI-TARS-desktop
+aur:
+- ui-tars-desktop-git
+packages:
+- url: https://github.com/bytedance/UI-TARS-desktop/releases/download/v0.2.4/UI-TARS-0.2.4-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+electron: 34.5.8
+method: aur-depends

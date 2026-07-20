@@ -1,0 +1,7 @@
+id: etherealengine-control-center
+name: Etherealengine Control Center
+website: https://etherealengine.org/
+aur:
+- etherealengine-control-center-bin
+electron: 23.3.13
+method: aur-depends

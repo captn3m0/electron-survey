@@ -1,0 +1,6 @@
+id: simple-claude
+name: Simple Claude
+website: https://github.com/DonutsDelivery/simple-claude-gui
+repository: https://github.com/DonutsDelivery/simple-claude-gui
+aur:
+- simple-claude-gui

@@ -1,0 +1,9 @@
+id: snippai-git
+name: Snippai
+website: https://sn.lovable.app/
+aur:
+- snippai-bin
+additionalAUR:
+- snippai-git
+electron: 34.5.8
+method: aur-depends

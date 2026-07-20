@@ -1,0 +1,7 @@
+id: neoplayer
+name: Neoplayer
+website: https://nightly.link/lucmsilva651/NeoPlayer/workflows/build/main
+aur:
+- neoplayer-bin
+electron: 41.10.2
+method: aur-depends

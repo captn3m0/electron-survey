@@ -1,0 +1,7 @@
+id: apiflow
+name: Apiflow
+website: https://apiflow.cn/
+aur:
+- apiflow-bin
+electron: 32.3.3
+method: aur-depends

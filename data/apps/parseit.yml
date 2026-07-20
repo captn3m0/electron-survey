@@ -1,0 +1,7 @@
+id: parseit
+name: Parseit
+website: https://kirillgalushko.github.io/parseit/
+aur:
+- parseit-git
+electron: 33.4.11
+method: aur-depends

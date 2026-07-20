@@ -1,0 +1,8 @@
+id: docspedia
+name: Docspedia
+website: https://github.com/docspedia/docspedia
+repository: https://github.com/docspedia/docspedia
+aur:
+- docspedia-git
+electron: 31.7.7
+method: aur-depends

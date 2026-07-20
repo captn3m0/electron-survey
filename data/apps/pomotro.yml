@@ -1,0 +1,8 @@
+id: pomotro
+name: Pomotro
+website: https://github.com/Ranork/Pomotro
+repository: https://github.com/Ranork/Pomotro
+aur:
+- pomotro
+electron: 25.9.8
+method: aur-depends

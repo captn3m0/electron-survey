@@ -1,0 +1,8 @@
+id: ntrack
+name: Ntrack
+website: https://github.com/kutay-celebi/ntracker
+repository: https://github.com/kutay-celebi/ntracker
+aur:
+- ntrack-bin
+electron: 36.9.5
+method: aur-depends

@@ -1,0 +1,8 @@
+id: pixelflow
+name: Pixelflow
+website: https://github.com/FayazK/Pixelflow
+repository: https://github.com/FayazK/Pixelflow
+aur:
+- pixelflow
+electron: 34.5.8
+method: aur-depends

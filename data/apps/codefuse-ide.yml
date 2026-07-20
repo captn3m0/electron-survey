@@ -1,0 +1,7 @@
+id: codefuse-ide
+name: Codefuse IDE
+website: https://codefuse.ai/
+aur:
+- codefuse-ide-git
+electron: 30.5.1
+method: aur-depends

@@ -1,0 +1,7 @@
+id: backend-ai
+name: Backend AI
+website: https://www.backend.ai/
+aur:
+- backend-ai-desktop-bin
+electron: 39.8.10
+method: aur-depends

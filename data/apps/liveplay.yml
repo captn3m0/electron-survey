@@ -1,0 +1,7 @@
+id: liveplay
+name: Liveplay
+website: https://tdoukinitsas.github.io/liveplay/
+aur:
+- liveplay-bin
+electron: 42.7.0
+method: aur-depends

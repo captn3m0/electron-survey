@@ -1,0 +1,8 @@
+id: bili-liveluckdraw
+name: Bili Liveluckdraw
+website: https://github.com/grtsinry43/Bili-LiveLuckDraw
+repository: https://github.com/grtsinry43/Bili-LiveLuckDraw
+aur:
+- bili-liveluckdraw-bin
+electron: 35.7.5
+method: aur-depends
