@@ -52,8 +52,7 @@ All app data lives in `data/apps/`, one YAML file per app, named `<id>.yml`.
 Each file is a dict with `id` and optional `name`, `repository`, `website`,
 `downloads`, `packages`, `aur`, `homebrew`, `electron`, `method`, `src`,
 `latest`, `dead`, etc. Loaded via `commands.load_apps()` and written via
-`commands.write_app(entry)`. `data/apps.yml` is the legacy single-file form
-that `load_apps()` migrates from on first call if `data/apps/` is missing.
+`commands.write_app(entry)`.
 
 Two flavours of download list coexist on the same entry:
 

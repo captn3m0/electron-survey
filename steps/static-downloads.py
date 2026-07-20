@@ -1,7 +1,7 @@
 """Processor that populates downloads from manually curated stable download URLs.
 
 For apps that don't distribute via GitHub releases, a ``download_urls`` key
-can be added directly to the apps.yml entry:
+can be added directly to the per-app ``data/apps/<id>.yml`` entry:
 
     download_urls:
     - url: https://example.com/downloads/linux/latest
