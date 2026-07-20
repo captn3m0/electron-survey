@@ -1,0 +1,8 @@
+id: proton-mail
+name: Proton Mail
+website: https://proton.me/mail/desktop
+repository: https://github.com/ProtonMail/inbox-desktop
+packages:
+- url: https://proton.me/download/mail/macos/1.13.3/ProtonMail-desktop.dmg
+  format: dmg
+  os: macos

@@ -1,0 +1,8 @@
+id: clickup
+name: ClickUp
+website: https://clickup.com
+packages:
+- url: https://download.todesktop.com/221003ra4tebclw/ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

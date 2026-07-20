@@ -1,0 +1,8 @@
+id: termius
+name: Termius
+website: https://termius.com
+packages:
+- url: https://autoupdate.termius.com/mac-arm64/Termius.dmg
+  format: dmg
+  os: macos
+  arch: arm64
