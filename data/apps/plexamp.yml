@@ -8,8 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 41.10.2
-method: aur-depends
+electron: 41.2.0
+method: which-electron-rg
 homebrew: plexamp
 downloads:
 - url: https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp-4.13.2-arm64.dmg

@@ -17,4 +17,4 @@ packages:
 aur:
 - portmaster-bin
 - portmaster-legacy-bin
-we_tried: urls:31b505e989de
+we_tried: we1.2.1:urls:31b505e989de

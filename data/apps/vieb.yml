@@ -30,7 +30,7 @@ packages:
 aur:
 - vieb
 electron: 43.1.1
-method: aur-depends
+method: which-electron-rg
 homebrew: vieb
 downloads:
 - name: vieb-12.10.0-aarch64.pacman

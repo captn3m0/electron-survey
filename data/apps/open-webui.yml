@@ -56,9 +56,6 @@ downloads:
   url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_arm64.deb
 - name: open-webui_x86_64.AppImage
   url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_x86_64.AppImage
-- url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64.dmg
-  name: open-webui-arm64.dmg
-  version: 0.0.20
 homebrew: open-webui
 electron: 39.8.2
 method: src-package-lock

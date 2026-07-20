@@ -10,8 +10,8 @@ packages:
   arch: arm64
 additionalAUR:
 - requestly-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.4.1
+method: which-electron-rg
 homebrew: requestly
 downloads:
 - url: https://github.com/requestly/requestly-desktop-app/releases/download/v26.6.29/Requestly-26.6.29-arm64.dmg

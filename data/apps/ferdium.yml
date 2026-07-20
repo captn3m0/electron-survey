@@ -38,8 +38,8 @@ aur:
 - ferdium-git
 - ferdium-nightly
 - ferdium-nightly-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.6.0
+method: which-electron-rg
 homebrew: ferdium
 downloads:
 - name: Ferdium-linux-7.1.2-aarch64.rpm

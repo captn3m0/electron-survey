@@ -10,3 +10,5 @@ downloads:
 - url: https://electron.descript.com/Descript-114.0.4-release.20250509.32955-arm64.dmg
   name: Descript-114.0.4-release.20250509.32955-arm64.dmg
   version: 114.0.4-release.20250509.32955
+electron: 20.0.2
+method: which-electron-rg

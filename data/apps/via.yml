@@ -8,8 +8,8 @@ packages:
 - url: https://github.com/the-via/releases/releases/download/v3.0.0/via-3.0.0-mac.dmg
   format: dmg
   os: macos
-electron: 33.4.11
-method: aur-depends
+electron: 33.0.1
+method: which-electron-rg
 latest: v2026.5.18
 src: https://github.com/cebby2420/via-desktop/archive/refs/tags/v2026.5.18.zip
 downloads:
@@ -37,7 +37,4 @@ downloads:
   url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop_2026.5.18_amd64.deb
 - name: via_desktop-2026.5.18-full.nupkg
   url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via_desktop-2026.5.18-full.nupkg
-- url: https://github.com/the-via/releases/releases/download/v3.0.0/via-3.0.0-mac.dmg
-  name: via-3.0.0-mac.dmg
-  version: 3.0.0
 homebrew: via

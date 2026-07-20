@@ -38,9 +38,6 @@ downloads:
   url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/latest.yml
 - name: release-checksum-v1.16.11.txt
   url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/release-checksum-v1.16.11.txt
-- url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.dmg
-  name: mac-Augur-1.16.11.dmg
-  version: 1.16.11
 homebrew: augur
 electron: 3.1.0
 method: src-package-lock

@@ -21,8 +21,8 @@ packages:
   arch: x64
 aur:
 - restfox-bin
-electron: 29.4.6
-method: aur-depends
+electron: 29.4.2
+method: which-electron-rg
 homebrew: restfox
 downloads:
 - name: RELEASES

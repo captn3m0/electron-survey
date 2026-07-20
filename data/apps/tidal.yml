@@ -13,3 +13,5 @@ packages:
   os: macos
   arch: arm64
 name: TIDAL
+electron: 39.8.0
+method: which-electron-rg

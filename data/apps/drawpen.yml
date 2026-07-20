@@ -9,8 +9,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 40.10.6
-method: aur-depends
+electron: 40.4.0
+method: which-electron-rg
 latest: v0.0.53
 src: https://github.com/DmytroVasin/DrawPen/archive/refs/tags/v0.0.53.zip
 downloads:
@@ -40,7 +40,4 @@ downloads:
   url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen_0.0.53_amd64.deb
 - name: RELEASES
   url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/RELEASES
-- url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-0.0.53-arm64.dmg
-  name: DrawPen-0.0.53-arm64.dmg
-  version: 0.0.53
 homebrew: drawpen

@@ -3,8 +3,8 @@ name: Pgadmin4 Desktop Native
 website: https://www.pgadmin.org/
 aur:
 - pgadmin4-desktop-native
-electron: 34.5.8
-method: aur-depends
+electron: 42.3.3
+method: which-electron-rg
 homebrew: pgadmin4
 downloads:
 - url: https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v9.16/macos/pgadmin4-9.16-arm64.dmg

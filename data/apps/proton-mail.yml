@@ -39,7 +39,6 @@ downloads:
   url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/RELEASES
 - name: RELEASES.json
   url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/RELEASES.json
-- url: https://proton.me/download/mail/macos/1.13.3/ProtonMail-desktop.dmg
-  name: ProtonMail-desktop.dmg
-  version: 1.13.3
 homebrew: proton-mail
+electron: 29.0.1
+method: which-electron-rg

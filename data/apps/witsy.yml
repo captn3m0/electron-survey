@@ -4,8 +4,8 @@ website: https://witsyai.com/
 packages: []
 aur:
 - witsy-git
-electron: 38.8.6
-method: aur-depends
+electron: 38.2.0
+method: which-electron-rg
 homebrew: witsy
 downloads:
 - url: https://github.com/Kochava-Studios/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-arm64.dmg

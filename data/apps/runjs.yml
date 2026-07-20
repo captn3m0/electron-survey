@@ -2,8 +2,8 @@ id: runjs
 website: https://runjs.app
 aur:
 - runjs-electron-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.6.1
+method: which-electron-rg
 homebrew: runjs
 downloads:
 - url: https://github.com/lukehaas/RunJS/releases/download/v3.2.2/RunJS-3.2.2-universal.dmg

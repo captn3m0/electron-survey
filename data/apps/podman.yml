@@ -8,8 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 42.7.0
-method: aur-depends
+electron: 42.3.3
+method: which-electron-rg
 homebrew: podman-desktop
 downloads:
 - url: https://github.com/containers/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-arm64.dmg

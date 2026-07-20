@@ -28,23 +28,23 @@ aur:
 - dyad-git
 homebrew: dyad
 downloads:
-- name: dyad-1.7.0-1.x86_64.rpm
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad-1.7.0-1.x86_64.rpm
-- name: dyad-1.7.0-full.nupkg
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad-1.7.0-full.nupkg
-- name: dyad-1.7.0.Setup.exe
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad-1.7.0.Setup.exe
-- name: dyad-darwin-arm64-1.7.0.zip
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad-darwin-arm64-1.7.0.zip
-- name: dyad-darwin-x64-1.7.0.zip
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad-darwin-x64-1.7.0.zip
-- name: dyad_1.7.0_amd64.deb
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad_1.7.0_amd64.deb
-- name: dyad_1.7.0_x86_64.AppImage
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/dyad_1.7.0_x86_64.AppImage
+- name: dyad-1.8.0-1.x86_64.rpm
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad-1.8.0-1.x86_64.rpm
+- name: dyad-1.8.0-full.nupkg
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad-1.8.0-full.nupkg
+- name: dyad-1.8.0.Setup.exe
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad-1.8.0.Setup.exe
+- name: dyad-darwin-arm64-1.8.0.zip
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad-darwin-arm64-1.8.0.zip
+- name: dyad-darwin-x64-1.8.0.zip
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad-darwin-x64-1.8.0.zip
+- name: dyad_1.8.0_amd64.deb
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad_1.8.0_amd64.deb
+- name: dyad_1.8.0_x86_64.AppImage
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad_1.8.0_x86_64.AppImage
 - name: RELEASES
-  url: https://github.com/dyad-sh/dyad/releases/download/v1.7.0/RELEASES
+  url: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/RELEASES
 electron: 40.0.0
 method: which-electron-rg
-latest: v1.7.0
-src: https://github.com/dyad-sh/dyad/archive/refs/tags/v1.7.0.zip
+latest: v1.8.0
+src: https://github.com/dyad-sh/dyad/archive/refs/tags/v1.8.0.zip

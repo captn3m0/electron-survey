@@ -11,8 +11,8 @@ packages:
 additionalAUR:
 - pocket-casts-linux
 - pocket-casts-linux-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.4.0
+method: which-electron-rg
 latest: v0.13.0
 src: https://github.com/felicianotech/pocket-casts-desktop-app/archive/refs/tags/v0.13.0.zip
 downloads:
@@ -28,7 +28,4 @@ downloads:
   url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts_0.13.0_amd64.deb
 - name: pocket-casts_0.13.0_arm64.deb
   url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts_0.13.0_arm64.deb
-- url: https://cdn.a8c-ci.services/pocket-casts-desktop/pocket-casts-desktop-darwin-universal-v2.4.1.dmg
-  name: pocket-casts-desktop-darwin-universal-v2.4.1.dmg
-  version: 2.4.1
 homebrew: pocket-casts

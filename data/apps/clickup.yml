@@ -15,3 +15,5 @@ downloads:
 - url: https://download.todesktop.com/221003ra4tebclw/ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
   name: ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
   version: 3.5.230,260616wecrh5vza
+electron: 41.2.0
+method: which-electron-rg

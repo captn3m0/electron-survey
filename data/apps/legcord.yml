@@ -37,8 +37,8 @@ packages:
   arch: arm64
 aur:
 - legcord-bin
-electron: 41.10.2
-method: aur-depends
+electron: 41.2.0
+method: which-electron-rg
 homebrew: legcord
 downloads:
 - name: app.legcord.Legcord.metainfo.xml

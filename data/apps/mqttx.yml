@@ -32,8 +32,8 @@ aur:
 - mqttx-bin
 - mqttx-clean-bin
 - mqttx-git
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 homebrew: mqttx
 downloads:
 - name: builder-debug.yml

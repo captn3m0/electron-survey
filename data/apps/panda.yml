@@ -17,7 +17,5 @@ downloads:
   url: https://github.com/GHchenjingqi/panda/releases/download/v1.1.9/panda-app.Setup.1.1.9.exe
 - name: panda-app.Setup.1.1.9.exe.blockmap
   url: https://github.com/GHchenjingqi/panda/releases/download/v1.1.9/panda-app.Setup.1.1.9.exe.blockmap
-- url: https://github.com/pablosproject/Panda-Mac-app/releases/download/1.4.2/Panda.zip
-  name: Panda.zip
-  version: 1.4.2
 homebrew: panda
+we_tried: we1.2.1:v1.1.9

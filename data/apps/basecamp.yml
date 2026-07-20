@@ -12,3 +12,5 @@ downloads:
   name: Basecamp-5.1.4-mac.zip
   version: 5.1.4
 we_tried: we0:urls:d5bb323429c7
+electron: 42.1.0
+method: which-electron-rg

@@ -9,8 +9,8 @@ packages:
   os: macos
 additionalAUR:
 - realm-studio-git
-electron: 27.3.11
-method: aur-depends
+electron: 27.1.2
+method: which-electron-rg
 homebrew: mongodb-realm-studio
 downloads:
 - url: https://github.com/realm/realm-studio/releases/download/v15.2.1/Realm.Studio-15.2.1.dmg

@@ -7,8 +7,8 @@ aur:
 - visual-studio-code-electron-bin
 - visual-studio-code-insiders-bin
 - visual-studio-code-live-bin
-electron: 39.8.3
-method: aur-depends
+electron: 42.6.0
+method: which-electron-rg
 homebrew: visual-studio-code
 downloads:
 - url: https://update.code.visualstudio.com/1.113.0/darwin-arm64/stable

@@ -23,7 +23,4 @@ downloads:
   url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.rpm
 - name: Moebius.Setup.exe
   url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.Setup.exe
-- url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
-  name: Moebius.dmg
-  version: 1.0.29
 homebrew: moebius

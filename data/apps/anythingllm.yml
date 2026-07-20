@@ -8,7 +8,7 @@ packages:
   format: dmg
   os: macos
 electron: 31.7.7
-method: aur-depends
+method: which-electron-rg
 homebrew: anythingllm
 downloads:
 - url: https://cdn.anythingllm.com/latest/AnythingLLMDesktop-Silicon.dmg

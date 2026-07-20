@@ -39,9 +39,6 @@ downloads:
   url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-windows-1.26.6-x64-portable.7z
 - name: sparkle-windows-1.26.6-x64-setup.exe
   url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-windows-1.26.6-x64-setup.exe
-- url: https://github.com/sparkle-project/Sparkle/releases/download/2.9.4/Sparkle-2.9.4.tar.xz
-  name: Sparkle-2.9.4.tar.xz
-  version: 2.9.4
 homebrew: sparkle
 electron: 42.4.0
 method: src-pnpm-lock

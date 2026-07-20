@@ -32,8 +32,8 @@ aur:
 - bruno-bin
 - bruno-electron
 - bruno-git
-electron: 37.10.3
-method: aur-depends
+electron: 37.6.1
+method: which-electron-rg
 homebrew: bruno
 downloads:
 - name: bruno_3.5.3_aarch64_linux.rpm

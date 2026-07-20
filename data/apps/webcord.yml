@@ -41,8 +41,8 @@ packages:
   arch: x64
 aur:
 - webcord
-electron: 43.1.1
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 latest: v4.14.0
 src: https://github.com/SpacingBat3/WebCord/archive/refs/tags/v4.14.0.zip
 downloads:

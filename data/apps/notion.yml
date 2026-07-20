@@ -6,8 +6,8 @@ aur:
 - notion-calendar-electron
 - notion-calendar-electron-fixed
 - notion-git
-electron: 39.8.3
-method: aur-depends
+electron: 39.6.0
+method: which-electron-rg
 homebrew: notion
 downloads:
 - url: https://desktop-release.notion-static.com/Notion-7.9.0-arm64.dmg

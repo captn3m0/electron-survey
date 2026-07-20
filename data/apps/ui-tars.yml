@@ -9,8 +9,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 34.5.8
-method: aur-depends
+electron: 34.1.1
+method: which-electron-rg
 latest: v0.3.0
 src: https://github.com/bytedance/UI-TARS-desktop/archive/refs/tags/v0.3.0.zip
 homebrew: ui-tars

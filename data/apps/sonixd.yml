@@ -54,7 +54,4 @@ downloads:
   url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-win-x64.exe.blockmap
 - name: Sonixd-0.15.5-win-x64.zip
   url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-win-x64.zip
-- url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.dmg
-  name: Sonixd-0.15.5-mac-arm64.dmg
-  version: 0.15.5
 homebrew: sonixd

@@ -60,9 +60,6 @@ downloads:
   url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.2/latest.yml
 - name: v2.4.2_Koodo-Reader-2.4.2-x86_64.rpm
   url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.2/v2.4.2_Koodo-Reader-2.4.2-x86_64.rpm
-- url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.2/Koodo-Reader-2.4.2-arm64.dmg
-  name: Koodo-Reader-2.4.2-arm64.dmg
-  version: 2.4.2
 homebrew: koodo-reader
 electron: 34.5.8
 method: src-yarn-lock

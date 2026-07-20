@@ -11,8 +11,8 @@ aur:
 - threema-desktop-beta
 - threema-desktop-bin
 - threema-web
-electron: 37.10.3
-method: aur-depends
+electron: 37.4.0
+method: which-electron-rg
 homebrew: threema
 downloads:
 - url: https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg

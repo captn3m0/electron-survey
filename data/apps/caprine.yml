@@ -18,8 +18,8 @@ packages:
 aur:
 - caprine-bin
 - caprine-git
-electron: 29.4.6
-method: aur-depends
+electron: 29.0.1
+method: which-electron-rg
 homebrew: caprine
 downloads:
 - name: Caprine-2.61.0-arm64-mac.zip

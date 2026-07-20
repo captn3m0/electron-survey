@@ -69,3 +69,5 @@ downloads:
 we_tried: we0:v1.43.0
 latest: v1.43.0
 src: https://github.com/block/goose/archive/refs/tags/v1.43.0.zip
+electron: 41.0.0
+method: which-electron-rg

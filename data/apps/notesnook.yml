@@ -24,7 +24,7 @@ aur:
 - notesnook-electron-bin
 - notesnook-git
 electron: 37.10.3
-method: aur-depends
+method: which-electron-rg
 homebrew: notesnook
 downloads:
 - name: generated-sources.json

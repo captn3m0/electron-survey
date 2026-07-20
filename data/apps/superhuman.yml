@@ -13,3 +13,5 @@ downloads:
 - url: https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.18-arm64-latest-mac.zip
   name: Superhuman-1041.0.18-arm64-latest-mac.zip
   version: 1041.0.18
+electron: 41.6.1
+method: which-electron-rg

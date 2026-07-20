@@ -10,8 +10,8 @@ aur:
 - github-desktop
 - github-desktop-bin
 - github-desktop-zh-bin
-electron: 32.3.3
-method: aur-depends
+electron: 42.0.1
+method: which-electron-rg
 homebrew: github
 downloads:
 - url: https://desktop.githubusercontent.com/releases/3.6.3-931da4a1/GitHubDesktop-arm64.zip

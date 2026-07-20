@@ -8,8 +8,8 @@ packages:
 - url: https://hejki.org/download/ssheditor/SSHConfigEditor-112.dmg
   format: dmg
   os: macos
-electron: 33.4.11
-method: aur-depends
+electron: 33.2.1
+method: which-electron-rg
 latest: v1.0.3
 src: https://github.com/anchel/ssh-config-editor/archive/refs/tags/v1.0.3.zip
 downloads:
@@ -45,7 +45,4 @@ downloads:
   url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-windows-x64-setup.exe
 - name: ssh-config-editor-1.0.3-windows-x64-setup.exe.blockmap
   url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-windows-x64-setup.exe.blockmap
-- url: https://hejki.org/download/ssheditor/SSHConfigEditor-112.dmg
-  name: SSHConfigEditor-112.dmg
-  version: 2.6.11,112
 homebrew: ssh-config-editor

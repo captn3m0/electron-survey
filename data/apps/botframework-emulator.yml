@@ -7,8 +7,8 @@ packages:
 - url: https://github.com/Microsoft/BotFramework-Emulator/releases/download/v4.14.1/botframework-emulator-4.14.1-mac.zip
   format: zip
   os: macos
-electron: 26.6.10
-method: aur-depends
+electron: 13.6.1
+method: which-electron-rg
 homebrew: devtunnel
 downloads:
 - url: https://tunnelsassetsprod.blob.core.windows.net/cli/1.0.1972+07cc55c789/osx-arm64-devtunnel-zip

@@ -30,9 +30,6 @@ downloads:
   url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-mac-x64.dmg
 - name: Redis-Insight-win-installer.exe
   url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-win-installer.exe
-- url: https://s3.amazonaws.com/redisinsight.download/public/releases/3.6.0/Redis-Insight-mac-arm64.dmg
-  name: Redis-Insight-mac-arm64.dmg
-  version: 3.6.0
 homebrew: redis-insight
 electron: 41.7.2
 method: src-yarn-lock

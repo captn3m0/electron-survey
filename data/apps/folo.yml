@@ -24,8 +24,8 @@ aur:
 - folo-appimage
 - folo-bin
 - folo-git
-electron: 43.1.1
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 homebrew: folo
 downloads:
 - name: Folo-1.11.0-linux-x64.AppImage

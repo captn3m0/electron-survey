@@ -14,8 +14,8 @@ packages:
 aur:
 - trezor-bridge-bin
 - trezor-suite-bin
-electron: 41.10.2
-method: aur-depends
+electron: 41.3.0
+method: which-electron-rg
 latest: v26.6.1
 src: https://github.com/trezor/trezor-suite/archive/refs/tags/v26.6.1.zip
 downloads:
@@ -65,7 +65,4 @@ downloads:
   url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-win-x64.exe.asc
 - name: Trezor-Suite-26.6.1-win-x64.exe.blockmap
   url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-win-x64.exe.blockmap
-- url: https://data.trezor.io/suite/releases/desktop/latest/Trezor-Suite-26.6.1-mac-arm64.dmg
-  name: Trezor-Suite-26.6.1-mac-arm64.dmg
-  version: 26.6.1
 homebrew: trezor-suite

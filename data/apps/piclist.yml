@@ -34,8 +34,8 @@ packages:
 aur:
 - piclist
 - piclist-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 homebrew: piclist
 downloads:
 - name: latest-linux-arm64.yml

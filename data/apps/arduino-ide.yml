@@ -9,8 +9,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 30.5.1
-method: aur-depends
+electron: 30.1.2
+method: which-electron-rg
 latest: 2.3.10
 src: https://github.com/arduino/arduino-ide/archive/refs/tags/2.3.10.zip
 downloads:
@@ -38,8 +38,5 @@ downloads:
   url: https://github.com/arduino/arduino-ide/releases/download/2.3.10/stable-mac.yml
 - name: stable.yml
   url: https://github.com/arduino/arduino-ide/releases/download/2.3.10/stable.yml
-- url: https://github.com/arduino/arduino-ide/releases/download/2.3.10/arduino-ide_2.3.10_macOS_ARM64.dmg
-  name: arduino-ide_2.3.10_macOS_ARM64.dmg
-  version: 2.3.10
 homebrew: arduino-ide
 we_tried: we0:2.3.10

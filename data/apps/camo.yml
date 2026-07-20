@@ -7,4 +7,4 @@ downloads:
 - url: https://releases.reincubate.com/camo/camo-macos-2.8.1.24089.zip
   name: camo-macos-2.8.1.24089.zip
   version: 2.8.1,24089
-we_tried: urls:c6d319d65041
+we_tried: we1.2.1:urls:c6d319d65041

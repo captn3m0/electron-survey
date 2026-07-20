@@ -11,4 +11,4 @@ downloads:
   name: jamovi-2.7.24.0-macos-arm64.dmg
   version: 2.7.24.0
 name: jamovi
-we_tried: v2.7.16
+we_tried: we1.2.1:v2.7.30

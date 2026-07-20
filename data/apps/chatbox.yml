@@ -9,7 +9,7 @@ packages:
   os: macos
   arch: arm64
 electron: 35.7.5
-method: aur-depends
+method: which-electron-rg
 homebrew: chatbox
 downloads:
 - url: https://download.chatboxai.app/releases/Chatbox-1.21.1-arm64.dmg

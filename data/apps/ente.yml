@@ -8,8 +8,8 @@ packages:
 - url: https://github.com/ente-io/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.dmg
   format: dmg
   os: macos
-electron: 42.7.0
-method: aur-depends
+electron: 42.3.3
+method: which-electron-rg
 latest: v1.7.26
 src: https://github.com/ente-io/photos-desktop/archive/refs/tags/v1.7.26.zip
 downloads:
@@ -57,7 +57,4 @@ downloads:
   url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest-mac.yml
 - name: latest.yml
   url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest.yml
-- url: https://github.com/ente-io/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.dmg
-  name: ente-1.7.26-universal.dmg
-  version: 1.7.26
 homebrew: ente

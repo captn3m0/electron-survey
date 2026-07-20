@@ -29,8 +29,8 @@ packages:
   arch: arm64
 aur:
 - altair-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.2.1
+method: which-electron-rg
 homebrew: altair-graphql-client
 downloads:
 - name: altair_8.5.7_amd64_linux.deb

@@ -25,8 +25,8 @@ aur:
 - anytype-alpha-bin
 - anytype-bin
 - anytype-electron-bin
-electron: 41.10.2
-method: aur-depends
+electron: 41.5.0
+method: which-electron-rg
 homebrew: anytype
 downloads:
 - url: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype-0.55.5-mac-arm64.dmg

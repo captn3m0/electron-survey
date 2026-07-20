@@ -26,8 +26,8 @@ packages:
 aur:
 - stretchly
 - stretchly-git
-electron: 39.8.10
-method: aur-depends
+electron: 43.1.1
+method: which-electron-rg
 homebrew: stretchly
 downloads:
 - name: latest-linux-arm64.yml

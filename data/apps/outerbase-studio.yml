@@ -33,7 +33,4 @@ downloads:
   url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-setup-0.1.29.exe.blockmap
 - name: Outerbase-Studio-Linux-0.1.29.AppImage
   url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
-- url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.dmg
-  name: outerbase-mac-0.1.29.dmg
-  version: 0.1.29
 homebrew: outerbase-studio

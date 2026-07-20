@@ -54,3 +54,4 @@ downloads:
 - url: https://downloads.cursor.com/production/0fb762053c34788bb7760d5673f8a6d4c8589d52/darwin/arm64/Cursor-darwin-arm64.zip
   name: Cursor-darwin-arm64.zip
   version: 3.12.17,0fb762053c34788bb7760d5673f8a6d4c8589d52
+we_tried: we1.2.1:urls:df767f3ea373

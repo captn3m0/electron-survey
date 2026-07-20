@@ -12,3 +12,5 @@ downloads:
 - url: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.148.0-universal.dmg
   name: mendeley-reference-manager-2.148.0-universal.dmg
   version: 2.148.0
+electron: 40.6.1
+method: which-electron-rg

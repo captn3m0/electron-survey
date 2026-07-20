@@ -16,3 +16,5 @@ downloads:
 - url: https://autoupdate.termius.com/mac-arm64/Termius.dmg
   name: Termius.dmg
   version: 9.41.1
+electron: 21.4.4
+method: which-electron-rg

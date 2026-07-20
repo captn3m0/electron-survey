@@ -5,8 +5,8 @@ aur:
 - slack-desktop
 - slack-desktop-wayland
 - slack-electron
-electron: 39.8.3
-method: aur-depends
+electron: 40.8.2
+method: which-electron-rg
 homebrew: slack
 downloads:
 - url: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.48.102/Slack-4.48.102-macOS.dmg

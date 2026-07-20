@@ -21,7 +21,4 @@ downloads:
   url: https://github.com/aasmart/Nudge/releases/download/v0.6.1/Nudge_0.6.1_amd64.deb
 - name: Nudge_0.6.1_amd64.snap
   url: https://github.com/aasmart/Nudge/releases/download/v0.6.1/Nudge_0.6.1_amd64.snap
-- url: https://github.com/macadmins/nudge/releases/download/v2.1.2.81856/Nudge-2.1.2.81856.pkg
-  name: Nudge-2.1.2.81856.pkg
-  version: 2.1.2.81856
 homebrew: nudge

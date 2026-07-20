@@ -11,3 +11,5 @@ packages:
   os: macos
   arch: arm64
 name: Splice
+electron: 38.4.0
+method: which-electron-rg

@@ -8,3 +8,5 @@ downloads:
   name: WebCatalog-74.0.2-universal.dmg
   version: 74.0.2
 name: WebCatalog
+electron: 41.0.4
+method: which-electron-rg

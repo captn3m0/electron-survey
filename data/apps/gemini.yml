@@ -18,3 +18,4 @@ downloads:
 electron: 37.10.3
 method: src-range-guess
 electron_src: https://github.com/kenvandine/gemini-desktop/archive/refs/tags/0.5.0.zip
+we_tried: we1.2.1:0.5.0

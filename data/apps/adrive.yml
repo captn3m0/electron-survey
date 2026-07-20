@@ -16,3 +16,5 @@ downloads:
   name: aDrive-6.9.3-arm64.dmg
   version: 6.9.3
 we_tried: we0:urls:9de55008fedd
+electron: 24.1.3
+method: which-electron-rg

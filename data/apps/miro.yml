@@ -16,3 +16,5 @@ downloads:
 - url: https://desktop.miro.com/platforms/darwin-arm64/Install-Miro.dmg
   name: Install-Miro.dmg
   version: 0.11.160
+electron: 38.8.6
+method: which-electron-rg

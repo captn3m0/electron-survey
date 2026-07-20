@@ -19,4 +19,4 @@ downloads:
 - url: https://cdn.mullvad.net/browser/15.0.18/mullvad-browser-macos-15.0.18.dmg
   name: mullvad-browser-macos-15.0.18.dmg
   version: 15.0.18
-we_tried: urls:761ca6a68dc8
+we_tried: we1.2.1:urls:761ca6a68dc8

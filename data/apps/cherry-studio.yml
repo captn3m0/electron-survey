@@ -11,8 +11,8 @@ packages:
 additionalAUR:
 - cherry-studio-electron-bin
 - cherry-studio-git
-electron: 41.10.2
-method: aur-depends
+electron: 41.2.1
+method: which-electron-rg
 homebrew: cherry-studio
 downloads:
 - url: https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-arm64.dmg

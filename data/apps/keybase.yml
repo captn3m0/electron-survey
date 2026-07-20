@@ -19,8 +19,8 @@ aur:
 - keybase-gui
 - keybase-bin
 - keybase-git
-electron: 32.3.3
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 homebrew: keybase
 downloads:
 - url: https://prerelease.keybase.io/Keybase-arm64.dmg

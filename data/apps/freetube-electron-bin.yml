@@ -12,5 +12,5 @@ packages:
 additionalAUR:
 - freetube-electron-bin
 - freetube-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.5.2
+method: which-electron-rg

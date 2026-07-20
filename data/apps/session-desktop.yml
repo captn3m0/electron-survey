@@ -22,8 +22,8 @@ aur:
 - session-desktop
 - session-desktop-bin
 - session-desktop-git
-electron: 40.10.6
-method: aur-depends
+electron: 25.8.4
+method: which-electron-rg
 homebrew: session
 downloads:
 - name: latest-linux.yml

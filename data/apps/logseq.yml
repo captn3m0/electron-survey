@@ -22,8 +22,8 @@ packages:
 aur:
 - logseq-desktop-electron-bin
 - logseq-desktop-git
-electron: 38.8.6
-method: aur-depends
+electron: 42.3.0
+method: which-electron-rg
 homebrew: logseq
 downloads:
 - name: latest-arm64-mac.yml

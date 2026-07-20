@@ -41,8 +41,8 @@ packages:
   arch: arm64
 aur:
 - vscodium-electron-bin
-electron: 42.7.0
-method: aur-depends
+electron: 42.2.0
+method: which-electron-rg
 homebrew: vscodium
 downloads:
 - name: codium-1.126.04524-el8.aarch64.rpm

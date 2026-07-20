@@ -25,8 +25,8 @@ packages:
   arch: x64
 aur:
 - electerm
-electron: 41.10.2
-method: aur-depends
+electron: 22.3.27
+method: which-electron-rg
 homebrew: electerm
 downloads:
 - name: electerm-3.15.138-linux-aarch64-legacy.rpm

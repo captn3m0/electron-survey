@@ -62,7 +62,4 @@ downloads:
   url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/node_modules-x64.tar.gz
 - name: org.equicord.equibop.metainfo.xml
   url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/org.equicord.equibop.metainfo.xml
-- url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal.dmg
-  name: Equibop-3.2.1-universal.dmg
-  version: 3.2.1
 homebrew: equibop

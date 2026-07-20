@@ -38,3 +38,5 @@ downloads:
   url: https://github.com/workflowy/desktop/releases/download/v4.3.2607170652/WorkFlowy.zip.blockmap
 latest: v4.3.2607170652
 src: https://github.com/workflowy/desktop/archive/refs/tags/v4.3.2607170652.zip
+electron: 38.8.6
+method: which-electron-rg

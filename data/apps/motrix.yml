@@ -18,8 +18,8 @@ packages:
   arch: x64
 aur:
 - motrix-git
-electron: 22.3.27
-method: aur-depends
+electron: 22.3.7
+method: which-electron-rg
 homebrew: motrix
 downloads:
 - name: latest-linux-arm.yml

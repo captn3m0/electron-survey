@@ -43,9 +43,6 @@ downloads:
   url: https://github.com/drata/drata-agent/releases/download/3.9.0/macos-x64-osqueryi
 - name: win-x64-osqueryi.exe
   url: https://github.com/drata/drata-agent/releases/download/3.9.0/win-x64-osqueryi.exe
-- url: https://github.com/drata/agent-releases/releases/download/3.9.0/Drata-Agent-mac.dmg
-  name: Drata-Agent-mac.dmg
-  version: 3.9.0
 homebrew: drata-agent
 electron: 36.2.0
 method: src-yarn-lock

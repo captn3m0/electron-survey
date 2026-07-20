@@ -12,6 +12,28 @@ downloads:
   url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest.yml
 - name: MediaChips.v1.3.4.Linux.AppImage
   url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Linux.AppImage
+- name: MediaChips.v1.3.4.Mac.arm64.dmg
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.dmg
+- name: MediaChips.v1.3.4.Mac.arm64.dmg.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.dmg.blockmap
+- name: MediaChips.v1.3.4.Mac.arm64.zip
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.zip
+- name: MediaChips.v1.3.4.Mac.arm64.zip.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.zip.blockmap
+- name: MediaChips.v1.3.4.Mac.x64.dmg
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.dmg
+- name: MediaChips.v1.3.4.Mac.x64.dmg.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.dmg.blockmap
+- name: MediaChips.v1.3.4.Mac.x64.zip
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.zip
+- name: MediaChips.v1.3.4.Mac.x64.zip.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.zip.blockmap
+- name: MediaChips.v1.3.4.Windows.Installer.exe
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Windows.Installer.exe
+- name: MediaChips.v1.3.4.Windows.Installer.exe.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Windows.Installer.exe.blockmap
+- name: MediaChips.v1.3.4.Windows.Portable.exe
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Windows.Portable.exe
 electron: 42.5.0
 method: src-package-lock
 aur:

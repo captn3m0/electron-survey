@@ -19,9 +19,6 @@ downloads:
   url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/NookSetup.dmg.blockmap
 - name: NookSetup.exe
   url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/NookSetup.exe
-- url: https://github.com/nook-browser/Nook/releases/download/v1.0.7/Nook-v1.0.7.dmg
-  name: Nook-v1.0.7.dmg
-  version: 1.0.7
 homebrew: nook
 electron: 23.0.0
 method: src-package-lock

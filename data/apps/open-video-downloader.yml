@@ -75,6 +75,6 @@ downloads:
   url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_x64.app.tar.gz
 - name: Open.Video.Downloader_x64.app.tar.gz.sig
   url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_x64.app.tar.gz.sig
-we_tried: urls:55abb406a042
+we_tried: we1.2.1:app-v3.2.1
 latest: app-v3.2.1
 src: https://github.com/jely2002/youtube-dl-gui/archive/refs/tags/app-v3.2.1.zip

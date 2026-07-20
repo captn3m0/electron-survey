@@ -30,3 +30,5 @@ downloads:
   url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-win-5.0.7.exe
 latest: v5.0.7
 src: https://github.com/koush/vysor.io/archive/refs/tags/v5.0.7.zip
+electron: 24.3.0
+method: which-electron-rg

@@ -30,7 +30,7 @@ packages:
 aur:
 - frappe-books-bin
 electron: 22.3.27
-method: aur-depends
+method: which-electron-rg
 homebrew: frappe-books
 downloads:
 - name: Frappe-Books-v0.36.0-linux-aarch64.rpm

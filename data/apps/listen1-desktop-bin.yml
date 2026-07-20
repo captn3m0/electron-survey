@@ -62,9 +62,6 @@ downloads:
   url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_x64.exe
 - name: listen1_2.33.0_win_x64.exe.blockmap
   url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_x64.exe.blockmap
-- url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/Listen1_2.33.0_mac_arm64.dmg
-  name: Listen1_2.33.0_mac_arm64.dmg
-  version: 2.33.0
 homebrew: listen1
 electron: 32.3.2
 method: src-package-lock

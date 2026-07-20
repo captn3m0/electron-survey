@@ -8,8 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 37.10.3
-method: aur-depends
+electron: 37.7.0
+method: which-electron-rg
 homebrew: apifox
 downloads:
 - url: https://file-assets.apifox.com/download/2.8.39/Apifox-macOS-arm64-2.8.39.dmg

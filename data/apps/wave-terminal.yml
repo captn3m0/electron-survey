@@ -31,8 +31,8 @@ aur:
 - waveterm
 - waveterm-bin
 - waveterm-git
-electron: 41.10.2
-method: aur-depends
+electron: 41.1.0
+method: which-electron-rg
 homebrew: wave
 downloads:
 - name: Wave-darwin-arm64-0.14.5.dmg

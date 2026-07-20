@@ -8,8 +8,8 @@ packages:
   arch: arm64
 aur:
 - wordpress-studio-git
-electron: 39.8.10
-method: aur-depends
+electron: 41.4.0
+method: which-electron-rg
 homebrew: wordpresscom-studio
 downloads:
 - url: https://appscdn.wordpress.com/downloads/wordpress-com-studio/mac-silicon/v1.15.0/19263/update/studio-arm64-v1.15.0.zip
