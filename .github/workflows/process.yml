@@ -60,7 +60,9 @@ jobs:
         run: uv run main.py process homebrew
 
       - name: Detect Electron from source lockfiles
-        run: uv run main.py process source --source-fast
+        # No --source-fast: source.matches() already skips archives it has
+        # detected from, and re-detects when a new release advances src.
+        run: uv run main.py process source
 
       - name: Match AUR packages
         run: uv run main.py process aur

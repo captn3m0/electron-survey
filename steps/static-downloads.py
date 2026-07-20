@@ -16,6 +16,8 @@ the pipeline (binary inspection) can treat them uniformly.
 
 from typing import Any
 
+ORDER = 20
+
 
 def matches(entry: dict[str, Any]) -> bool:
     return bool(entry.get("download_urls"))

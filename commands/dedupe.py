@@ -46,6 +46,18 @@ def _upstream_ids() -> set[str]:
     return {p.name for p in APPS_DIR.iterdir() if p.is_dir()}
 
 
+def _pick_keeper(members: list[dict[str, Any]], upstream: set[str]) -> dict[str, Any]:
+    """Choose the entry to keep from a duplicate group.
+
+    Prefers an upstream entry, then the one with the most keys, then one that
+    already has a detected version, then the shorter (more canonical) id.
+    """
+    return max(
+        members,
+        key=lambda m: (m["id"] in upstream, len(m), "electron" in m, -len(m["id"])),
+    )
+
+
 @cli.command("dedupe")
 @click.option("--apply", "do_apply", is_flag=True, help="Delete redundant entries (default: dry-run).")
 def dedupe(do_apply: bool) -> None:
@@ -70,12 +82,7 @@ def dedupe(do_apply: bool) -> None:
             click.echo(f"skip (all upstream) {repo}: {[m['id'] for m in members]}")
             continue
 
-        # Keeper: upstream first, then most keys, then has a version, then the
-        # shorter (more canonical) id.
-        keeper = max(
-            members,
-            key=lambda m: (m["id"] in upstream, len(m), "electron" in m, -len(m["id"])),
-        )
+        keeper = _pick_keeper(members, upstream)
 
         for m in members:
             if m is keeper or m["id"] in upstream:

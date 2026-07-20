@@ -9,9 +9,19 @@ import click
 from commands import load_apps, write_app, cli
 
 
+_DEFAULT_ORDER = 50
+
+
 def _load_processors(processors_dir: pathlib.Path) -> dict[str, types.ModuleType]:
-    """Load all *.py files from *processors_dir*, keyed by their stem."""
-    processors: dict[str, types.ModuleType] = {}
+    """Load all *.py files from *processors_dir*, keyed by their stem.
+
+    Processors run in ascending ``ORDER`` (module attribute, default 50), ties
+    broken by stem. This makes dependencies explicit rather than relying on
+    filename sort order — e.g. ``source`` (precise lockfile detection) runs
+    before ``aur-version`` (approximate major→latest), and ``aur`` before the
+    ``aur-version`` step that consumes the ``aur`` key it sets.
+    """
+    loaded: list[types.ModuleType] = []
     for path in sorted(processors_dir.glob("*.py")):
         stem = path.stem
         spec = importlib.util.spec_from_file_location(
@@ -21,8 +31,10 @@ def _load_processors(processors_dir: pathlib.Path) -> dict[str, types.ModuleType
             continue
         module = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(module)  # type: ignore[union-attr]
-        processors[stem] = module
-    return processors
+        loaded.append(module)
+
+    loaded.sort(key=lambda m: (getattr(m, "ORDER", _DEFAULT_ORDER), pathlib.Path(m.__file__).stem))
+    return {pathlib.Path(m.__file__).stem: m for m in loaded}
 
 
 def _entry_domain(entry: dict[str, Any]) -> str | None:

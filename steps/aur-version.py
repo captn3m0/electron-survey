@@ -17,6 +17,10 @@ from typing import Any
 
 log = logging.getLogger(__name__)
 
+# Runs after aur (which sets the `aur` key this reads) and after source (so a
+# precise lockfile version is not overwritten by an approximate major guess).
+ORDER = 60
+
 META_FILE = pathlib.Path("meta/packages-meta-ext-v1.json")
 VERSIONS_FILE = pathlib.Path("data/versions.txt")
 

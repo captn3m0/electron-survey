@@ -25,6 +25,10 @@ import yaml as _yaml
 
 log = logging.getLogger(__name__)
 
+# Precise lockfile detection; runs before the approximate aur-version step so
+# an exact version wins over an AUR major→latest guess.
+ORDER = 40
+
 ZIPS_DIR = pathlib.Path("zips")
 SRC_DIR = pathlib.Path("src")
 
@@ -39,7 +43,19 @@ _SESSION = requests.Session()
 
 
 def matches(entry: dict[str, Any]) -> bool:
-    return bool(entry.get("src"))
+    if not entry.get("src"):
+        return False
+    if entry.get("electron"):
+        method = entry.get("method", "")
+        if not method.startswith("src-"):
+            # Resolved by a different (equally/more authoritative) processor —
+            # don't overwrite a which-electron / aur-depends / direct value.
+            return False
+        if entry.get("electron_src") == entry.get("src"):
+            # Already detected from this exact archive; re-detect only once the
+            # github.com processor points src at a newer release.
+            return False
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -211,10 +227,15 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         return None
     extract_dir = SRC_DIR / app_id
     try:
-        return _detect(app_id, zip_path, extract_dir)
+        result = _detect(app_id, zip_path, extract_dir)
     finally:
         if not _KEEP_SRC:
             shutil.rmtree(extract_dir, ignore_errors=True)
+    if result and "electron" in result:
+        # Record which archive this version came from so matches() can re-detect
+        # when the github.com processor advances src to a newer release.
+        result["electron_src"] = src_url
+    return result
 
 
 def _detect(app_id: str, zip_path: pathlib.Path, extract_dir: pathlib.Path) -> dict[str, Any] | None:
@@ -267,7 +288,7 @@ def _detect(app_id: str, zip_path: pathlib.Path, extract_dir: pathlib.Path) -> d
             if exact:
                 version = exact.group(1)
                 log.info("[%s] electron %s detected via package.json (exact)", app_id, version)
-                return {"electron": version}
+                return {"electron": version, "method": "src-package-json"}
             resolved = _resolve_range(rng)
             if resolved:
                 log.warning("[%s] electron version-range ONLY from package.json: %s", app_id, rng)

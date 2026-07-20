@@ -32,6 +32,9 @@ import requests
 log = logging.getLogger(__name__)
 
 AUTO = False
+# Runs last: the only processor that downloads full binaries, so every cheaper
+# metadata/source signal gets a chance to resolve the version first.
+ORDER = 90
 
 ZIPS_DIR = pathlib.Path("zips")
 # Transient scratch dir for downloaded binaries; each file is unlinked right
@@ -169,27 +172,58 @@ def _run_which_electron(file: pathlib.Path) -> dict[str, Any] | None:
         return None
 
 
+def _fingerprint_epoch() -> str:
+    """Identifier for the fingerprint database in use.
+
+    Included in the we_tried signature so that upgrading which-electron (whose
+    fingerprint DB may now recognise versions it previously couldn't) re-opens
+    every app that was marked as checked. Tracks the tool's own version when a
+    local checkout is present; override with WHICH_ELECTRON_EPOCH.
+    """
+    try:
+        import json
+        version = json.loads(pathlib.Path("which-electron/package.json").read_text()).get("version")
+        if version:
+            return f"we{version}"
+    except Exception:
+        pass
+    return os.environ.get("WHICH_ELECTRON_EPOCH", "we0")
+
+
+_EPOCH = _fingerprint_epoch()
+
+
 def _signature(entry: dict[str, Any]) -> str:
     """A stable token for the set of artefacts we'd inspect.
 
-    Changes when a new release ships (``latest`` tag) or the curated download
-    URLs change, so a previously-checked app is only re-downloaded when there
-    is genuinely something new to fingerprint.
+    Changes when the fingerprint DB is upgraded, when a new release ships
+    (``latest`` tag), or when the curated download URLs change — so a
+    previously-checked app is only re-downloaded when there is genuinely
+    something new to fingerprint.
     """
     latest = entry.get("latest")
     if latest:
-        return str(latest)
+        return f"{_EPOCH}:{latest}"
     joined = "\n".join(_candidate_urls(entry))
-    return "urls:" + hashlib.sha256(joined.encode()).hexdigest()[:12]
+    return f"{_EPOCH}:urls:" + hashlib.sha256(joined.encode()).hexdigest()[:12]
+
+
+# Methods that only approximate the bundled version: aur-depends maps an
+# `electron<major>` dependency to the latest release in that series (and for
+# proprietary apps repackaged against the distro's Electron, that isn't even
+# the vendor's bundle), and src-range-guess resolves a semver range to its
+# highest match. A binary fingerprint is ground truth, so it overrides these.
+_LOW_CONFIDENCE_METHODS = {"aur-depends", "src-range-guess"}
 
 
 def matches(entry: dict[str, Any]) -> bool:
     if entry.get("dead"):
         return False
-    if entry.get("electron"):
-        return False
     if not _candidate_urls(entry):
         return False
+    electron = entry.get("electron")
+    if electron and entry.get("method") not in _LOW_CONFIDENCE_METHODS:
+        return False  # already resolved by an exact/authoritative method
     # Skip artefacts we already fingerprinted at their current release.
     return entry.get("we_tried") != _signature(entry)
 

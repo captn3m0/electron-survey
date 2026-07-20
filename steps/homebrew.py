@@ -24,6 +24,8 @@ from urllib.parse import urlparse
 log = logging.getLogger(__name__)
 
 AUTO = False
+# Adds macOS download URLs before source / which-electron consume them.
+ORDER = 30
 
 META_FILE = pathlib.Path("meta/homebrew-casks.json")
 

@@ -5,12 +5,30 @@ its tag, a zip archive URL, and any attached release assets (with
 checksums resolved where available).
 """
 
+import logging
 import os
 import re
+import time
 from typing import Any
 from urllib.parse import urlparse
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+log = logging.getLogger(__name__)
+
+# Runs first: sets repository-derived src / downloads / latest that later
+# processors depend on.
+ORDER = 10
+
+# Longest we'll pause for a rate-limit reset before giving up on the call.
+_MAX_RATELIMIT_WAIT = int(os.environ.get("GITHUB_MAX_WAIT", "120"))
+
+
+class RateLimited(RuntimeError):
+    """Raised when the GitHub rate limit can't clear within _MAX_RATELIMIT_WAIT."""
+
 
 _SESSION = requests.Session()
 _SESSION.headers.update(
@@ -21,6 +39,48 @@ _SESSION.headers.update(
 )
 if token := os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN"):
     _SESSION.headers["Authorization"] = f"Bearer {token}"
+
+# Retry transient network / server errors with exponential backoff, honouring
+# any Retry-After header the API sends.
+_SESSION.mount(
+    "https://",
+    HTTPAdapter(
+        max_retries=Retry(
+            total=4,
+            backoff_factor=1.0,
+            status_forcelist=(500, 502, 503, 504),
+            allowed_methods=frozenset({"GET"}),
+            respect_retry_after_header=True,
+        )
+    ),
+)
+
+
+def _get(url: str, timeout: int = 15) -> requests.Response:
+    """GET *url*, transparently waiting out primary/secondary rate limits.
+
+    On a 403/429 whose headers indicate a rate limit, sleep until the reset
+    (capped at _MAX_RATELIMIT_WAIT) and retry once; raise RateLimited if the
+    wait would be longer than the cap.
+    """
+    for attempt in range(2):
+        resp = _SESSION.get(url, timeout=timeout)
+        if resp.status_code not in (403, 429):
+            return resp
+        remaining = resp.headers.get("X-RateLimit-Remaining")
+        retry_after = resp.headers.get("Retry-After")
+        if retry_after is not None:
+            wait = int(retry_after)
+        elif remaining == "0" and resp.headers.get("X-RateLimit-Reset"):
+            wait = int(resp.headers["X-RateLimit-Reset"]) - int(time.time())
+        else:
+            return resp  # a genuine 403 (e.g. private repo), not a rate limit
+        if attempt == 0 and 0 < wait <= _MAX_RATELIMIT_WAIT:
+            log.warning("GitHub rate limited on %s; sleeping %ds", url, wait)
+            time.sleep(wait + 1)
+            continue
+        raise RateLimited(f"GitHub rate limit; resets in {wait}s")
+    return resp
 
 
 def _parse_owner_repo(url: str) -> tuple[str, str] | None:
@@ -71,10 +131,13 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         return None
 
     owner, repo = parsed
-    resp = _SESSION.get(
-        f"https://api.github.com/repos/{owner}/{repo}/releases/latest",
-        timeout=15,
-    )
+    try:
+        resp = _get(f"https://api.github.com/repos/{owner}/{repo}/releases/latest")
+    except RateLimited as exc:
+        # Skip this entry for now rather than erroring the whole run; the next
+        # scheduled run picks it up once the limit resets.
+        log.warning("[%s] %s — skipping this run", entry["id"], exc)
+        return None
     if resp.status_code == 404:
         return None
     resp.raise_for_status()
@@ -88,11 +151,16 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         {"name": a["name"], "url": a["browser_download_url"]} for a in assets
     ]
 
-    # Find and parse any checksum files attached to the release
+    # Find and parse any checksum files attached to the release. Checksums are a
+    # nice-to-have, so a rate limit here just skips them — the release data above
+    # is still returned.
     checksum_map: dict[str, str] = {}
     for asset in assets:
         if re.search(r"sha(256|512|1|sums)|checksum|md5", asset["name"], re.IGNORECASE):
-            cr = _SESSION.get(asset["browser_download_url"], timeout=15)
+            try:
+                cr = _get(asset["browser_download_url"])
+            except RateLimited:
+                break
             if cr.ok:
                 checksum_map.update(_parse_checksums(cr.text))
 

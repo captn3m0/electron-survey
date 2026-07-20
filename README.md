@@ -46,3 +46,27 @@ Set `GITHUB_TOKEN` to avoid rate limiting on the github.com processor.
 - [electron/electron-apps](https://github.com/electron/electron-apps) — app registry (submodule)
 - [which-electron](https://github.com/captn3m0/which-electron)
 - [electron-fingerprints](https://github.com/captn3m0/electron-fingerprints)
+
+## Sources considered but not adopted
+
+Measured, and skipped — none exposes the bundled **Electron** version, and
+their download artefacts aren't fingerprintable by which-electron, so they add
+cost without coverage:
+
+- **Chocolatey / winget** — package `Version` is the *app* version, not
+  Electron. Chocolatey `.nupkg` files usually download the installer at
+  install time (nothing to fingerprint); winget has no lightweight package
+  index and its installer URLs mostly point back to the GitHub releases we
+  already cover.
+- **Flathub / Snap** — the API gives the app version and release date, not
+  Electron; flatpak/snap images aren't formats which-electron reads.
+- **GitLab / Codeberg source archives** — only a handful of tracked apps are
+  hosted there; not worth a dedicated processor.
+- **Scraping app websites for a repo link** — the apps still missing a
+  `repository` are overwhelmingly proprietary (no public source), so this
+  yields almost nothing. For these the only signal is which-electron on the
+  distributed binary.
+
+The one cheap win kept: the `aur` processor recovers a GitHub `repository`
+from a matched package's upstream URL, pulling the app into the source
+pipeline.
