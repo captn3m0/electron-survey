@@ -79,3 +79,8 @@ method: src-package-lock
 aur:
 - sleek
 name: sleek
+packages:
+- url: https://github.com/ransome1/sleek/releases/download/v2.0.25/sleek-2.0.25-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

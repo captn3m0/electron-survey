@@ -56,3 +56,8 @@ aur:
 - superproductivity-git
 homebrew: super-productivity
 name: Super Productivity
+packages:
+- url: https://github.com/super-productivity/super-productivity/releases/download/v18.15.1/superProductivity-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

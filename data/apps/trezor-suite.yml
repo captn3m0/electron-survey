@@ -1,0 +1,13 @@
+id: trezor-suite
+name: Trezor Suite
+website: https://trezor.io/trezor-suite
+repository: https://github.com/trezor/trezor-suite
+packages:
+- url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://data.trezor.io/suite/releases/desktop/latest/Trezor-Suite-26.6.1-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

@@ -140,3 +140,7 @@ aur:
 - dbgate-git
 homebrew: dbgate
 name: DbGate
+packages:
+- url: https://github.com/dbgate/dbgate/releases/download/v7.2.1/dbgate-7.2.1-mac_universal.dmg
+  format: dmg
+  os: macos

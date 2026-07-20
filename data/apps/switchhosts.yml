@@ -30,3 +30,8 @@ aur:
 - switchhosts-bin
 homebrew: switchhosts
 name: SwitchHosts
+packages:
+- url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-mac-aarch64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

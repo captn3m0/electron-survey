@@ -1,0 +1,8 @@
+id: motion
+name: Motion
+website: https://www.usemotion.com
+packages:
+- url: https://github.com/usemotion/desktopapp/releases/download/0.117.0/motion-0.117.0-mac-aarch64.zip
+  format: zip
+  os: macos
+  arch: arm64

@@ -38,4 +38,8 @@ packages:
   format: zip
   os: macos
   arch: arm64
+- url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-v1.35.6-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64
 name: Min

@@ -64,3 +64,8 @@ aur:
 - poi-git
 homebrew: poi
 name: poi
+packages:
+- url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

@@ -39,4 +39,7 @@ packages:
   format: zip
   os: macos
   arch: universal
+- url: https://github.com/gitify-app/gitify/releases/download/v6.20.0/Gitify-6.20.0-universal-mac.zip
+  format: zip
+  os: macos
 name: Gitify

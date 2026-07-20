@@ -23,4 +23,7 @@ packages:
   os: linux
   arch: x64
   note: Available via APT repository at https://wire.com/en/download/
+- url: https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.42.5489/Wire.pkg
+  format: pkg
+  os: macos
 name: Wire

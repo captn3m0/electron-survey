@@ -53,3 +53,8 @@ aur:
 - blockbench-bin
 homebrew: blockbench
 name: Blockbench
+packages:
+- url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.dmg
+  format: dmg
+  os: macos
+  arch: arm64

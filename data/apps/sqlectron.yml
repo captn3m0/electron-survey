@@ -44,3 +44,8 @@ aur:
 - sqlectron-gui-git
 homebrew: sqlectron
 name: Sqlectron
+packages:
+- url: https://github.com/sqlectron/sqlectron-gui/releases/download/v1.39.0/sqlectron-1.39.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

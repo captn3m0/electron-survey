@@ -129,3 +129,12 @@ src: https://github.com/mongodb-js/compass/archive/refs/tags/v1.49.4.zip
 electron: 37.10.3
 method: src-package-lock
 name: MongoDB Compass
+packages:
+- url: https://downloads.mongodb.com/compass/mongodb-compass-1.49.12-darwin-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://downloads.mongodb.com/compass/beta/mongodb-compass-1.49.12-beta.0-darwin-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

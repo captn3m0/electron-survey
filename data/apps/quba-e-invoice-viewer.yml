@@ -28,3 +28,7 @@ electron: 33.0.1
 method: src-package-lock
 homebrew: quba
 name: Quba E-Invoice Viewer
+packages:
+- url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba-1.5.1-universal.dmg
+  format: dmg
+  os: macos

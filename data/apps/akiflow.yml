@@ -1,0 +1,8 @@
+id: akiflow
+name: Akiflow
+website: https://akiflow.com
+packages:
+- url: https://download.akiflow.com/builds/Akiflow-2.74.21-d6d9f817-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal

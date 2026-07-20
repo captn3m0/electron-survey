@@ -23,6 +23,10 @@ packages:
   format: appimage
   os: linux
   arch: x64
+- url: https://github.com/meetfranz/franz-6/releases/download/v6.5.1/Franz-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 name: Franz
 electron: 33.3.0
 method: which-electron-rg

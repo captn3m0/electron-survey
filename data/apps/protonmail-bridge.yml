@@ -17,6 +17,9 @@ packages:
   format: rpm
   os: linux
   arch: x64
+- url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/Bridge-Installer.dmg
+  format: dmg
+  os: macos
 homebrew: proton-drive
 downloads:
 - url: https://proton.me/download/drive/macos/3.0.0/ProtonDrive-3.0.0.dmg

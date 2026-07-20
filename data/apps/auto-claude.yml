@@ -1,0 +1,8 @@
+id: auto-claude
+name: Auto Claude
+website: https://github.com/AndyMik90/Auto-Claude/
+packages:
+- url: https://github.com/AndyMik90/Auto-Claude/releases/download/v2.7.6/Auto-Claude-2.7.6-darwin-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

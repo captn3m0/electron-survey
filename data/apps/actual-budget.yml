@@ -1,0 +1,9 @@
+id: actual-budget
+name: Actual Budget
+website: https://actualbudget.org
+repository: https://github.com/actualbudget/actual
+packages:
+- url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

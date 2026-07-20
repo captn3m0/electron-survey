@@ -63,4 +63,8 @@ packages:
   format: appimage
   os: linux
   arch: x64
+- url: https://github.com/laurent22/joplin/releases/download/v3.6.15/Joplin-3.6.15-arm64.DMG
+  format: dmg
+  os: macos
+  arch: arm64
 name: Joplin

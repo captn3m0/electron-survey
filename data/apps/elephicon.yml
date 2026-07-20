@@ -36,3 +36,8 @@ aur:
 - elephicon
 homebrew: elephicon
 name: Elephicon
+packages:
+- url: https://github.com/sprout2000/elephicon/releases/download/v4.1.0/Elephicon-4.1.0-darwin-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

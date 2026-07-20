@@ -20,4 +20,12 @@ packages:
 - url: https://slack.com/ssb/download-osx
   format: dmg
   os: macos
+- url: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.50.143/Slack-4.50.143-macOS.dmg
+  format: dmg
+  os: macos
+  arch: arm64
+- url: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.51.180/Slack-4.51.180-macOS.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 name: Slack

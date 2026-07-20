@@ -32,3 +32,8 @@ src: https://github.com/httptoolkit/httptoolkit-desktop/archive/refs/tags/v1.25.
 electron: 39.2.7
 method: src-package-lock
 name: HTTP Toolkit
+packages:
+- url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

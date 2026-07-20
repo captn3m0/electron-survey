@@ -17,3 +17,8 @@ aur:
 - masscode-git
 homebrew: masscode
 name: massCode
+packages:
+- url: https://github.com/massCodeIO/massCode/releases/download/v5.9.1/massCode-5.9.1-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

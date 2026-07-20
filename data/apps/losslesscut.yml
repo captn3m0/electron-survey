@@ -34,3 +34,8 @@ homebrew: losslesscut
 name: LosslessCut
 aur:
 - losslesscut
+packages:
+- url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

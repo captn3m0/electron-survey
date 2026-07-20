@@ -54,4 +54,8 @@ packages:
 - url: https://www.zettlr.com/download/linux
   format: appimage
   os: linux
+- url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 name: Zettlr

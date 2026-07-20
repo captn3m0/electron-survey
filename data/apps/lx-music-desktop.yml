@@ -27,5 +27,9 @@ packages:
   format: deb
   os: linux
   arch: x64
+- url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 electron: 37.6.1
 method: which-electron-rg

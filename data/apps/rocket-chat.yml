@@ -25,6 +25,9 @@ packages:
   format: deb
   os: linux
   arch: x64
+- url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.6/rocketchat-4.15.6-mac.dmg
+  format: dmg
+  os: macos
 name: Rocket.Chat
 electron: 40.0.0
 method: which-electron-rg

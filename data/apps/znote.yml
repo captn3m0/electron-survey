@@ -42,3 +42,8 @@ electron: 36.9.5
 method: aur-depends
 homebrew: znote
 name: Znote
+packages:
+- url: https://github.com/alagrede/znote-app/releases/download/v4.2.4/znote-4.2.4-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

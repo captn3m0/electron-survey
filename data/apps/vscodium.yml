@@ -35,6 +35,10 @@ packages:
   format: snap
   os: linux
   arch: x64
+- url: https://github.com/VSCodium/vscodium-insiders/releases/download/1.126.04518-insider/VSCodium-darwin-arm64-1.126.04518-insider.zip
+  format: zip
+  os: macos
+  arch: arm64
 aur:
 - vscodium-electron-bin
 electron: 42.7.0

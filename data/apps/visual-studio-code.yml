@@ -87,4 +87,8 @@ packages:
   format: tar.gz
   os: linux
   arch: arm
+- url: https://vscode.download.prss.microsoft.com/dbazure/download/insider/5e212606d57c0a17f73bc8b7ae0cc9e14bcfd345/VSCode-darwin-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64
 name: Visual Studio Code

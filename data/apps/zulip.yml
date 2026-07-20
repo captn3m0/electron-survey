@@ -66,4 +66,8 @@ packages:
 - url: https://www.zulip.com/apps/linux
   format: deb
   os: linux
+- url: https://github.com/zulip/zulip-desktop/releases/download/v5.12.4/Zulip-5.12.4-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 name: Zulip

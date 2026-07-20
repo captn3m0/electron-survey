@@ -62,3 +62,8 @@ aur:
 - ueli-git
 homebrew: ueli
 name: ueli
+packages:
+- url: https://github.com/oliverschwendener/ueli/releases/download/v9.29.0/Ueli-9.29.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

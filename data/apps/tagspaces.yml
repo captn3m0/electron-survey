@@ -35,3 +35,8 @@ aur:
 - tagspaces-bin
 homebrew: tagspaces
 name: TagSpaces
+packages:
+- url: https://github.com/tagspaces/tagspaces/releases/download/v6.13.11/tagspaces-mac-arm64-6.13.11.dmg
+  format: dmg
+  os: macos
+  arch: arm64

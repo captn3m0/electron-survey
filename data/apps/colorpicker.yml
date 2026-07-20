@@ -24,3 +24,8 @@ aur:
 - python-vcolorpicker
 homebrew: toinane-colorpicker
 name: Colorpicker
+packages:
+- url: https://github.com/toinane/colorpicker/releases/download/2.3.0/Colorpicker-2.3.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

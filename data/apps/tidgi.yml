@@ -48,4 +48,8 @@ packages:
   format: rpm
   os: linux
   arch: x64
+- url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.0-1/TidGi-darwin-arm64-0.14.0.zip
+  format: zip
+  os: macos
+  arch: arm64
 name: TidGi

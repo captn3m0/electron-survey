@@ -30,3 +30,7 @@ aur:
 - bdash
 homebrew: bdash
 name: Bdash
+packages:
+- url: https://github.com/bdash-app/bdash/releases/download/v1.35.1/Bdash-1.35.1-universal-mac.zip
+  format: zip
+  os: macos

@@ -73,5 +73,9 @@ downloads:
 electron: 40.6.0
 method: src-package-lock
 homebrew: mattermost
-packages: []
+packages:
+- url: https://releases.mattermost.com/desktop/6.2.2/mattermost-desktop-6.2.2-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64
 name: Mattermost

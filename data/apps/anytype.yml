@@ -17,6 +17,10 @@ packages:
 - url: https://download.anytype.io/?platform=linux
   format: appimage
   os: linux
+- url: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype-0.55.26-beta-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 aur:
 - anytype-alpha-bin
 - anytype-bin

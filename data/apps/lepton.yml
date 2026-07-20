@@ -35,3 +35,8 @@ aur:
 - lepton-snippet-manager-appimage
 homebrew: lepton
 name: Lepton
+packages:
+- url: https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-mac-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

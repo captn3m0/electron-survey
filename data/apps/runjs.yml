@@ -10,3 +10,7 @@ downloads:
   name: RunJS-3.2.2-universal.dmg
   version: 3.2.2
 name: RunJS
+packages:
+- url: https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0-universal.dmg
+  format: dmg
+  os: macos

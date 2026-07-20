@@ -26,3 +26,8 @@ aur:
 - thorium-reader
 homebrew: thorium
 name: Thorium Reader
+packages:
+- url: https://github.com/edrlab/thorium-reader/releases/download/v3.4.0/Thorium-3.4.0-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

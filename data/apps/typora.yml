@@ -18,6 +18,9 @@ packages:
   format: deb
   os: linux
   arch: x64
+- url: https://downloads.typora.io/mac/Typora-1.14.5-dev.dmg
+  format: dmg
+  os: macos
 aur:
 - typora
 - typora-electron

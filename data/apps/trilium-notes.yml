@@ -44,3 +44,8 @@ electron: 40.6.1
 method: src-pnpm-lock
 homebrew: trilium-notes
 name: Trilium Notes
+packages:
+- url: https://github.com/TriliumNext/Trilium/releases/download/v0.104.0/TriliumNotes-v0.104.0-macos-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

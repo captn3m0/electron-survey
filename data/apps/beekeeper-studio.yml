@@ -65,3 +65,8 @@ aur:
 - beekeeper-studio-git
 homebrew: beekeeper-studio
 name: Beekeeper Studio
+packages:
+- url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2-arm64.dmg
+  format: dmg
+  os: macos
+  arch: arm64

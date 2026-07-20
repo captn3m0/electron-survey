@@ -1,0 +1,8 @@
+id: tana
+name: Tana
+website: https://tana.inc
+packages:
+- url: https://github.com/tanainc/tana-desktop-releases/releases/download/v1.523.0/Tana.Outliner-1.523.0-universal.dmg
+  format: dmg
+  os: macos
+  arch: universal

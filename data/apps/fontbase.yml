@@ -10,3 +10,7 @@ downloads:
 name: FontBase
 electron: 39.6.1
 method: which-electron-rg
+packages:
+- url: https://releases.fontba.se/mac/FontBase-2026.5.17.dmg
+  format: dmg
+  os: macos

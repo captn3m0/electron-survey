@@ -62,4 +62,8 @@ packages:
 - url: https://releases.hyper.is/download/rpm
   format: rpm
   os: linux
+- url: https://github.com/vercel/hyper/releases/download/v4.0.0-canary.5/Hyper-4.0.0-canary.5-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64
 name: Hyper

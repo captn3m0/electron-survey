@@ -60,4 +60,8 @@ packages:
 - url: https://github.com/marktext/marktext/releases/latest/download/marktext-amd64.deb
   format: deb
   os: linux
+- url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.dmg
+  format: dmg
+  os: macos
+  arch: arm64
 name: MarkText

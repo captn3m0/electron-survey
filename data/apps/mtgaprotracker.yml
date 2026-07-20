@@ -1,0 +1,7 @@
+id: mtgaprotracker
+name: MTGA Pro Tracker
+website: https://mtgarena.pro/mtga-pro-tracker/
+packages:
+- url: https://github.com/Razviar/mtgap/releases/download/v2.1.35/mtgaprotracker.dmg
+  format: dmg
+  os: macos

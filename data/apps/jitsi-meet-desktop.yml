@@ -19,5 +19,8 @@ packages:
   format: deb
   os: linux
   arch: x64
+- url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.7.0/jitsi-meet.dmg
+  format: dmg
+  os: macos
 electron: 41.1.0
 method: which-electron-rg

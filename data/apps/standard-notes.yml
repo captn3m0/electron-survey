@@ -103,4 +103,8 @@ packages:
   format: appimage
   os: linux
   arch: x64
+- url: https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.201.21/standard-notes-3.201.21-mac-arm64.zip
+  format: zip
+  os: macos
+  arch: arm64
 name: Standard Notes
