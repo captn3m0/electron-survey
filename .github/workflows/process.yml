@@ -18,7 +18,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           submodules: true
 
@@ -30,18 +30,18 @@ jobs:
             /usr/local/share/boost "$AGENT_TOOLSDIRECTORY" || true
           df -h /
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: "22"
 
-      - uses: astral-sh/setup-uv@v5
+      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
 
       - name: Build meta indexes (AUR, Homebrew, Electron headers)
         run: make all
 
       - name: Restore zips cache
         id: cache-zips-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
         with:
           path: zips/
           key: zips-${{ hashFiles('data/apps/**/*.yml') }}
@@ -80,7 +80,7 @@ jobs:
 
       - name: Save zips cache
         if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
         with:
           path: zips/
           key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
@@ -93,7 +93,7 @@ jobs:
         if: always()
         run: uv run main.py stats
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5.2.0
         if: always()
         with:
           commit_message: "chore: update release and electron version data [skip ci]"

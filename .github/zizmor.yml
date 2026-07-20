@@ -1,0 +1,9 @@
+# These two scheduled workflows push their results via
+# stefanzweifel/git-auto-commit-action, which needs the token that
+# actions/checkout persists. They are not triggered by external PRs, so the
+# credential-persistence (artipacked) risk does not apply — accept it here.
+rules:
+  artipacked:
+    ignore:
+      - process.yml
+      - update-data.yml
