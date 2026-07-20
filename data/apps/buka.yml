@@ -21,3 +21,4 @@ downloads:
 electron: 1.6.3
 method: src-yarn-lock
 name: Buka
+electron_src: https://github.com/oguzhaninan/Buka/archive/refs/tags/v1.0.0.zip

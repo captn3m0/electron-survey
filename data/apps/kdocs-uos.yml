@@ -5,3 +5,8 @@ aur:
 - kdocs-uos
 electron: 14.2.9
 method: aur-depends
+homebrew: kdocs
+downloads:
+- url: https://qn.cache.wpscdn.cn/kdocs/apk/kdesktopmac/KDocs_1001_v3.11.2.dmg
+  name: KDocs_1001_v3.11.2.dmg
+  version: 3.11.2,1001

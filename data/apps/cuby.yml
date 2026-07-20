@@ -6,3 +6,8 @@ aur:
 - cuby-git
 electron: 26.6.10
 method: aur-depends
+latest: release
+src: https://github.com/Cuby-Project/Cuby-Client/archive/refs/tags/release.zip
+downloads:
+- name: cuby-win32-x64.zip
+  url: https://github.com/Cuby-Project/Cuby-Client/releases/download/release/cuby-win32-x64.zip

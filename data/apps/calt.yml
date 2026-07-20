@@ -6,3 +6,10 @@ aur:
 - calt-git
 electron: 31.7.7
 method: aur-depends
+latest: v0.1.2
+src: https://github.com/CyrusCKF/translator/archive/refs/tags/v0.1.2.zip
+downloads:
+- name: calt-0.1.2-win.zip
+  url: https://github.com/CyrusCKF/translator/releases/download/v0.1.2/calt-0.1.2-win.zip
+- name: calt.0.1.2.msi
+  url: https://github.com/CyrusCKF/translator/releases/download/v0.1.2/calt.0.1.2.msi

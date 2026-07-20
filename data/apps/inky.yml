@@ -7,3 +7,8 @@ packages:
 - url: https://github.com/inkle/inky/releases/download/0.15.2/inky.dmg
   format: dmg
   os: macos
+homebrew: inky
+downloads:
+- url: https://github.com/inkle/inky/releases/download/0.15.2/inky.dmg
+  name: inky.dmg
+  version: 0.15.2

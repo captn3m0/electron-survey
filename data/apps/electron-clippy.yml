@@ -1,8 +1,20 @@
 id: electron-clippy
 repository: https://github.com/HeyitSaif/Clippy.git
 website: https://github.com/HeyitSaif/Clippy.git
-latest: refs/heads/master
-src: https://github.com/HeyitSaif/Clippy/archive/refs/tags/refs/heads/master.zip
-electron: 9.4.4
-method: src-range-guess
+latest: v2.0.2
+src: https://github.com/HeyitSaif/Clippy/archive/refs/tags/v2.0.2.zip
+electron: 41.10.1
+method: src-package-lock
 name: Electron-clippy
+downloads:
+- name: Clippy-2.0.2-arm64-mac.zip
+  url: https://github.com/HeyitSaif/Clippy/releases/download/v2.0.2/Clippy-2.0.2-arm64-mac.zip
+- name: Clippy-2.0.2-arm64-mac.zip.blockmap
+  url: https://github.com/HeyitSaif/Clippy/releases/download/v2.0.2/Clippy-2.0.2-arm64-mac.zip.blockmap
+- name: Clippy-2.0.2-arm64.dmg
+  url: https://github.com/HeyitSaif/Clippy/releases/download/v2.0.2/Clippy-2.0.2-arm64.dmg
+- name: Clippy-2.0.2-arm64.dmg.blockmap
+  url: https://github.com/HeyitSaif/Clippy/releases/download/v2.0.2/Clippy-2.0.2-arm64.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/HeyitSaif/Clippy/releases/download/v2.0.2/latest-mac.yml
+electron_src: https://github.com/HeyitSaif/Clippy/archive/refs/tags/v2.0.2.zip

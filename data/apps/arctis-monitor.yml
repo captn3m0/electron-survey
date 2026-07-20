@@ -6,3 +6,21 @@ aur:
 - arctis-monitor-bin
 electron: 31.7.7
 method: aur-depends
+latest: v0.0.15
+src: https://github.com/richrace/arctis-monitor/archive/refs/tags/v0.0.15.zip
+downloads:
+- name: arctis-monitor-0.0.15-full.nupkg
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/arctis-monitor-0.0.15-full.nupkg
+- name: Arctis.Monitor-0.0.15-arm64.dmg
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/Arctis.Monitor-0.0.15-arm64.dmg
+- name: Arctis.Monitor-0.0.15-x64.dmg
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/Arctis.Monitor-0.0.15-x64.dmg
+- name: Arctis.Monitor-0.0.15.Setup.exe
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/Arctis.Monitor-0.0.15.Setup.exe
+- name: Arctis.Monitor-darwin-arm64-0.0.15.zip
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/Arctis.Monitor-darwin-arm64-0.0.15.zip
+- name: Arctis.Monitor-darwin-x64-0.0.15.zip
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/Arctis.Monitor-darwin-x64-0.0.15.zip
+- name: RELEASES
+  url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.15/RELEASES
+we_tried: we0:v0.0.15

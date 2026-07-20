@@ -6,3 +6,19 @@ aur:
 - autorecord-manager
 electron: 40.10.6
 method: aur-depends
+latest: v4.11.0
+src: https://github.com/WhiteMinds/LiveAutoRecord/archive/refs/tags/v4.11.0.zip
+downloads:
+- name: '@autorecord.electron-4.11.0.dmg'
+  url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/%40autorecord.electron-4.11.0.dmg
+- name: '@autorecord.electron-4.11.0.dmg.blockmap'
+  url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/%40autorecord.electron-4.11.0.dmg.blockmap
+- name: '@autorecord.electron-setup-4.11.0.exe'
+  url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/%40autorecord.electron-setup-4.11.0.exe
+- name: '@autorecord.electron-setup-4.11.0.exe.blockmap'
+  url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/%40autorecord.electron-setup-4.11.0.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/latest.yml
+we_tried: we0:v4.11.0

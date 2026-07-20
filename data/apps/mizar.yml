@@ -6,3 +6,34 @@ aur:
 - mizar-bin
 electron: 22.3.27
 method: aur-depends
+latest: v1.3.0
+src: https://github.com/Fabio286/mizar/archive/refs/tags/v1.3.0.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/builder-debug.yml
+- name: latest-linux-arm.yml
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/latest-linux-arm.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/latest.yml
+- name: Mizar-1.3.0-linux_amd64.deb
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_amd64.deb
+- name: Mizar-1.3.0-linux_arm64.AppImage
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_arm64.AppImage
+- name: Mizar-1.3.0-linux_arm64.deb
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_arm64.deb
+- name: Mizar-1.3.0-linux_armv7l.AppImage
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_armv7l.AppImage
+- name: Mizar-1.3.0-linux_armv7l.deb
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_armv7l.deb
+- name: Mizar-1.3.0-linux_x86_64.AppImage
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_x86_64.AppImage
+- name: Mizar-1.3.0-portable.exe
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-portable.exe
+- name: Mizar-1.3.0-win.exe
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-win.exe
+- name: Mizar-1.3.0-win.exe.blockmap
+  url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-win.exe.blockmap

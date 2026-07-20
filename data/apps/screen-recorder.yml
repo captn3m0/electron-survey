@@ -6,3 +6,12 @@ aur:
 - screen-recorder-app
 electron: 25.9.8
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/petya0927/screen-recorder-app/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/petya0927/screen-recorder-app/releases/download/v1.0.0/RELEASES
+- name: screen-recorder-app-1.0.0.Setup.exe
+  url: https://github.com/petya0927/screen-recorder-app/releases/download/v1.0.0/screen-recorder-app-1.0.0.Setup.exe
+- name: screen_recorder_app-1.0.0-full.nupkg
+  url: https://github.com/petya0927/screen-recorder-app/releases/download/v1.0.0/screen_recorder_app-1.0.0-full.nupkg

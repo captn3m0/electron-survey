@@ -6,3 +6,20 @@ aur:
 - elecwhat-bin
 electron: 40.10.6
 method: aur-depends
+latest: v1.14.0
+src: https://github.com/piec/elecwhat/archive/refs/tags/v1.14.0.zip
+downloads:
+- name: elecwhat-1.14.0.AppImage
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.AppImage
+- name: elecwhat-1.14.0.pacman
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.pacman
+- name: elecwhat-1.14.0.tar.xz
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.tar.xz
+- name: elecwhat-1.14.0.x86_64.rpm
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.x86_64.rpm
+- name: elecwhat_1.14.0_amd64.deb
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat_1.14.0_amd64.deb
+- name: elecwhat_1.14.0_amd64.snap
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat_1.14.0_amd64.snap
+- name: latest-linux.yml
+  url: https://github.com/piec/elecwhat/releases/download/v1.14.0/latest-linux.yml

@@ -6,3 +6,12 @@ download_urls:
 - https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-arm64.dmg
 - https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher.dmg
 name: FlexPaper
+downloads:
+- url: https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-x64.exe
+  name: FlowPaper_Desktop_Publisher-x64.exe
+- url: https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-ia32.exe
+  name: FlowPaper_Desktop_Publisher-ia32.exe
+- url: https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-arm64.dmg
+  name: FlowPaper_Desktop_Publisher-arm64.dmg
+- url: https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher.dmg
+  name: FlowPaper_Desktop_Publisher.dmg

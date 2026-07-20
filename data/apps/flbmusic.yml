@@ -13,3 +13,4 @@ downloads:
 electron: 13.2.2
 method: src-package-lock
 name: FLB Music
+electron_src: https://github.com/Patrick-web/FLB-Music-Player-Official/archive/refs/tags/v1.1.9.zip

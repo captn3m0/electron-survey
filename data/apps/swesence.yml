@@ -6,3 +6,14 @@ aur:
 - swesence-bin
 electron: 20.3.12
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/glitchcodes/Swesence/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Swesence-1.0.0-linux-amd64.deb
+  url: https://github.com/glitchcodes/Swesence/releases/download/v1.0.0/Swesence-1.0.0-linux-amd64.deb
+- name: Swesence-1.0.0-macOS-arm64.dmg
+  url: https://github.com/glitchcodes/Swesence/releases/download/v1.0.0/Swesence-1.0.0-macOS-arm64.dmg
+- name: Swesence-1.0.0-macOS-x64.dmg
+  url: https://github.com/glitchcodes/Swesence/releases/download/v1.0.0/Swesence-1.0.0-macOS-x64.dmg
+- name: Swesence-1.0.0-Setup-windows-x64.exe
+  url: https://github.com/glitchcodes/Swesence/releases/download/v1.0.0/Swesence-1.0.0-Setup-windows-x64.exe

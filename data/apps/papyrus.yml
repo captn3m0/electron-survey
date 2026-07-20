@@ -20,3 +20,4 @@ packages:
 - url: https://github.com/morkro/papyrus/releases/download/1.0.3/Papyrus-osx-1.0.3.zip
   format: zip
   os: macos
+electron_src: https://github.com/morkro/papyrus/archive/refs/tags/1.0.3.zip

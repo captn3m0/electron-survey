@@ -6,3 +6,8 @@ aur:
 - google-calender-widget
 electron: 38.8.6
 method: aur-depends
+latest: 1.1.6
+src: https://github.com/p32929/google-calender-widget/archive/refs/tags/1.1.6.zip
+downloads:
+- name: google-calender-widget.Setup.1.1.6.exe
+  url: https://github.com/p32929/google-calender-widget/releases/download/1.1.6/google-calender-widget.Setup.1.1.6.exe

@@ -8,3 +8,14 @@ additionalAUR:
 - pupu-git
 electron: 40.10.6
 method: aur-depends
+latest: v0.1.8
+src: https://github.com/haoxiang-xu/PuPu/archive/refs/tags/v0.1.8.zip
+downloads:
+- name: PuPu-0.1.8-arm64.dmg
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu-0.1.8-arm64.dmg
+- name: PuPu-0.1.8-intel.dmg
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu-0.1.8-intel.dmg
+- name: PuPu.Setup.0.1.8.exe
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu.Setup.0.1.8.exe
+- name: PuPu_0.1.8.deb
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu_0.1.8.deb

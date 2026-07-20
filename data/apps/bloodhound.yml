@@ -31,8 +31,23 @@ aur:
 - bloodhound
 homebrew: bloodhound
 downloads:
-- url: https://github.com/BloodHoundAD/BloodHound/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
-  name: BloodHound-darwin-arm64.zip
-  version: 4.3.1
+- name: BloodHound-darwin-arm64.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
+- name: BloodHound-darwin-x64.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-x64.zip
+- name: BloodHound-linux-arm64.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-arm64.zip
+- name: BloodHound-linux-armv7l.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-armv7l.zip
+- name: BloodHound-linux-x64.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-linux-x64.zip
+- name: BloodHound-win32-arm64.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-arm64.zip
+- name: BloodHound-win32-ia32.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-ia32.zip
+- name: BloodHound-win32-x64.zip
+  url: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-win32-x64.zip
 electron: 11.5.0
 method: which-electron-rg
+latest: v4.3.1
+src: https://github.com/SpecterOps/BloodHound-Legacy/archive/refs/tags/v4.3.1.zip

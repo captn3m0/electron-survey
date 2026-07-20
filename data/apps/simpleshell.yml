@@ -6,3 +6,8 @@ aur:
 - simpleshell-git
 electron: 40.10.6
 method: aur-depends
+latest: v0.4.34
+src: https://github.com/funkpopo/simpleshell/archive/refs/tags/v0.4.34.zip
+downloads:
+- name: SimpleShell-v0.4.34-Setup-x64.exe
+  url: https://github.com/funkpopo/simpleshell/releases/download/v0.4.34/SimpleShell-v0.4.34-Setup-x64.exe

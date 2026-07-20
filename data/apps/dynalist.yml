@@ -7,3 +7,8 @@ packages:
   os: macos
 aur:
 - dynalist-desktop
+homebrew: dynalist
+downloads:
+- url: https://dynalist.io/standalone/download?file=Dynalist.dmg
+  name: download
+  version: 1.0.6

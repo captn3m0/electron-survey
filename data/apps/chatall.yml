@@ -29,6 +29,49 @@ electron: 33.4.11
 method: aur-depends
 homebrew: chatall
 downloads:
-- url: https://github.com/sunner/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg
-  name: ChatALL-1.85.110-mac-arm64.dmg
-  version: 1.85.110
+- name: ChatALL-1.85.110-linux-amd64.deb
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-amd64.deb
+- name: ChatALL-1.85.110-linux-arm64.AppImage
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.AppImage
+- name: ChatALL-1.85.110-linux-arm64.deb
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.deb
+- name: ChatALL-1.85.110-linux-x86_64.AppImage
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-x86_64.AppImage
+- name: ChatALL-1.85.110-mac-arm64.dmg
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg
+- name: ChatALL-1.85.110-mac-arm64.dmg.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.dmg.blockmap
+- name: ChatALL-1.85.110-mac-arm64.zip
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.zip
+- name: ChatALL-1.85.110-mac-arm64.zip.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-arm64.zip.blockmap
+- name: ChatALL-1.85.110-mac-x64.dmg
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.dmg
+- name: ChatALL-1.85.110-mac-x64.dmg.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.dmg.blockmap
+- name: ChatALL-1.85.110-mac-x64.zip
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.zip
+- name: ChatALL-1.85.110-mac-x64.zip.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-mac-x64.zip.blockmap
+- name: ChatALL-1.85.110-win-arm64.exe
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-arm64.exe
+- name: ChatALL-1.85.110-win-arm64.exe.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-arm64.exe.blockmap
+- name: ChatALL-1.85.110-win-x64.exe
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-x64.exe
+- name: ChatALL-1.85.110-win-x64.exe.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win-x64.exe.blockmap
+- name: ChatALL-1.85.110-win.exe
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win.exe
+- name: ChatALL-1.85.110-win.exe.blockmap
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-win.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/latest.yml
+latest: v1.85.110
+src: https://github.com/ai-shifu/ChatALL/archive/refs/tags/v1.85.110.zip

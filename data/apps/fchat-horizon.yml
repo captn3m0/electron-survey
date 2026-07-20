@@ -8,3 +8,68 @@ additionalAUR:
 - fchat-horizon-git
 electron: 40.10.6
 method: aur-depends
+latest: v2.3.3
+src: https://github.com/Fchat-Horizon/Horizon/archive/refs/tags/v2.3.3.zip
+downloads:
+- name: F-Chat.Horizon-2.3.3-linux-aarch64.rpm
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-aarch64.rpm
+- name: F-Chat.Horizon-2.3.3-linux-amd64.deb
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-amd64.deb
+- name: F-Chat.Horizon-2.3.3-linux-arm64.AppImage
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-arm64.AppImage
+- name: F-Chat.Horizon-2.3.3-linux-arm64.deb
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-arm64.deb
+- name: F-Chat.Horizon-2.3.3-linux-arm64.tar.gz
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-arm64.tar.gz
+- name: F-Chat.Horizon-2.3.3-linux-x64.tar.gz
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-x64.tar.gz
+- name: F-Chat.Horizon-2.3.3-linux-x86_64.AppImage
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-x86_64.AppImage
+- name: F-Chat.Horizon-2.3.3-linux-x86_64.rpm
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-x86_64.rpm
+- name: F-Chat.Horizon-2.3.3-mac-arm64.dmg
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-arm64.dmg
+- name: F-Chat.Horizon-2.3.3-mac-arm64.dmg.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-arm64.dmg.blockmap
+- name: F-Chat.Horizon-2.3.3-mac-arm64.zip
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-arm64.zip
+- name: F-Chat.Horizon-2.3.3-mac-arm64.zip.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-arm64.zip.blockmap
+- name: F-Chat.Horizon-2.3.3-mac-universal.dmg
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-universal.dmg
+- name: F-Chat.Horizon-2.3.3-mac-universal.dmg.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-universal.dmg.blockmap
+- name: F-Chat.Horizon-2.3.3-mac-universal.zip
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-universal.zip
+- name: F-Chat.Horizon-2.3.3-mac-universal.zip.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-universal.zip.blockmap
+- name: F-Chat.Horizon-2.3.3-mac-x64.dmg
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-x64.dmg
+- name: F-Chat.Horizon-2.3.3-mac-x64.dmg.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-x64.dmg.blockmap
+- name: F-Chat.Horizon-2.3.3-mac-x64.zip
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-x64.zip
+- name: F-Chat.Horizon-2.3.3-mac-x64.zip.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-mac-x64.zip.blockmap
+- name: F-Chat.Horizon-2.3.3-win-arm64.exe
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-win-arm64.exe
+- name: F-Chat.Horizon-2.3.3-win-arm64.exe.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-win-arm64.exe.blockmap
+- name: F-Chat.Horizon-2.3.3-win-x64.exe
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-win-x64.exe
+- name: F-Chat.Horizon-2.3.3-win-x64.exe.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-win-x64.exe.blockmap
+- name: F-Chat.Horizon-2.3.3-win.exe
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-win.exe
+- name: F-Chat.Horizon-2.3.3-win.exe.blockmap
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-win.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/latest.yml
+- name: SHASUMS256.txt
+  url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/SHASUMS256.txt

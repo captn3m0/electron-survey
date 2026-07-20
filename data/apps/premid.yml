@@ -16,3 +16,4 @@ aur:
 - premid
 - premid-nightly
 name: PreMiD
+electron_src: https://github.com/PreMiD/PreMiD/archive/refs/tags/app-v2.2.0.zip

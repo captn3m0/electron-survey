@@ -13,3 +13,44 @@ additionalAUR:
 - heynote-bin
 electron: 39.8.10
 method: aur-depends
+latest: v2.9.1
+src: https://github.com/heyman/heynote/archive/refs/tags/v2.9.1.zip
+downloads:
+- name: Heynote_2.9.1.exe
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1.exe
+- name: Heynote_2.9.1.exe.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1.exe.blockmap
+- name: Heynote_2.9.1_amd64.snap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_amd64.snap
+- name: Heynote_2.9.1_arm64.dmg
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_arm64.dmg
+- name: Heynote_2.9.1_arm64.dmg.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_arm64.dmg.blockmap
+- name: Heynote_2.9.1_arm64.zip
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_arm64.zip
+- name: Heynote_2.9.1_arm64.zip.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_arm64.zip.blockmap
+- name: Heynote_2.9.1_universal.dmg
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_universal.dmg
+- name: Heynote_2.9.1_universal.dmg.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_universal.dmg.blockmap
+- name: Heynote_2.9.1_universal.zip
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_universal.zip
+- name: Heynote_2.9.1_universal.zip.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_universal.zip.blockmap
+- name: Heynote_2.9.1_x64.dmg
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_x64.dmg
+- name: Heynote_2.9.1_x64.dmg.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_x64.dmg.blockmap
+- name: Heynote_2.9.1_x64.zip
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_x64.zip
+- name: Heynote_2.9.1_x64.zip.blockmap
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_x64.zip.blockmap
+- name: Heynote_2.9.1_x86_64.AppImage
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_x86_64.AppImage
+- name: latest-linux.yml
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/heyman/heynote/releases/download/v2.9.1/latest.yml

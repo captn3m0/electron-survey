@@ -3,3 +3,8 @@ name: Postman Agent
 website: https://www.postman.com/
 aur:
 - postman-agent
+homebrew: postman-agent
+downloads:
+- url: https://dl-agent.pstmn.io/download/version/0.4.89/osx_arm64
+  name: osx_arm64
+  version: 0.4.89

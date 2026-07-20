@@ -27,3 +27,4 @@ downloads:
 electron: 12.2.3
 method: src-range-guess
 name: Janpankana
+electron_src: https://github.com/styunan/japankana/archive/refs/tags/v1.0.2.zip

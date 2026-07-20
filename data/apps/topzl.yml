@@ -6,3 +6,10 @@ aur:
 - topzl-git
 electron: 35.7.5
 method: aur-depends
+latest: v0.0.6
+src: https://github.com/Heonys/topzl-desktop/archive/refs/tags/v0.0.6.zip
+downloads:
+- name: topzl-0.0.6-win-setup.exe
+  url: https://github.com/Heonys/topzl-desktop/releases/download/v0.0.6/topzl-0.0.6-win-setup.exe
+- name: topzl-0.0.6-win-setup.zip
+  url: https://github.com/Heonys/topzl-desktop/releases/download/v0.0.6/topzl-0.0.6-win-setup.zip

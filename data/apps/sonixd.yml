@@ -13,3 +13,48 @@ additionalAUR:
 - sonixd-bin
 electron: 22.3.27
 method: aur-depends
+latest: v0.15.5
+src: https://github.com/jeffvli/sonixd/archive/refs/tags/v0.15.5.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/latest.yml
+- name: Sonixd-0.15.5-linux-arm64.AppImage
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-arm64.AppImage
+- name: Sonixd-0.15.5-linux-arm64.tar.xz
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-arm64.tar.xz
+- name: Sonixd-0.15.5-linux-x64.tar.xz
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-x64.tar.xz
+- name: Sonixd-0.15.5-linux-x86_64.AppImage
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-x86_64.AppImage
+- name: Sonixd-0.15.5-mac-arm64.dmg
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.dmg
+- name: Sonixd-0.15.5-mac-arm64.dmg.blockmap
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.dmg.blockmap
+- name: Sonixd-0.15.5-mac-arm64.zip
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.zip
+- name: Sonixd-0.15.5-mac-arm64.zip.blockmap
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.zip.blockmap
+- name: Sonixd-0.15.5-mac-x64.dmg
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-x64.dmg
+- name: Sonixd-0.15.5-mac-x64.dmg.blockmap
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-x64.dmg.blockmap
+- name: Sonixd-0.15.5-mac-x64.zip
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-x64.zip
+- name: Sonixd-0.15.5-mac-x64.zip.blockmap
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-x64.zip.blockmap
+- name: Sonixd-0.15.5-win-x64.exe
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-win-x64.exe
+- name: Sonixd-0.15.5-win-x64.exe.blockmap
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-win-x64.exe.blockmap
+- name: Sonixd-0.15.5-win-x64.zip
+  url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-win-x64.zip
+- url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-mac-arm64.dmg
+  name: Sonixd-0.15.5-mac-arm64.dmg
+  version: 0.15.5
+homebrew: sonixd

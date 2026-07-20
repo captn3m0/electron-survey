@@ -6,3 +6,5 @@ aur:
 - openfortivpn-webview-electron
 electron: 28.3.3
 method: aur-depends
+latest: v1.3.0-qt
+src: https://github.com/gm-vm/openfortivpn-webview/archive/refs/tags/v1.3.0-qt.zip

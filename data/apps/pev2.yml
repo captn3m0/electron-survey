@@ -4,3 +4,10 @@ website: https://github.com/dalibo/pev2
 repository: https://github.com/dalibo/pev2
 aur:
 - pev2-electron
+latest: v1.23.0
+src: https://github.com/dalibo/pev2/archive/refs/tags/v1.23.0.zip
+downloads:
+- name: index.html
+  url: https://github.com/dalibo/pev2/releases/download/v1.23.0/index.html
+- name: pev2.html
+  url: https://github.com/dalibo/pev2/releases/download/v1.23.0/pev2.html

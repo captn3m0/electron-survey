@@ -6,3 +6,26 @@ aur:
 - tomatox-bin
 electron: 4.2.12
 method: aur-depends
+latest: v2.0.2
+src: https://github.com/yanjiaxuan/TOMATOX/archive/refs/tags/v2.0.2.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/latest.yml
+- name: TOMATOX-2.0.2-mac.zip
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-2.0.2-mac.zip
+- name: TOMATOX-2.0.2.AppImage
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-2.0.2.AppImage
+- name: TOMATOX-2.0.2.dmg
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-2.0.2.dmg
+- name: TOMATOX-2.0.2.dmg.blockmap
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-2.0.2.dmg.blockmap
+- name: TOMATOX-Setup-2.0.2.exe
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-Setup-2.0.2.exe
+- name: TOMATOX-Setup-2.0.2.exe.blockmap
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-Setup-2.0.2.exe.blockmap
+- name: tomatox_2.0.2_amd64.snap
+  url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/tomatox_2.0.2_amd64.snap

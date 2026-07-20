@@ -10,6 +10,23 @@ aur:
 - vysor-bin
 homebrew: vysor
 downloads:
-- url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
-  name: Vysor-mac-5.0.7.zip
-  version: 5.0.7
+- name: Packages
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Packages
+- name: RELEASES
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/RELEASES
+- name: vysor-5.0.7-full.nupkg
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/vysor-5.0.7-full.nupkg
+- name: Vysor-linux-5.0.7.deb
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-linux-5.0.7.deb
+- name: Vysor-mac-5.0.7.dmg
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.dmg
+- name: Vysor-mac-5.0.7.dmg.blockmap
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.dmg.blockmap
+- name: Vysor-mac-5.0.7.zip
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
+- name: Vysor-mac-5.0.7.zip.blockmap
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip.blockmap
+- name: Vysor-win-5.0.7.exe
+  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-win-5.0.7.exe
+latest: v5.0.7
+src: https://github.com/koush/vysor.io/archive/refs/tags/v5.0.7.zip

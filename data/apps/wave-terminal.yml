@@ -35,6 +35,43 @@ electron: 41.10.2
 method: aur-depends
 homebrew: wave
 downloads:
-- url: https://dl.waveterm.dev/releases-w2/Wave-darwin-arm64-0.14.5.dmg
-  name: Wave-darwin-arm64-0.14.5.dmg
-  version: 0.14.5
+- name: Wave-darwin-arm64-0.14.5.dmg
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-arm64-0.14.5.dmg
+- name: Wave-darwin-arm64-0.14.5.zip
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-arm64-0.14.5.zip
+- name: Wave-darwin-x64-0.14.5.dmg
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-x64-0.14.5.dmg
+- name: Wave-darwin-x64-0.14.5.zip
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-darwin-x64-0.14.5.zip
+- name: Wave-win32-x64-0.14.5.exe
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.exe
+- name: Wave-win32-x64-0.14.5.msi
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.msi
+- name: Wave-win32-x64-0.14.5.zip
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/Wave-win32-x64-0.14.5.zip
+- name: waveterm-linux-aarch64-0.14.5.pacman
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-aarch64-0.14.5.pacman
+- name: waveterm-linux-aarch64-0.14.5.rpm
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-aarch64-0.14.5.rpm
+- name: waveterm-linux-amd64-0.14.5.deb
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-amd64-0.14.5.deb
+- name: waveterm-linux-arm64-0.14.5.AppImage
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-arm64-0.14.5.AppImage
+- name: waveterm-linux-arm64-0.14.5.deb
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-arm64-0.14.5.deb
+- name: waveterm-linux-arm64-0.14.5.zip
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-arm64-0.14.5.zip
+- name: waveterm-linux-x64-0.14.5.pacman
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-x64-0.14.5.pacman
+- name: waveterm-linux-x64-0.14.5.zip
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-x64-0.14.5.zip
+- name: waveterm-linux-x86_64-0.14.5.AppImage
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-x86_64-0.14.5.AppImage
+- name: waveterm-linux-x86_64-0.14.5.rpm
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-x86_64-0.14.5.rpm
+- name: waveterm_0.14.5_amd64.snap
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm_0.14.5_amd64.snap
+- name: waveterm_0.14.5_arm64.snap
+  url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm_0.14.5_arm64.snap
+latest: v0.14.5
+src: https://github.com/wavetermdev/waveterm/archive/refs/tags/v0.14.5.zip

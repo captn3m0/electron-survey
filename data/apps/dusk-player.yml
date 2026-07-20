@@ -15,3 +15,4 @@ downloads:
 electron: 7.3.3
 method: src-package-lock
 name: Dusk Player
+electron_src: https://github.com/Aveek-Saha/MusicPlayer/archive/refs/tags/v7.0.0.zip

@@ -24,3 +24,36 @@ aur:
 - postcat-bin
 electron: 22.3.27
 method: aur-depends
+latest: v0.5.1
+src: https://github.com/Postcatlab/postcat/archive/refs/tags/v0.5.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/latest.yml
+- name: Postcat-0.5.1-arm64-mac.zip
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-arm64-mac.zip
+- name: Postcat-0.5.1-arm64-mac.zip.blockmap
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-arm64-mac.zip.blockmap
+- name: Postcat-0.5.1-arm64.dmg
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-arm64.dmg
+- name: Postcat-0.5.1-arm64.dmg.blockmap
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-arm64.dmg.blockmap
+- name: Postcat-0.5.1-mac.zip
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-mac.zip
+- name: Postcat-0.5.1-mac.zip.blockmap
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1-mac.zip.blockmap
+- name: Postcat-0.5.1.AppImage
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.AppImage
+- name: Postcat-0.5.1.dmg
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.dmg
+- name: Postcat-0.5.1.dmg.blockmap
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.dmg.blockmap
+- name: Postcat-0.5.1.exe
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.exe
+- name: Postcat-Setup-0.5.1.exe
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe
+- name: Postcat-Setup-0.5.1.exe.blockmap
+  url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe.blockmap

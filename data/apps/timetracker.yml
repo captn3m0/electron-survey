@@ -10,3 +10,20 @@ packages:
   os: macos
 electron: 26.6.10
 method: aur-depends
+latest: v0.9.24
+src: https://github.com/DerKommentator/time-tracker/archive/refs/tags/v0.9.24.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/latest.yml
+- name: TimeTracker-0.9.24-linux-x64.tar.gz
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-linux-x64.tar.gz
+- name: TimeTracker-0.9.24-linux-x86_64.AppImage
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-linux-x86_64.AppImage
+- name: TimeTracker-0.9.24-win-installer-x64.exe
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-win-installer-x64.exe
+- name: TimeTracker-0.9.24-win-installer-x64.exe.blockmap
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-win-installer-x64.exe.blockmap
+- name: TimeTracker-0.9.24-win-portable-x64.exe
+  url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-win-portable-x64.exe

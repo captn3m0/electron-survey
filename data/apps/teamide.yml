@@ -6,3 +6,50 @@ aur:
 - teamide-bin
 electron: 22.3.27
 method: aur-depends
+latest: v2.6.38
+src: https://github.com/team-ide/teamide/archive/refs/tags/v2.6.38.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/latest.yml
+- name: TeamIDE-linux-2.6.38.AppImage
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-linux-2.6.38.AppImage
+- name: TeamIDE-linux-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-linux-2.6.38.zip
+- name: TeamIDE-mac-2.6.38.dmg
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-mac-2.6.38.dmg
+- name: TeamIDE-mac-2.6.38.dmg.blockmap
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-mac-2.6.38.dmg.blockmap
+- name: TeamIDE-mac-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-mac-2.6.38.zip
+- name: TeamIDE-mac-2.6.38.zip.blockmap
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-mac-2.6.38.zip.blockmap
+- name: teamide-node-darwin-amd64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-node-darwin-amd64-2.6.38.zip
+- name: teamide-node-darwin-arm64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-node-darwin-arm64-2.6.38.zip
+- name: teamide-node-linux-amd64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-node-linux-amd64-2.6.38.zip
+- name: teamide-node-linux-arm64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-node-linux-arm64-2.6.38.zip
+- name: teamide-node-windows-amd64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-node-windows-amd64-2.6.38.zip
+- name: teamide-server-darwin-amd64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-server-darwin-amd64-2.6.38.zip
+- name: teamide-server-darwin-arm64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-server-darwin-arm64-2.6.38.zip
+- name: teamide-server-linux-amd64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-server-linux-amd64-2.6.38.zip
+- name: teamide-server-linux-arm64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-server-linux-arm64-2.6.38.zip
+- name: teamide-server-windows-amd64-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/teamide-server-windows-amd64-2.6.38.zip
+- name: TeamIDE-win-2.6.38.exe
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.exe
+- name: TeamIDE-win-2.6.38.exe.blockmap
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.exe.blockmap
+- name: TeamIDE-win-2.6.38.zip
+  url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.zip

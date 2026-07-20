@@ -30,6 +30,39 @@ electron: 38.8.6
 method: aur-depends
 homebrew: simple-web-server
 downloads:
-- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-arm64.dmg
-  name: Simple-Web-Server-macOS-1.2.17-arm64.dmg
-  version: 1.2.17
+- name: Simple-Web-Server-Installer-1.2.17-arm64.exe
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-arm64.exe
+- name: Simple-Web-Server-Installer-1.2.17-ia32.exe
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-ia32.exe
+- name: Simple-Web-Server-Installer-1.2.17-x64.exe
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17-x64.exe
+- name: Simple-Web-Server-Installer-1.2.17.exe
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Installer-1.2.17.exe
+- name: Simple-Web-Server-Linux-1.2.17-amd64.deb
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-amd64.deb
+- name: Simple-Web-Server-Linux-1.2.17-arm64.deb
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-arm64.deb
+- name: Simple-Web-Server-Linux-1.2.17-arm64.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-arm64.zip
+- name: Simple-Web-Server-Linux-1.2.17-x64.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-x64.zip
+- name: Simple-Web-Server-macOS-1.2.17-arm64.dmg
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-arm64.dmg
+- name: Simple-Web-Server-macOS-1.2.17-arm64.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-arm64.zip
+- name: Simple-Web-Server-macOS-1.2.17-universal.dmg
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-universal.dmg
+- name: Simple-Web-Server-macOS-1.2.17-universal.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-universal.zip
+- name: Simple-Web-Server-macOS-1.2.17-x64.dmg
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-x64.dmg
+- name: Simple-Web-Server-macOS-1.2.17-x64.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-macOS-1.2.17-x64.zip
+- name: Simple-Web-Server-Windows-1.2.17-arm64.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Windows-1.2.17-arm64.zip
+- name: Simple-Web-Server-Windows-1.2.17-ia32.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Windows-1.2.17-ia32.zip
+- name: Simple-Web-Server-Windows-1.2.17-x64.zip
+  url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Windows-1.2.17-x64.zip
+latest: v1.2.17
+src: https://github.com/terreng/simple-web-server/archive/refs/tags/v1.2.17.zip

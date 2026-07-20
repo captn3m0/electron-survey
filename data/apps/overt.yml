@@ -9,8 +9,11 @@ packages:
   arch: arm64
 homebrew: overt
 downloads:
-- url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-arm64-0.6.0.zip
-  name: Overt-darwin-arm64-0.6.0.zip
-  version: 0.6.0
+- name: Overt-darwin-arm64-0.6.0.zip
+  url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-arm64-0.6.0.zip
+- name: Overt-darwin-x64-0.6.0.zip
+  url: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-x64-0.6.0.zip
 electron: 32.2.7
 method: which-electron-rg
+latest: v0.6.0
+src: https://github.com/GetOvert/Overt/archive/refs/tags/v0.6.0.zip

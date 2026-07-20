@@ -6,3 +6,12 @@ aur:
 - lecture-player-git
 electron: 23.3.13
 method: aur-depends
+latest: v1.1.1
+src: https://github.com/real-vinay/learnhub/archive/refs/tags/v1.1.1.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/real-vinay/learnhub/releases/download/v1.1.1/latest.yml
+- name: LearnHub-Setup-1.1.1.exe
+  url: https://github.com/real-vinay/learnhub/releases/download/v1.1.1/LearnHub-Setup-1.1.1.exe
+- name: LearnHub-Setup-1.1.1.exe.blockmap
+  url: https://github.com/real-vinay/learnhub/releases/download/v1.1.1/LearnHub-Setup-1.1.1.exe.blockmap

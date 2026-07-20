@@ -6,3 +6,12 @@ aur:
 - dragonrealms-phoenix-bin
 electron: 34.5.8
 method: aur-depends
+latest: v1.35.0
+src: https://github.com/dragonrealms-phoenix/phoenix/archive/refs/tags/v1.35.0.zip
+downloads:
+- name: phoenix-v1.35.0-linux-amd64.deb
+  url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-linux-amd64.deb
+- name: phoenix-v1.35.0-mac-x64.dmg
+  url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-mac-x64.dmg
+- name: phoenix-v1.35.0-win-x64.exe
+  url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-win-x64.exe

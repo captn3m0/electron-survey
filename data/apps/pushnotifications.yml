@@ -9,3 +9,8 @@ packages:
   arch: x64
 electron: 6.1.12
 method: which-electron-fingerprint
+latest: 1.7.10
+src: https://github.com/onmyway133/PushNotifications/archive/refs/tags/1.7.10.zip
+downloads:
+- name: Push.Notifications-1.7.10-mac.dmg
+  url: https://github.com/onmyway133/PushNotifications/releases/download/1.7.10/Push.Notifications-1.7.10-mac.dmg

@@ -6,3 +6,22 @@ aur:
 - icxor-git
 electron: 26.6.10
 method: aur-depends
+latest: v1.1.1
+src: https://github.com/MarkPoloChina/ICXOR/archive/refs/tags/v1.1.1.zip
+downloads:
+- name: ICXOR-1.1.1-universal-mac.zip
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-1.1.1-universal-mac.zip
+- name: ICXOR-1.1.1-universal-mac.zip.blockmap
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-1.1.1-universal-mac.zip.blockmap
+- name: ICXOR-1.1.1-universal.dmg
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-1.1.1-universal.dmg
+- name: ICXOR-1.1.1-universal.dmg.blockmap
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-1.1.1-universal.dmg.blockmap
+- name: ICXOR-Setup-1.1.1.exe
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-Setup-1.1.1.exe
+- name: ICXOR-Setup-1.1.1.exe.blockmap
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-Setup-1.1.1.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/latest.yml

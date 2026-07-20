@@ -8,3 +8,40 @@ additionalAUR:
 - udeler-git
 electron: 11.5.0
 method: aur-depends
+latest: v1.14.0
+src: https://github.com/heliomarpm/udemy-downloader-gui/archive/refs/tags/v1.14.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/latest.yml
+- name: Udeler_Portable-v1.14.0_win-ia32.exe
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Portable-v1.14.0_win-ia32.exe
+- name: Udeler_Portable-v1.14.0_win-x64.exe
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Portable-v1.14.0_win-x64.exe
+- name: Udeler_Setup-v1.14.0_linux-amd64.deb
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_linux-amd64.deb
+- name: Udeler_Setup-v1.14.0_linux-x64.freebsd
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_linux-x64.freebsd
+- name: Udeler_Setup-v1.14.0_linux-x86_64.AppImage
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_linux-x86_64.AppImage
+- name: Udeler_Setup-v1.14.0_linux-x86_64.rpm
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_linux-x86_64.rpm
+- name: Udeler_Setup-v1.14.0_mac-arm64.dmg
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_mac-arm64.dmg
+- name: Udeler_Setup-v1.14.0_mac-arm64.dmg.blockmap
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_mac-arm64.dmg.blockmap
+- name: Udeler_Setup-v1.14.0_mac-arm64.zip
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_mac-arm64.zip
+- name: Udeler_Setup-v1.14.0_mac-arm64.zip.blockmap
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_mac-arm64.zip.blockmap
+- name: Udeler_Setup-v1.14.0_win-ia32.exe
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_win-ia32.exe
+- name: Udeler_Setup-v1.14.0_win-ia32.exe.blockmap
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_win-ia32.exe.blockmap
+- name: Udeler_Setup-v1.14.0_win-x64.exe
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_win-x64.exe
+- name: Udeler_Setup-v1.14.0_win-x64.exe.blockmap
+  url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_win-x64.exe.blockmap

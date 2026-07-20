@@ -8,3 +8,10 @@ additionalAUR:
 - dialogcraft-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.0.8
+src: https://github.com/Hayden2018/dialogcraft/archive/refs/tags/v1.0.8.zip
+downloads:
+- name: DialogCraft-1.0.8.Setup.exe
+  url: https://github.com/Hayden2018/dialogcraft/releases/download/v1.0.8/DialogCraft-1.0.8.Setup.exe
+- name: dialogcraft_1.0.8_amd64.deb
+  url: https://github.com/Hayden2018/dialogcraft/releases/download/v1.0.8/dialogcraft_1.0.8_amd64.deb

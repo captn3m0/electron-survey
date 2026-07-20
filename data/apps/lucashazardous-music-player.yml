@@ -6,3 +6,16 @@ aur:
 - lucashazardous-music-player-bin
 electron: 26.6.10
 method: aur-depends
+latest: v2.12.5
+src: https://github.com/LucasHazardous/music-player/archive/refs/tags/v2.12.5.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/LucasHazardous/music-player/releases/download/v2.12.5/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/LucasHazardous/music-player/releases/download/v2.12.5/latest.yml
+- name: music-player-2.12.5.AppImage
+  url: https://github.com/LucasHazardous/music-player/releases/download/v2.12.5/music-player-2.12.5.AppImage
+- name: music-player-Setup-2.12.5.exe
+  url: https://github.com/LucasHazardous/music-player/releases/download/v2.12.5/music-player-Setup-2.12.5.exe
+- name: music-player-Setup-2.12.5.exe.blockmap
+  url: https://github.com/LucasHazardous/music-player/releases/download/v2.12.5/music-player-Setup-2.12.5.exe.blockmap

@@ -32,3 +32,4 @@ downloads:
 electron: 11.2.3
 method: src-yarn-lock
 name: Wexond
+electron_src: https://github.com/wexond/wexond/archive/refs/tags/v5.2.0.zip

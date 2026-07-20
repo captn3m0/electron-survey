@@ -6,3 +6,11 @@ aur:
 - autocut-client
 electron: 21.4.4
 method: aur-depends
+latest: v0.1.12
+src: https://github.com/zcf0508/autocut-client/archive/refs/tags/v0.1.12.zip
+downloads:
+- name: autocut-client_v0.1.12.dmg
+  url: https://github.com/zcf0508/autocut-client/releases/download/v0.1.12/autocut-client_v0.1.12.dmg
+- name: autocut-client_v0.1.12.exe
+  url: https://github.com/zcf0508/autocut-client/releases/download/v0.1.12/autocut-client_v0.1.12.exe
+we_tried: we0:v0.1.12

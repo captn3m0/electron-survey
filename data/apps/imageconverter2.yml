@@ -6,3 +6,10 @@ aur:
 - imageconverter2-bin
 electron: 25.9.8
 method: aur-depends
+latest: 1.0.9
+src: https://github.com/tkroo/image-converter2/archive/refs/tags/1.0.9.zip
+downloads:
+- name: imageconverter2-1.0.9.AppImage
+  url: https://github.com/tkroo/image-converter2/releases/download/1.0.9/imageconverter2-1.0.9.AppImage
+- name: latest-linux.yml
+  url: https://github.com/tkroo/image-converter2/releases/download/1.0.9/latest-linux.yml

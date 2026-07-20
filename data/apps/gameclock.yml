@@ -8,3 +8,10 @@ additionalAUR:
 - gameclock-git
 electron: 29.4.6
 method: aur-depends
+latest: v2.7.0
+src: https://github.com/Didiloy/GameClock/archive/refs/tags/v2.7.0.zip
+downloads:
+- name: GameClock-2.7.0-setup.exe
+  url: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0-setup.exe
+- name: GameClock-2.7.0.AppImage
+  url: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0.AppImage

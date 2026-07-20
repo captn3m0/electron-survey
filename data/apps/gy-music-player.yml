@@ -6,3 +6,8 @@ aur:
 - gy-music-player-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.3.2
+src: https://github.com/wzh656/music-player/archive/refs/tags/v1.3.2.zip
+downloads:
+- name: gy-music-player-1.3.2-setup.exe
+  url: https://github.com/wzh656/music-player/releases/download/v1.3.2/gy-music-player-1.3.2-setup.exe

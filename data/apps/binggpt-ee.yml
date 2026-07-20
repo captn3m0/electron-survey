@@ -6,3 +6,47 @@ aur:
 - binggpt-ee-bin
 electron: 26.6.10
 method: aur-depends
+latest: v0.4.8
+src: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/archive/refs/tags/v0.4.8.zip
+downloads:
+- name: BingGPT-Linux-aarch64-0.4.8.rpm
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-aarch64-0.4.8.rpm
+- name: BingGPT-Linux-amd64-0.4.8.deb
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-amd64-0.4.8.deb
+- name: BingGPT-Linux-arm64-0.4.8.AppImage
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-arm64-0.4.8.AppImage
+- name: BingGPT-Linux-arm64-0.4.8.deb
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-arm64-0.4.8.deb
+- name: BingGPT-Linux-x86_64-0.4.8.AppImage
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-x86_64-0.4.8.AppImage
+- name: BingGPT-Linux-x86_64-0.4.8.rpm
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-x86_64-0.4.8.rpm
+- name: BingGPT-Mac-arm64-0.4.8-Installer.dmg
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Mac-arm64-0.4.8-Installer.dmg
+- name: BingGPT-Mac-arm64-0.4.8-Installer.dmg.blockmap
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Mac-arm64-0.4.8-Installer.dmg.blockmap
+- name: BingGPT-Mac-x64-0.4.8-Installer.dmg
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Mac-x64-0.4.8-Installer.dmg
+- name: BingGPT-Mac-x64-0.4.8-Installer.dmg.blockmap
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Mac-x64-0.4.8-Installer.dmg.blockmap
+- name: BingGPT-Windows-0.4.8-Setup.exe
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Windows-0.4.8-Setup.exe
+- name: BingGPT-Windows-0.4.8-Setup.exe.blockmap
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Windows-0.4.8-Setup.exe.blockmap
+- name: BingGPT-Windows-arm64-0.4.8-Setup.exe
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Windows-arm64-0.4.8-Setup.exe
+- name: BingGPT-Windows-arm64-0.4.8-Setup.exe.blockmap
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Windows-arm64-0.4.8-Setup.exe.blockmap
+- name: BingGPT-Windows-x64-0.4.8-Setup.exe
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Windows-x64-0.4.8-Setup.exe
+- name: BingGPT-Windows-x64-0.4.8-Setup.exe.blockmap
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Windows-x64-0.4.8-Setup.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/latest.yml
+we_tried: we0:v0.4.8

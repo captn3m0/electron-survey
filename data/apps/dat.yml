@@ -35,3 +35,4 @@ method: src-package-lock
 aur:
 - dat
 name: Dat
+electron_src: https://github.com/datproject/dat-desktop/archive/refs/tags/v3.0.1.zip

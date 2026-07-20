@@ -6,3 +6,18 @@ aur:
 - dutor-bin
 electron: 28.3.3
 method: aur-depends
+latest: 0.1.0
+src: https://github.com/yubaoquan/dutor/archive/refs/tags/0.1.0.zip
+downloads:
+- name: dutor-0.1.0-mac.zip
+  url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor-0.1.0-mac.zip
+- name: dutor-0.1.0-setup.exe
+  url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor-0.1.0-setup.exe
+- name: dutor-0.1.0.dmg
+  url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor-0.1.0.dmg
+- name: dutor.app.zip
+  url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor.app.zip
+- name: dutor_0.1.0_amd64.deb
+  url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor_0.1.0_amd64.deb
+- name: dutor_0.1.0_amd64.snap
+  url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor_0.1.0_amd64.snap

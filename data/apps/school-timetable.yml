@@ -9,3 +9,4 @@ downloads:
 electron: 2.0.7
 method: src-package-lock
 name: Timetable
+electron_src: https://github.com/KDani-99/school_timetable/archive/refs/tags/1.2.0.zip

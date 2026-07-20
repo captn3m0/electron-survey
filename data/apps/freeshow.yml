@@ -6,3 +6,50 @@ aur:
 - freeshow-electron-bin
 electron: 37.10.3
 method: aur-depends
+latest: v1.6.3
+src: https://github.com/ChurchApps/FreeShow/archive/refs/tags/v1.6.3.zip
+downloads:
+- name: FreeShow-1.6.3-aarch64.rpm
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-aarch64.rpm
+- name: FreeShow-1.6.3-amd64.deb
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-amd64.deb
+- name: FreeShow-1.6.3-arm64.AppImage
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.AppImage
+- name: FreeShow-1.6.3-arm64.deb
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.deb
+- name: FreeShow-1.6.3-arm64.dmg
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.dmg
+- name: FreeShow-1.6.3-arm64.dmg.blockmap
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.dmg.blockmap
+- name: FreeShow-1.6.3-arm64.zip
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.zip
+- name: FreeShow-1.6.3-arm64.zip.blockmap
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.zip.blockmap
+- name: FreeShow-1.6.3-x64.dmg
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x64.dmg
+- name: FreeShow-1.6.3-x64.dmg.blockmap
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x64.dmg.blockmap
+- name: FreeShow-1.6.3-x64.exe
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x64.exe
+- name: FreeShow-1.6.3-x64.exe.blockmap
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x64.exe.blockmap
+- name: FreeShow-1.6.3-x64.zip
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x64.zip
+- name: FreeShow-1.6.3-x64.zip.blockmap
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x64.zip.blockmap
+- name: FreeShow-1.6.3-x86_64.AppImage
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x86_64.AppImage
+- name: FreeShow-1.6.3-x86_64.rpm
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-x86_64.rpm
+- name: latest-linux-arm64.yml
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/latest.yml
+- url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.3/FreeShow-1.6.3-arm64.zip
+  name: FreeShow-1.6.3-arm64.zip
+  version: 1.6.3
+homebrew: freeshow

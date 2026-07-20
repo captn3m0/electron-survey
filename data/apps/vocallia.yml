@@ -6,3 +6,5 @@ aur:
 - vocallia-git
 electron: 31.7.7
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/mohwildan/vocallia/archive/refs/tags/1.0.0.zip

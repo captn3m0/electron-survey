@@ -9,8 +9,13 @@ packages:
   arch: universal
 homebrew: archiver-app
 downloads:
-- url: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.10/Archiver-5.0.10-universal-mac.zip
-  name: Archiver-5.0.10-universal-mac.zip
-  version: 5.0.10
+- name: Archiver-5.0.9-universal-mac.zip
+  url: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip
+- name: Archiver-5.0.9-universal-mac.zip.blockmap
+  url: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip.blockmap
+- name: latest-mac.yml
+  url: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.9/latest-mac.yml
 electron: 38.4.0
 method: which-electron-rg
+latest: v5.0.9
+src: https://github.com/incbee/archiver-5-releases/archive/refs/tags/v5.0.9.zip

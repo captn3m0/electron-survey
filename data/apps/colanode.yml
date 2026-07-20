@@ -19,3 +19,20 @@ aur:
 - colanode-git
 electron: 40.10.6
 method: aur-depends
+latest: v0.4.7
+src: https://github.com/colanode/colanode/archive/refs/tags/v0.4.7.zip
+downloads:
+- name: Colanode-0.4.7-arm64.dmg
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-arm64.dmg
+- name: Colanode-0.4.7-full.nupkg
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-full.nupkg
+- name: Colanode-0.4.7-x64.dmg
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7-x64.dmg
+- name: Colanode-0.4.7.Setup.exe
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-0.4.7.Setup.exe
+- name: Colanode-darwin-arm64-0.4.7.zip
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-darwin-arm64-0.4.7.zip
+- name: Colanode-darwin-x64-0.4.7.zip
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/Colanode-darwin-x64-0.4.7.zip
+- name: RELEASES
+  url: https://github.com/colanode/colanode/releases/download/v0.4.7/RELEASES

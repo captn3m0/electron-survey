@@ -6,3 +6,8 @@ aur:
 - hiregpt
 electron: 23.3.13
 method: aur-depends
+latest: v0.2.0
+src: https://github.com/jaejaywoo/HireGPT/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: HireGPT-darwin-x64-v0.2.0.zip
+  url: https://github.com/jaejaywoo/HireGPT/releases/download/v0.2.0/HireGPT-darwin-x64-v0.2.0.zip

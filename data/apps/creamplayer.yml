@@ -6,3 +6,8 @@ aur:
 - creamplayer
 electron: 33.4.11
 method: aur-depends
+latest: v5.2.2
+src: https://github.com/Beadd/Creamplayer/archive/refs/tags/v5.2.2.zip
+downloads:
+- name: creamplayer-win32-x64.zip
+  url: https://github.com/Beadd/Creamplayer/releases/download/v5.2.2/creamplayer-win32-x64.zip

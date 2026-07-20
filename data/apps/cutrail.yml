@@ -8,3 +8,26 @@ additionalAUR:
 - cutrail-git
 electron: 37.10.3
 method: aur-depends
+latest: v0.11.0
+src: https://github.com/sabinmarcu/cutrail/archive/refs/tags/v0.11.0.zip
+downloads:
+- name: Cutrail-0.11.0-arm64.dmg
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/Cutrail-0.11.0-arm64.dmg
+- name: Cutrail-0.11.0-arm64.dmg.blockmap
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/Cutrail-0.11.0-arm64.dmg.blockmap
+- name: Cutrail-0.11.0.AppImage
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/Cutrail-0.11.0.AppImage
+- name: cutrail-0.11.0.x86_64.rpm
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/cutrail-0.11.0.x86_64.rpm
+- name: Cutrail.Setup.0.11.0.exe
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/Cutrail.Setup.0.11.0.exe
+- name: Cutrail.Setup.0.11.0.exe.blockmap
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/Cutrail.Setup.0.11.0.exe.blockmap
+- name: cutrail_0.11.0_amd64.deb
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/cutrail_0.11.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/sabinmarcu/cutrail/releases/download/v0.11.0/latest.yml

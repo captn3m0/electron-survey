@@ -3,3 +3,6 @@ website: https://compress.ohzi.io/
 download_urls:
 - https://s3.us-east-1.amazonaws.com/compress.mov/releases/CompressSetup.exe
 name: Compress
+downloads:
+- url: https://s3.us-east-1.amazonaws.com/compress.mov/releases/CompressSetup.exe
+  name: CompressSetup.exe

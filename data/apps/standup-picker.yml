@@ -17,3 +17,4 @@ downloads:
 electron: 16.0.7
 method: src-package-lock
 name: Standup Picker
+electron_src: https://github.com/Mokkapps/scrum-daily-standup-picker/archive/refs/tags/v2.0.0.zip

@@ -6,3 +6,14 @@ aur:
 - d0phamine-music-player-bin
 electron: 34.5.8
 method: aur-depends
+latest: 1.2.0
+src: https://github.com/d0phamine/d0phamine-music-player/archive/refs/tags/1.2.0.zip
+downloads:
+- name: d0phamine-music-player-1.2.0-arm64.dmg
+  url: https://github.com/d0phamine/d0phamine-music-player/releases/download/1.2.0/d0phamine-music-player-1.2.0-arm64.dmg
+- name: d0phamine-music-player.Setup.1.2.0.exe
+  url: https://github.com/d0phamine/d0phamine-music-player/releases/download/1.2.0/d0phamine-music-player.Setup.1.2.0.exe
+- name: d0phamine-music-player_1.2.0_amd64.deb
+  url: https://github.com/d0phamine/d0phamine-music-player/releases/download/1.2.0/d0phamine-music-player_1.2.0_amd64.deb
+- name: d0phamine-music-player_1.2.0_arm64.deb
+  url: https://github.com/d0phamine/d0phamine-music-player/releases/download/1.2.0/d0phamine-music-player_1.2.0_arm64.deb

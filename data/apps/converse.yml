@@ -6,3 +6,8 @@ aur:
 - converse
 electron: 33.4.11
 method: aur-depends
+latest: v0.2.3
+src: https://github.com/louisdecharson/converse/archive/refs/tags/v0.2.3.zip
+downloads:
+- name: Converse.app.zip
+  url: https://github.com/louisdecharson/converse/releases/download/v0.2.3/Converse.app.zip

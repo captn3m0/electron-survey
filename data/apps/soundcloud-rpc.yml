@@ -8,3 +8,18 @@ additionalAUR:
 - soundcloud-rpc-git
 electron: 37.10.3
 method: aur-depends
+latest: v0.2.0
+src: https://github.com/richardhbtz/soundcloud-rpc/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/latest.yml
+- name: soundcloud-0.2.0-installer-win.exe
+  url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/soundcloud-0.2.0-installer-win.exe
+- name: soundcloud-0.2.0-installer-win.exe.blockmap
+  url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/soundcloud-0.2.0-installer-win.exe.blockmap
+- name: soundcloud-0.2.0-mac.dmg
+  url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/soundcloud-0.2.0-mac.dmg
+- name: soundcloud-0.2.0-mac.dmg.blockmap
+  url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/soundcloud-0.2.0-mac.dmg.blockmap

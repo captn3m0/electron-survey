@@ -6,3 +6,28 @@ aur:
 - mangabox-bin
 electron: 38.8.6
 method: aur-depends
+latest: v0.4.5
+src: https://github.com/zpaolo11x/mangabox/archive/refs/tags/v0.4.5.zip
+downloads:
+- name: MangaBox-0.4.5-Android-apk-signed.apk
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-Android-apk-signed.apk
+- name: MangaBox-0.4.5-iOS-app.zip
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-iOS-app.zip
+- name: MangaBox-0.4.5-iOS-ipa.ipa
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-iOS-ipa.ipa
+- name: MangaBox-0.4.5-Linux-x86_64.AppImage
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-Linux-x86_64.AppImage
+- name: MangaBox-0.4.5-macOS-arm64-signed.dmg
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-macOS-arm64-signed.dmg
+- name: MangaBox-0.4.5-macOS-arm64.dmg
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-macOS-arm64.dmg
+- name: MangaBox-0.4.5-macOS-x64-signed.dmg
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-macOS-x64-signed.dmg
+- name: MangaBox-0.4.5-macOS-x64.dmg
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-macOS-x64.dmg
+- name: MangaBox-0.4.5-Web.zip
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-Web.zip
+- name: MangaBox-0.4.5-Windows-arm64.exe
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-Windows-arm64.exe
+- name: MangaBox-0.4.5-Windows-x64.exe
+  url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.5/MangaBox-0.4.5-Windows-x64.exe

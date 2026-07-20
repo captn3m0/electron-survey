@@ -25,7 +25,56 @@ packages:
   arch: x64
 homebrew: open-video-downloader
 downloads:
-- url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_aarch64.dmg
-  name: Open.Video.Downloader_3.2.1_aarch64.dmg
-  version: 3.2.1
+- name: latest.json
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/latest.json
+- name: Open.Video.Downloader-3.2.1-1.aarch64.rpm
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader-3.2.1-1.aarch64.rpm
+- name: Open.Video.Downloader-3.2.1-1.aarch64.rpm.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader-3.2.1-1.aarch64.rpm.sig
+- name: Open.Video.Downloader-3.2.1-1.x86_64.rpm
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader-3.2.1-1.x86_64.rpm
+- name: Open.Video.Downloader-3.2.1-1.x86_64.rpm.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader-3.2.1-1.x86_64.rpm.sig
+- name: Open.Video.Downloader_3.2.1_aarch64.AppImage
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_aarch64.AppImage
+- name: Open.Video.Downloader_3.2.1_aarch64.AppImage.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_aarch64.AppImage.sig
+- name: Open.Video.Downloader_3.2.1_aarch64.dmg
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_aarch64.dmg
+- name: Open.Video.Downloader_3.2.1_amd64.AppImage
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_amd64.AppImage
+- name: Open.Video.Downloader_3.2.1_amd64.AppImage.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_amd64.AppImage.sig
+- name: Open.Video.Downloader_3.2.1_amd64.deb
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_amd64.deb
+- name: Open.Video.Downloader_3.2.1_amd64.deb.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_amd64.deb.sig
+- name: Open.Video.Downloader_3.2.1_arm64-portable.zip
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64-portable.zip
+- name: Open.Video.Downloader_3.2.1_arm64-setup.exe
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64-setup.exe
+- name: Open.Video.Downloader_3.2.1_arm64-setup.exe.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64-setup.exe.sig
+- name: Open.Video.Downloader_3.2.1_arm64.deb
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64.deb
+- name: Open.Video.Downloader_3.2.1_arm64.deb.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_arm64.deb.sig
+- name: Open.Video.Downloader_3.2.1_x64-portable.zip
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-portable.zip
+- name: Open.Video.Downloader_3.2.1_x64-setup.exe
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-setup.exe
+- name: Open.Video.Downloader_3.2.1_x64-setup.exe.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-setup.exe.sig
+- name: Open.Video.Downloader_3.2.1_x64.dmg
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64.dmg
+- name: Open.Video.Downloader_aarch64.app.tar.gz
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_aarch64.app.tar.gz
+- name: Open.Video.Downloader_aarch64.app.tar.gz.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_aarch64.app.tar.gz.sig
+- name: Open.Video.Downloader_x64.app.tar.gz
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_x64.app.tar.gz
+- name: Open.Video.Downloader_x64.app.tar.gz.sig
+  url: https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_x64.app.tar.gz.sig
 we_tried: urls:55abb406a042
+latest: app-v3.2.1
+src: https://github.com/jely2002/youtube-dl-gui/archive/refs/tags/app-v3.2.1.zip

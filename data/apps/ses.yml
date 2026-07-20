@@ -8,3 +8,4 @@ downloads:
 electron: 6.1.9
 method: src-package-lock
 name: Ses
+electron_src: https://github.com/dbilgili/Ses/archive/refs/tags/1.0.4.zip

@@ -6,3 +6,14 @@ aur:
 - colony-player-bin
 electron: 11.5.0
 method: aur-depends
+latest: v1.4.0
+src: https://github.com/SynthKittenDev/Colony-Player/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: colony-player_1.4.0_amd64.deb
+  url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/colony-player_1.4.0_amd64.deb
+- name: Colony.Player-1.4.0.AppImage
+  url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player-1.4.0.AppImage
+- name: Colony.Player-1.4.0.dmg
+  url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player-1.4.0.dmg
+- name: Colony.Player.Setup.1.4.0.exe
+  url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player.Setup.1.4.0.exe

@@ -8,3 +8,28 @@ additionalAUR:
 - postybirb-plus-bin
 electron: 19.1.9
 method: aur-depends
+latest: v3.1.73
+src: https://github.com/mvdicarlo/postybirb-plus/archive/refs/tags/v3.1.73.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/latest.yml
+- name: PostyBirb-plus-3.1.73-universal.dmg
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/PostyBirb-plus-3.1.73-universal.dmg
+- name: PostyBirb-plus-3.1.73-universal.dmg.blockmap
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/PostyBirb-plus-3.1.73-universal.dmg.blockmap
+- name: PostyBirb-plus-3.1.73-universal.zip
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/PostyBirb-plus-3.1.73-universal.zip
+- name: PostyBirb-plus-3.1.73-universal.zip.blockmap
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/PostyBirb-plus-3.1.73-universal.zip.blockmap
+- name: postybirb-plus-3.1.73-x86_64.AppImage
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/postybirb-plus-3.1.73-x86_64.AppImage
+- name: postybirb-plus-3.1.73.exe
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/postybirb-plus-3.1.73.exe
+- name: postybirb-plus-setup-3.1.73.exe
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/postybirb-plus-setup-3.1.73.exe
+- name: postybirb-plus-setup-3.1.73.exe.blockmap
+  url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/postybirb-plus-setup-3.1.73.exe.blockmap

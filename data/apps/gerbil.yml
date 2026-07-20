@@ -19,3 +19,20 @@ aur:
 - gerbil
 electron: 41.3.0
 method: which-electron-rg
+latest: v1.27.0
+src: https://github.com/lone-cloud/gerbil/archive/refs/tags/v1.27.0.zip
+downloads:
+- name: Gerbil-1.27.0-arm64.dmg
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/Gerbil-1.27.0-arm64.dmg
+- name: Gerbil-1.27.0.AppImage
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/Gerbil-1.27.0.AppImage
+- name: Gerbil-Portable-1.27.0.exe
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/Gerbil-Portable-1.27.0.exe
+- name: Gerbil-Setup-1.27.0.exe
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/Gerbil-Setup-1.27.0.exe
+- name: latest-linux.yml
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/latest.yml

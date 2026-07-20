@@ -6,3 +6,22 @@ aur:
 - nostr-relay-tray-bin
 electron: 28.3.3
 method: aur-depends
+latest: v2.0.0
+src: https://github.com/CodyTseng/nostr-relay-tray/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: nostr-relay-tray-2.0.0-arm64-mac.zip
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray-2.0.0-arm64-mac.zip
+- name: nostr-relay-tray-2.0.0-arm64.dmg
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray-2.0.0-arm64.dmg
+- name: nostr-relay-tray-2.0.0-mac.zip
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray-2.0.0-mac.zip
+- name: nostr-relay-tray-2.0.0.AppImage
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray-2.0.0.AppImage
+- name: nostr-relay-tray-2.0.0.dmg
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray-2.0.0.dmg
+- name: nostr-relay-tray.Setup.2.0.0.exe
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray.Setup.2.0.0.exe
+- name: nostr-relay-tray_2.0.0_amd64.deb
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray_2.0.0_amd64.deb
+- name: nostr-relay-tray_2.0.0_amd64.snap
+  url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray_2.0.0_amd64.snap

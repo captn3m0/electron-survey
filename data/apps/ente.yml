@@ -10,3 +10,54 @@ packages:
   os: macos
 electron: 42.7.0
 method: aur-depends
+latest: v1.7.26
+src: https://github.com/ente-io/photos-desktop/archive/refs/tags/v1.7.26.zip
+downloads:
+- name: ente-1.7.26-aarch64.pacman
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-aarch64.pacman
+- name: ente-1.7.26-aarch64.rpm
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-aarch64.rpm
+- name: ente-1.7.26-amd64.deb
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-amd64.deb
+- name: ente-1.7.26-arm64.AppImage
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-arm64.AppImage
+- name: ente-1.7.26-arm64.deb
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-arm64.deb
+- name: ente-1.7.26-arm64.exe
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-arm64.exe
+- name: ente-1.7.26-arm64.exe.blockmap
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-arm64.exe.blockmap
+- name: ente-1.7.26-universal.dmg
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.dmg
+- name: ente-1.7.26-universal.dmg.blockmap
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.dmg.blockmap
+- name: ente-1.7.26-universal.zip
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.zip
+- name: ente-1.7.26-universal.zip.blockmap
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.zip.blockmap
+- name: ente-1.7.26-x64.exe
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-x64.exe
+- name: ente-1.7.26-x64.exe.blockmap
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-x64.exe.blockmap
+- name: ente-1.7.26-x64.pacman
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-x64.pacman
+- name: ente-1.7.26-x86_64.AppImage
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-x86_64.AppImage
+- name: ente-1.7.26-x86_64.rpm
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-x86_64.rpm
+- name: ente-1.7.26.exe
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26.exe
+- name: ente-1.7.26.exe.blockmap
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest.yml
+- url: https://github.com/ente-io/photos-desktop/releases/download/v1.7.26/ente-1.7.26-universal.dmg
+  name: ente-1.7.26-universal.dmg
+  version: 1.7.26
+homebrew: ente

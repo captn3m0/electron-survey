@@ -6,3 +6,10 @@ aur:
 - felida-bin
 electron: 24.8.8
 method: aur-depends
+latest: v0.2.4
+src: https://github.com/raluvy95/FelidaBrowser/archive/refs/tags/v0.2.4.zip
+downloads:
+- name: Felida.Browser-0.2.4-win.zip
+  url: https://github.com/raluvy95/FelidaBrowser/releases/download/v0.2.4/Felida.Browser-0.2.4-win.zip
+- name: Felida.Browser-0.2.4.AppImage
+  url: https://github.com/raluvy95/FelidaBrowser/releases/download/v0.2.4/Felida.Browser-0.2.4.AppImage

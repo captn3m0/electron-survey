@@ -4,3 +4,11 @@ website: https://github.com/Usta-Cagri/mybox
 repository: https://github.com/Usta-Cagri/mybox
 aur:
 - mybox-bin
+latest: v0.1.0
+src: https://github.com/Usta-Cagri/mybox/archive/refs/tags/v0.1.0.zip
+downloads:
+- name: portal-0.1.0.zip
+  url: https://github.com/Usta-Cagri/mybox/releases/download/v0.1.0/portal-0.1.0.zip
+electron: 41.2.0
+method: src-package-lock
+electron_src: https://github.com/Usta-Cagri/mybox/archive/refs/tags/v0.1.0.zip

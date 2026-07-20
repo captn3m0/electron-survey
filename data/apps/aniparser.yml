@@ -6,3 +6,18 @@ aur:
 - aniparser
 additionalAUR:
 - aniparser-bin
+latest: v0.4.1
+src: https://github.com/Sinedka/aniparser/archive/refs/tags/v0.4.1.zip
+downloads:
+- name: aniparser-0.4.1-arm64.dmg
+  url: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/aniparser-0.4.1-arm64.dmg
+- name: aniparser-0.4.1.AppImage
+  url: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/aniparser-0.4.1.AppImage
+- name: aniparser.Setup.0.4.1.exe
+  url: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/aniparser.Setup.0.4.1.exe
+- name: dist-full.tar.gz
+  url: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/dist-full.tar.gz
+electron: 35.7.5
+method: src-range-guess
+electron_src: https://github.com/Sinedka/aniparser/archive/refs/tags/v0.4.1.zip
+we_tried: we0:v0.4.1

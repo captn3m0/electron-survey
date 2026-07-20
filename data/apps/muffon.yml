@@ -32,3 +32,52 @@ aur:
 - muffon-git
 electron: 39.2.7
 method: which-electron-rg
+latest: v2.4.0
+src: https://github.com/staniel359/muffon/archive/refs/tags/v2.4.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/latest.yml
+- name: muffon-2.4.0-linux-aarch64.flatpak
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-aarch64.flatpak
+- name: muffon-2.4.0-linux-aarch64.pacman
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-aarch64.pacman
+- name: muffon-2.4.0-linux-aarch64.rpm
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-aarch64.rpm
+- name: muffon-2.4.0-linux-amd64.deb
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-amd64.deb
+- name: muffon-2.4.0-linux-arm64.AppImage
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-arm64.AppImage
+- name: muffon-2.4.0-linux-arm64.deb
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-arm64.deb
+- name: muffon-2.4.0-linux-x64.pacman
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-x64.pacman
+- name: muffon-2.4.0-linux-x86_64.AppImage
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-x86_64.AppImage
+- name: muffon-2.4.0-linux-x86_64.flatpak
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-x86_64.flatpak
+- name: muffon-2.4.0-linux-x86_64.rpm
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-x86_64.rpm
+- name: muffon-2.4.0-mac-arm64.dmg
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-arm64.dmg
+- name: muffon-2.4.0-mac-arm64.dmg.blockmap
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-arm64.dmg.blockmap
+- name: muffon-2.4.0-mac-arm64.pkg
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-arm64.pkg
+- name: muffon-2.4.0-mac-x64.dmg
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-x64.dmg
+- name: muffon-2.4.0-mac-x64.dmg.blockmap
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-x64.dmg.blockmap
+- name: muffon-2.4.0-mac-x64.pkg
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-mac-x64.pkg
+- name: muffon-2.4.0-win-x64-portable.exe
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64-portable.exe
+- name: muffon-2.4.0-win-x64.exe
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64.exe
+- name: muffon-2.4.0-win-x64.exe.blockmap
+  url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64.exe.blockmap

@@ -5,3 +5,8 @@ aur:
 - wp-desktop-bin
 electron: 39.8.10
 method: aur-depends
+homebrew: wordpresscom
+downloads:
+- url: https://github.com/Automattic/wp-desktop/releases/download/v8.2.3/wordpress.com-macOS-dmg-8.2.3-arm64.dmg
+  name: wordpress.com-macOS-dmg-8.2.3-arm64.dmg
+  version: 8.2.3

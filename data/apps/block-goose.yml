@@ -8,7 +8,64 @@ packages:
   os: macos
 homebrew: block-goose
 downloads:
-- url: https://github.com/block/goose/releases/download/v1.43.0/Goose.zip
-  name: Goose.zip
-  version: 1.43.0
-we_tried: urls:86d21bd3d9fa
+- name: download_cli.sh
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/download_cli.sh
+- name: Goose-1.43.0-1.x86_64-vulkan.rpm
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-1.43.0-1.x86_64-vulkan.rpm
+- name: Goose-1.43.0-1.x86_64.rpm
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-1.43.0-1.x86_64.rpm
+- name: goose-aarch64-apple-darwin.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-apple-darwin.tar.bz2
+- name: goose-aarch64-apple-darwin.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-apple-darwin.tar.gz
+- name: goose-aarch64-unknown-linux-gnu-vulkan.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-unknown-linux-gnu-vulkan.tar.bz2
+- name: goose-aarch64-unknown-linux-gnu-vulkan.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-unknown-linux-gnu-vulkan.tar.gz
+- name: goose-aarch64-unknown-linux-gnu.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-unknown-linux-gnu.tar.bz2
+- name: goose-aarch64-unknown-linux-gnu.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-unknown-linux-gnu.tar.gz
+- name: goose-aarch64-unknown-linux-musl.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-unknown-linux-musl.tar.bz2
+- name: goose-aarch64-unknown-linux-musl.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-aarch64-unknown-linux-musl.tar.gz
+- name: Goose-win32-x64-cuda.zip
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-win32-x64-cuda.zip
+- name: Goose-win32-x64.zip
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-win32-x64.zip
+- name: goose-x86_64-apple-darwin.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-apple-darwin.tar.bz2
+- name: goose-x86_64-apple-darwin.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-apple-darwin.tar.gz
+- name: goose-x86_64-pc-windows-msvc-cuda.zip
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-pc-windows-msvc-cuda.zip
+- name: goose-x86_64-pc-windows-msvc.zip
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-pc-windows-msvc.zip
+- name: goose-x86_64-unknown-linux-gnu-vulkan.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-unknown-linux-gnu-vulkan.tar.bz2
+- name: goose-x86_64-unknown-linux-gnu-vulkan.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-unknown-linux-gnu-vulkan.tar.gz
+- name: goose-x86_64-unknown-linux-gnu.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-unknown-linux-gnu.tar.bz2
+- name: goose-x86_64-unknown-linux-gnu.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-unknown-linux-gnu.tar.gz
+- name: goose-x86_64-unknown-linux-musl.tar.bz2
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-unknown-linux-musl.tar.bz2
+- name: goose-x86_64-unknown-linux-musl.tar.gz
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose-x86_64-unknown-linux-musl.tar.gz
+- name: Goose.zip
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose.zip
+- name: goose_1.43.0_amd64-vulkan.deb
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose_1.43.0_amd64-vulkan.deb
+- name: goose_1.43.0_amd64.deb
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/goose_1.43.0_amd64.deb
+- name: Goose_intel_mac.zip
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose_intel_mac.zip
+- name: io.github.block.Goose_stable_x86_64-vulkan.flatpak
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/io.github.block.Goose_stable_x86_64-vulkan.flatpak
+- name: io.github.block.Goose_stable_x86_64.flatpak
+  url: https://github.com/aaif-goose/goose/releases/download/v1.43.0/io.github.block.Goose_stable_x86_64.flatpak
+we_tried: we0:v1.43.0
+latest: v1.43.0
+src: https://github.com/block/goose/archive/refs/tags/v1.43.0.zip

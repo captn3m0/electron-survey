@@ -8,3 +8,12 @@ additionalAUR:
 - pguirestore-bin
 electron: 34.5.8
 method: aur-depends
+latest: v2.3.7
+src: https://github.com/RolandoHidalgo/pg-restore-electron/archive/refs/tags/v2.3.7.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/RolandoHidalgo/pg-restore-electron/releases/download/v2.3.7/latest.yml
+- name: PgUiRestore-2.3.7-setup.exe
+  url: https://github.com/RolandoHidalgo/pg-restore-electron/releases/download/v2.3.7/PgUiRestore-2.3.7-setup.exe
+- name: PgUiRestore-2.3.7-setup.exe.blockmap
+  url: https://github.com/RolandoHidalgo/pg-restore-electron/releases/download/v2.3.7/PgUiRestore-2.3.7-setup.exe.blockmap

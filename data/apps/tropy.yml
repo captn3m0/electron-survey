@@ -68,3 +68,4 @@ aur:
 - tropy-bin
 homebrew: tropy
 name: Tropy
+electron_src: https://github.com/tropy/tropy/archive/refs/tags/v1.17.3.zip

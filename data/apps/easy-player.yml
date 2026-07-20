@@ -6,3 +6,8 @@ aur:
 - easy-player
 electron: 25.9.8
 method: aur-depends
+latest: v0.1.4
+src: https://github.com/CmarThaa/music_player/archive/refs/tags/v0.1.4.zip
+downloads:
+- name: easy-player-win32-x64.rar
+  url: https://github.com/CmarThaa/music_player/releases/download/v0.1.4/easy-player-win32-x64.rar

@@ -15,3 +15,4 @@ downloads:
 electron: 10.4.7
 method: src-range-guess
 name: ImageShrinker
+electron_src: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip

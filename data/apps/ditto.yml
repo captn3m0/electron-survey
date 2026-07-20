@@ -14,3 +14,4 @@ homebrew: ditto
 name: Ditto++
 aur:
 - ditto
+electron_src: https://github.com/RubinderS/DittoPlusPlus/archive/refs/tags/v1.0.0.zip

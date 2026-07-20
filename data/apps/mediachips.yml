@@ -1,19 +1,20 @@
 id: mediachips
 repository: https://github.com/fupdec/mediaChips
 website: https://mediachips.app
-latest: v0.12.5-beta
-src: https://github.com/fupdec/mediaChips/archive/refs/tags/v0.12.5-beta.zip
+latest: v1.3.4
+src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.3.4.zip
 downloads:
-- name: MediaChips.v0.12.0.Linux.AppImage
-  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.0.Linux.AppImage
-- name: MediaChips.v0.12.0.Windows.Portable.exe
-  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.0.Windows.Portable.exe
-- name: MediaChips.v0.12.5.Mac.dmg
-  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.5.Mac.dmg
-- name: MediaChips.v0.12.5.Windows.Installer.exe
-  url: https://github.com/fupdec/mediaChips/releases/download/v0.12.5-beta/MediaChips.v0.12.5.Windows.Installer.exe
-electron: 17.0.0
+- name: latest-linux.yml
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest.yml
+- name: MediaChips.v1.3.4.Linux.AppImage
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Linux.AppImage
+electron: 42.5.0
 method: src-package-lock
 aur:
 - mediachips-bin
 name: mediaChips
+electron_src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.3.4.zip

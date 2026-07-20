@@ -6,3 +6,5 @@ aur:
 - cocomusic
 electron: 4.2.12
 method: aur-depends
+latest: v2.0.8
+src: https://github.com/xtuJSer/CoCoMusic/archive/refs/tags/v2.0.8.zip

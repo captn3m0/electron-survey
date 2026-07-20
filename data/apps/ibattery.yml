@@ -6,3 +6,10 @@ aur:
 - ibattery-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/kofi-arthur/iBattery/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: ibattery-setup.exe
+  url: https://github.com/kofi-arthur/iBattery/releases/download/v1.0.0/ibattery-setup.exe
+- name: ibattery-setup.organization.exe
+  url: https://github.com/kofi-arthur/iBattery/releases/download/v1.0.0/ibattery-setup.organization.exe

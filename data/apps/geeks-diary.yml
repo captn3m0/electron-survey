@@ -11,3 +11,4 @@ downloads:
 electron: 2.0.11
 method: src-yarn-lock
 name: Geeks Diary
+electron_src: https://github.com/seokju-na/geeks-diary/archive/refs/tags/1.0.0-beta2.zip

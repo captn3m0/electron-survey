@@ -32,3 +32,4 @@ electron: 11.4.4
 method: src-yarn-lock
 homebrew: exifcleaner
 name: ExifCleaner
+electron_src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v3.6.0.zip

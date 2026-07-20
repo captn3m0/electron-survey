@@ -6,3 +6,16 @@ aur:
 - electronwmd-bin
 electron: 31.7.7
 method: aur-depends
+latest: v0.5.2-1.5.3
+src: https://github.com/asivery/ElectronWMD/archive/refs/tags/v0.5.2-1.5.3.zip
+downloads:
+- name: electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
+  url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
+- name: electronwmd-0.5.2-1.5.3-mac_arm64.dmg
+  url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-mac_arm64.dmg
+- name: electronwmd-0.5.2-1.5.3-mac_x64.dmg
+  url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-mac_x64.dmg
+- name: electronwmd-0.5.2-1.5.3-win_ia32.exe
+  url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-win_ia32.exe
+- name: electronwmd-0.5.2-1.5.3-win_x64.exe
+  url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-win_x64.exe

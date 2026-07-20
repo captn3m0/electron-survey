@@ -10,3 +10,20 @@ packages:
   os: macos
 electron: 33.4.11
 method: aur-depends
+latest: v1.1.1
+src: https://github.com/mikepruett3/homeassistant-desktop/archive/refs/tags/v1.1.1.zip
+downloads:
+- name: Home.Assistant.Desktop-1.1.1.AppImage
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/Home.Assistant.Desktop-1.1.1.AppImage
+- name: Home.Assistant.Desktop-1.1.1.Setup.exe
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/Home.Assistant.Desktop-1.1.1.Setup.exe
+- name: Home.Assistant.Desktop-darwin-x64-1.1.1.zip
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/Home.Assistant.Desktop-darwin-x64-1.1.1.zip
+- name: homeassistant-desktop-1.1.1-1.x86_64.rpm
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/homeassistant-desktop-1.1.1-1.x86_64.rpm
+- name: homeassistant-desktop_1.1.1_amd64.deb
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/homeassistant-desktop_1.1.1_amd64.deb
+- name: homeassistant_desktop-1.1.1-full.nupkg
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/homeassistant_desktop-1.1.1-full.nupkg
+- name: RELEASES
+  url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/RELEASES

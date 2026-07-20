@@ -6,3 +6,20 @@ aur:
 - magicavoxel-launcher-bin
 electron: 30.5.1
 method: aur-depends
+latest: v1.0.2
+src: https://github.com/Kan-A-Pesh/magicavoxel-launcher/archive/refs/tags/v1.0.2.zip
+downloads:
+- name: magicavoxel-launcher-1.0.2-1.x86_64.rpm
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-1.0.2-1.x86_64.rpm
+- name: magicavoxel-launcher-1.0.2.Setup.exe
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-1.0.2.Setup.exe
+- name: magicavoxel-launcher-darwin-arm64-1.0.2.zip
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-darwin-arm64-1.0.2.zip
+- name: magicavoxel-launcher-linux-x64-1.0.2.zip
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-linux-x64-1.0.2.zip
+- name: magicavoxel-launcher_1.0.2_amd64.deb
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher_1.0.2_amd64.deb
+- name: magicavoxel_launcher-1.0.2-full.nupkg
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel_launcher-1.0.2-full.nupkg
+- name: RELEASES
+  url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/RELEASES

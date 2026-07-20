@@ -4,3 +4,25 @@ website: https://github.com/mn6/nook-desktop
 repository: https://github.com/mn6/nook-desktop
 aur:
 - nook-desktop-electron-bin
+latest: v1.0.10
+src: https://github.com/mn6/nook-desktop/archive/refs/tags/v1.0.10.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/latest.yml
+- name: nook-desktop-1.0.10-x64.nsis.7z
+  url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/nook-desktop-1.0.10-x64.nsis.7z
+- name: NookSetup.dmg
+  url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/NookSetup.dmg
+- name: NookSetup.dmg.blockmap
+  url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/NookSetup.dmg.blockmap
+- name: NookSetup.exe
+  url: https://github.com/mn6/nook-desktop/releases/download/v1.0.10/NookSetup.exe
+- url: https://github.com/nook-browser/Nook/releases/download/v1.0.7/Nook-v1.0.7.dmg
+  name: Nook-v1.0.7.dmg
+  version: 1.0.7
+homebrew: nook
+electron: 23.0.0
+method: src-package-lock
+electron_src: https://github.com/mn6/nook-desktop/archive/refs/tags/v1.0.10.zip

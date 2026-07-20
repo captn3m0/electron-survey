@@ -6,3 +6,20 @@ aur:
 - gensokyo-bin
 electron: 31.7.7
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/Prince527GitHub/Gensokyo-Radio/archive/refs/tags/1.0.0.zip
+downloads:
+- name: Debian.zip
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Debian.zip
+- name: Fedora.zip
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Fedora.zip
+- name: Flatpak.zip
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Flatpak.zip
+- name: Linux.zip
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Linux.zip
+- name: MacOS.dmg
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/MacOS.dmg
+- name: MacOS.zip
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/MacOS.zip
+- name: Windows.zip
+  url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Windows.zip

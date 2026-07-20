@@ -6,3 +6,33 @@ aur:
 - neuro-karaoke-wrapper-git
 additionalAUR:
 - neuro-karaoke-app
+latest: v1.7.0
+src: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.7.0.zip
+downloads:
+- name: Neuro.Karaoke.Player-arm64.AppImage
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-arm64.AppImage
+- name: Neuro.Karaoke.Player-arm64.deb
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-arm64.deb
+- name: Neuro.Karaoke.Player-arm64.flatpak
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-arm64.flatpak
+- name: Neuro.Karaoke.Player-arm64.rpm
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-arm64.rpm
+- name: Neuro.Karaoke.Player-x86_64.AppImage
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-x86_64.AppImage
+- name: Neuro.Karaoke.Player-x86_64.deb
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-x86_64.deb
+- name: Neuro.Karaoke.Player-x86_64.flatpak
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-x86_64.flatpak
+- name: Neuro.Karaoke.Player-x86_64.rpm
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player-x86_64.rpm
+- name: Neuro.Karaoke.Player.apk
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player.apk
+- name: Neuro.Karaoke.Player.Setup.Apple.Silicon.zip
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player.Setup.Apple.Silicon.zip
+- name: Neuro.Karaoke.Player.Setup.dmg
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Player.Setup.dmg
+- name: Neuro.Karaoke.Setup.exe
+  url: https://github.com/AferilVT/neuro-karaoke-wrapper/releases/download/v1.7.0/Neuro.Karaoke.Setup.exe
+electron: 40.9.3
+method: src-yarn-lock
+electron_src: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.7.0.zip

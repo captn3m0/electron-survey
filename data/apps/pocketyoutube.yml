@@ -6,3 +6,8 @@ aur:
 - pocketyoutube-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.3.1
+src: https://github.com/0adri3n/PocketYoutube/archive/refs/tags/v1.3.1.zip
+downloads:
+- name: PocketYoutube-win32-x64-v1.3.1.zip
+  url: https://github.com/0adri3n/PocketYoutube/releases/download/v1.3.1/PocketYoutube-win32-x64-v1.3.1.zip

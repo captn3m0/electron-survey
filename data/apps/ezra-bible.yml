@@ -4,3 +4,39 @@ website: https://github.com/ezra-bible-app/ezra-bible-app
 repository: https://github.com/ezra-bible-app/ezra-bible-app
 aur:
 - ezra-bible-app-git
+latest: 1.20.0
+src: https://github.com/ezra-bible-app/ezra-bible-app/archive/refs/tags/1.20.0.zip
+downloads:
+- name: ezra-bible-app_centos9-1.20.0.rpm
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_centos9-1.20.0.rpm
+- name: ezra-bible-app_debian11-1.20.0.deb
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_debian11-1.20.0.deb
+- name: ezra-bible-app_debian12-1.20.0.deb
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_debian12-1.20.0.deb
+- name: ezra-bible-app_debian13-1.20.0.deb
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_debian13-1.20.0.deb
+- name: ezra-bible-app_fedora33-1.20.0.rpm
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_fedora33-1.20.0.rpm
+- name: ezra-bible-app_fedora35-1.20.0.rpm
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_fedora35-1.20.0.rpm
+- name: ezra-bible-app_fedora37-1.20.0.rpm
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_fedora37-1.20.0.rpm
+- name: ezra-bible-app_macos_arm64-1.20.0.dmg
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_macos_arm64-1.20.0.dmg
+- name: ezra-bible-app_macos_x64-1.20.0.dmg
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_macos_x64-1.20.0.dmg
+- name: ezra-bible-app_opensuse_leap_15.5-1.20.0.rpm
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_opensuse_leap_15.5-1.20.0.rpm
+- name: ezra-bible-app_opensuse_leap_15.6-1.20.0.rpm
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_opensuse_leap_15.6-1.20.0.rpm
+- name: ezra-bible-app_ubuntu2004-1.20.0.deb
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_ubuntu2004-1.20.0.deb
+- name: ezra-bible-app_ubuntu2204-1.20.0.deb
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_ubuntu2204-1.20.0.deb
+- name: ezra-bible-app_ubuntu2404-1.20.0.deb
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_ubuntu2404-1.20.0.deb
+- name: ezra-bible-app_win32_setup-1.20.0.exe
+  url: https://github.com/ezra-bible-app/ezra-bible-app/releases/download/1.20.0/ezra-bible-app_win32_setup-1.20.0.exe
+electron: 32.3.3
+method: src-range-guess
+electron_src: https://github.com/ezra-bible-app/ezra-bible-app/archive/refs/tags/1.20.0.zip

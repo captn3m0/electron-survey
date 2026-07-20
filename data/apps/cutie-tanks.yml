@@ -6,3 +6,10 @@ aur:
 - cutie-tanks
 additionalAUR:
 - cutie-tanks-git
+latest: v1.5
+src: https://github.com/RobinBoers/cutie-tanks/archive/refs/tags/v1.5.zip
+downloads:
+- name: cutie-tanks-1.5-1-x86_64.pkg.tar.zst
+  url: https://github.com/RobinBoers/cutie-tanks/releases/download/v1.5/cutie-tanks-1.5-1-x86_64.pkg.tar.zst
+- name: release.zip
+  url: https://github.com/RobinBoers/cutie-tanks/releases/download/v1.5/release.zip

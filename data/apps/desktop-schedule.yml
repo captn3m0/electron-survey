@@ -6,3 +6,22 @@ aur:
 - desktop-schedule-bin
 electron: 16.2.8
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/TimFang4162/desktop-schedule/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: Desktop.Schedule-linux-x64-setup-1.1.0.tar.gz
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-linux-x64-setup-1.1.0.tar.gz
+- name: Desktop.Schedule-linux-x86_64-setup-1.1.0.AppImage
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-linux-x86_64-setup-1.1.0.AppImage
+- name: Desktop.Schedule-mac-x64-setup-1.1.0.dmg
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-mac-x64-setup-1.1.0.dmg
+- name: Desktop.Schedule-mac-x64-setup-1.1.0.zip
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-mac-x64-setup-1.1.0.zip
+- name: Desktop.Schedule-win-ia32-setup-1.1.0.exe
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-win-ia32-setup-1.1.0.exe
+- name: Desktop.Schedule-win-setup-1.1.0.exe
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-win-setup-1.1.0.exe
+- name: Desktop.Schedule-win-x64-setup-1.1.0.exe
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-win-x64-setup-1.1.0.exe
+- name: Desktop.Schedule-win-x64-setup-1.1.0.zip
+  url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-win-x64-setup-1.1.0.zip

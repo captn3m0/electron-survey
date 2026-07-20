@@ -6,3 +6,10 @@ aur:
 - pintomind-player-git
 electron: 33.4.11
 method: aur-depends
+latest: v.1.2.0
+src: https://github.com/favo/electron-player/archive/refs/tags/v.1.2.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/favo/electron-player/releases/download/v.1.2.0/latest-linux-arm64.yml
+- name: pintomind-player.AppImage
+  url: https://github.com/favo/electron-player/releases/download/v.1.2.0/pintomind-player.AppImage

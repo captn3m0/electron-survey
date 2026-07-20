@@ -6,3 +6,4 @@ src: https://github.com/AkashRajpurohit/clipper/archive/refs/tags/v1.0.5.zip
 electron: 8.5.2
 method: src-package-lock
 name: Clipper
+electron_src: https://github.com/AkashRajpurohit/clipper/archive/refs/tags/v1.0.5.zip

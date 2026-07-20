@@ -28,3 +28,5 @@ downloads:
   version: 2.1.5
 electron: 26.4.3
 method: which-electron-rg
+latest: release-v2.1.4
+src: https://github.com/decred/decrediton/archive/refs/tags/release-v2.1.4.zip

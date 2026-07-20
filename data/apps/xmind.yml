@@ -7,3 +7,8 @@ packages:
   os: macos
 aur:
 - xmind
+homebrew: xmind
+downloads:
+- url: https://dl3.xmind.net/Xmind-for-macOS-26.04.01341-202607130058.dmg
+  name: Xmind-for-macOS-26.04.01341-202607130058.dmg
+  version: 26.04.01341-202607130058

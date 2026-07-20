@@ -6,3 +6,5 @@ aur:
 - melt-mdeditor-git
 electron: 27.3.11
 method: aur-depends
+latest: v2.12.1
+src: https://github.com/qazsato/melt/archive/refs/tags/v2.12.1.zip

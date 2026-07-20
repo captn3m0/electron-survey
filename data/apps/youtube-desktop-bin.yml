@@ -8,3 +8,20 @@ additionalAUR:
 - youtube-desktop-bin
 electron: 41.10.2
 method: aur-depends
+latest: v1.0.5
+src: https://github.com/mikepruett3/youtube-desktop/archive/refs/tags/v1.0.5.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/RELEASES
+- name: youtube-desktop-1.0.5-1.x86_64.rpm
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/youtube-desktop-1.0.5-1.x86_64.rpm
+- name: youtube-desktop_1.0.5_amd64.deb
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/youtube-desktop_1.0.5_amd64.deb
+- name: YouTube.Desktop-1.0.5.AppImage
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/YouTube.Desktop-1.0.5.AppImage
+- name: YouTube.Desktop-1.0.5.Setup.exe
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/YouTube.Desktop-1.0.5.Setup.exe
+- name: YouTube.Desktop-darwin-x64-1.0.5.zip
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/YouTube.Desktop-darwin-x64-1.0.5.zip
+- name: youtube_desktop-1.0.5-full.nupkg
+  url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/youtube_desktop-1.0.5-full.nupkg

@@ -26,3 +26,4 @@ electron: 6.1.4
 method: src-yarn-lock
 homebrew: postbird
 name: Postbird
+electron_src: https://github.com/Paxa/postbird/archive/refs/tags/0.8.4.zip

@@ -6,3 +6,15 @@ aur:
 - altitude-metrix-wallet-bin
 electron: 33.4.11
 method: aur-depends
+latest: 3.4.2
+src: https://github.com/TheLindaProjectInc/Altitude/archive/refs/tags/3.4.2.zip
+downloads:
+- name: Altitude-Metrix-Wallet-linux-x64.AppImage
+  url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-linux-x64.AppImage
+- name: Altitude-Metrix-Wallet-mac-x64.dmg
+  url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-mac-x64.dmg
+- name: Altitude-Metrix-Wallet-win32-x64.exe
+  url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-win32-x64.exe
+- name: Altitude-Metrix-Wallet-win32-x86.exe
+  url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-win32-x86.exe
+we_tried: we0:3.4.2

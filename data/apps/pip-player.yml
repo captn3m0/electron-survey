@@ -6,3 +6,10 @@ aur:
 - pip-player-git
 electron: 31.7.7
 method: aur-depends
+latest: release-1.2.1
+src: https://github.com/WickyPlays/pip-player/archive/refs/tags/release-1.2.1.zip
+downloads:
+- name: PIP-Player-Setup-1.2.1.exe
+  url: https://github.com/WickyPlays/pip-player/releases/download/release-1.2.1/PIP-Player-Setup-1.2.1.exe
+- name: PIP-Player.1.2.1.exe
+  url: https://github.com/WickyPlays/pip-player/releases/download/release-1.2.1/PIP-Player.1.2.1.exe

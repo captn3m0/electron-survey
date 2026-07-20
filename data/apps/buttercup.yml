@@ -42,3 +42,4 @@ aur:
 - buttercup
 homebrew: buttercup
 name: Buttercup
+electron_src: https://github.com/buttercup/buttercup-desktop/archive/refs/tags/v2.28.1.zip

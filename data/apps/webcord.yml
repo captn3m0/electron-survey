@@ -43,3 +43,50 @@ aur:
 - webcord
 electron: 43.1.1
 method: aur-depends
+latest: v4.14.0
+src: https://github.com/SpacingBat3/WebCord/archive/refs/tags/v4.14.0.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/RELEASES
+- name: webcord-4.14.0-1.arm64.rpm
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-4.14.0-1.arm64.rpm
+- name: webcord-4.14.0-1.armv7hl.rpm
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-4.14.0-1.armv7hl.rpm
+- name: webcord-4.14.0-1.x86_64.rpm
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-4.14.0-1.x86_64.rpm
+- name: WebCord-4.14.0-arm64.AppImage
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord-4.14.0-arm64.AppImage
+- name: WebCord-4.14.0-armv7l.AppImage
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord-4.14.0-armv7l.AppImage
+- name: webcord-4.14.0-full.nupkg
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-4.14.0-full.nupkg
+- name: WebCord-4.14.0-x64.AppImage
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord-4.14.0-x64.AppImage
+- name: webcord-squirrel-arm64.exe
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-squirrel-arm64.exe
+- name: webcord-squirrel-arm64.msi
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-squirrel-arm64.msi
+- name: webcord-squirrel-ia32.exe
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-squirrel-ia32.exe
+- name: webcord-squirrel-ia32.msi
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-squirrel-ia32.msi
+- name: webcord-squirrel-x64.exe
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-squirrel-x64.exe
+- name: webcord-squirrel-x64.msi
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord-squirrel-x64.msi
+- name: WebCord-win32-arm64-4.14.0.zip
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord-win32-arm64-4.14.0.zip
+- name: WebCord-win32-ia32-4.14.0.zip
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord-win32-ia32-4.14.0.zip
+- name: WebCord-win32-x64-4.14.0.zip
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord-win32-x64-4.14.0.zip
+- name: WebCord.arm64.dmg
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord.arm64.dmg
+- name: WebCord.x64.dmg
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/WebCord.x64.dmg
+- name: webcord_4.14.0_amd64.deb
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord_4.14.0_amd64.deb
+- name: webcord_4.14.0_arm64.deb
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord_4.14.0_arm64.deb
+- name: webcord_4.14.0_armhf.deb
+  url: https://github.com/SpacingBat3/WebCord/releases/download/v4.14.0/webcord_4.14.0_armhf.deb

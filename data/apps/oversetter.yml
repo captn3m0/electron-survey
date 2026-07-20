@@ -21,3 +21,4 @@ downloads:
 electron: 7.2.4
 method: src-package-lock
 name: Oversetter
+electron_src: https://github.com/4gray/oversetter/archive/refs/tags/v0.4.0.zip

@@ -33,3 +33,56 @@ packages:
   arch: arm64
 electron: 37.6.1
 method: which-electron-rg
+latest: v2.12.2
+src: https://github.com/lyswhut/lx-music-desktop/archive/refs/tags/v2.12.2.zip
+downloads:
+- name: latest-linux-arm.yml
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/latest-linux-arm.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/latest.yml
+- name: lx-music-desktop-2.12.2-arm64.dmg
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2-arm64.dmg
+- name: lx-music-desktop-2.12.2-arm64.dmg.blockmap
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2-arm64.dmg.blockmap
+- name: lx-music-desktop-2.12.2-x64.dmg
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2-x64.dmg
+- name: lx-music-desktop-2.12.2-x64.dmg.blockmap
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2-x64.dmg.blockmap
+- name: lx-music-desktop-2.12.2.x64.rpm
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2.x64.rpm
+- name: lx-music-desktop-v2.12.2-arm64-Setup.exe
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-arm64-Setup.exe
+- name: lx-music-desktop-v2.12.2-arm64-Setup.exe.blockmap
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-arm64-Setup.exe.blockmap
+- name: lx-music-desktop-v2.12.2-win7_x64-green.7z
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win7_x64-green.7z
+- name: lx-music-desktop-v2.12.2-win7_x64-Setup.exe
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win7_x64-Setup.exe
+- name: lx-music-desktop-v2.12.2-win7_x64-Setup.exe.blockmap
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win7_x64-Setup.exe.blockmap
+- name: lx-music-desktop-v2.12.2-win7_x86-green.7z
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win7_x86-green.7z
+- name: lx-music-desktop-v2.12.2-win_arm64-green.7z
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win_arm64-green.7z
+- name: lx-music-desktop-v2.12.2-win_x64-green.7z
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-win_x64-green.7z
+- name: lx-music-desktop-v2.12.2-x64-Setup.exe
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-x64-Setup.exe
+- name: lx-music-desktop-v2.12.2-x64-Setup.exe.blockmap
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-v2.12.2-x64-Setup.exe.blockmap
+- name: lx-music-desktop_2.12.2_amd64.deb
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_amd64.deb
+- name: lx-music-desktop_2.12.2_arm64.deb
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_arm64.deb
+- name: lx-music-desktop_2.12.2_armv7l.deb
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_armv7l.deb
+- name: lx-music-desktop_2.12.2_x64.AppImage
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_x64.AppImage
+- name: lx-music-desktop_2.12.2_x64.pacman
+  url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_x64.pacman

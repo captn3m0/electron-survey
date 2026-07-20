@@ -6,3 +6,12 @@ aur:
 - postkid-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/Febrandt/postkid/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: post-kid-1.0.0.Setup.exe
+  url: https://github.com/Febrandt/postkid/releases/download/v1.0.0/post-kid-1.0.0.Setup.exe
+- name: post_kid-1.0.0-full.nupkg
+  url: https://github.com/Febrandt/postkid/releases/download/v1.0.0/post_kid-1.0.0-full.nupkg
+- name: RELEASES
+  url: https://github.com/Febrandt/postkid/releases/download/v1.0.0/RELEASES

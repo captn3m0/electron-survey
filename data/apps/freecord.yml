@@ -6,3 +6,8 @@ aur:
 - freecord-git
 electron: 30.5.1
 method: aur-depends
+latest: v1.0.0-beta
+src: https://github.com/MR-MKZ/Freecord/archive/refs/tags/v1.0.0-beta.zip
+downloads:
+- name: Freecord-win32-x64-1.0.0-beta.zip
+  url: https://github.com/MR-MKZ/Freecord/releases/download/v1.0.0-beta/Freecord-win32-x64-1.0.0-beta.zip

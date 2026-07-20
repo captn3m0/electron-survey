@@ -6,3 +6,23 @@ aur:
 - botclient-bin
 electron: 28.3.3
 method: aur-depends
+latest: v0.12.1-alpha
+src: https://github.com/DarkGuy10/BotClient/archive/refs/tags/v0.12.1-alpha.zip
+downloads:
+- name: BotClient-linux-x86_64.AppImage
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-linux-x86_64.AppImage
+- name: BotClient-mac-x64.dmg
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-mac-x64.dmg
+- name: BotClient-mac-x64.dmg.blockmap
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-mac-x64.dmg.blockmap
+- name: BotClient-win-x64.exe
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-win-x64.exe
+- name: BotClient-win-x64.exe.blockmap
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-win-x64.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/latest.yml
+we_tried: we0:v0.12.1-alpha

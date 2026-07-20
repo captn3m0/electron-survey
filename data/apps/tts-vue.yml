@@ -15,3 +15,10 @@ aur:
 - tts-vue
 electron: 19.1.9
 method: aur-depends
+latest: 1.9.15
+src: https://github.com/LokerL/tts-vue/archive/refs/tags/1.9.15.zip
+downloads:
+- name: tts-vue-macos-latest.zip
+  url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-macos-latest.zip
+- name: tts-vue-windows-latest.zip
+  url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-windows-latest.zip

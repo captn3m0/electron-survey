@@ -9,3 +9,4 @@ downloads:
 electron: 12.2.3
 method: src-range-guess
 name: Wanna Class
+electron_src: https://github.com/MissterHao/WannaClass/archive/refs/tags/v1.0.0.zip

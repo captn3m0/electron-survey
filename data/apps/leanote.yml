@@ -12,6 +12,15 @@ electron: 12.2.3
 method: aur-depends
 homebrew: leanote
 downloads:
-- url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-mac-v2.7.0.zip
-  name: leanote-desktop-mac-v2.7.0.zip
-  version: 2.7.0
+- name: leanote-desktop-linux-ia32-v2.7.0.zip
+  url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-linux-ia32-v2.7.0.zip
+- name: leanote-desktop-linux-x64-v2.7.0.zip
+  url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-linux-x64-v2.7.0.zip
+- name: leanote-desktop-mac-v2.7.0.zip
+  url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-mac-v2.7.0.zip
+- name: leanote-desktop-windows-ia32-v2.7.0.zip
+  url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-windows-ia32-v2.7.0.zip
+- name: leanote-desktop-windows-x64-v2.7.0.zip
+  url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-windows-x64-v2.7.0.zip
+latest: v2.7.0
+src: https://github.com/leanote/desktop-app/archive/refs/tags/v2.7.0.zip

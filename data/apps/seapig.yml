@@ -19,3 +19,4 @@ downloads:
 electron: 6.1.12
 method: src-range-guess
 name: SeaPig
+electron_src: https://github.com/yasumichi/seapig/archive/refs/tags/v0.8.2.zip

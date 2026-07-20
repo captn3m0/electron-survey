@@ -6,3 +6,14 @@ aur:
 - stealthplane-bin
 electron: 29.4.6
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/mahdi991613487/StealthPlane/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: stealthplane-linux-x64.zip
+  url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-linux-x64.zip
+- name: stealthplane-macOS-x64.zip
+  url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-macOS-x64.zip
+- name: stealthplane-win32-ia32.zip
+  url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-win32-ia32.zip
+- name: stealthplane-windows.zip
+  url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-windows.zip

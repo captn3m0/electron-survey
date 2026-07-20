@@ -6,3 +6,66 @@ aur:
 - pear-desktop-arjix-git
 electron: 40.10.6
 method: aur-depends
+latest: v3.11.4
+src: https://github.com/ArjixWasTaken/pear-desktop/archive/refs/tags/v3.11.4.zip
+downloads:
+- name: latest-linux-arm.yml
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/latest-linux-arm.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/latest.yml
+- name: YouTube-Music-3.11.4-arm64.AppImage
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4-arm64.AppImage
+- name: YouTube-Music-3.11.4-arm64.dmg
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4-arm64.dmg
+- name: YouTube-Music-3.11.4-arm64.dmg.blockmap
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4-arm64.dmg.blockmap
+- name: youtube-music-3.11.4-arm64.freebsd
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-arm64.freebsd
+- name: youtube-music-3.11.4-arm64.nsis.7z
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-arm64.nsis.7z
+- name: youtube-music-3.11.4-arm64.tar.gz
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-arm64.tar.gz
+- name: YouTube-Music-3.11.4-armv7l.AppImage
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4-armv7l.AppImage
+- name: youtube-music-3.11.4-armv7l.freebsd
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-armv7l.freebsd
+- name: youtube-music-3.11.4-armv7l.tar.gz
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-armv7l.tar.gz
+- name: youtube-music-3.11.4-ia32.nsis.7z
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-ia32.nsis.7z
+- name: youtube-music-3.11.4-x64.nsis.7z
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4-x64.nsis.7z
+- name: YouTube-Music-3.11.4-x86_64.flatpak
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4-x86_64.flatpak
+- name: youtube-music-3.11.4.aarch64.rpm
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4.aarch64.rpm
+- name: YouTube-Music-3.11.4.AppImage
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4.AppImage
+- name: YouTube-Music-3.11.4.dmg
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4.dmg
+- name: YouTube-Music-3.11.4.dmg.blockmap
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4.dmg.blockmap
+- name: YouTube-Music-3.11.4.exe
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-3.11.4.exe
+- name: youtube-music-3.11.4.freebsd
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4.freebsd
+- name: youtube-music-3.11.4.tar.gz
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4.tar.gz
+- name: youtube-music-3.11.4.x86_64.rpm
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music-3.11.4.x86_64.rpm
+- name: YouTube-Music-Web-Setup-3.11.4.exe
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/YouTube-Music-Web-Setup-3.11.4.exe
+- name: youtube-music_3.11.4_amd64.deb
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music_3.11.4_amd64.deb
+- name: youtube-music_3.11.4_amd64.snap
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music_3.11.4_amd64.snap
+- name: youtube-music_3.11.4_arm64.deb
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music_3.11.4_arm64.deb
+- name: youtube-music_3.11.4_armv7l.deb
+  url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music_3.11.4_armv7l.deb

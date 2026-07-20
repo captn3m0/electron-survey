@@ -6,3 +6,10 @@ aur:
 - data-works-bin
 electron: 21.4.4
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/alexaib2002/project-dataworks_base/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: data-works_1.0.0_amd64.snap
+  url: https://github.com/alexaib2002/project-dataworks_base/releases/download/v1.0.0/data-works_1.0.0_amd64.snap
+- name: DataWorks-1.0.0.AppImage
+  url: https://github.com/alexaib2002/project-dataworks_base/releases/download/v1.0.0/DataWorks-1.0.0.AppImage

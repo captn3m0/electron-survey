@@ -8,3 +8,18 @@ additionalAUR:
 - crankshaft-client-git
 electron: 12.2.3
 method: aur-depends
+latest: 1.12.0
+src: https://github.com/KraXen72/crankshaft/archive/refs/tags/1.12.0.zip
+downloads:
+- name: crankshaft-portable-linux-x86_64.AppImage
+  url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-linux-x86_64.AppImage
+- name: crankshaft-portable-mac-arm64.dmg
+  url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-mac-arm64.dmg
+- name: crankshaft-portable-mac-x64.dmg
+  url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-mac-x64.dmg
+- name: crankshaft-portable-win-x64.exe
+  url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-win-x64.exe
+- name: crankshaft-portable-win-x64.zip
+  url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-win-x64.zip
+- name: crankshaft-setup-win-x64.exe
+  url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-setup-win-x64.exe

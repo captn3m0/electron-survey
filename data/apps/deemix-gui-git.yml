@@ -6,3 +6,8 @@ aur:
 repository: https://github.com/bambanah/deemix
 additionalAUR:
 - deemix-gui-git
+latest: deemix-webui@4.6.0
+src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.6.0.zip
+electron: 37.2.6
+method: src-pnpm-lock
+electron_src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.6.0.zip

@@ -6,3 +6,8 @@ aur:
 - currency-converter-git
 electron: 33.4.11
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/manxlr/currency-converter/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Currency.Converter.Setup.1.0.0.exe
+  url: https://github.com/manxlr/currency-converter/releases/download/v1.0.0/Currency.Converter.Setup.1.0.0.exe

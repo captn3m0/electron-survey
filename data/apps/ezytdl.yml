@@ -6,3 +6,24 @@ aur:
 - ezytdl-bin
 electron: 39.8.10
 method: aur-depends
+latest: 3.0.3
+src: https://github.com/sylviiu/ezytdl/archive/refs/tags/3.0.3.zip
+downloads:
+- name: ezytdl-darwin.dmg
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-darwin.dmg
+- name: ezytdl-darwin.dmg.blockmap
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-darwin.dmg.blockmap
+- name: ezytdl-linux.AppImage
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-linux.AppImage
+- name: ezytdl-linux.tar.gz
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-linux.tar.gz
+- name: ezytdl-win32.exe
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-win32.exe
+- name: ezytdl-win32.exe.blockmap
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-win32.exe.blockmap
+- name: ezytdl-win32.zip
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-win32.zip
+- name: latest-mac.yml
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/latest.yml

@@ -6,3 +6,14 @@ aur:
 - github-issue-alert-bin
 electron: 36.9.5
 method: aur-depends
+latest: v1.0.5
+src: https://github.com/ashuvssut/github-issue-alert/archive/refs/tags/v1.0.5.zip
+downloads:
+- name: github-issue-alert_1.0.5_amd64.deb
+  url: https://github.com/ashuvssut/github-issue-alert/releases/download/v1.0.5/github-issue-alert_1.0.5_amd64.deb
+- name: GitHub.Issue.Alert-1.0.5.Setup.exe
+  url: https://github.com/ashuvssut/github-issue-alert/releases/download/v1.0.5/GitHub.Issue.Alert-1.0.5.Setup.exe
+- name: GitHub.Issue.Alert-darwin-arm64-1.0.5.zip
+  url: https://github.com/ashuvssut/github-issue-alert/releases/download/v1.0.5/GitHub.Issue.Alert-darwin-arm64-1.0.5.zip
+- name: GitHub.Issue.Alert-darwin-x64-1.0.5.zip
+  url: https://github.com/ashuvssut/github-issue-alert/releases/download/v1.0.5/GitHub.Issue.Alert-darwin-x64-1.0.5.zip

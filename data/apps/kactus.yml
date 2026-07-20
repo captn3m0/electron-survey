@@ -8,8 +8,9 @@ packages:
   os: macos
 homebrew: kactus
 downloads:
-- url: https://github.com/kactus-io/kactus/releases/download/v0.3.35/Kactus-macos.zip
-  name: Kactus-macos.zip
-  version: 0.3.35
+- name: Kactus-macos.zip
+  url: https://github.com/kactus-io/kactus/releases/download/v0.3.35/Kactus-macos.zip
 electron: 11.3.0
 method: which-electron-rg
+latest: v0.3.35
+src: https://github.com/kactus-io/kactus/archive/refs/tags/v0.3.35.zip

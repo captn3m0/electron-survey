@@ -7,3 +7,8 @@ packages:
 - url: http://cdn.criptext.com/Criptext-Email-Desktop/mac/Criptext-latest.dmg
   format: dmg
   os: macos
+homebrew: criptext
+downloads:
+- url: http://cdn.criptext.com/Criptext-Email-Desktop/mac/Criptext-latest.dmg
+  name: Criptext-latest.dmg
+  version: 0.31.0,2.0.82

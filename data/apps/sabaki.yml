@@ -20,6 +20,25 @@ electron: 43.1.1
 method: aur-depends
 homebrew: sabaki
 downloads:
-- url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-mac-arm64.dmg
-  name: sabaki-v0.60.0-mac-arm64.dmg
-  version: 0.60.0
+- name: sabaki-v0.60.0-linux-arm64.AppImage
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-linux-arm64.AppImage
+  checksum: ceb8eb4c67385f8275822f35ece3879ae7164bf00ae21e411e6828901f49c467
+- name: sabaki-v0.60.0-linux-x64.AppImage
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-linux-x64.AppImage
+  checksum: 51105f5308b4f563ffd9284e17508fe2a52a3662457ed8a0c3f23308d4a026ff
+- name: sabaki-v0.60.0-mac-arm64.dmg
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-mac-arm64.dmg
+  checksum: b088788113a84748d75f63067efb99a98e95e0229dfb03d565295c70c524ed50
+- name: sabaki-v0.60.0-mac-x64.dmg
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-mac-x64.dmg
+  checksum: c44b9f253351e84d91b40cfd51257d12fc6772980791fbdf42e253f7f17ca992
+- name: sabaki-v0.60.0-win-x64-portable.exe
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-win-x64-portable.exe
+  checksum: 67a9169cdf8c4e283f6670511a743884bfe334800d27f84583abd22624d29ab4
+- name: sabaki-v0.60.0-win-x64-setup.exe
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-win-x64-setup.exe
+  checksum: a0c2c42a40a4d9f353cddc64ed654f399df19bb1325edd23e4f9f9d20c6fb083
+- name: SHA256SUMS
+  url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/SHA256SUMS
+latest: v0.60.0
+src: https://github.com/SabakiHQ/Sabaki/archive/refs/tags/v0.60.0.zip

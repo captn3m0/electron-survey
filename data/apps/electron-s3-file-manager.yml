@@ -6,3 +6,10 @@ aur:
 - electron-s3-file-manager
 electron: 20.3.12
 method: aur-depends
+latest: v0.2.0
+src: https://github.com/kelp404/electron-s3-file-manager/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: Electron.S3.File.Manager-0.2.0.dmg
+  url: https://github.com/kelp404/electron-s3-file-manager/releases/download/v0.2.0/Electron.S3.File.Manager-0.2.0.dmg
+- name: Electron.S3.File.Manager.0.2.0.exe
+  url: https://github.com/kelp404/electron-s3-file-manager/releases/download/v0.2.0/Electron.S3.File.Manager.0.2.0.exe

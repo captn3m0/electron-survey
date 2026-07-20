@@ -21,3 +21,4 @@ downloads:
 electron: 13.1.9
 method: src-package-lock
 name: Gaucho
+electron_src: https://github.com/angrykoala/gaucho/archive/refs/tags/1.1.0.zip

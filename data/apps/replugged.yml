@@ -6,3 +6,8 @@ aur:
 - replugged-electron-git
 electron: 19.1.9
 method: aur-depends
+latest: v4.11.4
+src: https://github.com/replugged-org/replugged/archive/refs/tags/v4.11.4.zip
+downloads:
+- name: replugged.asar
+  url: https://github.com/replugged-org/replugged/releases/download/v4.11.4/replugged.asar

@@ -9,6 +9,14 @@ packages:
   arch: arm64
 homebrew: spaceradar
 downloads:
-- url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-arm64-SpaceRadar.dmg
-  name: stable-macos-arm64-SpaceRadar.dmg
-  version: 6.0.1
+- name: stable-macos-arm64-SpaceRadar.app.tar.zst
+  url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-arm64-SpaceRadar.app.tar.zst
+- name: stable-macos-arm64-SpaceRadar.dmg
+  url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-arm64-SpaceRadar.dmg
+- name: stable-macos-arm64-update.json
+  url: https://github.com/zz85/space-radar/releases/download/v6.0.1/stable-macos-arm64-update.json
+latest: v6.0.1
+src: https://github.com/zz85/space-radar/archive/refs/tags/v6.0.1.zip
+electron: 40.1.0
+method: src-package-lock
+electron_src: https://github.com/zz85/space-radar/archive/refs/tags/v6.0.1.zip

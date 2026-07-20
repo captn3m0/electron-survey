@@ -45,3 +45,4 @@ method: src-yarn-lock
 aur:
 - lisk-desktop-bin
 name: Lisk Hub
+electron_src: https://github.com/LiskHQ/lisk-hub/archive/refs/tags/v4.0.0.zip

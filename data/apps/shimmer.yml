@@ -6,3 +6,12 @@ aur:
 - shimmer-git
 electron: 38.8.6
 method: aur-depends
+latest: v3.0.0
+src: https://github.com/Akashonbeats/Shimmer/archive/refs/tags/v3.0.0.zip
+downloads:
+- name: Shimmer.v3.0.0.Apple.Silicon.dmg
+  url: https://github.com/Akashonbeats/Shimmer/releases/download/v3.0.0/Shimmer.v3.0.0.Apple.Silicon.dmg
+- name: Shimmer.v3.0.0.Intel.dmg
+  url: https://github.com/Akashonbeats/Shimmer/releases/download/v3.0.0/Shimmer.v3.0.0.Intel.dmg
+- name: Shimmer.v3.0.0.Windows.exe
+  url: https://github.com/Akashonbeats/Shimmer/releases/download/v3.0.0/Shimmer.v3.0.0.Windows.exe

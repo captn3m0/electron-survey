@@ -17,3 +17,4 @@ method: src-yarn-lock
 aur:
 - primate-bin
 name: Primate
+electron_src: https://github.com/getprimate/primate/archive/refs/tags/v1.1.0.zip

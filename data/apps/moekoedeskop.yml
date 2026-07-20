@@ -25,3 +25,44 @@ packages:
   arch: x64
 electron: 39.2.4
 method: which-electron-rg
+latest: v1.6.8
+src: https://github.com/MoeKoeMusic/MoeKoeMusic/archive/refs/tags/v1.6.8.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/latest.yml
+- name: MoeKoe_Music_Setup_v1.6.8-ia32.exe
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_Setup_v1.6.8-ia32.exe
+- name: MoeKoe_Music_Setup_v1.6.8-ia32.exe.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_Setup_v1.6.8-ia32.exe.blockmap
+- name: MoeKoe_Music_Setup_v1.6.8-x64.exe
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_Setup_v1.6.8-x64.exe
+- name: MoeKoe_Music_Setup_v1.6.8-x64.exe.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_Setup_v1.6.8-x64.exe.blockmap
+- name: MoeKoe_Music_Setup_v1.6.8.exe
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_Setup_v1.6.8.exe
+- name: MoeKoe_Music_Setup_v1.6.8.exe.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_Setup_v1.6.8.exe.blockmap
+- name: MoeKoe_Music_v1.6.8-amd64.deb
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-amd64.deb
+- name: MoeKoe_Music_v1.6.8-arm64.dmg
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-arm64.dmg
+- name: MoeKoe_Music_v1.6.8-arm64.dmg.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-arm64.dmg.blockmap
+- name: MoeKoe_Music_v1.6.8-arm64.zip
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-arm64.zip
+- name: MoeKoe_Music_v1.6.8-arm64.zip.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-arm64.zip.blockmap
+- name: MoeKoe_Music_v1.6.8-x64.dmg
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-x64.dmg
+- name: MoeKoe_Music_v1.6.8-x64.dmg.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-x64.dmg.blockmap
+- name: MoeKoe_Music_v1.6.8-x64.zip
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-x64.zip
+- name: MoeKoe_Music_v1.6.8-x64.zip.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-x64.zip.blockmap
+- name: MoeKoe_Music_v1.6.8-x86_64.AppImage
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.8/MoeKoe_Music_v1.6.8-x86_64.AppImage

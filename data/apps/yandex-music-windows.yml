@@ -6,3 +6,24 @@ aur:
 - yandex-music-windows
 electron: 34.5.8
 method: aur-depends
+latest: v5.63.1
+src: https://github.com/cucumber-sp/yandex-music-linux/archive/refs/tags/v5.63.1.zip
+downloads:
+- name: yandex-music-5.63.1-1-any.pkg.tar.zst
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music-5.63.1-1-any.pkg.tar.zst
+- name: yandex-music-5.63.1-1.x86_64.rpm
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music-5.63.1-1.x86_64.rpm
+- name: yandex-music.asar
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music.asar
+- name: yandex-music_5.63.1_amd64.deb
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music_5.63.1_amd64.deb
+- name: yandex-music_5.63.1_arm64.deb
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music_5.63.1_arm64.deb
+- name: yandex-music_5.63.1_arm64.tar.gz
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music_5.63.1_arm64.tar.gz
+- name: yandex-music_5.63.1_armhf.deb
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music_5.63.1_armhf.deb
+- name: yandex-music_5.63.1_armv7l.tar.gz
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music_5.63.1_armv7l.tar.gz
+- name: yandex-music_5.63.1_x64.tar.gz
+  url: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music_5.63.1_x64.tar.gz

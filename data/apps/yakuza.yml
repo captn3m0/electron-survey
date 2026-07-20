@@ -6,3 +6,10 @@ aur:
 - yakuza-bin
 electron: 28.3.3
 method: aur-depends
+latest: 0.2.4
+src: https://github.com/fzdwx/yakuza/archive/refs/tags/0.2.4.zip
+downloads:
+- name: yactrl
+  url: https://github.com/fzdwx/yakuza/releases/download/0.2.4/yactrl
+- name: yakuza-0.1.0.AppImage
+  url: https://github.com/fzdwx/yakuza/releases/download/0.2.4/yakuza-0.1.0.AppImage

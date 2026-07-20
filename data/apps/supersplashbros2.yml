@@ -6,3 +6,22 @@ aur:
 - supersplashbros2-bin
 electron: 34.5.8
 method: aur-depends
+latest: 1.1.0
+src: https://github.com/NM-Games/super-splash-bros-2/archive/refs/tags/1.1.0.zip
+downloads:
+- name: Super.Splash.Bros.2-1.1.0-arm64.AppImage
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/Super.Splash.Bros.2-1.1.0-arm64.AppImage
+- name: Super.Splash.Bros.2-1.1.0.AppImage
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/Super.Splash.Bros.2-1.1.0.AppImage
+- name: Super.Splash.Bros.2.1.1.0.exe
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/Super.Splash.Bros.2.1.1.0.exe
+- name: Super.Splash.Bros.2.Setup.1.1.0.exe
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/Super.Splash.Bros.2.Setup.1.1.0.exe
+- name: supersplashbros2-1.1.0.aarch64.rpm
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/supersplashbros2-1.1.0.aarch64.rpm
+- name: supersplashbros2-1.1.0.x86_64.rpm
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/supersplashbros2-1.1.0.x86_64.rpm
+- name: supersplashbros2_1.1.0_amd64.deb
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/supersplashbros2_1.1.0_amd64.deb
+- name: supersplashbros2_1.1.0_arm64.deb
+  url: https://github.com/NM-Games/super-splash-bros-2/releases/download/1.1.0/supersplashbros2_1.1.0_arm64.deb

@@ -25,8 +25,69 @@ aur:
 - openlens-bin
 homebrew: lens
 downloads:
-- url: https://api.k8slens.dev/binaries/Lens-2026.6.260931-latest-arm64.dmg
-  name: Lens-2026.6.260931-latest-arm64.dmg
-  version: 2026.6.260931
+- name: OpenLens-6.5.2-366-arm64-mac.zip
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366-arm64-mac.zip
+  checksum: 488e8b0cb8b6ff02025752a798b0a6407644a0ae6efcb8d4befe64edeacf502a
+- name: OpenLens-6.5.2-366-arm64-mac.zip.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366-arm64-mac.zip.sha256
+- name: OpenLens-6.5.2-366-arm64.dmg
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366-arm64.dmg
+  checksum: 2c53fa3ccf383e10c8a711ba23a6277800415173ba45ef12597b656c9d818e29
+- name: OpenLens-6.5.2-366-arm64.dmg.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366-arm64.dmg.sha256
+- name: OpenLens-6.5.2-366-mac.zip
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366-mac.zip
+  checksum: c76945c415038e4fe9aecff43e553a545e1992fceae0ea0a9bb7c703d54c028a
+- name: OpenLens-6.5.2-366-mac.zip.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366-mac.zip.sha256
+- name: OpenLens-6.5.2-366.aarch64.rpm
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.aarch64.rpm
+  checksum: 39a361e73c41dff3baeb99fe6306c9045cb033aaccbb5c889bb1215781663f90
+- name: OpenLens-6.5.2-366.aarch64.rpm.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.aarch64.rpm.sha256
+- name: OpenLens-6.5.2-366.amd64.deb
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.amd64.deb
+  checksum: 5f45cf04450798b35964b84571fbe213a1e341684a1fa1233bace9854f66403f
+- name: OpenLens-6.5.2-366.amd64.deb.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.amd64.deb.sha256
+- name: OpenLens-6.5.2-366.arm64.AppImage
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.arm64.AppImage
+  checksum: c94e63207315d93c14f7d7d73ef33dd6bd609d65fbfb0a0fb4a7e445e085beba
+- name: OpenLens-6.5.2-366.arm64.AppImage.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.arm64.AppImage.sha256
+- name: OpenLens-6.5.2-366.arm64.deb
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.arm64.deb
+  checksum: d2f6c9cfbe4b456938391f5f4d172c62511beb8765fe3e3695b7d8126f9c9d7a
+- name: OpenLens-6.5.2-366.arm64.deb.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.arm64.deb.sha256
+- name: OpenLens-6.5.2-366.dmg
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.dmg
+  checksum: 22f94468f4ccfe4f24c0580a04f76baa9edadf7f9a6d735d677f828372c139e7
+- name: OpenLens-6.5.2-366.dmg.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.dmg.sha256
+- name: OpenLens-6.5.2-366.x86_64.AppImage
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.x86_64.AppImage
+  checksum: 64096d012fd4ff18789024fbbd0f8d1c0cd657bcf4b84e463102021ca49d8fc9
+- name: OpenLens-6.5.2-366.x86_64.AppImage.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.x86_64.AppImage.sha256
+- name: OpenLens-6.5.2-366.x86_64.rpm
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.x86_64.rpm
+  checksum: d911977a96d520ebe754139552da6dc3d18ea85ff4882fddb7509c3bf537958e
+- name: OpenLens-6.5.2-366.x86_64.rpm.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.x86_64.rpm.sha256
+- name: OpenLens.6.5.2-366.exe
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.exe
+- name: OpenLens.6.5.2-366.exe.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.exe.sha256
+- name: OpenLens.6.5.2-366.msi
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.msi
+- name: OpenLens.6.5.2-366.msi.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.msi.sha256
+- name: OpenLens.Setup.6.5.2-366.exe
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.Setup.6.5.2-366.exe
+- name: OpenLens.Setup.6.5.2-366.exe.sha256
+  url: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.Setup.6.5.2-366.exe.sha256
 electron: 22.3.3
 method: which-electron-rg
+latest: v6.5.2-366
+src: https://github.com/MuhammedKalkan/OpenLens/archive/refs/tags/v6.5.2-366.zip

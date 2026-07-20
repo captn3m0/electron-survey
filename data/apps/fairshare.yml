@@ -29,3 +29,4 @@ method: src-yarn-lock
 aur:
 - fairshare-bin
 name: FAIRshare
+electron_src: https://github.com/fairdataihub/FAIRshare/archive/refs/tags/v2.1.0.zip

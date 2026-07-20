@@ -27,6 +27,27 @@ aur:
 - spacedrive-git
 homebrew: spacedrive
 downloads:
-- url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-aarch64.dmg
-  name: Spacedrive-darwin-aarch64.dmg
-  version: 0.4.3
+- name: Spacedrive-darwin-aarch64.dmg
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-aarch64.dmg
+- name: Spacedrive-darwin-x86_64.dmg
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-x86_64.dmg
+- name: Spacedrive-frontend-linux-x86_64.tar.xz
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-frontend-linux-x86_64.tar.xz
+- name: Spacedrive-linux-x86_64.deb
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-linux-x86_64.deb
+- name: Spacedrive-Updater-darwin-aarch64.tar.gz
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-darwin-aarch64.tar.gz
+- name: Spacedrive-Updater-darwin-aarch64.tar.gz.sig
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-darwin-aarch64.tar.gz.sig
+- name: Spacedrive-Updater-darwin-x86_64.tar.gz
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-darwin-x86_64.tar.gz
+- name: Spacedrive-Updater-darwin-x86_64.tar.gz.sig
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-darwin-x86_64.tar.gz.sig
+- name: Spacedrive-Updater-windows-x86_64.zip
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-windows-x86_64.zip
+- name: Spacedrive-Updater-windows-x86_64.zip.sig
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-Updater-windows-x86_64.zip.sig
+- name: Spacedrive-windows-x86_64.msi
+  url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-windows-x86_64.msi
+latest: 0.4.3
+src: https://github.com/spacedriveapp/spacedrive/archive/refs/tags/0.4.3.zip

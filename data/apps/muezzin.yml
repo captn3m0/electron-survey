@@ -23,3 +23,4 @@ downloads:
 electron: 25.8.4
 method: src-package-lock
 name: muezzin
+electron_src: https://github.com/DBChoco/Muezzin/archive/refs/tags/v2.6.0.zip

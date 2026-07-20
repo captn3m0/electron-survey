@@ -8,3 +8,20 @@ additionalAUR:
 - wj-markdown-editor-git
 electron: 39.8.10
 method: aur-depends
+latest: 2.19.7
+src: https://github.com/nlbwqmz/wj-markdown-editor/archive/refs/tags/2.19.7.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/latest.yml
+- name: wj-markdown-editor-linux-amd64-2.19.7.deb
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-amd64-2.19.7.deb
+- name: wj-markdown-editor-linux-x86_64-2.19.7.rpm
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
+- name: wj-markdown-editor-win32-x64-2.19.7.exe
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.exe
+- name: wj-markdown-editor-win32-x64-2.19.7.exe.blockmap
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.exe.blockmap
+- name: wj-markdown-editor-win32-x64-2.19.7.zip
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.zip

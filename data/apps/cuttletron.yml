@@ -6,3 +6,8 @@ aur:
 - cuttletron-bin
 electron: 27.3.11
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/mantzaris/cuttleTron/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: cuttletron-1.0.0.zip
+  url: https://github.com/mantzaris/cuttleTron/releases/download/v1.0.0/cuttletron-1.0.0.zip

@@ -6,3 +6,10 @@ aur:
 - fastnote-git
 electron: 33.4.11
 method: aur-depends
+latest: v1.0.1
+src: https://github.com/creamIcec/FastNote/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: fastnote.1.0.0.exe
+  url: https://github.com/creamIcec/FastNote/releases/download/v1.0.1/fastnote.1.0.0.exe
+- name: fastnote.1.0.0.msi
+  url: https://github.com/creamIcec/FastNote/releases/download/v1.0.1/fastnote.1.0.0.msi

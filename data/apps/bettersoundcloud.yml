@@ -6,3 +6,13 @@ aur:
 - bettersoundcloud
 electron: 32.3.3
 method: aur-depends
+latest: V0.7.1
+src: https://github.com/AlirezaKJ/BetterSoundCloud/archive/refs/tags/V0.7.1.zip
+downloads:
+- name: BetterSoundCloud.0.7.1.msi
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.msi
+- name: BetterSoundCloud.0.7.1.Setup.exe
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.Setup.exe
+- name: BetterSoundCloud.0.7.1.zip
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.zip
+we_tried: we0:V0.7.1

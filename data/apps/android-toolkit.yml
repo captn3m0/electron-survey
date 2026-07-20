@@ -9,3 +9,25 @@ additionalAUR:
 - android-toolkit-git
 electron: 25.9.8
 method: aur-depends
+latest: v1.5.27
+src: https://github.com/AnthonyGress/Android-Toolkit/archive/refs/tags/v1.5.27.zip
+downloads:
+- name: Android-Toolkit-arm64.AppImage
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/Android-Toolkit-arm64.AppImage
+- name: Android-Toolkit-arm64.zip
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/Android-Toolkit-arm64.zip
+- name: Android-Toolkit-Setup.exe
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/Android-Toolkit-Setup.exe
+- name: Android-Toolkit-x64.zip
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/Android-Toolkit-x64.zip
+- name: Android-Toolkit-x86_64.AppImage
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/Android-Toolkit-x86_64.AppImage
+- name: latest-linux-arm64.yml
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/latest.yml
+we_tried: we0:v1.5.27

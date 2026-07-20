@@ -8,3 +8,14 @@ additionalAUR:
 - zxinfo-file-browser-git
 electron: 27.3.11
 method: aur-depends
+latest: v1.2.5-final
+src: https://github.com/thomasheckmann/zxinfo-file-browser/archive/refs/tags/v1.2.5-final.zip
+downloads:
+- name: zxinfo-file-browser-1.2.5-final-arm64-mac.zip
+  url: https://github.com/thomasheckmann/zxinfo-file-browser/releases/download/v1.2.5-final/zxinfo-file-browser-1.2.5-final-arm64-mac.zip
+- name: zxinfo-file-browser-1.2.5-final-mac.zip
+  url: https://github.com/thomasheckmann/zxinfo-file-browser/releases/download/v1.2.5-final/zxinfo-file-browser-1.2.5-final-mac.zip
+- name: zxinfo-file-browser-1.2.5-final.AppImage
+  url: https://github.com/thomasheckmann/zxinfo-file-browser/releases/download/v1.2.5-final/zxinfo-file-browser-1.2.5-final.AppImage
+- name: zxinfo-file-browser.1.2.5-final.exe
+  url: https://github.com/thomasheckmann/zxinfo-file-browser/releases/download/v1.2.5-final/zxinfo-file-browser.1.2.5-final.exe

@@ -8,3 +8,9 @@ packages:
   arch: universal
 aur:
 - akiflow-bin
+homebrew: akiflow
+downloads:
+- url: https://download.akiflow.com/builds/Akiflow-2.74.21-d6d9f817-universal.dmg
+  name: Akiflow-2.74.21-d6d9f817-universal.dmg
+  version: 2.74.21,d6d9f817
+we_tried: we0:urls:8edffade44b6

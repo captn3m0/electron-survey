@@ -6,3 +6,10 @@ aur:
 - joy-xtream-player-git
 electron: 30.5.1
 method: aur-depends
+latest: v0.8.3
+src: https://github.com/emanoelhenrick/JOI-Client/archive/refs/tags/v0.8.3.zip
+downloads:
+- name: JOI.Client-0.8.3.setup.exe
+  url: https://github.com/emanoelhenrick/Joy/releases/download/v0.8.3/JOI.Client-0.8.3.setup.exe
+- name: JOI.Client-0.8.3.setup.x86.exe
+  url: https://github.com/emanoelhenrick/Joy/releases/download/v0.8.3/JOI.Client-0.8.3.setup.x86.exe

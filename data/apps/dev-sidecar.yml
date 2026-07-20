@@ -6,3 +6,72 @@ aur:
 - dev-sidecar-git
 electron: 41.10.2
 method: aur-depends
+latest: v2.2.0
+src: https://github.com/docmirror/dev-sidecar/archive/refs/tags/v2.2.0.zip
+downloads:
+- name: DevSidecar-2.2.0-arm64.dmg.blockmap
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-arm64.dmg.blockmap
+- name: DevSidecar-2.2.0-arm64.exe.blockmap
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-arm64.exe.blockmap
+- name: DevSidecar-2.2.0-arm64.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-arm64.zip
+- name: DevSidecar-2.2.0-ia32.exe.blockmap
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-ia32.exe.blockmap
+- name: DevSidecar-2.2.0-linux-arm64.AppImage
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-arm64.AppImage
+- name: DevSidecar-2.2.0-linux-arm64.deb
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-arm64.deb
+- name: DevSidecar-2.2.0-linux-arm64.rpm
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-arm64.rpm
+- name: DevSidecar-2.2.0-linux-arm64.tar.gz
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-arm64.tar.gz
+- name: DevSidecar-2.2.0-linux-armv7l.AppImage
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-armv7l.AppImage
+- name: DevSidecar-2.2.0-linux-armv7l.deb
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-armv7l.deb
+- name: DevSidecar-2.2.0-linux-armv7l.rpm
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-armv7l.rpm
+- name: DevSidecar-2.2.0-linux-armv7l.tar.gz
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-armv7l.tar.gz
+- name: DevSidecar-2.2.0-linux-x86_64.AppImage
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-x86_64.AppImage
+- name: DevSidecar-2.2.0-linux-x86_64.deb
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-x86_64.deb
+- name: DevSidecar-2.2.0-linux-x86_64.rpm
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-x86_64.rpm
+- name: DevSidecar-2.2.0-linux-x86_64.tar.gz
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-x86_64.tar.gz
+- name: DevSidecar-2.2.0-macos-arm64.dmg
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-macos-arm64.dmg
+- name: DevSidecar-2.2.0-macos-x86_64.dmg
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-macos-x86_64.dmg
+- name: DevSidecar-2.2.0-windows-arm64.exe
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-windows-arm64.exe
+- name: DevSidecar-2.2.0-windows-ia32.exe
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-windows-ia32.exe
+- name: DevSidecar-2.2.0-windows-x86_64.exe
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-windows-x86_64.exe
+- name: DevSidecar-2.2.0-x64.dmg.blockmap
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-x64.dmg.blockmap
+- name: DevSidecar-2.2.0-x64.exe.blockmap
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-x64.exe.blockmap
+- name: DevSidecar-2.2.0-x64.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-x64.zip
+- name: latest-linux.yml
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/latest.yml
+- name: update-linux-x64-2.2.0.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-linux-x64-2.2.0.zip
+- name: update-mac-arm64-2.2.0.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-mac-arm64-2.2.0.zip
+- name: update-mac-x64-2.2.0.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-mac-x64-2.2.0.zip
+- name: update-win-arm64-2.2.0.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-win-arm64-2.2.0.zip
+- name: update-win-ia32-2.2.0.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-win-ia32-2.2.0.zip
+- name: update-win-x64-2.2.0.zip
+  url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-win-x64-2.2.0.zip

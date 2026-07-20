@@ -6,3 +6,10 @@ aur:
 - voosweeper-bin
 electron: 23.3.13
 method: aur-depends
+latest: '1.4'
+src: https://github.com/M4rti21/voosweeper/archive/refs/tags/1.4.zip
+downloads:
+- name: voosweeper-linux.1.4.AppImage
+  url: https://github.com/M4rti21/voosweeper/releases/download/1.4/voosweeper-linux.1.4.AppImage
+- name: voosweeper-windows.1.4.exe
+  url: https://github.com/M4rti21/voosweeper/releases/download/1.4/voosweeper-windows.1.4.exe

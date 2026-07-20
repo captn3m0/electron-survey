@@ -29,3 +29,4 @@ downloads:
 electron: 17.0.0
 method: src-package-lock
 name: Excel Parser Processor
+electron_src: https://github.com/btargac/excel-parser-processor/archive/refs/tags/v1.3.1.zip

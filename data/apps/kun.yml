@@ -6,3 +6,38 @@ aur:
 - kun
 electron: 34.5.8
 method: aur-depends
+latest: v0.2.29
+src: https://github.com/KunAgent/Kun/archive/refs/tags/v0.2.29.zip
+downloads:
+- name: extension-native-evidence-darwin.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/extension-native-evidence-darwin.json
+- name: extension-native-evidence-linux.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/extension-native-evidence-linux.json
+- name: extension-native-evidence-win32.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/extension-native-evidence-win32.json
+- name: Kun-0.2.29-linux-x86_64.AppImage
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-linux-x86_64.AppImage
+- name: Kun-0.2.29-mac-arm64.dmg
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-mac-arm64.dmg
+- name: Kun-0.2.29-mac-arm64.dmg.blockmap
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-mac-arm64.dmg.blockmap
+- name: Kun-0.2.29-mac-arm64.zip
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-mac-arm64.zip
+- name: Kun-0.2.29-mac-x64.dmg
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-mac-x64.dmg
+- name: Kun-0.2.29-mac-x64.dmg.blockmap
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-mac-x64.dmg.blockmap
+- name: Kun-0.2.29-mac-x64.zip
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-mac-x64.zip
+- name: Kun-0.2.29-win-x64.exe
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-win-x64.exe
+- name: Kun-0.2.29-win-x64.exe.blockmap
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/Kun-0.2.29-win-x64.exe.blockmap
+- name: kun-video-editor-0.4.4.kunx
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/kun-video-editor-0.4.4.kunx
+- name: latest-linux.yml
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.29/latest.yml

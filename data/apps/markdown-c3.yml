@@ -9,3 +9,4 @@ downloads:
 electron: 3.0.10
 method: src-package-lock
 name: Markdown C3
+electron_src: https://github.com/el3um4s/markdown-c3/archive/refs/tags/v.1.0.0.zip

@@ -15,3 +15,4 @@ downloads:
 electron: 12.1.0
 method: src-package-lock
 name: Responsivize
+electron_src: https://github.com/virejdasani/Responsivize/archive/refs/tags/v3.0.0.zip

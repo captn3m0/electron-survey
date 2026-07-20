@@ -6,3 +6,22 @@ aur:
 - nats-js-client-bin
 electron: 26.6.10
 method: aur-depends
+latest: v0.1.5
+src: https://github.com/S-404/nats-client-gui/archive/refs/tags/v0.1.5.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/latest.yml
+- name: nats-js-client-Linux-0.1.5.AppImage
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Linux-0.1.5.AppImage
+- name: nats-js-client-Mac-0.1.5-Installer.dmg
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Mac-0.1.5-Installer.dmg
+- name: nats-js-client-Mac-0.1.5-Installer.dmg.blockmap
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Mac-0.1.5-Installer.dmg.blockmap
+- name: nats-js-client-Windows-0.1.5-Setup.exe
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Windows-0.1.5-Setup.exe
+- name: nats-js-client-Windows-0.1.5-Setup.exe.blockmap
+  url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Windows-0.1.5-Setup.exe.blockmap

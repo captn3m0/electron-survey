@@ -8,3 +8,52 @@ additionalAUR:
 - echoplayer-git
 electron: 37.10.3
 method: aur-depends
+latest: v1.4.1
+src: https://github.com/mkdir700/EchoPlayer/archive/refs/tags/v1.4.1.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/builder-debug.yml
+- name: EchoPlayer-1.4.1-amd64.deb
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-amd64.deb
+- name: EchoPlayer-1.4.1-arm64-portable.exe
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64-portable.exe
+- name: EchoPlayer-1.4.1-arm64-setup.exe
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64-setup.exe
+- name: EchoPlayer-1.4.1-arm64-setup.exe.blockmap
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64-setup.exe.blockmap
+- name: EchoPlayer-1.4.1-arm64.AppImage
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.AppImage
+- name: EchoPlayer-1.4.1-arm64.deb
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.deb
+- name: EchoPlayer-1.4.1-arm64.dmg
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.dmg
+- name: EchoPlayer-1.4.1-arm64.dmg.blockmap
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.dmg.blockmap
+- name: EchoPlayer-1.4.1-arm64.zip
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.zip
+- name: EchoPlayer-1.4.1-arm64.zip.blockmap
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.zip.blockmap
+- name: EchoPlayer-1.4.1-x64-portable.exe
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64-portable.exe
+- name: EchoPlayer-1.4.1-x64-setup.exe
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64-setup.exe
+- name: EchoPlayer-1.4.1-x64-setup.exe.blockmap
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64-setup.exe.blockmap
+- name: EchoPlayer-1.4.1-x64.dmg
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64.dmg
+- name: EchoPlayer-1.4.1-x64.dmg.blockmap
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64.dmg.blockmap
+- name: EchoPlayer-1.4.1-x64.zip
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64.zip
+- name: EchoPlayer-1.4.1-x64.zip.blockmap
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x64.zip.blockmap
+- name: EchoPlayer-1.4.1-x86_64.AppImage
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-x86_64.AppImage
+- name: latest-linux-arm64.yml
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/latest.yml

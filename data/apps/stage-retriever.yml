@@ -6,3 +6,10 @@ aur:
 - stage-retriever
 electron: 29.4.6
 method: aur-depends
+latest: v0.0.2
+src: https://github.com/gabrielesilinic/stage-retriever/archive/refs/tags/v0.0.2.zip
+downloads:
+- name: StageRetriever-windows-amd64.7z
+  url: https://github.com/gabrielesilinic/stage-retriever/releases/download/v0.0.2/StageRetriever-windows-amd64.7z
+- name: StageRetriever-windows-amd64.zip
+  url: https://github.com/gabrielesilinic/stage-retriever/releases/download/v0.0.2/StageRetriever-windows-amd64.zip

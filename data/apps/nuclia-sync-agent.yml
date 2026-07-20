@@ -6,3 +6,14 @@ aur:
 - nuclia-sync-agent-bin
 electron: 40.10.6
 method: aur-depends
+latest: 1.9.13
+src: https://github.com/nuclia/sync-agent/archive/refs/tags/1.9.13.zip
+downloads:
+- name: progress-sync-agent-1.9.13-1.x86_64.rpm
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.13/progress-sync-agent-1.9.13-1.x86_64.rpm
+- name: progress-sync-agent_1.9.13_amd64.deb
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.13/progress-sync-agent_1.9.13_amd64.deb
+- name: Progress-Sync-Setup.exe
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.13/Progress-Sync-Setup.exe
+- name: Progress.Sync.Agent.dmg
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.13/Progress.Sync.Agent.dmg

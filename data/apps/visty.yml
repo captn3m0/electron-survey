@@ -6,3 +6,22 @@ aur:
 - visty-git
 electron: 38.8.6
 method: aur-depends
+latest: v0.0.4
+src: https://github.com/fiahfy/visty/archive/refs/tags/v0.0.4.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/latest.yml
+- name: Visty-0.0.4-arm64-mac.zip
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/Visty-0.0.4-arm64-mac.zip
+- name: Visty-0.0.4-arm64-mac.zip.blockmap
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/Visty-0.0.4-arm64-mac.zip.blockmap
+- name: Visty-0.0.4-arm64.dmg
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/Visty-0.0.4-arm64.dmg
+- name: Visty-0.0.4-arm64.dmg.blockmap
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/Visty-0.0.4-arm64.dmg.blockmap
+- name: Visty-Setup-0.0.4.exe
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/Visty-Setup-0.0.4.exe
+- name: Visty-Setup-0.0.4.exe.blockmap
+  url: https://github.com/fiahfy/visty/releases/download/v0.0.4/Visty-Setup-0.0.4.exe.blockmap

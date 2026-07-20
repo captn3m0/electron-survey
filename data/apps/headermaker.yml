@@ -6,3 +6,10 @@ aur:
 - headermaker-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.0.3
+src: https://github.com/NewBumpEr/HeaderMaker/archive/refs/tags/v1.0.3.zip
+downloads:
+- name: HeaderMaker.dmg
+  url: https://github.com/NewBumpEr/HeaderMaker/releases/download/v1.0.3/HeaderMaker.dmg
+- name: HeaderMaker.exe
+  url: https://github.com/NewBumpEr/HeaderMaker/releases/download/v1.0.3/HeaderMaker.exe

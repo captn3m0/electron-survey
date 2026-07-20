@@ -6,3 +6,12 @@ aur:
 - todoist-wrapper-bin
 electron: 41.10.2
 method: aur-depends
+latest: v4.20260720033738
+src: https://github.com/conjfrnk/todoist-wrapper/archive/refs/tags/v4.20260720033738.zip
+downloads:
+- name: todoist-wrapper-4.20260720033738-1.x86_64.rpm
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260720033738/todoist-wrapper-4.20260720033738-1.x86_64.rpm
+- name: todoist-wrapper-latest.rpm
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260720033738/todoist-wrapper-latest.rpm
+- name: todoist-wrapper-linux-x64.zip
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260720033738/todoist-wrapper-linux-x64.zip

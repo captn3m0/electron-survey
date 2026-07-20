@@ -6,3 +6,14 @@ aur:
 - masayloblockly-bin
 electron: 33.4.11
 method: aur-depends
+latest: v2.0.0
+src: https://github.com/agomezgar/masayloBlockly/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: masayloblockly-2.0.0.AppImage
+  url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/masayloblockly-2.0.0.AppImage
+- name: Masayloblockly.Portable.2.0.0.exe
+  url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/Masayloblockly.Portable.2.0.0.exe
+- name: Masayloblockly.Setup.2.0.0.exe
+  url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/Masayloblockly.Setup.2.0.0.exe
+- name: masayloblockly_2.0.0_amd64.deb
+  url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/masayloblockly_2.0.0_amd64.deb

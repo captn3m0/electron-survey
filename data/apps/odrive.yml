@@ -16,3 +16,4 @@ electron: 2.0.18
 method: src-range-guess
 homebrew: odrive
 name: ODrive
+electron_src: https://github.com/liberodark/ODrive/archive/refs/tags/0.2.1.zip

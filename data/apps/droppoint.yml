@@ -28,3 +28,4 @@ aur:
 - droppoint-bin
 - droppoint-git
 name: DropPoint
+electron_src: https://github.com/GameGodS3/DropPoint/archive/refs/tags/v1.2.1.zip

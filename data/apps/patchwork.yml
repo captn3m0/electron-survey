@@ -33,3 +33,4 @@ downloads:
 electron: 11.3.0
 method: src-package-lock
 name: Patchwork
+electron_src: https://github.com/ssbc/patchwork/archive/refs/tags/v3.18.1.zip

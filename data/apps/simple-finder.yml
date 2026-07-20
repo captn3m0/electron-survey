@@ -9,3 +9,4 @@ downloads:
 electron: 9.3.3
 method: src-package-lock
 name: Simple-Finder
+electron_src: https://github.com/seniya/electron-finder-normal/archive/refs/tags/1.0.0.zip

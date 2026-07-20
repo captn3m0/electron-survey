@@ -6,3 +6,14 @@ aur:
 - linux-sensor-tray
 electron: 41.10.2
 method: aur-depends
+latest: v0.3.4
+src: https://github.com/Mindsaver/linux-sensor-tray/archive/refs/tags/v0.3.4.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/latest-linux.yml
+- name: Linux-Sensor-Tray-0.3.4.AppImage
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/Linux-Sensor-Tray-0.3.4.AppImage
+- name: linux-sensor-tray-0.3.4.tar.gz
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/linux-sensor-tray-0.3.4.tar.gz
+- name: Linux.Sensor.Tray-0.3.4.AppImage.sha256
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/Linux.Sensor.Tray-0.3.4.AppImage.sha256

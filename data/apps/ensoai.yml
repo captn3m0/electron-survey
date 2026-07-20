@@ -6,3 +6,38 @@ aur:
 - ensoai
 electron: 39.8.10
 method: aur-depends
+latest: v0.2.44
+src: https://github.com/J3n5en/EnsoAI/archive/refs/tags/v0.2.44.zip
+downloads:
+- name: enso-ai_0.2.44_amd64.deb
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/enso-ai_0.2.44_amd64.deb
+- name: EnsoAI-0.2.44-arm64-mac.zip
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-arm64-mac.zip
+- name: EnsoAI-0.2.44-arm64-mac.zip.blockmap
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-arm64-mac.zip.blockmap
+- name: EnsoAI-0.2.44-arm64.dmg
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-arm64.dmg
+- name: EnsoAI-0.2.44-arm64.dmg.blockmap
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-arm64.dmg.blockmap
+- name: EnsoAI-0.2.44-mac.zip
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-mac.zip
+- name: EnsoAI-0.2.44-mac.zip.blockmap
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-mac.zip.blockmap
+- name: EnsoAI-0.2.44-portable.exe
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44-portable.exe
+- name: EnsoAI-0.2.44.AppImage
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44.AppImage
+- name: EnsoAI-0.2.44.dmg
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44.dmg
+- name: EnsoAI-0.2.44.dmg.blockmap
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44.dmg.blockmap
+- name: EnsoAI-Setup-0.2.44.exe
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-Setup-0.2.44.exe
+- name: EnsoAI-Setup-0.2.44.exe.blockmap
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-Setup-0.2.44.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/latest.yml

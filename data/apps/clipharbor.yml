@@ -6,3 +6,16 @@ aur:
 - clipharbor-bin
 electron: 35.7.5
 method: aur-depends
+latest: v0.4.1
+src: https://github.com/yurentle/ClipHarbor/archive/refs/tags/v0.4.1.zip
+downloads:
+- name: ClipHarbor-0.4.1-arm64.dmg
+  url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor-0.4.1-arm64.dmg
+- name: ClipHarbor-0.4.1.AppImage
+  url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor-0.4.1.AppImage
+- name: ClipHarbor.0.4.1.exe
+  url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor.0.4.1.exe
+- name: ClipHarbor.Setup.0.4.1.exe
+  url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor.Setup.0.4.1.exe
+- name: ClipHarbor_0.4.1_amd64.deb
+  url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor_0.4.1_amd64.deb

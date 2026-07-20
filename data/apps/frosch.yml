@@ -6,3 +6,16 @@ aur:
 - frosch-bin
 electron: 11.5.0
 method: aur-depends
+latest: v2.0.2
+src: https://github.com/ivanrey/Frosch/archive/refs/tags/v2.0.2.zip
+downloads:
+- name: Frosch-linux-ia32.zip
+  url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-linux-ia32.zip
+- name: Frosch-linux-x64.zip
+  url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-linux-x64.zip
+- name: Frosch-win.exe
+  url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-win.exe
+- name: Frosch-win.exe.blockmap
+  url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-win.exe.blockmap
+- name: latest.yml
+  url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/latest.yml

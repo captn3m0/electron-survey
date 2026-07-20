@@ -29,3 +29,4 @@ method: src-yarn-lock
 aur:
 - devhub
 name: DevHub
+electron_src: https://github.com/devhubapp/devhub/archive/refs/tags/v0.102.0.zip

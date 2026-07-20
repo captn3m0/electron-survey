@@ -4,3 +4,11 @@ website: https://github.com/mybolide/pdmaner-final-release
 repository: https://github.com/mybolide/pdmaner-final-release
 aur:
 - pdmaner-final
+latest: 4.9.3
+src: https://github.com/mybolide/pdmaner-final-release/archive/refs/tags/4.9.3.zip
+downloads:
+- name: PDManer-win_v4.9.3.exe
+  url: https://github.com/mybolide/pdmaner-final-release/releases/download/4.9.3/PDManer-win_v4.9.3.exe
+electron: 13.1.7
+method: src-yarn-lock
+electron_src: https://github.com/mybolide/pdmaner-final-release/archive/refs/tags/4.9.3.zip

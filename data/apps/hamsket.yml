@@ -6,3 +6,23 @@ aur:
 - hamsket
 additionalAUR:
 - hamsket-git
+latest: 0.6.3
+src: https://github.com/TheGoddessInari/hamsket/archive/refs/tags/0.6.3.zip
+downloads:
+- name: Hamsket-0.6.3-mac.zip
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/Hamsket-0.6.3-mac.zip
+- name: Hamsket-0.6.3.AppImage
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/Hamsket-0.6.3.AppImage
+- name: Hamsket-0.6.3.dmg
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/Hamsket-0.6.3.dmg
+- name: hamsket-0.6.3.tar.gz
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/hamsket-0.6.3.tar.gz
+- name: hamsket-0.6.3.x86_64.rpm
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/hamsket-0.6.3.x86_64.rpm
+- name: Hamsket.Setup.0.6.3.exe
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/Hamsket.Setup.0.6.3.exe
+- name: hamsket_0.6.3_amd64.deb
+  url: https://github.com/TheGoddessInari/hamsket/releases/download/0.6.3/hamsket_0.6.3_amd64.deb
+electron: 17.1.0
+method: src-package-lock
+electron_src: https://github.com/TheGoddessInari/hamsket/archive/refs/tags/0.6.3.zip

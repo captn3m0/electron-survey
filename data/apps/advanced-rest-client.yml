@@ -33,3 +33,4 @@ downloads:
 electron: 17.1.0
 method: src-package-lock
 name: Advanced REST Client
+electron_src: https://github.com/advanced-rest-client/arc-electron/archive/refs/tags/v17.0.9.zip

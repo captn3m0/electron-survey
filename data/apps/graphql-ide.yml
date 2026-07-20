@@ -8,3 +8,8 @@ packages:
   os: macos
 electron: 1.7.6
 method: which-electron-fingerprint
+latest: v1.1.1
+src: https://github.com/andev-software/graphql-ide/archive/refs/tags/v1.1.1.zip
+downloads:
+- name: GraphQL.IDE.zip
+  url: https://github.com/andev-software/graphql-ide/releases/download/v1.1.1/GraphQL.IDE.zip

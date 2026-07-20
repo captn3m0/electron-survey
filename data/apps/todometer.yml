@@ -1,17 +1,31 @@
 id: todometer
 repository: https://github.com/cassidoo/todometer/
 website: https://cassidoo.github.io/todometer/
-latest: v2.0.1
-src: https://github.com/cassidoo/todometer/archive/refs/tags/v2.0.1.zip
+latest: v3.0.2
+src: https://github.com/cassidoo/todometer/archive/refs/tags/v3.0.2.zip
 downloads:
-- name: todometer.for.linux.zip
-  url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.linux.zip
-- name: todometer.for.mac.zip
-  url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.mac.zip
-- name: todometer.for.windows.zip
-  url: https://github.com/cassidoo/todometer/releases/download/v2.0.1/todometer.for.windows.zip
-electron: 7.3.3
-method: src-range-guess
+- name: latest-linux.yml
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/latest.yml
+- name: todometer-3.0.2-arm64-mac.zip
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-3.0.2-arm64-mac.zip
+- name: todometer-3.0.2-arm64-mac.zip.blockmap
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-3.0.2-arm64-mac.zip.blockmap
+- name: todometer-3.0.2-arm64.dmg
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-3.0.2-arm64.dmg
+- name: todometer-3.0.2-arm64.dmg.blockmap
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-3.0.2-arm64.dmg.blockmap
+- name: todometer-3.0.2.AppImage
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-3.0.2.AppImage
+- name: todometer-Setup-3.0.2.exe
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-Setup-3.0.2.exe
+- name: todometer-Setup-3.0.2.exe.blockmap
+  url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-Setup-3.0.2.exe.blockmap
+electron: 40.8.5
+method: src-package-lock
 aur:
 - todometer-bin
 - todometer-git
@@ -25,3 +39,4 @@ packages:
   os: macos
   arch: arm64
 name: todometer
+electron_src: https://github.com/cassidoo/todometer/archive/refs/tags/v3.0.2.zip

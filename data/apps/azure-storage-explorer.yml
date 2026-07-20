@@ -25,8 +25,23 @@ packages:
   arch: x64
 homebrew: microsoft-azure-storage-explorer
 downloads:
-- url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-arm64.zip
-  name: StorageExplorer-darwin-arm64.zip
-  version: 1.44.0
+- name: ReleaseNotes.md
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/ReleaseNotes.md
+- name: StorageExplorer-darwin-arm64.pkg
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-arm64.pkg
+- name: StorageExplorer-darwin-arm64.zip
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-arm64.zip
+- name: StorageExplorer-darwin-x64.pkg
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-x64.pkg
+- name: StorageExplorer-darwin-x64.zip
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-x64.zip
+- name: StorageExplorer-linux-x64.tar.gz
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-linux-x64.tar.gz
+- name: StorageExplorer-windows-arm64.exe
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-windows-arm64.exe
+- name: StorageExplorer-windows-x64.exe
+  url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-windows-x64.exe
 electron: 40.6.1
 method: which-electron-rg
+latest: v1.44.0
+src: https://github.com/microsoft/AzureStorageExplorer/archive/refs/tags/v1.44.0.zip

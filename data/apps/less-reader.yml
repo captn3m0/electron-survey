@@ -6,3 +6,8 @@ aur:
 - less-reader-git
 electron: 35.7.5
 method: aur-depends
+latest: v0.0.8
+src: https://github.com/laowus/Less-Reader/archive/refs/tags/v0.0.8.zip
+downloads:
+- name: Less.Reader.Setup.0.0.8.exe
+  url: https://github.com/laowus/Less-Reader/releases/download/v0.0.8/Less.Reader.Setup.0.0.8.exe

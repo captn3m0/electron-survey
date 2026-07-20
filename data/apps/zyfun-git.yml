@@ -8,3 +8,34 @@ additionalAUR:
 - zyfun-git
 electron: 41.10.2
 method: aur-depends
+latest: v3.4.7
+src: https://github.com/Hiram-Wong/ZyPlayer/archive/refs/tags/v3.4.7.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/latest.yml
+- name: zyfun-linux-3.4.7-aarch64.rpm
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-aarch64.rpm
+- name: zyfun-linux-3.4.7-amd64.deb
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-amd64.deb
+- name: zyfun-linux-3.4.7-arm64.AppImage
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-arm64.AppImage
+- name: zyfun-linux-3.4.7-arm64.deb
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-arm64.deb
+- name: zyfun-linux-3.4.7-x86_64.AppImage
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-x86_64.AppImage
+- name: zyfun-linux-3.4.7-x86_64.rpm
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-x86_64.rpm
+- name: zyfun-mac-3.4.7-arm64.dmg
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-mac-3.4.7-arm64.dmg
+- name: zyfun-mac-3.4.7-x64.dmg
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-mac-3.4.7-x64.dmg
+- name: zyfun-win-3.4.7-arm64-setup.exe
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-win-3.4.7-arm64-setup.exe
+- name: zyfun-win-3.4.7-x64-setup.exe
+  url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-win-3.4.7-x64-setup.exe

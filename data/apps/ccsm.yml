@@ -6,3 +6,34 @@ aur:
 - ccsm-bin
 electron: 41.10.2
 method: aur-depends
+latest: v0.2.20
+src: https://github.com/Jiahui-Gu/ccsm/archive/refs/tags/v0.2.20.zip
+downloads:
+- name: CCSM-0.2.20-amd64.deb
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-amd64.deb
+- name: CCSM-0.2.20-arm64.dmg
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-arm64.dmg
+- name: CCSM-0.2.20-arm64.zip
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-arm64.zip
+- name: CCSM-0.2.20-arm64.zip.blockmap
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-arm64.zip.blockmap
+- name: CCSM-0.2.20-x64.dmg
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x64.dmg
+- name: CCSM-0.2.20-x64.zip
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x64.zip
+- name: CCSM-0.2.20-x64.zip.blockmap
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x64.zip.blockmap
+- name: CCSM-0.2.20-x86_64.AppImage
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.AppImage
+- name: CCSM-0.2.20-x86_64.rpm
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.rpm
+- name: CCSM-Setup-0.2.20-x64.exe
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-Setup-0.2.20-x64.exe
+- name: CCSM-Setup-0.2.20-x64.exe.blockmap
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-Setup-0.2.20-x64.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/latest.yml

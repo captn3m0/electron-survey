@@ -8,3 +8,14 @@ additionalAUR:
 - webcam-glass-git
 electron: 9.4.4
 method: aur-depends
+latest: 0.7.2
+src: https://github.com/jersonlatorre/webcam-glass-app/archive/refs/tags/0.7.2.zip
+downloads:
+- name: Glass-0.7.2.AppImage
+  url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2.AppImage
+- name: Glass-0.7.2_amd64.deb
+  url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2_amd64.deb
+- name: Glass-0.7.2_standalone_linux.zip
+  url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2_standalone_linux.zip
+- name: Glass-0.7.2_standalone_win32-x64.zip
+  url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2_standalone_win32-x64.zip

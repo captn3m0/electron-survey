@@ -9,3 +9,10 @@ additionalAUR:
 - commas-git
 electron: 38.8.6
 method: aur-depends
+latest: v0.39.4
+src: https://github.com/CyanSalt/commas/archive/refs/tags/v0.39.4.zip
+downloads:
+- name: Commas-darwin-arm64.zip
+  url: https://github.com/CyanSalt/commas/releases/download/v0.39.4/Commas-darwin-arm64.zip
+- name: Commas-darwin-x64.zip
+  url: https://github.com/CyanSalt/commas/releases/download/v0.39.4/Commas-darwin-x64.zip

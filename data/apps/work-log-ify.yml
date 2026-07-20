@@ -6,3 +6,10 @@ aur:
 - work-log-ify-git
 electron: 42.7.0
 method: aur-depends
+latest: v1.45.2
+src: https://github.com/dmitrijs/WorkLogIfy/archive/refs/tags/v1.45.2.zip
+downloads:
+- name: WorkLogIfy-mac-v1.45.2.dmg
+  url: https://github.com/dmitrijs/WorkLogIfy/releases/download/v1.45.2/WorkLogIfy-mac-v1.45.2.dmg
+- name: WorkLogIfy-win-v1.45.2.exe
+  url: https://github.com/dmitrijs/WorkLogIfy/releases/download/v1.45.2/WorkLogIfy-win-v1.45.2.exe

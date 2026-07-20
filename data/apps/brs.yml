@@ -6,3 +6,27 @@ aur:
 - brs-desktop-bin
 electron: 39.8.10
 method: aur-depends
+latest: v2.2.0
+src: https://github.com/lvcabral/brs-desktop/archive/refs/tags/v2.2.0.zip
+downloads:
+- name: brs-desktop-2.2.0-linux-amd64.deb
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-linux-amd64.deb
+- name: brs-desktop-2.2.0-linux-arm64.deb
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-linux-arm64.deb
+- name: brs-desktop-2.2.0-linux-armv7l.AppImage
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-linux-armv7l.AppImage
+- name: brs-desktop-2.2.0-macOS.dmg
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-macOS.dmg
+- name: brs-desktop-2.2.0-macOS.dmg.blockmap
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-macOS.dmg.blockmap
+- name: brs-desktop-2.2.0-macOS.zip
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-macOS.zip
+- name: brs-desktop-2.2.0-macOS.zip.blockmap
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-macOS.zip.blockmap
+- name: brs-desktop-2.2.0-windows.exe
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-windows.exe
+- name: brs-desktop-2.2.0-windows.exe.blockmap
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/brs-desktop-2.2.0-windows.exe.blockmap
+- name: latest.yml
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/latest.yml
+we_tried: we0:v2.2.0

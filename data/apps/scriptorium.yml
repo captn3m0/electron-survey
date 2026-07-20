@@ -6,3 +6,8 @@ aur:
 - scriptorium-git
 electron: 29.4.6
 method: aur-depends
+latest: release
+src: https://github.com/Toriality/scriptorium/archive/refs/tags/release.zip
+downloads:
+- name: Scriptorium.BETA-Windows-0.1.1-Setup.exe
+  url: https://github.com/Toriality/scriptorium/releases/download/release/Scriptorium.BETA-Windows-0.1.1-Setup.exe

@@ -9,3 +9,50 @@ additionalAUR:
 - vutronmusic-git
 electron: 37.10.3
 method: aur-depends
+latest: v3.2.0
+src: https://github.com/stark81/VutronMusic/archive/refs/tags/v3.2.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/latest.yml
+- name: VutronMusic-3.2.0_linux_aarch64.rpm
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_aarch64.rpm
+- name: VutronMusic-3.2.0_linux_amd64.deb
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_amd64.deb
+- name: VutronMusic-3.2.0_linux_amd64.snap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_amd64.snap
+- name: VutronMusic-3.2.0_linux_arm64.AppImage
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_arm64.AppImage
+- name: VutronMusic-3.2.0_linux_arm64.deb
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_arm64.deb
+- name: VutronMusic-3.2.0_linux_x86_64.AppImage
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_x86_64.AppImage
+- name: VutronMusic-3.2.0_linux_x86_64.rpm
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_linux_x86_64.rpm
+- name: VutronMusic-3.2.0_mac_arm64.dmg
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_mac_arm64.dmg
+- name: VutronMusic-3.2.0_mac_arm64.dmg.blockmap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_mac_arm64.dmg.blockmap
+- name: VutronMusic-3.2.0_mac_arm64.zip.blockmap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_mac_arm64.zip.blockmap
+- name: VutronMusic-3.2.0_mac_x64.dmg
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_mac_x64.dmg
+- name: VutronMusic-3.2.0_mac_x64.dmg.blockmap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_mac_x64.dmg.blockmap
+- name: VutronMusic-3.2.0_win.exe.blockmap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_win.exe.blockmap
+- name: VutronMusic-3.2.0_win_arm64.exe
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_win_arm64.exe
+- name: VutronMusic-3.2.0_win_arm64.exe.blockmap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_win_arm64.exe.blockmap
+- name: VutronMusic-3.2.0_win_x64-Portable.exe
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_win_x64-Portable.exe
+- name: VutronMusic-3.2.0_win_x64.exe
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_win_x64.exe
+- name: VutronMusic-3.2.0_win_x64.exe.blockmap
+  url: https://github.com/stark81/VutronMusic/releases/download/v3.2.0/VutronMusic-3.2.0_win_x64.exe.blockmap

@@ -6,3 +6,14 @@ aur:
 - slacky-git
 electron: 42.7.0
 method: aur-depends
+latest: v0.0.10
+src: https://github.com/andirsun/Slacky/archive/refs/tags/v0.0.10.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/andirsun/Slacky/releases/download/v0.0.10/latest-linux-arm64.yml
+- name: Slacky-0.0.10-arm64.AppImage
+  url: https://github.com/andirsun/Slacky/releases/download/v0.0.10/Slacky-0.0.10-arm64.AppImage
+- name: slacky-0.0.10.aarch64.rpm
+  url: https://github.com/andirsun/Slacky/releases/download/v0.0.10/slacky-0.0.10.aarch64.rpm
+- name: slacky_0.0.10_arm64.deb
+  url: https://github.com/andirsun/Slacky/releases/download/v0.0.10/slacky_0.0.10_arm64.deb

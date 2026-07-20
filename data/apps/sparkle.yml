@@ -4,3 +4,45 @@ website: https://github.com/xishang0128/sparkle
 repository: https://github.com/xishang0128/sparkle
 aur:
 - sparkle-electron-git
+latest: 1.26.6
+src: https://github.com/xishang0128/sparkle/archive/refs/tags/1.26.6.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/latest.yml
+- name: sparkle-linux-1.26.6-aarch64.pkg.tar.zst
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-aarch64.pkg.tar.zst
+- name: sparkle-linux-1.26.6-aarch64.rpm
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-aarch64.rpm
+- name: sparkle-linux-1.26.6-amd64.deb
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-amd64.deb
+- name: sparkle-linux-1.26.6-arm64.deb
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-arm64.deb
+- name: sparkle-linux-1.26.6-loong64.deb
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-loong64.deb
+- name: sparkle-linux-1.26.6-loong64.pkg.tar.zst
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-loong64.pkg.tar.zst
+- name: sparkle-linux-1.26.6-loongarch64.rpm
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-loongarch64.rpm
+- name: sparkle-linux-1.26.6-x64.pkg.tar.zst
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-x64.pkg.tar.zst
+- name: sparkle-linux-1.26.6-x86_64.rpm
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-linux-1.26.6-x86_64.rpm
+- name: sparkle-macos-1.26.6-arm64.pkg
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-macos-1.26.6-arm64.pkg
+- name: sparkle-macos-1.26.6-x64.pkg
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-macos-1.26.6-x64.pkg
+- name: sparkle-windows-1.26.6-arm64-portable.7z
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-windows-1.26.6-arm64-portable.7z
+- name: sparkle-windows-1.26.6-arm64-setup.exe
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-windows-1.26.6-arm64-setup.exe
+- name: sparkle-windows-1.26.6-x64-portable.7z
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-windows-1.26.6-x64-portable.7z
+- name: sparkle-windows-1.26.6-x64-setup.exe
+  url: https://github.com/xishang0128/sparkle/releases/download/1.26.6/sparkle-windows-1.26.6-x64-setup.exe
+- url: https://github.com/sparkle-project/Sparkle/releases/download/2.9.4/Sparkle-2.9.4.tar.xz
+  name: Sparkle-2.9.4.tar.xz
+  version: 2.9.4
+homebrew: sparkle
+electron: 42.4.0
+method: src-pnpm-lock
+electron_src: https://github.com/xishang0128/sparkle/archive/refs/tags/1.26.6.zip

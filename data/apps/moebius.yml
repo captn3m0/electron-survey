@@ -10,3 +10,20 @@ packages:
   os: macos
 electron: 9.4.4
 method: aur-depends
+latest: 1.0.29
+src: https://github.com/blocktronics/moebius/archive/refs/tags/1.0.29.zip
+downloads:
+- name: Moebius.deb
+  url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.deb
+- name: Moebius.dmg
+  url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
+- name: Moebius.exe
+  url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.exe
+- name: Moebius.rpm
+  url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.rpm
+- name: Moebius.Setup.exe
+  url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.Setup.exe
+- url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
+  name: Moebius.dmg
+  version: 1.0.29
+homebrew: moebius

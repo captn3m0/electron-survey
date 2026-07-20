@@ -6,3 +6,10 @@ aur:
 - database-kit-git
 electron: 31.7.7
 method: aur-depends
+latest: 0.0.2
+src: https://github.com/zhuyongqi-master/database-kit/archive/refs/tags/0.0.2.zip
+downloads:
+- name: database-kit-darwin-arm64-0.0.0.zip
+  url: https://github.com/zhuyongqi-master/database-kit/releases/download/0.0.2/database-kit-darwin-arm64-0.0.0.zip
+- name: database-kit-win32-x64-0.0.0.zip
+  url: https://github.com/zhuyongqi-master/database-kit/releases/download/0.0.2/database-kit-win32-x64-0.0.0.zip

@@ -7,3 +7,8 @@ packages:
   os: macos
 aur:
 - mtgaprotracker
+homebrew: mtgaprotracker
+downloads:
+- url: https://github.com/Razviar/mtgap/releases/download/v2.1.35/mtgaprotracker.dmg
+  name: mtgaprotracker.dmg
+  version: 2.1.35

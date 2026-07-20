@@ -10,3 +10,9 @@ packages:
   arch: arm64
 additionalAUR:
 - aliyun-adrive-bin
+homebrew: adrive
+downloads:
+- url: https://cdn.aliyundrive.net/downloads/apps/desktop/aDrive-6.9.3-arm64.dmg
+  name: aDrive-6.9.3-arm64.dmg
+  version: 6.9.3
+we_tried: we0:urls:9de55008fedd

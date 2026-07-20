@@ -25,3 +25,48 @@ packages:
   arch: arm64
 electron: 39.8.5
 method: which-electron-rg
+latest: v0.75.0
+src: https://github.com/hotovo/aider-desk/archive/refs/tags/v0.75.0.zip
+downloads:
+- name: aider-desk-0.75.0-arm64.AppImage
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-arm64.AppImage
+- name: aider-desk-0.75.0-macos-arm64.dmg
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-arm64.dmg
+- name: aider-desk-0.75.0-macos-arm64.dmg.blockmap
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-arm64.dmg.blockmap
+- name: aider-desk-0.75.0-macos-arm64.zip
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-arm64.zip
+- name: aider-desk-0.75.0-macos-arm64.zip.blockmap
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-arm64.zip.blockmap
+- name: aider-desk-0.75.0-macos-x64.dmg
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-x64.dmg
+- name: aider-desk-0.75.0-macos-x64.dmg.blockmap
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-x64.dmg.blockmap
+- name: aider-desk-0.75.0-macos-x64.zip
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-x64.zip
+- name: aider-desk-0.75.0-macos-x64.zip.blockmap
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-macos-x64.zip.blockmap
+- name: aider-desk-0.75.0-setup.exe
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-setup.exe
+- name: aider-desk-0.75.0-setup.exe.blockmap
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-setup.exe.blockmap
+- name: aider-desk-0.75.0-x86_64.AppImage
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0-x86_64.AppImage
+- name: aider-desk-0.75.0.aarch64.rpm
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0.aarch64.rpm
+- name: aider-desk-0.75.0.AppImage
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0.AppImage
+- name: aider-desk-0.75.0.x86_64.rpm
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk-0.75.0.x86_64.rpm
+- name: aider-desk_0.75.0_amd64.deb
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk_0.75.0_amd64.deb
+- name: aider-desk_0.75.0_arm64.deb
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/aider-desk_0.75.0_arm64.deb
+- name: latest-linux-arm64.yml
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/hotovo/aider-desk/releases/download/v0.75.0/latest.yml

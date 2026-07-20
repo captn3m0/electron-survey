@@ -6,3 +6,5 @@ aur:
 - fdc3-sail-bin
 electron: 24.8.8
 method: aur-depends
+latest: v2.0.0
+src: https://github.com/finos/FDC3-Sail/archive/refs/tags/v2.0.0.zip

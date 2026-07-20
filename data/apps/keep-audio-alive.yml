@@ -6,3 +6,12 @@ aur:
 - keep-audio-alive-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/TarnishedStella/keep-audio-alive/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: keep-audio-alive-1.1.0-setup.exe
+  url: https://github.com/TarnishedStella/keep-audio-alive/releases/download/v1.1.0/keep-audio-alive-1.1.0-setup.exe
+- name: keep-audio-alive-1.1.0-setup.exe.blockmap
+  url: https://github.com/TarnishedStella/keep-audio-alive/releases/download/v1.1.0/keep-audio-alive-1.1.0-setup.exe.blockmap
+- name: latest.yml
+  url: https://github.com/TarnishedStella/keep-audio-alive/releases/download/v1.1.0/latest.yml

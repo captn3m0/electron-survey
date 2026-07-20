@@ -49,3 +49,4 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+electron_src: https://github.com/sqlectron/sqlectron-gui/archive/refs/tags/v1.39.0.zip

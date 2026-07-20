@@ -4,3 +4,15 @@ website: https://github.com/MarkMindCkm/Mark-Mind
 repository: https://github.com/MarkMindCkm/Mark-Mind
 aur:
 - mark-mind
+latest: v1.3.1
+src: https://github.com/MarkMindCkm/Mark-Mind/archive/refs/tags/v1.3.1.zip
+downloads:
+- name: Mark.Mind-1.3.1.AppImage
+  url: https://github.com/MarkMindCkm/Mark-Mind/releases/download/v1.3.1/Mark.Mind-1.3.1.AppImage
+- name: Mark.Mind-1.3.1.dmg
+  url: https://github.com/MarkMindCkm/Mark-Mind/releases/download/v1.3.1/Mark.Mind-1.3.1.dmg
+- name: Mark.Mind.Setup.1.3.1.exe
+  url: https://github.com/MarkMindCkm/Mark-Mind/releases/download/v1.3.1/Mark.Mind.Setup.1.3.1.exe
+electron: 8.2.0
+method: src-package-lock
+electron_src: https://github.com/MarkMindCkm/Mark-Mind/archive/refs/tags/v1.3.1.zip

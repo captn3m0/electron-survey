@@ -19,3 +19,27 @@ aur:
 - before-dawn
 electron: 37.10.3
 method: aur-depends
+latest: v0.37.0
+src: https://github.com/muffinista/before-dawn/archive/refs/tags/v0.37.0.zip
+downloads:
+- name: Before-Dawn-0.37.0-mac.zip
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-0.37.0-mac.zip
+- name: Before-Dawn-0.37.0.dmg
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-0.37.0.dmg
+- name: Before-Dawn-0.37.0.dmg.blockmap
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-0.37.0.dmg.blockmap
+- name: Before-Dawn-Setup-0.37.0.exe
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-Setup-0.37.0.exe
+- name: Before-Dawn-Setup-0.37.0.exe.blockmap
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-Setup-0.37.0.exe.blockmap
+- name: before-dawn_0.37.0_amd64.deb
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/before-dawn_0.37.0_amd64.deb
+- name: Before.Dawn-0.37.0-mac.zip.blockmap
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before.Dawn-0.37.0-mac.zip.blockmap
+- name: latest-linux.yml
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/latest.yml
+we_tried: we0:v0.37.0

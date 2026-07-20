@@ -8,3 +8,26 @@ additionalAUR:
 - stremio-enhanced-git
 electron: 41.10.2
 method: aur-depends
+latest: v1.2.0
+src: https://github.com/REVENGE977/stremio-enhanced/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: linux-arm64-unpacked.zip
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/linux-arm64-unpacked.zip
+- name: linux-unpacked.zip
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/linux-unpacked.zip
+- name: mac-arm64.zip
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/mac-arm64.zip
+- name: mac-unpacked.zip
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/mac-unpacked.zip
+- name: Stremio.Enhanced-1.2.0-arm64.AppImage
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0-arm64.AppImage
+- name: Stremio.Enhanced-1.2.0-arm64.dmg
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0-arm64.dmg
+- name: Stremio.Enhanced-1.2.0.AppImage
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0.AppImage
+- name: Stremio.Enhanced-1.2.0.dmg
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0.dmg
+- name: Stremio.Enhanced.Setup.1.2.0.exe
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced.Setup.1.2.0.exe
+- name: win-unpacked-x64.zip
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/win-unpacked-x64.zip

@@ -19,3 +19,13 @@ aur:
 - aingdesk
 electron: 31.7.7
 method: aur-depends
+latest: v1.2.4
+src: https://github.com/aingdesk/AingDesk/archive/refs/tags/v1.2.4.zip
+downloads:
+- name: AingDesk-mac-1.2.4-arm64.dmg
+  url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-mac-1.2.4-arm64.dmg
+- name: AingDesk-mac-1.2.4-x64.dmg
+  url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-mac-1.2.4-x64.dmg
+- name: AingDesk-win-1.2.4-x64.exe
+  url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-win-1.2.4-x64.exe
+we_tried: we0:v1.2.4

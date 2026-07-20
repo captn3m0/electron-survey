@@ -17,7 +17,32 @@ packages:
   arch: x64
 homebrew: bison-wallet
 downloads:
-- url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-darwin-arm64-v1.0.5.dmg
-  name: bisonw-desktop-darwin-arm64-v1.0.5.dmg
-  version: 1.0.5
-we_tried: urls:a110ea4873d2
+- name: bisonw-darwin-amd64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-darwin-amd64-v1.0.5.tar.gz
+- name: bisonw-darwin-arm64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-darwin-arm64-v1.0.5.tar.gz
+- name: bisonw-desktop-darwin-arm64-v1.0.5.dmg
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-darwin-arm64-v1.0.5.dmg
+- name: bisonw-desktop-linux-amd64-v1.0.5.deb
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-linux-amd64-v1.0.5.deb
+- name: bisonw-desktop-windows-amd64-v1.0.5.msi
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-desktop-windows-amd64-v1.0.5.msi
+- name: bisonw-freebsd-amd64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-freebsd-amd64-v1.0.5.tar.gz
+- name: bisonw-linux-amd64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-linux-amd64-v1.0.5.tar.gz
+- name: bisonw-linux-arm64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-linux-arm64-v1.0.5.tar.gz
+- name: bisonw-linux-riscv64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-linux-riscv64-v1.0.5.tar.gz
+- name: bisonw-openbsd-amd64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-openbsd-amd64-v1.0.5.tar.gz
+- name: bisonw-openbsd-arm64-v1.0.5.tar.gz
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-openbsd-arm64-v1.0.5.tar.gz
+- name: bisonw-v1.0.5-manifest.txt
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-v1.0.5-manifest.txt
+- name: bisonw-windows-amd64-v1.0.5.zip
+  url: https://github.com/decred/dcrdex/releases/download/v1.0.5/bisonw-windows-amd64-v1.0.5.zip
+we_tried: we0:v1.0.5
+latest: v1.0.5
+src: https://github.com/decred/dcrdex/archive/refs/tags/v1.0.5.zip

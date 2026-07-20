@@ -26,3 +26,4 @@ electron: 13.6.9
 method: src-yarn-lock
 homebrew: kap
 name: Kap
+electron_src: https://github.com/wulkano/kap/archive/refs/tags/v3.6.0.zip

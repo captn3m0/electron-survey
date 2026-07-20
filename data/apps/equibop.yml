@@ -13,3 +13,56 @@ additionalAUR:
 - equibop-git
 electron: 40.10.6
 method: aur-depends
+latest: v3.2.1
+src: https://github.com/Equicord/Equibop/archive/refs/tags/v3.2.1.zip
+downloads:
+- name: Equibop-3.2.1-arm64-win.zip
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-arm64-win.zip
+- name: Equibop-3.2.1-arm64.AppImage
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-arm64.AppImage
+- name: equibop-3.2.1-arm64.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/equibop-3.2.1-arm64.tar.gz
+- name: Equibop-3.2.1-universal-mac.zip
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal-mac.zip
+- name: Equibop-3.2.1-universal-mac.zip.blockmap
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal-mac.zip.blockmap
+- name: Equibop-3.2.1-universal.dmg
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal.dmg
+- name: Equibop-3.2.1-universal.dmg.blockmap
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal.dmg.blockmap
+- name: Equibop-3.2.1-win.zip
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-win.zip
+- name: equibop-3.2.1.aarch64.rpm
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/equibop-3.2.1.aarch64.rpm
+- name: Equibop-3.2.1.AppImage
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1.AppImage
+- name: equibop-3.2.1.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/equibop-3.2.1.tar.gz
+- name: equibop-3.2.1.x86_64.rpm
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/equibop-3.2.1.x86_64.rpm
+- name: Equibop-Setup-3.2.1.exe
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-Setup-3.2.1.exe
+- name: Equibop-Setup-3.2.1.exe.blockmap
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-Setup-3.2.1.exe.blockmap
+- name: equibop_3.2.1_amd64.deb
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/equibop_3.2.1_amd64.deb
+- name: equibop_3.2.1_arm64.deb
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/equibop_3.2.1_arm64.deb
+- name: latest-linux-arm64.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/latest.yml
+- name: node_modules-arm64.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/node_modules-arm64.tar.gz
+- name: node_modules-x64.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/node_modules-x64.tar.gz
+- name: org.equicord.equibop.metainfo.xml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/org.equicord.equibop.metainfo.xml
+- url: https://github.com/Equicord/Equibop/releases/download/v3.2.1/Equibop-3.2.1-universal.dmg
+  name: Equibop-3.2.1-universal.dmg
+  version: 3.2.1
+homebrew: equibop

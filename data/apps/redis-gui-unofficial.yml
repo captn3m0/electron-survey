@@ -40,3 +40,4 @@ packages:
   format: appimage
   os: linux
   arch: x64
+electron_src: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.3.0.zip

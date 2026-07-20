@@ -8,3 +8,40 @@ packages:
 - url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.dmg
   format: dmg
   os: macos
+latest: v1.16.11
+src: https://github.com/AugurProject/augur-app/archive/refs/tags/v1.16.11.zip
+downloads:
+- name: linux-Augur-1.16.11.AppImage
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/linux-Augur-1.16.11.AppImage
+  checksum: 0050f95d28c30fd5d62168486fbda5c07b88a9c92538f993704adc92aa9252e6
+- name: mac-Augur-1.16.11.dmg.blockmap
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.dmg.blockmap
+- name: mac-Augur-1.16.11.dmg
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.dmg
+  checksum: 127a57ed9e3e0b2bd0451f0b097d5998f3e59acb7c4b9d424166f460a1776411
+- name: mac-Augur-1.16.11.zip
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.zip
+  checksum: 09086e05a3954fbb228a7e65c8684817f5adef35f54af488fcde9c849074b518
+- name: latest-mac.yml
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/latest-mac.yml
+- name: linux-Augur-1.16.11.deb
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/linux-Augur-1.16.11.deb
+  checksum: 9962f366221e43d160bcded163e7808ffad5743b17ed09f7fced0eff871eeab3
+- name: latest-linux.yml
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/latest-linux.yml
+- name: win-Augur-1.16.11.exe
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/win-Augur-1.16.11.exe
+  checksum: 778b218f50b5f7b020f141bfa5d92b7c30a1d6064a1ef990683b01c4cd81ad74
+- name: win-Augur-1.16.11.exe.blockmap
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/win-Augur-1.16.11.exe.blockmap
+- name: latest.yml
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/latest.yml
+- name: release-checksum-v1.16.11.txt
+  url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/release-checksum-v1.16.11.txt
+- url: https://github.com/AugurProject/augur-app/releases/download/v1.16.11/mac-Augur-1.16.11.dmg
+  name: mac-Augur-1.16.11.dmg
+  version: 1.16.11
+homebrew: augur
+electron: 3.1.0
+method: src-package-lock
+electron_src: https://github.com/AugurProject/augur-app/archive/refs/tags/v1.16.11.zip

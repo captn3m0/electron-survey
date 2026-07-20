@@ -8,3 +8,8 @@ additionalAUR:
 - seven-waves-git
 electron: 9.4.4
 method: aur-depends
+latest: v1.2.0
+src: https://github.com/Togohogo1/7-Waves/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: 7.Waves.Setup.1.2.0.zip
+  url: https://github.com/kwangzera/7-Waves/releases/download/v1.2.0/7.Waves.Setup.1.2.0.zip

@@ -16,8 +16,37 @@ aur:
 - parsify-desktop
 homebrew: parsify
 downloads:
-- url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.zip
-  name: Parsify-2.0.1-mac-arm64.zip
-  version: 2.0.1
+- name: latest-linux.yml
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/latest.yml
+- name: Parsify-2.0.1-linux-amd64.deb
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-linux-amd64.deb
+- name: Parsify-2.0.1-linux-x86_64.AppImage
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-linux-x86_64.AppImage
+- name: Parsify-2.0.1-mac-arm64.dmg
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.dmg
+- name: Parsify-2.0.1-mac-arm64.dmg.blockmap
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.dmg.blockmap
+- name: Parsify-2.0.1-mac-arm64.zip
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.zip
+- name: Parsify-2.0.1-mac-arm64.zip.blockmap
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.zip.blockmap
+- name: Parsify-2.0.1-mac-x64.dmg
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-x64.dmg
+- name: Parsify-2.0.1-mac-x64.dmg.blockmap
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-x64.dmg.blockmap
+- name: Parsify-2.0.1-mac-x64.zip
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-x64.zip
+- name: Parsify-2.0.1-mac-x64.zip.blockmap
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-x64.zip.blockmap
+- name: Parsify-2.0.1-win-x64.exe
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-win-x64.exe
+- name: Parsify-2.0.1-win-x64.exe.blockmap
+  url: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-win-x64.exe.blockmap
 electron: 21.4.4
 method: which-electron-rg
+latest: v2.0.1
+src: https://github.com/parsify-dev/desktop/archive/refs/tags/v2.0.1.zip

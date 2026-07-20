@@ -39,3 +39,60 @@ aur:
 - prospect-mail
 electron: 39.8.10
 method: aur-depends
+latest: v1.2.1
+src: https://github.com/julian-alarcon/prospect-mail/archive/refs/tags/v1.2.1.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/latest.yml
+- name: Prospect-Mail-1.2.1-aarch64.flatpak
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-aarch64.flatpak
+- name: prospect-mail-1.2.1-aarch64.pacman
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1-aarch64.pacman
+- name: Prospect-Mail-1.2.1-arm64-mac.zip
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64-mac.zip
+- name: Prospect-Mail-1.2.1-arm64.AppImage
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.AppImage
+- name: Prospect-Mail-1.2.1-arm64.dmg
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.dmg
+- name: Prospect-Mail-1.2.1-arm64.msi
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-arm64.msi
+- name: prospect-mail-1.2.1-arm64.tar.gz
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1-arm64.tar.gz
+- name: Prospect-Mail-1.2.1-mac.zip
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-mac.zip
+- name: Prospect-Mail-1.2.1-x86_64.flatpak
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1-x86_64.flatpak
+- name: prospect-mail-1.2.1.aarch64.rpm
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1.aarch64.rpm
+- name: Prospect-Mail-1.2.1.AppImage
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.AppImage
+- name: Prospect-Mail-1.2.1.dmg
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.dmg
+- name: Prospect-Mail-1.2.1.msi
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-1.2.1.msi
+- name: prospect-mail-1.2.1.pacman
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1.pacman
+- name: prospect-mail-1.2.1.tar.gz
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1.tar.gz
+- name: prospect-mail-1.2.1.x86_64.rpm
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail-1.2.1.x86_64.rpm
+- name: Prospect-Mail-Setup-1.2.1.exe
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect-Mail-Setup-1.2.1.exe
+- name: prospect-mail_1.2.1_amd64.deb
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_amd64.deb
+- name: prospect-mail_1.2.1_amd64.snap
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_amd64.snap
+- name: prospect-mail_1.2.1_arm64.deb
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_arm64.deb
+- name: prospect-mail_1.2.1_arm64.snap
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/prospect-mail_1.2.1_arm64.snap
+- name: Prospect.Mail-1.2.1-arm64-mac.zip.blockmap
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect.Mail-1.2.1-arm64-mac.zip.blockmap
+- name: Prospect.Mail-1.2.1-mac.zip.blockmap
+  url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect.Mail-1.2.1-mac.zip.blockmap

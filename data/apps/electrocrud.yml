@@ -24,3 +24,4 @@ aur:
 - electrocrud-bin
 homebrew: electrocrud
 name: ElectroCRUD
+electron_src: https://github.com/garrylachman/ElectroCRUD/archive/refs/tags/v3.0.19.zip

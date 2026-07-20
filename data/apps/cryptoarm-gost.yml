@@ -21,3 +21,4 @@ downloads:
 electron: 7.1.13
 method: src-package-lock
 name: CryptoARM GOST
+electron_src: https://github.com/TrustedRu/CryptoARMGOST/archive/refs/tags/v2.5.12.zip

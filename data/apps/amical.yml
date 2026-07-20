@@ -17,8 +17,23 @@ packages:
   arch: x64
 homebrew: amical
 downloads:
-- url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-macos-arm64.dmg
-  name: Amical-macos-arm64.dmg
-  version: 1.11.3
+- name: Amical-1.11.3-full.nupkg
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-1.11.3-full.nupkg
+- name: Amical-darwin-arm64-1.11.3.zip
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-darwin-arm64-1.11.3.zip
+- name: Amical-darwin-x64-1.11.3.zip
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-darwin-x64-1.11.3.zip
+- name: Amical-macos-arm64.dmg
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-macos-arm64.dmg
+- name: Amical-macos-x64.dmg
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-macos-x64.dmg
+- name: Amical-windows-x64.exe
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-windows-x64.exe
+- name: release-notes.json
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/release-notes.json
+- name: RELEASES
+  url: https://github.com/amicalhq/amical/releases/download/v1.11.3/RELEASES
 electron: 38.1.0
 method: which-electron-rg
+latest: v1.11.3
+src: https://github.com/amicalhq/amical/archive/refs/tags/v1.11.3.zip

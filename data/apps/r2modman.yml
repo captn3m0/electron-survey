@@ -6,3 +6,28 @@ aur:
 - r2modman
 electron: 38.8.6
 method: aur-depends
+latest: v3.2.18
+src: https://github.com/ebkr/r2modmanPlus/archive/refs/tags/v3.2.18.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/latest.yml
+- name: r2modman-3.2.18.AppImage
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.AppImage
+- name: r2modman-3.2.18.exe
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.exe
+- name: r2modman-3.2.18.pacman
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.pacman
+- name: r2modman-3.2.18.tar.gz
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.tar.gz
+- name: r2modman-3.2.18.x86_64.rpm
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.x86_64.rpm
+- name: r2modman-Setup-3.2.18.exe
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-Setup-3.2.18.exe
+- name: r2modman-Setup-3.2.18.exe.blockmap
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-Setup-3.2.18.exe.blockmap
+- name: r2modman.flatpak
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman.flatpak
+- name: r2modman_3.2.18_amd64.deb
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman_3.2.18_amd64.deb

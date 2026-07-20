@@ -6,3 +6,18 @@ aur:
 - kick-vod-downloader-bin
 electron: 31.7.7
 method: aur-depends
+latest: '12135550805'
+src: https://github.com/juddydev/kick-vod-downloader/archive/refs/tags/12135550805.zip
+downloads:
+- name: kick-vod-downloader-1.0.6.tar.gz
+  url: https://github.com/t0linixer/kick-vod-downloader/releases/download/12135550805/kick-vod-downloader-1.0.6.tar.gz
+- name: kick-vod-downloader_1.0.6_amd64.snap
+  url: https://github.com/t0linixer/kick-vod-downloader/releases/download/12135550805/kick-vod-downloader_1.0.6_amd64.snap
+- name: Kick.VOD.Downloader-1.0.6.AppImage
+  url: https://github.com/t0linixer/kick-vod-downloader/releases/download/12135550805/Kick.VOD.Downloader-1.0.6.AppImage
+- name: Kick.VOD.Downloader.1.0.6.exe
+  url: https://github.com/t0linixer/kick-vod-downloader/releases/download/12135550805/Kick.VOD.Downloader.1.0.6.exe
+- name: Kick.VOD.Downloader.1.0.6.msi
+  url: https://github.com/t0linixer/kick-vod-downloader/releases/download/12135550805/Kick.VOD.Downloader.1.0.6.msi
+- name: Kick.VOD.Downloader.Setup.1.0.6.exe
+  url: https://github.com/t0linixer/kick-vod-downloader/releases/download/12135550805/Kick.VOD.Downloader.Setup.1.0.6.exe

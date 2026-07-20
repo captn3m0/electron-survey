@@ -23,6 +23,24 @@ aur:
 - ubports-installer
 homebrew: ubports-installer
 downloads:
-- url: https://github.com/ubports/ubports-installer/releases/download/0.11.1/ubports-installer_0.11.1_mac_arm64.dmg
-  name: ubports-installer_0.11.1_mac_arm64.dmg
-  version: 0.11.1
+- name: ubports-installer_0.11.2_linux_amd64.deb
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_amd64.deb
+- name: ubports-installer_0.11.2_linux_amd64.deb.sha256
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_amd64.deb.sha256
+- name: ubports-installer_0.11.2_linux_x86_64.AppImage
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_x86_64.AppImage
+- name: ubports-installer_0.11.2_linux_x86_64.AppImage.sha256
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_linux_x86_64.AppImage.sha256
+- name: ubports-installer_0.11.2_mac_x64.dmg
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_mac_x64.dmg
+- name: ubports-installer_0.11.2_mac_x64.dmg.sha256
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_mac_x64.dmg.sha256
+- name: ubports-installer_0.11.2_win_x64.exe
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_win_x64.exe
+- name: ubports-installer_0.11.2_win_x64.exe.sha256
+  url: https://github.com/ubports/ubports-installer/releases/download/0.11.2/ubports-installer_0.11.2_win_x64.exe.sha256
+latest: 0.11.2
+src: https://github.com/ubports/ubports-installer/archive/refs/tags/0.11.2.zip
+electron: 33.4.11
+method: src-package-lock
+electron_src: https://github.com/ubports/ubports-installer/archive/refs/tags/0.11.2.zip

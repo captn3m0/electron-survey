@@ -30,3 +30,5 @@ downloads:
   version: 1.8.0
 electron: 23.3.13
 method: which-electron-rg
+latest: 1.9.1
+src: https://github.com/NicolasConstant/sengi/archive/refs/tags/1.9.1.zip

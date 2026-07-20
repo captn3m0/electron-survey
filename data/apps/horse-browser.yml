@@ -5,3 +5,10 @@ download_urls:
 - https://carrots.browser.horse/download/darwin-arm64
 - https://carrots.browser.horse/download/appimage-x64
 name: Horse Browser
+downloads:
+- url: https://carrots.browser.horse/download/win32-x64
+  name: win32-x64
+- url: https://carrots.browser.horse/download/darwin-arm64
+  name: darwin-arm64
+- url: https://carrots.browser.horse/download/appimage-x64
+  name: appimage-x64

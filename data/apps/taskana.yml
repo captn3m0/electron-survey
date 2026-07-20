@@ -25,3 +25,4 @@ downloads:
 electron: 35.0.2
 method: src-package-lock
 name: Taskana
+electron_src: https://github.com/mountainash/taskana/archive/refs/tags/v1.18.2.zip

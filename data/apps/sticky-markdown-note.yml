@@ -6,3 +6,14 @@ aur:
 - sticky-markdown-note-git
 electron: 29.4.6
 method: aur-depends
+latest: v1.4.0
+src: https://github.com/seongmini/sticky-markdown-note/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: Sticky.Markdown.Note-1.4.0-arm64.dmg
+  url: https://github.com/seongmini/sticky-markdown-note/releases/download/v1.4.0/Sticky.Markdown.Note-1.4.0-arm64.dmg
+- name: Sticky.Markdown.Note-1.4.0-arm64.dmg.blockmap
+  url: https://github.com/seongmini/sticky-markdown-note/releases/download/v1.4.0/Sticky.Markdown.Note-1.4.0-arm64.dmg.blockmap
+- name: Sticky.Markdown.Note.Setup.1.4.0.exe
+  url: https://github.com/seongmini/sticky-markdown-note/releases/download/v1.4.0/Sticky.Markdown.Note.Setup.1.4.0.exe
+- name: Sticky.Markdown.Note.Setup.1.4.0.exe.blockmap
+  url: https://github.com/seongmini/sticky-markdown-note/releases/download/v1.4.0/Sticky.Markdown.Note.Setup.1.4.0.exe.blockmap

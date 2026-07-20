@@ -10,3 +10,34 @@ packages:
   os: macos
 electron: 33.4.11
 method: aur-depends
+latest: v2026.5.18
+src: https://github.com/cebby2420/via-desktop/archive/refs/tags/v2026.5.18.zip
+downloads:
+- name: dev.cebby.via-desktop_stable_x86_64.flatpak
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/dev.cebby.via-desktop_stable_x86_64.flatpak
+- name: RELEASES
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/RELEASES
+- name: via-desktop-2026.5.18-1.x86_64.rpm
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-2026.5.18-1.x86_64.rpm
+- name: via-desktop-2026.5.18-arm64.dmg
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-2026.5.18-arm64.dmg
+- name: via-desktop-2026.5.18-x64.dmg
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-2026.5.18-x64.dmg
+- name: via-desktop-2026.5.18.Setup.exe
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-2026.5.18.Setup.exe
+- name: via-desktop-darwin-arm64-2026.5.18.zip
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-darwin-arm64-2026.5.18.zip
+- name: via-desktop-darwin-x64-2026.5.18.zip
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-darwin-x64-2026.5.18.zip
+- name: via-desktop-linux-x64-2026.5.18.zip
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-linux-x64-2026.5.18.zip
+- name: via-desktop-win32-x64-2026.5.18.zip
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-win32-x64-2026.5.18.zip
+- name: via-desktop_2026.5.18_amd64.deb
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop_2026.5.18_amd64.deb
+- name: via_desktop-2026.5.18-full.nupkg
+  url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via_desktop-2026.5.18-full.nupkg
+- url: https://github.com/the-via/releases/releases/download/v3.0.0/via-3.0.0-mac.dmg
+  name: via-3.0.0-mac.dmg
+  version: 3.0.0
+homebrew: via

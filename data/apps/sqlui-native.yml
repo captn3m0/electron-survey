@@ -1,29 +1,21 @@
 id: sqlui-native
 repository: https://github.com/synle/sqlui-native
 website: https://synle.github.io/sqlui-native/
-latest: 1.66.2
-src: https://github.com/synle/sqlui-native/archive/refs/tags/1.66.2.zip
+latest: v3.1.9
+src: https://github.com/synle/sqlui-native/archive/refs/tags/v3.1.9.zip
 downloads:
-- name: sqlui-native-arm64.dmg
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-arm64.dmg
-- name: sqlui-native-arm64.exe
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-arm64.exe
-- name: sqlui-native-x64.appx
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-x64.appx
-- name: sqlui-native-x64.dmg
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-x64.dmg
-- name: sqlui-native-x64.exe
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native-x64.exe
-- name: sqlui-native.AppImage
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.AppImage
-- name: sqlui-native.deb
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.deb
-- name: sqlui-native.pacman
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.pacman
-- name: sqlui-native.rpm
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.rpm
-- name: sqlui-native.snap
-  url: https://github.com/synle/sqlui-native/releases/download/1.66.2/sqlui-native.snap
+- name: sqlui-native_3.1.9_aarch64.dmg
+  url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_aarch64.dmg
+- name: sqlui-native_3.1.9_amd64.AppImage
+  url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_amd64.AppImage
+- name: sqlui-native_3.1.9_amd64.deb
+  url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_amd64.deb
+- name: sqlui-native_3.1.9_x64-setup.exe
+  url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_x64-setup.exe
+- name: sqlui-native_3.1.9_x64.dmg
+  url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_x64.dmg
+- name: sqlui-portal.tar.gz
+  url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-portal.tar.gz
 electron: 28.3.3
 method: src-package-lock
 aur:

@@ -6,3 +6,14 @@ aur:
 - chrolog-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.8.3
+src: https://github.com/Lukylix/Chrolog-Legacy/archive/refs/tags/v1.8.3.zip
+downloads:
+- name: chrolog-1.8.3-linux.zip
+  url: https://github.com/Lukylix/Chrolog-Legacy/releases/download/v1.8.3/chrolog-1.8.3-linux.zip
+- name: chrolog-1.8.3-setup.exe
+  url: https://github.com/Lukylix/Chrolog-Legacy/releases/download/v1.8.3/chrolog-1.8.3-setup.exe
+- name: chrolog-1.8.3-win.zip
+  url: https://github.com/Lukylix/Chrolog-Legacy/releases/download/v1.8.3/chrolog-1.8.3-win.zip
+- name: chrolog_1.8.3_amd64.deb
+  url: https://github.com/Lukylix/Chrolog-Legacy/releases/download/v1.8.3/chrolog_1.8.3_amd64.deb

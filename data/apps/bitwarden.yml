@@ -30,8 +30,11 @@ aur:
 - goldwarden-gui
 homebrew: bitwarden
 downloads:
-- url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.6.1/Bitwarden-2026.6.1-universal.dmg
-  name: Bitwarden-2026.6.1-universal.dmg
-  version: 2026.6.1
+- name: web-2026.6.4-selfhosted-COMMERCIAL.zip
+  url: https://github.com/bitwarden/clients/releases/download/web-v2026.6.4/web-2026.6.4-selfhosted-COMMERCIAL.zip
+- name: web-2026.6.4-selfhosted-open-source.zip
+  url: https://github.com/bitwarden/clients/releases/download/web-v2026.6.4/web-2026.6.4-selfhosted-open-source.zip
 electron: 39.8.5
 method: which-electron-rg
+latest: web-v2026.6.4
+src: https://github.com/bitwarden/clients/archive/refs/tags/web-v2026.6.4.zip

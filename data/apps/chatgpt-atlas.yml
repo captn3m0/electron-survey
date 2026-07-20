@@ -13,3 +13,8 @@ aur:
 - openai-chatgpt-nativefier
 electron: 42.7.0
 method: aur-depends
+homebrew: chatgpt-atlas
+downloads:
+- url: https://persistent.oaistatic.com/atlas/public/ChatGPT_Atlas_Desktop_public_1.2026.189.0_20260717210119000.dmg
+  name: ChatGPT_Atlas_Desktop_public_1.2026.189.0_20260717210119000.dmg
+  version: 1.2026.189.0,20260717210119000

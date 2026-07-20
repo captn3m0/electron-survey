@@ -9,8 +9,17 @@ packages:
   arch: x64
 homebrew: backlog
 downloads:
-- url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
-  name: Backlog-darwin-x64.zip
-  version: 1.8.0
+- name: Backlog-darwin-x64.zip
+  url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip
+- name: Backlog-linux-ia32.tar.gz
+  url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-linux-ia32.tar.gz
+- name: Backlog-linux-x64.tar.gz
+  url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-linux-x64.tar.gz
+- name: Backlog-win32-ia32.zip
+  url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-win32-ia32.zip
+- name: Backlog-win32-x64.zip
+  url: https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-win32-x64.zip
 electron: 2.0.6
 method: which-electron-version_file
+latest: v1.8.0
+src: https://github.com/czytelny/backlog/archive/refs/tags/v1.8.0.zip

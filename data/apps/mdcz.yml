@@ -6,3 +6,16 @@ aur:
 - mdcz-desktop
 electron: 39.8.10
 method: aur-depends
+latest: v0.10.0
+src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.10.0.zip
+downloads:
+- name: MDCz-0.10.0-arm64.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz-0.10.0-arm64.dmg
+- name: MDCz-0.10.0.AppImage
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz-0.10.0.AppImage
+- name: MDCz-0.10.0.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz-0.10.0.dmg
+- name: mdcz-0.10.0.tar.gz
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/mdcz-0.10.0.tar.gz
+- name: MDCz.0.10.0.exe
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz.0.10.0.exe

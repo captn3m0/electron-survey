@@ -29,3 +29,4 @@ downloads:
 electron: 9.1.2
 method: src-package-lock
 name: media-dupes
+electron_src: https://github.com/yafp/media-dupes/archive/refs/tags/0.10.3.zip

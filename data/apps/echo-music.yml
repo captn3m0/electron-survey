@@ -6,3 +6,50 @@ aur:
 - echo-music-bin
 electron: 42.7.0
 method: aur-depends
+latest: v2.2.8
+src: https://github.com/hoowhoami/EchoMusic/archive/refs/tags/v2.2.8.zip
+downloads:
+- name: EchoMusic-2.2.8-linux-aarch64.pacman
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-aarch64.pacman
+- name: EchoMusic-2.2.8-linux-aarch64.pkg.tar.zst
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-aarch64.pkg.tar.zst
+- name: EchoMusic-2.2.8-linux-aarch64.rpm
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-aarch64.rpm
+- name: EchoMusic-2.2.8-linux-amd64.deb
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-amd64.deb
+- name: EchoMusic-2.2.8-linux-arm64.AppImage
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-arm64.AppImage
+- name: EchoMusic-2.2.8-linux-arm64.deb
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-arm64.deb
+- name: EchoMusic-2.2.8-linux-arm64.tar.gz
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-arm64.tar.gz
+- name: EchoMusic-2.2.8-linux-x64.pacman
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-x64.pacman
+- name: EchoMusic-2.2.8-linux-x64.pkg.tar.zst
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-x64.pkg.tar.zst
+- name: EchoMusic-2.2.8-linux-x64.tar.gz
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-x64.tar.gz
+- name: EchoMusic-2.2.8-linux-x86_64.AppImage
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-x86_64.AppImage
+- name: EchoMusic-2.2.8-linux-x86_64.rpm
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-x86_64.rpm
+- name: EchoMusic-2.2.8-mac-arm64.zip
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-mac-arm64.zip
+- name: EchoMusic-2.2.8-mac-x64.zip
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-mac-x64.zip
+- name: EchoMusic-2.2.8-macOS-arm64.dmg
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-macOS-arm64.dmg
+- name: EchoMusic-2.2.8-macOS-x64.dmg
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-macOS-x64.dmg
+- name: EchoMusic-2.2.8-Windows-Setup-arm64.exe
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-Windows-Setup-arm64.exe
+- name: EchoMusic-2.2.8-Windows-Setup-x64.exe
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-Windows-Setup-x64.exe
+- name: latest-linux-arm64.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest.yml

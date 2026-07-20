@@ -6,3 +6,8 @@ aur:
 - spine-viewer-git
 electron: 30.5.1
 method: aur-depends
+latest: 1.1.1
+src: https://github.com/anosu/Spine-Viewer/archive/refs/tags/1.1.1.zip
+downloads:
+- name: spine-viewer-win-1.1.1.7z
+  url: https://github.com/anosu/Spine-Viewer/releases/download/1.1.1/spine-viewer-win-1.1.1.7z

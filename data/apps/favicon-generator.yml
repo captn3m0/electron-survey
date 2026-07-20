@@ -6,3 +6,10 @@ aur:
 - favicon-generator
 electron: 14.2.9
 method: aur-depends
+latest: 0.1.1
+src: https://github.com/anthonypauwels/favicon-generator/archive/refs/tags/0.1.1.zip
+downloads:
+- name: favicon-generator-macos-0.1.1.dmg
+  url: https://github.com/anthonypauwels/favicon-generator/releases/download/0.1.1/favicon-generator-macos-0.1.1.dmg
+- name: favicon-generator-windows-0.1.1.exe
+  url: https://github.com/anthonypauwels/favicon-generator/releases/download/0.1.1/favicon-generator-windows-0.1.1.exe

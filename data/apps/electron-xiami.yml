@@ -4,3 +4,21 @@ website: https://github.com/eNkru/electron-xiami
 repository: https://github.com/eNkru/electron-xiami
 aur:
 - electron-xiami
+latest: v2.0.1
+src: https://github.com/eNkru/electron-xiami/archive/refs/tags/v2.0.1.zip
+downloads:
+- name: electron-xiami-2.0.1-i386.AppImage
+  url: https://github.com/eNkru/electron-xiami/releases/download/v2.0.1/electron-xiami-2.0.1-i386.AppImage
+- name: electron-xiami-2.0.1-x86_64.AppImage
+  url: https://github.com/eNkru/electron-xiami/releases/download/v2.0.1/electron-xiami-2.0.1-x86_64.AppImage
+- name: electron-xiami_2.0.1_amd64.deb
+  url: https://github.com/eNkru/electron-xiami/releases/download/v2.0.1/electron-xiami_2.0.1_amd64.deb
+- name: electron-xiami_2.0.1_i386.deb
+  url: https://github.com/eNkru/electron-xiami/releases/download/v2.0.1/electron-xiami_2.0.1_i386.deb
+- name: latest-linux-ia32.yml
+  url: https://github.com/eNkru/electron-xiami/releases/download/v2.0.1/latest-linux-ia32.yml
+- name: latest-linux.yml
+  url: https://github.com/eNkru/electron-xiami/releases/download/v2.0.1/latest-linux.yml
+electron: 5.0.5
+method: src-package-lock
+electron_src: https://github.com/eNkru/electron-xiami/archive/refs/tags/v2.0.1.zip

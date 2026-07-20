@@ -6,3 +6,10 @@ aur:
 - vrc-photo-viewer-git
 electron: 34.5.8
 method: aur-depends
+latest: 2.1.0
+src: https://github.com/vayacico/vrc-photo-viewer/archive/refs/tags/2.1.0.zip
+downloads:
+- name: VRCPhotoViewer.Setup.2.1.0.exe
+  url: https://github.com/vayacico/vrc-photo-viewer/releases/download/2.1.0/VRCPhotoViewer.Setup.2.1.0.exe
+- name: VRCPhotoViewer_2.1.0.zip
+  url: https://github.com/vayacico/vrc-photo-viewer/releases/download/2.1.0/VRCPhotoViewer_2.1.0.zip

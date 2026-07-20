@@ -13,8 +13,11 @@ packages:
   arch: arm64
 homebrew: reflect
 downloads:
-- url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.3.6/Reflect-darwin-universal-3.3.6.zip
-  name: Reflect-darwin-universal-3.3.6.zip
-  version: 3.3.6
+- name: Reflect-darwin-arm64-3.3.6.zip
+  url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.3.6/Reflect-darwin-arm64-3.3.6.zip
+- name: Reflect-darwin-universal-3.3.6.zip
+  url: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.3.6/Reflect-darwin-universal-3.3.6.zip
 electron: 40.9.3
 method: which-electron-rg
+latest: v3.3.6
+src: https://github.com/team-reflect/reflect-electron-updates/archive/refs/tags/v3.3.6.zip

@@ -24,3 +24,4 @@ electron: 6.0.0
 method: src-package-lock
 homebrew: switch
 name: Switch
+electron_src: https://github.com/ahkohd/switch-desktop/archive/refs/tags/v1.0.23.zip

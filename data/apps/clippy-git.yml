@@ -8,3 +8,18 @@ additionalAUR:
 - clippy-git
 electron: 35.7.5
 method: aur-depends
+latest: v0.4.3
+src: https://github.com/felixrieseberg/clippy/archive/refs/tags/v0.4.3.zip
+downloads:
+- name: Clippy-0.4.3-1.x86_64.rpm
+  url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-0.4.3-1.x86_64.rpm
+- name: Clippy-0.4.3-setup-x64.exe
+  url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-0.4.3-setup-x64.exe
+- name: Clippy-darwin-arm64-0.4.3.zip
+  url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-darwin-arm64-0.4.3.zip
+- name: Clippy-darwin-x64-0.4.3.zip
+  url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-darwin-x64-0.4.3.zip
+- name: Clippy-win32-x64-0.4.3.zip
+  url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-win32-x64-0.4.3.zip
+- name: clippy_0.4.3_amd64.deb
+  url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/clippy_0.4.3_amd64.deb

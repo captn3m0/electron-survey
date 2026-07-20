@@ -5,3 +5,8 @@ download_urls:
 - https://nicepage.com/get/windows
 - https://nicepage.com/get/mac
 name: Nicepage
+downloads:
+- url: https://nicepage.com/get/windows
+  name: windows
+- url: https://nicepage.com/get/mac
+  name: mac

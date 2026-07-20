@@ -6,3 +6,15 @@ aur:
 - bili-liveluckdraw-bin
 electron: 35.7.5
 method: aur-depends
+latest: v1.0.5
+src: https://github.com/grtsinry43/Bili-LiveLuckDraw/archive/refs/tags/v1.0.5.zip
+downloads:
+- name: Bili-LiveLuckDraw-Linux-v1.0.5.AppImage
+  url: https://github.com/grtsinry43/Bili-LiveLuckDraw/releases/download/v1.0.5/Bili-LiveLuckDraw-Linux-v1.0.5.AppImage
+- name: Bili-LiveLuckDraw-Linux-v1.0.5.deb
+  url: https://github.com/grtsinry43/Bili-LiveLuckDraw/releases/download/v1.0.5/Bili-LiveLuckDraw-Linux-v1.0.5.deb
+- name: Bili-LiveLuckDraw-Mac-v1.0.5-Installer.dmg
+  url: https://github.com/grtsinry43/Bili-LiveLuckDraw/releases/download/v1.0.5/Bili-LiveLuckDraw-Mac-v1.0.5-Installer.dmg
+- name: Bili-LiveLuckDraw-Windows-v1.0.5-Setup.exe
+  url: https://github.com/grtsinry43/Bili-LiveLuckDraw/releases/download/v1.0.5/Bili-LiveLuckDraw-Windows-v1.0.5-Setup.exe
+we_tried: we0:v1.0.5

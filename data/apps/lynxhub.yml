@@ -9,3 +9,58 @@ additionalAUR:
 - lynxhub-git
 electron: 42.7.0
 method: aur-depends
+latest: V3.5.5
+src: https://github.com/KindaBrazy/LynxHub/archive/refs/tags/V3.5.5.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/latest.yml
+- name: LynxHub-V3.5.5-linux-Portable_arm64.AppImage
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux-Portable_arm64.AppImage
+- name: LynxHub-V3.5.5-linux-Portable_x86_64.AppImage
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux-Portable_x86_64.AppImage
+- name: LynxHub-V3.5.5-linux_aarch64.rpm
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_aarch64.rpm
+- name: LynxHub-V3.5.5-linux_amd64.deb
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_amd64.deb
+- name: LynxHub-V3.5.5-linux_arm64.deb
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_arm64.deb
+- name: LynxHub-V3.5.5-linux_arm64.tar.gz
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_arm64.tar.gz
+- name: LynxHub-V3.5.5-linux_x64.tar.gz
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_x64.tar.gz
+- name: LynxHub-V3.5.5-linux_x86_64.rpm
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_x86_64.rpm
+- name: LynxHub-V3.5.5-mac_arm64.dmg
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_arm64.dmg
+- name: LynxHub-V3.5.5-mac_arm64.dmg.blockmap
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_arm64.dmg.blockmap
+- name: LynxHub-V3.5.5-mac_arm64.zip
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_arm64.zip
+- name: LynxHub-V3.5.5-mac_arm64.zip.blockmap
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_arm64.zip.blockmap
+- name: LynxHub-V3.5.5-mac_x64.dmg
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_x64.dmg
+- name: LynxHub-V3.5.5-mac_x64.dmg.blockmap
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_x64.dmg.blockmap
+- name: LynxHub-V3.5.5-mac_x64.zip
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_x64.zip
+- name: LynxHub-V3.5.5-mac_x64.zip.blockmap
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-mac_x64.zip.blockmap
+- name: LynxHub-V3.5.5-win-Portable_arm64.exe
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win-Portable_arm64.exe
+- name: LynxHub-V3.5.5-win-Portable_x64.exe
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win-Portable_x64.exe
+- name: LynxHub-V3.5.5-win_arm64-Setup.exe
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_arm64-Setup.exe
+- name: LynxHub-V3.5.5-win_arm64-Setup.exe.blockmap
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_arm64-Setup.exe.blockmap
+- name: LynxHub-V3.5.5-win_x64-Setup.exe
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_x64-Setup.exe
+- name: LynxHub-V3.5.5-win_x64-Setup.exe.blockmap
+  url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_x64-Setup.exe.blockmap

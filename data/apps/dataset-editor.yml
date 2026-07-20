@@ -6,3 +6,22 @@ aur:
 - dataset-editor
 electron: 39.8.10
 method: aur-depends
+latest: v1.0.1
+src: https://github.com/Jelosus2/DatasetEditor/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: Dataset-Editor-1.0.1-amd64.deb
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/Dataset-Editor-1.0.1-amd64.deb
+- name: Dataset-Editor-1.0.1-win-x64.zip
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/Dataset-Editor-1.0.1-win-x64.zip
+- name: Dataset-Editor-1.0.1-x86_64.AppImage
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/Dataset-Editor-1.0.1-x86_64.AppImage
+- name: Dataset-Editor-1.0.1-x86_64.rpm
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/Dataset-Editor-1.0.1-x86_64.rpm
+- name: Dataset-Editor-Setup-1.0.1-x64.exe
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/Dataset-Editor-Setup-1.0.1-x64.exe
+- name: Dataset-Editor-Setup-1.0.1-x64.exe.blockmap
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/Dataset-Editor-Setup-1.0.1-x64.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/latest.yml

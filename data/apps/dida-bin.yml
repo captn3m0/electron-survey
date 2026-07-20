@@ -8,3 +8,11 @@ additionalAUR:
 - dida-bin
 - dida-git
 - dida365-bin
+latest: 1.0.4
+src: https://github.com/jialeens/dida/archive/refs/tags/1.0.4.zip
+downloads:
+- name: dida-git-1.0.4-1-any.pkg.tar.xz
+  url: https://github.com/jialeens/dida/releases/download/1.0.4/dida-git-1.0.4-1-any.pkg.tar.xz
+electron: 9.4.4
+method: src-range-guess
+electron_src: https://github.com/jialeens/dida/archive/refs/tags/1.0.4.zip

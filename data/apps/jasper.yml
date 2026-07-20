@@ -17,3 +17,4 @@ packages:
   format: zip
   os: macos
   arch: arm64
+electron_src: https://github.com/jasperapp/jasper/archive/refs/tags/v2.0.0.zip

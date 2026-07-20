@@ -8,3 +8,12 @@ additionalAUR:
 - dhis2-downloader-git
 electron: 40.10.6
 method: aur-depends
+latest: v0.6.3
+src: https://github.com/worldbank/DHIS2-Downloader/archive/refs/tags/v0.6.3.zip
+downloads:
+- name: dhis2-downloader-0.6.3-setup.exe
+  url: https://github.com/worldbank/DHIS2-Downloader/releases/download/v0.6.3/dhis2-downloader-0.6.3-setup.exe
+- name: dhis2-downloader-0.6.3.AppImage
+  url: https://github.com/worldbank/DHIS2-Downloader/releases/download/v0.6.3/dhis2-downloader-0.6.3.AppImage
+- name: dhis2-downloader_0.6.3_amd64.deb
+  url: https://github.com/worldbank/DHIS2-Downloader/releases/download/v0.6.3/dhis2-downloader_0.6.3_amd64.deb

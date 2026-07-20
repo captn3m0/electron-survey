@@ -8,3 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+homebrew: linkandroid
+downloads:
+- url: https://github.com/modstart-lib/linkandroid/releases/download/v2.0.0/LinkAndroid-2.0.0-mac-arm64.dmg
+  name: LinkAndroid-2.0.0-mac-arm64.dmg
+  version: 2.0.0

@@ -13,3 +13,4 @@ downloads:
 electron: 9.4.4
 method: src-package-lock
 name: zonote
+electron_src: https://github.com/zonetti/zonote/archive/refs/tags/v0.4.4.zip

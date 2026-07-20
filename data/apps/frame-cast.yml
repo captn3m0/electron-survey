@@ -6,3 +6,20 @@ aur:
 - frame-cast-bin
 electron: 24.8.8
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/nathan-fiscaletti/framecast/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: FrameCast.Setup.darwin_arm64.dmg
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.darwin_arm64.dmg
+- name: FrameCast.Setup.darwin_arm64.dmg.blockmap
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.darwin_arm64.dmg.blockmap
+- name: FrameCast.Setup.darwin_x64.dmg
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.darwin_x64.dmg
+- name: FrameCast.Setup.darwin_x64.dmg.blockmap
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.darwin_x64.dmg.blockmap
+- name: FrameCast.Setup.linux_amd64.deb
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.linux_amd64.deb
+- name: FrameCast.Setup.windows_amd64.exe
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.windows_amd64.exe
+- name: FrameCast.Setup.windows_amd64.exe.blockmap
+  url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.windows_amd64.exe.blockmap

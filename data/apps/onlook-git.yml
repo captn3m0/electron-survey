@@ -13,3 +13,42 @@ additionalAUR:
 - onlook-git
 electron: 36.9.5
 method: aur-depends
+latest: v0.2.32
+src: https://github.com/onlook-dev/studio/archive/refs/tags/v0.2.32.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/latest.yml
+- name: Onlook-amd64.deb
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-amd64.deb
+- name: Onlook-arm64.AppImage
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.AppImage
+- name: Onlook-arm64.deb
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.deb
+- name: Onlook-arm64.dmg
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.dmg
+- name: Onlook-arm64.dmg.blockmap
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.dmg.blockmap
+- name: Onlook-arm64.zip
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.zip
+- name: Onlook-arm64.zip.blockmap
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-arm64.zip.blockmap
+- name: Onlook-setup.exe
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-setup.exe
+- name: Onlook-setup.exe.blockmap
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-setup.exe.blockmap
+- name: Onlook-x64.dmg
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.dmg
+- name: Onlook-x64.dmg.blockmap
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.dmg.blockmap
+- name: Onlook-x64.zip
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.zip
+- name: Onlook-x64.zip.blockmap
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.zip.blockmap
+- name: Onlook-x86_64.AppImage
+  url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x86_64.AppImage

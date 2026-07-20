@@ -6,3 +6,8 @@ aur:
 - mini4wdchrono-bin
 electron: 9.4.4
 method: aur-depends
+latest: v0.18.2
+src: https://github.com/Pimentoso/mini4wdchrono/archive/refs/tags/v0.18.2.zip
+downloads:
+- name: Mini4wdChrono-windows-x64.zip
+  url: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.18.2/Mini4wdChrono-windows-x64.zip

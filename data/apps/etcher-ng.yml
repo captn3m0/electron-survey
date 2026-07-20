@@ -6,3 +6,24 @@ aur:
 - etcher-ng-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.19.17R2
+src: https://github.com/Alex313031/etcher-ng/archive/refs/tags/v1.19.17R2.zip
+downloads:
+- name: etcher-ng_1.19.17_amd64.deb
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_1.19.17_amd64.deb
+- name: etcher-ng_1.19.17_win64.zip
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_1.19.17_win64.zip
+- name: etcher-ng_1.19.17_x64.AppImage
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_1.19.17_x64.AppImage
+- name: etcher-ng_1.19.17_x64.rpm
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_1.19.17_x64.rpm
+- name: etcher-ng_linux_1.19.17_x64.zip
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_linux_1.19.17_x64.zip
+- name: etcher-ng_macos_1.19.17_x64.dmg
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_macos_1.19.17_x64.dmg
+- name: etcher-ng_macos_1.19.17_x64.zip
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_macos_1.19.17_x64.zip
+- name: etcher-ng_portable_1.19.17_win64.exe
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_portable_1.19.17_win64.exe
+- name: etcher-ng_setup_1.19.17_win64.exe
+  url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_setup_1.19.17_win64.exe

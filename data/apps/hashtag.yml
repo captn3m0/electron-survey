@@ -9,3 +9,4 @@ downloads:
 electron: 7.2.4
 method: src-package-lock
 name: HashTag
+electron_src: https://github.com/MrAnyx/HashTag/archive/refs/tags/1.0.zip

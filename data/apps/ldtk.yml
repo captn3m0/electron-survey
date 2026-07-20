@@ -19,3 +19,16 @@ aur:
 - ldtk-bin
 electron: 24.8.8
 method: aur-depends
+latest: v1.5.3
+src: https://github.com/deepnight/ldtk/archive/refs/tags/v1.5.3.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/latest.yml
+- name: LDtk-1.5.3-installer.exe
+  url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/LDtk-1.5.3-installer.exe
+- name: LDtk-1.5.3-installer.exe.blockmap
+  url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/LDtk-1.5.3-installer.exe.blockmap
+- name: mac-distribution.zip
+  url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/mac-distribution.zip
+- name: ubuntu-distribution.zip
+  url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/ubuntu-distribution.zip

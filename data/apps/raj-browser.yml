@@ -6,3 +6,14 @@ aur:
 - raj-browser-bin
 electron: 22.3.27
 method: aur-depends
+latest: v2.0.5
+src: https://github.com/Rajaniraiyn/raj-browser/archive/refs/tags/v2.0.5.zip
+downloads:
+- name: raj-browser-2.0.5-mac.zip
+  url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser-2.0.5-mac.zip
+- name: raj-browser-2.0.5-setup.exe
+  url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser-2.0.5-setup.exe
+- name: raj-browser-2.0.5.dmg
+  url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser-2.0.5.dmg
+- name: raj-browser_2.0.5_amd64.deb
+  url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser_2.0.5_amd64.deb

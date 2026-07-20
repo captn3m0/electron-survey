@@ -6,3 +6,32 @@ aur:
 - gaia-amd-webui
 electron: 40.10.6
 method: aur-depends
+latest: v0.22.0
+src: https://github.com/amd/gaia/archive/refs/tags/v0.22.0.zip
+downloads:
+- name: amd_gaia-0.22.0-py3-none-any.whl
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/amd_gaia-0.22.0-py3-none-any.whl
+- name: amd_gaia-0.22.0-py3-none-any.whl.sigstore.json
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/amd_gaia-0.22.0-py3-none-any.whl.sigstore.json
+- name: amd_gaia-0.22.0.tar.gz
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/amd_gaia-0.22.0.tar.gz
+- name: amd_gaia-0.22.0.tar.gz.sigstore.json
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/amd_gaia-0.22.0.tar.gz.sigstore.json
+- name: gaia-agent-ui-0.22.0-amd64.deb
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-amd64.deb
+- name: gaia-agent-ui-0.22.0-arm64.dmg
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-arm64.dmg
+- name: gaia-agent-ui-0.22.0-arm64.dmg.blockmap
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-arm64.dmg.blockmap
+- name: gaia-agent-ui-0.22.0-x64-setup.exe
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-x64-setup.exe
+- name: gaia-agent-ui-0.22.0-x64-setup.exe.blockmap
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-x64-setup.exe.blockmap
+- name: gaia-agent-ui-0.22.0-x86_64.AppImage
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-x86_64.AppImage
+- name: latest-linux.yml
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/amd/gaia/releases/download/v0.22.0/latest.yml

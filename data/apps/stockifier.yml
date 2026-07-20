@@ -11,3 +11,4 @@ downloads:
 electron: 4.1.4
 method: src-package-lock
 name: Stockifier
+electron_src: https://github.com/jainsamyak/Stockifier/archive/refs/tags/v1.0.0.zip

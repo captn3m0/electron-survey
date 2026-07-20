@@ -6,3 +6,16 @@ aur:
 - electron-dam-bin
 electron: 39.8.10
 method: aur-depends
+latest: 1.1.1
+src: https://github.com/simeonradivoev/electron-dam/archive/refs/tags/1.1.1.zip
+downloads:
+- name: electron-dam.linux.1.1.1.AppImage
+  url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/electron-dam.linux.1.1.1.AppImage
+- name: electron-dam.win.1.1.1.exe
+  url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/electron-dam.win.1.1.1.exe
+- name: electron-dam.win.1.1.1.exe.blockmap
+  url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/electron-dam.win.1.1.1.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/latest.yml

@@ -6,3 +6,11 @@ aur:
 - bear-graph
 electron: 25.9.8
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/Chuckleroot/bear-graph/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Bear.Graph-1.0.0-arm64.dmg
+  url: https://github.com/mgrabka/bear-graph/releases/download/v1.0.0/Bear.Graph-1.0.0-arm64.dmg
+- name: Bear.Graph-darwin-arm64-1.0.0.zip
+  url: https://github.com/mgrabka/bear-graph/releases/download/v1.0.0/Bear.Graph-darwin-arm64-1.0.0.zip
+we_tried: we0:v1.0.0

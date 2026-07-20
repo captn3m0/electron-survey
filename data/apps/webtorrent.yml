@@ -48,3 +48,4 @@ packages:
   os: linux
   arch: x64
 name: WebTorrent
+electron_src: https://github.com/webtorrent/webtorrent-desktop/archive/refs/tags/v0.24.0.zip

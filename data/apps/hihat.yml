@@ -8,3 +8,14 @@ additionalAUR:
 - hihat-git
 electron: 42.7.0
 method: aur-depends
+latest: 2.3.6
+src: https://github.com/johnnyshankman/hihat/archive/refs/tags/2.3.6.zip
+downloads:
+- name: hihat-2.3.6-arm64-mac.zip
+  url: https://github.com/johnnyshankman/hihat/releases/download/2.3.6/hihat-2.3.6-arm64-mac.zip
+- name: hihat-2.3.6-arm64.dmg
+  url: https://github.com/johnnyshankman/hihat/releases/download/2.3.6/hihat-2.3.6-arm64.dmg
+- name: hihat-2.3.6-mac.zip
+  url: https://github.com/johnnyshankman/hihat/releases/download/2.3.6/hihat-2.3.6-mac.zip
+- name: hihat-2.3.6.dmg
+  url: https://github.com/johnnyshankman/hihat/releases/download/2.3.6/hihat-2.3.6.dmg

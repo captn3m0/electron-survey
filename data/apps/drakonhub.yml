@@ -6,3 +6,14 @@ aur:
 - drakonhub-bin
 electron: 32.3.3
 method: aur-depends
+latest: v2026.06.14
+src: https://github.com/stepan-mitkin/drakonhub_desktop/archive/refs/tags/v2026.06.14.zip
+downloads:
+- name: drakonhub-2026.06.14-1.x86_64.rpm
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
+- name: DrakonHub-2026.6.14-arm64.dmg
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/DrakonHub-2026.6.14-arm64.dmg
+- name: drakonhub_2026.06.14_amd64.deb
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub_2026.06.14_amd64.deb
+- name: drakonhub_2026.06.14_win32_x64.zip
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub_2026.06.14_win32_x64.zip

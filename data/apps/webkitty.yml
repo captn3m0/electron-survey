@@ -13,3 +13,4 @@ downloads:
 electron: 17.4.11
 method: src-range-guess
 name: WebKitty
+electron_src: https://github.com/yikuansun/webkitty/archive/refs/tags/v3.2.1.zip

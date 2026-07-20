@@ -6,3 +6,21 @@ aur:
 - animu-bin
 electron: 42.7.0
 method: aur-depends
+latest: v0.7.16
+src: https://github.com/Owca525/animu/archive/refs/tags/v0.7.16.zip
+downloads:
+- name: animu-0.7.16-linux.zip
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16-linux.zip
+- name: animu-0.7.16-setup.exe
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16-setup.exe
+- name: animu-0.7.16-win.zip
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16-win.zip
+- name: animu-0.7.16.AppImage
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.AppImage
+- name: animu-0.7.16.deb
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.deb
+- name: latest-linux.yml
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/Owca525/animu/releases/download/v0.7.16/latest.yml
+we_tried: we0:v0.7.16

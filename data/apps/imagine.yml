@@ -31,3 +31,4 @@ downloads:
 electron: 12.2.3
 method: src-package-lock
 name: Imagine
+electron_src: https://github.com/meowtec/Imagine/archive/refs/tags/v0.7.5.zip

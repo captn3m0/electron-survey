@@ -8,3 +8,14 @@ additionalAUR:
 - newpad-git
 electron: 22.3.27
 method: aur-depends
+latest: 1.3.0
+src: https://github.com/OblivionOcean/Xelsior/archive/refs/tags/1.3.0.zip
+downloads:
+- name: linux.zip
+  url: https://github.com/OblivionOcean/Xelsior/releases/download/1.3.0/linux.zip
+- name: win.exe
+  url: https://github.com/OblivionOcean/Xelsior/releases/download/1.3.0/win.exe
+- name: win.msi
+  url: https://github.com/OblivionOcean/Xelsior/releases/download/1.3.0/win.msi
+- name: win.zip
+  url: https://github.com/OblivionOcean/Xelsior/releases/download/1.3.0/win.zip

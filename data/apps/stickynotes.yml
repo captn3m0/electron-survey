@@ -12,3 +12,4 @@ downloads:
 electron: 4.1.4
 method: src-package-lock
 name: StickyNotes
+electron_src: https://github.com/Playork/StickyNotes/archive/refs/tags/v0.3.0.zip

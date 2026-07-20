@@ -6,3 +6,11 @@ aur:
 - albumate-bin
 electron: 31.7.7
 method: aur-depends
+latest: 0.1.0
+src: https://github.com/wladimiiir/albumate/archive/refs/tags/0.1.0.zip
+downloads:
+- name: albumate-0.1.0-setup.exe
+  url: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0-setup.exe
+- name: albumate-0.1.0.AppImage
+  url: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0.AppImage
+we_tried: we0:0.1.0

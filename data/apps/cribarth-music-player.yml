@@ -6,3 +6,16 @@ aur:
 - cribarth-music-player-bin
 electron: 29.4.6
 method: aur-depends
+latest: v1.2.1
+src: https://github.com/glanyrafon01/cribarth-music-player/archive/refs/tags/v1.2.1.zip
+downloads:
+- name: Cribarth-Music-Player-Setup-1.2.1.exe
+  url: https://github.com/glanyrafon01/cribarth-music-player/releases/download/v1.2.1/Cribarth-Music-Player-Setup-1.2.1.exe
+- name: Cribarth-Music-Player-Setup-1.2.1.exe.blockmap
+  url: https://github.com/glanyrafon01/cribarth-music-player/releases/download/v1.2.1/Cribarth-Music-Player-Setup-1.2.1.exe.blockmap
+- name: cribarth-music-player_1.2.1_amd64.deb
+  url: https://github.com/glanyrafon01/cribarth-music-player/releases/download/v1.2.1/cribarth-music-player_1.2.1_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/glanyrafon01/cribarth-music-player/releases/download/v1.2.1/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/glanyrafon01/cribarth-music-player/releases/download/v1.2.1/latest.yml

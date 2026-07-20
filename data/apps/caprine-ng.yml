@@ -6,3 +6,26 @@ aur:
 - caprine-ng-git
 electron: 22.3.27
 method: aur-depends
+latest: v2.60.3
+src: https://github.com/Alex313031/caprine-ng/archive/refs/tags/v2.60.3.zip
+downloads:
+- name: caprine_2.60.3_amd64.deb
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/caprine_2.60.3_amd64.deb
+- name: caprine_2.60.3_linux_x64.zip
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/caprine_2.60.3_linux_x64.zip
+- name: Caprine_2.60.3_win32.zip
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_2.60.3_win32.zip
+- name: Caprine_2.60.3_win64.zip
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_2.60.3_win64.zip
+- name: caprine_2.60.3_x64.AppImage
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/caprine_2.60.3_x64.AppImage
+- name: caprine_2.60.3_x64.rpm
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/caprine_2.60.3_x64.rpm
+- name: Caprine_portable_2.60.3_win32.exe
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_portable_2.60.3_win32.exe
+- name: Caprine_portable_2.60.3_win64.exe
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_portable_2.60.3_win64.exe
+- name: Caprine_Setup_2.60.3_win32.exe
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_Setup_2.60.3_win32.exe
+- name: Caprine_Setup_2.60.3_win64.exe
+  url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_Setup_2.60.3_win64.exe

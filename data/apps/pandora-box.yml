@@ -9,3 +9,26 @@ additionalAUR:
 - pandora-box-git
 electron: 41.10.2
 method: aur-depends
+latest: v1.0.22
+src: https://github.com/snakem982/Pandora-Box/archive/refs/tags/v1.0.22.zip
+downloads:
+- name: linux-amd64-deb.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/linux-amd64-deb.zip
+- name: linux-amd64-rpm.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/linux-amd64-rpm.zip
+- name: linux-arm64-deb.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/linux-arm64-deb.zip
+- name: linux-arm64-rpm.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/linux-arm64-rpm.zip
+- name: macos-amd64-dmg.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/macos-amd64-dmg.zip
+- name: macos-arm64-dmg.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/macos-arm64-dmg.zip
+- name: windows-amd64-app.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/windows-amd64-app.zip
+- name: windows-amd64-msi.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/windows-amd64-msi.zip
+- name: windows-arm64-app.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/windows-arm64-app.zip
+- name: windows-arm64-msi.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.22/windows-arm64-msi.zip

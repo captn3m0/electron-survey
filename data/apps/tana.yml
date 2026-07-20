@@ -8,3 +8,8 @@ packages:
   arch: universal
 aur:
 - tana
+homebrew: tana
+downloads:
+- url: https://github.com/tanainc/tana-desktop-releases/releases/download/v1.523.0/Tana.Outliner-1.523.0-universal.dmg
+  name: Tana.Outliner-1.523.0-universal.dmg
+  version: 1.523.0

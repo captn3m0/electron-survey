@@ -19,3 +19,4 @@ method: src-package-lock
 aur:
 - luna
 name: luna
+electron_src: https://github.com/rvpanoz/luna/archive/refs/tags/v.3.4.6.zip

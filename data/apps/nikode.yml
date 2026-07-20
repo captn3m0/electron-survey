@@ -4,3 +4,19 @@ website: https://github.com/m1z23r/nikode
 repository: https://github.com/m1z23r/nikode
 aur:
 - nikode-bin
+latest: v4.7.3
+src: https://github.com/m1z23r/nikode/archive/refs/tags/v4.7.3.zip
+downloads:
+- name: Nikode-4.7.3-arm64.dmg
+  url: https://github.com/M1z23R/nikode/releases/download/v4.7.3/Nikode-4.7.3-arm64.dmg
+- name: Nikode-4.7.3.AppImage
+  url: https://github.com/M1z23R/nikode/releases/download/v4.7.3/Nikode-4.7.3.AppImage
+- name: nikode-4.7.3.pacman
+  url: https://github.com/M1z23R/nikode/releases/download/v4.7.3/nikode-4.7.3.pacman
+- name: Nikode.Setup.4.7.3.exe
+  url: https://github.com/M1z23R/nikode/releases/download/v4.7.3/Nikode.Setup.4.7.3.exe
+- name: nikode_4.7.3_amd64.deb
+  url: https://github.com/M1z23R/nikode/releases/download/v4.7.3/nikode_4.7.3_amd64.deb
+electron: 40.4.1
+method: src-package-lock
+electron_src: https://github.com/m1z23r/nikode/archive/refs/tags/v4.7.3.zip

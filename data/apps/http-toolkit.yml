@@ -37,3 +37,4 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+electron_src: https://github.com/httptoolkit/httptoolkit-desktop/archive/refs/tags/v1.25.0.zip

@@ -6,3 +6,10 @@ aur:
 - eve-intel-checker-bin
 electron: 26.6.10
 method: aur-depends
+latest: v1.0.12
+src: https://github.com/SebastienDuruz/Eve-Intel-Checker/archive/refs/tags/v1.0.12.zip
+downloads:
+- name: EveIntelChecker-1.0.12.AppImage
+  url: https://github.com/SebastienDuruz/Eve-Intel-Checker/releases/download/v1.0.12/EveIntelChecker-1.0.12.AppImage
+- name: EveIntelChecker_1.0.12.exe
+  url: https://github.com/SebastienDuruz/Eve-Intel-Checker/releases/download/v1.0.12/EveIntelChecker_1.0.12.exe

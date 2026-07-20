@@ -6,3 +6,22 @@ aur:
 - coinstac-desktop-app-bin
 electron: 18.3.15
 method: aur-depends
+latest: v6.9.8
+src: https://github.com/trendscenter/coinstac/archive/refs/tags/v6.9.8.zip
+downloads:
+- name: COINSTAC-6.9.8-linux.AppImage
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/COINSTAC-6.9.8-linux.AppImage
+- name: COINSTAC-6.9.8-universal.dmg
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/COINSTAC-6.9.8-universal.dmg
+- name: COINSTAC-6.9.8-universal.dmg.blockmap
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/COINSTAC-6.9.8-universal.dmg.blockmap
+- name: COINSTAC-Setup-6.9.8.exe
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/COINSTAC-Setup-6.9.8.exe
+- name: COINSTAC-Setup-6.9.8.exe.blockmap
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/COINSTAC-Setup-6.9.8.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/latest.yml

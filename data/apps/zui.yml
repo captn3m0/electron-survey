@@ -10,3 +10,8 @@ packages:
   arch: arm64
 electron: 30.5.1
 method: aur-depends
+homebrew: zui
+downloads:
+- url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-arm64.dmg
+  name: Zui-1.18.0-arm64.dmg
+  version: 1.18.0

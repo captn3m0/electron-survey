@@ -6,3 +6,5 @@ aur:
 - circle-chain-desktop-git
 electron: 20.3.12
 method: aur-depends
+latest: v1.1.3
+src: https://github.com/lidh04/circle-chain-desktop/archive/refs/tags/v1.1.3.zip

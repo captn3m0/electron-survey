@@ -10,3 +10,8 @@ packages:
   arch: arm64
 electron: 41.10.2
 method: aur-depends
+homebrew: paseo
+downloads:
+- url: https://github.com/getpaseo/paseo/releases/download/v0.1.110/Paseo-0.1.110-arm64.dmg
+  name: Paseo-0.1.110-arm64.dmg
+  version: 0.1.110

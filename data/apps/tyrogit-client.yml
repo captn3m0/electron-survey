@@ -6,3 +6,8 @@ aur:
 - tyrogit-client-git
 electron: 21.4.4
 method: aur-depends
+latest: Release
+src: https://github.com/TheMaxium69/TyroGit/archive/refs/tags/Release.zip
+downloads:
+- name: TyroGit_Setup_0.1.0.exe
+  url: https://github.com/TheMaxium69/TyroGit/releases/download/Release/TyroGit_Setup_0.1.0.exe

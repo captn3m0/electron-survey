@@ -17,3 +17,12 @@ packages:
   arch: x64
 electron: 16.2.8
 method: which-electron-rg
+latest: v3.3.3
+src: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/archive/refs/tags/v3.3.3.zip
+downloads:
+- name: BilibiliVideoDownload-3.3.3.AppImage
+  url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload-3.3.3.AppImage
+- name: BilibiliVideoDownload-3.3.3.dmg
+  url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload-3.3.3.dmg
+- name: BilibiliVideoDownload.Setup.3.3.3.exe
+  url: https://github.com/BilibiliVideoDownload/BilibiliVideoDownload/releases/download/v3.3.3/BilibiliVideoDownload.Setup.3.3.3.exe

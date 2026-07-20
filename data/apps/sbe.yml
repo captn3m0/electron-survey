@@ -6,3 +6,12 @@ aur:
 - sbe-bin
 electron: 39.8.10
 method: aur-depends
+latest: v3.8.0
+src: https://github.com/kondoumh/sbe/archive/refs/tags/v3.8.0.zip
+downloads:
+- name: sbe-3.8.0-universal.dmg
+  url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0-universal.dmg
+- name: sbe-3.8.0.AppImage
+  url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0.AppImage
+- name: sbe-Setup-3.8.0.exe
+  url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-Setup-3.8.0.exe

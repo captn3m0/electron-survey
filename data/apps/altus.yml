@@ -23,3 +23,15 @@ aur:
 - altus
 electron: 35.7.5
 method: aur-depends
+latest: 5.8.1
+src: https://github.com/amanharwara/altus/archive/refs/tags/5.8.1.zip
+downloads:
+- name: Altus-5.8.1-arm64.dmg
+  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1-arm64.dmg
+- name: Altus-5.8.1.AppImage
+  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1.AppImage
+- name: Altus-5.8.1.dmg
+  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1.dmg
+- name: Altus-Setup-5.8.1.exe
+  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-Setup-5.8.1.exe
+we_tried: we0:5.8.1

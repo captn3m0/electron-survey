@@ -34,3 +34,4 @@ electron: 21.2.0
 method: src-yarn-lock
 homebrew: swifty
 name: Swifty
+electron_src: https://github.com/alchaplinsky/swifty/archive/refs/tags/v0.6.13.zip

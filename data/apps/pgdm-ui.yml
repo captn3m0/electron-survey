@@ -6,3 +6,14 @@ aur:
 - pgdm-ui-bin
 electron: 31.7.7
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/ucd-library/pgdm-ui/archive/refs/tags/1.0.0.zip
+downloads:
+- name: PostGres.Data.Management-1.0.0-arm64.dmg
+  url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management-1.0.0-arm64.dmg
+- name: PostGres.Data.Management-1.0.0.dmg
+  url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management-1.0.0.dmg
+- name: PostGres.Data.Management-1.0.0.snap
+  url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management-1.0.0.snap
+- name: PostGres.Data.Management.Setup.1.0.0.exe
+  url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management.Setup.1.0.0.exe

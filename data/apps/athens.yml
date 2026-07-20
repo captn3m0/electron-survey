@@ -4,3 +4,39 @@ website: https://github.com/athensresearch/athens
 repository: https://github.com/athensresearch/athens
 aur:
 - athens-git
+latest: v2.0.0
+src: https://github.com/athensresearch/athens/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: Athens-2.0.0-arm64-mac.zip
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0-arm64-mac.zip
+- name: Athens-2.0.0-arm64-mac.zip.blockmap
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0-arm64-mac.zip.blockmap
+- name: Athens-2.0.0-arm64.dmg
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0-arm64.dmg
+- name: Athens-2.0.0-arm64.dmg.blockmap
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0-arm64.dmg.blockmap
+- name: Athens-2.0.0-mac.zip
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0-mac.zip
+- name: Athens-2.0.0-mac.zip.blockmap
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0-mac.zip.blockmap
+- name: Athens-2.0.0.AppImage
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0.AppImage
+- name: Athens-2.0.0.dmg
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0.dmg
+- name: Athens-2.0.0.dmg.blockmap
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-2.0.0.dmg.blockmap
+- name: Athens-Setup-2.0.0.exe
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-Setup-2.0.0.exe
+- name: Athens-Setup-2.0.0.exe.blockmap
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/Athens-Setup-2.0.0.exe.blockmap
+- name: docker-compose.yml
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/docker-compose.yml
+- name: latest-linux.yml
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/athensresearch/athens/releases/download/v2.0.0/latest.yml
+electron: 12.2.3
+method: src-yarn-lock
+electron_src: https://github.com/athensresearch/athens/archive/refs/tags/v2.0.0.zip

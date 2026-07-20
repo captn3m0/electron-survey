@@ -6,3 +6,17 @@ aur:
 - bilibili-manga-downloader-bin
 electron: 21.4.4
 method: aur-depends
+latest: v3.2.2
+src: https://github.com/MOMOYATW/bilibili_manga_downloader/archive/refs/tags/v3.2.2.zip
+downloads:
+- name: Bilibili-Manga-Downloader-3.2.2_win32_x64.7z
+  url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/Bilibili-Manga-Downloader-3.2.2_win32_x64.7z
+- name: bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz
+  url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz
+- name: Bilibili.Manga.Downloader.Setup.3.2.2.exe
+  url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/Bilibili.Manga.Downloader.Setup.3.2.2.exe
+- name: Bilibili.Manga.Downloader.Setup.3.2.2.exe.blockmap
+  url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/Bilibili.Manga.Downloader.Setup.3.2.2.exe.blockmap
+- name: latest.yml
+  url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/latest.yml
+we_tried: we0:v3.2.2

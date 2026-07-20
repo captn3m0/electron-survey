@@ -23,3 +23,4 @@ method: src-package-lock
 aur:
 - peacock
 name: Peacock
+electron_src: https://github.com/peacockweb/peacock/archive/refs/tags/v2.3.5.zip

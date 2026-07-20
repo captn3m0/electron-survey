@@ -8,3 +8,10 @@ additionalAUR:
 - comty-desktop-bin
 electron: 43.1.1
 method: aur-depends
+latest: rel-260720_1
+src: https://github.com/ragestudio/comty/archive/refs/tags/rel-260720_1.zip
+downloads:
+- name: dist.zip
+  url: https://github.com/ragestudio/comty/releases/download/rel-260720_1/dist.zip
+- name: versions.json
+  url: https://github.com/ragestudio/comty/releases/download/rel-260720_1/versions.json

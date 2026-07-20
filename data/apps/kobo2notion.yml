@@ -8,3 +8,22 @@ additionalAUR:
 - kobo2notion-git
 electron: 42.7.0
 method: aur-depends
+latest: v1.2.0
+src: https://github.com/ghnmqdtg/Kobo2Notion/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: Kobo2Notion-1.2.0-arm64-mac.zip
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/Kobo2Notion-1.2.0-arm64-mac.zip
+- name: kobo2notion-1.2.0-setup.exe
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/kobo2notion-1.2.0-setup.exe
+- name: kobo2notion-1.2.0.AppImage
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/kobo2notion-1.2.0.AppImage
+- name: kobo2notion-1.2.0.dmg
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/kobo2notion-1.2.0.dmg
+- name: kobo2notion_1.2.0_amd64.deb
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/kobo2notion_1.2.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/latest.yml

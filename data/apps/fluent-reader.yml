@@ -1,22 +1,22 @@
 id: fluent-reader
 repository: https://github.com/yang991178/fluent-reader
 website: https://hyliu.me/fluent-reader/
-latest: v1.1.4
-src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.1.4.zip
+latest: v1.2.2
+src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.2.zip
 downloads:
-- name: Fluent.Reader.1.1.4.AppImage
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.1.1.4.AppImage
-- name: Fluent.Reader.1.1.4.dmg
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.1.1.4.dmg
-- name: Fluent.Reader.Setup.1.1.4.x64.exe
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Setup.1.1.4.x64.exe
-- name: Fluent.Reader.Setup.1.1.4.x86.exe
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Setup.1.1.4.x86.exe
-- name: Fluent.Reader.Unpacked.1.1.4.x64.zip
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Unpacked.1.1.4.x64.zip
-- name: Fluent.Reader.Unpacked.1.1.4.x86.zip
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Unpacked.1.1.4.x86.zip
-electron: 27.0.0
+- name: Fluent.Reader.1.2.2.AppImage
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.AppImage
+- name: Fluent.Reader.1.2.2.dmg
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.dmg
+- name: Fluent.Reader.Setup.1.2.2.x64.exe
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Setup.1.2.2.x64.exe
+- name: Fluent.Reader.Setup.1.2.2.x86.exe
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Setup.1.2.2.x86.exe
+- name: Fluent.Reader.Unpacked.1.2.2.x64.zip
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Unpacked.1.2.2.x64.zip
+- name: Fluent.Reader.Unpacked.1.2.2.x86.zip
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Unpacked.1.2.2.x86.zip
+electron: 41.1.0
 method: src-package-lock
 aur:
 - fluent-reader
@@ -30,3 +30,4 @@ packages:
 - url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.dmg
   format: dmg
   os: macos
+electron_src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.2.zip

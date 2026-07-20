@@ -29,3 +29,55 @@ packages:
   arch: arm64
 aur:
 - teams-for-linux
+latest: v2.11.1
+src: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.11.1.zip
+downloads:
+- name: latest-linux-arm.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/latest-linux-arm.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/latest.yml
+- name: teams-for-linux-2.11.1-arm64.AppImage
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1-arm64.AppImage
+- name: teams-for-linux-2.11.1-arm64.tar.gz
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1-arm64.tar.gz
+- name: teams-for-linux-2.11.1-armv7l.AppImage
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1-armv7l.AppImage
+- name: teams-for-linux-2.11.1-armv7l.tar.gz
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1-armv7l.tar.gz
+- name: teams-for-linux-2.11.1-mac.zip
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1-mac.zip
+- name: teams-for-linux-2.11.1-mac.zip.blockmap
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1-mac.zip.blockmap
+- name: teams-for-linux-2.11.1.aarch64.rpm
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.aarch64.rpm
+- name: teams-for-linux-2.11.1.AppImage
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.AppImage
+- name: teams-for-linux-2.11.1.armv7l.rpm
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.armv7l.rpm
+- name: teams-for-linux-2.11.1.dmg
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.dmg
+- name: teams-for-linux-2.11.1.dmg.blockmap
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.dmg.blockmap
+- name: teams-for-linux-2.11.1.tar.gz
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.tar.gz
+- name: teams-for-linux-2.11.1.x86_64.rpm
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-2.11.1.x86_64.rpm
+- name: teams-for-linux-Setup-2.11.1.exe
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-Setup-2.11.1.exe
+- name: teams-for-linux-Setup-2.11.1.exe.blockmap
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux-Setup-2.11.1.exe.blockmap
+- name: teams-for-linux_2.11.1_amd64.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux_2.11.1_amd64.deb
+- name: teams-for-linux_2.11.1_arm64.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux_2.11.1_arm64.deb
+- name: teams-for-linux_2.11.1_armv7l.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.11.1/teams-for-linux_2.11.1_armv7l.deb
+electron: 41.7.1
+method: src-package-lock
+electron_src: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.11.1.zip

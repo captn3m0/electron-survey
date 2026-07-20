@@ -6,3 +6,30 @@ aur:
 - snapmail-bin
 electron: 19.1.9
 method: aur-depends
+latest: v0.3.1-rc.6
+src: https://github.com/glassbeadsoftware/snapmail/archive/refs/tags/v0.3.1-rc.6.zip
+downloads:
+- name: Snapmail-0.3.1.AppImage
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/Snapmail-0.3.1.AppImage
+- name: Snapmail-0.3.1.dmg
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/Snapmail-0.3.1.dmg
+- name: snapmail-webapp-ui.zip
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail-webapp-ui.zip
+- name: snapmail-we_applet-ui.zip
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail-we_applet-ui.zip
+- name: snapmail-we_applet.webhapp
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail-we_applet.webhapp
+- name: snapmail.dna
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail.dna
+- name: snapmail.happ
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail.happ
+- name: Snapmail.Setup.0.3.1.exe
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/Snapmail.Setup.0.3.1.exe
+- name: snapmail.wasm
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail.wasm
+- name: snapmail.webhapp
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail.webhapp
+- name: snapmail_model.wasm
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail_model.wasm
+- name: snapmail_zome_hash.txt
+  url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/snapmail_zome_hash.txt

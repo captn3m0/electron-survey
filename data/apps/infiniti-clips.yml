@@ -27,3 +27,4 @@ downloads:
 electron: 21.2.0
 method: src-package-lock
 name: Infiniti Clips
+electron_src: https://github.com/azure06/infiniti-clips/archive/refs/tags/v0.2.6.zip

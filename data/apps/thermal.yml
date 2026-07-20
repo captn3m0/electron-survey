@@ -19,3 +19,23 @@ packages:
   format: deb
   os: linux
   arch: x64
+latest: v0.0.4
+src: https://github.com/gitthermal/thermal/archive/refs/tags/v0.0.4.zip
+downloads:
+- name: thermal-linux-amd64-0.0.4.deb
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-amd64-0.0.4.deb
+- name: thermal-linux-amd64-0.0.4.snap
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-amd64-0.0.4.snap
+- name: thermal-linux-x64-0.0.4.zip
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-x64-0.0.4.zip
+- name: thermal-linux-x86_64-0.0.4.AppImage
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-linux-x86_64-0.0.4.AppImage
+- name: thermal-mac-0.0.4.dmg
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-mac-0.0.4.dmg
+- name: thermal-mac-0.0.4.zip
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-mac-0.0.4.zip
+- name: thermal-win-0.0.4.exe
+  url: https://github.com/gitthermal/thermal/releases/download/v0.0.4/thermal-win-0.0.4.exe
+electron: 5.0.3
+method: src-yarn-lock
+electron_src: https://github.com/gitthermal/thermal/archive/refs/tags/v0.0.4.zip

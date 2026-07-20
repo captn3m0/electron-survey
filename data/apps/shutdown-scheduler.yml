@@ -6,3 +6,14 @@ aur:
 - shutdown-scheduler-git
 electron: 33.4.11
 method: aur-depends
+latest: v0.0.7
+src: https://github.com/hichemfantar/ShutdownScheduler/archive/refs/tags/v0.0.7.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/RELEASES
+- name: Shutdown.Scheduler-0.0.7-arm64.dmg
+  url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/Shutdown.Scheduler-0.0.7-arm64.dmg
+- name: Shutdown.Scheduler-0.0.7.Setup.exe
+  url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/Shutdown.Scheduler-0.0.7.Setup.exe
+- name: shutdown_scheduler-0.0.7-full.nupkg
+  url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/shutdown_scheduler-0.0.7-full.nupkg

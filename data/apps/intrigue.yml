@@ -6,3 +6,16 @@ aur:
 - intrigue-bin
 electron: 41.10.2
 method: aur-depends
+latest: v1.5.0
+src: https://github.com/shaunabanana/intrigue/archive/refs/tags/v1.5.0.zip
+downloads:
+- name: Intrigue-1.5.0-arm64-mac.zip
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0-arm64-mac.zip
+- name: Intrigue-1.5.0-arm64.dmg
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0-arm64.dmg
+- name: Intrigue-1.5.0.AppImage
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0.AppImage
+- name: Intrigue.Setup.1.5.0.exe
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue.Setup.1.5.0.exe
+- name: intrigue_1.5.0_amd64.snap
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/intrigue_1.5.0_amd64.snap

@@ -6,3 +6,8 @@ aur:
 - node-toolkit-git
 electron: 31.7.7
 method: aur-depends
+latest: v2.2.2
+src: https://github.com/FelixZC/node-toolkit/archive/refs/tags/v2.2.2.zip
+downloads:
+- name: node-toolkit-2.2.2-win-x64.exe
+  url: https://github.com/FelixZC/node-toolkit/releases/download/v2.2.2/node-toolkit-2.2.2-win-x64.exe

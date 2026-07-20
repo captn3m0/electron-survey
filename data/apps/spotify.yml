@@ -5,3 +5,8 @@ aur:
 - spotify-electron-bin
 electron: 31.7.7
 method: aur-depends
+homebrew: spotify
+downloads:
+- url: https://download.scdn.co/SpotifyARM64.dmg
+  name: SpotifyARM64.dmg
+  version: 1.2.94.583

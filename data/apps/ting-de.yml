@@ -9,3 +9,8 @@ additionalAUR:
 - ting-fr
 electron: 11.5.0
 method: aur-depends
+homebrew: dehelper
+downloads:
+- url: https://static.eudic.net/pkg/dhmac.dmg
+  name: dhmac.dmg
+  version: latest

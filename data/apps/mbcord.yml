@@ -17,8 +17,17 @@ packages:
   arch: x64
 homebrew: mbcord
 downloads:
-- url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-darwin-x64.zip
-  name: MBCord-darwin-x64.zip
-  version: 2.3.13
+- name: MBCord-darwin-x64.zip
+  url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-darwin-x64.zip
+- name: MBCord-linux-ia32.zip
+  url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-linux-ia32.zip
+- name: MBCord-linux-x64.zip
+  url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-linux-x64.zip
+- name: MBCord-win32-ia32.zip
+  url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-win32-ia32.zip
+- name: MBCord-win32-x64.zip
+  url: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-win32-x64.zip
 electron: 13.0.1
 method: which-electron-rg
+latest: 2.3.13
+src: https://github.com/oonqt/MBCord/archive/refs/tags/2.3.13.zip

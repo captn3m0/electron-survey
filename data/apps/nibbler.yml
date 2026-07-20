@@ -4,3 +4,10 @@ website: https://github.com/rooklift/nibbler
 repository: https://github.com/rooklift/nibbler
 aur:
 - nibbler-git
+latest: v2.5.8
+src: https://github.com/rooklift/nibbler/archive/refs/tags/v2.5.8.zip
+downloads:
+- name: nibbler-2.5.8-linux.zip
+  url: https://github.com/rooklift/nibbler/releases/download/v2.5.8/nibbler-2.5.8-linux.zip
+- name: nibbler-2.5.8-windows.zip
+  url: https://github.com/rooklift/nibbler/releases/download/v2.5.8/nibbler-2.5.8-windows.zip

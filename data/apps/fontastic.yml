@@ -6,3 +6,8 @@ aur:
 - fontastic-bin
 electron: 40.10.6
 method: aur-depends
+latest: fontastic-v1.4.0
+src: https://github.com/tomshaw/fontastic/archive/refs/tags/fontastic-v1.4.0.zip
+downloads:
+- name: Fontastic-1.4.0-arm64.dmg
+  url: https://github.com/tomshaw/fontastic/releases/download/fontastic-v1.4.0/Fontastic-1.4.0-arm64.dmg

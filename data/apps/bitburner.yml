@@ -4,3 +4,19 @@ website: https://github.com/bitburner-official/bitburner-src
 repository: https://github.com/bitburner-official/bitburner-src
 aur:
 - bitburner
+latest: v3.0.1
+src: https://github.com/bitburner-official/bitburner-src/archive/refs/tags/v3.0.1.zip
+downloads:
+- name: bitburner-darwin-universal.zip
+  url: https://github.com/bitburner-official/bitburner-src/releases/download/v3.0.1/bitburner-darwin-universal.zip
+- name: bitburner-linux-arm64.zip
+  url: https://github.com/bitburner-official/bitburner-src/releases/download/v3.0.1/bitburner-linux-arm64.zip
+- name: bitburner-linux-x64.zip
+  url: https://github.com/bitburner-official/bitburner-src/releases/download/v3.0.1/bitburner-linux-x64.zip
+- name: bitburner-win32-arm64.zip
+  url: https://github.com/bitburner-official/bitburner-src/releases/download/v3.0.1/bitburner-win32-arm64.zip
+- name: bitburner-win32-x64.zip
+  url: https://github.com/bitburner-official/bitburner-src/releases/download/v3.0.1/bitburner-win32-x64.zip
+electron: 41.4.0
+method: src-package-lock
+electron_src: https://github.com/bitburner-official/bitburner-src/archive/refs/tags/v3.0.1.zip

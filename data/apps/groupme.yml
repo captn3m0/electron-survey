@@ -6,3 +6,11 @@ aur:
 - groupme
 additionalAUR:
 - groupme-git
+latest: v1.1.2
+src: https://github.com/dcrousso/GroupMe/archive/refs/tags/v1.1.2.zip
+downloads:
+- name: GroupMe-macOS-v1.1.2.zip
+  url: https://github.com/dcrousso/GroupMe/releases/download/v1.1.2/GroupMe-macOS-v1.1.2.zip
+electron: 23.2.0
+method: src-package-json
+electron_src: https://github.com/dcrousso/GroupMe/archive/refs/tags/v1.1.2.zip

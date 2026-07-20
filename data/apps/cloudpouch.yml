@@ -17,8 +17,27 @@ packages:
   arch: x64
 homebrew: cloudpouch
 downloads:
-- url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0-universal-mac.zip
-  name: CloudPouch-1.49.0-universal-mac.zip
-  version: 1.49.0
+- name: CloudPouch-1.49.0-universal-mac.zip
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0-universal-mac.zip
+- name: CloudPouch-1.49.0-universal-mac.zip.blockmap
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0-universal-mac.zip.blockmap
+- name: CloudPouch-1.49.0-universal.dmg
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0-universal.dmg
+- name: CloudPouch-1.49.0-universal.dmg.blockmap
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0-universal.dmg.blockmap
+- name: CloudPouch-1.49.0.AppImage
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-1.49.0.AppImage
+- name: CloudPouch-Setup-1.49.0.exe
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-Setup-1.49.0.exe
+- name: CloudPouch-Setup-1.49.0.exe.blockmap
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/CloudPouch-Setup-1.49.0.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/CloudPouch/CloudPouch.dev/releases/download/v1.49.0/latest.yml
 electron: 13.1.8
 method: which-electron-rg
+latest: v1.49.0
+src: https://github.com/CloudPouch/CloudPouch.dev/archive/refs/tags/v1.49.0.zip

@@ -20,3 +20,26 @@ aur:
 - selenium-manager
 electron: 28.3.3
 method: aur-depends
+latest: v4.0.1-beta.14
+src: https://github.com/SeleniumHQ/selenium-ide/archive/refs/tags/v4.0.1-beta.14.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/latest.yml
+- name: Selenium-IDE-4.0.1-beta.14-universal-mac.zip
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14-universal-mac.zip
+- name: Selenium-IDE-4.0.1-beta.14-universal.dmg
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14-universal.dmg
+- name: Selenium-IDE-4.0.1-beta.14-universal.dmg.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14-universal.dmg.blockmap
+- name: Selenium-IDE-4.0.1-beta.14.AppImage
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-4.0.1-beta.14.AppImage
+- name: Selenium-IDE-Setup-4.0.1-beta.14.exe
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-Setup-4.0.1-beta.14.exe
+- name: Selenium-IDE-Setup-4.0.1-beta.14.exe.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-Setup-4.0.1-beta.14.exe.blockmap
+- name: Selenium.IDE-4.0.1-beta.14-universal-mac.zip.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium.IDE-4.0.1-beta.14-universal-mac.zip.blockmap

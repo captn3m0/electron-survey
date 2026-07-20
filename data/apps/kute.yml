@@ -4,3 +4,8 @@ website: https://github.com/H33aven/kute
 repository: https://github.com/H33aven/kute
 aur:
 - kute-bin
+latest: v1.9.1
+src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
+electron: 39.8.10
+method: src-range-guess
+electron_src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip

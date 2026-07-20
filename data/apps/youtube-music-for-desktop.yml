@@ -43,3 +43,4 @@ method: src-pnpm-lock
 aur:
 - youtube-music-for-desktop-bin
 name: Youtube Music for Desktop (Unofficial)
+electron_src: https://github.com/Venipa/ytmdesktop2/archive/refs/tags/v0.18.9.zip

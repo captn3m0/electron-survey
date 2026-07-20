@@ -6,3 +6,20 @@ aur:
 - compasscad-bin
 electron: 35.7.5
 method: aur-depends
+latest: 2.1.0
+src: https://github.com/zeankundev/CompassCAD/archive/refs/tags/2.1.0.zip
+downloads:
+- name: CompassCAD-2.1.0.AppImage
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/CompassCAD-2.1.0.AppImage
+- name: compasscad-2.1.0.x86_64.rpm
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/compasscad-2.1.0.x86_64.rpm
+- name: CompassCAD-Setup-2.1.0.exe
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/CompassCAD-Setup-2.1.0.exe
+- name: CompassCAD-Setup-2.1.0.exe.blockmap
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/CompassCAD-Setup-2.1.0.exe.blockmap
+- name: compasscad_2.1.0_amd64.deb
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/compasscad_2.1.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/latest.yml

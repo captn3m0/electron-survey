@@ -8,3 +8,25 @@ additionalAUR:
 - betterx-desktop-git
 electron: 34.5.8
 method: aur-depends
+latest: 2.1.2-beta
+src: https://github.com/Feur-Inc/BetterX-Desktop/archive/refs/tags/2.1.2-beta.zip
+downloads:
+- name: betterx-desktop-2.1.2-beta.x86_64.rpm
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/betterx-desktop-2.1.2-beta.x86_64.rpm
+- name: betterx-desktop_2.1.2-beta_amd64.deb
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/betterx-desktop_2.1.2-beta_amd64.deb
+- name: betterx-desktop_2.1.2-beta_amd64.snap
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/betterx-desktop_2.1.2-beta_amd64.snap
+- name: BetterX.Desktop-2.1.2-beta.AppImage
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-2.1.2-beta.AppImage
+- name: BetterX.Desktop-arm64.dmg
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-arm64.dmg
+- name: BetterX.Desktop-Portable-x64.exe
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-Portable-x64.exe
+- name: BetterX.Desktop-Setup-arm64.exe
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-Setup-arm64.exe
+- name: BetterX.Desktop-Setup-x64.exe
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-Setup-x64.exe
+- name: BetterX.Desktop-x64.dmg
+  url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-x64.dmg
+we_tried: we0:2.1.2-beta

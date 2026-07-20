@@ -11,3 +11,4 @@ downloads:
 electron: 7.1.11
 method: src-yarn-lock
 name: MoviePrint
+electron_src: https://github.com/fakob/MoviePrint_v004/archive/refs/tags/0.2.23.zip

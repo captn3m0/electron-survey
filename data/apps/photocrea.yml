@@ -4,3 +4,11 @@ website: https://github.com/vikdevelop/photopea_app
 repository: https://github.com/vikdevelop/photopea_app
 aur:
 - photocrea
+latest: 2.4.1
+src: https://github.com/vikdevelop/photopea_app/archive/refs/tags/2.4.1.zip
+downloads:
+- name: photopea-build_electron_v241.tar.xz
+  url: https://github.com/vikdevelop/photopea_app/releases/download/2.4.1/photopea-build_electron_v241.tar.xz
+electron: 39.8.10
+method: src-range-guess
+electron_src: https://github.com/vikdevelop/photopea_app/archive/refs/tags/2.4.1.zip

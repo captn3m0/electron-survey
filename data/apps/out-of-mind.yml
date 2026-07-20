@@ -6,3 +6,8 @@ aur:
 - out-of-mind-git
 electron: 30.5.1
 method: aur-depends
+latest: v2.0.0
+src: https://github.com/0916dhkim/out-of-mind/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: Out.of.Mind-Mac-2.0.0-Installer.dmg
+  url: https://github.com/0916dhkim/out-of-mind/releases/download/v2.0.0/Out.of.Mind-Mac-2.0.0-Installer.dmg

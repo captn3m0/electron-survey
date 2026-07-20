@@ -8,3 +8,45 @@ packages:
 - url: https://github.com/drata/agent-releases/releases/download/3.9.0/Drata-Agent-mac.dmg
   format: dmg
   os: macos
+latest: 3.9.0
+src: https://github.com/drata/drata-agent/archive/refs/tags/3.9.0.zip
+downloads:
+- name: Drata-Agent-linux.AppImage
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-linux.AppImage
+- name: Drata-Agent-linux.deb
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-linux.deb
+- name: Drata-Agent-mac.dmg
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-mac.dmg
+- name: Drata-Agent-mac.dmg.blockmap
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-mac.dmg.blockmap
+- name: Drata-Agent-mac.pkg
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-mac.pkg
+- name: Drata-Agent-mac.zip
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-mac.zip
+- name: Drata-Agent-mac.zip.blockmap
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-mac.zip.blockmap
+- name: Drata-Agent-win.exe
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-win.exe
+- name: Drata-Agent-win.exe.blockmap
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/Drata-Agent-win.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/latest.yml
+- name: linux-x64-osqueryi
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/linux-x64-osqueryi
+- name: macos-arm64-osqueryi
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/macos-arm64-osqueryi
+- name: macos-x64-osqueryi
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/macos-x64-osqueryi
+- name: win-x64-osqueryi.exe
+  url: https://github.com/drata/drata-agent/releases/download/3.9.0/win-x64-osqueryi.exe
+- url: https://github.com/drata/agent-releases/releases/download/3.9.0/Drata-Agent-mac.dmg
+  name: Drata-Agent-mac.dmg
+  version: 3.9.0
+homebrew: drata-agent
+electron: 36.2.0
+method: src-yarn-lock
+electron_src: https://github.com/drata/drata-agent/archive/refs/tags/3.9.0.zip

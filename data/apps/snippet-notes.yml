@@ -6,3 +6,12 @@ aur:
 - snippet-notes
 electron: 22.3.27
 method: aur-depends
+latest: 0.6.0
+src: https://github.com/xunxun10/snippet-notes/archive/refs/tags/0.6.0.zip
+downloads:
+- name: snippet-note-linux-arm64-0.6.0.z01
+  url: https://github.com/xunxun10/snippet-notes/releases/download/0.6.0/snippet-note-linux-arm64-0.6.0.z01
+- name: snippet-note-linux-arm64-0.6.0.z02
+  url: https://github.com/xunxun10/snippet-notes/releases/download/0.6.0/snippet-note-linux-arm64-0.6.0.z02
+- name: snippet-note-linux-arm64-0.6.0.zip
+  url: https://github.com/xunxun10/snippet-notes/releases/download/0.6.0/snippet-note-linux-arm64-0.6.0.zip

@@ -43,3 +43,4 @@ aur:
 - monokle-bin
 homebrew: monokle
 name: Monokle
+electron_src: https://github.com/kubeshop/monokle/archive/refs/tags/v2.4.8.zip

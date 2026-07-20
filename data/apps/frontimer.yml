@@ -8,3 +8,16 @@ additionalAUR:
 - frontimer-bin
 electron: 25.9.8
 method: aur-depends
+latest: v0.1.17
+src: https://github.com/seita1996/frontimer/archive/refs/tags/v0.1.17.zip
+downloads:
+- name: frontimer-0.1.17.AppImage
+  url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/frontimer-0.1.17.AppImage
+- name: frontimer-Setup-0.1.17.exe
+  url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/frontimer-Setup-0.1.17.exe
+- name: frontimer-Setup-0.1.17.exe.blockmap
+  url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/frontimer-Setup-0.1.17.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/latest.yml

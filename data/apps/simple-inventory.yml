@@ -6,3 +6,16 @@ aur:
 - simple-inventory-bin
 electron: 26.6.10
 method: aur-depends
+latest: 1.1.1
+src: https://github.com/osoyinas/simple-inventory/archive/refs/tags/1.1.1.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/builder-debug.yml
+- name: builder-effective-config.yaml
+  url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/builder-effective-config.yaml
+- name: Inventario-Windows-1.1.1-Setup.exe
+  url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/Inventario-Windows-1.1.1-Setup.exe
+- name: Inventario-Windows-1.1.1-Setup.exe.blockmap
+  url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/Inventario-Windows-1.1.1-Setup.exe.blockmap
+- name: latest.yml
+  url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/latest.yml

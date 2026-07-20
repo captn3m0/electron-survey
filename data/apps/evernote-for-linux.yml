@@ -6,3 +6,12 @@ aur:
 - evernote-for-linux-bin
 electron: 19.1.9
 method: aur-depends
+latest: v10.60.4-linux-ddl-ga-stable
+src: https://github.com/search5/Evernote-for-Linux/archive/refs/tags/v10.60.4-linux-ddl-ga-stable.zip
+downloads:
+- name: evernote-client-10.60.4-stable-fedora35.amd64.rpm
+  url: https://github.com/search5/Evernote-for-Linux/releases/download/v10.60.4-linux-ddl-ga-stable/evernote-client-10.60.4-stable-fedora35.amd64.rpm
+- name: evernote-client-10.60.4-stable-rocky8.amd64.rpm
+  url: https://github.com/search5/Evernote-for-Linux/releases/download/v10.60.4-linux-ddl-ga-stable/evernote-client-10.60.4-stable-rocky8.amd64.rpm
+- name: evernote-client_10.60.4-stable_amd64.deb
+  url: https://github.com/search5/Evernote-for-Linux/releases/download/v10.60.4-linux-ddl-ga-stable/evernote-client_10.60.4-stable_amd64.deb

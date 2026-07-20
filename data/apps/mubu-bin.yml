@@ -11,3 +11,13 @@ packages:
 repository: https://github.com/kudoxu/mubu
 additionalAUR:
 - mubu-bin
+latest: v0.0.3
+src: https://github.com/kudoxu/mubu/archive/refs/tags/v0.0.3.zip
+homebrew: mubu
+downloads:
+- url: https://assets.mubu.com/client/5.7.1/Mubu-5.7.1-arm64.dmg
+  name: Mubu-5.7.1-arm64.dmg
+  version: 5.7.1
+electron: 13.1.7
+method: src-package-lock
+electron_src: https://github.com/kudoxu/mubu/archive/refs/tags/v0.0.3.zip

@@ -6,3 +6,26 @@ aur:
 - webeep-sync-bin
 electron: 22.3.27
 method: aur-depends
+latest: v1.0.3
+src: https://github.com/toto04/webeep-sync/archive/refs/tags/v1.0.3.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/RELEASES
+- name: webeep-sync-1.0.3-full.nupkg
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/webeep-sync-1.0.3-full.nupkg
+- name: webeep-sync-debian.deb
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/webeep-sync-debian.deb
+- name: webeep-sync-redhat.rpm
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/webeep-sync-redhat.rpm
+- name: WeBeep.Sync-darwin-arm64-1.0.3.zip
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/WeBeep.Sync-darwin-arm64-1.0.3.zip
+- name: WeBeep.Sync-darwin-x64-1.0.3.zip
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/WeBeep.Sync-darwin-x64-1.0.3.zip
+- name: WeBeep.Sync.macOS-arm64.dmg
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/WeBeep.Sync.macOS-arm64.dmg
+- name: WeBeep.Sync.macOS-x64.dmg
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/WeBeep.Sync.macOS-x64.dmg
+- name: WeBeep.Sync.Windows.Setup.exe
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/WeBeep.Sync.Windows.Setup.exe
+- name: WeBeep.Sync.Windows.Setup.zip
+  url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/WeBeep.Sync.Windows.Setup.zip

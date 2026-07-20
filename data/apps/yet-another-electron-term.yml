@@ -6,3 +6,5 @@ aur:
 - yet-another-electron-term
 electron: 39.8.10
 method: aur-depends
+latest: v7.1.1
+src: https://github.com/invince/YAET/archive/refs/tags/v7.1.1.zip

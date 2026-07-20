@@ -20,3 +20,4 @@ method: src-pnpm-lock
 name: Unofficial Google Chat App
 additionalAUR:
 - google-chat-linux
+electron_src: https://github.com/ankurk91/google-chat-electron/archive/refs/tags/2.20.0.zip

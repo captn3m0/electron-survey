@@ -6,3 +6,22 @@ aur:
 - dilidili-git
 electron: 30.5.1
 method: aur-depends
+latest: v1.0.10
+src: https://github.com/Darcrandex/dilidili/archive/refs/tags/v1.0.10.zip
+downloads:
+- name: dilidili-1.0.10-arm64-mac.zip
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/dilidili-1.0.10-arm64-mac.zip
+- name: dilidili-1.0.10-arm64-mac.zip.blockmap
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/dilidili-1.0.10-arm64-mac.zip.blockmap
+- name: dilidili-1.0.10-setup.exe
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/dilidili-1.0.10-setup.exe
+- name: dilidili-1.0.10-setup.exe.blockmap
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/dilidili-1.0.10-setup.exe.blockmap
+- name: dilidili-1.0.10.dmg
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/dilidili-1.0.10.dmg
+- name: dilidili-1.0.10.dmg.blockmap
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/dilidili-1.0.10.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Darcrandex/dilidili/releases/download/v1.0.10/latest.yml

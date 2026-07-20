@@ -9,3 +9,9 @@ packages:
   os: macos
 electron: 31.7.7
 method: aur-depends
+homebrew: anythingllm
+downloads:
+- url: https://cdn.anythingllm.com/latest/AnythingLLMDesktop-Silicon.dmg
+  name: AnythingLLMDesktop-Silicon.dmg
+  version: 1.15.0
+we_tried: we0:urls:d49c340e8f84

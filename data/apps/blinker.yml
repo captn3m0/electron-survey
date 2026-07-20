@@ -8,3 +8,5 @@ additionalAUR:
 - blinker-git
 electron: 28.3.3
 method: aur-depends
+latest: v2.1.1
+src: https://github.com/mrkpatchaa/blinker/archive/refs/tags/v2.1.1.zip

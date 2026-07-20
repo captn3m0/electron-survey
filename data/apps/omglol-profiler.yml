@@ -4,3 +4,17 @@ website: https://github.com/themes-omgdotlol/designer-app
 repository: https://github.com/themes-omgdotlol/designer-app
 aur:
 - omglol-profiler
+latest: v0.02
+src: https://github.com/themes-omgdotlol/designer-app/archive/refs/tags/v0.02.zip
+downloads:
+- name: Profiler-0.0.2.AppImage
+  url: https://github.com/themes-omgdotlol/designer-app/releases/download/v0.02/Profiler-0.0.2.AppImage
+- name: profiler-0.0.2.pacman
+  url: https://github.com/themes-omgdotlol/designer-app/releases/download/v0.02/profiler-0.0.2.pacman
+- name: profiler-0.0.2.x86_64.rpm
+  url: https://github.com/themes-omgdotlol/designer-app/releases/download/v0.02/profiler-0.0.2.x86_64.rpm
+- name: profiler_0.0.2_amd64.deb
+  url: https://github.com/themes-omgdotlol/designer-app/releases/download/v0.02/profiler_0.0.2_amd64.deb
+electron: 15.3.0
+method: src-package-lock
+electron_src: https://github.com/themes-omgdotlol/designer-app/archive/refs/tags/v0.02.zip

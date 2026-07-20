@@ -13,3 +13,4 @@ downloads:
 electron: 6.1.9
 method: src-package-lock
 name: stacker
+electron_src: https://github.com/enqueuer-land/stacker/archive/refs/tags/v0.2.0.zip

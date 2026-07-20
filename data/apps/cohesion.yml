@@ -4,3 +4,8 @@ website: https://github.com/brunofin/cohesion
 repository: https://github.com/brunofin/cohesion
 aur:
 - cohesion-git
+latest: v1.1.1
+src: https://github.com/brunofin/cohesion/archive/refs/tags/v1.1.1.zip
+electron: 42.5.0
+method: src-package-lock
+electron_src: https://github.com/brunofin/cohesion/archive/refs/tags/v1.1.1.zip

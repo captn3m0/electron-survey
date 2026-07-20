@@ -6,3 +6,44 @@ aur:
 - yesplaymusicosd-origin-electron-git
 electron: 13.6.9
 method: aur-depends
+latest: v0.4.5
+src: https://github.com/shih-liang/YesPlayMusicOSD/archive/refs/tags/v0.4.5.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/latest.yml
+- name: yesplaymusic-0.4.5-2-any.pkg.tar.zst
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic-0.4.5-2-any.pkg.tar.zst
+- name: yesplaymusic-0.4.5-arm64.tar.gz
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic-0.4.5-arm64.tar.gz
+- name: YesPlayMusic-0.4.5.AppImage
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-0.4.5.AppImage
+- name: YesPlayMusic-0.4.5.exe
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-0.4.5.exe
+- name: yesplaymusic-0.4.5.tar.gz
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic-0.4.5.tar.gz
+- name: yesplaymusic-0.4.5.x86_64.rpm
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic-0.4.5.x86_64.rpm
+- name: YesPlayMusic-mac-0.4.5-arm64.dmg
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-mac-0.4.5-arm64.dmg
+- name: YesPlayMusic-mac-0.4.5-arm64.dmg.blockmap
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-mac-0.4.5-arm64.dmg.blockmap
+- name: YesPlayMusic-mac-0.4.5-universal.dmg
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-mac-0.4.5-universal.dmg
+- name: YesPlayMusic-mac-0.4.5-universal.dmg.blockmap
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-mac-0.4.5-universal.dmg.blockmap
+- name: YesPlayMusic-mac-0.4.5-x64.dmg
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-mac-0.4.5-x64.dmg
+- name: YesPlayMusic-mac-0.4.5-x64.dmg.blockmap
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-mac-0.4.5-x64.dmg.blockmap
+- name: YesPlayMusic-Setup-0.4.5.exe
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-Setup-0.4.5.exe
+- name: YesPlayMusic-Setup-0.4.5.exe.blockmap
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/YesPlayMusic-Setup-0.4.5.exe.blockmap
+- name: yesplaymusic_0.4.5_amd64.deb
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic_0.4.5_amd64.deb
+- name: yesplaymusic_0.4.5_arm64.deb
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic_0.4.5_arm64.deb
+- name: yesplaymusic_0.4.5_armv7l.deb
+  url: https://github.com/shih-liang/YesPlayMusicOSD/releases/download/v0.4.5/yesplaymusic_0.4.5_armv7l.deb

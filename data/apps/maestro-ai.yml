@@ -21,8 +21,39 @@ packages:
   arch: x64
 homebrew: maestro
 downloads:
-- url: https://github.com/pedramamini/Maestro/releases/download/v0.17.3/Maestro-0.17.3-arm64-mac.dmg
-  name: Maestro-0.17.3-arm64-mac.dmg
-  version: 0.17.3
+- name: latest-linux-arm64.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/latest.yml
+- name: maestro-0.17.3-aarch64.rpm
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-aarch64.rpm
+- name: maestro-0.17.3-amd64.deb
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-amd64.deb
+- name: maestro-0.17.3-arm64-mac.dmg
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-arm64-mac.dmg
+- name: maestro-0.17.3-arm64-mac.zip
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-arm64-mac.zip
+- name: maestro-0.17.3-arm64.AppImage
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-arm64.AppImage
+- name: maestro-0.17.3-arm64.deb
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-arm64.deb
+- name: maestro-0.17.3-x64-mac.dmg
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-x64-mac.dmg
+- name: maestro-0.17.3-x64-mac.zip
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-x64-mac.zip
+- name: maestro-0.17.3-x86_64.AppImage
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-x86_64.AppImage
+- name: maestro-0.17.3-x86_64.rpm
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-x86_64.rpm
+- name: Maestro-Portable-0.17.3-x64.exe
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/Maestro-Portable-0.17.3-x64.exe
+- name: Maestro-Setup-0.17.3-x64.exe
+  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/Maestro-Setup-0.17.3-x64.exe
 electron: 28.3.3
 method: which-electron-rg
+latest: v0.17.3
+src: https://github.com/pedramamini/Maestro/archive/refs/tags/v0.17.3.zip

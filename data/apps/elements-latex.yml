@@ -6,3 +6,8 @@ aur:
 - elements-latex
 electron: 18.3.15
 method: aur-depends
+latest: v0.0.3-stable
+src: https://github.com/Red-Rapious/Elements-LaTeX/archive/refs/tags/v0.0.3-stable.zip
+downloads:
+- name: elements-latex-0.0.3-mac.zip.dmg
+  url: https://github.com/agroudiev/Elements-LaTeX/releases/download/v0.0.3-stable/elements-latex-0.0.3-mac.zip.dmg

@@ -6,3 +6,10 @@ aur:
 - doomguy-git
 electron: 28.3.3
 method: aur-depends
+latest: v0.1.1
+src: https://github.com/CMOISDEAD/doomguy/archive/refs/tags/v0.1.1.zip
+downloads:
+- name: linux_v0.1.1.tar.gz
+  url: https://github.com/CMOISDEAD/doomguy/releases/download/v0.1.1/linux_v0.1.1.tar.gz
+- name: windows_v0.1.1.tar.gz
+  url: https://github.com/CMOISDEAD/doomguy/releases/download/v0.1.1/windows_v0.1.1.tar.gz

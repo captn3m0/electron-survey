@@ -24,3 +24,4 @@ downloads:
 electron: 8.2.2
 method: src-yarn-lock
 name: Multrin
+electron_src: https://github.com/sentialx/multrin/archive/refs/tags/v1.3.0.zip

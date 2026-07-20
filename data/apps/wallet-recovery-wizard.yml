@@ -6,3 +6,22 @@ aur:
 - wallet-recovery-wizard-bin
 electron: 22.3.27
 method: aur-depends
+latest: v5.11.0
+src: https://github.com/BitGo/wallet-recovery-wizard/archive/refs/tags/v5.11.0.zip
+downloads:
+- name: Wallet.Recovery.Wizard-5.11.0-arm64.dmg
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-5.11.0-arm64.dmg
+- name: Wallet.Recovery.Wizard-5.11.0-arm64.dmg.sha256sum
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-5.11.0-arm64.dmg.sha256sum
+- name: Wallet.Recovery.Wizard-5.11.0.dmg
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-5.11.0.dmg
+- name: Wallet.Recovery.Wizard-5.11.0.dmg.sha256sum
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-5.11.0.dmg.sha256sum
+- name: Wallet.Recovery.Wizard-Linux-5.11.0.deb
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Linux-5.11.0.deb
+- name: Wallet.Recovery.Wizard-Linux-5.11.0.deb.sha256sum
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Linux-5.11.0.deb.sha256sum
+- name: Wallet.Recovery.Wizard-Setup-5.11.0.exe
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Setup-5.11.0.exe
+- name: Wallet.Recovery.Wizard-Setup-5.11.0.exe.sha256sum
+  url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Setup-5.11.0.exe.sha256sum

@@ -21,3 +21,4 @@ downloads:
 electron: 17.4.11
 method: src-package-lock
 name: Tess
+electron_src: https://github.com/SquitchYT/Tess/archive/refs/tags/0.6.3.zip

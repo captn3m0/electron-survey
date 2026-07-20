@@ -6,3 +6,11 @@ aur:
 - apk-installer
 electron: 10.4.7
 method: aur-depends
+latest: 1.6.0
+src: https://github.com/zhujiaming/apk-installer/archive/refs/tags/1.6.0.zip
+downloads:
+- name: Apk.Installer-1.6.0.dmg
+  url: https://github.com/zhujiaming/apk-installer/releases/download/1.6.0/Apk.Installer-1.6.0.dmg
+- name: Apk.Installer.Setup.1.6.0.exe
+  url: https://github.com/zhujiaming/apk-installer/releases/download/1.6.0/Apk.Installer.Setup.1.6.0.exe
+we_tried: we0:1.6.0

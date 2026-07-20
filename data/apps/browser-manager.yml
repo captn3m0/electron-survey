@@ -6,3 +6,5 @@ aur:
 - browser-manager-git
 electron: 28.3.3
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/chenyk2016/Browser-Manager/archive/refs/tags/1.0.0.zip

@@ -15,3 +15,4 @@ method: src-package-lock
 aur:
 - pairing_tool
 name: Dict
+electron_src: https://github.com/bryht/Dict/archive/refs/tags/v0.7.6.zip

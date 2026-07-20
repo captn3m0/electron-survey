@@ -6,3 +6,8 @@ aur:
 - scripts-manager-git
 electron: 27.3.11
 method: aur-depends
+latest: v1.3.9
+src: https://github.com/hmhm2022/scripts-manager/archive/refs/tags/v1.3.9.zip
+downloads:
+- name: ScriptsManager-1.3.9-portable.exe
+  url: https://github.com/hmhm2022/scripts-manager/releases/download/v1.3.9/ScriptsManager-1.3.9-portable.exe

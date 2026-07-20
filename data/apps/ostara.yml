@@ -21,3 +21,34 @@ packages:
   arch: x64
 electron: 20.3.12
 method: which-electron-rg
+latest: v0.12.0
+src: https://github.com/krud-dev/ostara/archive/refs/tags/v0.12.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/latest.yml
+- name: Ostara-0.12.0-arm64-mac.zip
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-arm64-mac.zip
+- name: Ostara-0.12.0-arm64-mac.zip.blockmap
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-arm64-mac.zip.blockmap
+- name: Ostara-0.12.0-arm64.dmg
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-arm64.dmg
+- name: Ostara-0.12.0-arm64.dmg.blockmap
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-arm64.dmg.blockmap
+- name: Ostara-0.12.0-mac.zip
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-mac.zip
+- name: Ostara-0.12.0-mac.zip.blockmap
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-mac.zip.blockmap
+- name: Ostara-0.12.0.AppImage
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0.AppImage
+- name: Ostara-0.12.0.dmg
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0.dmg
+- name: Ostara-0.12.0.dmg.blockmap
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0.dmg.blockmap
+- name: Ostara-Setup-0.12.0.exe
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-Setup-0.12.0.exe
+- name: Ostara-Setup-0.12.0.exe.blockmap
+  url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-Setup-0.12.0.exe.blockmap

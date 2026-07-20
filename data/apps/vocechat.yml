@@ -6,3 +6,20 @@ aur:
 - vocechat-desktop-bin
 electron: 32.3.3
 method: aur-depends
+latest: v0.9.3
+src: https://github.com/Privoce/vocechat-desktop/archive/refs/tags/v0.9.3.zip
+downloads:
+- name: VoceChat-0.9.3-arm64-mac.zip
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3-arm64-mac.zip
+- name: VoceChat-0.9.3-arm64.dmg
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3-arm64.dmg
+- name: VoceChat-0.9.3.AppImage
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3.AppImage
+- name: VoceChat-0.9.3.x86_64.rpm
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3.x86_64.rpm
+- name: VoceChat.0.9.3.exe
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat.0.9.3.exe
+- name: VoceChat.Setup.0.9.3.exe
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat.Setup.0.9.3.exe
+- name: VoceChat_0.9.3_amd64.deb
+  url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat_0.9.3_amd64.deb

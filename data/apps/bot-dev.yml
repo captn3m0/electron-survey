@@ -6,3 +6,13 @@ aur:
 - bot.dev
 electron: 23.3.13
 method: aur-depends
+latest: v0.2.0
+src: https://github.com/juaneth/bot.dev/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: bot.dev-0.2.0-full.nupkg
+  url: https://github.com/juaneth/bot.dev/releases/download/v0.2.0/bot.dev-0.2.0-full.nupkg
+- name: bot.dev-0.2.0.Setup.exe
+  url: https://github.com/juaneth/bot.dev/releases/download/v0.2.0/bot.dev-0.2.0.Setup.exe
+- name: RELEASES
+  url: https://github.com/juaneth/bot.dev/releases/download/v0.2.0/RELEASES
+we_tried: we0:v0.2.0

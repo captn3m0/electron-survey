@@ -6,3 +6,24 @@ aur:
 - alice-ai-app-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.4.4
+src: https://github.com/pmbstyle/Alice/archive/refs/tags/v1.4.4.zip
+downloads:
+- name: Alice-AI-App-Linux-1.4.4.AppImage
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Linux-1.4.4.AppImage
+- name: Alice-AI-App-Mac-1.4.4-Installer.dmg
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Mac-1.4.4-Installer.dmg
+- name: Alice-AI-App-Mac-1.4.4-Installer.dmg.blockmap
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Mac-1.4.4-Installer.dmg.blockmap
+- name: Alice-AI-App-Windows-1.4.4-Setup.exe
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Windows-1.4.4-Setup.exe
+- name: Alice-AI-App-Windows-1.4.4-Setup.exe.blockmap
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Windows-1.4.4-Setup.exe.blockmap
+- name: builder-debug.yml
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/builder-debug.yml
+- name: latest-linux.yml
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/latest.yml

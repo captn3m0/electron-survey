@@ -27,3 +27,22 @@ aur:
 - godmode
 electron: 26.6.10
 method: aur-depends
+latest: v1.0.0-beta.10
+src: https://github.com/smol-ai/GodMode/archive/refs/tags/v1.0.0-beta.10.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/builder-debug.yml
+- name: builder-effective-config.yaml
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/builder-effective-config.yaml
+- name: GodMode-1.0.0-beta.10-arm64.AppImage
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-arm64.AppImage
+- name: GodMode-1.0.0-beta.10-arm64.dmg
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-arm64.dmg
+- name: GodMode-1.0.0-beta.10-universal.dmg
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10-universal.dmg
+- name: GodMode-1.0.0-beta.10.AppImage
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10.AppImage
+- name: GodMode-1.0.0-beta.10.dmg
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode-1.0.0-beta.10.dmg
+- name: GodMode.Setup.1.0.0-beta.10.exe
+  url: https://github.com/smol-ai/GodMode/releases/download/v1.0.0-beta.10/GodMode.Setup.1.0.0-beta.10.exe

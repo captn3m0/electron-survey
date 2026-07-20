@@ -12,3 +12,9 @@ additionalAUR:
 - bananas-electron-bin
 electron: 31.7.7
 method: aur-depends
+homebrew: bananas
+downloads:
+- url: https://github.com/mistweaverco/bananas/releases/download/v0.0.22/bananas_universal.dmg
+  name: bananas_universal.dmg
+  version: 0.0.22
+we_tried: we0:urls:7855f381ac19

@@ -6,3 +6,12 @@ aur:
 - openvpn-connect-linux
 electron: 37.10.3
 method: aur-depends
+latest: v3.8.0
+src: https://github.com/dresden196/openvpn-connect-linux/archive/refs/tags/v3.8.0.zip
+downloads:
+- name: openvpn-connect-linux-3.8.0-1.x86_64.rpm
+  url: https://github.com/dresden196/openvpn-connect-linux/releases/download/v3.8.0/openvpn-connect-linux-3.8.0-1.x86_64.rpm
+- name: openvpn-connect-linux-3.8.0-amd64.deb
+  url: https://github.com/dresden196/openvpn-connect-linux/releases/download/v3.8.0/openvpn-connect-linux-3.8.0-amd64.deb
+- name: openvpn-connect-linux-3.8.0-x86_64.AppImage
+  url: https://github.com/dresden196/openvpn-connect-linux/releases/download/v3.8.0/openvpn-connect-linux-3.8.0-x86_64.AppImage

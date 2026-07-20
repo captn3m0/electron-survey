@@ -15,3 +15,4 @@ method: src-package-lock
 aur:
 - ohhaibrowser-bin
 name: OhHai Browser
+electron_src: https://github.com/OhHaiBrowser/Browser/archive/refs/tags/v3.4.zip

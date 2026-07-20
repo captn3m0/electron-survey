@@ -14,3 +14,4 @@ downloads:
 electron: 9.0.5
 method: src-yarn-lock
 name: stay-hydrated
+electron_src: https://github.com/QuentinGruber/stay-hydrated/archive/refs/tags/v1.1.0.zip

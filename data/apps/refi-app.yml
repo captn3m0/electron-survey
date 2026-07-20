@@ -23,3 +23,32 @@ aur:
 - refi-app-bin
 electron: 19.1.9
 method: aur-depends
+latest: v0.0.19
+src: https://github.com/thanhlmm/refi-app/archive/refs/tags/v0.0.19.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/latest.yml
+- name: Refi-App-0.0.19-arm64-mac.zip
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-arm64-mac.zip
+- name: Refi-App-0.0.19-arm64.dmg
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-arm64.dmg
+- name: Refi-App-0.0.19-arm64.dmg.blockmap
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-arm64.dmg.blockmap
+- name: Refi-App-0.0.19-mac.zip
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-mac.zip
+- name: Refi-App-0.0.19.dmg
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19.dmg
+- name: Refi-App-0.0.19.dmg.blockmap
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19.dmg.blockmap
+- name: Refi-App-Setup-0.0.19.exe
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-Setup-0.0.19.exe
+- name: Refi-App-Setup-0.0.19.exe.blockmap
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-Setup-0.0.19.exe.blockmap
+- name: refi-app_0.0.19_amd64.deb
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/refi-app_0.0.19_amd64.deb
+- name: Refi.App-0.0.19-arm64-mac.zip.blockmap
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi.App-0.0.19-arm64-mac.zip.blockmap
+- name: Refi.App-0.0.19-mac.zip.blockmap
+  url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi.App-0.0.19-mac.zip.blockmap

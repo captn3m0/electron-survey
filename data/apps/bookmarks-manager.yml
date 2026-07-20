@@ -6,3 +6,29 @@ aur:
 - bookmarks-manager-bin
 electron: 15.5.7
 method: aur-depends
+latest: v0.1.2
+src: https://github.com/Hunlongyu/bookmarks-manager/archive/refs/tags/v0.1.2.zip
+downloads:
+- name: Bookmark-Manager-0.1.2-mac.zip
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2-mac.zip
+- name: Bookmark-Manager-0.1.2.AppImage
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.AppImage
+- name: Bookmark-Manager-0.1.2.dmg
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.dmg
+- name: Bookmark-Manager-0.1.2.dmg.blockmap
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.dmg.blockmap
+- name: Bookmark-Manager-Setup-0.1.2.exe
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-Setup-0.1.2.exe
+- name: Bookmark-Manager-Setup-0.1.2.exe.blockmap
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-Setup-0.1.2.exe.blockmap
+- name: Bookmark.Manager-0.1.2-mac.zip.blockmap
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark.Manager-0.1.2-mac.zip.blockmap
+- name: bookmark_0.1.2_amd64.snap
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/bookmark_0.1.2_amd64.snap
+- name: latest-linux.yml
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/latest.yml
+we_tried: we0:v0.1.2

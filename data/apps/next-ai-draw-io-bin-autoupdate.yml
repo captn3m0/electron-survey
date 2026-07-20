@@ -8,3 +8,44 @@ additionalAUR:
 - next-ai-draw-io-bin
 electron: 39.8.10
 method: aur-depends
+latest: v0.4.16
+src: https://github.com/DayuanJiang/next-ai-draw-io/archive/refs/tags/v0.4.16.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/latest-mac.yml
+- name: next-ai-draw-io-0.4.16.aarch64.rpm
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/next-ai-draw-io-0.4.16.aarch64.rpm
+- name: next-ai-draw-io-0.4.16.x86_64.rpm
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/next-ai-draw-io-0.4.16.x86_64.rpm
+- name: next-ai-draw-io_0.4.16_amd64.deb
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/next-ai-draw-io_0.4.16_amd64.deb
+- name: next-ai-draw-io_0.4.16_arm64.deb
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/next-ai-draw-io_0.4.16_arm64.deb
+- name: Next-AI-Draw.io-0.4.16-arm64-mac.zip
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16-arm64-mac.zip
+- name: Next-AI-Draw.io-0.4.16-arm64.AppImage
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16-arm64.AppImage
+- name: Next-AI-Draw.io-0.4.16-arm64.dmg
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16-arm64.dmg
+- name: Next-AI-Draw.io-0.4.16-arm64.dmg.blockmap
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16-arm64.dmg.blockmap
+- name: Next-AI-Draw.io-0.4.16-mac.zip
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16-mac.zip
+- name: Next-AI-Draw.io-0.4.16.AppImage
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16.AppImage
+- name: Next-AI-Draw.io-0.4.16.dmg
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16.dmg
+- name: Next-AI-Draw.io-0.4.16.dmg.blockmap
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next-AI-Draw.io-0.4.16.dmg.blockmap
+- name: Next.AI.Draw.io-0.4.16-arm64-mac.zip.blockmap
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io-0.4.16-arm64-mac.zip.blockmap
+- name: Next.AI.Draw.io-0.4.16-mac.zip.blockmap
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io-0.4.16-mac.zip.blockmap
+- name: Next.AI.Draw.io.0.4.16.exe
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io.0.4.16.exe
+- name: Next.AI.Draw.io.Setup.0.4.16.exe
+  url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io.Setup.0.4.16.exe

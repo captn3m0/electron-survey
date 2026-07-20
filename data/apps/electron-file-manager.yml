@@ -6,3 +6,12 @@ aur:
 - electron-file-manager-bin
 electron: 41.10.2
 method: aur-depends
+latest: electron-file-manager-v2.0.4
+src: https://github.com/Michael-Vanderford/electron-file-manager/archive/refs/tags/electron-file-manager-v2.0.4.zip
+downloads:
+- name: electron-file-manager-2.0.4.AppImage
+  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.AppImage
+- name: electron-file-manager-2.0.4.x86_64.rpm
+  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.x86_64.rpm
+- name: electron-file-manager_2.0.4_amd64.deb
+  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager_2.0.4_amd64.deb

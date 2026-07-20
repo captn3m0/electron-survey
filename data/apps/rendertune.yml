@@ -33,3 +33,4 @@ method: src-yarn-lock
 aur:
 - rendertune-bin
 name: RenderTune
+electron_src: https://github.com/MartinBarker/RenderTune/archive/refs/tags/v2.0.12.zip

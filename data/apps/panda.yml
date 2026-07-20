@@ -10,3 +10,14 @@ packages:
   os: macos
 electron: 35.7.5
 method: aur-depends
+latest: v1.1.9
+src: https://github.com/GHchenjingqi/panda/archive/refs/tags/v1.1.9.zip
+downloads:
+- name: panda-app.Setup.1.1.9.exe
+  url: https://github.com/GHchenjingqi/panda/releases/download/v1.1.9/panda-app.Setup.1.1.9.exe
+- name: panda-app.Setup.1.1.9.exe.blockmap
+  url: https://github.com/GHchenjingqi/panda/releases/download/v1.1.9/panda-app.Setup.1.1.9.exe.blockmap
+- url: https://github.com/pablosproject/Panda-Mac-app/releases/download/1.4.2/Panda.zip
+  name: Panda.zip
+  version: 1.4.2
+homebrew: panda

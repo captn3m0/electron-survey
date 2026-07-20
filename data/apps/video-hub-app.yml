@@ -19,3 +19,16 @@ aur:
 - video-hub-app-bin
 electron: 22.3.27
 method: aur-depends
+latest: v3.2.0
+src: https://github.com/whyboris/Video-Hub-App/archive/refs/tags/v3.2.0.zip
+downloads:
+- name: Video.Hub.App.3.Demo-3.2.0-arm64.dmg
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0-arm64.dmg
+- name: Video.Hub.App.3.Demo-3.2.0.AppImage
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
+- name: Video.Hub.App.3.Demo.Portable.3.2.0.exe
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Portable.3.2.0.exe
+- name: Video.Hub.App.3.Demo.Setup.3.2.0.exe
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.0.exe
+- name: Video.Hub.App.3.Demo.Setup.3.2.1.exe
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.1.exe

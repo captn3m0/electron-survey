@@ -37,3 +37,4 @@ packages:
   os: macos
   arch: arm64
 name: Laravel Kit
+electron_src: https://github.com/tmdh/laravel-kit/archive/refs/tags/v2.0.9.zip

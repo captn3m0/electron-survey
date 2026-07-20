@@ -27,8 +27,21 @@ aur:
 - gitfiend
 homebrew: gitfiend
 downloads:
-- url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3-arm64.dmg
-  name: GitFiend-0.45.3-arm64.dmg
-  version: 0.45.3
+- name: GitFiend-0.45.3-arm64.AppImage
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3-arm64.AppImage
+- name: GitFiend-0.45.3-arm64.dmg
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3-arm64.dmg
+- name: GitFiend-0.45.3.AppImage
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.AppImage
+- name: GitFiend-0.45.3.dmg
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.dmg
+- name: GitFiend-0.45.3.x86_64.rpm
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.x86_64.rpm
+- name: GitFiend.Setup.0.45.3.exe
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend.Setup.0.45.3.exe
+- name: GitFiend_0.45.3_amd64.deb
+  url: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend_0.45.3_amd64.deb
 electron: 29.4.2
 method: which-electron-rg
+latest: v0.45.3
+src: https://github.com/GitFiend/Support/archive/refs/tags/v0.45.3.zip

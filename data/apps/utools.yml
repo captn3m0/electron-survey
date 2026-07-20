@@ -10,3 +10,8 @@ packages:
   arch: arm64
 electron: 22.3.27
 method: aur-depends
+homebrew: utools
+downloads:
+- url: https://open.u-tools.cn/download/uTools-7.8.0-arm64.dmg
+  name: uTools-7.8.0-arm64.dmg
+  version: 7.8.0

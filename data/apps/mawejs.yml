@@ -6,3 +6,8 @@ aur:
 - mawejs-bin
 electron: 40.10.6
 method: aur-depends
+latest: v0.25.0
+src: https://github.com/mkoskim/mawejs/archive/refs/tags/v0.25.0.zip
+downloads:
+- name: mawejs-0.25.0.AppImage
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage

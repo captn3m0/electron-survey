@@ -6,3 +6,12 @@ aur:
 - miru-viewer-git
 electron: 40.10.6
 method: aur-depends
+latest: v1.5.0
+src: https://github.com/ytakahashi/miru/archive/refs/tags/v1.5.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/ytakahashi/miru/releases/download/v1.5.0/latest-mac.yml
+- name: miru-1.5.0-arm64.dmg
+  url: https://github.com/ytakahashi/miru/releases/download/v1.5.0/miru-1.5.0-arm64.dmg
+- name: miru-1.5.0-arm64.dmg.blockmap
+  url: https://github.com/ytakahashi/miru/releases/download/v1.5.0/miru-1.5.0-arm64.dmg.blockmap

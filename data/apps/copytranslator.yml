@@ -9,3 +9,8 @@ packages:
   os: macos
 electron: 6.1.12
 method: aur-depends
+homebrew: copytranslator
+downloads:
+- url: https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0.dmg
+  name: copytranslator-11.0.0.dmg
+  version: 11.0.0

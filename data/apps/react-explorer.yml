@@ -19,3 +19,4 @@ downloads:
 electron: 21.2.3
 method: src-package-lock
 name: React-Explorer
+electron_src: https://github.com/warpdesign/react-explorer/archive/refs/tags/v3.1.0.zip

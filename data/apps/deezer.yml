@@ -5,3 +5,8 @@ aur:
 - deezer
 electron: 41.10.2
 method: aur-depends
+homebrew: deezer
+downloads:
+- url: https://www.deezer.com/desktop/download/artifact-darwin-x64-7.1.280
+  name: artifact-darwin-x64-7.1.280
+  version: 7.1.280

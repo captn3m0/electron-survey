@@ -6,3 +6,18 @@ aur:
 - kurisu-bin
 electron: 29.4.6
 method: aur-depends
+latest: v1.2.0
+src: https://github.com/MCDFsteve/Kurisu/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: Kurisu-1.2.0-linux-x64.zip
+  url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-linux-x64.zip
+- name: Kurisu-1.2.0-linux-x86_64.AppImage
+  url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-linux-x86_64.AppImage
+- name: Kurisu-1.2.0-mac-universal.dmg
+  url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-mac-universal.dmg
+- name: Kurisu-1.2.0-mac-universal.zip
+  url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-mac-universal.zip
+- name: Kurisu-1.2.0-win-x64.exe
+  url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-win-x64.exe
+- name: Kurisu-1.2.0-win-x64.zip
+  url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-win-x64.zip

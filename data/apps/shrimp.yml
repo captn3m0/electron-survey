@@ -6,3 +6,14 @@ aur:
 - shrimp
 electron: 39.8.10
 method: aur-depends
+latest: v0.1.7
+src: https://github.com/TheSingularis/shrimp/archive/refs/tags/v0.1.7.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/TheSingularis/shrimp/releases/download/v0.1.7/latest-linux.yml
+- name: SHRIMP-0.1.7.AppImage
+  url: https://github.com/TheSingularis/shrimp/releases/download/v0.1.7/SHRIMP-0.1.7.AppImage
+- name: shrimp-0.1.7.tar.gz
+  url: https://github.com/TheSingularis/shrimp/releases/download/v0.1.7/shrimp-0.1.7.tar.gz
+- name: SHRIMP.Setup.0.1.7.exe
+  url: https://github.com/TheSingularis/shrimp/releases/download/v0.1.7/SHRIMP.Setup.0.1.7.exe

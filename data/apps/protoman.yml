@@ -13,3 +13,4 @@ downloads:
 electron: 9.4.0
 method: src-package-lock
 name: Protoman
+electron_src: https://github.com/spluxx/protoman/archive/refs/tags/v0.4.1.zip

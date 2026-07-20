@@ -7,3 +7,8 @@ packages:
 - url: https://github.com/replit/desktop/releases/download/v1.0.14/Replit.dmg
   format: dmg
   os: macos
+homebrew: replit
+downloads:
+- url: https://github.com/replit/desktop/releases/download/v1.0.14/Replit.dmg
+  name: Replit.dmg
+  version: 1.0.14

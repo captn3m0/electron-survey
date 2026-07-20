@@ -17,8 +17,17 @@ packages:
   arch: x64
 homebrew: kui
 downloads:
-- url: https://github.com/kubernetes-sigs/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
-  name: Kui-darwin-arm64.tar.bz2
-  version: 13.1.4
+- name: Kui-darwin-arm64.tar.bz2
+  url: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
+- name: Kui-darwin-x64.tar.bz2
+  url: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-darwin-x64.tar.bz2
+- name: Kui-linux-arm64.zip
+  url: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-linux-arm64.zip
+- name: Kui-linux-x64.zip
+  url: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-linux-x64.zip
+- name: Kui-win32-x64.zip
+  url: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-win32-x64.zip
 electron: 22.2.1
 method: which-electron-rg
+latest: v13.1.4
+src: https://github.com/kubernetes-sigs/kui/archive/refs/tags/v13.1.4.zip

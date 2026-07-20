@@ -13,3 +13,4 @@ downloads:
 electron: 6.1.12
 method: src-range-guess
 name: R6RC
+electron_src: https://github.com/austinleath/r6rc/archive/refs/tags/v0.4.6.zip

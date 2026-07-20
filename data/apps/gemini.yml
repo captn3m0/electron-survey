@@ -8,3 +8,13 @@ packages:
 - url: https://dl.devmate.com/com.macpaw.site.Gemini2/406/1781745541/Gemini2-406.zip
   format: zip
   os: macos
+latest: 0.5.0
+src: https://github.com/kenvandine/gemini-desktop/archive/refs/tags/0.5.0.zip
+homebrew: gemini
+downloads:
+- url: https://dl.devmate.com/com.macpaw.site.Gemini2/406/1781745541/Gemini2-406.zip
+  name: Gemini2-406.zip
+  version: 2.10.1,406,1781745541
+electron: 37.10.3
+method: src-range-guess
+electron_src: https://github.com/kenvandine/gemini-desktop/archive/refs/tags/0.5.0.zip

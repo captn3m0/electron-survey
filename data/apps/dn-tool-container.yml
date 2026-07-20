@@ -13,3 +13,4 @@ downloads:
 electron: 8.4.1
 method: src-package-lock
 name: Dn Tool Container
+electron_src: https://github.com/como65416/DnToolContainer/archive/refs/tags/1.5.1.zip

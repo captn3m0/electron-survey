@@ -19,3 +19,4 @@ downloads:
 electron: 6.0.7
 method: src-package-lock
 name: Pendulums
+electron_src: https://github.com/Swing-team/pendulums-web-client/archive/refs/tags/v1.1.0.zip

@@ -6,3 +6,40 @@ packages:
 - url: https://proton.me/download/mail/macos/1.13.3/ProtonMail-desktop.dmg
   format: dmg
   os: macos
+latest: 1.0.6
+src: https://github.com/ProtonMail/inbox-desktop/archive/refs/tags/1.0.6.zip
+downloads:
+- name: inbox-desktop-1.0.6-source.zip
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/inbox-desktop-1.0.6-source.zip
+- name: proton-mail-1.0.6-1.x86_64.rpm
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/proton-mail-1.0.6-1.x86_64.rpm
+- name: proton-mail_1.0.6_amd64.deb
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/proton-mail_1.0.6_amd64.deb
+- name: Proton.Mail-1.0.6-arm64.dmg
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-1.0.6-arm64.dmg
+- name: Proton.Mail-1.0.6-universal.dmg
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-1.0.6-universal.dmg
+- name: Proton.Mail-1.0.6-x64.dmg
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-1.0.6-x64.dmg
+- name: Proton.Mail-1.0.6.Setup.exe
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-1.0.6.Setup.exe
+- name: Proton.Mail-darwin-arm64-1.0.6.zip
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-darwin-arm64-1.0.6.zip
+- name: Proton.Mail-darwin-universal-1.0.6.zip
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-darwin-universal-1.0.6.zip
+- name: Proton.Mail-darwin-x64-1.0.6.zip
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-darwin-x64-1.0.6.zip
+- name: Proton.Mail-win32-x64-1.0.6.zip
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail-win32-x64-1.0.6.zip
+- name: Proton.Mail.Beta-linux-x64-1.0.6.zip
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/Proton.Mail.Beta-linux-x64-1.0.6.zip
+- name: proton_mail-1.0.6-full.nupkg
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/proton_mail-1.0.6-full.nupkg
+- name: RELEASES
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/RELEASES
+- name: RELEASES.json
+  url: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/RELEASES.json
+- url: https://proton.me/download/mail/macos/1.13.3/ProtonMail-desktop.dmg
+  name: ProtonMail-desktop.dmg
+  version: 1.13.3
+homebrew: proton-mail

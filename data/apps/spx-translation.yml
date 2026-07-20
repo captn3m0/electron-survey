@@ -8,3 +8,12 @@ additionalAUR:
 - spx-translation-bin
 electron: 25.9.8
 method: aur-depends
+latest: vv2.0.5-1
+src: https://github.com/mlmdflr/spx-translation/archive/refs/tags/vv2.0.5-1.zip
+downloads:
+- name: spx-translation-2.0.5.x86_64.rpm
+  url: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation-2.0.5.x86_64.rpm
+- name: spx-translation-linux-2.0.5.AppImage
+  url: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation-linux-2.0.5.AppImage
+- name: spx-translation_2.0.5_amd64.deb
+  url: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation_2.0.5_amd64.deb

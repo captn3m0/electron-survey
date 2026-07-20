@@ -6,3 +6,8 @@ aur:
 - electron-ffmpeg-gui-git
 electron: 35.7.5
 method: aur-depends
+latest: v0.2.2
+src: https://github.com/hunt-kingyo/electron-ffmpeg-gui/archive/refs/tags/v0.2.2.zip
+downloads:
+- name: electron-ffmpeg-gui-0.2.2-setup.exe
+  url: https://github.com/hunt-kingyo/electron-ffmpeg-gui/releases/download/v0.2.2/electron-ffmpeg-gui-0.2.2-setup.exe

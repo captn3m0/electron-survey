@@ -6,3 +6,14 @@ aur:
 - mouse-automator-bin
 electron: 30.5.1
 method: aur-depends
+latest: v1.0.16
+src: https://github.com/cch01/mouse-automator/archive/refs/tags/v1.0.16.zip
+downloads:
+- name: Mouse-Automator-Linux-1.0.16.AppImage
+  url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/Mouse-Automator-Linux-1.0.16.AppImage
+- name: Mouse-Automator-Mac-1.0.16-Installer.dmg
+  url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/Mouse-Automator-Mac-1.0.16-Installer.dmg
+- name: Mouse-Automator-Windows-1.0.16-Setup.exe
+  url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/Mouse-Automator-Windows-1.0.16-Setup.exe
+- name: mouseAutomator_portable_1.0.16.exe
+  url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/mouseAutomator_portable_1.0.16.exe

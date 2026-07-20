@@ -6,3 +6,13 @@ aur:
 - abird-bin
 electron: 39.8.10
 method: aur-depends
+latest: v0.1.6
+src: https://github.com/nsz32/abird/archive/refs/tags/v0.1.6.zip
+downloads:
+- name: ABird-0.1.6-asar-linux-x64.tar.zst
+  url: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6-asar-linux-x64.tar.zst
+- name: ABird-0.1.6-x64-setup.exe
+  url: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6-x64-setup.exe
+- name: ABird-0.1.6.AppImage
+  url: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6.AppImage
+we_tried: we0:v0.1.6

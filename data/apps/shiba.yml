@@ -9,8 +9,21 @@ packages:
   arch: x64
 homebrew: shiba
 downloads:
-- url: https://github.com/rhysd/Shiba/releases/download/v1.2.1/Shiba-darwin-x64.zip
-  name: Shiba-darwin-x64.zip
-  version: 1.2.1
+- name: shiba_2.0.0.alpha.4-1_amd64.deb
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/shiba_2.0.0.alpha.4-1_amd64.deb
+- name: shiba_linux_x86_64_v2.0.0-alpha.4.zip
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/shiba_linux_x86_64_v2.0.0-alpha.4.zip
+- name: shiba_macos_aarch64_v2.0.0-alpha.4.zip
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/shiba_macos_aarch64_v2.0.0-alpha.4.zip
+- name: shiba_macos_x86_64_v2.0.0-alpha.4.zip
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/shiba_macos_x86_64_v2.0.0-alpha.4.zip
+- name: Shiba_v2.0.0-alpha.4.dmg
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/Shiba_v2.0.0-alpha.4.dmg
+- name: shiba_windows_x86_64_v2.0.0-alpha.4.exe.zip
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/shiba_windows_x86_64_v2.0.0-alpha.4.exe.zip
+- name: shiba_x64_v2.0.0-alpha.4.msi
+  url: https://github.com/rhysd/Shiba/releases/download/v2.0.0-alpha.4/shiba_x64_v2.0.0-alpha.4.msi
 electron: 2.0.2
 method: which-electron-version_file
+latest: v2.0.0-alpha.4
+src: https://github.com/rhysd/Shiba/archive/refs/tags/v2.0.0-alpha.4.zip

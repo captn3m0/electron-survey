@@ -6,3 +6,14 @@ aur:
 - milkup
 electron: 41.10.2
 method: aur-depends
+latest: v1.0.18
+src: https://github.com/Auto-Plugin/milkup/archive/refs/tags/v1.0.18.zip
+downloads:
+- name: milkup-1.0.18-arm64.dmg
+  url: https://github.com/Auto-Plugin/milkup/releases/download/v1.0.18/milkup-1.0.18-arm64.dmg
+- name: milkup-1.0.18-x64.dmg
+  url: https://github.com/Auto-Plugin/milkup/releases/download/v1.0.18/milkup-1.0.18-x64.dmg
+- name: milkup-win-x64-unpacked.zip
+  url: https://github.com/Auto-Plugin/milkup/releases/download/v1.0.18/milkup-win-x64-unpacked.zip
+- name: milkup.Setup.1.0.18.exe
+  url: https://github.com/Auto-Plugin/milkup/releases/download/v1.0.18/milkup.Setup.1.0.18.exe

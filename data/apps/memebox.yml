@@ -4,3 +4,17 @@ website: https://github.com/negue/meme-box
 repository: https://github.com/negue/meme-box
 aur:
 - memebox
+latest: 2025.1_draft
+src: https://github.com/negue/meme-box/archive/refs/tags/2025.1_draft.zip
+downloads:
+- name: com.memebox.memebox-streamdeck.streamDeckPlugin
+  url: https://github.com/negue/meme-box/releases/download/2025.1_draft/com.memebox.memebox-streamdeck.streamDeckPlugin
+- name: memebox-headless.exe
+  url: https://github.com/negue/meme-box/releases/download/2025.1_draft/memebox-headless.exe
+- name: memebox-linux-headless
+  url: https://github.com/negue/meme-box/releases/download/2025.1_draft/memebox-linux-headless
+- name: memebox-macos-headless
+  url: https://github.com/negue/meme-box/releases/download/2025.1_draft/memebox-macos-headless
+electron: 20.3.4
+method: src-package-lock
+electron_src: https://github.com/negue/meme-box/archive/refs/tags/2025.1_draft.zip

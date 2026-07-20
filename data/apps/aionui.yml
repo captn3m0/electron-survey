@@ -10,3 +10,9 @@ packages:
   arch: arm64
 electron: 37.10.3
 method: aur-depends
+homebrew: aionui
+downloads:
+- url: https://github.com/iOfficeAI/AionUi/releases/download/v2.1.37/AionUi-2.1.37-mac-arm64.dmg
+  name: AionUi-2.1.37-mac-arm64.dmg
+  version: 2.1.37
+we_tried: we0:urls:813af72605aa

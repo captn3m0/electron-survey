@@ -4,3 +4,19 @@ website: https://github.com/ByteExceptionM/MongoBench
 repository: https://github.com/ByteExceptionM/MongoBench
 aur:
 - mongobench-git
+latest: v1.2.0
+src: https://github.com/ByteExceptionM/MongoBench/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/ByteExceptionM/MongoBench/releases/download/v1.2.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/ByteExceptionM/MongoBench/releases/download/v1.2.0/latest.yml
+- name: MongoBench-1.2.0-x86_64.AppImage
+  url: https://github.com/ByteExceptionM/MongoBench/releases/download/v1.2.0/MongoBench-1.2.0-x86_64.AppImage
+- name: MongoBench-Setup-1.2.0-x64.exe
+  url: https://github.com/ByteExceptionM/MongoBench/releases/download/v1.2.0/MongoBench-Setup-1.2.0-x64.exe
+- name: MongoBench-Setup-1.2.0-x64.exe.blockmap
+  url: https://github.com/ByteExceptionM/MongoBench/releases/download/v1.2.0/MongoBench-Setup-1.2.0-x64.exe.blockmap
+electron: 42.0.0
+method: src-package-lock
+electron_src: https://github.com/ByteExceptionM/MongoBench/archive/refs/tags/v1.2.0.zip

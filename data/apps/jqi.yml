@@ -3,3 +3,6 @@ website: https://nire0510.github.io/jqi/
 download_urls:
 - https://www.dropbox.com/s/cjcujamk1nzwmsa/jqi.dmg?dl=1
 name: jqi
+downloads:
+- url: https://www.dropbox.com/s/cjcujamk1nzwmsa/jqi.dmg?dl=1
+  name: jqi.dmg?dl=1

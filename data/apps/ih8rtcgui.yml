@@ -6,3 +6,12 @@ aur:
 - ih8rtcgui
 electron: 29.4.6
 method: aur-depends
+latest: v0.0.8
+src: https://github.com/kenny59/ih8rtcgui/archive/refs/tags/v0.0.8.zip
+downloads:
+- name: ih8rtcgui-Setup-0.0.8.exe
+  url: https://github.com/kenny59/ih8rtcgui/releases/download/v0.0.8/ih8rtcgui-Setup-0.0.8.exe
+- name: ih8rtcgui-Setup-0.0.8.exe.blockmap
+  url: https://github.com/kenny59/ih8rtcgui/releases/download/v0.0.8/ih8rtcgui-Setup-0.0.8.exe.blockmap
+- name: latest.yml
+  url: https://github.com/kenny59/ih8rtcgui/releases/download/v0.0.8/latest.yml

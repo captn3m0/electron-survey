@@ -6,3 +6,38 @@ aur:
 - lexicanter-bin
 electron: 38.8.6
 method: aur-depends
+latest: 2.3.0
+src: https://github.com/Saturnine-Softworks/Lexicanter/archive/refs/tags/2.3.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/latest.yml
+- name: Lexicanter-2.3.0-arm64-mac.zip
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64-mac.zip
+- name: Lexicanter-2.3.0-arm64-mac.zip.blockmap
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64-mac.zip.blockmap
+- name: Lexicanter-2.3.0-arm64.AppImage
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64.AppImage
+- name: Lexicanter-2.3.0-arm64.dmg
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64.dmg
+- name: Lexicanter-2.3.0-arm64.dmg.blockmap
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64.dmg.blockmap
+- name: Lexicanter-2.3.0-mac.zip
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-mac.zip
+- name: Lexicanter-2.3.0-mac.zip.blockmap
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-mac.zip.blockmap
+- name: Lexicanter-2.3.0.AppImage
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0.AppImage
+- name: Lexicanter-2.3.0.dmg
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0.dmg
+- name: Lexicanter-2.3.0.dmg.blockmap
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0.dmg.blockmap
+- name: Lexicanter-Setup-2.3.0.exe
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-Setup-2.3.0.exe
+- name: Lexicanter-Setup-2.3.0.exe.blockmap
+  url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-Setup-2.3.0.exe.blockmap

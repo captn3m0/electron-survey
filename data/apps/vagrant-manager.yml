@@ -38,3 +38,4 @@ packages:
 - url: https://github.com/lanayotech/vagrant-manager/releases/download/2.7.1/vagrant-manager-2.7.1.dmg
   format: dmg
   os: macos
+electron_src: https://github.com/absalomedia/vagrant-manager/archive/refs/tags/2.3.2.zip

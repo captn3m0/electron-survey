@@ -33,3 +33,4 @@ downloads:
 electron: 8.4.0
 method: src-package-lock
 name: GitHoard
+electron_src: https://github.com/beepboopbangbang/githoard/archive/refs/tags/v0.4.0.zip

@@ -12,3 +12,8 @@ additionalAUR:
 - requestly-git
 electron: 42.7.0
 method: aur-depends
+homebrew: requestly
+downloads:
+- url: https://github.com/requestly/requestly-desktop-app/releases/download/v26.6.29/Requestly-26.6.29-arm64.dmg
+  name: Requestly-26.6.29-arm64.dmg
+  version: 26.6.29

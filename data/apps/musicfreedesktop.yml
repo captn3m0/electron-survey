@@ -21,3 +21,20 @@ packages:
   arch: x64
 electron: 25.3.0
 method: which-electron-rg
+latest: v0.0.8
+src: https://github.com/maotoumao/MusicFreeDesktop/archive/refs/tags/v0.0.8.zip
+downloads:
+- name: MusicFree-0.0.8-darwin-arm64.dmg
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-arm64.dmg
+- name: MusicFree-0.0.8-darwin-x64.dmg
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-x64.dmg
+- name: MusicFree-0.0.8-linux-amd64.deb
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-linux-amd64.deb
+- name: MusicFree-0.0.8-win32-x64-legacy-portable.zip
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-legacy-portable.zip
+- name: MusicFree-0.0.8-win32-x64-legacy-setup.exe
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-legacy-setup.exe
+- name: MusicFree-0.0.8-win32-x64-portable.zip
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-portable.zip
+- name: MusicFree-0.0.8-win32-x64-setup.exe
+  url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe

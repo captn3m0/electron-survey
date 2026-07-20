@@ -27,3 +27,4 @@ method: src-yarn-lock
 aur:
 - debugtron
 name: Debugtron
+electron_src: https://github.com/bytedance/debugtron/archive/refs/tags/v1.0.0-alpha.0.zip

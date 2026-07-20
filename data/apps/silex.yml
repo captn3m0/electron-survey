@@ -17,3 +17,4 @@ method: src-package-lock
 aur:
 - silex-desktop-bin
 name: Silex website builder
+electron_src: https://github.com/silexlabs/silex-desktop/archive/refs/tags/v2.7.30.zip

@@ -4,3 +4,15 @@ website: https://github.com/chicohaager/zima-linux-client
 repository: https://github.com/chicohaager/zima-linux-client
 aur:
 - zima-linux-client
+latest: v0.9.23
+src: https://github.com/chicohaager/zima-linux-client/archive/refs/tags/v0.9.23.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v0.9.23/latest-linux.yml
+- name: zima-linux-client_0.9.23_amd64.deb
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v0.9.23/zima-linux-client_0.9.23_amd64.deb
+- name: ZimaOS.Client-0.9.23.AppImage
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v0.9.23/ZimaOS.Client-0.9.23.AppImage
+electron: 28.3.3
+method: src-range-guess
+electron_src: https://github.com/chicohaager/zima-linux-client/archive/refs/tags/v0.9.23.zip

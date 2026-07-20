@@ -9,3 +9,5 @@ aur:
 - ledger-live-desktop-appimage
 electron: 40.10.6
 method: aur-depends
+latest: '@ledgerhq/live-desktop@4.11.0'
+src: https://github.com/LedgerHQ/ledger-live/archive/refs/tags/@ledgerhq/live-desktop@4.11.0.zip

@@ -9,3 +9,20 @@ additionalAUR:
 - ffbox-git
 electron: 24.8.8
 method: aur-depends
+latest: v5.4
+src: https://github.com/ttqftech/FFBox/archive/refs/tags/v5.4.zip
+downloads:
+- name: Linux_x86-64_FFBoxService+webUI_5.4.zip
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Linux_x86-64_FFBoxService%2BwebUI_5.4.zip
+- name: Linux_x86-64_FFBox_5.4.AppImage
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Linux_x86-64_FFBox_5.4.AppImage
+- name: Linux_x86-64_FFBox_5.4.deb
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Linux_x86-64_FFBox_5.4.deb
+- name: macOS_ARM64_FFBoxService+webUI_5.4.zip
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/macOS_ARM64_FFBoxService%2BwebUI_5.4.zip
+- name: macOS_ARM64_FFBox_5.4.dmg
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/macOS_ARM64_FFBox_5.4.dmg
+- name: Windows_x86-64_FFBoxService+webUI_5.4.zip
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Windows_x86-64_FFBoxService%2BwebUI_5.4.zip
+- name: Windows_x86-64_FFBox_5.4.exe
+  url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Windows_x86-64_FFBox_5.4.exe

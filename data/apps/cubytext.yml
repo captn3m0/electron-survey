@@ -6,3 +6,20 @@ aur:
 - cubytext-bin
 electron: 19.1.9
 method: aur-depends
+latest: 0.0.4
+src: https://github.com/vincentdchan/CubyText/archive/refs/tags/0.0.4.zip
+downloads:
+- name: CubyText-0.0.4-darwin-arm64.dmg
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-darwin-arm64.dmg
+- name: CubyText-0.0.4-darwin-arm64.zip
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-darwin-arm64.zip
+- name: CubyText-0.0.4-darwin-x64.dmg
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-darwin-x64.dmg
+- name: CubyText-0.0.4-darwin-x64.zip
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-darwin-x64.zip
+- name: CubyText-0.0.4-linux-x64.zip
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-linux-x64.zip
+- name: CubyText-0.0.4-win32-x64.zip
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-win32-x64.zip
+- name: cubytext_0.0.4_amd64.deb
+  url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/cubytext_0.0.4_amd64.deb

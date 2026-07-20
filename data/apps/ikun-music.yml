@@ -6,3 +6,56 @@ aur:
 - ikun-music-desktop-bin
 electron: 37.10.3
 method: aur-depends
+latest: v3.3.0-fix.7
+src: https://github.com/ikunshare/ikun-music-desktop/archive/refs/tags/v3.3.0-fix.7.zip
+downloads:
+- name: ikun-music-desktop-3.3.0-fix.7-arm64.dmg
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-3.3.0-fix.7-arm64.dmg
+- name: ikun-music-desktop-3.3.0-fix.7-arm64.dmg.blockmap
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-3.3.0-fix.7-arm64.dmg.blockmap
+- name: ikun-music-desktop-3.3.0-fix.7-x64.dmg
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-3.3.0-fix.7-x64.dmg
+- name: ikun-music-desktop-3.3.0-fix.7-x64.dmg.blockmap
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-3.3.0-fix.7-x64.dmg.blockmap
+- name: ikun-music-desktop-3.3.0-fix.7.x64.rpm
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-3.3.0-fix.7.x64.rpm
+- name: ikun-music-desktop-v3.3.0-fix.7-arm64-Setup.exe
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-arm64-Setup.exe
+- name: ikun-music-desktop-v3.3.0-fix.7-arm64-Setup.exe.blockmap
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-arm64-Setup.exe.blockmap
+- name: ikun-music-desktop-v3.3.0-fix.7-win7_x64-green.7z
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-win7_x64-green.7z
+- name: ikun-music-desktop-v3.3.0-fix.7-win7_x64-Setup.exe
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-win7_x64-Setup.exe
+- name: ikun-music-desktop-v3.3.0-fix.7-win7_x64-Setup.exe.blockmap
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-win7_x64-Setup.exe.blockmap
+- name: ikun-music-desktop-v3.3.0-fix.7-win7_x86-green.7z
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-win7_x86-green.7z
+- name: ikun-music-desktop-v3.3.0-fix.7-win_arm64-green.7z
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-win_arm64-green.7z
+- name: ikun-music-desktop-v3.3.0-fix.7-win_x64-green.7z
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-win_x64-green.7z
+- name: ikun-music-desktop-v3.3.0-fix.7-x64-Setup.exe
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-x64-Setup.exe
+- name: ikun-music-desktop-v3.3.0-fix.7-x64-Setup.exe.blockmap
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-v3.3.0-fix.7-x64-Setup.exe.blockmap
+- name: ikun-music-desktop_3.3.0-fix.7_amd64.deb
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop_3.3.0-fix.7_amd64.deb
+- name: ikun-music-desktop_3.3.0-fix.7_arm64.deb
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop_3.3.0-fix.7_arm64.deb
+- name: ikun-music-desktop_3.3.0-fix.7_armv7l.deb
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop_3.3.0-fix.7_armv7l.deb
+- name: ikun-music-desktop_3.3.0-fix.7_x64.AppImage
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop_3.3.0-fix.7_x64.AppImage
+- name: ikun-music-desktop_3.3.0-fix.7_x64.pacman
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop_3.3.0-fix.7_x64.pacman
+- name: latest-linux-arm.yml
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/latest-linux-arm.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/latest.yml

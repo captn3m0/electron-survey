@@ -3,3 +3,6 @@ website: https://gitscout.com
 download_urls:
 - https://gitscout.com/marshmallows
 name: Gitscout
+downloads:
+- url: https://gitscout.com/marshmallows
+  name: marshmallows

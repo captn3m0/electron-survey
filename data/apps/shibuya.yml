@@ -6,3 +6,22 @@ aur:
 - shibuya-bin
 electron: 32.3.3
 method: aur-depends
+latest: v0.2.8
+src: https://github.com/SkywardAI/shibuya/archive/refs/tags/v0.2.8.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/latest.yml
+- name: Shibuya-0.2.8-arm64-mac.zip
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-0.2.8-arm64-mac.zip
+- name: Shibuya-0.2.8-arm64-mac.zip.blockmap
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-0.2.8-arm64-mac.zip.blockmap
+- name: Shibuya-0.2.8.AppImage
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-0.2.8.AppImage
+- name: Shibuya-Setup-0.2.8.exe
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-Setup-0.2.8.exe
+- name: Shibuya-Setup-0.2.8.exe.blockmap
+  url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-Setup-0.2.8.exe.blockmap

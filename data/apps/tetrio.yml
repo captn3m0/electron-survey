@@ -8,3 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+homebrew: tetrio
+downloads:
+- url: https://tetr.io/about/desktop/builds/10/TETR.IO%20Setup%20arm64.dmg
+  name: TETR.IO%20Setup%20arm64.dmg
+  version: '10'

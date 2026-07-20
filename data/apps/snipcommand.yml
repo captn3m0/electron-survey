@@ -13,3 +13,4 @@ downloads:
 electron: 9.3.0
 method: src-yarn-lock
 name: SnipCommand
+electron_src: https://github.com/gurayyarar/SnipCommand/archive/refs/tags/v0.1.0.zip

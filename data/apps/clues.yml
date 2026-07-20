@@ -6,3 +6,8 @@ aur:
 - clues-git
 electron: 27.3.11
 method: aur-depends
+latest: v1.0.2
+src: https://github.com/mucahit-sahin/CluesApp/archive/refs/tags/v1.0.2.zip
+downloads:
+- name: Clues.App.Setup.1.0.2.exe
+  url: https://github.com/mucahit-sahin/CluesApp/releases/download/v1.0.2/Clues.App.Setup.1.0.2.exe

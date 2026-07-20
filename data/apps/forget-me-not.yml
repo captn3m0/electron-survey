@@ -4,3 +4,8 @@ download_urls:
 - https://update.forget-me-not.app/download/
 - https://update.forget-me-not.app/download/dmg_arm64
 name: Forget Me Not
+downloads:
+- url: https://update.forget-me-not.app/download/
+  name: ''
+- url: https://update.forget-me-not.app/download/dmg_arm64
+  name: dmg_arm64

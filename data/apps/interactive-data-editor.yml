@@ -16,3 +16,4 @@ downloads:
 electron: 17.4.11
 method: src-range-guess
 name: Interactive Data Editor
+electron_src: https://github.com/Koushikphy/Interactive_Data_Editor/archive/refs/tags/v2.13.1.zip

@@ -13,8 +13,39 @@ packages:
   arch: x64
 homebrew: gather
 downloads:
-- url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-arm64-mac.zip
-  name: Gather-1.39.2-arm64-mac.zip
-  version: 1.39.2
+- name: Gather-1.39.2-arm64-mac.zip
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-arm64-mac.zip
+- name: Gather-1.39.2-arm64-mac.zip.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-arm64-mac.zip.blockmap
+- name: Gather-1.39.2-arm64.dmg
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-arm64.dmg
+- name: Gather-1.39.2-arm64.dmg.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-arm64.dmg.blockmap
+- name: Gather-1.39.2-mac.zip
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-mac.zip
+- name: Gather-1.39.2-mac.zip.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-mac.zip.blockmap
+- name: Gather-1.39.2-Setup.exe
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-Setup.exe
+- name: Gather-1.39.2-Setup.exe.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-Setup.exe.blockmap
+- name: Gather-1.39.2-universal-mac.zip
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-universal-mac.zip
+- name: Gather-1.39.2-universal-mac.zip.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-universal-mac.zip.blockmap
+- name: Gather-1.39.2-universal.dmg
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-universal.dmg
+- name: Gather-1.39.2-universal.dmg.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-universal.dmg.blockmap
+- name: Gather-1.39.2.dmg
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2.dmg
+- name: Gather-1.39.2.dmg.blockmap
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/latest.yml
 electron: 37.6.0
 method: which-electron-rg
+latest: v1.39.2
+src: https://github.com/gathertown/gather-town-desktop-releases/archive/refs/tags/v1.39.2.zip

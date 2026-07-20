@@ -6,3 +6,12 @@ aur:
 - jts-hud-manager-git
 electron: 39.8.10
 method: aur-depends
+latest: v7.13.26
+src: https://github.com/JohnTimmermann/JTs-Hud-Manager/archive/refs/tags/v7.13.26.zip
+downloads:
+- name: jts-hud-7.13.26-setup.exe
+  url: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/jts-hud-7.13.26-setup.exe
+- name: jts-hud-7.13.26-unpacked.zip
+  url: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/jts-hud-7.13.26-unpacked.zip
+- name: latest.yml
+  url: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/latest.yml

@@ -6,3 +6,20 @@ aur:
 - qcalc-bin
 electron: 41.10.2
 method: aur-depends
+latest: v0.12.0
+src: https://github.com/from104/qcalc/archive/refs/tags/v0.12.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/latest.yml
+- name: QCalc-0.12.0-android.apk
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-android.apk
+- name: QCalc-0.12.0-linux.AppImage
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.AppImage
+- name: QCalc-0.12.0-linux.flatpak
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.flatpak
+- name: QCalc-0.12.0-linux.snap
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.snap
+- name: QCalc-0.12.0-win.exe
+  url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-win.exe

@@ -6,3 +6,18 @@ aur:
 - stampnyaa-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.6.0
+src: https://github.com/MarvNC/StampNyaa/archive/refs/tags/v1.6.0.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/RELEASES
+- name: stampnyaa-1.6.0-1.x86_64.rpm
+  url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/stampnyaa-1.6.0-1.x86_64.rpm
+- name: stampnyaa-1.6.0-full.nupkg
+  url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/stampnyaa-1.6.0-full.nupkg
+- name: StampNyaa-1.6.0.Setup.exe
+  url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/StampNyaa-1.6.0.Setup.exe
+- name: StampNyaa-darwin-x64-1.6.0.zip
+  url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/StampNyaa-darwin-x64-1.6.0.zip
+- name: stampnyaa_1.6.0_amd64.deb
+  url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/stampnyaa_1.6.0_amd64.deb

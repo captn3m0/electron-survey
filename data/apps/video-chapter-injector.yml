@@ -6,3 +6,14 @@ aur:
 - video-chapter-injector-bin
 electron: 29.4.6
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/markbattistella/video-chapter-injector/archive/refs/tags/1.0.0.zip
+downloads:
+- name: video-chapter-injector-linux.zip
+  url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-linux.zip
+- name: video-chapter-injector-macOS.zip
+  url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-macOS.zip
+- name: video-chapter-injector-win32.zip
+  url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-win32.zip
+- name: video-chapter-injector-win64.zip
+  url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-win64.zip

@@ -15,3 +15,15 @@ packages:
   format: zip
   os: linux
   arch: x64
+latest: v2.4.8
+src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip
+downloads:
+- name: Typesense-Dashboard-darwin-x64-v2.4.8.zip
+  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-darwin-x64-v2.4.8.zip
+- name: Typesense-Dashboard-linux-x64-v2.4.8.zip
+  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-linux-x64-v2.4.8.zip
+- name: Typesense-Dashboard-win32-x64-v2.4.8.zip
+  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-win32-x64-v2.4.8.zip
+electron: 39.2.7
+method: src-package-lock
+electron_src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip

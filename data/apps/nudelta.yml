@@ -4,3 +4,17 @@ website: https://github.com/donn/nudelta
 repository: https://github.com/donn/nudelta
 aur:
 - nudelta
+latest: 0.10.0
+src: https://github.com/donn/nudelta/archive/refs/tags/0.10.0.zip
+downloads:
+- name: nudelta-amd64.AppImage
+  url: https://github.com/donn/nudelta/releases/download/0.10.0/nudelta-amd64.AppImage
+- name: nudelta-arm64.app.dmg
+  url: https://github.com/donn/nudelta/releases/download/0.10.0/nudelta-arm64.app.dmg
+- name: nudelta-x64.exe.zip
+  url: https://github.com/donn/nudelta/releases/download/0.10.0/nudelta-x64.exe.zip
+- name: nudelta-x86_64.app.dmg
+  url: https://github.com/donn/nudelta/releases/download/0.10.0/nudelta-x86_64.app.dmg
+electron: 35.7.5
+method: src-yarn-lock
+electron_src: https://github.com/donn/nudelta/archive/refs/tags/0.10.0.zip

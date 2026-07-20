@@ -8,3 +8,12 @@ packages:
   os: macos
 electron: 0.37.2
 method: which-electron-fingerprint
+latest: v1.3.0
+src: https://github.com/bluedaniel/Kakapo-app/archive/refs/tags/v1.3.0.zip
+downloads:
+- name: Kakapo-1.3.0-Mac.zip
+  url: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/Kakapo-1.3.0-Mac.zip
+- name: Kakapo-1.3.0-Win.zip
+  url: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/Kakapo-1.3.0-Win.zip
+- name: KakapoSetup-1.3.0-Win.exe
+  url: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/KakapoSetup-1.3.0-Win.exe

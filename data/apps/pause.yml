@@ -6,3 +6,26 @@ aur:
 - pause-desktop-bin
 electron: 27.3.11
 method: aur-depends
+latest: v0.9.2
+src: https://github.com/Thomsch/pause/archive/refs/tags/v0.9.2.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/latest.yml
+- name: pause-0.9.2-universal-mac.zip
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-0.9.2-universal-mac.zip
+- name: pause-0.9.2-universal-mac.zip.blockmap
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-0.9.2-universal-mac.zip.blockmap
+- name: pause-0.9.2-universal.dmg
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-0.9.2-universal.dmg
+- name: pause-0.9.2-universal.dmg.blockmap
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-0.9.2-universal.dmg.blockmap
+- name: pause-0.9.2.AppImage
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-0.9.2.AppImage
+- name: pause-Setup-0.9.2.exe
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-Setup-0.9.2.exe
+- name: pause-Setup-0.9.2.exe.blockmap
+  url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-Setup-0.9.2.exe.blockmap

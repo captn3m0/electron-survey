@@ -6,3 +6,10 @@ aur:
 - minterm-bin
 electron: 16.2.8
 method: aur-depends
+latest: release/1.0.0
+src: https://github.com/peace317/minterm/archive/refs/tags/release/1.0.0.zip
+downloads:
+- name: MinTerm-1.0.0.AppImage
+  url: https://github.com/peace317/minterm/releases/download/release/1.0.0/MinTerm-1.0.0.AppImage
+- name: MinTerm.Setup.1.0.0.exe
+  url: https://github.com/peace317/minterm/releases/download/release/1.0.0/MinTerm.Setup.1.0.0.exe

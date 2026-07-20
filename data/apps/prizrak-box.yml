@@ -6,3 +6,40 @@ aur:
 - prizrak-box-bin
 electron: 41.10.2
 method: aur-depends
+latest: v1.0.20
+src: https://github.com/legiz-ru/prizrak-box/archive/refs/tags/v1.0.20.zip
+downloads:
+- name: linux-amd64-aur.tar.zst
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/linux-amd64-aur.tar.zst
+- name: linux-amd64.deb
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/linux-amd64.deb
+- name: linux-amd64.rpm
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/linux-amd64.rpm
+- name: linux-arm64-aur.tar.zst
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/linux-arm64-aur.tar.zst
+- name: linux-arm64.deb
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/linux-arm64.deb
+- name: linux-arm64.rpm
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/linux-arm64.rpm
+- name: macos-amd64.zip
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/macos-amd64.zip
+- name: macos-arm64.zip
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/macos-arm64.zip
+- name: RELEASES
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/RELEASES
+- name: windows-amd64-full.nupkg
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-amd64-full.nupkg
+- name: windows-amd64-Setup.exe
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-amd64-Setup.exe
+- name: windows-amd64.msi
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-amd64.msi
+- name: windows-amd64.zip
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-amd64.zip
+- name: windows-arm64-full.nupkg
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-arm64-full.nupkg
+- name: windows-arm64-Setup.exe
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-arm64-Setup.exe
+- name: windows-arm64.msi
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-arm64.msi
+- name: windows-arm64.zip
+  url: https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.20/windows-arm64.zip

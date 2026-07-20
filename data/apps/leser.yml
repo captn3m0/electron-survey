@@ -6,3 +6,10 @@ aur:
 - leser-git
 electron: 28.3.3
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/KangodYan/leser/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Leser-1.0.0-setup.exe
+  url: https://github.com/kangood/leser/releases/download/v1.0.0/Leser-1.0.0-setup.exe
+- name: Leser-1.0.0.dmg
+  url: https://github.com/kangood/leser/releases/download/v1.0.0/Leser-1.0.0.dmg

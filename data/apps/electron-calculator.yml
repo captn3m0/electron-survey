@@ -6,3 +6,18 @@ aur:
 - electron-calculator-bin
 electron: 22.3.27
 method: aur-depends
+latest: 1.1.2
+src: https://github.com/Alex313031/electron-calculator/archive/refs/tags/1.1.2.zip
+downloads:
+- name: electron-calculator_1.1.2_amd64.deb
+  url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron-calculator_1.1.2_amd64.deb
+- name: electron-calculator_1.1.2_x64.AppImage
+  url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron-calculator_1.1.2_x64.AppImage
+- name: electron-calculator_linux_1.1.2_x64.zip
+  url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron-calculator_linux_1.1.2_x64.zip
+- name: electron_calculator_portable_1.1.2_x64.exe
+  url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron_calculator_portable_1.1.2_x64.exe
+- name: electron_calculator_setup_1.1.2_x64.exe
+  url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron_calculator_setup_1.1.2_x64.exe
+- name: electron_calculator_win64_1.1.2_x64.zip
+  url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron_calculator_win64_1.1.2_x64.zip

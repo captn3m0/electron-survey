@@ -6,3 +6,8 @@ aur:
 - yaste-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/LuanRoger/yaste/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: yaste-v1.1.zip
+  url: https://github.com/LuanRoger/yaste/releases/download/v1.1.0/yaste-v1.1.zip

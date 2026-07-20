@@ -6,3 +6,24 @@ aur:
 - super-controller
 electron: 19.1.9
 method: aur-depends
+latest: v1.3.5
+src: https://github.com/aolsenjazz/super-controller/archive/refs/tags/v1.3.5.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/latest-mac.yml
+- name: SuperController-1.3.5-arm64-mac.zip
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5-arm64-mac.zip
+- name: SuperController-1.3.5-arm64-mac.zip.blockmap
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5-arm64-mac.zip.blockmap
+- name: SuperController-1.3.5-arm64.dmg
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5-arm64.dmg
+- name: SuperController-1.3.5-arm64.dmg.blockmap
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5-arm64.dmg.blockmap
+- name: SuperController-1.3.5-mac.zip
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5-mac.zip
+- name: SuperController-1.3.5-mac.zip.blockmap
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5-mac.zip.blockmap
+- name: SuperController-1.3.5.dmg
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5.dmg
+- name: SuperController-1.3.5.dmg.blockmap
+  url: https://github.com/aolsenjazz/super-controller/releases/download/v1.3.5/SuperController-1.3.5.dmg.blockmap

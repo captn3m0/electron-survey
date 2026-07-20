@@ -19,3 +19,4 @@ downloads:
 electron: 3.0.6
 method: src-yarn-lock
 name: InfiniTex
+electron_src: https://github.com/fetacore/Infinitex/archive/refs/tags/v0.9.16.zip

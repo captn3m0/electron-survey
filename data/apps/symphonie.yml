@@ -6,3 +6,8 @@ aur:
 - symphonie-git
 electron: 28.3.3
 method: aur-depends
+latest: windows-release-v1.0.22
+src: https://github.com/kprakesh1984/symphonie/archive/refs/tags/windows-release-v1.0.22.zip
+downloads:
+- name: Symphonie.1.0.22.zip
+  url: https://github.com/kpr-dev590/symphonie/releases/download/windows-release-v1.0.22/Symphonie.1.0.22.zip

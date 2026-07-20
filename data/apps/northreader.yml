@@ -4,3 +4,8 @@ download_urls:
 - https://buildserver.futureglobe.de/NorthReader/NorthReaderSetup.exe
 - https://buildserver.futureglobe.de/NorthReader/NorthReaderSetup.dmg
 name: NorthReader
+downloads:
+- url: https://buildserver.futureglobe.de/NorthReader/NorthReaderSetup.exe
+  name: NorthReaderSetup.exe
+- url: https://buildserver.futureglobe.de/NorthReader/NorthReaderSetup.dmg
+  name: NorthReaderSetup.dmg

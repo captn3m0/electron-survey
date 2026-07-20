@@ -6,3 +6,31 @@ aur:
 - moyurd
 electron: 38.8.6
 method: aur-depends
+latest: v1.1.1
+src: https://github.com/liuhq/moyurd/archive/refs/tags/v1.1.1.zip
+downloads:
+- name: moyurd-asar-linux-x64-1.1.1.zip
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-asar-linux-x64-1.1.1.zip
+  checksum: 9e1913f4965299b4157fca416caf1d44860a2df018c855f14b5de62ca4d0dcd8
+- name: moyurd-asar-linux-x64-1.1.1.zip.sha256
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-asar-linux-x64-1.1.1.zip.sha256
+- name: moyurd-installer-windows-x64-1.1.1.zip
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-installer-windows-x64-1.1.1.zip
+  checksum: 70D76AAE70D940BA0AE2CCD575833B7A521F8F2D8B84202DBCB54DCC08901C24
+- name: moyurd-installer-windows-x64-1.1.1.zip.sha256
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-installer-windows-x64-1.1.1.zip.sha256
+- name: moyurd-pkg-linux-x64-1.1.1.zip
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-pkg-linux-x64-1.1.1.zip
+  checksum: b7f66d2ed44d25836700ca24bd97f9c0b7150975f871d57b40224f40f67dfb42
+- name: moyurd-pkg-linux-x64-1.1.1.zip.sha256
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-pkg-linux-x64-1.1.1.zip.sha256
+- name: moyurd-pkg-windows-x64-1.1.1.zip
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-pkg-windows-x64-1.1.1.zip
+  checksum: 93D31C78F53509DDBC9F73A42C9235B5BB90ACE10351C51EA56A817723E4D29A
+- name: moyurd-pkg-windows-x64-1.1.1.zip.sha256
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-pkg-windows-x64-1.1.1.zip.sha256
+- name: moyurd_1.1.1_amd64.deb
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd_1.1.1_amd64.deb
+  checksum: 864f0039ff49382857c60e741650b473d16ba6c73e829b41725de5a7b89678bc
+- name: moyurd_1.1.1_amd64.deb.sha256
+  url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd_1.1.1_amd64.deb.sha256

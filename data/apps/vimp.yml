@@ -6,3 +6,8 @@ aur:
 - vimp-git
 electron: 37.10.3
 method: aur-depends
+latest: v0.1.2
+src: https://github.com/Larksel/Vimp/archive/refs/tags/v0.1.2.zip
+downloads:
+- name: VimpCLI.exe
+  url: https://github.com/Larksel/Vimp/releases/download/v0.1.2/VimpCLI.exe

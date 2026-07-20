@@ -21,3 +21,4 @@ downloads:
 electron: 40.0.0
 method: src-package-lock
 name: Assessment Disaggregation
+electron_src: https://github.com/tazzben/Assessment-Disaggregation/archive/refs/tags/v1.7.4.zip

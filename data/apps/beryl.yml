@@ -4,3 +4,17 @@ website: https://github.com/BrenekH/beryl
 repository: https://github.com/BrenekH/beryl
 aur:
 - beryl
+latest: v0.0.5
+src: https://github.com/BrenekH/beryl/archive/refs/tags/v0.0.5.zip
+downloads:
+- name: beryl-0.0.5-linux-amd64-standalone.tar.gz
+  url: https://github.com/BrenekH/beryl/releases/download/v0.0.5/beryl-0.0.5-linux-amd64-standalone.tar.gz
+- name: beryl-0.0.5-macos-amd64-standalone.zip
+  url: https://github.com/BrenekH/beryl/releases/download/v0.0.5/beryl-0.0.5-macos-amd64-standalone.zip
+- name: beryl-0.0.5-windows-amd64-installer.exe
+  url: https://github.com/BrenekH/beryl/releases/download/v0.0.5/beryl-0.0.5-windows-amd64-installer.exe
+- name: beryl-0.0.5-windows-amd64-standalone.zip
+  url: https://github.com/BrenekH/beryl/releases/download/v0.0.5/beryl-0.0.5-windows-amd64-standalone.zip
+electron: 18.2.3
+method: src-package-lock
+electron_src: https://github.com/BrenekH/beryl/archive/refs/tags/v0.0.5.zip

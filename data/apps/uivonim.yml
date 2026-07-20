@@ -7,3 +7,19 @@ aur:
 additionalAUR:
 - uivonim-bin
 - uivonim-git
+latest: v0.29.0
+src: https://github.com/smolck/uivonim/archive/refs/tags/v0.29.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/smolck/uivonim/releases/download/v0.29.0/latest-linux.yml
+- name: uivonim-0.29.0-win.zip
+  url: https://github.com/smolck/uivonim/releases/download/v0.29.0/uivonim-0.29.0-win.zip
+- name: uivonim-0.29.0.AppImage
+  url: https://github.com/smolck/uivonim/releases/download/v0.29.0/uivonim-0.29.0.AppImage
+- name: uivonim-0.29.0.exe
+  url: https://github.com/smolck/uivonim/releases/download/v0.29.0/uivonim-0.29.0.exe
+- name: uivonim-0.29.0.zip
+  url: https://github.com/smolck/uivonim/releases/download/v0.29.0/uivonim-0.29.0.zip
+electron: 15.3.0
+method: src-package-lock
+electron_src: https://github.com/smolck/uivonim/archive/refs/tags/v0.29.0.zip

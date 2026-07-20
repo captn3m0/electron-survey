@@ -1,8 +1,9 @@
 id: symphony
 repository: https://github.com/symphonyoss/SymphonyElectron
 website: https://symphony.com
-latest: v25.11.0
-src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v25.11.0.zip
-electron: 39.0.0
+latest: v26.2.0
+src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v26.2.0.zip
+electron: 39.5.1
 method: src-package-lock
 name: Symphony
+electron_src: https://github.com/symphonyoss/SymphonyElectron/archive/refs/tags/v26.2.0.zip

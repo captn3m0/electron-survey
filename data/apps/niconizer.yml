@@ -6,3 +6,12 @@ aur:
 - niconizer-bin
 electron: 37.10.3
 method: aur-depends
+latest: v2.0.155
+src: https://github.com/matzkoh/niconizer/archive/refs/tags/v2.0.155.zip
+downloads:
+- name: niconizer-darwin-x64.zip
+  url: https://github.com/matzkoh/niconizer/releases/download/v2.0.155/niconizer-darwin-x64.zip
+- name: niconizer-linux-x64.zip
+  url: https://github.com/matzkoh/niconizer/releases/download/v2.0.155/niconizer-linux-x64.zip
+- name: niconizer-win32-x64.zip
+  url: https://github.com/matzkoh/niconizer/releases/download/v2.0.155/niconizer-win32-x64.zip

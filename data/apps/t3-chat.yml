@@ -4,3 +4,19 @@ website: https://github.com/0xGingi/T3_Chat_Electron
 repository: https://github.com/0xGingi/T3_Chat_Electron
 aur:
 - t3-chat-electron-git
+latest: v1.0.0
+src: https://github.com/0xGingi/T3_Chat_Electron/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: t3-chat-desktop-1.0.0.tar.xz
+  url: https://github.com/0xGingi/T3_Chat_Electron/releases/download/v1.0.0/t3-chat-desktop-1.0.0.tar.xz
+- name: t3-chat-desktop_1.0.0_amd64.deb
+  url: https://github.com/0xGingi/T3_Chat_Electron/releases/download/v1.0.0/t3-chat-desktop_1.0.0_amd64.deb
+- name: T3.Chat-1.0.0.AppImage
+  url: https://github.com/0xGingi/T3_Chat_Electron/releases/download/v1.0.0/T3.Chat-1.0.0.AppImage
+- name: T3.Chat.Setup.1.0.0.exe
+  url: https://github.com/0xGingi/T3_Chat_Electron/releases/download/v1.0.0/T3.Chat.Setup.1.0.0.exe
+- name: T3.Chat.Setup.1.0.0.exe.blockmap
+  url: https://github.com/0xGingi/T3_Chat_Electron/releases/download/v1.0.0/T3.Chat.Setup.1.0.0.exe.blockmap
+electron: 33.4.11
+method: src-range-guess
+electron_src: https://github.com/0xGingi/T3_Chat_Electron/archive/refs/tags/v1.0.0.zip

@@ -7,3 +7,8 @@ packages:
 - url: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.148.0-universal.dmg
   format: dmg
   os: macos
+homebrew: mendeley-reference-manager
+downloads:
+- url: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.148.0-universal.dmg
+  name: mendeley-reference-manager-2.148.0-universal.dmg
+  version: 2.148.0

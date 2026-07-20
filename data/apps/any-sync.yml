@@ -6,3 +6,9 @@ aur:
 - any-sync-gui
 electron: 25.9.8
 method: aur-depends
+latest: v1.6.0
+src: https://github.com/easyhutu/any-sync-gui/archive/refs/tags/v1.6.0.zip
+downloads:
+- name: Lan.-darwin-x64-1.2.0.zip
+  url: https://github.com/easyhutu/any-sync-gui/releases/download/v1.6.0/Lan.-darwin-x64-1.2.0.zip
+we_tried: we0:v1.6.0

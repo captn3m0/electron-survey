@@ -27,6 +27,29 @@ electron: 20.3.12
 method: aur-depends
 homebrew: cerebro
 downloads:
-- url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/cerebro-0.11.0.dmg
-  name: cerebro-0.11.0.dmg
-  version: 0.11.0
+- name: Cerebro-0.11.0-mac.zip
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0-mac.zip
+- name: Cerebro-0.11.0-mac.zip.blockmap
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0-mac.zip.blockmap
+- name: Cerebro-0.11.0.AppImage
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.AppImage
+- name: Cerebro-0.11.0.dmg
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.dmg
+- name: Cerebro-0.11.0.dmg.blockmap
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.dmg.blockmap
+- name: Cerebro-0.11.0.exe
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.exe
+- name: Cerebro-Setup-0.11.0.exe
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-Setup-0.11.0.exe
+- name: Cerebro-Setup-0.11.0.exe.blockmap
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-Setup-0.11.0.exe.blockmap
+- name: cerebro_0.11.0_amd64.deb
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/cerebro_0.11.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/latest.yml
+latest: v0.11.0
+src: https://github.com/cerebroapp/cerebro/archive/refs/tags/v0.11.0.zip

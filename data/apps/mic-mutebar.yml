@@ -6,3 +6,18 @@ aur:
 - mic-mutebar-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.4.1
+src: https://github.com/azu/mic-mutebar/archive/refs/tags/v1.4.1.zip
+downloads:
+- name: mic-mutebar-1.4.1-1.x86_64.rpm
+  url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/mic-mutebar-1.4.1-1.x86_64.rpm
+- name: mic-mutebar-1.4.1-full.nupkg
+  url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/mic-mutebar-1.4.1-full.nupkg
+- name: mic-mutebar-1.4.1.Setup.exe
+  url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/mic-mutebar-1.4.1.Setup.exe
+- name: mic-mutebar-darwin-x64-1.4.1.zip
+  url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/mic-mutebar-darwin-x64-1.4.1.zip
+- name: mic-mutebar_1.4.1_amd64.deb
+  url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/mic-mutebar_1.4.1_amd64.deb
+- name: RELEASES
+  url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/RELEASES

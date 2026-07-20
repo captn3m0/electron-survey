@@ -6,3 +6,12 @@ aur:
 - passbox
 electron: 24.8.8
 method: aur-depends
+latest: v1.1.0-alpha.1
+src: https://github.com/zzk13180/passbox/archive/refs/tags/v1.1.0-alpha.1.zip
+downloads:
+- name: passbox-1.1.0-arm64.dmg
+  url: https://github.com/zzk13180/passbox/releases/download/v1.1.0-alpha.1/passbox-1.1.0-arm64.dmg
+- name: passbox-1.1.0.dmg
+  url: https://github.com/zzk13180/passbox/releases/download/v1.1.0-alpha.1/passbox-1.1.0.dmg
+- name: passbox.Setup.1.1.0.exe
+  url: https://github.com/zzk13180/passbox/releases/download/v1.1.0-alpha.1/passbox.Setup.1.1.0.exe

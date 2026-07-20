@@ -4,3 +4,16 @@ website: https://github.com/andyyoungm/muenzo
 repository: https://github.com/andyyoungm/muenzo
 aur:
 - noteey-bin
+latest: v1.60.1
+src: https://github.com/andyyoungm/muenzo/archive/refs/tags/v1.60.1.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/latest.yml
+- name: Noteey-1.60.1.universal.dmg
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/Noteey-1.60.1.universal.dmg
+- name: Noteey-1.60.1.universal.zip
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/Noteey-1.60.1.universal.zip
+- name: Noteey-Setup-1.60.1.exe
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/Noteey-Setup-1.60.1.exe

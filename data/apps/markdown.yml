@@ -4,3 +4,21 @@ website: https://github.com/JP1016/Markdown-Electron
 repository: https://github.com/JP1016/Markdown-Electron
 aur:
 - markdown-electron
+latest: '1'
+src: https://github.com/JP1016/Markdown-Electron/archive/refs/tags/1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/JP1016/Markdown-Electron/releases/download/1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/JP1016/Markdown-Electron/releases/download/1/latest-mac.yml
+- name: MarkdownEditor-6.1.0.AppImage
+  url: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor-6.1.0.AppImage
+- name: MarkdownEditor-6.1.0.dmg
+  url: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor-6.1.0.dmg
+- name: MarkdownEditor-6.1.0.dmg.blockmap
+  url: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor-6.1.0.dmg.blockmap
+- name: MarkdownEditor.6.1.0.exe
+  url: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor.6.1.0.exe
+electron: 6.1.12
+method: src-range-guess
+electron_src: https://github.com/JP1016/Markdown-Electron/archive/refs/tags/1.zip

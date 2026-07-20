@@ -6,3 +6,20 @@ aur:
 - yt-dlandcut-bin
 electron: 25.9.8
 method: aur-depends
+latest: v3.0.0
+src: https://github.com/Markkop/yt-dlandcut/archive/refs/tags/v3.0.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/latest-mac.yml
+- name: yt-dlandcut-3.0.0.AppImage
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
+- name: yt-dlandcut-3.0.0.dmg
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.dmg
+- name: yt-dlandcut-3.0.0.dmg.blockmap
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.dmg.blockmap
+- name: yt-dlandcut-3.0.0.exe
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.exe

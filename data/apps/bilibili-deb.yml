@@ -13,3 +13,49 @@ additionalAUR:
 - bilibili-linux-git
 electron: 28.3.3
 method: aur-depends
+latest: v1.17.9-1
+src: https://github.com/msojocs/bilibili-linux/archive/refs/tags/v1.17.9-1.zip
+downloads:
+- name: bilibili-1.17.9-arm64.AppImage
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9-arm64.AppImage
+- name: bilibili-1.17.9-arm64.exe
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9-arm64.exe
+- name: bilibili-1.17.9-loong64.AppImage
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9-loong64.AppImage
+- name: bilibili-1.17.9-x64.exe
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9-x64.exe
+- name: bilibili-1.17.9-x86_64.AppImage
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9-x86_64.AppImage
+- name: bilibili-1.17.9.aarch64.rpm
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9.aarch64.rpm
+- name: bilibili-1.17.9.exe
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9.exe
+- name: bilibili-1.17.9.loongarch64_abi1.rpm
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9.loongarch64_abi1.rpm
+- name: bilibili-1.17.9.loongarch64_abi2.rpm
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9.loongarch64_abi2.rpm
+- name: bilibili-1.17.9.x86_64.rpm
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-1.17.9.x86_64.rpm
+- name: bilibili-asar-v1.17.9-1.tar.gz
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-asar-v1.17.9-1.tar.gz
+- name: bilibili-v1.17.9-1-arm64.tar.gz
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-v1.17.9-1-arm64.tar.gz
+- name: bilibili-v1.17.9-1-loong64.tar.gz
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-v1.17.9-1-loong64.tar.gz
+- name: bilibili-v1.17.9-1-loongarch64.tar.gz
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-v1.17.9-1-loongarch64.tar.gz
+- name: bilibili-v1.17.9-1-x64.tar.gz
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili-v1.17.9-1-x64.tar.gz
+- name: bilibili_1.17.9_loong64.deb
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili_1.17.9_loong64.deb
+- name: bilibili_1.17.9_loongarch64.deb
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/bilibili_1.17.9_loongarch64.deb
+- name: extensions-v1.17.9-1.tar.gz
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/extensions-v1.17.9-1.tar.gz
+- name: io.github.msojocs.bilibili_1.17.9-1_amd64.deb
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/io.github.msojocs.bilibili_1.17.9-1_amd64.deb
+- name: io.github.msojocs.bilibili_1.17.9-1_arm64.deb
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/io.github.msojocs.bilibili_1.17.9-1_arm64.deb
+- name: io.github.msojocs.bilibili_1.17.9-1_loong64.deb
+  url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/io.github.msojocs.bilibili_1.17.9-1_loong64.deb
+we_tried: we0:v1.17.9-1

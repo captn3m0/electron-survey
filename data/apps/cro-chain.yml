@@ -6,3 +6,28 @@ aur:
 - cro-chain-desktop
 electron: 19.1.9
 method: aur-depends
+latest: v1.5.1
+src: https://github.com/crypto-com/chain-desktop-wallet/archive/refs/tags/v1.5.1.zip
+downloads:
+- name: Crypto.com-DeFi-Desktop-Wallet-1.5.1-mac.zip
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1-mac.zip
+- name: Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage
+- name: Crypto.com-DeFi-Desktop-Wallet-1.5.1.dmg
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.dmg
+- name: Crypto.com-DeFi-Desktop-Wallet-1.5.1.dmg.blockmap
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.dmg.blockmap
+- name: Crypto.com-DeFi-Desktop-Wallet-1.5.1.pkg
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.pkg
+- name: Crypto.com.DeFi.Desktop.Wallet-1.5.1-mac.zip.blockmap
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com.DeFi.Desktop.Wallet-1.5.1-mac.zip.blockmap
+- name: Crypto.com.DeFi.Desktop.Wallet.Setup.1.5.1.exe
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com.DeFi.Desktop.Wallet.Setup.1.5.1.exe
+- name: Crypto.com.DeFi.Desktop.Wallet.Setup.1.5.1.exe.blockmap
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com.DeFi.Desktop.Wallet.Setup.1.5.1.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/latest.yml

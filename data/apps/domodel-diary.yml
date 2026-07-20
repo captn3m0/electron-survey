@@ -21,3 +21,4 @@ downloads:
 electron: 15.1.1
 method: src-package-lock
 name: domodel-diary
+electron_src: https://github.com/thoughtsunificator/domodel-diary-electron/archive/refs/tags/v1.0.12.zip

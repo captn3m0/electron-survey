@@ -6,3 +6,18 @@ aur:
 - pflux-git
 electron: 26.6.10
 method: aur-depends
+latest: v0.3.1
+src: https://github.com/gaspardruan/pflux/archive/refs/tags/v0.3.1.zip
+downloads:
+- name: Pflux-0.3.1-arm64-mac.zip
+  url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-0.3.1-arm64-mac.zip
+- name: Pflux-0.3.1-arm64.AppImage
+  url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-0.3.1-arm64.AppImage
+- name: Pflux-0.3.1-arm64.dmg
+  url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-0.3.1-arm64.dmg
+- name: Pflux-0.3.1-mac.zip
+  url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-0.3.1-mac.zip
+- name: Pflux-0.3.1.dmg
+  url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-0.3.1.dmg
+- name: Pflux-Setup-0.3.1.exe
+  url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-Setup-0.3.1.exe

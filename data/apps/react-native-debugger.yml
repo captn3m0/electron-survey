@@ -17,8 +17,25 @@ packages:
   arch: x64
 homebrew: react-native-debugger
 downloads:
-- url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-macos-universal.zip
-  name: rn-debugger-macos-universal.zip
-  version: 0.14.0
+- name: react-native-debugger-0.14.0-1.amd64.rpm
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger-0.14.0-1.amd64.rpm
+- name: react-native-debugger_0.14.0_amd64.deb
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger_0.14.0_amd64.deb
+- name: react-native-debugger_0.14.0_universal.dmg
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger_0.14.0_universal.dmg
+- name: react_native_debugger-0.14.0-setup.exe
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react_native_debugger-0.14.0-setup.exe
+- name: rn-debugger-linux-x64.zip
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-linux-x64.zip
+- name: rn-debugger-macos-arm64.zip
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-macos-arm64.zip
+- name: rn-debugger-macos-universal.zip
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-macos-universal.zip
+- name: rn-debugger-macos-x64.zip
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-macos-x64.zip
+- name: rn-debugger-windows-x64.zip
+  url: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-windows-x64.zip
 electron: 25.3.0
 method: which-electron-rg
+latest: v0.14.0
+src: https://github.com/jhen0409/react-native-debugger/archive/refs/tags/v0.14.0.zip

@@ -15,3 +15,17 @@ packages:
   format: deb
   os: linux
   arch: x64
+latest: v1.1.7
+src: https://github.com/IceEnd/Yosoro/archive/refs/tags/v1.1.7.zip
+downloads:
+- name: yosoro-linux.deb
+  url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/yosoro-linux.deb
+- name: Yosoro-osx.dmg
+  url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-osx.dmg
+- name: Yosoro-win32-x64-setup.zip
+  url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-win32-x64-setup.zip
+- name: Yosoro-win32-x64.zip
+  url: https://github.com/IceEnd/Yosoro/releases/download/v1.1.7/Yosoro-win32-x64.zip
+electron: 5.0.6
+method: src-yarn-lock
+electron_src: https://github.com/IceEnd/Yosoro/archive/refs/tags/v1.1.7.zip

@@ -6,3 +6,32 @@ aur:
 - lantalk-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.0.4
+src: https://github.com/scriptkavi/lantalk/archive/refs/tags/v1.0.4.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/builder-debug.yml
+- name: LanTalk-1.0.4-arm64-mac.zip
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/LanTalk-1.0.4-arm64-mac.zip
+- name: LanTalk-1.0.4-arm64-mac.zip.blockmap
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/LanTalk-1.0.4-arm64-mac.zip.blockmap
+- name: lantalk-1.0.4-setup.exe
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk-1.0.4-setup.exe
+- name: lantalk-1.0.4-setup.exe.blockmap
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk-1.0.4-setup.exe.blockmap
+- name: lantalk-1.0.4.AppImage
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk-1.0.4.AppImage
+- name: lantalk-1.0.4.dmg
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk-1.0.4.dmg
+- name: lantalk-1.0.4.dmg.blockmap
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk-1.0.4.dmg.blockmap
+- name: lantalk_1.0.4_amd64.deb
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk_1.0.4_amd64.deb
+- name: lantalk_1.0.4_amd64.snap
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk_1.0.4_amd64.snap
+- name: latest-linux.yml
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/latest.yml

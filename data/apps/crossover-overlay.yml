@@ -4,3 +4,71 @@ website: https://github.com/lacymorrow/crossover
 repository: https://github.com/lacymorrow/crossover
 aur:
 - crossover-overlay-bin
+latest: v3.4.1
+src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.1.zip
+downloads:
+- name: CrossOver-3.4.1-amd64.deb
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-amd64.deb
+- name: CrossOver-3.4.1-amd64.snap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-amd64.snap
+- name: CrossOver-3.4.1-arm64.dmg
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-arm64.dmg
+- name: CrossOver-3.4.1-arm64.dmg.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-arm64.dmg.blockmap
+- name: CrossOver-3.4.1-arm64.zip
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-arm64.zip
+- name: CrossOver-3.4.1-arm64.zip.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-arm64.zip.blockmap
+- name: CrossOver-3.4.1-i386.AppImage
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-i386.AppImage
+- name: CrossOver-3.4.1-i386.deb
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-i386.deb
+- name: CrossOver-3.4.1-i686.pacman
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-i686.pacman
+- name: CrossOver-3.4.1-ia32.apk
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-ia32.apk
+- name: CrossOver-3.4.1-ia32.freebsd
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-ia32.freebsd
+- name: CrossOver-3.4.1-universal.dmg
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-universal.dmg
+- name: CrossOver-3.4.1-universal.dmg.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-universal.dmg.blockmap
+- name: CrossOver-3.4.1-universal.zip
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-universal.zip
+- name: CrossOver-3.4.1-universal.zip.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-universal.zip.blockmap
+- name: CrossOver-3.4.1-x64.apk
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.apk
+- name: CrossOver-3.4.1-x64.dmg
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.dmg
+- name: CrossOver-3.4.1-x64.dmg.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.dmg.blockmap
+- name: CrossOver-3.4.1-x64.freebsd
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.freebsd
+- name: CrossOver-3.4.1-x64.pacman
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.pacman
+- name: CrossOver-3.4.1-x64.zip
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.zip
+- name: CrossOver-3.4.1-x64.zip.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x64.zip.blockmap
+- name: CrossOver-3.4.1-x86_64.AppImage
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-x86_64.AppImage
+- name: CrossOver-3.4.1.exe
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1.exe
+- name: CrossOver-3.4.1.exe.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1.exe.blockmap
+- name: CrossOver-Portable-3.4.1.exe
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-Portable-3.4.1.exe
+- name: CrossOver.exe
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver.exe
+- name: latest-linux-ia32.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/latest-linux-ia32.yml
+- name: latest-linux.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/latest.yml
+electron: 14.2.9
+method: src-range-guess
+electron_src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.1.zip

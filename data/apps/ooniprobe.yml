@@ -6,3 +6,26 @@ aur:
 - ooniprobe-desktop-bin
 electron: 12.2.3
 method: aur-depends
+latest: v3.10.1
+src: https://github.com/ooni/probe-desktop/archive/refs/tags/v3.10.1.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/latest.yml
+- name: OONI-Probe-3.10.1-mac.zip
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-3.10.1-mac.zip
+- name: OONI-Probe-3.10.1.AppImage
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-3.10.1.AppImage
+- name: OONI-Probe-3.10.1.dmg
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-3.10.1.dmg
+- name: OONI-Probe-3.10.1.dmg.blockmap
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-3.10.1.dmg.blockmap
+- name: OONI-Probe-Setup-3.10.1.exe
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-Setup-3.10.1.exe
+- name: OONI-Probe-Setup-3.10.1.exe.blockmap
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-Setup-3.10.1.exe.blockmap
+- name: OONI.Probe-3.10.1-mac.zip.blockmap
+  url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI.Probe-3.10.1-mac.zip.blockmap

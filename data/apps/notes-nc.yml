@@ -6,3 +6,16 @@ aur:
 - notes-nc-bin
 electron: 26.6.10
 method: aur-depends
+latest: v0.8.0
+src: https://github.com/mscharley/notes-nc/archive/refs/tags/v0.8.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/latest.yml
+- name: Notes-0.8.0.AppImage
+  url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-0.8.0.AppImage
+- name: Notes-Setup-0.8.0.exe
+  url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-Setup-0.8.0.exe
+- name: Notes-Setup-0.8.0.exe.blockmap
+  url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-Setup-0.8.0.exe.blockmap

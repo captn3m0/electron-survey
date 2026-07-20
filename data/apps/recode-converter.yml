@@ -27,3 +27,4 @@ downloads:
 electron: 40.6.1
 method: src-pnpm-lock
 name: Recode Converter
+electron_src: https://github.com/murgatt/recode-converter/archive/refs/tags/v2.1.1.zip

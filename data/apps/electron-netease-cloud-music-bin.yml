@@ -7,3 +7,11 @@ repository: https://github.com/Rocket1184/electron-netease-cloud-music
 additionalAUR:
 - electron-netease-cloud-music-bin
 - electron-netease-cloud-music-git
+latest: v0.9.40
+src: https://github.com/Rocket1184/electron-netease-cloud-music/archive/refs/tags/v0.9.40.zip
+downloads:
+- name: electron-netease-cloud-music_v0.9.40.asar
+  url: https://github.com/Rocket1184/electron-netease-cloud-music/releases/download/v0.9.40/electron-netease-cloud-music_v0.9.40.asar
+electron: 35.0.1
+method: src-yarn-lock
+electron_src: https://github.com/Rocket1184/electron-netease-cloud-music/archive/refs/tags/v0.9.40.zip

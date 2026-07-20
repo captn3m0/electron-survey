@@ -8,3 +8,36 @@ additionalAUR:
 - less-player-git
 electron: 22.3.27
 method: aur-depends
+latest: v0.1.37
+src: https://github.com/GeekLee2012/Less-Player-Desktop/archive/refs/tags/v0.1.37.zip
+downloads:
+- name: app.asar
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/app.asar
+- name: Less.Player.v0.1.37.linux-arm64.AppImage
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.linux-arm64.AppImage
+- name: Less.Player.v0.1.37.linux-x86_64.AppImage
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.linux-x86_64.AppImage
+- name: Less.Player.v0.1.37.mac-arm64.dmg
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.mac-arm64.dmg
+- name: Less.Player.v0.1.37.mac-arm64.zip
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.mac-arm64.zip
+- name: Less.Player.v0.1.37.mac-x64.dmg
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.mac-x64.dmg
+- name: Less.Player.v0.1.37.mac-x64.zip
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.mac-x64.zip
+- name: Less.Player.v0.1.37.win-arm64.exe
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.win-arm64.exe
+- name: Less.Player.v0.1.37.win-arm64.zip
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.win-arm64.zip
+- name: Less.Player.v0.1.37.win-ia32.exe
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.win-ia32.exe
+- name: Less.Player.v0.1.37.win-ia32.zip
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.win-ia32.zip
+- name: Less.Player.v0.1.37.win-x64.exe
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.win-x64.exe
+- name: Less.Player.v0.1.37.win-x64.zip
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.win-x64.zip
+- name: WawaSC-Regular.otf
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/WawaSC-Regular.otf
+- name: WawaSC-Regular.ttf
+  url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/WawaSC-Regular.ttf

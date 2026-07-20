@@ -6,3 +6,10 @@ aur:
 - emsmediasystem-bin
 electron: 34.5.8
 method: aur-depends
+latest: 6.4.3
+src: https://github.com/clockley/EjaxMediaSystem/archive/refs/tags/6.4.3.zip
+downloads:
+- name: EMS.Media.System-6.4.3.AppImage
+  url: https://github.com/clockley/EMSMediaSystem/releases/download/6.4.3/EMS.Media.System-6.4.3.AppImage
+- name: EMS.Media.System.Setup.6.4.3.exe
+  url: https://github.com/clockley/EMSMediaSystem/releases/download/6.4.3/EMS.Media.System.Setup.6.4.3.exe

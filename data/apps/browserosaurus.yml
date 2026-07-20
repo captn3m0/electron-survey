@@ -17,3 +17,4 @@ packages:
   os: macos
   arch: arm64
 name: Browserosaurus
+electron_src: https://github.com/will-stone/browserosaurus/archive/refs/tags/v20.12.0.zip

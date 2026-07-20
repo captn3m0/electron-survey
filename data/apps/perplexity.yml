@@ -8,3 +8,12 @@ packages:
 - url: https://macos-download.perplexity.ai/Perplexity.dmg
   format: dmg
   os: macos
+latest: v1.6.0-1
+src: https://github.com/mazixs/perplexity/archive/refs/tags/v1.6.0-1.zip
+downloads:
+- name: perplexity-1.6.0-1-x86_64.pkg.tar.zst
+  url: https://github.com/mazixs/perplexity/releases/download/v1.6.0-1/perplexity-1.6.0-1-x86_64.pkg.tar.zst
+- url: https://macos-download.perplexity.ai/Perplexity.dmg
+  name: Perplexity.dmg
+  version: 26.28.0
+homebrew: perplexity

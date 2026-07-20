@@ -6,3 +6,22 @@ aur:
 - oba-live-tool-git
 electron: 36.9.5
 method: aur-depends
+latest: v1.6.1
+src: https://github.com/qiutongxue/oba-live-tool/archive/refs/tags/v1.6.1.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/latest.yml
+- name: oba-live-tool_1.6.1_macos_arm64.dmg
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_macos_arm64.dmg
+- name: oba-live-tool_1.6.1_macos_arm64.dmg.blockmap
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_macos_arm64.dmg.blockmap
+- name: oba-live-tool_1.6.1_macos_x64.dmg
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_macos_x64.dmg
+- name: oba-live-tool_1.6.1_macos_x64.dmg.blockmap
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_macos_x64.dmg.blockmap
+- name: oba-live-tool_1.6.1_windows_x64.exe
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_windows_x64.exe
+- name: oba-live-tool_1.6.1_windows_x64.exe.blockmap
+  url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_windows_x64.exe.blockmap

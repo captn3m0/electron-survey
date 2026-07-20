@@ -6,3 +6,14 @@ aur:
 - joystick-bin
 electron: 32.3.3
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/zenineasa/joystick/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: joystick-1.0.0-1.x86_64.rpm
+  url: https://github.com/zenineasa/Joycast/releases/download/v1.0.0/joystick-1.0.0-1.x86_64.rpm
+- name: joystick-1.0.0-x64.dmg
+  url: https://github.com/zenineasa/Joycast/releases/download/v1.0.0/joystick-1.0.0-x64.dmg
+- name: joystick-1.0.0.Setup.exe
+  url: https://github.com/zenineasa/Joycast/releases/download/v1.0.0/joystick-1.0.0.Setup.exe
+- name: joystick_1.0.0_amd64.deb
+  url: https://github.com/zenineasa/Joycast/releases/download/v1.0.0/joystick_1.0.0_amd64.deb

@@ -31,3 +31,4 @@ downloads:
 electron: 10.3.2
 method: src-package-lock
 name: Unofficial Desktop Client for Google Assistant
+electron_src: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/archive/refs/tags/v1.1.0.zip

@@ -5,3 +5,8 @@ aur:
 - comet-bin
 electron: 33.4.11
 method: aur-depends
+homebrew: comet
+downloads:
+- url: https://www.perplexity.ai/rest/browser/download?channel=stable&platform=mac_arm64
+  name: download
+  version: 145.2.7632.4581

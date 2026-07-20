@@ -27,3 +27,20 @@ aur:
 - webgal-terre-bin
 electron: 29.4.6
 method: aur-depends
+latest: 4.6.2
+src: https://github.com/OpenWebGAL/WebGAL_Terre/archive/refs/tags/4.6.2.zip
+downloads:
+- name: WebGAL_Terre_Android_4.6.2.apk
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Android_4.6.2.apk
+- name: WebGAL_Terre_Linux_4.6.2.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Linux_4.6.2.zip
+- name: WebGAL_Terre_Linux_Arm64_4.6.2.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Linux_Arm64_4.6.2.zip
+- name: WebGAL_Terre_Mac_4.6.2.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Mac_4.6.2.zip
+- name: WebGAL_Terre_Mac_Intel_4.6.2.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Mac_Intel_4.6.2.zip
+- name: WebGAL_Terre_Windows_4.6.2.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Windows_4.6.2.zip
+- name: WebGAL_Terre_Windows_Setup_4.6.2.exe
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Windows_Setup_4.6.2.exe

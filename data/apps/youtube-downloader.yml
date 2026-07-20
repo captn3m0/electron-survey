@@ -9,3 +9,8 @@ packages:
   os: macos
 electron: 31.7.7
 method: aur-depends
+homebrew: youtube-downloader
+downloads:
+- url: https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/download/v0.23/Youtube.Downloader.zip
+  name: Youtube.Downloader.zip
+  version: '0.23'

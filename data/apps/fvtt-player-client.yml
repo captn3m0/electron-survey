@@ -4,3 +4,21 @@ website: https://github.com/theripper93/fvtt-player-client
 repository: https://github.com/theripper93/fvtt-player-client
 aur:
 - fvtt-player-client
+latest: 1.5.5
+src: https://github.com/theripper93/fvtt-player-client/archive/refs/tags/1.5.5.zip
+downloads:
+- name: vtt-desktop-client-1.5.5-1.x86_64.rpm
+  url: https://github.com/theripper93/fvtt-player-client/releases/download/1.5.5/vtt-desktop-client-1.5.5-1.x86_64.rpm
+- name: vtt-desktop-client-linux-x64-1.5.5.zip
+  url: https://github.com/theripper93/fvtt-player-client/releases/download/1.5.5/vtt-desktop-client-linux-x64-1.5.5.zip
+- name: vtt-desktop-client-macos-arm64-1.5.5.zip
+  url: https://github.com/theripper93/fvtt-player-client/releases/download/1.5.5/vtt-desktop-client-macos-arm64-1.5.5.zip
+- name: vtt-desktop-client-windows-x64-1.5.5-setup.exe
+  url: https://github.com/theripper93/fvtt-player-client/releases/download/1.5.5/vtt-desktop-client-windows-x64-1.5.5-setup.exe
+- name: vtt-desktop-client-windows-x64-portable-1.5.5.zip
+  url: https://github.com/theripper93/fvtt-player-client/releases/download/1.5.5/vtt-desktop-client-windows-x64-portable-1.5.5.zip
+- name: vtt-desktop-client_1.5.5_amd64.deb
+  url: https://github.com/theripper93/fvtt-player-client/releases/download/1.5.5/vtt-desktop-client_1.5.5_amd64.deb
+electron: 29.4.5
+method: src-yarn-lock
+electron_src: https://github.com/theripper93/fvtt-player-client/archive/refs/tags/1.5.5.zip

@@ -6,3 +6,14 @@ aur:
 - deezer-enhanced
 electron: 37.10.3
 method: aur-depends
+latest: v1.5.1
+src: https://github.com/duzda/deezer-enhanced/archive/refs/tags/v1.5.1.zip
+downloads:
+- name: deezer-enhanced-1.5.1-1.x86_64.rpm
+  url: https://github.com/duzda/deezer-enhanced/releases/download/v1.5.1/deezer-enhanced-1.5.1-1.x86_64.rpm
+- name: deezer-enhanced-1.5.1.pacman
+  url: https://github.com/duzda/deezer-enhanced/releases/download/v1.5.1/deezer-enhanced-1.5.1.pacman
+- name: deezer-enhanced_1.5.1_amd64.deb
+  url: https://github.com/duzda/deezer-enhanced/releases/download/v1.5.1/deezer-enhanced_1.5.1_amd64.deb
+- name: Deezer.Enhanced-1.5.1-x64.AppImage
+  url: https://github.com/duzda/deezer-enhanced/releases/download/v1.5.1/Deezer.Enhanced-1.5.1-x64.AppImage

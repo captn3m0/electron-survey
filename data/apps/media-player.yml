@@ -6,3 +6,8 @@ aur:
 - media-player-electron-git
 electron: 26.6.10
 method: aur-depends
+latest: v0.0.2-alpha
+src: https://github.com/cesar-al-dev/media-player-electron/archive/refs/tags/v0.0.2-alpha.zip
+downloads:
+- name: ElectronMediaPlayer-Windows-0.0.2-Setup.exe
+  url: https://github.com/cesar-al-dev/media-player-electron/releases/download/v0.0.2-alpha/ElectronMediaPlayer-Windows-0.0.2-Setup.exe

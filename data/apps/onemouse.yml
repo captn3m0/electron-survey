@@ -6,3 +6,12 @@ aur:
 - onemouse-bin
 electron: 30.5.1
 method: aur-depends
+latest: v2.0.0
+src: https://github.com/Scanood/onemouse/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: onemouse-2.0.0-1.x86_64.rpm
+  url: https://github.com/mppon/onemouse/releases/download/v2.0.0/onemouse-2.0.0-1.x86_64.rpm
+- name: onemouse-win32-x64.zip
+  url: https://github.com/mppon/onemouse/releases/download/v2.0.0/onemouse-win32-x64.zip
+- name: onemouse_2.0.0_amd64.deb
+  url: https://github.com/mppon/onemouse/releases/download/v2.0.0/onemouse_2.0.0_amd64.deb

@@ -17,7 +17,22 @@ packages:
   arch: x64
 homebrew: hoppscotch
 downloads:
-- url: https://github.com/hoppscotch/releases/releases/download/v26.6.0-0/Hoppscotch_mac_aarch64.dmg
-  name: Hoppscotch_mac_aarch64.dmg
-  version: 26.6.0-0
+- name: Hoppscotch_SelfHost_linux_x64.AppImage
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_linux_x64.AppImage
+- name: Hoppscotch_SelfHost_linux_x64.deb
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_linux_x64.deb
+- name: Hoppscotch_SelfHost_mac_aarch64.dmg
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_mac_aarch64.dmg
+- name: Hoppscotch_SelfHost_mac_aarch64.tar.gz
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_mac_aarch64.tar.gz
+- name: Hoppscotch_SelfHost_mac_x64.dmg
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_mac_x64.dmg
+- name: Hoppscotch_SelfHost_mac_x64.tar.gz
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_mac_x64.tar.gz
+- name: Hoppscotch_SelfHost_win_x64.msi
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_win_x64.msi
+- name: Hoppscotch_SelfHost_win_x64_portable.zip
+  url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_win_x64_portable.zip
 we_tried: urls:b92dde207af5
+latest: v26.6.1-0
+src: https://github.com/hoppscotch/releases/archive/refs/tags/v26.6.1-0.zip

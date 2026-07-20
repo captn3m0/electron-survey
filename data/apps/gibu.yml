@@ -3,3 +3,6 @@ website: https://gibu.futureglobe.de/
 download_urls:
 - https://buildserver.futureglobe.de/Gibu/GibuSetup.exe
 name: Gibu
+downloads:
+- url: https://buildserver.futureglobe.de/Gibu/GibuSetup.exe
+  name: GibuSetup.exe

@@ -19,3 +19,4 @@ downloads:
 electron: 40.8.0
 method: src-package-lock
 name: Boost Changer
+electron_src: https://github.com/nbebaw/boostchanger/archive/refs/tags/v5.2.0.zip

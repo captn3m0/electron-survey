@@ -14,3 +14,5 @@ additionalAUR:
 - inkdown-git
 electron: 35.7.5
 method: aur-depends
+latest: v2.0.1
+src: https://github.com/1943time/inkdown/archive/refs/tags/v2.0.1.zip

@@ -37,3 +37,4 @@ method: src-yarn-lock
 aur:
 - linked-bin
 name: linked
+electron_src: https://github.com/lostdesign/linked/archive/refs/tags/v1.5.2.zip

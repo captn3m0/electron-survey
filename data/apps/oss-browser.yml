@@ -19,8 +19,17 @@ aur:
 - oss-browser
 homebrew: oss-browser
 downloads:
-- url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-darwin-x64.zip
-  name: oss-browser-darwin-x64.zip
-  version: 1.18.0
+- name: oss-browser-darwin-x64.zip
+  url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-darwin-x64.zip
+- name: oss-browser-linux-ia32.zip
+  url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-linux-ia32.zip
+- name: oss-browser-linux-x64.zip
+  url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-linux-x64.zip
+- name: oss-browser-win32-ia32.zip
+  url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-win32-ia32.zip
+- name: oss-browser-win32-x64.zip
+  url: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-win32-x64.zip
 electron: 1.8.4
 method: which-electron-version_file
+latest: v1.18.0
+src: https://github.com/aliyun/oss-browser/archive/refs/tags/v1.18.0.zip

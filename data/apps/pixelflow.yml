@@ -6,3 +6,5 @@ aur:
 - pixelflow
 electron: 34.5.8
 method: aur-depends
+latest: 2.0.0
+src: https://github.com/FayazK/Pixelflow/archive/refs/tags/2.0.0.zip

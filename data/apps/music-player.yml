@@ -17,3 +17,4 @@ method: src-package-lock
 aur:
 - music-player
 name: music-player
+electron_src: https://github.com/Aveek-Saha/MusicPlayer/archive/refs/tags/v7.0.0.zip

@@ -6,3 +6,34 @@ aur:
 - chatspot-bin
 electron: 26.6.10
 method: aur-depends
+latest: v0.0.6
+src: https://github.com/gusye1234/chat-spot/archive/refs/tags/v0.0.6.zip
+downloads:
+- name: ChatSpot-0.0.6-arm64-mac.zip
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6-arm64-mac.zip
+- name: ChatSpot-0.0.6-arm64-mac.zip.blockmap
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6-arm64-mac.zip.blockmap
+- name: ChatSpot-0.0.6-arm64.dmg
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6-arm64.dmg
+- name: ChatSpot-0.0.6-arm64.dmg.blockmap
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6-arm64.dmg.blockmap
+- name: ChatSpot-0.0.6-mac.zip
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6-mac.zip
+- name: ChatSpot-0.0.6-mac.zip.blockmap
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6-mac.zip.blockmap
+- name: ChatSpot-0.0.6.AppImage
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6.AppImage
+- name: ChatSpot-0.0.6.dmg
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6.dmg
+- name: ChatSpot-0.0.6.dmg.blockmap
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-0.0.6.dmg.blockmap
+- name: ChatSpot-Setup-0.0.6.exe
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-Setup-0.0.6.exe
+- name: ChatSpot-Setup-0.0.6.exe.blockmap
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/ChatSpot-Setup-0.0.6.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/gusye1234/chat-spot/releases/download/v0.0.6/latest.yml

@@ -6,3 +6,18 @@ aur:
 - fusionkit-git
 electron: 33.4.11
 method: aur-depends
+latest: v0.2.10
+src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.2.10.zip
+downloads:
+- name: FusionKit_0.2.10.dmg
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.10/FusionKit_0.2.10.dmg
+- name: FusionKit_0.2.10.exe
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.10/FusionKit_0.2.10.exe
+- name: FusionKit_0.2.10.exe.blockmap
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.10/FusionKit_0.2.10.exe.blockmap
+- name: FusionKit_0.2.10.zip
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.10/FusionKit_0.2.10.zip
+- name: latest-mac.yml
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.10/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.10/latest.yml

@@ -6,3 +6,12 @@ aur:
 - fvc-bin
 electron: 12.2.3
 method: aur-depends
+latest: v2.3.2
+src: https://github.com/PrismLabsDev/fvc-desktop-electron/archive/refs/tags/v2.3.2.zip
+downloads:
+- name: fvc-2.3.2.dmg.zip
+  url: https://github.com/PrismLabsDev/fvc-desktop-electron/releases/download/v2.3.2/fvc-2.3.2.dmg.zip
+- name: fvc.Setup.2.3.2.exe.zip
+  url: https://github.com/PrismLabsDev/fvc-desktop-electron/releases/download/v2.3.2/fvc.Setup.2.3.2.exe.zip
+- name: fvc_2.3.2_amd64.deb.zip
+  url: https://github.com/PrismLabsDev/fvc-desktop-electron/releases/download/v2.3.2/fvc_2.3.2_amd64.deb.zip

@@ -3,3 +3,8 @@ name: Todoist
 website: https://todoist.com
 aur:
 - todoist-appimage
+homebrew: todoist-app
+downloads:
+- url: https://electron-dl.todoist.com/mac/Todoist-darwin-9.29.1-arm64-latest.dmg
+  name: Todoist-darwin-9.29.1-arm64-latest.dmg
+  version: 9.29.1

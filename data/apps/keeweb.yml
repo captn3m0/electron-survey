@@ -78,3 +78,4 @@ packages:
   format: zip
   os: linux
   arch: x64
+electron_src: https://github.com/keeweb/keeweb/archive/refs/tags/v1.18.7.zip

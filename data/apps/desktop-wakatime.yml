@@ -5,3 +5,8 @@ aur:
 - desktop-wakatime-bin
 electron: 32.3.3
 method: aur-depends
+homebrew: wakatime
+downloads:
+- url: https://github.com/wakatime/macos-wakatime/releases/download/v5.28.4/macos-wakatime.zip
+  name: macos-wakatime.zip
+  version: 5.28.4

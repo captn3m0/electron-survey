@@ -6,3 +6,5 @@ aur:
 - everytime
 electron: 42.7.0
 method: aur-depends
+latest: v1.1.9
+src: https://github.com/kiprobinson/everytime/archive/refs/tags/v1.1.9.zip

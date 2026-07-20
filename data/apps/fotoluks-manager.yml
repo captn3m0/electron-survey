@@ -6,3 +6,16 @@ aur:
 - fotoluks-manager-git
 electron: 22.3.27
 method: aur-depends
+latest: 2.4.0
+src: https://github.com/Evernayt/fotoluks-manager/archive/refs/tags/2.4.0.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/builder-debug.yml
+- name: builder-effective-config.yaml
+  url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/builder-effective-config.yaml
+- name: Fotoluks-Manager-Setup-2.4.0.exe
+  url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/Fotoluks-Manager-Setup-2.4.0.exe
+- name: Fotoluks-Manager-Setup-2.4.0.exe.blockmap
+  url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/Fotoluks-Manager-Setup-2.4.0.exe.blockmap
+- name: latest.yml
+  url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/latest.yml

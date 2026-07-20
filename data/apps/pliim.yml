@@ -8,8 +8,9 @@ packages:
   os: macos
 homebrew: pliim
 downloads:
-- url: https://github.com/zehfernandes/pliim/releases/download/v1.7.0/Pliim.app.zip
-  name: Pliim.app.zip
-  version: 1.7.0
+- name: Pliim.app.zip
+  url: https://github.com/zehfernandes/pliim/releases/download/v1.7.0/Pliim.app.zip
 electron: 3.0.10
 method: which-electron-fingerprint
+latest: v1.7.0
+src: https://github.com/zehfernandes/pliim/archive/refs/tags/v1.7.0.zip

@@ -6,3 +6,11 @@ aur:
 - branta-bin
 electron: 31.7.7
 method: aur-depends
+latest: 0.10.2
+src: https://github.com/BrantaOps/branta-core/archive/refs/tags/0.10.2.zip
+downloads:
+- name: Branta-0.10.2-x64.dmg
+  url: https://github.com/BrantaOps/core/releases/download/0.10.2/Branta-0.10.2-x64.dmg
+- name: Branta-0.10.2.msi
+  url: https://github.com/BrantaOps/core/releases/download/0.10.2/Branta-0.10.2.msi
+we_tried: we0:0.10.2

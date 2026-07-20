@@ -13,3 +13,4 @@ downloads:
 electron: 8.5.5
 method: src-range-guess
 name: clipboard-manager-electron
+electron_src: https://github.com/morozovsk/unlimited-clipboard/archive/refs/tags/v1.0.1.zip

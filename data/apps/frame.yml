@@ -52,3 +52,4 @@ aur:
 - frame-eth-dev-appimage
 - frame-eth-git
 name: Frame
+electron_src: https://github.com/floating/frame/archive/refs/tags/v0.6.11.zip

@@ -6,3 +6,10 @@ aur:
 - treo-git
 electron: 35.7.5
 method: aur-depends
+latest: v1.1.6
+src: https://github.com/Your-Ehsan/Treo/archive/refs/tags/v1.1.6.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/developerEhsan/Treo/releases/download/v1.1.6/latest.yml
+- name: treo-1.1.6-setup.exe
+  url: https://github.com/developerEhsan/Treo/releases/download/v1.1.6/treo-1.1.6-setup.exe

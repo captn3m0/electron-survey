@@ -6,3 +6,32 @@ aur:
 - sokuji-bin
 electron: 40.10.6
 method: aur-depends
+latest: v0.33.0
+src: https://github.com/kizuna-ai-lab/sokuji/archive/refs/tags/v0.33.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/latest.yml
+- name: Sokuji-0.33.0-arm64.AppImage
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/Sokuji-0.33.0-arm64.AppImage
+- name: Sokuji-0.33.0-arm64.pkg
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/Sokuji-0.33.0-arm64.pkg
+- name: Sokuji-0.33.0-full.nupkg
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/Sokuji-0.33.0-full.nupkg
+- name: Sokuji-0.33.0-x64.pkg
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/Sokuji-0.33.0-x64.pkg
+- name: Sokuji-0.33.0-x86_64.AppImage
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/Sokuji-0.33.0-x86_64.AppImage
+- name: Sokuji-0.33.0.Setup.exe
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/Sokuji-0.33.0.Setup.exe
+- name: sokuji-extension-0.33.0.zip
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/sokuji-extension-0.33.0.zip
+- name: sokuji_0.33.0_amd64.deb
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/sokuji_0.33.0_amd64.deb
+- name: sokuji_0.33.0_arm64.deb
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.33.0/sokuji_0.33.0_arm64.deb

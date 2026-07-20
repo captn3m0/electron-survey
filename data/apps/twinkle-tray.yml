@@ -9,3 +9,4 @@ downloads:
 electron: 39.2.7
 method: src-package-lock
 name: Twinkle Tray
+electron_src: https://github.com/xanderfrangos/twinkle-tray/archive/refs/tags/v1.17.2.zip

@@ -8,3 +8,12 @@ additionalAUR:
 - mu-epub-viewer-git
 electron: 16.2.8
 method: aur-depends
+latest: v1.1.4
+src: https://github.com/azu/mu-epub-reader/archive/refs/tags/v1.1.4.zip
+downloads:
+- name: mu-epub-viewer-1.1.4.AppImage
+  url: https://github.com/azu/mu-epub-reader/releases/download/v1.1.4/mu-epub-viewer-1.1.4.AppImage
+- name: mu-epub-viewer-1.1.4.dmg
+  url: https://github.com/azu/mu-epub-reader/releases/download/v1.1.4/mu-epub-viewer-1.1.4.dmg
+- name: mu-epub-viewer.exe
+  url: https://github.com/azu/mu-epub-reader/releases/download/v1.1.4/mu-epub-viewer.exe

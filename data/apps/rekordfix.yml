@@ -6,3 +6,26 @@ aur:
 - rekordfix-bin
 electron: 36.9.5
 method: aur-depends
+latest: v0.16.0
+src: https://github.com/rzuppur/rekordfix/archive/refs/tags/v0.16.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/latest.yml
+- name: Rekordfix-0.16.0-arm64-mac.zip
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-0.16.0-arm64-mac.zip
+- name: Rekordfix-0.16.0-arm64-mac.zip.blockmap
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-0.16.0-arm64-mac.zip.blockmap
+- name: Rekordfix-0.16.0-arm64.dmg
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-0.16.0-arm64.dmg
+- name: Rekordfix-0.16.0-arm64.dmg.blockmap
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-0.16.0-arm64.dmg.blockmap
+- name: Rekordfix-Setup-0.16.0.exe
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-Setup-0.16.0.exe
+- name: Rekordfix-Setup-0.16.0.exe.blockmap
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-Setup-0.16.0.exe.blockmap
+- name: rekordfix_0.16.0_amd64.deb
+  url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/rekordfix_0.16.0_amd64.deb

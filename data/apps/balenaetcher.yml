@@ -29,8 +29,43 @@ packages:
   arch: x64
 homebrew: balenaetcher
 downloads:
-- url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6-arm64.dmg
-  name: balenaEtcher-2.1.6-arm64.dmg
-  version: 2.1.6
+- name: balena-etcher-2.1.6-1.x86_64.rpm
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balena-etcher-2.1.6-1.x86_64.rpm
+  checksum: 804e3d5bc0165dc4451ed29c4109894daf1d1311000650ae0dfeef94667b4af6
+- name: balena-etcher_2.1.6_amd64.deb
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balena-etcher_2.1.6_amd64.deb
+  checksum: 2bdebb46c9f750a9abf11c188ff69a405b4a4fed114333d634c3b3fe59a64057
+- name: balenaEtcher-2.1.6-arm64.dmg
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6-arm64.dmg
+  checksum: ecf71fb5e74803ea8d7d16c54378a6a8d964e9808594b867c088222a8cfe3d2b
+- name: balenaEtcher-2.1.6-x64.dmg
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6-x64.dmg
+  checksum: a09909789aee9d6a35863bcdec069103dd4883eb45b6e5e218e66abc043a9e05
+- name: balenaEtcher-2.1.6.Setup.exe
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6.Setup.exe
+- name: balenaEtcher-darwin-arm64-2.1.6.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-darwin-arm64-2.1.6.zip
+  checksum: b2bd074498dd74342bcc634ecb6affe817c53360e2752501a3b01c8655e02979
+- name: balenaEtcher-darwin-x64-2.1.6.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-darwin-x64-2.1.6.zip
+  checksum: 1a3930b5822cef5a60fbc13ebfa1d2e96b98d7db505cfea8b87fc1c0743cb3e1
+- name: balenaEtcher-linux-x64-2.1.6.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-linux-x64-2.1.6.zip
+  checksum: 31755fc7992058738297ab633bc60f75999f34db94680cd6ca4c9da222bd4f75
+- name: balenaEtcher-win32-x64-2.1.6.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-win32-x64-2.1.6.zip
+  checksum: ec66c879b03ec7098b5c67739e2f6002027a8e001c749e8b918d72a87611fe11
+- name: npm-sbom.json
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/npm-sbom.json
+- name: SHA256SUMS.Darwin.arm64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/SHA256SUMS.Darwin.arm64.txt
+- name: SHA256SUMS.Darwin.x64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/SHA256SUMS.Darwin.x64.txt
+- name: SHA256SUMS.Linux.x64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/SHA256SUMS.Linux.x64.txt
+- name: SHA256SUMS.Windows.x64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.6/SHA256SUMS.Windows.x64.txt
 electron: 37.2.4
 method: which-electron-rg
+latest: v2.1.6
+src: https://github.com/balena-io/etcher/archive/refs/tags/v2.1.6.zip

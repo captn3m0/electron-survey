@@ -9,3 +9,25 @@ additionalAUR:
 - aihub-git
 electron: 30.5.1
 method: aur-depends
+latest: v1.8.9
+src: https://github.com/classfang/AIHub/archive/refs/tags/v1.8.9.zip
+downloads:
+- name: AIHub-1.8.9-arm64-mac.zip
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/AIHub-1.8.9-arm64-mac.zip
+- name: AIHub-1.8.9-arm64-mac.zip.blockmap
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/AIHub-1.8.9-arm64-mac.zip.blockmap
+- name: AIHub-1.8.9-mac.zip
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/AIHub-1.8.9-mac.zip
+- name: AIHub-1.8.9-mac.zip.blockmap
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/AIHub-1.8.9-mac.zip.blockmap
+- name: aihub-1.8.9-setup.exe
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/aihub-1.8.9-setup.exe
+- name: aihub-1.8.9-setup.exe.blockmap
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/aihub-1.8.9-setup.exe.blockmap
+- name: aihub-1.8.9.AppImage
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/aihub-1.8.9.AppImage
+- name: aihub_1.8.9_amd64.deb
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/aihub_1.8.9_amd64.deb
+- name: latest.yml
+  url: https://github.com/classfang/AIHub/releases/download/v1.8.9/latest.yml
+we_tried: we0:v1.8.9

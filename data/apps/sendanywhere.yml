@@ -9,3 +9,8 @@ packages:
   os: macos
 electron: 8.5.5
 method: aur-depends
+homebrew: send-anywhere
+downloads:
+- url: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg
+  name: SendAnywhere_1783999839.dmg
+  version: 24.6.1,1783999839

@@ -8,3 +8,9 @@ additionalAUR:
 - alpaca-electron-git
 electron: 13.6.9
 method: aur-depends
+latest: v1.0.6
+src: https://github.com/ItsPi3141/alpaca-electron/archive/refs/tags/v1.0.6.zip
+downloads:
+- name: Alpaca-Electron-win-x64-v1.0.6.exe
+  url: https://github.com/ItsPi3141/alpaca-electron/releases/download/v1.0.6/Alpaca-Electron-win-x64-v1.0.6.exe
+we_tried: we0:v1.0.6

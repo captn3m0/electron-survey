@@ -4,3 +4,8 @@ website: https://www.kerlig.com/
 download_urls:
 - https://assets.kerlig.com/download/Kerlig-2.5.3-arm64.dmg
 - https://assets.kerlig.com/download/Kerlig-2.5.3-x64.dmg
+downloads:
+- url: https://assets.kerlig.com/download/Kerlig-2.5.3-arm64.dmg
+  name: Kerlig-2.5.3-arm64.dmg
+- url: https://assets.kerlig.com/download/Kerlig-2.5.3-x64.dmg
+  name: Kerlig-2.5.3-x64.dmg

@@ -6,3 +6,8 @@ aur:
 - chatterbox-git
 electron: 35.7.5
 method: aur-depends
+latest: v1.1.2
+src: https://github.com/ashtonrbox/Chatterbox/archive/refs/tags/v1.1.2.zip
+downloads:
+- name: Chatterbox-Windows.zip
+  url: https://github.com/ashtonrbox/Chatterbox/releases/download/v1.1.2/Chatterbox-Windows.zip

@@ -6,3 +6,28 @@ aur:
 - plutonia-bin
 electron: 38.8.6
 method: aur-depends
+latest: 1.1.19
+src: https://github.com/Plutonia-Games/Plutonia-Launcher/archive/refs/tags/1.1.19.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/latest.yml
+- name: Plutonia-linux-x86_64.AppImage
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-linux-x86_64.AppImage
+- name: Plutonia-mac-universal.dmg
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-mac-universal.dmg
+- name: Plutonia-mac-universal.dmg.blockmap
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-mac-universal.dmg.blockmap
+- name: Plutonia-mac-universal.zip
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-mac-universal.zip
+- name: Plutonia-mac-universal.zip.blockmap
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-mac-universal.zip.blockmap
+- name: Plutonia-win-x64-signed.exe
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-win-x64-signed.exe
+- name: Plutonia-win-x64.exe
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-win-x64.exe
+- name: Plutonia-win-x64.exe.blockmap
+  url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-win-x64.exe.blockmap

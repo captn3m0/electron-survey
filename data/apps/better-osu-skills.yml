@@ -6,3 +6,15 @@ aur:
 - better-osu-skills-bin
 electron: 11.5.0
 method: aur-depends
+latest: v1.0.6
+src: https://github.com/straightcurve/better-osuskills/archive/refs/tags/v1.0.6.zip
+downloads:
+- name: better-osu-skills-1.0.6.AppImage
+  url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/better-osu-skills-1.0.6.AppImage
+- name: better-osu-skills-Setup-1.0.6.exe
+  url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/better-osu-skills-Setup-1.0.6.exe
+- name: latest-linux.yml
+  url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/latest.yml
+we_tried: we0:v1.0.6

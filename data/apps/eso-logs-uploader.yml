@@ -4,3 +4,26 @@ website: https://github.com/RPGLogs/Uploaders-esologs
 repository: https://github.com/RPGLogs/Uploaders-esologs
 aur:
 - eso-logs-uploader-bin
+latest: v9.3.65
+src: https://github.com/RPGLogs/Uploaders-esologs/archive/refs/tags/v9.3.65.zip
+downloads:
+- name: esologs-v9.3.65.AppImage
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.AppImage
+- name: esologs-v9.3.65.dmg
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.dmg
+- name: esologs-v9.3.65.dmg.blockmap
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.dmg.blockmap
+- name: esologs-v9.3.65.exe
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.exe
+- name: esologs-v9.3.65.exe.blockmap
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.exe.blockmap
+- name: esologs-v9.3.65.zip
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.zip
+- name: esologs-v9.3.65.zip.blockmap
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/esologs-v9.3.65.zip.blockmap
+- name: latest-linux.yml
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/latest.yml

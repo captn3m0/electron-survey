@@ -43,3 +43,4 @@ aur:
 - panwriter-bin
 homebrew: panwriter
 name: PanWriter
+electron_src: https://github.com/mb21/panwriter/archive/refs/tags/v0.8.10.zip

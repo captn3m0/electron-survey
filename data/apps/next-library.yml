@@ -6,3 +6,8 @@ aur:
 - next-library-bin
 electron: 21.4.4
 method: aur-depends
+latest: v0.1.0
+src: https://github.com/CMOISDEAD/next-library/archive/refs/tags/v0.1.0.zip
+downloads:
+- name: next.library-0.1.0.AppImage
+  url: https://github.com/CMOISDEAD/next-library/releases/download/v0.1.0/next.library-0.1.0.AppImage

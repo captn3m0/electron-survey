@@ -6,3 +6,20 @@ aur:
 - tesladashcampro-bin
 electron: 32.3.3
 method: aur-depends
+latest: v1.0.3
+src: https://github.com/JustForFunOk/TeslaDashcamPro/archive/refs/tags/v1.0.3.zip
+downloads:
+- name: TeslaDashcamPro-1.0.3-1.x86_64.rpm
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/TeslaDashcamPro-1.0.3-1.x86_64.rpm
+- name: TeslaDashcamPro-1.0.3.Setup.exe
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/TeslaDashcamPro-1.0.3.Setup.exe
+- name: TeslaDashcamPro-darwin-arm64-1.0.3.zip
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/TeslaDashcamPro-darwin-arm64-1.0.3.zip
+- name: TeslaDashcamPro-darwin-x64-1.0.3.zip
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/TeslaDashcamPro-darwin-x64-1.0.3.zip
+- name: TeslaDashcamPro-linux-x64-1.0.3.zip
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/TeslaDashcamPro-linux-x64-1.0.3.zip
+- name: TeslaDashcamPro-win32-x64-1.0.3.zip
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/TeslaDashcamPro-win32-x64-1.0.3.zip
+- name: tesladashcampro_1.0.3_amd64.deb
+  url: https://github.com/JustForFunOk/TeslaDashcamPro/releases/download/v1.0.3/tesladashcampro_1.0.3_amd64.deb

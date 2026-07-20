@@ -9,3 +9,57 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+latest: v0.0.20
+src: https://github.com/open-webui/desktop/archive/refs/tags/v0.0.20.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/latest.yml
+- name: open-webui-arm64-mac.zip
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64-mac.zip
+- name: open-webui-arm64-mac.zip.blockmap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64-mac.zip.blockmap
+- name: open-webui-arm64-setup.exe
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64-setup.exe
+- name: open-webui-arm64-setup.exe.blockmap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64-setup.exe.blockmap
+- name: open-webui-arm64.dmg
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64.dmg
+- name: open-webui-arm64.dmg.blockmap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64.dmg.blockmap
+- name: open-webui-x64-mac.zip
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-x64-mac.zip
+- name: open-webui-x64-mac.zip.blockmap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-x64-mac.zip.blockmap
+- name: open-webui-x64-setup.exe
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-x64-setup.exe
+- name: open-webui-x64-setup.exe.blockmap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-x64-setup.exe.blockmap
+- name: open-webui-x64.dmg
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-x64.dmg
+- name: open-webui-x64.dmg.blockmap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-x64.dmg.blockmap
+- name: open-webui.flatpak
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui.flatpak
+- name: open-webui_amd64.deb
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_amd64.deb
+- name: open-webui_amd64.snap
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_amd64.snap
+- name: open-webui_arm64.AppImage
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_arm64.AppImage
+- name: open-webui_arm64.deb
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_arm64.deb
+- name: open-webui_x86_64.AppImage
+  url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_x86_64.AppImage
+- url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui-arm64.dmg
+  name: open-webui-arm64.dmg
+  version: 0.0.20
+homebrew: open-webui
+electron: 39.8.2
+method: src-package-lock
+electron_src: https://github.com/open-webui/desktop/archive/refs/tags/v0.0.20.zip

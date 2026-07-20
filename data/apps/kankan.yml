@@ -8,3 +8,4 @@ downloads:
 electron: 8.5.5
 method: src-range-guess
 name: KanKan
+electron_src: https://github.com/newham/kankan/archive/refs/tags/v0.4.0.zip

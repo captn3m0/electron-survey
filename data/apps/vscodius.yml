@@ -6,3 +6,18 @@ aur:
 - vscodius-bin
 electron: 34.5.8
 method: aur-depends
+latest: v1.98.2
+src: https://github.com/RubisetCie/vscodius/archive/refs/tags/v1.98.2.zip
+downloads:
+- name: codius-1.98.2-amd64.deb
+  url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/codius-1.98.2-amd64.deb
+- name: codius-1.98.2-el8.x86_64.rpm
+  url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/codius-1.98.2-el8.x86_64.rpm
+- name: codius-cli-linux-x64-1.98.2.zip
+  url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/codius-cli-linux-x64-1.98.2.zip
+- name: codius-cli-windows-x64-1.98.2.zip
+  url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/codius-cli-windows-x64-1.98.2.zip
+- name: VSCodius-Linux-x64-1.98.2.zip
+  url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/VSCodius-Linux-x64-1.98.2.zip
+- name: VSCodius-Win32-x64-1.98.2.zip
+  url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/VSCodius-Win32-x64-1.98.2.zip

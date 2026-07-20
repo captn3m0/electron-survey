@@ -31,3 +31,4 @@ downloads:
 electron: 19.1.9
 method: src-package-lock
 name: ModernDeck for Twitter
+electron_src: https://github.com/dangeredwolf/ModernDeck/archive/refs/tags/v10.0.0.zip

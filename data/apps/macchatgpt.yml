@@ -6,3 +6,10 @@ aur:
 - macchatgpt
 electron: 23.3.13
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/justinhartman/MacChatGPT/archive/refs/tags/1.0.0.zip
+downloads:
+- name: MacChatGPT-silicon.dmg
+  url: https://github.com/justinhartman/MacChatGPT/releases/download/1.0.0/MacChatGPT-silicon.dmg
+- name: MacChatGPT-x64.dmg
+  url: https://github.com/justinhartman/MacChatGPT/releases/download/1.0.0/MacChatGPT-x64.dmg

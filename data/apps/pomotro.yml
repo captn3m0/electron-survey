@@ -6,3 +6,8 @@ aur:
 - pomotro
 electron: 25.9.8
 method: aur-depends
+latest: v1.2
+src: https://github.com/Ranork/Pomotro/archive/refs/tags/v1.2.zip
+downloads:
+- name: Pomotro-win32-x64.zip
+  url: https://github.com/Ranork/Pomotro/releases/download/v1.2/Pomotro-win32-x64.zip

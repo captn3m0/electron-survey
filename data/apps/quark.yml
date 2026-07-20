@@ -37,3 +37,4 @@ method: src-package-lock
 aur:
 - quark-electron-bin
 name: Quark
+electron_src: https://github.com/Nishkalkashyap/Quark-electron/archive/refs/tags/v0.6.2.zip

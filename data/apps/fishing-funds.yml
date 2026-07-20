@@ -35,3 +35,4 @@ aur:
 - fishing-funds-git
 homebrew: fishing-funds
 name: Fishing Funds
+electron_src: https://github.com/1zilc/fishing-funds/archive/refs/tags/v8.8.0.zip

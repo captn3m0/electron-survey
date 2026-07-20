@@ -8,3 +8,24 @@ additionalAUR:
 - woocommerce-pos-bin
 electron: 30.5.1
 method: aur-depends
+latest: v1.9.9
+src: https://github.com/wcpos/electron/archive/refs/tags/v1.9.9.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/RELEASES
+- name: WCPOS-1.9.9-arm64.dmg
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/WCPOS-1.9.9-arm64.dmg
+- name: WCPOS-1.9.9-Setup.exe
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/WCPOS-1.9.9-Setup.exe
+- name: WCPOS-1.9.9-x64.dmg
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/WCPOS-1.9.9-x64.dmg
+- name: WCPOS-darwin-arm64-1.9.9.zip
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/WCPOS-darwin-arm64-1.9.9.zip
+- name: WCPOS-darwin-x64-1.9.9.zip
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/WCPOS-darwin-x64-1.9.9.zip
+- name: woocommerce-pos-1.9.9-1.x86_64.rpm
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/woocommerce-pos-1.9.9-1.x86_64.rpm
+- name: woocommerce-pos_1.9.9_amd64.deb
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/woocommerce-pos_1.9.9_amd64.deb
+- name: WooCommercePOS-1.9.9-full.nupkg
+  url: https://github.com/wcpos/electron/releases/download/v1.9.9/WooCommercePOS-1.9.9-full.nupkg

@@ -6,3 +6,8 @@ aur:
 - notely-git
 electron: 27.3.11
 method: aur-depends
+latest: Version1.0.1
+src: https://github.com/Bilal-Belli/Notely/archive/refs/tags/Version1.0.1.zip
+downloads:
+- name: Notely.Setup.1.0.1.rar
+  url: https://github.com/Bilal-Belli/Notely/releases/download/Version1.0.1/Notely.Setup.1.0.1.rar

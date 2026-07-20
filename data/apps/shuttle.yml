@@ -24,3 +24,4 @@ electron: 4.0.1
 method: src-package-lock
 homebrew: shuttle
 name: Shuttle
+electron_src: https://github.com/ShuttleBrowser/Shuttle/archive/refs/tags/v3.1.0.zip

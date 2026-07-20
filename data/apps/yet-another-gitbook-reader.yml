@@ -9,3 +9,4 @@ downloads:
 electron: 10.4.7
 method: src-range-guess
 name: Yet-Another-Gitbook-Reader
+electron_src: https://github.com/gnu4cn/gitbook-reader-app/archive/refs/tags/v0.8.8.zip

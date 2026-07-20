@@ -8,3 +8,4 @@ method: src-pnpm-lock
 aur:
 - flat-bin
 name: Agora Flat
+electron_src: https://github.com/netless-io/flat/archive/refs/tags/v2.3.6.zip

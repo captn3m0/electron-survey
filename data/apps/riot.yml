@@ -12,3 +12,4 @@ aur:
 - element-desktop-nightly-bin
 homebrew: element
 name: Riot
+electron_src: https://github.com/vector-im/element-desktop/archive/refs/tags/v1.12.13.zip

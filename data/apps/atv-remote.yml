@@ -11,3 +11,19 @@ packages:
   arch: arm64
 electron: 33.4.11
 method: aur-depends
+latest: v1.4.5
+src: https://github.com/jklewa/atv-desktop-remote/archive/refs/tags/v1.4.5.zip
+downloads:
+- name: ATV-Remote-1.4.5-arm64.dmg
+  url: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-1.4.5-arm64.dmg
+- name: ATV-Remote-1.4.5.AppImage
+  url: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-1.4.5.AppImage
+- name: ATV-Remote-1.4.5.dmg
+  url: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-1.4.5.dmg
+- name: ATV-Remote-Setup-1.4.5.exe
+  url: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-Setup-1.4.5.exe
+- url: https://github.com/bsharper/atv-desktop-remote/releases/download/v2.1.1/ATV.Remote-2.1.1-arm64.dmg
+  name: ATV.Remote-2.1.1-arm64.dmg
+  version: 2.1.1
+homebrew: atv-remote
+we_tried: we0:v1.4.5

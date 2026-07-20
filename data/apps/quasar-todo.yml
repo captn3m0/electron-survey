@@ -6,3 +6,16 @@ aur:
 - quasar-todo-bin
 electron: 22.3.27
 method: aur-depends
+latest: v0.1.4
+src: https://github.com/spenserblack/quasar-todo/archive/refs/tags/v0.1.4.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/latest.yml
+- name: Quasar-Todo-0.1.4.AppImage
+  url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-0.1.4.AppImage
+- name: Quasar-Todo-Setup-0.1.4.exe
+  url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-Setup-0.1.4.exe
+- name: Quasar-Todo-Setup-0.1.4.exe.blockmap
+  url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-Setup-0.1.4.exe.blockmap

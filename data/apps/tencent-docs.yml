@@ -10,3 +10,8 @@ packages:
   arch: arm64
 additionalAUR:
 - tencent-docs-electron-bin
+homebrew: tencent-docs
+downloads:
+- url: https://desktop.docs.qq.com/Installer/30001/3.10.1/TencentDocs-arm64.dmg
+  name: TencentDocs-arm64.dmg
+  version: 3.10.1

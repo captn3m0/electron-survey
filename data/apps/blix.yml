@@ -6,3 +6,31 @@ aur:
 - blix-bin
 electron: 24.8.8
 method: aur-depends
+latest: v1.3.0
+src: https://github.com/COS301-SE-2023/AI-Photo-Editor/archive/refs/tags/v1.3.0.zip
+downloads:
+- name: Blix-1.3.0-arm64.AppImage
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-1.3.0-arm64.AppImage
+- name: Blix-1.3.0-arm64.dmg
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-1.3.0-arm64.dmg
+- name: Blix-1.3.0-arm64.dmg.blockmap
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-1.3.0-arm64.dmg.blockmap
+- name: Blix-1.3.0.AppImage
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-1.3.0.AppImage
+- name: Blix-Setup-1.3.0.exe
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-Setup-1.3.0.exe
+- name: Blix-Setup-1.3.0.exe.blockmap
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-Setup-1.3.0.exe.blockmap
+- name: blix_1.3.0_amd64.deb
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/blix_1.3.0_amd64.deb
+- name: blix_1.3.0_arm64.deb
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/blix_1.3.0_arm64.deb
+- name: latest-linux-arm64.yml
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/latest.yml
+we_tried: we0:v1.3.0

@@ -6,3 +6,36 @@ aur:
 - openbazaar-git
 electron: 6.1.12
 method: aur-depends
+latest: v2.4.10
+src: https://github.com/OpenBazaar/openbazaar-desktop/archive/refs/tags/v2.4.10.zip
+downloads:
+- name: openbazaar2-2.4.10-1.x86_64.rpm
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/openbazaar2-2.4.10-1.x86_64.rpm
+- name: OpenBazaar2-2.4.10-full.nupkg
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2-2.4.10-full.nupkg
+- name: OpenBazaar2-2.4.10-Setup-64.exe
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2-2.4.10-Setup-64.exe
+- name: OpenBazaar2-2.4.10.dmg
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2-2.4.10.dmg
+- name: OpenBazaar2-mac-2.4.10.zip
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2-mac-2.4.10.zip
+- name: OpenBazaar2.zip
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2.zip
+- name: openbazaar2client-2.4.10-1.x86_64.rpm
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/openbazaar2client-2.4.10-1.x86_64.rpm
+- name: OpenBazaar2Client-2.4.10-full.nupkg
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2Client-2.4.10-full.nupkg
+- name: OpenBazaar2Client-2.4.10-Setup-64.exe
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2Client-2.4.10-Setup-64.exe
+- name: OpenBazaar2Client-2.4.10.dmg
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2Client-2.4.10.dmg
+- name: OpenBazaar2Client-mac-2.4.10.zip
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2Client-mac-2.4.10.zip
+- name: OpenBazaar2Client.zip
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2Client.zip
+- name: openbazaar2client_2.4.10_amd64.deb
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/openbazaar2client_2.4.10_amd64.deb
+- name: openbazaar2_2.4.10_amd64.deb
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/openbazaar2_2.4.10_amd64.deb
+- name: RELEASES
+  url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/RELEASES

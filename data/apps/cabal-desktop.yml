@@ -21,8 +21,27 @@ packages:
   arch: x64
 homebrew: cabal
 downloads:
-- url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-mac.dmg
-  name: cabal-desktop-8.0.0-mac.dmg
-  version: 8.0.0
+- name: Cabal-8.0.0-mac.zip
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/Cabal-8.0.0-mac.zip
+- name: cabal-desktop-8.0.0-linux-x86_64.AppImage
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-linux-x86_64.AppImage
+- name: cabal-desktop-8.0.0-mac.dmg
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-mac.dmg
+- name: cabal-desktop-8.0.0-mac.dmg.blockmap
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-mac.dmg.blockmap
+- name: cabal-desktop-8.0.0-windows.exe
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-windows.exe
+- name: cabal-desktop-8.0.0-windows.exe.blockmap
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-windows.exe.blockmap
+- name: cabal-desktop_8.0.0_amd64.deb
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop_8.0.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/latest.yml
 electron: 14.0.0
 method: which-electron-rg
+latest: v8.0.0
+src: https://github.com/cabal-club/cabal-desktop/archive/refs/tags/v8.0.0.zip

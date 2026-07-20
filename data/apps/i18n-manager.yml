@@ -25,3 +25,4 @@ downloads:
 electron: 8.2.0
 method: src-yarn-lock
 name: i18n Manager
+electron_src: https://github.com/gilmarsquinelato/i18n-manager/archive/refs/tags/3.0.3.zip

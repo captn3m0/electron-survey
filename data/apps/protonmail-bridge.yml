@@ -22,7 +22,30 @@ packages:
   os: macos
 homebrew: proton-drive
 downloads:
-- url: https://proton.me/download/drive/macos/3.0.0/ProtonDrive-3.0.0.dmg
-  name: ProtonDrive-3.0.0.dmg
-  version: 3.0.0
+- name: Bridge-Installer.dmg
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/Bridge-Installer.dmg
+- name: Bridge-Installer.dmg.sig
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/Bridge-Installer.dmg.sig
+- name: Bridge-Installer.exe
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/Bridge-Installer.exe
+- name: Bridge-Installer.exe.sig
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/Bridge-Installer.exe.sig
+- name: bridge_pubkey.gpg
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/bridge_pubkey.gpg
+- name: bridge_pubkey.gpg.sig
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/bridge_pubkey.gpg.sig
+- name: PKGBUILD
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/PKGBUILD
+- name: PKGBUILD.sig
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/PKGBUILD.sig
+- name: protonmail-bridge-3.25.0-1.x86_64.rpm
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/protonmail-bridge-3.25.0-1.x86_64.rpm
+- name: protonmail-bridge-3.25.0-1.x86_64.rpm.sig
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/protonmail-bridge-3.25.0-1.x86_64.rpm.sig
+- name: protonmail-bridge_3.25.0-1_amd64.deb
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/protonmail-bridge_3.25.0-1_amd64.deb
+- name: protonmail-bridge_3.25.0-1_amd64.deb.sig
+  url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/protonmail-bridge_3.25.0-1_amd64.deb.sig
 we_tried: urls:f5df5727e4c7
+latest: v3.25.0
+src: https://github.com/ProtonMail/proton-bridge/archive/refs/tags/v3.25.0.zip

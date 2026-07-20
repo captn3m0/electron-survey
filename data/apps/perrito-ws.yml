@@ -8,3 +8,16 @@ additionalAUR:
 - perrito-ws-git
 electron: 29.4.6
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/KAIKAKU-AI/perrito-ws/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: Perrito-1.1.0.Setup.exe
+  url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/Perrito-1.1.0.Setup.exe
+- name: Perrito-darwin-arm64-1.1.0.zip
+  url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/Perrito-darwin-arm64-1.1.0.zip
+- name: Perrito-darwin-x64-1.1.0.zip
+  url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/Perrito-darwin-x64-1.1.0.zip
+- name: perrito_ws-1.1.0-full.nupkg
+  url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/perrito_ws-1.1.0-full.nupkg
+- name: RELEASES
+  url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/RELEASES

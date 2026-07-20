@@ -6,3 +6,5 @@ aur:
 - webp-converter-git
 electron: 33.4.11
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/HarrisonWang/webp-converter/archive/refs/tags/v1.0.0.zip

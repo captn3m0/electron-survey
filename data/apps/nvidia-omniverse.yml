@@ -3,3 +3,8 @@ name: Nvidia Omniverse
 website: https://www.nvidia.com/omniverse/
 aur:
 - nvidia-omniverse
+homebrew: nvidia-geforce-now
+downloads:
+- url: https://download.nvidia.com/gfnpc/GeForceNOW-release.dmg
+  name: GeForceNOW-release.dmg
+  version: 2.0.86.136

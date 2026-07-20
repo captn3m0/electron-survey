@@ -6,3 +6,8 @@ aur:
 - spotbar
 electron: 24.8.8
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/levarr/Spotbar/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: spotbar-1.0.0.dmg
+  url: https://github.com/fabcolonna/Spotbar/releases/download/v1.0.0/spotbar-1.0.0.dmg

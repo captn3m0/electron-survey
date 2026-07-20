@@ -13,3 +13,8 @@ additionalAUR:
 - cherry-studio-git
 electron: 41.10.2
 method: aur-depends
+homebrew: cherry-studio
+downloads:
+- url: https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-arm64.dmg
+  name: Cherry-Studio-1.9.12-arm64.dmg
+  version: 1.9.12

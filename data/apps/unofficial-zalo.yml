@@ -13,3 +13,4 @@ downloads:
 electron: 5.0.13
 method: src-range-guess
 name: Unofficial Zalo
+electron_src: https://github.com/SafeStudio/unofficial-zalo/archive/refs/tags/v1.0.7.zip

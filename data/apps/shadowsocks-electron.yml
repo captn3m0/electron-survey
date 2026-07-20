@@ -57,3 +57,4 @@ downloads:
 electron: 18.0.3
 method: src-yarn-lock
 name: shadowsocks-electron
+electron_src: https://github.com/nojsja/shadowsocks-electron/archive/refs/tags/v1.2.3.zip

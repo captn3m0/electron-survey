@@ -6,3 +6,28 @@ aur:
 - oxen-electron-wallet
 electron: 4.2.12
 method: aur-depends
+latest: v1.8.4
+src: https://github.com/oxen-io/oxen-electron-gui-wallet/archive/refs/tags/v1.8.4.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/latest.yml
+- name: oxen-electron-wallet-1.8.4-linux.AppImage
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-linux.AppImage
+- name: oxen-electron-wallet-1.8.4-linux.deb
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-linux.deb
+- name: oxen-electron-wallet-1.8.4-mac.dmg
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-mac.dmg
+- name: oxen-electron-wallet-1.8.4-mac.dmg.blockmap
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-mac.dmg.blockmap
+- name: oxen-electron-wallet-1.8.4-mac.zip
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-mac.zip
+- name: oxen-electron-wallet-1.8.4-mac.zip.blockmap
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-mac.zip.blockmap
+- name: oxen-electron-wallet-1.8.4-win.exe
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-win.exe
+- name: oxen-electron-wallet-1.8.4-win.exe.blockmap
+  url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-win.exe.blockmap

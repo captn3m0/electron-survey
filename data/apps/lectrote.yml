@@ -26,3 +26,4 @@ electron: 36.9.5
 method: src-range-guess
 homebrew: lectrote
 name: Lectrote
+electron_src: https://github.com/erkyrath/lectrote/archive/refs/tags/lectrote-1.5.6.zip

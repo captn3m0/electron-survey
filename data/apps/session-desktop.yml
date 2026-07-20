@@ -26,6 +26,33 @@ electron: 40.10.6
 method: aur-depends
 homebrew: session
 downloads:
-- url: https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-mac-arm64-1.18.1.dmg
-  name: session-desktop-mac-arm64-1.18.1.dmg
-  version: 1.18.1
+- name: latest-linux.yml
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/latest.yml
+- name: session-desktop-linux-amd64-1.14.3.deb
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-amd64-1.14.3.deb
+- name: session-desktop-linux-x64-1.14.3.freebsd
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-x64-1.14.3.freebsd
+- name: session-desktop-linux-x86_64-1.14.3.AppImage
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-x86_64-1.14.3.AppImage
+- name: session-desktop-linux-x86_64-1.14.3.rpm
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-x86_64-1.14.3.rpm
+- name: session-desktop-mac-x64-1.14.3.dmg
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-mac-x64-1.14.3.dmg
+- name: session-desktop-mac-x64-1.14.3.dmg.blockmap
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-mac-x64-1.14.3.dmg.blockmap
+- name: session-desktop-mac-x64-1.14.3.zip
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-mac-x64-1.14.3.zip
+- name: session-desktop-mac-x64-1.14.3.zip.blockmap
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-mac-x64-1.14.3.zip.blockmap
+- name: session-desktop-win-x64-1.14.3.exe
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-win-x64-1.14.3.exe
+- name: session-desktop-win-x64-1.14.3.exe.blockmap
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-win-x64-1.14.3.exe.blockmap
+- name: signature.asc
+  url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/signature.asc
+latest: v1.14.3
+src: https://github.com/oxen-io/session-desktop/archive/refs/tags/v1.14.3.zip

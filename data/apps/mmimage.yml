@@ -6,3 +6,14 @@ aur:
 - mmimage-git
 electron: 33.4.11
 method: aur-depends
+latest: v0.0.7
+src: https://github.com/gaspardruan/MMImage/archive/refs/tags/v0.0.7.zip
+downloads:
+- name: MMImage-Mac-0.0.7-Installer.dmg
+  url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Mac-0.0.7-Installer.dmg
+- name: MMImage-Mac-0.0.7-Installer.dmg.blockmap
+  url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Mac-0.0.7-Installer.dmg.blockmap
+- name: MMImage-Windows-0.0.7-Setup.exe
+  url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Windows-0.0.7-Setup.exe
+- name: MMImage-Windows-0.0.7-Setup.exe.blockmap
+  url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Windows-0.0.7-Setup.exe.blockmap

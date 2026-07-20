@@ -33,3 +33,4 @@ method: src-yarn-lock
 aur:
 - lbry-desktop
 name: LBRY Desktop
+electron_src: https://github.com/lbryio/lbry-desktop/archive/refs/tags/v0.53.9.zip

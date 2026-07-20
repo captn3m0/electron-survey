@@ -71,3 +71,4 @@ aur:
 - hyper
 - hyper-bin
 - hyper-git
+electron_src: https://github.com/vercel/hyper/archive/refs/tags/v3.4.1.zip

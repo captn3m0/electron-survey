@@ -4,3 +4,21 @@ website: https://github.com/OmegaRogue/fvtt-player-client
 repository: https://github.com/OmegaRogue/fvtt-player-client
 aur:
 - fvtt-player-client-omegarogue
+latest: 1.6.0
+src: https://github.com/OmegaRogue/fvtt-player-client/archive/refs/tags/1.6.0.zip
+downloads:
+- name: vtt-desktop-client-1.6.0-1.x86_64.rpm
+  url: https://github.com/OmegaRogue/fvtt-player-client/releases/download/1.6.0/vtt-desktop-client-1.6.0-1.x86_64.rpm
+- name: vtt-desktop-client-linux-x64-1.6.0.zip
+  url: https://github.com/OmegaRogue/fvtt-player-client/releases/download/1.6.0/vtt-desktop-client-linux-x64-1.6.0.zip
+- name: vtt-desktop-client-macos-arm64-1.6.0.zip
+  url: https://github.com/OmegaRogue/fvtt-player-client/releases/download/1.6.0/vtt-desktop-client-macos-arm64-1.6.0.zip
+- name: vtt-desktop-client-windows-x64-1.6.0-setup.exe
+  url: https://github.com/OmegaRogue/fvtt-player-client/releases/download/1.6.0/vtt-desktop-client-windows-x64-1.6.0-setup.exe
+- name: vtt-desktop-client-windows-x64-portable-1.6.0.zip
+  url: https://github.com/OmegaRogue/fvtt-player-client/releases/download/1.6.0/vtt-desktop-client-windows-x64-portable-1.6.0.zip
+- name: vtt-desktop-client_1.6.0_amd64.deb
+  url: https://github.com/OmegaRogue/fvtt-player-client/releases/download/1.6.0/vtt-desktop-client_1.6.0_amd64.deb
+electron: 29.4.2
+method: src-yarn-lock
+electron_src: https://github.com/OmegaRogue/fvtt-player-client/archive/refs/tags/1.6.0.zip

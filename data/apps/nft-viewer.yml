@@ -6,3 +6,5 @@ aur:
 - nft-viewer-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.9.4
+src: https://github.com/BTS-CM/NFT_Viewer/archive/refs/tags/v1.9.4.zip

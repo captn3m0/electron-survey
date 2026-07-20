@@ -13,3 +13,4 @@ method: src-package-lock
 aur:
 - todo
 name: To Do
+electron_src: https://github.com/luapp/ToDo/archive/refs/tags/v1.0.0.zip

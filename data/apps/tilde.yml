@@ -25,3 +25,4 @@ method: src-package-lock
 aur:
 - tilde
 name: Tilde
+electron_src: https://github.com/paologiua/tilde/archive/refs/tags/v1.0.0.zip

@@ -17,3 +17,26 @@ packages:
   arch: x64
 electron: 22.3.27
 method: which-electron-rg
+latest: v5.5.0
+src: https://github.com/xianyunleo/EServer/archive/refs/tags/v5.5.0.zip
+downloads:
+- name: EServer-5.5.0-arm64-win.zip
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-5.5.0-arm64-win.zip
+- name: EServer-5.5.0-setup.exe
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-5.5.0-setup.exe
+- name: EServer-5.5.0-setup.exe.blockmap
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-5.5.0-setup.exe.blockmap
+- name: EServer-5.5.0-win.zip
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-5.5.0-win.zip
+- name: EServer-mac-5.5.0-arm64.dmg
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-mac-5.5.0-arm64.dmg
+- name: EServer-mac-5.5.0-arm64.dmg.blockmap
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-mac-5.5.0-arm64.dmg.blockmap
+- name: EServer-mac-5.5.0-x64.dmg
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-mac-5.5.0-x64.dmg
+- name: EServer-mac-5.5.0-x64.dmg.blockmap
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-mac-5.5.0-x64.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/latest.yml

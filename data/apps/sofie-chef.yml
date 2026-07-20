@@ -6,3 +6,18 @@ aur:
 - sofie-chef-bin
 electron: 40.10.6
 method: aur-depends
+latest: v0.6.0
+src: https://github.com/Sofie-Automation/sofie-chef/archive/refs/tags/v0.6.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/latest.yml
+- name: sofie-chef_0.6.0_amd64.snap
+  url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/sofie-chef_0.6.0_amd64.snap
+- name: SofieChef-0.6.0-Linux-Executable.AppImage
+  url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Linux-Executable.AppImage
+- name: SofieChef-0.6.0-Windows-Installer.exe
+  url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Windows-Installer.exe
+- name: SofieChef-0.6.0-Windows-Installer.exe.blockmap
+  url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Windows-Installer.exe.blockmap

@@ -5,3 +5,8 @@ aur:
 - onekey-wallet-bin
 electron: 39.8.10
 method: aur-depends
+homebrew: onekey
+downloads:
+- url: https://github.com/OneKeyHQ/app-monorepo/releases/download/v6.5.0/OneKey-Wallet-6.5.0-mac-arm64.dmg
+  name: OneKey-Wallet-6.5.0-mac-arm64.dmg
+  version: 6.5.0

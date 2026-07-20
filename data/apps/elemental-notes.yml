@@ -6,3 +6,8 @@ aur:
 - elemental-notes-git
 electron: 32.3.3
 method: aur-depends
+latest: elemental-notes-v1.1.0-alpha
+src: https://github.com/harryfrzz/Elemental-Notes/archive/refs/tags/elemental-notes-v1.1.0-alpha.zip
+downloads:
+- name: elemental-notes.Setup.1.1.0.zip
+  url: https://github.com/harryfrzz/Elemental-Notes/releases/download/elemental-notes-v1.1.0-alpha/elemental-notes.Setup.1.1.0.zip

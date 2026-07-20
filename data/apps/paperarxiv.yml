@@ -9,3 +9,4 @@ downloads:
 electron: 33.4.11
 method: src-package-lock
 name: PaperArxiv
+electron_src: https://github.com/fuzihaofzh/PaperArxiv/archive/refs/tags/v0.2.1.zip

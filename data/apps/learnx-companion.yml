@@ -6,3 +6,26 @@ aur:
 - learnx-companion-electron-git
 electron: 23.3.13
 method: aur-depends
+latest: v2.5.0
+src: https://github.com/robertying/learnX-companion/archive/refs/tags/v2.5.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/latest.yml
+- name: learnX-companion-linux-x86_64-v2.5.0.AppImage
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-linux-x86_64-v2.5.0.AppImage
+- name: learnX-companion-mac-universal-v2.5.0.dmg
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-mac-universal-v2.5.0.dmg
+- name: learnX-companion-mac-universal-v2.5.0.dmg.blockmap
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-mac-universal-v2.5.0.dmg.blockmap
+- name: learnX-companion-mac-universal-v2.5.0.zip
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-mac-universal-v2.5.0.zip
+- name: learnX-companion-mac-universal-v2.5.0.zip.blockmap
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-mac-universal-v2.5.0.zip.blockmap
+- name: learnX-companion-win-x64-v2.5.0.exe
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-win-x64-v2.5.0.exe
+- name: learnX-companion-win-x64-v2.5.0.exe.blockmap
+  url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-win-x64-v2.5.0.exe.blockmap

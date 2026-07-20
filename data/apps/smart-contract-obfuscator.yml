@@ -6,3 +6,8 @@ aur:
 - smart-contract-obfuscator-git
 electron: 28.3.3
 method: aur-depends
+latest: setup
+src: https://github.com/JKerbin/Smart-Contract-Obfuscator/archive/refs/tags/setup.zip
+downloads:
+- name: SCO.Setup.1.0.0.exe
+  url: https://github.com/JKerbin/SCO-Smart-Contract-Obfuscation-Tool/releases/download/setup/SCO.Setup.1.0.0.exe

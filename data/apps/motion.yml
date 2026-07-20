@@ -6,3 +6,8 @@ packages:
   format: zip
   os: macos
   arch: arm64
+homebrew: motion
+downloads:
+- url: https://github.com/usemotion/desktopapp/releases/download/0.117.0/motion-0.117.0-mac-aarch64.zip
+  name: motion-0.117.0-mac-aarch64.zip
+  version: 0.117.0

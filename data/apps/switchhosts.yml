@@ -1,29 +1,75 @@
 id: switchhosts
 repository: https://github.com/oldj/SwitchHosts
 website: https://swh.app
-latest: v4.2.0
-src: https://github.com/oldj/SwitchHosts/archive/refs/tags/v4.2.0.zip
+latest: v5.0.1
+src: https://github.com/oldj/SwitchHosts/archive/refs/tags/v5.0.1.zip
 downloads:
-- name: SwitchHosts-4.2.0-universal-mac.zip
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts-4.2.0-universal-mac.zip
-- name: SwitchHosts-4.2.0-win.zip
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts-4.2.0-win.zip
-- name: SwitchHosts_linux_amd64_4.2.0.6119.deb
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_linux_amd64_4.2.0.6119.deb
-- name: SwitchHosts_linux_arm64_4.2.0.6119.deb
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_linux_arm64_4.2.0.6119.deb
-- name: SwitchHosts_mac_arm64_4.2.0.6119.dmg
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_mac_arm64_4.2.0.6119.dmg
-- name: SwitchHosts_mac_x64_4.2.0.6119.dmg
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_mac_x64_4.2.0.6119.dmg
-- name: SwitchHosts_windows_installer_arm64_4.2.0.6119.exe
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_arm64_4.2.0.6119.exe
-- name: SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_ia32_4.2.0.6119.exe
-- name: SwitchHosts_windows_installer_x64_4.2.0.6119.exe
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_installer_x64_4.2.0.6119.exe
-- name: SwitchHosts_windows_portable_x64_4.2.0.6119.exe
-  url: https://github.com/oldj/SwitchHosts/releases/download/v4.2.0/SwitchHosts_windows_portable_x64_4.2.0.6119.exe
+- name: latest.json
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/latest.json
+- name: SwitchHosts-5.0.1-linux-aarch64.AppImage
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-aarch64.AppImage
+- name: SwitchHosts-5.0.1-linux-aarch64.rpm
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-aarch64.rpm
+- name: SwitchHosts-5.0.1-linux-aarch64.rpm.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-aarch64.rpm.sig
+- name: SwitchHosts-5.0.1-linux-amd64.AppImage
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-amd64.AppImage
+- name: SwitchHosts-5.0.1-linux-amd64.deb
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-amd64.deb
+- name: SwitchHosts-5.0.1-linux-amd64.deb.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-amd64.deb.sig
+- name: SwitchHosts-5.0.1-linux-arm64.deb
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-arm64.deb
+- name: SwitchHosts-5.0.1-linux-arm64.deb.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-arm64.deb.sig
+- name: SwitchHosts-5.0.1-linux-x86_64.rpm
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-x86_64.rpm
+- name: SwitchHosts-5.0.1-linux-x86_64.rpm.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-x86_64.rpm.sig
+- name: SwitchHosts-5.0.1-mac-aarch64.dmg
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-mac-aarch64.dmg
+- name: SwitchHosts-5.0.1-mac-universal.dmg
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-mac-universal.dmg
+- name: SwitchHosts-5.0.1-mac-x64.dmg
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-mac-x64.dmg
+- name: SwitchHosts-5.0.1-windows-arm64-setup.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-windows-arm64-setup.exe
+- name: SwitchHosts-5.0.1-windows-x64-setup.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-windows-x64-setup.exe
+- name: SwitchHosts-5.0.1-windows-x86-setup.exe
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-windows-x86-setup.exe
+- name: SwitchHosts_5.0.1_aarch64.AppImage.tar.gz
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_aarch64.AppImage.tar.gz
+- name: SwitchHosts_5.0.1_aarch64.AppImage.tar.gz.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_aarch64.AppImage.tar.gz.sig
+- name: SwitchHosts_5.0.1_amd64.AppImage.tar.gz
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_amd64.AppImage.tar.gz
+- name: SwitchHosts_5.0.1_amd64.AppImage.tar.gz.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_amd64.AppImage.tar.gz.sig
+- name: SwitchHosts_5.0.1_arm64-setup.nsis.zip
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_arm64-setup.nsis.zip
+- name: SwitchHosts_5.0.1_arm64-setup.nsis.zip.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_arm64-setup.nsis.zip.sig
+- name: SwitchHosts_5.0.1_x64-setup.nsis.zip
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_x64-setup.nsis.zip
+- name: SwitchHosts_5.0.1_x64-setup.nsis.zip.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_x64-setup.nsis.zip.sig
+- name: SwitchHosts_5.0.1_x86-setup.nsis.zip
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_x86-setup.nsis.zip
+- name: SwitchHosts_5.0.1_x86-setup.nsis.zip.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_5.0.1_x86-setup.nsis.zip.sig
+- name: SwitchHosts_aarch64.app.tar.gz
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_aarch64.app.tar.gz
+- name: SwitchHosts_aarch64.app.tar.gz.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_aarch64.app.tar.gz.sig
+- name: SwitchHosts_universal.app.tar.gz
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_universal.app.tar.gz
+- name: SwitchHosts_universal.app.tar.gz.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_universal.app.tar.gz.sig
+- name: SwitchHosts_x64.app.tar.gz
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_x64.app.tar.gz
+- name: SwitchHosts_x64.app.tar.gz.sig
+  url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts_x64.app.tar.gz.sig
 electron: 30.1.2
 method: src-package-lock
 aur:

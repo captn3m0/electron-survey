@@ -14,3 +14,4 @@ downloads:
   name: Pencil-3.1.1.ga-universal.dmg
   version: 3.1.1
 name: Pencil
+electron_src: https://github.com/evolus/pencil/archive/refs/tags/v3.1.1.zip

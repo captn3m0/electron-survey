@@ -6,3 +6,13 @@ aur:
 - atom-chess-git
 electron: 31.7.7
 method: aur-depends
+latest: v3.0.1
+src: https://github.com/awbridgers/atom-chess/archive/refs/tags/v3.0.1.zip
+downloads:
+- name: atom-chess-win32-3.0.1.exe
+  url: https://github.com/awbridgers/atom-chess/releases/download/v3.0.1/atom-chess-win32-3.0.1.exe
+- name: atom-chess-win32-3.0.1.exe.blockmap
+  url: https://github.com/awbridgers/atom-chess/releases/download/v3.0.1/atom-chess-win32-3.0.1.exe.blockmap
+- name: latest.yml
+  url: https://github.com/awbridgers/atom-chess/releases/download/v3.0.1/latest.yml
+we_tried: we0:v3.0.1

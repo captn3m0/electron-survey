@@ -6,3 +6,12 @@ aur:
 - github-panel-bin
 electron: 33.4.11
 method: aur-depends
+latest: v0.1.0
+src: https://github.com/littlebutt/github-panel/archive/refs/tags/v0.1.0.zip
+downloads:
+- name: github-panel-0.1.0.Setup.exe
+  url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel-0.1.0.Setup.exe
+- name: github-panel-darwin-arm64-0.1.0.zip
+  url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel-darwin-arm64-0.1.0.zip
+- name: github-panel_0.1.0_amd64.deb
+  url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel_0.1.0_amd64.deb

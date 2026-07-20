@@ -38,6 +38,47 @@ electron: 39.8.10
 method: aur-depends
 homebrew: piclist
 downloads:
-- url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-arm64.dmg
-  name: PicList-3.5.0-arm64.dmg
-  version: 3.5.0
+- name: latest-linux-arm64.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/latest.yml
+- name: PicList-3.5.0-aarch64.rpm
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-aarch64.rpm
+- name: PicList-3.5.0-amd64.deb
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-amd64.deb
+- name: PicList-3.5.0-amd64.snap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-amd64.snap
+- name: PicList-3.5.0-arm64.AppImage
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-arm64.AppImage
+- name: PicList-3.5.0-arm64.deb
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-arm64.deb
+- name: PicList-3.5.0-arm64.dmg
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-arm64.dmg
+- name: PicList-3.5.0-arm64.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-arm64.zip
+- name: PicList-3.5.0-x64.dmg
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-x64.dmg
+- name: PicList-3.5.0-x64.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-x64.zip
+- name: PicList-3.5.0-x86_64.AppImage
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-x86_64.AppImage
+- name: PicList-3.5.0-x86_64.rpm
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-x86_64.rpm
+- name: PicList-Setup-3.5.0-arm64-portable.7z
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-arm64-portable.7z
+- name: PicList-Setup-3.5.0-arm64-portable.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-arm64-portable.zip
+- name: PicList-Setup-3.5.0-arm64.exe
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-arm64.exe
+- name: PicList-Setup-3.5.0-x64-portable.7z
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-x64-portable.7z
+- name: PicList-Setup-3.5.0-x64-portable.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-x64-portable.zip
+- name: PicList-Setup-3.5.0-x64.exe
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-x64.exe
+latest: v3.5.0
+src: https://github.com/Kuingsmile/PicList/archive/refs/tags/v3.5.0.zip

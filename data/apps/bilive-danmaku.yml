@@ -6,3 +6,13 @@ aur:
 - bilive-danmaku-git
 electron: 26.6.10
 method: aur-depends
+latest: v1.0.11
+src: https://github.com/Beats0/bilive-danmaku/archive/refs/tags/v1.0.11.zip
+downloads:
+- name: bilive-danmaku-1.0.11-arm64.dmg
+  url: https://github.com/Beats0/bilive-danmaku/releases/download/v1.0.11/bilive-danmaku-1.0.11-arm64.dmg
+- name: bilive-danmaku-1.0.11.dmg
+  url: https://github.com/Beats0/bilive-danmaku/releases/download/v1.0.11/bilive-danmaku-1.0.11.dmg
+- name: bilive-danmaku.Setup.1.0.11.exe
+  url: https://github.com/Beats0/bilive-danmaku/releases/download/v1.0.11/bilive-danmaku.Setup.1.0.11.exe
+we_tried: we0:v1.0.11

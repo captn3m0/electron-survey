@@ -6,3 +6,24 @@ aur:
 - mqtt5-explorer-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.19.1
+src: https://github.com/Omniaevo/mqtt5-explorer/archive/refs/tags/v1.19.1.zip
+downloads:
+- name: io.github.Omniaevo.mqtt5-explorer.tar.gz
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/io.github.Omniaevo.mqtt5-explorer.tar.gz
+- name: latest-linux.yml
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/latest-mac.yml
+- name: mqtt5-explorer-1.19.1-darwin-arm64.dmg
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/mqtt5-explorer-1.19.1-darwin-arm64.dmg
+- name: mqtt5-explorer-1.19.1-darwin-arm64.dmg.blockmap
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/mqtt5-explorer-1.19.1-darwin-arm64.dmg.blockmap
+- name: mqtt5-explorer-1.19.1-darwin-x64.dmg
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/mqtt5-explorer-1.19.1-darwin-x64.dmg
+- name: mqtt5-explorer-1.19.1-darwin-x64.dmg.blockmap
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/mqtt5-explorer-1.19.1-darwin-x64.dmg.blockmap
+- name: mqtt5-explorer-1.19.1-linux-x86_64.AppImage
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/mqtt5-explorer-1.19.1-linux-x86_64.AppImage
+- name: mqtt5-explorer-1.19.1-win32-x64.exe
+  url: https://github.com/Omniaevo/mqtt5-explorer/releases/download/v1.19.1/mqtt5-explorer-1.19.1-win32-x64.exe

@@ -6,3 +6,5 @@ aur:
 - ciliterm-git
 electron: 36.9.5
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/ciliverse/ciliterm/archive/refs/tags/v1.0.0.zip

@@ -21,3 +21,4 @@ method: src-package-lock
 aur:
 - kahla-bin
 name: Kahla
+electron_src: https://github.com/AiursoftWeb/Kahla.App/archive/refs/tags/v4.5.0.zip

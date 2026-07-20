@@ -13,6 +13,37 @@ packages:
   arch: x64
 homebrew: zo
 downloads:
-- url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip
-  name: Zo-1.5.10-universal-mac.zip
-  version: 1.5.10
+- name: latest-linux-arm64.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest.yml
+- name: Zo-1.5.10-amd64.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-amd64.deb
+- name: Zo-1.5.10-arm64.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-arm64.deb
+- name: Zo-1.5.10-setup.exe
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-setup.exe
+- name: Zo-1.5.10-setup.exe.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-setup.exe.blockmap
+- name: Zo-1.5.10-universal-mac.zip
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip
+- name: Zo-1.5.10-universal-mac.zip.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip.blockmap
+- name: Zo-1.5.10-universal.dmg
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal.dmg
+- name: Zo-1.5.10-universal.dmg.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal.dmg.blockmap
+- name: Zo-arm64.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-arm64.deb
+- name: Zo-setup.exe
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-setup.exe
+- name: Zo.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo.deb
+- name: Zo.dmg
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo.dmg
+latest: v1.5.10
+src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.10.zip

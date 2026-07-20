@@ -3,3 +3,8 @@ name: Guilded_arch_electron
 website: https://www.guilded.gg/
 aur:
 - guilded_arch_electron
+homebrew: guilded
+downloads:
+- url: https://www.guilded.gg/AppBuilds/mac/Guilded-1.0.9329126-release.dmg
+  name: Guilded-1.0.9329126-release.dmg
+  version: 1.0.9329126

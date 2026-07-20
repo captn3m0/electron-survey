@@ -19,3 +19,31 @@ packages:
   format: deb
   os: linux
   arch: x64
+latest: v3.5.0
+src: https://github.com/caorushizi/mediago/archive/refs/tags/v3.5.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/latest.yml
+- name: mediago-community-portable-win32-x64-3.5.0.exe
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-portable-win32-x64-3.5.0.exe
+- name: mediago-community-setup-darwin-arm64-3.5.0.dmg
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-arm64-3.5.0.dmg
+- name: mediago-community-setup-darwin-arm64-3.5.0.dmg.blockmap
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-arm64-3.5.0.dmg.blockmap
+- name: mediago-community-setup-darwin-x64-3.5.0.dmg
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-x64-3.5.0.dmg
+- name: mediago-community-setup-darwin-x64-3.5.0.dmg.blockmap
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-darwin-x64-3.5.0.dmg.blockmap
+- name: mediago-community-setup-linux-amd64-3.5.0.deb
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-linux-amd64-3.5.0.deb
+- name: mediago-community-setup-win32-x64-3.5.0.exe
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-win32-x64-3.5.0.exe
+- name: mediago-community-setup-win32-x64-3.5.0.exe.blockmap
+  url: https://github.com/mediago-dev/mediago/releases/download/v3.5.0/mediago-community-setup-win32-x64-3.5.0.exe.blockmap
+electron: 41.1.0
+method: src-pnpm-lock
+electron_src: https://github.com/caorushizi/mediago/archive/refs/tags/v3.5.0.zip

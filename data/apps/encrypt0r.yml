@@ -1,10 +1,24 @@
 id: encrypt0r
 repository: https://github.com/kunalnagar/encrypt0r
 website: https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/
-latest: v3.12.64
-src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.64.zip
-electron: 35.7.5
+latest: v3.12.70
+src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.70.zip
+electron: 39.8.5
 method: src-yarn-lock
 aur:
 - encrypt0r-bin
 name: encrypt0r
+downloads:
+- name: encrypt0r-linux-deb.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-deb.zip
+- name: encrypt0r-linux-x64.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-x64.zip
+- name: encrypt0r-mac-m1.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-mac-m1.zip
+- name: encrypt0r-mac.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-mac.zip
+- name: encrypt0r-windows-x64.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-windows-x64.zip
+- name: encrypt0r-windows-x86.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-windows-x86.zip
+electron_src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.70.zip

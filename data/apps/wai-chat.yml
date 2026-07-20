@@ -6,3 +6,14 @@ aur:
 - wai-chat-desktop
 electron: 24.8.8
 method: aur-depends
+latest: v1.1.2
+src: https://github.com/ptp-build/wai-chat-desktop/archive/refs/tags/v1.1.2.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/RELEASES
+- name: Wai.Chat-1.1.2.Setup.exe
+  url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/Wai.Chat-1.1.2.Setup.exe
+- name: Wai.Chat-darwin-x64-1.1.2.zip
+  url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/Wai.Chat-darwin-x64-1.1.2.zip
+- name: wai_chat_desktopt-1.1.2-full.nupkg
+  url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/wai_chat_desktopt-1.1.2-full.nupkg

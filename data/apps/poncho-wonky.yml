@@ -6,3 +6,38 @@ aur:
 - poncho-wonky
 electron: 39.8.10
 method: aur-depends
+latest: v5.3.0
+src: https://github.com/soapdog/patchwork/archive/refs/tags/v5.3.0.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/latest.yml
+- name: Poncho-Wonky-5.3.0-arm64.dmg
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/Poncho-Wonky-5.3.0-arm64.dmg
+- name: Poncho-Wonky-5.3.0-arm64.dmg.blockmap
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/Poncho-Wonky-5.3.0-arm64.dmg.blockmap
+- name: Poncho-Wonky-5.3.0.dmg
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/Poncho-Wonky-5.3.0.dmg
+- name: Poncho-Wonky-5.3.0.dmg.blockmap
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/Poncho-Wonky-5.3.0.dmg.blockmap
+- name: ponchowonky-5.3.0-arm64.tar.gz
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky-5.3.0-arm64.tar.gz
+- name: ponchowonky-5.3.0-linux-arm64.AppImage
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky-5.3.0-linux-arm64.AppImage
+- name: ponchowonky-5.3.0-linux-x86_64.AppImage
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky-5.3.0-linux-x86_64.AppImage
+- name: ponchowonky-5.3.0-windows-x64-nsis-installer.exe
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky-5.3.0-windows-x64-nsis-installer.exe
+- name: ponchowonky-5.3.0-windows-x64-nsis-installer.exe.blockmap
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky-5.3.0-windows-x64-nsis-installer.exe.blockmap
+- name: ponchowonky-5.3.0.tar.gz
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky-5.3.0.tar.gz
+- name: ponchowonky_5.3.0_amd64.deb
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky_5.3.0_amd64.deb
+- name: ponchowonky_5.3.0_arm64.deb
+  url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky_5.3.0_arm64.deb

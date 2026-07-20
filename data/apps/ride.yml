@@ -27,3 +27,4 @@ downloads:
 electron: 34.5.5
 method: src-package-lock
 name: RIDE
+electron_src: https://github.com/Dyalog/ride/archive/refs/tags/v4.6.4267.zip

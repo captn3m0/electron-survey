@@ -6,3 +6,12 @@ aur:
 - catcat-dm-react
 electron: 23.3.13
 method: aur-depends
+latest: v2.0.1
+src: https://github.com/kokolokksk/catcat-dm-react/archive/refs/tags/v2.0.1.zip
+downloads:
+- name: CatCatDM-2.0.1-win.7z
+  url: https://github.com/kokolokksk/catcat-dm-react/releases/download/v2.0.1/CatCatDM-2.0.1-win.7z
+- name: CatCatDM.Setup.2.0.1.exe
+  url: https://github.com/kokolokksk/catcat-dm-react/releases/download/v2.0.1/CatCatDM.Setup.2.0.1.exe
+- name: latest.yml
+  url: https://github.com/kokolokksk/catcat-dm-react/releases/download/v2.0.1/latest.yml

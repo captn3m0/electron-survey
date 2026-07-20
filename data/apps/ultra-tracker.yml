@@ -6,3 +6,12 @@ aur:
 - ultra-tracker-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.0.3
+src: https://github.com/barcradio/ultra-tracker/archive/refs/tags/v1.0.3.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.0.3/builder-debug.yml
+- name: latest.yml
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.0.3/latest.yml
+- name: ultra-tracker-1.0.3-setup.exe
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.0.3/ultra-tracker-1.0.3-setup.exe

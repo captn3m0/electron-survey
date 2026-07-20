@@ -31,8 +31,39 @@ aur:
 - kando-git
 homebrew: kando
 downloads:
-- url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1-arm64.dmg
-  name: Kando-2.3.1-arm64.dmg
-  version: 2.3.1
+- name: kando-2.3.1-1.arm64.rpm
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/kando-2.3.1-1.arm64.rpm
+- name: kando-2.3.1-1.x86_64.rpm
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/kando-2.3.1-1.x86_64.rpm
+- name: Kando-2.3.1-aarch64.AppImage
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1-aarch64.AppImage
+- name: Kando-2.3.1-arm64.dmg
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1-arm64.dmg
+- name: Kando-2.3.1-x64.dmg
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1-x64.dmg
+- name: Kando-2.3.1-x86_64.AppImage
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1-x86_64.AppImage
+- name: Kando-2.3.1.Setup-arm64.exe
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1.Setup-arm64.exe
+- name: Kando-2.3.1.Setup-x64.exe
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-2.3.1.Setup-x64.exe
+- name: Kando-darwin-arm64-2.3.1.zip
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-darwin-arm64-2.3.1.zip
+- name: Kando-darwin-x64-2.3.1.zip
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-darwin-x64-2.3.1.zip
+- name: Kando-linux-arm64-2.3.1.zip
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-linux-arm64-2.3.1.zip
+- name: Kando-linux-x64-2.3.1.zip
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-linux-x64-2.3.1.zip
+- name: Kando-win32-arm64-2.3.1.zip
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-win32-arm64-2.3.1.zip
+- name: Kando-win32-x64-2.3.1.zip
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/Kando-win32-x64-2.3.1.zip
+- name: kando_2.3.1_amd64.deb
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/kando_2.3.1_amd64.deb
+- name: kando_2.3.1_arm64.deb
+  url: https://github.com/kando-menu/kando/releases/download/v2.3.1/kando_2.3.1_arm64.deb
 electron: 41.2.0
 method: which-electron-rg
+latest: v2.3.1
+src: https://github.com/kando-menu/kando/archive/refs/tags/v2.3.1.zip

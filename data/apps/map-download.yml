@@ -6,3 +6,12 @@ aur:
 - map-download-git
 electron: 16.2.8
 method: aur-depends
+latest: v26.5.29-563
+src: https://github.com/Hxy1992/MapDownload/archive/refs/tags/v26.5.29-563.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.5.29-563/latest.yml
+- name: map-download-Setup-26.5.29-563.exe
+  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.5.29-563/map-download-Setup-26.5.29-563.exe
+- name: map-download-Setup-26.5.29-563.exe.blockmap
+  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.5.29-563/map-download-Setup-26.5.29-563.exe.blockmap

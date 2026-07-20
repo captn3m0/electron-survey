@@ -43,3 +43,4 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+electron_src: https://github.com/255kb/mockoon/archive/refs/tags/v9.5.0.zip

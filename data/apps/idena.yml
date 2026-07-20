@@ -4,3 +4,27 @@ website: https://github.com/idena-network/idena-desktop
 repository: https://github.com/idena-network/idena-desktop
 aur:
 - idena-desktop-git
+latest: v0.39.1
+src: https://github.com/idena-network/idena-desktop/archive/refs/tags/v0.39.1.zip
+downloads:
+- name: idena-client-linux-0.39.1.deb
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-linux-0.39.1.deb
+- name: idena-client-mac-0.39.1.dmg
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-mac-0.39.1.dmg
+- name: idena-client-mac-0.39.1.dmg.blockmap
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-mac-0.39.1.dmg.blockmap
+- name: idena-client-mac-0.39.1.zip
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-mac-0.39.1.zip
+- name: idena-client-mac-0.39.1.zip.blockmap
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-mac-0.39.1.zip.blockmap
+- name: idena-client-win-0.39.1.exe
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-win-0.39.1.exe
+- name: idena-client-win-0.39.1.exe.blockmap
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/idena-client-win-0.39.1.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/idena-network/idena-desktop/releases/download/v0.39.1/latest.yml
+electron: 9.4.0
+method: src-package-lock
+electron_src: https://github.com/idena-network/idena-desktop/archive/refs/tags/v0.39.1.zip

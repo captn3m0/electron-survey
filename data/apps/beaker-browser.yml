@@ -24,3 +24,5 @@ aur:
 - beaker-browser-bin
 - beaker-browser-git
 name: Beaker Browser
+electron_src: https://github.com/beakerbrowser/beaker/archive/refs/tags/1.1.0.zip
+we_tried: we0:1.1.0

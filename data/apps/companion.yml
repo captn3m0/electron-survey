@@ -14,3 +14,4 @@ aur:
 - companion
 homebrew: companion
 name: Companion
+electron_src: https://github.com/brunurd/companion/archive/refs/tags/v1.5.9.zip

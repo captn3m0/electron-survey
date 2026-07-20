@@ -6,3 +6,10 @@ aur:
 - webs-tray-git
 electron: 41.10.2
 method: aur-depends
+latest: v1.3.2
+src: https://github.com/symant233/WebsTray/archive/refs/tags/v1.3.2.zip
+downloads:
+- name: WebsTray-1.3.2.Setup.exe
+  url: https://github.com/symant233/WebsTray/releases/download/v1.3.2/WebsTray-1.3.2.Setup.exe
+- name: WebsTray-win32-x64-1.3.2.zip
+  url: https://github.com/symant233/WebsTray/releases/download/v1.3.2/WebsTray-win32-x64-1.3.2.zip

@@ -1,13 +1,19 @@
 id: display-dj
 repository: https://github.com/synle/display-dj
 website: https://synle.github.io/display-dj/
-latest: 1.11.8
-src: https://github.com/synle/display-dj/archive/refs/tags/1.11.8.zip
+latest: v7.0.34
+src: https://github.com/synle/display-dj/archive/refs/tags/v7.0.34.zip
 downloads:
-- name: display-dj-darwin.dmg
-  url: https://github.com/synle/display-dj/releases/download/1.11.8/display-dj-darwin.dmg
-- name: display-dj-setup.exe
-  url: https://github.com/synle/display-dj/releases/download/1.11.8/display-dj-setup.exe
+- name: Display.DJ_7.0.34_aarch64.dmg
+  url: https://github.com/synle/display-dj/releases/download/v7.0.34/Display.DJ_7.0.34_aarch64.dmg
+- name: Display.DJ_7.0.34_amd64.AppImage
+  url: https://github.com/synle/display-dj/releases/download/v7.0.34/Display.DJ_7.0.34_amd64.AppImage
+- name: Display.DJ_7.0.34_amd64.deb
+  url: https://github.com/synle/display-dj/releases/download/v7.0.34/Display.DJ_7.0.34_amd64.deb
+- name: Display.DJ_7.0.34_x64-setup.exe
+  url: https://github.com/synle/display-dj/releases/download/v7.0.34/Display.DJ_7.0.34_x64-setup.exe
+- name: Display.DJ_7.0.34_x64.dmg
+  url: https://github.com/synle/display-dj/releases/download/v7.0.34/Display.DJ_7.0.34_x64.dmg
 electron: 19.1.9
 method: src-range-guess
 aur:

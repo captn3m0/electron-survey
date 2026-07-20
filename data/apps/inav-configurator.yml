@@ -11,8 +11,35 @@ aur:
 - inav-configurator
 homebrew: inav-configurator
 downloads:
-- url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_MacOS_arm64_9.1.1.zip
-  name: INAV-Configurator_MacOS_arm64_9.1.1.zip
-  version: 9.1.1
+- name: INAV-Configurator_linux_arm64_9.1.1.deb
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_arm64_9.1.1.deb
+- name: INAV-Configurator_linux_arm64_9.1.1.rpm
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_arm64_9.1.1.rpm
+- name: INAV-Configurator_linux_arm64_9.1.1.zip
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_arm64_9.1.1.zip
+- name: INAV-Configurator_linux_x64_9.1.1.deb
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_x64_9.1.1.deb
+- name: INAV-Configurator_linux_x64_9.1.1.rpm
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_x64_9.1.1.rpm
+- name: INAV-Configurator_linux_x64_9.1.1.zip
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_x64_9.1.1.zip
+- name: INAV-Configurator_MacOS_arm64_9.1.1.dmg
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_MacOS_arm64_9.1.1.dmg
+- name: INAV-Configurator_MacOS_arm64_9.1.1.zip
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_MacOS_arm64_9.1.1.zip
+- name: INAV-Configurator_MacOS_x64_9.1.1.dmg
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_MacOS_x64_9.1.1.dmg
+- name: INAV-Configurator_MacOS_x64_9.1.1.zip
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_MacOS_x64_9.1.1.zip
+- name: INAV-Configurator_Win32_9.1.1.msi
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_Win32_9.1.1.msi
+- name: INAV-Configurator_Win32_9.1.1.zip
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_Win32_9.1.1.zip
+- name: INAV-Configurator_Win64_9.1.1.msi
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_Win64_9.1.1.msi
+- name: INAV-Configurator_Win64_9.1.1.zip
+  url: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_Win64_9.1.1.zip
 electron: 38.7.2
 method: which-electron-rg
+latest: 9.1.1
+src: https://github.com/iNavFlight/inav-configurator/archive/refs/tags/9.1.1.zip

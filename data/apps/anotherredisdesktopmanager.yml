@@ -29,3 +29,4 @@ downloads:
 electron: 12.2.3
 method: src-package-lock
 name: AnotherRedisDesktopManager
+electron_src: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.1.zip

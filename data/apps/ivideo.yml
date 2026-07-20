@@ -4,3 +4,13 @@ website: https://github.com/phobal/ivideo
 repository: https://github.com/phobal/ivideo
 aur:
 - ivideo
+latest: v1.1.4
+src: https://github.com/phobal/ivideo/archive/refs/tags/v1.1.4.zip
+downloads:
+- name: ivideo-1.1.4.dmg.zip
+  url: https://github.com/phobal/ivideo/releases/download/v1.1.4/ivideo-1.1.4.dmg.zip
+- name: ivideo.Setup.1.1.4.exe.zip
+  url: https://github.com/phobal/ivideo/releases/download/v1.1.4/ivideo.Setup.1.1.4.exe.zip
+electron: 1.8.4
+method: src-package-lock
+electron_src: https://github.com/phobal/ivideo/archive/refs/tags/v1.1.4.zip

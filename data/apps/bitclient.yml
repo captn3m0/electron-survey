@@ -6,3 +6,35 @@ aur:
 - bitclient-bin
 electron: 31.7.7
 method: aur-depends
+latest: v1.0.0-beta9
+src: https://github.com/sgolub/bitclient/archive/refs/tags/v1.0.0-beta9.zip
+downloads:
+- name: Bitclient-1.0.0-beta9-setup.exe
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9-setup.exe
+- name: Bitclient-1.0.0-beta9-setup.exe.blockmap
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9-setup.exe.blockmap
+- name: Bitclient-1.0.0-beta9.AppImage
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.AppImage
+- name: Bitclient-1.0.0-beta9.arm64.dmg
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.arm64.dmg
+- name: Bitclient-1.0.0-beta9.arm64.dmg.blockmap
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.arm64.dmg.blockmap
+- name: Bitclient-1.0.0-beta9.arm64.zip
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.arm64.zip
+- name: Bitclient-1.0.0-beta9.arm64.zip.blockmap
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.arm64.zip.blockmap
+- name: Bitclient-1.0.0-beta9.x64.dmg
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.x64.dmg
+- name: Bitclient-1.0.0-beta9.x64.dmg.blockmap
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.x64.dmg.blockmap
+- name: Bitclient-1.0.0-beta9.x64.zip
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.x64.zip
+- name: Bitclient-1.0.0-beta9.x64.zip.blockmap
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/Bitclient-1.0.0-beta9.x64.zip.blockmap
+- name: latest-linux.yml
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/sgolub/bitclient/releases/download/v1.0.0-beta9/latest.yml
+we_tried: we0:v1.0.0-beta9

@@ -4,3 +4,13 @@ website: https://github.com/Riceneeder/electronic-wechat
 repository: https://github.com/Riceneeder/electronic-wechat
 aur:
 - electronic-wechat-uos-bin
+latest: v2.3.2-6
+src: https://github.com/Riceneeder/electronic-wechat/archive/refs/tags/v2.3.2-6.zip
+downloads:
+- name: electronic-wechat_2.3.2_amd64.deb
+  url: https://github.com/Riceneeder/electronic-wechat/releases/download/v2.3.2-6/electronic-wechat_2.3.2_amd64.deb
+- name: electronic-wechat_2.3.2_arm64.deb
+  url: https://github.com/Riceneeder/electronic-wechat/releases/download/v2.3.2-6/electronic-wechat_2.3.2_arm64.deb
+electron: 20.3.12
+method: src-range-guess
+electron_src: https://github.com/Riceneeder/electronic-wechat/archive/refs/tags/v2.3.2-6.zip

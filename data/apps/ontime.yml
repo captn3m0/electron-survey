@@ -25,8 +25,19 @@ packages:
   arch: arm64
 homebrew: ontime
 downloads:
-- url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-macOS-arm64.dmg
-  name: ontime-macOS-arm64.dmg
-  version: 4.10.0
+- name: ontime-linux-arm64.AppImage
+  url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-linux-arm64.AppImage
+- name: ontime-linux-armv7l.AppImage
+  url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-linux-armv7l.AppImage
+- name: ontime-linux-x86_64.AppImage
+  url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-linux-x86_64.AppImage
+- name: ontime-macOS-arm64.dmg
+  url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-macOS-arm64.dmg
+- name: ontime-macOS-x64.dmg
+  url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-macOS-x64.dmg
+- name: ontime-win64.exe
+  url: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-win64.exe
 electron: 38.2.1
 method: which-electron-rg
+latest: v4.10.0
+src: https://github.com/cpvalente/ontime/archive/refs/tags/v4.10.0.zip

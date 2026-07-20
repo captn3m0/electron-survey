@@ -35,3 +35,4 @@ downloads:
 electron: 17.4.11
 method: src-yarn-lock
 name: y2mp3
+electron_src: https://github.com/moshfeu/y2mp3/archive/refs/tags/v3.0.1.zip

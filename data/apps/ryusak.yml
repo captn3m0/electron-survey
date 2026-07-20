@@ -6,3 +6,24 @@ aur:
 - ryusak
 electron: 21.4.4
 method: aur-depends
+latest: v1.6.2
+src: https://github.com/Ecks1337/RyuSAK/archive/refs/tags/v1.6.2.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RELEASES
+- name: RyuSAK-1.6.2-1.x86_64.rpm
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-1.6.2-1.x86_64.rpm
+- name: RyuSAK-1.6.2-arm64.dmg
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-1.6.2-arm64.dmg
+- name: RyuSAK-1.6.2-full.nupkg
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-1.6.2-full.nupkg
+- name: RyuSAK-1.6.2.Setup.exe
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-1.6.2.Setup.exe
+- name: RyuSAK-darwin-arm64-1.6.2.zip
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-darwin-arm64-1.6.2.zip
+- name: RyuSAK-linux-x64-1.6.2.zip
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-linux-x64-1.6.2.zip
+- name: RyuSAK-win32-x64-1.6.2.zip
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-win32-x64-1.6.2.zip
+- name: ryusak_1.6.2_amd64.deb
+  url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/ryusak_1.6.2_amd64.deb

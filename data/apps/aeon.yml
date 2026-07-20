@@ -31,3 +31,4 @@ aur:
 electron: 23.3.13
 method: aur-depends
 name: Aeon
+we_tried: we0:v0.2.22

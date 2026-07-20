@@ -6,3 +6,10 @@ aur:
 - pihead-gui-git
 electron: 27.3.11
 method: aur-depends
+latest: v0.0.1
+src: https://github.com/jaredthejellyfish/pihead-gui/archive/refs/tags/v0.0.1.zip
+downloads:
+- name: pihead-gui-Linux-ARM64-0.0.1.AppImage
+  url: https://github.com/jaredthejellyfish/pihead-gui/releases/download/v0.0.1/pihead-gui-Linux-ARM64-0.0.1.AppImage
+- name: pihead-gui-Mac-0.0.1-Installer.dmg
+  url: https://github.com/jaredthejellyfish/pihead-gui/releases/download/v0.0.1/pihead-gui-Mac-0.0.1-Installer.dmg

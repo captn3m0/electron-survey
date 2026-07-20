@@ -6,3 +6,18 @@ aur:
 - harmony-bin
 electron: 33.4.11
 method: aur-depends
+latest: v1.6.0
+src: https://github.com/jvegaf/harmony/archive/refs/tags/v1.6.0.zip
+downloads:
+- name: harmony-1.6.0-setup.exe
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0-setup.exe
+- name: harmony-1.6.0-setup.exe.blockmap
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0-setup.exe.blockmap
+- name: harmony-1.6.0.AppImage
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0.AppImage
+- name: harmony_1.6.0_amd64.deb
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony_1.6.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/latest.yml

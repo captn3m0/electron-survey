@@ -9,3 +9,4 @@ downloads:
 electron: 5.0.13
 method: src-package-lock
 name: mdp
+electron_src: https://github.com/ericlink/mdp/archive/refs/tags/v1.0.0.zip

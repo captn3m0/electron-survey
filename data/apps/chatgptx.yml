@@ -6,3 +6,16 @@ aur:
 - chatgptx-bin
 electron: 13.6.9
 method: aur-depends
+latest: v1.0.1
+src: https://github.com/florindumitru/chatgpt-desktop-tray/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: ChatGPTx-1.0.1.AppImage
+  url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/ChatGPTx-1.0.1.AppImage
+- name: ChatGPTx-1.0.1.dmg
+  url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/ChatGPTx-1.0.1.dmg
+- name: ChatGPTx.Setup.1.0.1.exe
+  url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/ChatGPTx.Setup.1.0.1.exe
+- name: ChatGPTx.Setup.1.0.1.exe.zip
+  url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/ChatGPTx.Setup.1.0.1.exe.zip
+- name: chatgptx_1.0.1_amd64.deb
+  url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/chatgptx_1.0.1_amd64.deb

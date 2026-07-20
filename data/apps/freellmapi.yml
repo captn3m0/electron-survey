@@ -4,3 +4,13 @@ website: https://github.com/tashfeenahmed/freellmapi
 repository: https://github.com/tashfeenahmed/freellmapi
 aur:
 - freellmapi-desktop-git
+latest: v0.5.0
+src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.5.0.zip
+downloads:
+- name: FreeLLMAPI-0.5.0-arm64.dmg
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.5.0/FreeLLMAPI-0.5.0-arm64.dmg
+- name: FreeLLMAPI.Setup.0.5.0.exe
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.5.0/FreeLLMAPI.Setup.0.5.0.exe
+electron: 33.4.11
+method: src-package-lock
+electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.5.0.zip

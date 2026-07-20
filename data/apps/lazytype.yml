@@ -10,3 +10,4 @@ downloads:
 electron: 6.1.12
 method: src-range-guess
 name: lazyType
+electron_src: https://github.com/ngudbhav/lazyType/archive/refs/tags/v1.0.1.zip

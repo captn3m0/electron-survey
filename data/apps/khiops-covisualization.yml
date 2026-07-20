@@ -6,3 +6,50 @@ aur:
 - khiops-covisualization-bin
 electron: 39.8.10
 method: aur-depends
+latest: v11.6.0
+src: https://github.com/KhiopsML/kc-electron/archive/refs/tags/v11.6.0.zip
+downloads:
+- name: khiops-covisualization-11.6.0-arm64-mac.zip
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0-arm64-mac.zip
+- name: khiops-covisualization-11.6.0-arm64.AppImage
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0-arm64.AppImage
+- name: khiops-covisualization-11.6.0-arm64.dmg
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0-arm64.dmg
+- name: khiops-covisualization-11.6.0-arm64.dmg.blockmap
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0-arm64.dmg.blockmap
+- name: khiops-covisualization-11.6.0-arm64.zip
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0-arm64.zip
+- name: khiops-covisualization-11.6.0-mac.zip
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0-mac.zip
+- name: khiops-covisualization-11.6.0.aarch64.rpm
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0.aarch64.rpm
+- name: khiops-covisualization-11.6.0.AppImage
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0.AppImage
+- name: khiops-covisualization-11.6.0.dmg
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0.dmg
+- name: khiops-covisualization-11.6.0.dmg.blockmap
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0.dmg.blockmap
+- name: khiops-covisualization-11.6.0.x86_64.rpm
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0.x86_64.rpm
+- name: khiops-covisualization-11.6.0.zip
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-11.6.0.zip
+- name: khiops-covisualization-Setup-11.6.0.exe
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-Setup-11.6.0.exe
+- name: khiops-covisualization-Setup-11.6.0.exe.blockmap
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization-Setup-11.6.0.exe.blockmap
+- name: khiops-covisualization_11.6.0_amd64.deb
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization_11.6.0_amd64.deb
+- name: khiops-covisualization_11.6.0_arm64.deb
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops-covisualization_11.6.0_arm64.deb
+- name: khiops.covisualization-11.6.0-arm64-mac.zip.blockmap
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops.covisualization-11.6.0-arm64-mac.zip.blockmap
+- name: khiops.covisualization-11.6.0-mac.zip.blockmap
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/khiops.covisualization-11.6.0-mac.zip.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/KhiopsML/kc-electron/releases/download/v11.6.0/latest.yml

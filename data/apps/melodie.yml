@@ -33,3 +33,4 @@ method: src-package-lock
 aur:
 - melodie-bin
 name: Mélodie
+electron_src: https://github.com/feugy/melodie/archive/refs/tags/v2.0.0.zip

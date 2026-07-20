@@ -8,3 +8,20 @@ packages:
   os: macos
 electron: 1.7.12
 method: which-electron-fingerprint
+latest: v2.0.1
+src: https://github.com/gielcobben/caption/archive/refs/tags/v2.0.1.zip
+downloads:
+- name: caption-2.0.1-mac.zip
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-2.0.1-mac.zip
+- name: Caption-2.0.1.dmg
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/Caption-2.0.1.dmg
+- name: caption-setup-2.0.1.exe
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-setup-2.0.1.exe
+- name: caption_2.0.1_amd64.deb
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption_2.0.1_amd64.deb
+- name: latest-mac.json
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/latest-mac.json
+- name: latest-mac.yml
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/gielcobben/caption/releases/download/v2.0.1/latest.yml

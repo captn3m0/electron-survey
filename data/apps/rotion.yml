@@ -6,3 +6,28 @@ aur:
 - rotion-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.0.10
+src: https://github.com/ssisaias/rotion/archive/refs/tags/v1.0.10.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/latest.yml
+- name: Rotion-1.0.10-mac.zip
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/Rotion-1.0.10-mac.zip
+- name: Rotion-1.0.10-mac.zip.blockmap
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/Rotion-1.0.10-mac.zip.blockmap
+- name: rotion-1.0.10-setup.exe
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10-setup.exe
+- name: rotion-1.0.10-setup.exe.blockmap
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10-setup.exe.blockmap
+- name: rotion-1.0.10.AppImage
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10.AppImage
+- name: rotion-1.0.10.dmg
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10.dmg
+- name: rotion-1.0.10.dmg.blockmap
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10.dmg.blockmap
+- name: rotion_1.0.10_amd64.deb
+  url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion_1.0.10_amd64.deb

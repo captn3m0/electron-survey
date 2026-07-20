@@ -11,3 +11,36 @@ packages:
   arch: arm64
 electron: 40.10.6
 method: aur-depends
+latest: v0.0.53
+src: https://github.com/DmytroVasin/DrawPen/archive/refs/tags/v0.0.53.zip
+downloads:
+- name: drawpen-0.0.53-1.x86_64.rpm
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen-0.0.53-1.x86_64.rpm
+- name: DrawPen-0.0.53-arm64.dmg
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-0.0.53-arm64.dmg
+- name: DrawPen-0.0.53-full.nupkg
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-0.0.53-full.nupkg
+- name: DrawPen-0.0.53-x64.dmg
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-0.0.53-x64.dmg
+- name: DrawPen-darwin-arm64-0.0.53.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-darwin-arm64-0.0.53.zip
+- name: DrawPen-darwin-x64-0.0.53.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-darwin-x64-0.0.53.zip
+- name: DrawPen-linux-x64-0.0.53.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-linux-x64-0.0.53.zip
+- name: DrawPen-win32-x64-0.0.53.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-win32-x64-0.0.53.zip
+- name: drawpen-x11-0.0.53-1.x86_64.rpm
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen-x11-0.0.53-1.x86_64.rpm
+- name: drawpen-x11_0.0.53_amd64.deb
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen-x11_0.0.53_amd64.deb
+- name: DrawPen.Setup.exe
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen.Setup.exe
+- name: drawpen_0.0.53_amd64.deb
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen_0.0.53_amd64.deb
+- name: RELEASES
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/RELEASES
+- url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/DrawPen-0.0.53-arm64.dmg
+  name: DrawPen-0.0.53-arm64.dmg
+  version: 0.0.53
+homebrew: drawpen

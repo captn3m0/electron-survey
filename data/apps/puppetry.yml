@@ -16,3 +16,4 @@ electron: 12.2.3
 method: src-range-guess
 homebrew: puppetry
 name: Puppetry
+electron_src: https://github.com/dsheiko/puppetry/archive/refs/tags/v3.2.6.zip

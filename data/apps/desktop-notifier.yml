@@ -6,3 +6,12 @@ aur:
 - desktop-notifier-bin
 electron: 23.3.13
 method: aur-depends
+latest: 0.0.8
+src: https://github.com/maxgfr/desktop-notifier/archive/refs/tags/0.0.8.zip
+downloads:
+- name: Desktop.Notifier-0.0.7-universal.dmg
+  url: https://github.com/maxgfr/desktop-notifier/releases/download/0.0.8/Desktop.Notifier-0.0.7-universal.dmg
+- name: Desktop.Notifier-0.0.7.AppImage
+  url: https://github.com/maxgfr/desktop-notifier/releases/download/0.0.8/Desktop.Notifier-0.0.7.AppImage
+- name: Desktop.Notifier.Setup.0.0.7.exe
+  url: https://github.com/maxgfr/desktop-notifier/releases/download/0.0.8/Desktop.Notifier.Setup.0.0.7.exe

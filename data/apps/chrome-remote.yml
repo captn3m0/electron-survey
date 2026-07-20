@@ -6,3 +6,18 @@ aur:
 - chrome-remote-desktop-bin
 electron: 23.3.13
 method: aur-depends
+latest: v1.0.1
+src: https://github.com/mikepruett3/chrome-remote-desktop/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: chrome-remote-desktop-1.0.1-1.x86_64.rpm
+  url: https://github.com/mikepruett3/chrome-remote-desktop/releases/download/v1.0.1/chrome-remote-desktop-1.0.1-1.x86_64.rpm
+- name: chrome-remote-desktop_1.0.1_amd64.deb
+  url: https://github.com/mikepruett3/chrome-remote-desktop/releases/download/v1.0.1/chrome-remote-desktop_1.0.1_amd64.deb
+- name: Chrome.Remote.Desktop-1.0.1.Setup.exe
+  url: https://github.com/mikepruett3/chrome-remote-desktop/releases/download/v1.0.1/Chrome.Remote.Desktop-1.0.1.Setup.exe
+- name: Chrome.Remote.Desktop-darwin-x64-1.0.1.zip
+  url: https://github.com/mikepruett3/chrome-remote-desktop/releases/download/v1.0.1/Chrome.Remote.Desktop-darwin-x64-1.0.1.zip
+- name: chrome_remote_desktop-1.0.1-full.nupkg
+  url: https://github.com/mikepruett3/chrome-remote-desktop/releases/download/v1.0.1/chrome_remote_desktop-1.0.1-full.nupkg
+- name: RELEASES
+  url: https://github.com/mikepruett3/chrome-remote-desktop/releases/download/v1.0.1/RELEASES

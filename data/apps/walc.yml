@@ -6,3 +6,10 @@ aur:
 - walc-bin
 electron: 20.3.12
 method: aur-depends
+latest: v0.3.3
+src: https://github.com/WAClient/WALC/archive/refs/tags/v0.3.3.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/WAClient/WALC/releases/download/v0.3.3/latest-linux.yml
+- name: WALC-0.3.3.AppImage
+  url: https://github.com/WAClient/WALC/releases/download/v0.3.3/WALC-0.3.3.AppImage

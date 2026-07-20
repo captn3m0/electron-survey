@@ -6,3 +6,18 @@ aur:
 - forgetools-bin
 electron: 27.3.11
 method: aur-depends
+latest: v2.0.2
+src: https://github.com/tengfone/forgetools/archive/refs/tags/v2.0.2.zip
+downloads:
+- name: ForgeTools-2.0.2-arm64-mac.zip
+  url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2-arm64-mac.zip
+- name: ForgeTools-2.0.2-mac.zip
+  url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2-mac.zip
+- name: ForgeTools-2.0.2.AppImage
+  url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2.AppImage
+- name: ForgeTools-Portable-2.0.2.exe
+  url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-Portable-2.0.2.exe
+- name: ForgeTools-v2.0.2-mac-arm64.zip
+  url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-v2.0.2-mac-arm64.zip
+- name: ForgeTools-v2.0.2-mac-x64.zip
+  url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-v2.0.2-mac-x64.zip

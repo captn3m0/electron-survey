@@ -9,3 +9,4 @@ aur:
 - bibisco
 - bibisco-ce
 name: bibisco
+electron_src: https://github.com/andreafeccomandi/bibisco/archive/refs/tags/v2.2.0.zip

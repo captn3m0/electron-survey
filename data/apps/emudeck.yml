@@ -6,3 +6,16 @@ aur:
 - emudeck-bin
 electron: 22.3.27
 method: aur-depends
+latest: v2.5.0
+src: https://github.com/EmuDeck/emudeck-electron/archive/refs/tags/v2.5.0.zip
+downloads:
+- name: EmuDeck-2.5.0.AppImage
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
+- name: EmuDeck-Setup-2.5.0.exe
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-Setup-2.5.0.exe
+- name: EmuDeck-Setup-2.5.0.exe.blockmap
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-Setup-2.5.0.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest.yml

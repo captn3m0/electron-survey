@@ -6,3 +6,8 @@ aur:
 - miuzcpc-git
 electron: 30.5.1
 method: aur-depends
+latest: v1.0.1
+src: https://github.com/miboqiang130/miuzcPC/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: miuzcpc-win32-x64.zip
+  url: https://github.com/miboqiang130/miuzcPC/releases/download/v1.0.1/miuzcpc-win32-x64.zip

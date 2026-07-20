@@ -4,3 +4,14 @@ website: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player
 repository: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player
 aur:
 - netease-cloud-music-web-player
+latest: 1.6.1
+src: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/archive/refs/tags/1.6.1.zip
+downloads:
+- name: netease-cloud-music-web-player-1.6.1.tar.gz
+  url: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/releases/download/1.6.1/netease-cloud-music-web-player-1.6.1.tar.gz
+  checksum: dee9f3130ae4d6ed71d2220b92390748120a40834a4a0e5d83948d374d361254
+- name: netease-cloud-music-web-player-1.6.1.tar.gz.sha256
+  url: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/releases/download/1.6.1/netease-cloud-music-web-player-1.6.1.tar.gz.sha256
+electron: 38.8.6
+method: src-range-guess
+electron_src: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/archive/refs/tags/1.6.1.zip

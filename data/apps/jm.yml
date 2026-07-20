@@ -6,3 +6,10 @@ aur:
 - jm-desktop-bin
 electron: 42.7.0
 method: aur-depends
+latest: v2.2.1
+src: https://github.com/Dedicatus546/jm-desktop/archive/refs/tags/v2.2.1.zip
+downloads:
+- name: jm-desktop-linux-x64-2.2.1.zip
+  url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-linux-x64-2.2.1.zip
+- name: jm-desktop-win32-x64-2.2.1.zip
+  url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-win32-x64-2.2.1.zip

@@ -9,3 +9,8 @@ packages:
   os: macos
 electron: 24.8.8
 method: aur-depends
+homebrew: lofi
+downloads:
+- url: https://github.com/dvx/lofi/releases/download/v2.0.2/lofi.dmg
+  name: lofi.dmg
+  version: 2.0.2

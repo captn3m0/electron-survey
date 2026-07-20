@@ -6,3 +6,22 @@ aur:
 - japreader-bin
 electron: 41.10.2
 method: aur-depends
+latest: v1.12.0
+src: https://github.com/marisukukise/japReader/archive/refs/tags/v1.12.0.zip
+downloads:
+- name: Anki_japReader.apkg
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/Anki_japReader.apkg
+- name: japreader-1.12.0-1.x86_64.rpm
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-1.12.0-1.x86_64.rpm
+- name: japreader-1.12.0-arm64.dmg
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-1.12.0-arm64.dmg
+- name: japreader-1.12.0.Setup.exe
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-1.12.0.Setup.exe
+- name: japreader-darwin-arm64-1.12.0.zip
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-darwin-arm64-1.12.0.zip
+- name: japreader-linux-x64-1.12.0.zip
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-linux-x64-1.12.0.zip
+- name: japreader-win32-x64-1.12.0.zip
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-win32-x64-1.12.0.zip
+- name: japreader_1.12.0_amd64.deb
+  url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader_1.12.0_amd64.deb

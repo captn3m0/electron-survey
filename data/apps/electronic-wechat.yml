@@ -4,3 +4,11 @@ website: https://github.com/zzy-ac/electronic-wechat
 repository: https://github.com/zzy-ac/electronic-wechat
 aur:
 - electronic-wechat
+latest: v2.3.2-1
+src: https://github.com/zzy-ac/electronic-wechat/archive/refs/tags/v2.3.2-1.zip
+downloads:
+- name: electronic-wechat_2.3.2_amd64.deb
+  url: https://github.com/zzy-ac/electronic-wechat/releases/download/v2.3.2-1/electronic-wechat_2.3.2_amd64.deb
+electron: 6.1.12
+method: src-range-guess
+electron_src: https://github.com/zzy-ac/electronic-wechat/archive/refs/tags/v2.3.2-1.zip

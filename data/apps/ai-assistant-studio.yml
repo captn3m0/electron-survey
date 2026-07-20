@@ -6,3 +6,8 @@ aur:
 - ai-assistant-studio-bin
 electron: 35.7.5
 method: aur-depends
+latest: v2.1.0
+src: https://github.com/gabrielborgesdm/ai-assistant-studio/archive/refs/tags/v2.1.0.zip
+downloads:
+- name: ai-assistant-studio-2.0.0-setup.exe
+  url: https://github.com/gabrielborgesdm/ai-assistant-studio/releases/download/v2.1.0/ai-assistant-studio-2.0.0-setup.exe

@@ -29,8 +29,57 @@ packages:
   arch: arm64
 homebrew: pulsar
 downloads:
-- url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64.dmg
-  name: Silicon.Mac.Pulsar-1.132.1-arm64.dmg
-  version: 1.132.1
+- name: ARM.Linux.Pulsar-1.132.1-arm64.AppImage
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.Pulsar-1.132.1-arm64.AppImage
+  checksum: 27a25a64c3ebf76590c3cecb4dcce91ac7586be0c66ff16c5026631e8aa8250c
+- name: ARM.Linux.pulsar-1.132.1-arm64.tar.gz
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar-1.132.1-arm64.tar.gz
+  checksum: 3135aa5256df8c9948415cb46012db7a733303b5e09e4af7e27af6b7c9e1a1f7
+- name: ARM.Linux.pulsar-1.132.1.aarch64.rpm
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar-1.132.1.aarch64.rpm
+  checksum: 9bc11df35a82dffaa7bb87ce0ccffd1725afbe306b5e2f5338e9d0354e39728b
+- name: ARM.Linux.pulsar_1.132.1_arm64.deb
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar_1.132.1_arm64.deb
+  checksum: d1c00143ef2323440abdca62beb7cba6121d5b4d7182e78ed498226d9cb85930
+- name: Intel.Mac.Pulsar-1.132.1-mac.zip
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Intel.Mac.Pulsar-1.132.1-mac.zip
+  checksum: 8b9ddac5867845f870711c436f1db3f501e5947052239489bd1213175e2327dd
+- name: Intel.Mac.Pulsar-1.132.1-mac.zip.blockmap
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Intel.Mac.Pulsar-1.132.1-mac.zip.blockmap
+  checksum: fcea8284bb0f302d5d0d65a07bf0669937e4a320118ff25c205254dd1022d282
+- name: Intel.Mac.Pulsar-1.132.1.dmg
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Intel.Mac.Pulsar-1.132.1.dmg
+  checksum: 1aa1bb588baa44bcb3b5f11a2b3d910a59e6594ee3a7f087feb5042d133970b8
+- name: Linux.Pulsar-1.132.1.AppImage
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.Pulsar-1.132.1.AppImage
+  checksum: 4527276473c48d454e0899a0cdb6bf04f1d2bd8eb452d35aad048d00ef8a6537
+- name: Linux.pulsar-1.132.1.tar.gz
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.pulsar-1.132.1.tar.gz
+  checksum: eba92e6f20cc107811753dfc4d311230867ec103cf5d61c17348d863768c4a45
+- name: Linux.pulsar-1.132.1.x86_64.rpm
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.pulsar-1.132.1.x86_64.rpm
+  checksum: 39d23b22e7992696e7151a449e04652b198215c8c2b30254eb108e5b11843191
+- name: Linux.pulsar_1.132.1_amd64.deb
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.pulsar_1.132.1_amd64.deb
+  checksum: cf5bd102a53019db91c3a7d3c7d7a803fd60ce84faf33ac2df2fb06fa3ab1a0d
+- name: SHA256SUMS.txt
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/SHA256SUMS.txt
+- name: Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip
+  checksum: cbb5a3ace0f62a7ebbce0ab0147ecc84730f9cb4e2844bea76b4d256f539f2d6
+- name: Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip.blockmap
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip.blockmap
+  checksum: 6a5c3654f73c55ebce7b373c0f32563888ec8ab94975b17697d17534c1a13d73
+- name: Silicon.Mac.Pulsar-1.132.1-arm64.dmg
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64.dmg
+  checksum: a8e89b56872b40a1f23dadd547c13a74463b0271cf2ac9fb44306c4342756ce6
+- name: Windows.Pulsar-1.132.1-win.zip
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Windows.Pulsar-1.132.1-win.zip
+  checksum: c7ec585102e13e22bce5e4b320b16468a3b82bd08714899493627c8856d96c50
+- name: Windows.Pulsar.Setup.1.132.1.exe
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Windows.Pulsar.Setup.1.132.1.exe
+  checksum: 0086dd54caa0a325162ce915cbb3bf5ecca0bd11f9df81e97665ef48e64eefb9
 electron: 30.0.9
 method: which-electron-rg
+latest: v1.132.1
+src: https://github.com/pulsar-edit/pulsar/archive/refs/tags/v1.132.1.zip

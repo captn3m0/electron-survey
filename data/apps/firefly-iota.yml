@@ -23,6 +23,13 @@ electron: 27.3.11
 method: aur-depends
 homebrew: firefly-iota-desktop
 downloads:
-- url: https://dl.firefly.iota.org/firefly-iota-desktop-2.1.2.dmg
-  name: firefly-iota-desktop-2.1.2.dmg
-  version: 2.1.2
+- name: firefly-iota-desktop-2.1.2.AppImage
+  url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.AppImage
+- name: firefly-iota-desktop-2.1.2.AppImage.asc
+  url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.AppImage.asc
+- name: firefly-iota-desktop-2.1.2.dmg
+  url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.dmg
+- name: firefly-iota-desktop-2.1.2.exe
+  url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.exe
+latest: desktop-iota-2.1.2
+src: https://github.com/iotaledger/firefly/archive/refs/tags/desktop-iota-2.1.2.zip

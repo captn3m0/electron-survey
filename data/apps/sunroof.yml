@@ -4,3 +4,49 @@ website: https://github.com/verticalsync/Sunroof
 repository: https://github.com/verticalsync/Sunroof
 aur:
 - sunroof-git
+latest: v1.6.1
+src: https://github.com/verticalsync/Sunroof/archive/refs/tags/v1.6.1.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/latest.yml
+- name: Sunroof-1.6.1-arm64-win.zip
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-arm64-win.zip
+- name: Sunroof-1.6.1-arm64.AppImage
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-arm64.AppImage
+- name: sunroof-1.6.1-arm64.tar.gz
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/sunroof-1.6.1-arm64.tar.gz
+- name: Sunroof-1.6.1-universal-mac.zip
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-universal-mac.zip
+- name: Sunroof-1.6.1-universal-mac.zip.blockmap
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-universal-mac.zip.blockmap
+- name: Sunroof-1.6.1-universal.dmg
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-universal.dmg
+- name: Sunroof-1.6.1-universal.dmg.blockmap
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-universal.dmg.blockmap
+- name: Sunroof-1.6.1-win.zip
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1-win.zip
+- name: sunroof-1.6.1.aarch64.rpm
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/sunroof-1.6.1.aarch64.rpm
+- name: Sunroof-1.6.1.AppImage
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-1.6.1.AppImage
+- name: sunroof-1.6.1.tar.gz
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/sunroof-1.6.1.tar.gz
+- name: sunroof-1.6.1.x86_64.rpm
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/sunroof-1.6.1.x86_64.rpm
+- name: Sunroof-Setup-1.6.1.exe
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-Setup-1.6.1.exe
+- name: Sunroof-Setup-1.6.1.exe.blockmap
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/Sunroof-Setup-1.6.1.exe.blockmap
+- name: sunroof_1.6.1_amd64.deb
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/sunroof_1.6.1_amd64.deb
+- name: sunroof_1.6.1_arm64.deb
+  url: https://github.com/verticalsync/Sunroof/releases/download/v1.6.1/sunroof_1.6.1_arm64.deb
+electron: 31.1.0
+method: src-pnpm-lock
+electron_src: https://github.com/verticalsync/Sunroof/archive/refs/tags/v1.6.1.zip

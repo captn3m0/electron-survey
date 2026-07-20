@@ -9,3 +9,4 @@ downloads:
 electron: 13.6.6
 method: src-package-lock
 name: Pic Crop
+electron_src: https://github.com/ujw0l/pic-crop/archive/refs/tags/1.1.0.zip

@@ -47,3 +47,4 @@ downloads:
 electron: 16.2.8
 method: src-package-lock
 name: Tockler
+electron_src: https://github.com/MayGo/tockler/archive/refs/tags/v4.0.21.zip

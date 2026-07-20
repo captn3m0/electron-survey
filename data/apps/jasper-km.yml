@@ -6,3 +6,22 @@ aur:
 - jasper-km-bin
 electron: 43.1.1
 method: aur-depends
+latest: v1.1.15
+src: https://github.com/cjmalloy/jasper-app/archive/refs/tags/v1.1.15.zip
+downloads:
+- name: Jasper-1.1.15-universal.dmg
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/Jasper-1.1.15-universal.dmg
+- name: Jasper-1.1.15-universal.dmg.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/Jasper-1.1.15-universal.dmg.blockmap
+- name: Jasper-1.1.15.AppImage
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/Jasper-1.1.15.AppImage
+- name: Jasper-Setup-1.1.15.exe
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/Jasper-Setup-1.1.15.exe
+- name: Jasper-Setup-1.1.15.exe.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/Jasper-Setup-1.1.15.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.15/latest.yml

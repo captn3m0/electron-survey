@@ -6,3 +6,30 @@ aur:
 - nipaplay-bin
 electron: 29.4.6
 method: aur-depends
+latest: 1.7.0
+src: https://github.com/MCDFsteve/NipaPlay/archive/refs/tags/1.7.0.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/builder-debug.yml
+- name: builder-effective-config.yaml
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/builder-effective-config.yaml
+- name: com.dfsteve.nipaplay.plist
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/com.dfsteve.nipaplay.plist
+- name: latest.yml
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/latest.yml
+- name: NipaPlay-1.7.0-linux-arm64.zip
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-linux-arm64.zip
+- name: NipaPlay-1.7.0-linux-x64.zip
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-linux-x64.zip
+- name: NipaPlay-1.7.0-mac-arm64.pkg
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-mac-arm64.pkg
+- name: NipaPlay-1.7.0-mac-x64.pkg
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-mac-x64.pkg
+- name: NipaPlay-1.7.0-win-arm64.exe
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-arm64.exe
+- name: NipaPlay-1.7.0-win-arm64.exe.blockmap
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-arm64.exe.blockmap
+- name: NipaPlay-1.7.0-win-x64.exe
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-x64.exe
+- name: NipaPlay-1.7.0-win-x64.exe.blockmap
+  url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-x64.exe.blockmap

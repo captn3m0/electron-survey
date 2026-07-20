@@ -6,3 +6,8 @@ aur:
 - live2d-desktop-pet-git
 electron: 24.8.8
 method: aur-depends
+latest: V1.0
+src: https://github.com/wasd09090030/live2Dpet_Miku/archive/refs/tags/V1.0.zip
+downloads:
+- name: Miku_Pet.zip
+  url: https://github.com/wasd09090030/live2Dpet_Miku/releases/download/V1.0/Miku_Pet.zip

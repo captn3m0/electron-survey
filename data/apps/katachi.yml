@@ -4,3 +4,8 @@ website: https://github.com/LMNYX/katachi
 repository: https://github.com/LMNYX/katachi
 aur:
 - katachi
+latest: v0.1.2
+src: https://github.com/LMNYX/katachi/archive/refs/tags/v0.1.2.zip
+electron: 35.4.0
+method: src-package-lock
+electron_src: https://github.com/LMNYX/katachi/archive/refs/tags/v0.1.2.zip

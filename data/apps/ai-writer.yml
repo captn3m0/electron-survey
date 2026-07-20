@@ -6,3 +6,9 @@ aur:
 - ai-writer
 electron: 26.6.10
 method: aur-depends
+latest: v1.2.0
+src: https://github.com/Intellicode/writer/archive/refs/tags/v1.2.0.zip
+downloads:
+- name: writer-darwin-x64-1.2.0.zip
+  url: https://github.com/Intellicode/writer/releases/download/v1.2.0/writer-darwin-x64-1.2.0.zip
+we_tried: we0:v1.2.0

@@ -6,3 +6,20 @@ aur:
 - screen-area-share-bin
 electron: 34.5.8
 method: aur-depends
+latest: v1.4.2
+src: https://github.com/mPyKen/ScreenAreaShare/archive/refs/tags/v1.4.2.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/RELEASES
+- name: screen-area-share-1.4.2-1.x86_64.rpm
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share-1.4.2-1.x86_64.rpm
+- name: screen-area-share-1.4.2-universal.dmg
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share-1.4.2-universal.dmg
+- name: screen-area-share-1.4.2.Setup.exe
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share-1.4.2.Setup.exe
+- name: screen-area-share-darwin-universal-1.4.2.zip
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share-darwin-universal-1.4.2.zip
+- name: screen-area-share_1.4.2_amd64.deb
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share_1.4.2_amd64.deb
+- name: screen_area_share-1.4.2-full.nupkg
+  url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen_area_share-1.4.2-full.nupkg

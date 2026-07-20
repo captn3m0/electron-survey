@@ -11,3 +11,4 @@ downloads:
 electron: 16.0.6
 method: src-package-lock
 name: F-Curator
+electron_src: https://github.com/xizon/F-Curator/archive/refs/tags/v1.3.7.zip

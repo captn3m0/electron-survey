@@ -6,3 +6,13 @@ aur:
 - blueknight-bin
 electron: 30.5.1
 method: aur-depends
+latest: 1.2.4-beta
+src: https://github.com/KartoffelChipss/blueknight/archive/refs/tags/1.2.4-beta.zip
+downloads:
+- name: BlueKnight-1.2.4-arm64.dmg
+  url: https://github.com/KartoffelChipss/BlueKnight/releases/download/1.2.4-beta/BlueKnight-1.2.4-arm64.dmg
+- name: blueknight-launcher-deb-1.2.4.deb
+  url: https://github.com/KartoffelChipss/BlueKnight/releases/download/1.2.4-beta/blueknight-launcher-deb-1.2.4.deb
+- name: blueknight-launcher-snap-1.2.4.snap
+  url: https://github.com/KartoffelChipss/BlueKnight/releases/download/1.2.4-beta/blueknight-launcher-snap-1.2.4.snap
+we_tried: we0:1.2.4-beta

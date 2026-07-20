@@ -6,3 +6,32 @@ aur:
 - transmissionic-bin
 electron: 23.3.13
 method: aur-depends
+latest: v1.8.0
+src: https://github.com/6c65726f79/Transmissionic/archive/refs/tags/v1.8.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/latest.yml
+- name: Transmissionic-android-v1.8.0.apk
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-android-v1.8.0.apk
+- name: Transmissionic-ios-v1.8.0.ipa
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-ios-v1.8.0.ipa
+- name: Transmissionic-linux-x86_64-v1.8.0.AppImage
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-linux-x86_64-v1.8.0.AppImage
+- name: Transmissionic-mac-v1.8.0.dmg
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-mac-v1.8.0.dmg
+- name: Transmissionic-mac-v1.8.0.dmg.blockmap
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-mac-v1.8.0.dmg.blockmap
+- name: Transmissionic-mac-v1.8.0.zip
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-mac-v1.8.0.zip
+- name: Transmissionic-mac-v1.8.0.zip.blockmap
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-mac-v1.8.0.zip.blockmap
+- name: Transmissionic-webui-v1.8.0.zip
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-webui-v1.8.0.zip
+- name: Transmissionic-win-v1.8.0.exe
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-win-v1.8.0.exe
+- name: Transmissionic-win-v1.8.0.exe.blockmap
+  url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-win-v1.8.0.exe.blockmap

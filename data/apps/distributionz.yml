@@ -6,3 +6,28 @@ aur:
 - distributionz-bin
 electron: 22.3.27
 method: aur-depends
+latest: 1.1.4
+src: https://github.com/TheDome/DistributionZ/archive/refs/tags/1.1.4.zip
+downloads:
+- name: DistributionZ-1.1.4-mac.zip
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4-mac.zip
+- name: DistributionZ-1.1.4-mac.zip.sha256sum
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4-mac.zip.sha256sum
+- name: DistributionZ-1.1.4.AppImage
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4.AppImage
+- name: DistributionZ-1.1.4.AppImage.sha256sum
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4.AppImage.sha256sum
+- name: DistributionZ-1.1.4.dmg
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4.dmg
+- name: DistributionZ-1.1.4.dmg.sha256sum
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4.dmg.sha256sum
+- name: DistributionZ.Setup.1.1.4.exe
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ.Setup.1.1.4.exe
+- name: DistributionZ.Setup.1.1.4.exe.sha256sum
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ.Setup.1.1.4.exe.sha256sum
+- name: latest-linux.yml
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/latest.yml

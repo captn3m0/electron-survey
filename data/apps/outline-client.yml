@@ -16,8 +16,11 @@ aur:
 - outline-client-appimage-git
 homebrew: outline-manager
 downloads:
-- url: https://s3.amazonaws.com/outline-releases/manager/macos/1.20.0/1/Outline-Manager.dmg
-  name: Outline-Manager.dmg
-  version: 1.20.0,1
+- name: Outline-Client.AppImage
+  url: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage
+- name: Outline-Client.exe
+  url: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.exe
 electron: 19.1.9
 method: which-electron-rg
+latest: v1.10.1
+src: https://github.com/OutlineFoundation/outline-apps/archive/refs/tags/v1.10.1.zip

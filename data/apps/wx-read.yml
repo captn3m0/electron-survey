@@ -6,3 +6,12 @@ aur:
 - wx-read
 electron: 22.3.27
 method: aur-depends
+latest: v0.2.2
+src: https://github.com/estepona/wx-read-desktop/archive/refs/tags/v0.2.2.zip
+downloads:
+- name: wx-read-0.2.2-arm64.dmg
+  url: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read-0.2.2-arm64.dmg
+- name: wx-read-0.2.2.dmg
+  url: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read-0.2.2.dmg
+- name: wx-read.Setup.0.2.2.exe
+  url: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read.Setup.0.2.2.exe

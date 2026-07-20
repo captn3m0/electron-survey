@@ -17,3 +17,14 @@ packages:
   arch: x64
 electron: 2.0.18
 method: which-electron-fingerprint
+latest: 1.5.1
+src: https://github.com/SimonAKing/scrcpy-gui/archive/refs/tags/1.5.1.zip
+downloads:
+- name: ScrcpyGui-1.5.1.AppImage
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.AppImage
+- name: ScrcpyGui-1.5.1.deb
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.deb
+- name: ScrcpyGui-1.5.1.win64.exe
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.win64.exe
+- name: ScrcpyGui-1.510.win32.zip.zip
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.510.win32.zip.zip

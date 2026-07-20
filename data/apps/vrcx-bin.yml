@@ -8,3 +8,21 @@ additionalAUR:
 - vrcx-bin
 - vrcx-nightly-bin
 - vrcx-git
+latest: v2026.07.18
+src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.07.18.zip
+downloads:
+- name: VRCX_2026.07.18.zip
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18.zip
+- name: VRCX_2026.07.18_arm64.AppImage
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_arm64.AppImage
+- name: VRCX_2026.07.18_arm64.dmg
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_arm64.dmg
+- name: VRCX_2026.07.18_Setup.exe
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_Setup.exe
+- name: VRCX_2026.07.18_x64.AppImage
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_x64.AppImage
+- name: VRCX_2026.07.18_x64.dmg
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_x64.dmg
+electron: 40.4.1
+method: src-package-lock
+electron_src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.07.18.zip

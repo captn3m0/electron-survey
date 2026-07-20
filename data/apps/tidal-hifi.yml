@@ -15,3 +15,33 @@ packages:
   arch: x64
 aur:
 - tidal-hifi
+latest: 7.0.1
+src: https://github.com/Mastermindzh/tidal-hifi/archive/refs/tags/7.0.1.zip
+downloads:
+- name: tidal-hifi-7.0.1-arm64-mac.zip
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1-arm64-mac.zip
+- name: tidal-hifi-7.0.1-arm64.dmg
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1-arm64.dmg
+- name: tidal-hifi-7.0.1.AppImage
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1.AppImage
+- name: tidal-hifi-7.0.1.freebsd
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1.freebsd
+- name: tidal-hifi-7.0.1.pacman
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1.pacman
+- name: tidal-hifi-7.0.1.tar.gz
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1.tar.gz
+- name: tidal-hifi-7.0.1.x86_64.rpm
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-7.0.1.x86_64.rpm
+- name: tidal-hifi-mac-arm64-app.zip
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-mac-arm64-app.zip
+- name: tidal-hifi-unpacked-linux.zip
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi-unpacked-linux.zip
+- name: tidal-hifi_7.0.1_amd64.deb
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi_7.0.1_amd64.deb
+- name: tidal-hifi_7.0.1_amd64.snap
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidal-hifi_7.0.1_amd64.snap
+- name: tidalhifi.msi
+  url: https://github.com/Mastermindzh/tidal-hifi/releases/download/7.0.1/tidalhifi.msi
+electron: 39.2.4+wvcus
+method: src-package-lock
+electron_src: https://github.com/Mastermindzh/tidal-hifi/archive/refs/tags/7.0.1.zip

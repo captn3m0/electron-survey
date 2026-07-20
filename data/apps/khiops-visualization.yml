@@ -6,3 +6,50 @@ aur:
 - khiops-visualization-bin
 electron: 39.8.10
 method: aur-depends
+latest: v11.5.0
+src: https://github.com/KhiopsML/kv-electron/archive/refs/tags/v11.5.0.zip
+downloads:
+- name: khiops-visualization-11.5.0-arm64-mac.zip
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0-arm64-mac.zip
+- name: khiops-visualization-11.5.0-arm64.AppImage
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0-arm64.AppImage
+- name: khiops-visualization-11.5.0-arm64.dmg
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0-arm64.dmg
+- name: khiops-visualization-11.5.0-arm64.dmg.blockmap
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0-arm64.dmg.blockmap
+- name: khiops-visualization-11.5.0-arm64.zip
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0-arm64.zip
+- name: khiops-visualization-11.5.0-mac.zip
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0-mac.zip
+- name: khiops-visualization-11.5.0.aarch64.rpm
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.aarch64.rpm
+- name: khiops-visualization-11.5.0.AppImage
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.AppImage
+- name: khiops-visualization-11.5.0.dmg
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.dmg
+- name: khiops-visualization-11.5.0.dmg.blockmap
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.dmg.blockmap
+- name: khiops-visualization-11.5.0.x86_64.rpm
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.x86_64.rpm
+- name: khiops-visualization-11.5.0.zip
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.zip
+- name: khiops-visualization-Setup-11.5.0.exe
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-Setup-11.5.0.exe
+- name: khiops-visualization-Setup-11.5.0.exe.blockmap
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-Setup-11.5.0.exe.blockmap
+- name: khiops-visualization_11.5.0_amd64.deb
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization_11.5.0_amd64.deb
+- name: khiops-visualization_11.5.0_arm64.deb
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization_11.5.0_arm64.deb
+- name: khiops.visualization-11.5.0-arm64-mac.zip.blockmap
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops.visualization-11.5.0-arm64-mac.zip.blockmap
+- name: khiops.visualization-11.5.0-mac.zip.blockmap
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops.visualization-11.5.0-mac.zip.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/latest.yml

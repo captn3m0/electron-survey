@@ -8,3 +8,23 @@ additionalAUR:
 - bookord-git
 electron: 29.4.6
 method: aur-depends
+latest: v0.3.2
+src: https://github.com/LiprikON2/Bookord/archive/refs/tags/v0.3.2.zip
+downloads:
+- name: bookord-0.3.2-1.x86_64.rpm
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord-0.3.2-1.x86_64.rpm
+- name: bookord-0.3.2-full.nupkg
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord-0.3.2-full.nupkg
+- name: bookord-0.3.2.Setup.exe
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord-0.3.2.Setup.exe
+- name: bookord-darwin-x64-0.3.2.zip
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord-darwin-x64-0.3.2.zip
+- name: bookord-linux-x64-0.3.2.zip
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord-linux-x64-0.3.2.zip
+- name: bookord.dmg
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord.dmg
+- name: bookord_0.3.2_amd64.deb
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/bookord_0.3.2_amd64.deb
+- name: RELEASES
+  url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/RELEASES
+we_tried: we0:v0.3.2

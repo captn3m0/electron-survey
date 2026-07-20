@@ -4,3 +4,8 @@ website: https://github.com/microsoft/vscode
 repository: https://github.com/microsoft/vscode
 aur:
 - code-git
+latest: 1.129.1
+src: https://github.com/microsoft/vscode/archive/refs/tags/1.129.1.zip
+electron: 42.6.0
+method: src-package-lock
+electron_src: https://github.com/microsoft/vscode/archive/refs/tags/1.129.1.zip

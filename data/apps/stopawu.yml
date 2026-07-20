@@ -11,3 +11,4 @@ downloads:
 electron: 16.0.4
 method: src-yarn-lock
 name: Stopawu
+electron_src: https://github.com/tariibaba/stopawu/archive/refs/tags/v1.0.0.zip

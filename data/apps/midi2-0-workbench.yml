@@ -8,3 +8,5 @@ additionalAUR:
 - midi2-workbench
 electron: 19.1.9
 method: aur-depends
+latest: v1.6.4
+src: https://github.com/midi2-dev/MIDI2.0Workbench/archive/refs/tags/v1.6.4.zip

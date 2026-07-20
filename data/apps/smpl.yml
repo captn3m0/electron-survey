@@ -6,3 +6,8 @@ aur:
 - smpl-git
 electron: 32.3.3
 method: aur-depends
+latest: simple
+src: https://github.com/ElianGroff/smpl/archive/refs/tags/simple.zip
+downloads:
+- name: smpl-1.0.0-setup.exe
+  url: https://github.com/on-a-bench-over-a-creek/smpl/releases/download/simple/smpl-1.0.0-setup.exe

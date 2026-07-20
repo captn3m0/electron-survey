@@ -8,3 +8,22 @@ additionalAUR:
 - ytm-dlp-gui-bin
 electron: 26.6.10
 method: aur-depends
+latest: v1.3.4
+src: https://github.com/RENOMIZER/ytm-dlp-gui/archive/refs/tags/v1.3.4.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/RELEASES
+- name: ytm-dlp-1.3.4-1.x86_64.rpm
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/ytm-dlp-1.3.4-1.x86_64.rpm
+- name: YTM-DLP-1.3.4-full.nupkg
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/YTM-DLP-1.3.4-full.nupkg
+- name: YTM-DLP-GUI-linux-x64-1.3.4.zip
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/YTM-DLP-GUI-linux-x64-1.3.4.zip
+- name: YTM-DLP-GUI-win32-x64-1.3.4.zip
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/YTM-DLP-GUI-win32-x64-1.3.4.zip
+- name: YTM-DLP-GUI.exe
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/YTM-DLP-GUI.exe
+- name: YTM-DLP-GUI.msi
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/YTM-DLP-GUI.msi
+- name: ytm-dlp_1.3.4_amd64.deb
+  url: https://github.com/RENOMIZER/ytm-dlp-gui/releases/download/v1.3.4/ytm-dlp_1.3.4_amd64.deb

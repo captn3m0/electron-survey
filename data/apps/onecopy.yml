@@ -8,3 +8,4 @@ downloads:
 electron: 12.2.3
 method: src-range-guess
 name: One Copy
+electron_src: https://github.com/HiroshiFuu/onecopy-electron/archive/refs/tags/1.0.3.zip

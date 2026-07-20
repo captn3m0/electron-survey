@@ -6,3 +6,10 @@ aur:
 - stockholm-trekkers-playlist-maker-bin
 electron: 37.10.3
 method: aur-depends
+latest: v3.0.9
+src: https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker/archive/refs/tags/v3.0.9.zip
+downloads:
+- name: stockholm-trekkers-playlist-maker_3.0.9_amd64.deb
+  url: https://github.com/VenaStrom/Stockholm-Trekkers-Playlist-Maker/releases/download/v3.0.9/stockholm-trekkers-playlist-maker_3.0.9_amd64.deb
+- name: Stockholm.Trekkers.Playlist.Maker.Setup.3.0.9.exe
+  url: https://github.com/VenaStrom/Stockholm-Trekkers-Playlist-Maker/releases/download/v3.0.9/Stockholm.Trekkers.Playlist.Maker.Setup.3.0.9.exe

@@ -6,3 +6,9 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+homebrew: auto-claude
+downloads:
+- url: https://github.com/AndyMik90/Auto-Claude/releases/download/v2.7.6/Auto-Claude-2.7.6-darwin-arm64.dmg
+  name: Auto-Claude-2.7.6-darwin-arm64.dmg
+  version: 2.7.6
+we_tried: we0:urls:58f7a69aefeb

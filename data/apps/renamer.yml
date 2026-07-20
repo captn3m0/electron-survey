@@ -9,8 +9,19 @@ packages:
   arch: universal
 homebrew: renamer
 downloads:
-- url: https://github.com/incbee/renamer-7-releases/releases/download/v7.3.1/Renamer-7.3.1-universal-mac.zip
-  name: Renamer-7.3.1-universal-mac.zip
-  version: 7.3.1
+- name: latest-mac.yml
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.1/latest.yml
+- name: Renamer-7.3.1-universal-mac.zip
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.1/Renamer-7.3.1-universal-mac.zip
+- name: Renamer-7.3.1-universal-mac.zip.blockmap
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.1/Renamer-7.3.1-universal-mac.zip.blockmap
+- name: Renamer-Setup-7.3.1.exe
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.1/Renamer-Setup-7.3.1.exe
+- name: Renamer-Setup-7.3.1.exe.blockmap
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.1/Renamer-Setup-7.3.1.exe.blockmap
 electron: 42.5.0
 method: which-electron-rg
+latest: v7.3.1
+src: https://github.com/incbee/renamer-7-releases/archive/refs/tags/v7.3.1.zip

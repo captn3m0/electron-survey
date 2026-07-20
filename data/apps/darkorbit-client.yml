@@ -6,3 +6,26 @@ aur:
 - darkorbit-client-bin
 electron: 11.5.0
 method: aur-depends
+latest: v2.8.0
+src: https://github.com/kaiserdj/Darkorbit-client/archive/refs/tags/v2.8.0.zip
+downloads:
+- name: DarkOrbit-Client-2.8.0-mac.zip
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-2.8.0-mac.zip
+- name: DarkOrbit-Client-2.8.0.AppImage
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-2.8.0.AppImage
+- name: DarkOrbit-Client-2.8.0.dmg
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-2.8.0.dmg
+- name: DarkOrbit-Client-2.8.0.dmg.blockmap
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-2.8.0.dmg.blockmap
+- name: DarkOrbit-Client-Setup-2.8.0.exe
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-Setup-2.8.0.exe
+- name: DarkOrbit-Client-Setup-2.8.0.exe.blockmap
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-Setup-2.8.0.exe.blockmap
+- name: DarkOrbit.Client-2.8.0-mac.zip.blockmap
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit.Client-2.8.0-mac.zip.blockmap
+- name: latest-linux.yml
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/latest.yml

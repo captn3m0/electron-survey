@@ -5,3 +5,8 @@ aur:
 - ecloud-bin
 electron: 4.2.12
 method: aur-depends
+homebrew: cloud189
+downloads:
+- url: https://download.cloud.189.cn/file/downloadFile.action?dlt=4&dt=1&expired=1766930486508&sk=297953828&ufi=61304212366059386&zyc=60&token=cloud3&sig=gfhWf6DndIlD28kChBJM1d48E18%3D
+  name: downloadFile.action
+  version: 1.1.0

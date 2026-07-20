@@ -21,6 +21,32 @@ packages:
   arch: x64
 homebrew: windows95
 downloads:
-- url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-darwin-arm64-5.0.1.zip
-  name: windows95-darwin-arm64-5.0.1.zip
-  version: 5.0.1
+- name: windows95-5.0.1-1.arm64.rpm
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-5.0.1-1.arm64.rpm
+- name: windows95-5.0.1-1.armv7hl.rpm
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-5.0.1-1.armv7hl.rpm
+- name: windows95-5.0.1-1.x86_64.rpm
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-5.0.1-1.x86_64.rpm
+- name: windows95-5.0.1-setup-ia32.exe
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-5.0.1-setup-ia32.exe
+- name: windows95-5.0.1-setup-x64.exe
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-5.0.1-setup-x64.exe
+- name: windows95-darwin-arm64-5.0.1.zip
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-darwin-arm64-5.0.1.zip
+- name: windows95-darwin-x64-5.0.1.zip
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-darwin-x64-5.0.1.zip
+- name: windows95-win32-ia32-5.0.1.zip
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-win32-ia32-5.0.1.zip
+- name: windows95-win32-x64-5.0.1.zip
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95-win32-x64-5.0.1.zip
+- name: windows95_5.0.1_amd64.deb
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95_5.0.1_amd64.deb
+- name: windows95_5.0.1_arm64.deb
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95_5.0.1_arm64.deb
+- name: windows95_5.0.1_armhf.deb
+  url: https://github.com/felixrieseberg/windows95/releases/download/v5.0.1/windows95_5.0.1_armhf.deb
+latest: v5.0.1
+src: https://github.com/felixrieseberg/windows95/archive/refs/tags/v5.0.1.zip
+electron: 41.2.0
+method: src-package-lock
+electron_src: https://github.com/felixrieseberg/windows95/archive/refs/tags/v5.0.1.zip

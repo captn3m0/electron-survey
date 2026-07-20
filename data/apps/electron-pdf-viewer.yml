@@ -8,3 +8,14 @@ additionalAUR:
 - electron-pdf-viewer-git
 electron: 2.1.0-unsupported.20180809
 method: aur-depends
+latest: v1.0
+src: https://github.com/praharshjain/Electron-PDF-Viewer/archive/refs/tags/v1.0.zip
+downloads:
+- name: Electron-PDF-Viewer_1.0.0_amd64.deb
+  url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_amd64.deb
+- name: Electron-PDF-Viewer_1.0.0_armv7l.deb
+  url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_armv7l.deb
+- name: Electron-PDF-Viewer_1.0.0_ia32.deb
+  url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_ia32.deb
+- name: Electron-PDF-Viewer_1.0.0_win.exe
+  url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_win.exe

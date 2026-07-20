@@ -1,8 +1,8 @@
 id: jamovi
 repository: https://github.com/jamovi/jamovi
 website: https://www.jamovi.org
-latest: v2.7.16
-src: https://github.com/jamovi/jamovi/archive/refs/tags/v2.7.16.zip
+latest: v2.7.30
+src: https://github.com/jamovi/jamovi/archive/refs/tags/v2.7.30.zip
 aur:
 - jamovi-git
 homebrew: jamovi

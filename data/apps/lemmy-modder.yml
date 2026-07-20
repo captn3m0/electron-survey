@@ -6,3 +6,32 @@ aur:
 - lemmy-modder-app-bin
 electron: 25.9.8
 method: aur-depends
+latest: v0.4.0
+src: https://github.com/tgxn/lemmy-modder/archive/refs/tags/v0.4.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/latest.yml
+- name: LemmyModder-0.4.0-linux-amd64.deb
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-linux-amd64.deb
+- name: LemmyModder-0.4.0-linux-x86_64.rpm
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-linux-x86_64.rpm
+- name: LemmyModder-0.4.0-Windows-Portable-ia32.exe
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Portable-ia32.exe
+- name: LemmyModder-0.4.0-Windows-Portable-x64.exe
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Portable-x64.exe
+- name: LemmyModder-0.4.0-Windows-Portable.exe
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Portable.exe
+- name: LemmyModder-0.4.0-Windows-Setup-ia32.exe
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup-ia32.exe
+- name: LemmyModder-0.4.0-Windows-Setup-ia32.exe.blockmap
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup-ia32.exe.blockmap
+- name: LemmyModder-0.4.0-Windows-Setup-x64.exe
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup-x64.exe
+- name: LemmyModder-0.4.0-Windows-Setup-x64.exe.blockmap
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup-x64.exe.blockmap
+- name: LemmyModder-0.4.0-Windows-Setup.exe
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup.exe
+- name: LemmyModder-0.4.0-Windows-Setup.exe.blockmap
+  url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup.exe.blockmap

@@ -6,3 +6,13 @@ aur:
 - airdrop-tool-bin
 electron: 26.6.10
 method: aur-depends
+latest: v0.3.31
+src: https://github.com/BTS-CM/airdrop_tool/archive/refs/tags/v0.3.31.zip
+downloads:
+- name: airdrop_tool.deb
+  url: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.deb
+- name: airdrop_tool.dmg
+  url: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.dmg
+- name: airdrop_tool.exe
+  url: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.exe
+we_tried: we0:v0.3.31

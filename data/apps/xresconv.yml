@@ -6,3 +6,24 @@ aur:
 - xresconv-gui-bin
 electron: 41.10.2
 method: aur-depends
+latest: v2.6.0
+src: https://github.com/xresloader/xresconv-gui/archive/refs/tags/v2.6.0.zip
+downloads:
+- name: xresconv-gui-darwin-arm64.tar.xz
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-darwin-arm64.tar.xz
+- name: xresconv-gui-darwin-universal.tar.xz
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-darwin-universal.tar.xz
+- name: xresconv-gui-darwin-x64.tar.xz
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-darwin-x64.tar.xz
+- name: xresconv-gui-linux-arm64.tar.xz
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-arm64.tar.xz
+- name: xresconv-gui-linux-armv7l.tar.xz
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-armv7l.tar.xz
+- name: xresconv-gui-linux-x64.tar.xz
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-x64.tar.xz
+- name: xresconv-gui-win32-arm64.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-win32-arm64.7z
+- name: xresconv-gui-win32-ia32.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-win32-ia32.7z
+- name: xresconv-gui-win32-x64.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-win32-x64.7z

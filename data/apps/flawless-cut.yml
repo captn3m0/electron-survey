@@ -6,3 +6,12 @@ aur:
 - flawless-cut-bin
 electron: 39.8.10
 method: aur-depends
+latest: 1.2.2
+src: https://github.com/metadream/app-flawless-cut/archive/refs/tags/1.2.2.zip
+downloads:
+- name: FlawlessCut-1.2.2-amd64.deb
+  url: https://github.com/metadream/flawless-cut/releases/download/1.2.2/FlawlessCut-1.2.2-amd64.deb
+- name: FlawlessCut-1.2.2-arm64.dmg
+  url: https://github.com/metadream/flawless-cut/releases/download/1.2.2/FlawlessCut-1.2.2-arm64.dmg
+- name: FlawlessCut-1.2.2-x64.zip
+  url: https://github.com/metadream/flawless-cut/releases/download/1.2.2/FlawlessCut-1.2.2-x64.zip

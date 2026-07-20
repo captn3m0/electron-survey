@@ -6,3 +6,11 @@ aur:
 - behavior3editor-git
 electron: 33.4.11
 method: aur-depends
+latest: v1.8.2
+src: https://github.com/zhandouxiaojiji/behavior3editor/archive/refs/tags/v1.8.2.zip
+downloads:
+- name: behavior3editor_1.8.2.dmg
+  url: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.dmg
+- name: behavior3editor_1.8.2.exe
+  url: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.exe
+we_tried: we0:v1.8.2

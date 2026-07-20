@@ -6,3 +6,20 @@ aur:
 - chunksize-checker-git
 electron: 31.7.7
 method: aur-depends
+latest: v0.0.4
+src: https://github.com/yuma-shintani/chunksize-checker/archive/refs/tags/v0.0.4.zip
+downloads:
+- name: Chunk-Size-Checker-0.0.4-win.zip
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/Chunk-Size-Checker-0.0.4-win.zip
+- name: chunksize-checker-0.0.4-setup.exe
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/chunksize-checker-0.0.4-setup.exe
+- name: chunksize-checker-0.0.4-setup.exe.blockmap
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/chunksize-checker-0.0.4-setup.exe.blockmap
+- name: chunksize-checker-0.0.4.dmg
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/chunksize-checker-0.0.4.dmg
+- name: chunksize-checker-0.0.4.dmg.blockmap
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/chunksize-checker-0.0.4.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/latest.yml

@@ -6,3 +6,8 @@ aur:
 - loopy-desktop
 electron: 21.4.4
 method: aur-depends
+latest: v1.2.1
+src: https://github.com/jchu634/loopy-desktop/archive/refs/tags/v1.2.1.zip
+downloads:
+- name: loopy-desktop.Setup.1.2.1.exe
+  url: https://github.com/jchu634/loopy-desktop/releases/download/v1.2.1/loopy-desktop.Setup.1.2.1.exe

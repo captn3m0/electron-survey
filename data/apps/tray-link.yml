@@ -6,3 +6,18 @@ aur:
 - tray-link-bin
 electron: 33.4.11
 method: aur-depends
+latest: v2.3.0
+src: https://github.com/thejoaov/tray-link/archive/refs/tags/v2.3.0.zip
+downloads:
+- name: tray-link-2.3.0-1.x86_64.rpm
+  url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/tray-link-2.3.0-1.x86_64.rpm
+- name: Tray-Link-macOS-universal.zip
+  url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/Tray-Link-macOS-universal.zip
+- name: tray-link_2.3.0_amd64.deb
+  url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/tray-link_2.3.0_amd64.deb
+- name: Tray.Link-2.3.0.Setup.exe
+  url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/Tray.Link-2.3.0.Setup.exe
+- name: Tray.Link-darwin-arm64-2.3.0.zip
+  url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/Tray.Link-darwin-arm64-2.3.0.zip
+- name: TrayLink-2.3.0-full.nupkg
+  url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/TrayLink-2.3.0-full.nupkg

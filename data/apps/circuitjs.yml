@@ -3,3 +3,8 @@ name: Circuitjs
 website: https://www.falstad.com/circuit/
 aur:
 - circuitjs-electron-git
+homebrew: circuitjs1
+downloads:
+- url: https://www.falstad.com/circuit/offline/CircuitJS1-macarm.dmg
+  name: CircuitJS1-macarm.dmg
+  version: 4.1.3js

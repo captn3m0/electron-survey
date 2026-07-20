@@ -19,3 +19,4 @@ method: src-package-lock
 aur:
 - deer
 name: Deer
+electron_src: https://github.com/abahmed/Deer/archive/refs/tags/v1.0.0.zip

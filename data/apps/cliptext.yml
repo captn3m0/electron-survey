@@ -9,3 +9,4 @@ downloads:
 electron: 7.2.4
 method: src-package-lock
 name: cliptext
+electron_src: https://github.com/aaabhilash97/cliptext/archive/refs/tags/v2.0.2.zip

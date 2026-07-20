@@ -17,3 +17,4 @@ downloads:
 electron: 8.2.5
 method: src-package-lock
 name: Local Mock Server
+electron_src: https://github.com/jayakumarreddy/Local-Mock-Server/archive/refs/tags/v1.2.0.zip

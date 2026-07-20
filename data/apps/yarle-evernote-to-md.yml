@@ -6,3 +6,26 @@ aur:
 - yarle-evernote-to-md-bin
 electron: 22.3.27
 method: aur-depends
+latest: v6.16.1
+src: https://github.com/akosbalasko/yarle/archive/refs/tags/v6.16.1.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/latest.yml
+- name: yarle-evernote-to-md_linux_amd64.deb
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_linux_amd64.deb
+- name: yarle-evernote-to-md_linux_x86_64.rpm
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_linux_x86_64.rpm
+- name: yarle-evernote-to-md_mac_arm64.dmg
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_mac_arm64.dmg
+- name: yarle-evernote-to-md_mac_arm64.dmg.blockmap
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_mac_arm64.dmg.blockmap
+- name: yarle-evernote-to-md_mac_arm64.zip
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_mac_arm64.zip
+- name: yarle-evernote-to-md_mac_arm64.zip.blockmap
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_mac_arm64.zip.blockmap
+- name: yarle-evernote-to-md_win_x64.exe
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_win_x64.exe
+- name: yarle-evernote-to-md_win_x64.exe.blockmap
+  url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_win_x64.exe.blockmap

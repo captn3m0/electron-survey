@@ -9,3 +9,9 @@ packages:
   os: macos
 electron: 26.6.10
 method: aur-depends
+homebrew: devtunnel
+downloads:
+- url: https://tunnelsassetsprod.blob.core.windows.net/cli/1.0.1972+07cc55c789/osx-arm64-devtunnel-zip
+  name: osx-arm64-devtunnel-zip
+  version: 1.0.1972+07cc55c789
+we_tried: we0:urls:c9ac6b3e0c28

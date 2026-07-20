@@ -14,3 +14,48 @@ additionalAUR:
 - vesktop-electron-git
 electron: 40.10.6
 method: aur-depends
+latest: v1.6.5
+src: https://github.com/Vencord/Vesktop/archive/refs/tags/v1.6.5.zip
+downloads:
+- name: dev.vencord.Vesktop.metainfo.xml
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/dev.vencord.Vesktop.metainfo.xml
+- name: latest-linux-arm64.yml
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/latest.yml
+- name: Vesktop-1.6.5-arm64-win.zip
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-arm64-win.zip
+- name: Vesktop-1.6.5-arm64.AppImage
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-arm64.AppImage
+- name: vesktop-1.6.5-arm64.tar.gz
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5-arm64.tar.gz
+- name: Vesktop-1.6.5-universal-mac.zip
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-universal-mac.zip
+- name: Vesktop-1.6.5-universal-mac.zip.blockmap
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-universal-mac.zip.blockmap
+- name: Vesktop-1.6.5-universal.dmg
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-universal.dmg
+- name: Vesktop-1.6.5-universal.dmg.blockmap
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-universal.dmg.blockmap
+- name: Vesktop-1.6.5-win.zip
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5-win.zip
+- name: vesktop-1.6.5.aarch64.rpm
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.aarch64.rpm
+- name: Vesktop-1.6.5.AppImage
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-1.6.5.AppImage
+- name: vesktop-1.6.5.tar.gz
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.tar.gz
+- name: vesktop-1.6.5.x86_64.rpm
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.x86_64.rpm
+- name: Vesktop-Setup-1.6.5.exe
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-Setup-1.6.5.exe
+- name: Vesktop-Setup-1.6.5.exe.blockmap
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/Vesktop-Setup-1.6.5.exe.blockmap
+- name: vesktop_1.6.5_amd64.deb
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop_1.6.5_amd64.deb
+- name: vesktop_1.6.5_arm64.deb
+  url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop_1.6.5_arm64.deb

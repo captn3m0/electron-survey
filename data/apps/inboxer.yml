@@ -32,3 +32,4 @@ aur:
 - inboxer
 homebrew: ukrainian-typographic-keyboard
 name: Inboxer
+electron_src: https://github.com/denysdovhan/inboxer/archive/refs/tags/v1.3.2.zip

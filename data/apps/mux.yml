@@ -4,3 +4,46 @@ website: https://github.com/coder/mux
 repository: https://github.com/coder/mux
 aur:
 - mux
+latest: v0.28.0
+src: https://github.com/coder/mux/archive/refs/tags/v0.28.0.zip
+downloads:
+- name: builder-debug.yml
+  url: https://github.com/coder/mux/releases/download/v0.28.0/builder-debug.yml
+- name: latest-linux.yml
+  url: https://github.com/coder/mux/releases/download/v0.28.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/coder/mux/releases/download/v0.28.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/coder/mux/releases/download/v0.28.0/latest.yml
+- name: mux-0.1.0.vsix
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.1.0.vsix
+- name: mux-0.28.0-arm64.AppImage
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-arm64.AppImage
+  checksum: 9b54bda8d804ff9a3f12188d8bee28fa63cc0a45c1b130f5cc83424df0f08e72
+- name: mux-0.28.0-arm64.AppImage.sha256
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-arm64.AppImage.sha256
+- name: mux-0.28.0-arm64.dmg
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-arm64.dmg
+- name: mux-0.28.0-arm64.dmg.blockmap
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-arm64.dmg.blockmap
+- name: mux-0.28.0-arm64.zip
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-arm64.zip
+- name: mux-0.28.0-arm64.zip.blockmap
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-arm64.zip.blockmap
+- name: mux-0.28.0-x64.dmg
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x64.dmg
+- name: mux-0.28.0-x64.dmg.blockmap
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x64.dmg.blockmap
+- name: mux-0.28.0-x64.exe
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x64.exe
+- name: mux-0.28.0-x64.exe.blockmap
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x64.exe.blockmap
+- name: mux-0.28.0-x64.zip
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x64.zip
+- name: mux-0.28.0-x64.zip.blockmap
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x64.zip.blockmap
+- name: mux-0.28.0-x86_64.AppImage
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x86_64.AppImage
+  checksum: e74d6635eb0d0ae1588c4a1aa0ca1eca147fca429041d0d0fc5118c9b66c18c5
+- name: mux-0.28.0-x86_64.AppImage.sha256
+  url: https://github.com/coder/mux/releases/download/v0.28.0/mux-0.28.0-x86_64.AppImage.sha256

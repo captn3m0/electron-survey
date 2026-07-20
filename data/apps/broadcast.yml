@@ -6,3 +6,31 @@ aur:
 - broadcast-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.0.5
+src: https://github.com/Mobiz-Advanced-Technologies/Broadcast/archive/refs/tags/v1.0.5.zip
+downloads:
+- name: broadcast-1.0.5-mac.tar.gz
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-1.0.5-mac.tar.gz
+- name: broadcast-1.0.5-mac.zip
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-1.0.5-mac.zip
+- name: broadcast-1.0.5-x86_64.AppImage
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-1.0.5-x86_64.AppImage
+- name: broadcast-1.0.5.exe
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-1.0.5.exe
+- name: broadcast-1.0.5.x86_64.rpm
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-1.0.5.x86_64.rpm
+- name: broadcast-setup-1.0.5.exe
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-setup-1.0.5.exe
+- name: broadcast-setup-1.0.5.exe.blockmap
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-setup-1.0.5.exe.blockmap
+- name: broadcast_1.0.5_amd64.deb
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast_1.0.5_amd64.deb
+- name: broadcast_1.0.5_amd64.snap
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast_1.0.5_amd64.snap
+- name: latest-linux.yml
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/latest.yml
+we_tried: we0:v1.0.5

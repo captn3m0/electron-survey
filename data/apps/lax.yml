@@ -10,3 +10,4 @@ downloads:
 electron: 8.2.4
 method: src-package-lock
 name: Lax
+electron_src: https://github.com/brandly/Lax/archive/refs/tags/v0.6.6.zip

@@ -6,3 +6,13 @@ aur:
 - angular-electron-bin
 electron: 23.3.13
 method: aur-depends
+latest: v5.1.0
+src: https://github.com/malacration/sap-front/archive/refs/tags/v5.1.0.zip
+downloads:
+- name: angular-electron-12.0.0-win.zip
+  url: https://github.com/malacration/sap-front/releases/download/v5.1.0/angular-electron-12.0.0-win.zip
+- name: angular-electron-12.0.0.tar.gz
+  url: https://github.com/malacration/sap-front/releases/download/v5.1.0/angular-electron-12.0.0.tar.gz
+- name: build.zip
+  url: https://github.com/malacration/sap-front/releases/download/v5.1.0/build.zip
+we_tried: we0:v5.1.0

@@ -6,3 +6,8 @@ aur:
 - rem-player-bin
 electron: 33.4.11
 method: aur-depends
+latest: v0.2.6
+src: https://github.com/reallyGoodBaker/REM/archive/refs/tags/v0.2.6.zip
+downloads:
+- name: rem.Setup.0.2.6-beta.exe
+  url: https://github.com/reallyGoodBaker/REM/releases/download/v0.2.6/rem.Setup.0.2.6-beta.exe

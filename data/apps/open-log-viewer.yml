@@ -15,3 +15,4 @@ downloads:
 electron: 8.1.1
 method: src-package-lock
 name: Open Log Viewer
+electron_src: https://github.com/tmoreno/open-log-viewer/archive/refs/tags/1.6.0.zip

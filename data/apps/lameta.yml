@@ -6,3 +6,10 @@ aur:
 - lameta
 electron: 39.8.10
 method: aur-depends
+latest: v2.3.17
+src: https://github.com/onset/lameta/archive/refs/tags/v2.3.17.zip
+downloads:
+- name: lameta-mac-2.3.17.dmg
+  url: https://github.com/onset/lameta/releases/download/v2.3.17/lameta-mac-2.3.17.dmg
+- name: lameta-Windows-Setup-2.3.17.exe
+  url: https://github.com/onset/lameta/releases/download/v2.3.17/lameta-Windows-Setup-2.3.17.exe

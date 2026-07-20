@@ -6,3 +6,10 @@ aur:
 - dk-c++-bin
 electron: 19.1.9
 method: aur-depends
+latest: v1.3.1
+src: https://github.com/EntityPlantt/DK-CPP/archive/refs/tags/v1.3.1.zip
+downloads:
+- name: DK-C++-win32-x64.7z
+  url: https://github.com/EntityPlantt/DK-CPP/releases/download/v1.3.1/DK-C%2B%2B-win32-x64.7z
+- name: DK-C++.msi
+  url: https://github.com/EntityPlantt/DK-CPP/releases/download/v1.3.1/DK-C%2B%2B.msi

@@ -6,3 +6,17 @@ aur:
 - agendapp
 electron: 39.8.10
 method: aur-depends
+latest: 1.5.0
+src: https://github.com/johan-perso/agendapp/archive/refs/tags/1.5.0.zip
+downloads:
+- name: agendapp-1.5.0-macos-arm64.dmg
+  url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-macos-arm64.dmg
+- name: agendapp-1.5.0-macos-arm64.zip
+  url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-macos-arm64.zip
+- name: agendapp-1.5.0-macos-x64.dmg
+  url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-macos-x64.dmg
+- name: agendapp-1.5.0-macos-x64.zip
+  url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-macos-x64.zip
+- name: agendapp-1.5.0-win32-x64.zip
+  url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-win32-x64.zip
+we_tried: we0:1.5.0

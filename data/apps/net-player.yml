@@ -6,3 +6,8 @@ aur:
 - net-player
 electron: 13.6.9
 method: aur-depends
+latest: v3.0.1
+src: https://github.com/Zhoucheng133/net-player/archive/refs/tags/v3.0.1.zip
+downloads:
+- name: Windows.x64.zip
+  url: https://github.com/Zhoucheng133/netPlayer/releases/download/v3.0.1/Windows.x64.zip

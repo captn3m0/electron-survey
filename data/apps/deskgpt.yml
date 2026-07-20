@@ -6,3 +6,10 @@ aur:
 - deskgpt-bin
 electron: 26.6.10
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/0x11c11e/DeskGPT/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: deskgpt-1.0.0.AppImage
+  url: https://github.com/0x11c11e/DeskGPT/releases/download/v1.0.0/deskgpt-1.0.0.AppImage
+- name: deskgpt_1.0.0_amd64.deb
+  url: https://github.com/0x11c11e/DeskGPT/releases/download/v1.0.0/deskgpt_1.0.0_amd64.deb

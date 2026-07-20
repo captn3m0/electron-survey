@@ -10,3 +10,8 @@ packages:
   arch: arm64
 electron: 16.2.8
 method: aur-depends
+homebrew: wiznote
+downloads:
+- url: https://get.wiz.cn/x/wiznote-desktop-0.1.107-mac-arm64.dmg
+  name: wiznote-desktop-0.1.107-mac-arm64.dmg
+  version: 0.1.107

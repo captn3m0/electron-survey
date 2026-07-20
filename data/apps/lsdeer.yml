@@ -13,3 +13,4 @@ downloads:
 electron: 8.2.1
 method: src-package-lock
 name: lsdeer
+electron_src: https://github.com/AlexanderPershin/lsdeer/archive/refs/tags/v0.1.6.zip

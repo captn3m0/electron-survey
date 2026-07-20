@@ -12,8 +12,9 @@ aur:
 - sqlite-utils
 homebrew: datasette-desktop
 downloads:
-- url: https://github.com/simonw/datasette-app/releases/download/0.2.3/Datasette.app.zip
-  name: Datasette.app.zip
-  version: 0.2.3
+- name: Datasette.app.zip
+  url: https://github.com/simonw/datasette-app/releases/download/0.2.3/Datasette.app.zip
 electron: 20.1.3
 method: which-electron-rg
+latest: 0.2.3
+src: https://github.com/simonw/datasette-app/archive/refs/tags/0.2.3.zip

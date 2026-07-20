@@ -1,27 +1,28 @@
 id: dopamine
 repository: https://github.com/digimezzo/dopamine
 website: https://www.digimezzo.com
-latest: v3.0.2
-src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.2.zip
+latest: v3.0.7
+src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.7.zip
 downloads:
-- name: Dopamine-3.0.2-arm.dmg
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2-arm.dmg
-- name: Dopamine-3.0.2-intel.dmg
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2-intel.dmg
-- name: Dopamine-3.0.2.AppImage
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.AppImage
-- name: Dopamine-3.0.2.deb
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.deb
-- name: Dopamine-3.0.2.exe
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.exe
-- name: Dopamine-3.0.2.pacman
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.pacman
-- name: Dopamine-3.0.2.rpm
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.rpm
-- name: Dopamine-3.0.2.snap
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.2/Dopamine-3.0.2.snap
-electron: 38.7.2
+- name: Dopamine-3.0.7-arm.dmg
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7-arm.dmg
+- name: Dopamine-3.0.7-intel.dmg
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7-intel.dmg
+- name: Dopamine-3.0.7.AppImage
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.AppImage
+- name: Dopamine-3.0.7.deb
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.deb
+- name: Dopamine-3.0.7.exe
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.exe
+- name: Dopamine-3.0.7.pacman
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.pacman
+- name: Dopamine-3.0.7.rpm
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.rpm
+- name: Dopamine-3.0.7.snap
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.snap
+electron: 38.8.6
 method: src-package-lock
 aur:
 - vitomu
 name: Dopamine
+electron_src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.7.zip

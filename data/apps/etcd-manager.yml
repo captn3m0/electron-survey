@@ -23,3 +23,4 @@ downloads:
 electron: 6.1.9
 method: src-yarn-lock
 name: ETCD Manager
+electron_src: https://github.com/icellmobilsoft/etcdmanager/archive/refs/tags/1.2.0.zip

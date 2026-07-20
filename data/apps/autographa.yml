@@ -6,3 +6,15 @@ aur:
 - autographa-bin
 electron: 21.4.4
 method: aur-depends
+latest: v2.4.0
+src: https://github.com/friendsofagape/autographa/archive/refs/tags/v2.4.0.zip
+downloads:
+- name: autographa-editor-2.4.0.dmg
+  url: https://github.com/friendsofagape/autographa/releases/download/v2.4.0/autographa-editor-2.4.0.dmg
+- name: autographa-editor-Setup-2.4.0.exe
+  url: https://github.com/friendsofagape/autographa/releases/download/v2.4.0/autographa-editor-Setup-2.4.0.exe
+- name: autographa_2.4.0_amd64.deb
+  url: https://github.com/friendsofagape/autographa/releases/download/v2.4.0/autographa_2.4.0_amd64.deb
+- name: latest.yml
+  url: https://github.com/friendsofagape/autographa/releases/download/v2.4.0/latest.yml
+we_tried: we0:v2.4.0

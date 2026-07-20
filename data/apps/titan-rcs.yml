@@ -6,3 +6,12 @@ aur:
 - titan-rcs-git
 electron: 33.4.11
 method: aur-depends
+latest: v2.0.4
+src: https://github.com/ArrushC/Titan/archive/refs/tags/v2.0.4.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/ArrushC/Titan/releases/download/v2.0.4/latest.yml
+- name: Titan-Setup-2.0.4.exe
+  url: https://github.com/ArrushC/Titan/releases/download/v2.0.4/Titan-Setup-2.0.4.exe
+- name: Titan-Setup-2.0.4.exe.blockmap
+  url: https://github.com/ArrushC/Titan/releases/download/v2.0.4/Titan-Setup-2.0.4.exe.blockmap

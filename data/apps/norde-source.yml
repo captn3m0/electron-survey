@@ -3,3 +3,6 @@ website: https://norde.io
 download_urls:
 - https://norde.io/download
 name: Norde Source
+downloads:
+- url: https://norde.io/download
+  name: download

@@ -8,3 +8,10 @@ additionalAUR:
 - winkey-git
 electron: 32.3.3
 method: aur-depends
+latest: Update
+src: https://github.com/BeastCodZ/WinKey/archive/refs/tags/Update.zip
+downloads:
+- name: WinKey-2.0.0.exe
+  url: https://github.com/BeastCodZ/WinKey/releases/download/Update/WinKey-2.0.0.exe
+- name: WinKey-2.0.0.pacman
+  url: https://github.com/BeastCodZ/WinKey/releases/download/Update/WinKey-2.0.0.pacman

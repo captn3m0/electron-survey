@@ -10,8 +10,23 @@ aur:
 - journey
 homebrew: journey
 downloads:
-- url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-darwin-2.14.6.zip
-  name: Journey-darwin-2.14.6.zip
-  version: 2.14.6
+- name: journey-2.14.6-full-ia32.nupkg
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/journey-2.14.6-full-ia32.nupkg
+- name: journey-2.14.6-full-x64.nupkg
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/journey-2.14.6-full-x64.nupkg
+- name: Journey-2.14.6-Setup-ia32.exe
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-2.14.6-Setup-ia32.exe
+- name: Journey-2.14.6-Setup-x64.exe
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-2.14.6-Setup-x64.exe
+- name: Journey-darwin-2.14.6.dmg
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-darwin-2.14.6.dmg
+- name: Journey-darwin-2.14.6.zip
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/Journey-darwin-2.14.6.zip
+- name: RELEASES-ia32
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/RELEASES-ia32
+- name: RELEASES-x64
+  url: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/RELEASES-x64
 electron: 6.1.7
 method: which-electron-fingerprint
+latest: v2.14.6
+src: https://github.com/2-App-Studio/journey-releases/archive/refs/tags/v2.14.6.zip

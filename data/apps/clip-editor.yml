@@ -6,3 +6,16 @@ aur:
 - clip-editor-bin
 electron: 36.9.5
 method: aur-depends
+latest: v0.2.7
+src: https://github.com/sn0w12/clip-editor/archive/refs/tags/v0.2.7.zip
+downloads:
+- name: clip-editor-0.2.7-1.x86_64.rpm
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip-editor-0.2.7-1.x86_64.rpm
+- name: clip-editor_0.2.7_amd64.deb
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip-editor_0.2.7_amd64.deb
+- name: ClipEditorSetup.exe
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/ClipEditorSetup.exe
+- name: clip_editor-0.2.7-full.nupkg
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip_editor-0.2.7-full.nupkg
+- name: RELEASES
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/RELEASES

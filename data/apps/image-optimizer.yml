@@ -12,3 +12,4 @@ method: src-package-lock
 aur:
 - image-optimizer
 name: Image Optimizer
+electron_src: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v1.4.0.zip

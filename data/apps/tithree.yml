@@ -6,3 +6,5 @@ aur:
 - tithree
 electron: 25.9.8
 method: aur-depends
+latest: v1.4.1
+src: https://github.com/wpwwhimself/tithree/archive/refs/tags/v1.4.1.zip

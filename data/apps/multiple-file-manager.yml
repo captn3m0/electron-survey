@@ -12,3 +12,4 @@ downloads:
 electron: 30.5.1
 method: src-package-lock
 name: Multiple File Manager
+electron_src: https://github.com/dhanyn10/multiple-file-manager/archive/refs/tags/v5.0.0.zip

@@ -4,3 +4,21 @@ website: https://github.com/Pony-House/Client
 repository: https://github.com/Pony-House/Client
 aur:
 - pony-house-bin
+latest: 1.5.0
+src: https://github.com/Pony-House/Client/archive/refs/tags/1.5.0.zip
+downloads:
+- name: pony-house-matrix-1.5.0.tar.gz
+  url: https://github.com/Pony-House/Client/releases/download/1.5.0/pony-house-matrix-1.5.0.tar.gz
+- name: pony-house-matrix_1.5.0_amd64.deb
+  url: https://github.com/Pony-House/Client/releases/download/1.5.0/pony-house-matrix_1.5.0_amd64.deb
+- name: pony-house-matrix_1.5.0_web.zip
+  url: https://github.com/Pony-House/Client/releases/download/1.5.0/pony-house-matrix_1.5.0_web.zip
+- name: pony-house-matrix_1.5.0_win-unpacked.zip
+  url: https://github.com/Pony-House/Client/releases/download/1.5.0/pony-house-matrix_1.5.0_win-unpacked.zip
+- name: pony-house-matrix_1.5.0_win.zip
+  url: https://github.com/Pony-House/Client/releases/download/1.5.0/pony-house-matrix_1.5.0_win.zip
+- name: Pony.House-1.5.0.AppImage
+  url: https://github.com/Pony-House/Client/releases/download/1.5.0/Pony.House-1.5.0.AppImage
+electron: 32.0.2
+method: src-yarn-lock
+electron_src: https://github.com/Pony-House/Client/archive/refs/tags/1.5.0.zip

@@ -9,3 +9,4 @@ downloads:
 electron: 5.0.2
 method: src-package-lock
 name: PrettyEarth
+electron_src: https://github.com/evertdespiegeleer/PrettyEarth/archive/refs/tags/v1.0.4-beta.zip

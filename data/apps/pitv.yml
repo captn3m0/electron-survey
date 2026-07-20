@@ -23,3 +23,4 @@ method: src-yarn-lock
 aur:
 - pitv-bin
 name: PiTV
+electron_src: https://github.com/ozankaraali/PiTV/archive/refs/tags/latest.zip

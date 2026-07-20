@@ -28,3 +28,4 @@ aur:
 - rebaslight
 - rebaslight-bin
 name: Rebaslight
+electron_src: https://github.com/rebaslight/rebaslight/archive/refs/tags/v3.7.3.zip

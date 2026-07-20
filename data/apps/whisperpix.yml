@@ -6,3 +6,12 @@ aur:
 - whisperpix-bin
 electron: 23.3.13
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/graham-walker/WhisperPix/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: WhisperPix-1.1.0.AppImage
+  url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/WhisperPix-1.1.0.AppImage
+- name: WhisperPix.Setup.1.1.0.exe
+  url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/WhisperPix.Setup.1.1.0.exe
+- name: whisperpix_1.1.0_amd64.deb
+  url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/whisperpix_1.1.0_amd64.deb

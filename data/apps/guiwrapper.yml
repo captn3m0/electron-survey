@@ -6,3 +6,24 @@ aur:
 - guiwrapper-bin
 electron: 31.7.7
 method: aur-depends
+latest: v0.7.4
+src: https://github.com/frodal/GUIwrapper/archive/refs/tags/v0.7.4.zip
+downloads:
+- name: guiwrapper-0.7.4-full.nupkg
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/guiwrapper-0.7.4-full.nupkg
+- name: guiwrapper-0.7.4-setup.exe
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/guiwrapper-0.7.4-setup.exe
+- name: guiwrapper-0.7.4-setup.msi
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/guiwrapper-0.7.4-setup.msi
+- name: GUIwrapper-darwin-x64.zip
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-darwin-x64.zip
+- name: GUIwrapper-linux-x64.zip
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-linux-x64.zip
+- name: GUIwrapper-win32-arm64.zip
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-win32-arm64.zip
+- name: GUIwrapper-win32-ia32.zip
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-win32-ia32.zip
+- name: GUIwrapper-win32-x64.zip
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-win32-x64.zip
+- name: RELEASES
+  url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/RELEASES

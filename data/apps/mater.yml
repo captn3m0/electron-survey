@@ -10,3 +10,12 @@ packages:
   os: macos
 electron: 40.10.6
 method: aur-depends
+latest: v3.0.1
+src: https://github.com/jasonlong/mater/archive/refs/tags/v3.0.1.zip
+downloads:
+- name: Mater-v3.0.1-macos.zip
+  url: https://github.com/jasonlong/mater/releases/download/v3.0.1/Mater-v3.0.1-macos.zip
+- url: https://github.com/jasonlong/mater/releases/download/v3.0.1/Mater-v3.0.1-macos.zip
+  name: Mater-v3.0.1-macos.zip
+  version: 3.0.1
+homebrew: mater

@@ -28,3 +28,4 @@ aur:
 - kube-forwarder
 homebrew: kube-forwarder
 name: Kube Forwarder
+electron_src: https://github.com/pixel-point/kube-forwarder/archive/refs/tags/v1.5.1.zip

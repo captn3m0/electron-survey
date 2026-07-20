@@ -15,3 +15,18 @@ aur:
 - freedomgpt-git
 electron: 25.9.8
 method: aur-depends
+latest: v3.0.4
+src: https://github.com/ohmplatform/FreedomGPT/archive/refs/tags/v3.0.4.zip
+downloads:
+- name: file.txt.zip
+  url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/file.txt.zip
+- name: FreedomGPT-3.0.4-full.nupkg
+  url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-3.0.4-full.nupkg
+- name: FreedomGPT-3.0.4.Setup.exe
+  url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-3.0.4.Setup.exe
+- name: FreedomGPT-darwin-arm64-3.0.4.zip
+  url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-darwin-arm64-3.0.4.zip
+- name: Setup.exe
+  url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/Setup.exe
+- name: WriteZipToSetup.exe
+  url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/WriteZipToSetup.exe

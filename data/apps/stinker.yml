@@ -15,3 +15,4 @@ downloads:
 electron: 11.4.11
 method: src-yarn-lock
 name: Stinker
+electron_src: https://github.com/PatentLobster/stinker/archive/refs/tags/v0.3.2.zip

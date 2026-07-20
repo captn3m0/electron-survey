@@ -6,3 +6,14 @@ aur:
 - live-plus-plus-bin
 electron: 28.3.3
 method: aur-depends
+latest: v2.3.10
+src: https://github.com/dipelta/live-plus-plus/archive/refs/tags/v2.3.10.zip
+downloads:
+- name: live++-2.3.10-win.zip
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10-win.zip
+- name: live++-2.3.10.AppImage
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10.AppImage
+- name: live++-2.3.10.dmg
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10.dmg
+- name: live++.Setup.2.3.10.exe
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B.Setup.2.3.10.exe

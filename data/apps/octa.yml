@@ -6,3 +6,8 @@ aur:
 - octa-electron
 electron: 24.8.8
 method: aur-depends
+latest: v2.0.1
+src: https://github.com/MeroVinggen/octa-electron/archive/refs/tags/v2.0.1.zip
+downloads:
+- name: octa-electron-2.0.1-setup.exe
+  url: https://github.com/MeroVinggen/octa-electron/releases/download/v2.0.1/octa-electron-2.0.1-setup.exe

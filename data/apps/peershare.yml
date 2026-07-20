@@ -11,3 +11,4 @@ method: src-package-lock
 aur:
 - peershare
 name: PeerShare
+electron_src: https://github.com/connor-davis/peershare/archive/refs/tags/v1.0.1.zip

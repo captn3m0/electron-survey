@@ -4,3 +4,8 @@ download_urls:
 - https://microstockr.com/downloads/MicrostockrSetup.exe
 - https://microstockr.com/downloads/Microstockr-mac.zip
 name: Microstockr
+downloads:
+- url: https://microstockr.com/downloads/MicrostockrSetup.exe
+  name: MicrostockrSetup.exe
+- url: https://microstockr.com/downloads/Microstockr-mac.zip
+  name: Microstockr-mac.zip

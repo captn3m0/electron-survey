@@ -6,3 +6,12 @@ aur:
 - medikojs-client-bin
 electron: 32.3.3
 method: aur-depends
+latest: 0.0.4-alpha
+src: https://github.com/rafalhogent/medikoJs/archive/refs/tags/0.0.4-alpha.zip
+downloads:
+- name: medikojs-client-v0.0.4-alpha-android-apk.zip
+  url: https://github.com/rafalhogent/medikoJs/releases/download/0.0.4-alpha/medikojs-client-v0.0.4-alpha-android-apk.zip
+- name: medikojs-client-v0.0.4-alpha-linux-x64.zip
+  url: https://github.com/rafalhogent/medikoJs/releases/download/0.0.4-alpha/medikojs-client-v0.0.4-alpha-linux-x64.zip
+- name: medikojs-client-v0.0.4-alpha-win32-x64.zip
+  url: https://github.com/rafalhogent/medikoJs/releases/download/0.0.4-alpha/medikojs-client-v0.0.4-alpha-win32-x64.zip

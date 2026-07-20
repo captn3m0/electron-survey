@@ -6,3 +6,10 @@ aur:
 - interastral-peace-chat-bin
 electron: 24.8.8
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/niizam/ipc/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: Interastral.Peace.Chat-linux-x64-1.0.0.AppImage
+  url: https://github.com/niizam/ipc/releases/download/v1.0.0/Interastral.Peace.Chat-linux-x64-1.0.0.AppImage
+- name: Interastral.Peace.Chat.Setup-win-x64-1.0.0.exe
+  url: https://github.com/niizam/ipc/releases/download/v1.0.0/Interastral.Peace.Chat.Setup-win-x64-1.0.0.exe

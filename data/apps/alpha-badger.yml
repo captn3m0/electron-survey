@@ -6,3 +6,11 @@ aur:
 - alpha-badger
 electron: 19.1.9
 method: aur-depends
+latest: v0.4.1
+src: https://github.com/NoamRa/alpha-badger/archive/refs/tags/v0.4.1.zip
+downloads:
+- name: alpha-badger-0.4.1.Setup.exe
+  url: https://github.com/NoamRa/alpha-badger/releases/download/v0.4.1/alpha-badger-0.4.1.Setup.exe
+- name: alpha-badger-darwin-x64-0.4.1.zip
+  url: https://github.com/NoamRa/alpha-badger/releases/download/v0.4.1/alpha-badger-darwin-x64-0.4.1.zip
+we_tried: we0:v0.4.1

@@ -21,3 +21,4 @@ downloads:
 electron: 35.7.5
 method: src-package-lock
 name: Poddycast
+electron_src: https://github.com/MrChuckomo/poddycast/archive/refs/tags/v0.13.0.zip

@@ -6,3 +6,12 @@ aur:
 - space-snake-bin
 electron: 4.2.12
 method: aur-depends
+latest: 0.11.1
+src: https://github.com/ilyagru/Space-Snake/archive/refs/tags/0.11.1.zip
+downloads:
+- name: Space-Snake-linux-x64-v0.11.1.zip
+  url: https://github.com/ilyagru/Space-Snake/releases/download/0.11.1/Space-Snake-linux-x64-v0.11.1.zip
+- name: Space-Snake-macOS-x64-v0.11.1.zip
+  url: https://github.com/ilyagru/Space-Snake/releases/download/0.11.1/Space-Snake-macOS-x64-v0.11.1.zip
+- name: Space-Snake-win32-x64-v0.11.1.zip
+  url: https://github.com/ilyagru/Space-Snake/releases/download/0.11.1/Space-Snake-win32-x64-v0.11.1.zip

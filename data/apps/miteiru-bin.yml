@@ -8,3 +8,10 @@ additionalAUR:
 - miteiru-bin
 electron: 41.10.2
 method: aur-depends
+latest: v7.4.3
+src: https://github.com/hockyy/miteiru/archive/refs/tags/v7.4.3.zip
+downloads:
+- name: miteiru-7.4.3-linux-26.04-amd64.deb
+  url: https://github.com/hockyy/miteiru/releases/download/v7.4.3/miteiru-7.4.3-linux-26.04-amd64.deb
+- name: miteiru-7.4.3-win-x64.exe
+  url: https://github.com/hockyy/miteiru/releases/download/v7.4.3/miteiru-7.4.3-win-x64.exe

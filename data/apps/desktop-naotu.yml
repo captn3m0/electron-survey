@@ -6,3 +6,14 @@ aur:
 - desktop-naotu
 electron: 4.2.12
 method: aur-depends
+latest: v3.2.3
+src: https://github.com/NaoTu/DesktopNaotu/archive/refs/tags/v3.2.3.zip
+downloads:
+- name: DesktopNaotu-darwin-x64.zip
+  url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-darwin-x64.zip
+- name: DesktopNaotu-linux-x64.zip
+  url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-linux-x64.zip
+- name: DesktopNaotu-win32-ia32.zip
+  url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-win32-ia32.zip
+- name: DesktopNaotu-win32-x64.zip
+  url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-win32-x64.zip

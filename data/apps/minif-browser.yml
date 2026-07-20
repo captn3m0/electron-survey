@@ -6,3 +6,12 @@ aur:
 - minif-browser-bin
 electron: 32.3.3
 method: aur-depends
+latest: f-1.3.0
+src: https://github.com/Klubuntu/minif-browser/archive/refs/tags/f-1.3.0.zip
+downloads:
+- name: minif-browser_1.3.0_amd64.deb
+  url: https://github.com/Klubuntu/minif-browser/releases/download/f-1.3.0/minif-browser_1.3.0_amd64.deb
+- name: Minif.Browser-1.3.0.AppImage
+  url: https://github.com/Klubuntu/minif-browser/releases/download/f-1.3.0/Minif.Browser-1.3.0.AppImage
+- name: Minif.Browser.Setup.1.3.0.exe
+  url: https://github.com/Klubuntu/minif-browser/releases/download/f-1.3.0/Minif.Browser.Setup.1.3.0.exe

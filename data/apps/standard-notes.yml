@@ -108,3 +108,4 @@ packages:
   os: macos
   arch: arm64
 name: Standard Notes
+electron_src: https://github.com/standardnotes/desktop/archive/refs/tags/v3.22.11.zip

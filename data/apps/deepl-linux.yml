@@ -9,3 +9,8 @@ additionalAUR:
 - deepl-linux-electron-git
 electron: 33.4.11
 method: aur-depends
+latest: v1.6.1
+src: https://github.com/kumakichi/Deepl-linux-electron/archive/refs/tags/v1.6.1.zip
+downloads:
+- name: Deepl-Linux-Electron-1.6.1.AppImage
+  url: https://github.com/kumakichi/Deepl-linux-electron/releases/download/v1.6.1/Deepl-Linux-Electron-1.6.1.AppImage

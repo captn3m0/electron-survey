@@ -29,8 +29,37 @@ packages:
   arch: x64
 homebrew: electron-fiddle
 downloads:
-- url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-arm64-0.39.0.zip
-  name: Electron.Fiddle-darwin-arm64-0.39.0.zip
-  version: 0.39.0
+- name: electron-fiddle-0.39.0-1.arm64.rpm
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-1.arm64.rpm
+- name: electron-fiddle-0.39.0-1.armv7hl.rpm
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-1.armv7hl.rpm
+- name: electron-fiddle-0.39.0-1.x86_64.rpm
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-1.x86_64.rpm
+- name: electron-fiddle-0.39.0-full.nupkg
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-full.nupkg
+- name: electron-fiddle-0.39.0-win32-ia32-setup.exe
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-win32-ia32-setup.exe
+- name: electron-fiddle-0.39.0-win32-x64-setup.exe
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-win32-x64-setup.exe
+- name: electron-fiddle_0.39.0_amd64.deb
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle_0.39.0_amd64.deb
+- name: electron-fiddle_0.39.0_arm64.deb
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle_0.39.0_arm64.deb
+- name: electron-fiddle_0.39.0_armhf.deb
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle_0.39.0_armhf.deb
+- name: Electron.Fiddle-0.39.0-arm64.AppImage
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-0.39.0-arm64.AppImage
+- name: Electron.Fiddle-0.39.0-armv7l.AppImage
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-0.39.0-armv7l.AppImage
+- name: Electron.Fiddle-0.39.0-x64.AppImage
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-0.39.0-x64.AppImage
+- name: Electron.Fiddle-darwin-arm64-0.39.0.zip
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-arm64-0.39.0.zip
+- name: Electron.Fiddle-darwin-x64-0.39.0.zip
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-x64-0.39.0.zip
+- name: RELEASES
+  url: https://github.com/electron/fiddle/releases/download/v0.39.0/RELEASES
 electron: 40.8.5
 method: which-electron-rg
+latest: v0.39.0
+src: https://github.com/electron/fiddle/archive/refs/tags/v0.39.0.zip

@@ -50,3 +50,4 @@ aur:
 - antares-sql-bin
 - antares-sql-git
 name: Antares
+electron_src: https://github.com/antares-sql/antares/archive/refs/tags/v0.7.35.zip

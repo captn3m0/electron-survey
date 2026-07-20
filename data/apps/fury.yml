@@ -6,3 +6,12 @@ aur:
 - fury-git
 electron: 28.3.3
 method: aur-depends
+latest: v0.1.18
+src: https://github.com/naveen-devang/Fury/archive/refs/tags/v0.1.18.zip
+downloads:
+- name: Fury-0.1.18-arm64.dmg
+  url: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/Fury-0.1.18-arm64.dmg
+- name: Fury-0.1.18-arm64.dmg.blockmap
+  url: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/Fury-0.1.18-arm64.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/latest-mac.yml

@@ -10,3 +10,42 @@ packages:
   os: macos
 electron: 33.4.11
 method: aur-depends
+latest: v1.0.3
+src: https://github.com/anchel/ssh-config-editor/archive/refs/tags/v1.0.3.zip
+downloads:
+- name: latest-arm64-mac.yml
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/latest-arm64-mac.yml
+- name: latest-arm64.yml
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/latest-arm64.yml
+- name: latest-x64-mac.yml
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/latest-x64-mac.yml
+- name: latest-x64.yml
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/latest-x64.yml
+- name: ssh-config-editor-1.0.3-darwin-arm64-installer.dmg
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-arm64-installer.dmg
+- name: ssh-config-editor-1.0.3-darwin-arm64-installer.dmg.blockmap
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-arm64-installer.dmg.blockmap
+- name: ssh-config-editor-1.0.3-darwin-arm64-installer.zip
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-arm64-installer.zip
+- name: ssh-config-editor-1.0.3-darwin-arm64-installer.zip.blockmap
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-arm64-installer.zip.blockmap
+- name: ssh-config-editor-1.0.3-darwin-x64-installer.dmg
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-x64-installer.dmg
+- name: ssh-config-editor-1.0.3-darwin-x64-installer.dmg.blockmap
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-x64-installer.dmg.blockmap
+- name: ssh-config-editor-1.0.3-darwin-x64-installer.zip
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-x64-installer.zip
+- name: ssh-config-editor-1.0.3-darwin-x64-installer.zip.blockmap
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-x64-installer.zip.blockmap
+- name: ssh-config-editor-1.0.3-windows-arm64-setup.exe
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-windows-arm64-setup.exe
+- name: ssh-config-editor-1.0.3-windows-arm64-setup.exe.blockmap
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-windows-arm64-setup.exe.blockmap
+- name: ssh-config-editor-1.0.3-windows-x64-setup.exe
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-windows-x64-setup.exe
+- name: ssh-config-editor-1.0.3-windows-x64-setup.exe.blockmap
+  url: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-windows-x64-setup.exe.blockmap
+- url: https://hejki.org/download/ssheditor/SSHConfigEditor-112.dmg
+  name: SSHConfigEditor-112.dmg
+  version: 2.6.11,112
+homebrew: ssh-config-editor

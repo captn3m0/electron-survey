@@ -23,3 +23,4 @@ method: src-yarn-lock
 aur:
 - i5sing
 name: i5sing
+electron_src: https://github.com/i5sing/i5SING/archive/refs/tags/v0.3.0.zip

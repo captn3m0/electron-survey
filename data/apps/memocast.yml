@@ -6,3 +6,34 @@ aur:
 - memocast-bin
 electron: 16.2.8
 method: aur-depends
+latest: v2.2.3
+src: https://github.com/TankNee/Memocast/archive/refs/tags/v2.2.3.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/latest.yml
+- name: Memocast-2.2.3-amd64-linux.deb
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-amd64-linux.deb
+- name: Memocast-2.2.3-arm64-mac.dmg
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-arm64-mac.dmg
+- name: Memocast-2.2.3-arm64-mac.dmg.blockmap
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-arm64-mac.dmg.blockmap
+- name: Memocast-2.2.3-mac.dmg
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-mac.dmg
+- name: Memocast-2.2.3-mac.dmg.blockmap
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-mac.dmg.blockmap
+- name: Memocast-2.2.3-mac.zip
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-mac.zip
+- name: Memocast-2.2.3-win.exe
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-win.exe
+- name: Memocast-2.2.3-win.exe.blockmap
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-win.exe.blockmap
+- name: Memocast-2.2.3-win.zip
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-win.zip
+- name: Memocast-2.2.3-x86_64-linux.AppImage
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-x86_64-linux.AppImage
+- name: Memocast-2.2.3-x86_64-linux.rpm
+  url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-x86_64-linux.rpm

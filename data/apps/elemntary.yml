@@ -6,3 +6,12 @@ aur:
 - elemntary-bin
 electron: 24.8.8
 method: aur-depends
+latest: v0.5.6
+src: https://github.com/vti/elemntary/archive/refs/tags/v0.5.6.zip
+downloads:
+- name: elemntary-darwin-x64-0.5.6.zip
+  url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-darwin-x64-0.5.6.zip
+- name: elemntary-linux-x64-0.5.6.zip
+  url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-linux-x64-0.5.6.zip
+- name: elemntary-win32-x64-0.5.6.zip
+  url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-win32-x64-0.5.6.zip

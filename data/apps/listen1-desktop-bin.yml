@@ -13,3 +13,59 @@ additionalAUR:
 - listen1-desktop-bin
 - listen1-desktop-git
 - listen1-desktop
+latest: v2.33.0
+src: https://github.com/listen1/listen1_desktop/archive/refs/tags/v2.33.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/latest.yml
+- name: listen1_2.33.0_linux_amd64.deb
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_amd64.deb
+- name: listen1_2.33.0_linux_x64.tar.gz
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_x64.tar.gz
+- name: listen1_2.33.0_linux_x86_64.AppImage
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_x86_64.AppImage
+- name: listen1_2.33.0_mac_arm64.dmg
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_arm64.dmg
+- name: listen1_2.33.0_mac_arm64.dmg.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_arm64.dmg.blockmap
+- name: listen1_2.33.0_mac_universal.dmg
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_universal.dmg
+- name: listen1_2.33.0_mac_universal.dmg.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_universal.dmg.blockmap
+- name: listen1_2.33.0_mac_x64.dmg
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_x64.dmg
+- name: listen1_2.33.0_mac_x64.dmg.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_mac_x64.dmg.blockmap
+- name: listen1_2.33.0_win.exe
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win.exe
+- name: listen1_2.33.0_win.exe.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win.exe.blockmap
+- name: listen1_2.33.0_win_arm64.7z
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_arm64.7z
+- name: listen1_2.33.0_win_arm64.exe
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_arm64.exe
+- name: listen1_2.33.0_win_arm64.exe.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_arm64.exe.blockmap
+- name: listen1_2.33.0_win_ia32.7z
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_ia32.7z
+- name: listen1_2.33.0_win_ia32.exe
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_ia32.exe
+- name: listen1_2.33.0_win_ia32.exe.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_ia32.exe.blockmap
+- name: listen1_2.33.0_win_x64.7z
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_x64.7z
+- name: listen1_2.33.0_win_x64.exe
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_x64.exe
+- name: listen1_2.33.0_win_x64.exe.blockmap
+  url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_win_x64.exe.blockmap
+- url: https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/Listen1_2.33.0_mac_arm64.dmg
+  name: Listen1_2.33.0_mac_arm64.dmg
+  version: 2.33.0
+homebrew: listen1
+electron: 32.3.2
+method: src-package-lock
+electron_src: https://github.com/listen1/listen1_desktop/archive/refs/tags/v2.33.0.zip

@@ -6,3 +6,5 @@ aur:
 - cryptique-git
 electron: 28.3.3
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/truethari/Cryptique/archive/refs/tags/v1.0.0.zip

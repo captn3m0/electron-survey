@@ -8,3 +8,34 @@ additionalAUR:
 - electron-ssr-preview
 electron: 4.2.12
 method: aur-depends
+latest: v0.2.7
+src: https://github.com/shadowsocksrr/electron-ssr/archive/refs/tags/v0.2.7.zip
+downloads:
+- name: electron-ssr-0.2.7-mac.zip
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7-mac.zip
+- name: electron-ssr-0.2.7.AppImage
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.AppImage
+- name: electron-ssr-0.2.7.deb
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.deb
+- name: electron-ssr-0.2.7.dmg
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.dmg
+- name: electron-ssr-0.2.7.exe
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.exe
+- name: electron-ssr-0.2.7.exe.blockmap
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.exe.blockmap
+- name: electron-ssr-0.2.7.pacman
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.pacman
+- name: electron-ssr-0.2.7.rpm
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.rpm
+- name: electron-ssr-0.2.7.tar.gz
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.tar.gz
+- name: latest-linux.yml
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/latest-linux.yml
+- name: latest-mac.json
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/latest-mac.json
+- name: latest-mac.yml
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/latest.yml
+- name: null.blockmap
+  url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/null.blockmap

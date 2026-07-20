@@ -5,3 +5,8 @@ packages:
 - url: https://releases.milanote.com/Milanote-3.18.115.dmg
   format: dmg
   os: macos
+homebrew: milanote
+downloads:
+- url: https://milanote-app-releases.s3.amazonaws.com/Milanote-3.18.115.dmg
+  name: Milanote-3.18.115.dmg
+  version: 3.18.115

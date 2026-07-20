@@ -10,3 +10,4 @@ downloads:
 electron: 1.7.8
 method: src-package-lock
 name: Source Me
+electron_src: https://github.com/theIYD/source-me/archive/refs/tags/0.2.1.zip

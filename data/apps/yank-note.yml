@@ -27,3 +27,48 @@ aur:
 - yank-note
 electron: 41.10.2
 method: aur-depends
+latest: v3.92.1
+src: https://github.com/purocean/yn/archive/refs/tags/v3.92.1.zip
+downloads:
+- name: latest-linux-arm64.yml
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/latest-linux.yml
+- name: latest-mac-arm64.yml
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/latest-mac-arm64.yml
+- name: latest-mac-x64.yml
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/latest-mac-x64.yml
+- name: latest-mac.yml
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/latest.yml
+- name: Yank-Note-linux-amd64-3.92.1.deb
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-linux-amd64-3.92.1.deb
+- name: Yank-Note-linux-arm64-3.92.1.AppImage
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-linux-arm64-3.92.1.AppImage
+- name: Yank-Note-linux-arm64-3.92.1.deb
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-linux-arm64-3.92.1.deb
+- name: Yank-Note-linux-x86_64-3.92.1.AppImage
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-linux-x86_64-3.92.1.AppImage
+- name: Yank-Note-mac-arm64-3.92.1.dmg
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-arm64-3.92.1.dmg
+- name: Yank-Note-mac-arm64-3.92.1.dmg.blockmap
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-arm64-3.92.1.dmg.blockmap
+- name: Yank-Note-mac-arm64-3.92.1.zip
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-arm64-3.92.1.zip
+- name: Yank-Note-mac-arm64-3.92.1.zip.blockmap
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-arm64-3.92.1.zip.blockmap
+- name: Yank-Note-mac-x64-3.92.1.dmg
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-x64-3.92.1.dmg
+- name: Yank-Note-mac-x64-3.92.1.dmg.blockmap
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-x64-3.92.1.dmg.blockmap
+- name: Yank-Note-mac-x64-3.92.1.zip
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-x64-3.92.1.zip
+- name: Yank-Note-mac-x64-3.92.1.zip.blockmap
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-mac-x64-3.92.1.zip.blockmap
+- name: Yank-Note-win-x64-3.92.1.exe
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-win-x64-3.92.1.exe
+- name: Yank-Note-win-x64-3.92.1.exe.blockmap
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-win-x64-3.92.1.exe.blockmap
+- name: Yank-Note-win-x64-3.92.1.zip
+  url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-win-x64-3.92.1.zip

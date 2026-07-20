@@ -6,3 +6,22 @@ aur:
 - copicseal-git
 electron: 31.7.7
 method: aur-depends
+latest: v0.3.9
+src: https://github.com/copicseal/copicseal/archive/refs/tags/v0.3.9.zip
+downloads:
+- name: Copicseal-0.3.9-arm64-mac.zip
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/Copicseal-0.3.9-arm64-mac.zip
+- name: Copicseal-0.3.9-arm64-mac.zip.blockmap
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/Copicseal-0.3.9-arm64-mac.zip.blockmap
+- name: copicseal-0.3.9-setup.exe
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/copicseal-0.3.9-setup.exe
+- name: copicseal-0.3.9-setup.exe.blockmap
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/copicseal-0.3.9-setup.exe.blockmap
+- name: copicseal-0.3.9.dmg
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/copicseal-0.3.9.dmg
+- name: copicseal-0.3.9.dmg.blockmap
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/copicseal-0.3.9.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/latest.yml

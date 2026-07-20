@@ -6,3 +6,20 @@ aur:
 - chat-overlay-bin
 electron: 42.7.0
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/laplace-live/chat-overlay/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: chat-overlay-1.1.0-1.x86_64.rpm
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
+- name: chat-overlay_1.1.0_amd64.deb
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay_1.1.0_amd64.deb
+- name: LAPLACE.Chat.Overlay-1.1.0.Setup.exe
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/LAPLACE.Chat.Overlay-1.1.0.Setup.exe
+- name: LAPLACE.Chat.Overlay-darwin-arm64-1.1.0.zip
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/LAPLACE.Chat.Overlay-darwin-arm64-1.1.0.zip
+- name: LAPLACEChatOverlay-1.1.0-full.nupkg
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/LAPLACEChatOverlay-1.1.0-full.nupkg
+- name: RELEASES
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/RELEASES
+- name: RELEASES.json
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/RELEASES.json

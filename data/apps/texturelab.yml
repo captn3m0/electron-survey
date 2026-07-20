@@ -6,3 +6,12 @@ aur:
 - texturelab-bin
 electron: 13.6.9
 method: aur-depends
+latest: v0.3.3
+src: https://github.com/njbrown/texturelab/archive/refs/tags/v0.3.3.zip
+downloads:
+- name: texturelab-linux-v0.3.3.zip
+  url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-linux-v0.3.3.zip
+- name: texturelab-macos-v0.3.3.zip
+  url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-macos-v0.3.3.zip
+- name: texturelab-win-v0.3.3.zip
+  url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-win-v0.3.3.zip

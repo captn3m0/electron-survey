@@ -27,3 +27,4 @@ downloads:
 electron: 8.3.0
 method: src-yarn-lock
 name: Mini Diary
+electron_src: https://github.com/samuelmeuli/mini-diary/archive/refs/tags/v3.3.0.zip

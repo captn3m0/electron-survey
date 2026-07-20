@@ -15,3 +15,16 @@ aur:
 - modv-bin
 electron: 25.9.8
 method: aur-depends
+latest: 3.30.0
+src: https://github.com/vcync/modV/archive/refs/tags/3.30.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/vcync/modV/releases/download/3.30.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/vcync/modV/releases/download/3.30.0/latest.yml
+- name: modV-3.30.0.AppImage
+  url: https://github.com/vcync/modV/releases/download/3.30.0/modV-3.30.0.AppImage
+- name: modV.Setup.3.30.0.exe
+  url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe
+- name: modV.Setup.3.30.0.exe.blockmap
+  url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe.blockmap

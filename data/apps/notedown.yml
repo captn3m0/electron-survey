@@ -4,3 +4,17 @@ website: https://github.com/subvisual/notedown
 repository: https://github.com/subvisual/notedown
 aur:
 - notedown
+latest: v1.13.0
+src: https://github.com/subvisual/notedown/archive/refs/tags/v1.13.0.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/subvisual/notedown/releases/download/v1.13.0/latest-mac.yml
+- name: NoteDown-1.13.0.dmg
+  url: https://github.com/subvisual/notedown/releases/download/v1.13.0/NoteDown-1.13.0.dmg
+- name: NoteDown-1.13.0.dmg.blockmap
+  url: https://github.com/subvisual/notedown/releases/download/v1.13.0/NoteDown-1.13.0.dmg.blockmap
+- name: notedown-1.13.0.tar.gz
+  url: https://github.com/subvisual/notedown/releases/download/v1.13.0/notedown-1.13.0.tar.gz
+electron: 10.1.5
+method: src-yarn-lock
+electron_src: https://github.com/subvisual/notedown/archive/refs/tags/v1.13.0.zip

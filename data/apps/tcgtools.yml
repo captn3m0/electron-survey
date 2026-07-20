@@ -6,3 +6,12 @@ aur:
 - tcgtools-git
 electron: 34.5.8
 method: aur-depends
+latest: 1.8.6
+src: https://github.com/Kazbonfim/tcgtools/archive/refs/tags/1.8.6.zip
+downloads:
+- name: latest.yml
+  url: https://github.com/Kazbonfim/tcgtools/releases/download/1.8.6/latest.yml
+- name: tcgtools-portable.zip
+  url: https://github.com/Kazbonfim/tcgtools/releases/download/1.8.6/tcgtools-portable.zip
+- name: TCGTools.Setup.1.8.6.exe
+  url: https://github.com/Kazbonfim/tcgtools/releases/download/1.8.6/TCGTools.Setup.1.8.6.exe

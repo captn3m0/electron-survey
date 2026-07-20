@@ -6,3 +6,12 @@ aur:
 - youtube-smarttv-emu-bin
 electron: 34.5.8
 method: aur-depends
+latest: 1.1.0
+src: https://github.com/platevoltage/youtube-smarttv-emu/archive/refs/tags/1.1.0.zip
+downloads:
+- name: youtube-smarttv-emu-1.1.0-arm64.dmg
+  url: https://github.com/platevoltage/youtube-smarttv-emu/releases/download/1.1.0/youtube-smarttv-emu-1.1.0-arm64.dmg
+- name: youtube-smarttv-emu-1.1.0.x86_64.rpm
+  url: https://github.com/platevoltage/youtube-smarttv-emu/releases/download/1.1.0/youtube-smarttv-emu-1.1.0.x86_64.rpm
+- name: youtube-smarttv-emu_1.1.0_amd64.deb
+  url: https://github.com/platevoltage/youtube-smarttv-emu/releases/download/1.1.0/youtube-smarttv-emu_1.1.0_amd64.deb

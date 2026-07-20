@@ -6,3 +6,12 @@ aur:
 - subtrack-bin
 electron: 28.3.3
 method: aur-depends
+latest: v1.1.1
+src: https://github.com/jin-taiyu/SubTrack/archive/refs/tags/v1.1.1.zip
+downloads:
+- name: SubTrack-1.1.1-arm64.dmg
+  url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack-1.1.1-arm64.dmg
+- name: SubTrack-1.1.1.AppImage
+  url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack-1.1.1.AppImage
+- name: SubTrack.Setup.1.1.1.exe
+  url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack.Setup.1.1.1.exe

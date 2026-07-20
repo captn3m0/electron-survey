@@ -6,3 +6,8 @@ aur:
 - outdated-snake-git
 electron: 31.7.7
 method: aur-depends
+latest: v3.0.0
+src: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/archive/refs/tags/v3.0.0.zip
+downloads:
+- name: Outdated-Snake.Setup.zip
+  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v3.0.0/Outdated-Snake.Setup.zip

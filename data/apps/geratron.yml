@@ -6,3 +6,8 @@ aur:
 - geratron-git
 electron: 32.3.3
 method: aur-depends
+latest: v1.0.1
+src: https://github.com/thiagowaib/geratron/archive/refs/tags/v1.0.1.zip
+downloads:
+- name: geratron-setupv1-0-1.exe
+  url: https://github.com/thiagowaib/geratron/releases/download/v1.0.1/geratron-setupv1-0-1.exe

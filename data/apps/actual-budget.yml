@@ -13,3 +13,33 @@ aur:
 - actual-server-runit
 electron: 41.10.2
 method: aur-depends
+latest: v26.7.0
+src: https://github.com/actualbudget/actual/archive/refs/tags/v26.7.0.zip
+downloads:
+- name: Actual-linux-arm64.AppImage
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-arm64.AppImage
+- name: Actual-linux-x86_64.AppImage
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-x86_64.AppImage
+- name: Actual-linux-x86_64.flatpak
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-x86_64.flatpak
+- name: Actual-mac-arm64.dmg
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-mac-arm64.dmg
+- name: Actual-mac-x64.dmg
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-mac-x64.dmg
+- name: Actual-windows-arm64.appx
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-arm64.appx
+- name: Actual-windows-arm64.exe
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-arm64.exe
+- name: Actual-windows-ia32.appx
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-ia32.appx
+- name: Actual-windows-ia32.exe
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-ia32.exe
+- name: Actual-windows-x64.appx
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-x64.appx
+- name: Actual-windows-x64.exe
+  url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-x64.exe
+- url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-mac-arm64.dmg
+  name: Actual-mac-arm64.dmg
+  version: 26.7.0
+homebrew: actual
+we_tried: we0:v26.7.0

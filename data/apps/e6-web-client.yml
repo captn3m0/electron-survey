@@ -4,3 +4,29 @@ website: https://github.com/Ivannivi/e6client
 repository: https://github.com/Ivannivi/e6client
 aur:
 - e6-web-client
+latest: v19.1
+src: https://github.com/Ivannivi/e6client/archive/refs/tags/v19.1.zip
+downloads:
+- name: app-debug.apk
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/app-debug.apk
+- name: e6-web-client-0.0.0.tar.gz
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/e6-web-client-0.0.0.tar.gz
+- name: e6-web-client_0.0.0_amd64.deb
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/e6-web-client_0.0.0_amd64.deb
+- name: E6.Web.Client-0.0.0-arm64-mac.zip
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client-0.0.0-arm64-mac.zip
+- name: E6.Web.Client-0.0.0-arm64.dmg
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client-0.0.0-arm64.dmg
+- name: E6.Web.Client-0.0.0-mac.zip
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client-0.0.0-mac.zip
+- name: E6.Web.Client-0.0.0.AppImage
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client-0.0.0.AppImage
+- name: E6.Web.Client-0.0.0.dmg
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client-0.0.0.dmg
+- name: E6.Web.Client.0.0.0.exe
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client.0.0.0.exe
+- name: E6.Web.Client.Setup.0.0.0.exe
+  url: https://github.com/Ivannivi/e6client/releases/download/v19.1/E6.Web.Client.Setup.0.0.0.exe
+electron: 32.3.3
+method: src-package-lock
+electron_src: https://github.com/Ivannivi/e6client/archive/refs/tags/v19.1.zip

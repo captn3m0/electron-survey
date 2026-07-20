@@ -6,3 +6,18 @@ aur:
 - sixgrid-bin
 electron: 28.3.3
 method: aur-depends
+latest: 0.3.7-3
+src: https://github.com/SixGrid/sixgrid/archive/refs/tags/0.3.7-3.zip
+downloads:
+- name: sixgrid-amd64.flatpak
+  url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-amd64.flatpak
+- name: sixgrid-linux-amd64.AppImage
+  url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-linux-amd64.AppImage
+- name: sixgrid-linux-amd64.tar.gz
+  url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-linux-amd64.tar.gz
+- name: sixgrid-linux-amd64.zip
+  url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-linux-amd64.zip
+- name: sixgrid-win-amd64-setup.msi
+  url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-win-amd64-setup.msi
+- name: sixgrid-win-amd64.zip
+  url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-win-amd64.zip

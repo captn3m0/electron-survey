@@ -4,3 +4,27 @@ website: https://github.com/StefanLobbenmeier/youtube-dl-gui
 repository: https://github.com/StefanLobbenmeier/youtube-dl-gui
 aur:
 - youtube-dl-gui-bin
+latest: v2.5.6
+src: https://github.com/StefanLobbenmeier/youtube-dl-gui/archive/refs/tags/v2.5.6.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/latest.yml
+- name: Open-Video-Downloader-2.5.6-universal.dmg
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-2.5.6-universal.dmg
+- name: Open-Video-Downloader-2.5.6-universal.dmg.blockmap
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-2.5.6-universal.dmg.blockmap
+- name: Open-Video-Downloader-2.5.6.AppImage
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-2.5.6.AppImage
+- name: Open-Video-Downloader-2.5.6.exe
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-2.5.6.exe
+- name: Open-Video-Downloader-Setup-2.5.6.exe
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-Setup-2.5.6.exe
+- name: Open-Video-Downloader-Setup-2.5.6.exe.blockmap
+  url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-Setup-2.5.6.exe.blockmap
+electron: 26.2.2
+method: src-package-lock
+electron_src: https://github.com/StefanLobbenmeier/youtube-dl-gui/archive/refs/tags/v2.5.6.zip

@@ -8,3 +8,20 @@ additionalAUR:
 - salesforce2sql-git
 electron: 36.9.5
 method: aur-depends
+latest: v0.12.0
+src: https://github.com/acrosman/Salesforce2Sql/archive/refs/tags/v0.12.0.zip
+downloads:
+- name: RELEASES
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/RELEASES
+- name: salesforce2sql-0.12.0-1.x86_64.rpm
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-0.12.0-1.x86_64.rpm
+- name: salesforce2sql-0.12.0-arm64.dmg
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-0.12.0-arm64.dmg
+- name: salesforce2Sql-0.12.0-full.nupkg
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2Sql-0.12.0-full.nupkg
+- name: salesforce2sql-0.12.0.Setup.exe
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-0.12.0.Setup.exe
+- name: salesforce2sql-darwin-arm64-0.12.0.zip
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-darwin-arm64-0.12.0.zip
+- name: salesforce2sql-linux-x64-0.12.0.zip
+  url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-linux-x64-0.12.0.zip

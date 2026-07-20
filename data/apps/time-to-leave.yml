@@ -21,6 +21,16 @@ packages:
   arch: x64
 homebrew: time-to-leave
 downloads:
-- url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0.dmg
-  name: time-to-leave-4.0.0.dmg
-  version: 4.0.0
+- name: time-to-leave-4.0.0-amd64.deb
+  url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-amd64.deb
+- name: time-to-leave-4.0.0-amd64.rpm
+  url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-amd64.rpm
+- name: time-to-leave-4.0.0-installer.exe
+  url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0-installer.exe
+- name: time-to-leave-4.0.0.dmg
+  url: https://github.com/TTLApp/time-to-leave/releases/download/4.0.0/time-to-leave-4.0.0.dmg
+latest: 4.0.0
+src: https://github.com/TTLApp/time-to-leave/archive/refs/tags/4.0.0.zip
+electron: 37.2.5
+method: src-package-lock
+electron_src: https://github.com/TTLApp/time-to-leave/archive/refs/tags/4.0.0.zip

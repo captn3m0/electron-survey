@@ -8,3 +8,12 @@ additionalAUR:
 - gptm-git
 electron: 31.7.7
 method: aur-depends
+latest: v1.2
+src: https://github.com/Technicalflight/Gptm/archive/refs/tags/v1.2.zip
+downloads:
+- name: GPTM.Setup.1.2-win.exe
+  url: https://github.com/Technicalflight/Gptm/releases/download/v1.2/GPTM.Setup.1.2-win.exe
+- name: linux-artifacts.zip
+  url: https://github.com/Technicalflight/Gptm/releases/download/v1.2/linux-artifacts.zip
+- name: mac-artifacts.zip
+  url: https://github.com/Technicalflight/Gptm/releases/download/v1.2/mac-artifacts.zip

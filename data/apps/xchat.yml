@@ -6,3 +6,12 @@ aur:
 - xchat-bin
 electron: 27.3.11
 method: aur-depends
+latest: 1.0.0
+src: https://github.com/xYx-c/xchat/archive/refs/tags/1.0.0.zip
+downloads:
+- name: xchat_1.0.0.AppImage
+  url: https://github.com/xYx-c/xchat/releases/download/1.0.0/xchat_1.0.0.AppImage
+- name: xchat_1.0.0.deb
+  url: https://github.com/xYx-c/xchat/releases/download/1.0.0/xchat_1.0.0.deb
+- name: xchat_1.0.0.rpm
+  url: https://github.com/xYx-c/xchat/releases/download/1.0.0/xchat_1.0.0.rpm

@@ -6,3 +6,10 @@ aur:
 - ugonlinemusicplayer-git
 electron: 29.4.6
 method: aur-depends
+latest: V1.0.2
+src: https://github.com/uguang2003/UGOnlineMusicPlayer/archive/refs/tags/V1.0.2.zip
+downloads:
+- name: UGOnlineMusicPlayer-V1.0.2.apk
+  url: https://github.com/uguang2003/UGOnlineMusicPlayer/releases/download/V1.0.2/UGOnlineMusicPlayer-V1.0.2.apk
+- name: UGOnlineMusicPlayer_Setup-V1.0.2.exe
+  url: https://github.com/uguang2003/UGOnlineMusicPlayer/releases/download/V1.0.2/UGOnlineMusicPlayer_Setup-V1.0.2.exe

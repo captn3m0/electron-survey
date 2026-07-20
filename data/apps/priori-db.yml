@@ -6,3 +6,16 @@ aur:
 - priori-db-bin
 electron: 31.7.7
 method: aur-depends
+latest: v0.0.1-beta
+src: https://github.com/priori/priori-db/archive/refs/tags/v0.0.1-beta.zip
+downloads:
+- name: priori-db-v0.0.1-beta-linux-x64.AppImage
+  url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-linux-x64.AppImage
+- name: priori-db-v0.0.1-beta-linux-x64.tar.gz
+  url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-linux-x64.tar.gz
+- name: priori-db-v0.0.1-beta-mac-arm64.dmg
+  url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-mac-arm64.dmg
+- name: priori-db-v0.0.1-beta-win-x64.exe
+  url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-win-x64.exe
+- name: priori-db-v0.0.1-beta-win-x64.zip
+  url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-win-x64.zip

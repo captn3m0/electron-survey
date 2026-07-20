@@ -26,3 +26,4 @@ aur:
 - codex-bin
 homebrew: codex
 name: Codex
+electron_src: https://github.com/jcv8000/Codex/archive/refs/tags/v2.0.5.zip

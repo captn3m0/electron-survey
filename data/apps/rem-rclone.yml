@@ -21,3 +21,14 @@ packages:
   arch: x64
 electron: 30.5.1
 method: which-electron-rg
+latest: v1.4.0
+src: https://github.com/liriliri/rem/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: REM-1.4.0-linux-x86_64.AppImage
+  url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-linux-x86_64.AppImage
+- name: REM-1.4.0-mac-arm64.dmg
+  url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-mac-arm64.dmg
+- name: REM-1.4.0-mac-x64.dmg
+  url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-mac-x64.dmg
+- name: REM-1.4.0-win-x64.exe
+  url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-win-x64.exe

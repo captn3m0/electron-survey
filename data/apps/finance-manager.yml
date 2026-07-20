@@ -6,3 +6,12 @@ aur:
 - finance-manager-git
 electron: 29.4.6
 method: aur-depends
+latest: 1.0.1
+src: https://github.com/programmingKyle/finance-manager/archive/refs/tags/1.0.1.zip
+downloads:
+- name: finance-manager-1.0.0.exe
+  url: https://github.com/programmingKyle/finance-manager/releases/download/1.0.1/finance-manager-1.0.0.exe
+- name: finance-manager-1.0.1.exe
+  url: https://github.com/programmingKyle/finance-manager/releases/download/1.0.1/finance-manager-1.0.1.exe
+- name: latest.yml
+  url: https://github.com/programmingKyle/finance-manager/releases/download/1.0.1/latest.yml

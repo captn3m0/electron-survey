@@ -6,3 +6,27 @@ aur:
 - bintelai-ssh-assistant
 electron: 39.8.10
 method: aur-depends
+latest: v2.0.0
+src: https://github.com/bintelAI/aissh/archive/refs/tags/v2.0.0.zip
+downloads:
+- name: bintelai-ssh-assistant-2.0.0.dmg
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/bintelai-ssh-assistant-2.0.0.dmg
+- name: bintelai-ssh-assistant-2.0.0.dmg.blockmap
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/bintelai-ssh-assistant-2.0.0.dmg.blockmap
+- name: bintelai-ssh-assistant-setup-2.0.0.exe
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/bintelai-ssh-assistant-setup-2.0.0.exe
+- name: bintelai-ssh-assistant-setup-2.0.0.exe.blockmap
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/bintelai-ssh-assistant-setup-2.0.0.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/latest.yml
+- name: SSH.-2.0.0-universal.dmg
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/SSH.-2.0.0-universal.dmg
+- name: SSH.-2.0.0-universal.dmg.blockmap
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/SSH.-2.0.0-universal.dmg.blockmap
+- name: SSH.-Setup-2.0.0.exe
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/SSH.-Setup-2.0.0.exe
+- name: SSH.-Setup-2.0.0.exe.blockmap
+  url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/SSH.-Setup-2.0.0.exe.blockmap
+we_tried: we0:v2.0.0

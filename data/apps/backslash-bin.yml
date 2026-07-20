@@ -6,3 +6,17 @@ aur:
 - backslash
 additionalAUR:
 - backslash-bin
+latest: v0.2.2
+src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip
+downloads:
+- name: backslash-0.2.2.AppImage
+  url: https://github.com/backslash-app/backslash/releases/download/v0.2.2/backslash-0.2.2.AppImage
+- name: backslash-0.2.2.pacman
+  url: https://github.com/backslash-app/backslash/releases/download/v0.2.2/backslash-0.2.2.pacman
+- name: backslash_0.2.2_amd64.deb
+  url: https://github.com/backslash-app/backslash/releases/download/v0.2.2/backslash_0.2.2_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/backslash-app/backslash/releases/download/v0.2.2/latest-linux.yml
+electron: 33.4.11
+method: src-yarn-lock
+electron_src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip

@@ -6,3 +6,16 @@ aur:
 - fukayo-bin
 electron: 24.8.8
 method: aur-depends
+latest: v0.13.0
+src: https://github.com/JiPaix/Fukayo/archive/refs/tags/v0.13.0.zip
+downloads:
+- name: Fukayo-0.13.0.AppImage
+  url: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/Fukayo-0.13.0.AppImage
+- name: Fukayo-Setup-0.13.0.exe
+  url: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/Fukayo-Setup-0.13.0.exe
+- name: Fukayo-Setup-0.13.0.exe.blockmap
+  url: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/Fukayo-Setup-0.13.0.exe.blockmap
+- name: latest-linux.yml
+  url: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/latest.yml

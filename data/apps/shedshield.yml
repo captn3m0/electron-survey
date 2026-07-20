@@ -6,3 +6,14 @@ aur:
 - shedshield-bin
 electron: 25.9.8
 method: aur-depends
+latest: v0.0.3-beta
+src: https://github.com/ZJouba/ShedShield/archive/refs/tags/v0.0.3-beta.zip
+downloads:
+- name: ShedShield-0.0.3-beta.x64.exe
+  url: https://github.com/ZJouba/ShedShield/releases/download/v0.0.3-beta/ShedShield-0.0.3-beta.x64.exe
+- name: ShedShield-0.0.3-beta.x86-32.exe
+  url: https://github.com/ZJouba/ShedShield/releases/download/v0.0.3-beta/ShedShield-0.0.3-beta.x86-32.exe
+- name: shedshield-0.0.3.beta.x86_64.rpm
+  url: https://github.com/ZJouba/ShedShield/releases/download/v0.0.3-beta/shedshield-0.0.3.beta.x86_64.rpm
+- name: shedshield_0.0.3.beta_amd64.deb
+  url: https://github.com/ZJouba/ShedShield/releases/download/v0.0.3-beta/shedshield_0.0.3.beta_amd64.deb

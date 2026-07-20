@@ -6,3 +6,10 @@ aur:
 - dnd-overlay-tool-git
 electron: 30.5.1
 method: aur-depends
+latest: v0.5.2
+src: https://github.com/Jasonizl/dnd-overlay-tool/archive/refs/tags/v0.5.2.zip
+downloads:
+- name: dnd-overlay-tool-win32-x64.7z
+  url: https://github.com/Jasonizl/dnd-overlay-tool/releases/download/v0.5.2/dnd-overlay-tool-win32-x64.7z
+- name: dnd-overlay-tool-win32-x64.bundled.7z
+  url: https://github.com/Jasonizl/dnd-overlay-tool/releases/download/v0.5.2/dnd-overlay-tool-win32-x64.bundled.7z

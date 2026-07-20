@@ -4,3 +4,8 @@ website: https://github.com/greboid/tithon
 repository: https://github.com/greboid/tithon
 aur:
 - tithon
+latest: v0.0.41
+src: https://github.com/greboid/tithon/archive/refs/tags/v0.0.41.zip
+electron: 39.2.7
+method: src-package-lock
+electron_src: https://github.com/greboid/tithon/archive/refs/tags/v0.0.41.zip

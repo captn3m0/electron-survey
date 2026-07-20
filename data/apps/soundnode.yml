@@ -13,3 +13,4 @@ downloads:
 electron: 1.8.8
 method: src-range-guess
 name: Soundnode
+electron_src: https://github.com/Soundnode/soundnode-app/archive/refs/tags/7.0.0.zip

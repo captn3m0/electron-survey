@@ -6,3 +6,8 @@ aur:
 - oneplay-git
 electron: 21.4.4
 method: aur-depends
+latest: macos_v1.1.1
+src: https://github.com/ndungtse/oneplay_desktop_app/archive/refs/tags/macos_v1.1.1.zip
+downloads:
+- name: Oneplay-1.1.1-mac.zip
+  url: https://github.com/ndungtse/oneplay_desktop_app/releases/download/macos_v1.1.1/Oneplay-1.1.1-mac.zip

@@ -69,3 +69,4 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+electron_src: https://github.com/poooi/poi/archive/refs/tags/v11.1.0.zip

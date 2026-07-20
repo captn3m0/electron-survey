@@ -6,3 +6,10 @@ aur:
 - lutris-gamepad-ui-git
 electron: 43.1.1
 method: aur-depends
+latest: v0.2.0
+src: https://github.com/andrew-ld/lutris-gamepad-ui/archive/refs/tags/v0.2.0.zip
+downloads:
+- name: lutris-gamepad-ui-arm64.AppImage
+  url: https://github.com/andrew-ld/lutris-gamepad-ui/releases/download/v0.2.0/lutris-gamepad-ui-arm64.AppImage
+- name: lutris-gamepad-ui-x64.AppImage
+  url: https://github.com/andrew-ld/lutris-gamepad-ui/releases/download/v0.2.0/lutris-gamepad-ui-x64.AppImage

@@ -6,3 +6,8 @@ aur:
 - projector-bin
 electron: 16.2.8
 method: aur-depends
+latest: v1.8.0
+src: https://github.com/JetBrains/projector-client/archive/refs/tags/v1.8.0.zip
+downloads:
+- name: projector-client-web-distribution-v1.8.0.zip
+  url: https://github.com/JetBrains/projector-client/releases/download/v1.8.0/projector-client-web-distribution-v1.8.0.zip

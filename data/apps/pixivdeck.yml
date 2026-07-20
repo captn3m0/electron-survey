@@ -4,3 +4,23 @@ website: https://github.com/akameco/PixivDeck
 repository: https://github.com/akameco/PixivDeck
 aur:
 - pixivdeck
+latest: v1.4.0
+src: https://github.com/akameco/PixivDeck/archive/refs/tags/v1.4.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/latest-mac.yml
+- name: PixivDeck-1.4.0-mac.zip
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/PixivDeck-1.4.0-mac.zip
+- name: PixivDeck-1.4.0-x86_64.AppImage
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/PixivDeck-1.4.0-x86_64.AppImage
+- name: PixivDeck-1.4.0.dmg
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/PixivDeck-1.4.0.dmg
+- name: PixivDeck-1.4.0.dmg.blockmap
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/PixivDeck-1.4.0.dmg.blockmap
+- name: PixivDeck_1.4.0_amd64.deb
+  url: https://github.com/akameco/PixivDeck/releases/download/v1.4.0/PixivDeck_1.4.0_amd64.deb
+electron: 2.0.6
+method: src-yarn-lock
+electron_src: https://github.com/akameco/PixivDeck/archive/refs/tags/v1.4.0.zip

@@ -1,36 +1,31 @@
 id: quail
 repository: https://github.com/1000ch/quail
 website: https://github.com/1000ch/quail
-latest: v2.4.0
-src: https://github.com/1000ch/quail/archive/refs/tags/v2.4.0.zip
+latest: v3.0.0
+src: https://github.com/1000ch/quail/archive/refs/tags/v3.0.0.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/builder-debug.yml
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/builder-debug.yml
 - name: builder-effective-config.yaml
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/builder-effective-config.yaml
-- name: latest-linux.yml
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/latest-linux.yml
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/builder-effective-config.yaml
 - name: latest-mac.yml
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/latest-mac.yml
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/latest.yml
-- name: Quail-2.4.0-mac.zip
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/Quail-2.4.0-mac.zip
-- name: Quail-2.4.0.AppImage
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/Quail-2.4.0.AppImage
-- name: Quail-2.4.0.dmg
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/Quail-2.4.0.dmg
-- name: Quail-2.4.0.dmg.blockmap
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/Quail-2.4.0.dmg.blockmap
-- name: Quail.Setup.2.4.0.exe
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/Quail.Setup.2.4.0.exe
-- name: Quail.Setup.2.4.0.exe.blockmap
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/Quail.Setup.2.4.0.exe.blockmap
-- name: quail_2.4.0_amd64.deb
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/quail_2.4.0_amd64.deb
-- name: quail_2.4.0_amd64.snap
-  url: https://github.com/1000ch/quail/releases/download/v2.4.0/quail_2.4.0_amd64.snap
-electron: 12.0.0
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/latest.yml
+- name: Quail-3.0.0-arm64-mac.zip
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/Quail-3.0.0-arm64-mac.zip
+- name: Quail-3.0.0-arm64-mac.zip.blockmap
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/Quail-3.0.0-arm64-mac.zip.blockmap
+- name: Quail-3.0.0-arm64.dmg
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/Quail-3.0.0-arm64.dmg
+- name: Quail-3.0.0-arm64.dmg.blockmap
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/Quail-3.0.0-arm64.dmg.blockmap
+- name: Quail.Setup.3.0.0.exe
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/Quail.Setup.3.0.0.exe
+- name: Quail.Setup.3.0.0.exe.blockmap
+  url: https://github.com/1000ch/quail/releases/download/v3.0.0/Quail.Setup.3.0.0.exe.blockmap
+electron: 42.0.1
 method: src-package-lock
 homebrew: quail
 name: Quail
+electron_src: https://github.com/1000ch/quail/archive/refs/tags/v3.0.0.zip

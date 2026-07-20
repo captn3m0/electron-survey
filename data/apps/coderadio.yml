@@ -6,3 +6,5 @@ aur:
 - coderadio-git
 electron: 36.9.5
 method: aur-depends
+latest: v1.1.3
+src: https://github.com/Guibibi/CodeRadio-Desktop/archive/refs/tags/v1.1.3.zip

@@ -7,3 +7,19 @@ aur:
 additionalAUR:
 - apple-music-electron-bin
 - apple-music-electron-git
+latest: v3.1.1
+src: https://github.com/Alex313031/Apple-Music-Electron/archive/refs/tags/v3.1.1.zip
+downloads:
+- name: apple-music_3.1.1_amd64.deb
+  url: https://github.com/Alex313031/Apple-Music-Electron/releases/download/v3.1.1/apple-music_3.1.1_amd64.deb
+- name: apple-music_3.1.1_x64.AppImage
+  url: https://github.com/Alex313031/Apple-Music-Electron/releases/download/v3.1.1/apple-music_3.1.1_x64.AppImage
+- name: apple-music_3.1.1_x64.zip
+  url: https://github.com/Alex313031/Apple-Music-Electron/releases/download/v3.1.1/apple-music_3.1.1_x64.zip
+- name: apple_music_setup_3.1.1_x64.exe
+  url: https://github.com/Alex313031/Apple-Music-Electron/releases/download/v3.1.1/apple_music_setup_3.1.1_x64.exe
+- name: apple_music_win64_3.1.1_x64.zip
+  url: https://github.com/Alex313031/Apple-Music-Electron/releases/download/v3.1.1/apple_music_win64_3.1.1_x64.zip
+electron: 19.1.9+wvcus
+method: src-package-lock
+electron_src: https://github.com/Alex313031/Apple-Music-Electron/archive/refs/tags/v3.1.1.zip

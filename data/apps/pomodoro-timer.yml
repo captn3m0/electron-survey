@@ -6,3 +6,10 @@ aur:
 - pomodoro-timer
 electron: 26.6.10
 method: aur-depends
+latest: v1.1.0
+src: https://github.com/pauchiner/pomodoro-timer/archive/refs/tags/v1.1.0.zip
+downloads:
+- name: macos-apple-silicon.dmg
+  url: https://github.com/pauchiner/pomodoro-timer/releases/download/v1.1.0/macos-apple-silicon.dmg
+- name: macos-intel.dmg
+  url: https://github.com/pauchiner/pomodoro-timer/releases/download/v1.1.0/macos-intel.dmg

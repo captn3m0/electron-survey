@@ -9,3 +9,4 @@ downloads:
 electron: 7.3.3
 method: src-range-guess
 name: Final-Countdown
+electron_src: https://github.com/hunterphillips/countdown/archive/refs/tags/2.0.0.zip

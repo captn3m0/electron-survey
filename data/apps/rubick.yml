@@ -23,3 +23,32 @@ aur:
 - rubick
 electron: 26.6.10
 method: aur-depends
+latest: v4.3.8
+src: https://github.com/rubickCenter/rubick/archive/refs/tags/v4.3.8.zip
+downloads:
+- name: latest-mac.yml
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/latest.yml
+- name: rubick-4.3.8-arm64.dmg
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-arm64.dmg
+- name: rubick-4.3.8-arm64.dmg.blockmap
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-arm64.dmg.blockmap
+- name: rubick-4.3.8-x64.dmg
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-x64.dmg
+- name: rubick-4.3.8-x64.dmg.blockmap
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-4.3.8-x64.dmg.blockmap
+- name: rubick-Setup-4.3.8-ia32.exe
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8-ia32.exe
+- name: rubick-Setup-4.3.8-ia32.exe.blockmap
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8-ia32.exe.blockmap
+- name: rubick-Setup-4.3.8-x64.exe
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8-x64.exe
+- name: rubick-Setup-4.3.8-x64.exe.blockmap
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8-x64.exe.blockmap
+- name: rubick-Setup-4.3.8.exe
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8.exe
+- name: rubick-Setup-4.3.8.exe.blockmap
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick-Setup-4.3.8.exe.blockmap
+- name: rubick_4.3.8_amd64.deb
+  url: https://github.com/rubickCenter/rubick/releases/download/v4.3.8/rubick_4.3.8_amd64.deb

@@ -6,3 +6,16 @@ aur:
 - chengla-linux-unofficial-bin
 electron: 27.3.11
 method: aur-depends
+latest: v1.0.8
+src: https://github.com/pokon548/chengla-for-linux/archive/refs/tags/v1.0.8.zip
+downloads:
+- name: chengla-1.0.8.AppImage
+  url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-1.0.8.AppImage
+- name: chengla-linux-unofficial-1.0.8.x86_64.rpm
+  url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial-1.0.8.x86_64.rpm
+- name: chengla-linux-unofficial-1.0.8.zip
+  url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial-1.0.8.zip
+- name: chengla-linux-unofficial_1.0.8_amd64.deb
+  url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial_1.0.8_amd64.deb
+- name: chengla-linux-unofficial_1.0.8_amd64.snap
+  url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial_1.0.8_amd64.snap

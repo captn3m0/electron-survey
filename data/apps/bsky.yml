@@ -8,3 +8,43 @@ additionalAUR:
 - bsky-electron-git
 electron: 42.7.0
 method: aur-depends
+latest: v0.6.0
+src: https://github.com/CaffeeLake/bsky-electron/archive/refs/tags/v0.6.0.zip
+downloads:
+- name: bsky-electron_v0.6.0_linux_x86_64.AppImage
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_x86_64.AppImage
+- name: bsky-electron_v0.6.0_linux_arm64.AppImage
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_arm64.AppImage
+- name: bsky-electron_v0.6.0_mac_x64.dmg
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_mac_x64.dmg
+- name: bsky-electron_v0.6.0_mac_x64.dmg.blockmap
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_mac_x64.dmg.blockmap
+- name: bsky-electron_v0.6.0_mac_arm64.dmg
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_mac_arm64.dmg
+- name: bsky-electron_v0.6.0_mac_arm64.dmg.blockmap
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_mac_arm64.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/latest-mac.yml
+- name: bsky-electron_v0.6.0_linux_arm64.deb
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_arm64.deb
+- name: bsky-electron_v0.6.0_linux_amd64.deb
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_amd64.deb
+- name: bsky-electron_v0.6.0_win_arm64.exe.blockmap
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_win_arm64.exe.blockmap
+- name: bsky-electron_v0.6.0_win_arm64.exe
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_win_arm64.exe
+- name: bsky-electron_v0.6.0_win_x64.exe.blockmap
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_win_x64.exe.blockmap
+- name: bsky-electron_v0.6.0_win.exe
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_win.exe
+- name: bsky-electron_v0.6.0_win.exe.blockmap
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_win.exe.blockmap
+- name: bsky-electron_v0.6.0_linux_x86_64.rpm
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_x86_64.rpm
+- name: bsky-electron_v0.6.0_linux_aarch64.rpm
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_aarch64.rpm
+- name: latest-linux.yml
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/latest-linux.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/latest-linux-arm64.yml
+we_tried: we0:v0.6.0

@@ -4,3 +4,8 @@ download_urls:
 - https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger%20Web%20Setup%201.0.22.exe
 - https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger-1.0.22.dmg
 name: Cargo Messenger
+downloads:
+- url: https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger%20Web%20Setup%201.0.22.exe
+  name: CargoMessenger%20Web%20Setup%201.0.22.exe
+- url: https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger-1.0.22.dmg
+  name: CargoMessenger-1.0.22.dmg

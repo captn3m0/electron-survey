@@ -33,3 +33,4 @@ aur:
 - raven-reader
 homebrew: raven-reader
 name: Raven Reader
+electron_src: https://github.com/hello-efficiency-inc/raven-reader/archive/refs/tags/v1.0.80.zip

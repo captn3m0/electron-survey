@@ -5,3 +5,10 @@ download_urls:
 - https://monaminote.net/index.php?c=main&m=download_monami_mac
 - https://monaminote.net/index.php?c=main&m=download_monami_linux
 name: MonAmi Note
+downloads:
+- url: https://monaminote.net/index.php?c=main&m=download_monami_win
+  name: index.php?c=main&m=download_monami_win
+- url: https://monaminote.net/index.php?c=main&m=download_monami_mac
+  name: index.php?c=main&m=download_monami_mac
+- url: https://monaminote.net/index.php?c=main&m=download_monami_linux
+  name: index.php?c=main&m=download_monami_linux

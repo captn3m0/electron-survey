@@ -6,3 +6,58 @@ aur:
 - solidtime-bin
 electron: 41.10.2
 method: aur-depends
+latest: v0.2.7
+src: https://github.com/solidtime-io/solidtime-desktop/archive/refs/tags/v0.2.7.zip
+downloads:
+- name: latest-arm64-mac.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-arm64-mac.yml
+- name: latest-arm64.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-arm64.yml
+- name: latest-linux-arm64.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-mac.yml
+- name: latest-x64-mac.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-x64-mac.yml
+- name: latest-x64.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest-x64.yml
+- name: latest.yml
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/latest.yml
+- name: solidtime-0.2.7-arm64-mac.zip
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-0.2.7-arm64-mac.zip
+- name: solidtime-0.2.7-arm64-mac.zip.blockmap
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-0.2.7-arm64-mac.zip.blockmap
+- name: solidtime-0.2.7-mac.zip
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-0.2.7-mac.zip
+- name: solidtime-0.2.7-mac.zip.blockmap
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-0.2.7-mac.zip.blockmap
+- name: solidtime-aarch64.rpm
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-aarch64.rpm
+- name: solidtime-amd64.deb
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-amd64.deb
+- name: solidtime-arm64.deb
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-arm64.deb
+- name: solidtime-arm64.dmg
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-arm64.dmg
+- name: solidtime-arm64.dmg.blockmap
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-arm64.dmg.blockmap
+- name: solidtime-arm64.tar.gz
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-arm64.tar.gz
+- name: solidtime-setup-arm64.exe
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-setup-arm64.exe
+- name: solidtime-setup-arm64.exe.blockmap
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-setup-arm64.exe.blockmap
+- name: solidtime-setup-x64.exe
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-setup-x64.exe
+- name: solidtime-setup-x64.exe.blockmap
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-setup-x64.exe.blockmap
+- name: solidtime-x64.dmg
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x64.dmg
+- name: solidtime-x64.dmg.blockmap
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x64.dmg.blockmap
+- name: solidtime-x64.tar.gz
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x64.tar.gz
+- name: solidtime-x86_64.rpm
+  url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x86_64.rpm

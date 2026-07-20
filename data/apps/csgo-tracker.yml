@@ -11,3 +11,4 @@ downloads:
 electron: 33.0.2
 method: src-package-lock
 name: csgo-tracker
+electron_src: https://github.com/davidaf3/csgo-tracker/archive/refs/tags/v0.2.2.zip

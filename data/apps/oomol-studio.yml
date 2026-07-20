@@ -4,3 +4,8 @@ download_urls:
 - https://update.oomol.com/latest/darwin-arm64/stable
 - https://update.oomol.com/latest/win32-x64-user/stable
 name: OOMOL Studio
+downloads:
+- url: https://update.oomol.com/latest/darwin-arm64/stable
+  name: stable
+- url: https://update.oomol.com/latest/win32-x64-user/stable
+  name: stable

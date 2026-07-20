@@ -17,8 +17,17 @@ packages:
   arch: x64
 homebrew: betwixt
 downloads:
-- url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-darwin-x64.zip
-  name: Betwixt-darwin-x64.zip
-  version: 1.6.1
+- name: Betwixt-darwin-x64.zip
+  url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-darwin-x64.zip
+- name: Betwixt-linux-ia32.zip
+  url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-linux-ia32.zip
+- name: Betwixt-linux-x64.zip
+  url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-linux-x64.zip
+- name: Betwixt-win32-ia32.zip
+  url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-win32-ia32.zip
+- name: Betwixt-win32-x64.zip
+  url: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-win32-x64.zip
 electron: 0.36.12
 method: which-electron-version_file
+latest: 1.6.1
+src: https://github.com/kdzwinel/betwixt/archive/refs/tags/1.6.1.zip

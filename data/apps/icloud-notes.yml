@@ -6,3 +6,8 @@ aur:
 - icloud-notes-git
 electron: 30.5.1
 method: aur-depends
+latest: 1.2.0
+src: https://github.com/swe-himelrana/icloud-notes/archive/refs/tags/1.2.0.zip
+downloads:
+- name: icloud-notes.Setup.1.2.0.exe
+  url: https://github.com/Swe-HimelRana/icloud-notes/releases/download/1.2.0/icloud-notes.Setup.1.2.0.exe

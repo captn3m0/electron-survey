@@ -10,3 +10,30 @@ packages:
   os: macos
 electron: 30.5.1
 method: aur-depends
+latest: v0.1.29
+src: https://github.com/outerbase/studio-desktop/archive/refs/tags/v0.1.29.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/latest.yml
+- name: outerbase-mac-0.1.29.dmg
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.dmg
+- name: outerbase-mac-0.1.29.dmg.blockmap
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.dmg.blockmap
+- name: outerbase-mac-0.1.29.zip
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.zip
+- name: outerbase-mac-0.1.29.zip.blockmap
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.zip.blockmap
+- name: outerbase-setup-0.1.29.exe
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-setup-0.1.29.exe
+- name: outerbase-setup-0.1.29.exe.blockmap
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-setup-0.1.29.exe.blockmap
+- name: Outerbase-Studio-Linux-0.1.29.AppImage
+  url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
+- url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/outerbase-mac-0.1.29.dmg
+  name: outerbase-mac-0.1.29.dmg
+  version: 0.1.29
+homebrew: outerbase-studio

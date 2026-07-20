@@ -6,3 +6,22 @@ aur:
 - onote-bin
 electron: 25.9.8
 method: aur-depends
+latest: v0.11.0
+src: https://github.com/pansinm/ONote/archive/refs/tags/v0.11.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/latest.yml
+- name: ONote-linux-amd64-0.11.0.deb
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-linux-amd64-0.11.0.deb
+- name: ONote-linux-x86_64-0.11.0.AppImage
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-linux-x86_64-0.11.0.AppImage
+- name: ONote-linux-x86_64-0.11.0.rpm
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-linux-x86_64-0.11.0.rpm
+- name: ONote-win-x64-0.11.0.exe
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-win-x64-0.11.0.exe
+- name: ONote-win-x64-0.11.0.exe.blockmap
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-win-x64-0.11.0.exe.blockmap
+- name: ONote-win-x64-0.11.0.zip
+  url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-win-x64-0.11.0.zip

@@ -6,3 +6,28 @@ aur:
 - spie-bin
 electron: 34.5.8
 method: aur-depends
+latest: v0.5.0
+src: https://github.com/robsonos/spie/archive/refs/tags/v0.5.0.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/latest.yml
+- name: SPIE-linux-amd64-0.5.0-install.deb
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-linux-amd64-0.5.0-install.deb
+- name: SPIE-linux-x64-0.5.0-install.tar.xz
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-linux-x64-0.5.0-install.tar.xz
+- name: SPIE-mac-arm64-0.5.0-install.dmg
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-mac-arm64-0.5.0-install.dmg
+- name: SPIE-mac-arm64-0.5.0-install.dmg.blockmap
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-mac-arm64-0.5.0-install.dmg.blockmap
+- name: SPIE-mac-arm64-0.5.0-install.zip
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-mac-arm64-0.5.0-install.zip
+- name: SPIE-mac-arm64-0.5.0-install.zip.blockmap
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-mac-arm64-0.5.0-install.zip.blockmap
+- name: SPIE-win-x64-0.5.0-install.exe
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-win-x64-0.5.0-install.exe
+- name: SPIE-win-x64-0.5.0-install.exe.blockmap
+  url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-win-x64-0.5.0-install.exe.blockmap

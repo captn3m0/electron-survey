@@ -6,3 +6,16 @@ aur:
 - my-hardware-bin
 electron: 25.9.8
 method: aur-depends
+latest: v1.0.0
+src: https://github.com/Y-Moshe/my-hardware/archive/refs/tags/v1.0.0.zip
+downloads:
+- name: my-hardware-1.0.0-1.x86_64.rpm
+  url: https://github.com/Y-Moshe/my-hardware/releases/download/v1.0.0/my-hardware-1.0.0-1.x86_64.rpm
+- name: my-hardware-linux-x64.zip
+  url: https://github.com/Y-Moshe/my-hardware/releases/download/v1.0.0/my-hardware-linux-x64.zip
+- name: my-hardware-win32-x64.zip
+  url: https://github.com/Y-Moshe/my-hardware/releases/download/v1.0.0/my-hardware-win32-x64.zip
+- name: my-hardware-x64-1.0.0.Setup.exe
+  url: https://github.com/Y-Moshe/my-hardware/releases/download/v1.0.0/my-hardware-x64-1.0.0.Setup.exe
+- name: my-hardware_1.0.0_amd64.deb
+  url: https://github.com/Y-Moshe/my-hardware/releases/download/v1.0.0/my-hardware_1.0.0_amd64.deb

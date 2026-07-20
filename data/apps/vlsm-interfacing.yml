@@ -8,3 +8,8 @@ additionalAUR:
 - vlsm-interfacing-git
 electron: 41.10.2
 method: aur-depends
+latest: v4.1.9
+src: https://github.com/deforay/vlsm-interfacing/archive/refs/tags/v4.1.9.zip
+downloads:
+- name: vlsm-interfacing-4.1.9-linux-amd64.deb
+  url: https://github.com/deforay/vlsm-interfacing/releases/download/v4.1.9/vlsm-interfacing-4.1.9-linux-amd64.deb

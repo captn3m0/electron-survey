@@ -6,3 +6,18 @@ aur:
 - taratormusic-bin
 electron: 40.10.6
 method: aur-depends
+latest: 1.8.7
+src: https://github.com/Victiniiiii/TaratorMusic/archive/refs/tags/1.8.7.zip
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/latest-mac.yml
+- name: TaratorMusic.AppImage
+  url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/TaratorMusic.AppImage
+- name: TaratorMusic.dmg
+  url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/TaratorMusic.dmg
+- name: TaratorMusic.dmg.blockmap
+  url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/TaratorMusic.dmg.blockmap
+- name: TaratorMusic.exe
+  url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/TaratorMusic.exe

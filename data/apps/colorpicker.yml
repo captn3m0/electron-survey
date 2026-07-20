@@ -29,3 +29,4 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+electron_src: https://github.com/Toinane/colorpicker/archive/refs/tags/2.3.0.zip

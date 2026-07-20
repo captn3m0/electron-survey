@@ -8,3 +8,28 @@ additionalAUR:
 - handbook-git
 electron: 43.1.1
 method: aur-depends
+latest: 1.5.0
+src: https://github.com/ECRomaneli/Handbook/archive/refs/tags/1.5.0.zip
+downloads:
+- name: Handbook-1.5.0-darwin-arm64.zip
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/Handbook-1.5.0-darwin-arm64.zip
+- name: Handbook-1.5.0-darwin-arm64.zip.blockmap
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/Handbook-1.5.0-darwin-arm64.zip.blockmap
+- name: Handbook-1.5.0-darwin-x64.zip
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/Handbook-1.5.0-darwin-x64.zip
+- name: Handbook-1.5.0-darwin-x64.zip.blockmap
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/Handbook-1.5.0-darwin-x64.zip.blockmap
+- name: handbook-1.5.0.x86_64.rpm
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/handbook-1.5.0.x86_64.rpm
+- name: Handbook-Setup-1.5.0.exe
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/Handbook-Setup-1.5.0.exe
+- name: Handbook-Setup-1.5.0.exe.blockmap
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/Handbook-Setup-1.5.0.exe.blockmap
+- name: handbook_1.5.0_amd64.deb
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/handbook_1.5.0_amd64.deb
+- name: latest-linux.yml
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/latest.yml
