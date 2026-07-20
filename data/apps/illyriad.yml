@@ -1,9 +1,6 @@
 id: illyriad
 website: https://store.steampowered.com/app/559310
-homebrew: steam
-downloads:
-- url: https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg
-  name: steam.dmg
-  version: '6.0'
 name: Illyriad
-we_tried: urls:1e63d1e1d27f
+# Was matched to the Homebrew `steam` cask (the Steam client, steam.dmg) — not
+# this app. Opt out so it doesn't re-attach.
+homebrew: false

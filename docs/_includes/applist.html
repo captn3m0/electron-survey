@@ -1,0 +1,22 @@
+{% comment %} Renders a table for a list of app ids: include.ids {% endcomment %}
+<table>
+  <thead>
+    <tr><th>App</th><th>Electron</th><th>Patch delta</th><th>Age</th></tr>
+  </thead>
+  <tbody>
+  {% for id in include.ids %}
+    {% assign app = site.data.apps[id] %}
+    {% assign f = site.data.freshness[id] %}
+    <tr>
+      <td><a href="{{ id | prepend: '/apps/' | append: '.html' | relative_url }}">{{ app.name | default: id }}</a></td>
+      {% if f %}
+      <td><span class="st st-{{ f.status }}" title="{{ f.majors_behind }} major(s) behind{% if f.eol %} · end-of-life{% endif %}">{{ f.electron }}</span></td>
+      <td>{% if f.patches_behind > 0 %}+{{ f.patches_behind }} → {{ f.latest_in_major }}{% else %}—{% endif %}</td>
+      <td>{{ f.age_label | default: '—' }}</td>
+      {% else %}
+      <td>—</td><td>—</td><td>—</td>
+      {% endif %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

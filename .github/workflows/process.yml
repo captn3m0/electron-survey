@@ -70,6 +70,11 @@ jobs:
       - name: Detect Electron from AUR depends
         run: uv run main.py process aur-version
 
+      # Recompute tiers before which-electron so its bounded budget is spent on
+      # the most-used apps first (process._prioritize reads data/popularity.yml).
+      - name: Compute popularity tiers
+        run: uv run main.py popularity
+
       # steps/which-electron.py runs the fingerprinter as
       # `node which-electron/src/index.js` (the tool's bin script has no
       # shebang, so the npx/.bin shim gets executed by /bin/sh and dies with
@@ -102,6 +107,14 @@ jobs:
           path: zips/
           key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
 
+      # After which-electron has resolved fresh versions, recompute tiers +
+      # staleness so the committed data (and the docs/ site) stay current.
+      - name: Compute popularity tiers and Electron freshness
+        if: always()
+        run: |
+          uv run main.py popularity
+          uv run main.py freshness
+
       - name: Generate report
         if: always()
         run: uv run main.py report
@@ -114,4 +127,4 @@ jobs:
         if: always()
         with:
           commit_message: "chore: update release and electron version data [skip ci]"
-          file_pattern: "data/apps/ REPORT.md"
+          file_pattern: "data/apps/ data/popularity.yml data/freshness.yml REPORT.md"

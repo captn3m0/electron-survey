@@ -2,7 +2,7 @@ META = meta
 
 .PHONY: all clean
 
-all: $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages $(META)/homebrew-casks.json
+all: $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages $(META)/homebrew-casks.json $(META)/homebrew-cask-install-365d.json $(META)/eol-electron.json
 
 $(META):
 	mkdir -p $(META)
@@ -19,5 +19,11 @@ $(META)/aur-packages: | $(META)
 $(META)/homebrew-casks.json: | $(META)
 	curl -fsSL https://formulae.brew.sh/api/cask.json -o $@
 
+$(META)/homebrew-cask-install-365d.json: | $(META)
+	curl -fsSL https://formulae.brew.sh/api/analytics/cask-install/365d.json -o $@
+
+$(META)/eol-electron.json: | $(META)
+	curl -fsSL https://endoflife.date/api/v1/products/electron/ -o $@
+
 clean:
-	rm -f $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages $(META)/homebrew-casks.json
+	rm -f $(META)/electron-index.json $(META)/packages-meta-ext-v1.json $(META)/aur-packages $(META)/homebrew-casks.json $(META)/homebrew-cask-install-365d.json $(META)/eol-electron.json

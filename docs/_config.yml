@@ -1,0 +1,12 @@
+title: Electron Survey
+description: How far behind Chromium are the Electron apps you use?
+
+# data/ is symlinked to _data, so every per-app YAML is available as
+# site.data.apps.<id> and the computed tiers as site.data.popularity.
+# A local `_plugins/app_pages.rb` generates one page per app, so this site
+# must be built with `bundle exec jekyll build` (not GitHub Pages safe mode).
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

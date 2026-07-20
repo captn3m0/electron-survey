@@ -1,0 +1,61 @@
+---
+layout: default
+---
+{% assign app = page.app %}
+{% assign s = page.score %}
+{% assign f = site.data.freshness[page.app_id] %}
+
+<h1>{{ app.name | default: page.app_id }}</h1>
+
+<p>
+  {% if s %}<strong>Tier:</strong> {{ s.tier }}{% endif %}
+  {% if f %}
+    · <span class="st st-{{ f.status }}">Electron {{ f.electron }}</span>
+    · {{ f.majors_behind }} major(s) behind (current: {{ f.major | plus: f.majors_behind }}){% if f.eol %} · end-of-life{% endif %}
+    {% if f.patches_behind > 0 %} · {{ f.patches_behind }} patch releases behind {{ f.latest_in_major }} in its line{% endif %}
+    {% if f.age_label %} · released {{ f.age_label }}{% endif %}
+  {% endif %}
+</p>
+
+<table>
+  <tr><th>id</th><td>{{ page.app_id }}</td></tr>
+  {% if app.website %}<tr><th>Website</th><td><a href="{{ app.website }}">{{ app.website }}</a></td></tr>{% endif %}
+  {% if app.repository %}<tr><th>Repository</th><td><a href="{{ app.repository }}">{{ app.repository }}</a></td></tr>{% endif %}
+  {% if app.method %}<tr><th>Detection method</th><td>{{ app.method }}</td></tr>{% endif %}
+  {% if app.latest %}<tr><th>Latest release</th><td>{{ app.latest }}</td></tr>{% endif %}
+  {% if app.homebrew %}<tr><th>Homebrew cask</th><td>{{ app.homebrew }}</td></tr>{% endif %}
+  {% if app.dead %}<tr><th>Status</th><td>dead</td></tr>{% endif %}
+</table>
+
+{% if app.aur %}
+<h2>AUR packages</h2>
+<ul>{% for p in app.aur %}<li>{{ p }}</li>{% endfor %}</ul>
+{% endif %}
+
+{% if app.additionalAUR %}
+<h2>AUR variants <small>(folded — not counted separately)</small></h2>
+<ul>{% for p in app.additionalAUR %}<li>{{ p }}</li>{% endfor %}</ul>
+{% endif %}
+
+{% if app.downloads %}
+<h2>Release downloads</h2>
+<ul>
+  {% for d in app.downloads %}
+  <li><a href="{{ d.url }}">{{ d.name | default: d.url }}</a>{% if d.version %} — {{ d.version }}{% endif %}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if app.packages %}
+<h2>Curated packages</h2>
+<ul>
+  {% for p in app.packages %}
+  <li><a href="{{ p.url }}">{{ p.url }}</a> — {{ p.format }} / {{ p.os }}{% if p.arch %} / {{ p.arch }}{% endif %}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<details>
+  <summary>Raw data</summary>
+  <pre>{{ app | jsonify }}</pre>
+</details>

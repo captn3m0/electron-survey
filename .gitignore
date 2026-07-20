@@ -6,3 +6,7 @@ aur-packages
 src/
 meta/*
 which-electron/
+docs/_site/
+docs/vendor/
+docs/.jekyll-cache/
+docs/Gemfile.lock

@@ -24,6 +24,6 @@ electron: 32.3.1
 method: src-pnpm-lock
 aur:
 - codex-bin
-homebrew: codex
+homebrew: false
 name: Codex
 electron_src: https://github.com/jcv8000/Codex/archive/refs/tags/v2.0.5.zip

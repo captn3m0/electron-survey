@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p>{{ page.description }}</p>
+
+{% assign ids = site.data.popularity.tiers[page.tier] %}
+<p><strong>{{ ids | size }}</strong> apps · <span class="st st-green">supported</span> <span class="st st-orange">recently EOL</span> <span class="st st-red">old</span></p>
+
+{% include applist.html ids=ids %}

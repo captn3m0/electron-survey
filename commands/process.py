@@ -5,11 +5,25 @@ from typing import Any
 from urllib.parse import urlparse
 
 import click
+import yaml
 
-from commands import load_apps, write_app, cli
+from commands import DATA_DIR, load_apps, write_app, cli
 
 
 _DEFAULT_ORDER = 50
+
+
+def _prioritize(apps: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Order apps by popularity (highest reach first) when data/popularity.yml
+    exists, so bounded processors like ``which-electron --limit N`` spend their
+    budget on the apps people actually use. Falls back to id order otherwise.
+    """
+    try:
+        scores = yaml.safe_load((DATA_DIR / "popularity.yml").read_text())["scores"]
+        reach = {app_id: s.get("reach", 0.0) for app_id, s in scores.items()}
+    except (FileNotFoundError, KeyError, TypeError):
+        return apps
+    return sorted(apps, key=lambda a: reach.get(a["id"], 0.0), reverse=True)
 
 
 def _load_processors(processors_dir: pathlib.Path) -> dict[str, types.ModuleType]:
@@ -84,7 +98,7 @@ def process_apps(processor_name: str | None, limit: int, source_fast: bool, incl
 
     click.echo(f"Loaded processors: {', '.join(processors)}")
 
-    apps = load_apps()
+    apps = _prioritize(load_apps())
     entries_processed = entries_updated = entries_skipped = entries_errored = 0
 
     for entry in apps:
