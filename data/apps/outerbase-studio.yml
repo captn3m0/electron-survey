@@ -9,7 +9,7 @@ packages:
   format: dmg
   os: macos
 electron: 30.5.1
-method: aur-depends
+method: which-electron-rg
 latest: v0.1.29
 src: https://github.com/outerbase/studio-desktop/archive/refs/tags/v0.1.29.zip
 downloads:

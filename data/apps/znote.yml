@@ -39,7 +39,7 @@ downloads:
 aur:
 - znote-bin
 electron: 36.9.5
-method: aur-depends
+method: which-electron-rg
 homebrew: znote
 name: Znote
 packages:

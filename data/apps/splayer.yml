@@ -9,8 +9,8 @@ packages:
   os: macos
 additionalAUR:
 - splayer-git
-electron: 41.10.2
-method: aur-depends
+electron: 7.3.3
+method: which-electron-fingerprint
 homebrew: splayer
 downloads:
 - url: https://github.com/chiflix/splayerx/releases/download/4.9.4/SPlayer-4.9.4.dmg

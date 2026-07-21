@@ -3,8 +3,8 @@ name: Ftb
 website: https://feed-the-beast.com/ftb-app
 aur:
 - ftb-app
-electron: 39.8.10
-method: aur-depends
+electron: 39.6.1
+method: which-electron-rg
 homebrew: feed-the-beast
 downloads:
 - url: https://piston.feed-the-beast.com/app/ftb-app-macos-1.30.0-arm64.dmg

@@ -7,8 +7,8 @@ packages:
 - url: https://github.com/klaussinani/ao/releases/download/v6.9.0/Ao-6.9.0.dmg
   format: dmg
   os: macos
-electron: 13.6.9
-method: aur-depends
+electron: 4.2.2
+method: which-electron-fingerprint
 homebrew: ao
 downloads:
 - url: https://github.com/klaussinani/ao/releases/download/v6.9.0/Ao-6.9.0.dmg

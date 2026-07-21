@@ -4,8 +4,8 @@ website: https://github.com/piec/elecwhat/
 repository: https://github.com/piec/elecwhat
 aur:
 - elecwhat-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.1.0
+method: which-electron-rg
 latest: v1.14.0
 src: https://github.com/piec/elecwhat/archive/refs/tags/v1.14.0.zip
 downloads:

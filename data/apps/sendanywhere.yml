@@ -7,8 +7,8 @@ packages:
 - url: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg
   format: dmg
   os: macos
-electron: 8.5.5
-method: aur-depends
+electron: 41.3.0
+method: which-electron-rg
 homebrew: send-anywhere
 downloads:
 - url: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg

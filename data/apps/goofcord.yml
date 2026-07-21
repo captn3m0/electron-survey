@@ -4,8 +4,8 @@ website: https://github.com/Milkshiift/GoofCord
 repository: https://github.com/Milkshiift/GoofCord
 aur:
 - goofcord-bin
-electron: 43.1.1
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 latest: v2.2.2
 src: https://github.com/Milkshiift/GoofCord/archive/refs/tags/v2.2.2.zip
 downloads:

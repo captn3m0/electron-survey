@@ -12,8 +12,8 @@ downloads:
   url: https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-mac-v3.2.6.zip
 - name: puppetry-win-v3.2.6-x64.msi
   url: https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-win-v3.2.6-x64.msi
-electron: 12.2.3
-method: src-range-guess
+electron: 12.0.6
+method: which-electron-rg
 homebrew: puppetry
 name: Puppetry
 electron_src: https://github.com/dsheiko/puppetry/archive/refs/tags/v3.2.6.zip

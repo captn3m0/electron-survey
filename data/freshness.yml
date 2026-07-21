@@ -163,7 +163,7 @@ ai-assistant-studio:
 ai-browser:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -205,6 +205,15 @@ aider-desk:
   latest_in_major: 39.8.10
   patches_behind: 5
   status: orange
+aigcpanel:
+  electron: 29.4.6
+  major: 29
+  age_label: 1y 11mo ago
+  eol: true
+  majors_behind: 14
+  latest_in_major: 29.4.6
+  patches_behind: 0
+  status: red
 aihub:
   electron: 30.5.1
   major: 30
@@ -268,6 +277,15 @@ airtame:
   latest_in_major: 29.4.6
   patches_behind: 17
   status: red
+akiflow:
+  electron: 40.4.1
+  major: 40
+  age_label: 5mo ago
+  eol: true
+  majors_behind: 3
+  latest_in_major: 40.10.6
+  patches_behind: 20
+  status: orange
 akuse:
   electron: 26.6.10
   major: 26
@@ -298,7 +316,7 @@ albumate:
 algermusicplayer:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -316,7 +334,7 @@ alice-ai:
 alicorn:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -379,7 +397,7 @@ altair:
 altarik-launcher:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -440,13 +458,13 @@ amie:
   patches_behind: 6
   status: orange
 android-messages:
-  electron: 41.10.2
+  electron: 41.10.1
   major: 41
-  age_label: 6d ago
+  age_label: 13d ago
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.2
-  patches_behind: 0
+  patches_behind: 1
   status: green
 android-toolkit:
   electron: 25.9.8
@@ -514,7 +532,7 @@ animestream:
 animu:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -620,13 +638,13 @@ anytype:
   patches_behind: 14
   status: green
 ao:
-  electron: 13.6.9
-  major: 13
-  age_label: 4y 6mo ago
+  electron: 4.2.2
+  major: 4
+  age_label: 7y 3mo ago
   eol: true
-  majors_behind: 30
-  latest_in_major: 13.6.9
-  patches_behind: 0
+  majors_behind: 39
+  latest_in_major: 4.2.12
+  patches_behind: 10
   status: red
 apiflow:
   electron: 32.3.3
@@ -737,13 +755,13 @@ assessment-disaggregation:
   patches_behind: 25
   status: orange
 astrofox:
-  electron: 34.5.8
-  major: 34
-  age_label: 1y 1mo ago
+  electron: 16.0.7
+  major: 16
+  age_label: 4y 7mo ago
   eol: true
-  majors_behind: 9
-  latest_in_major: 34.5.8
-  patches_behind: 0
+  majors_behind: 27
+  latest_in_major: 16.2.8
+  patches_behind: 14
   status: red
 athens:
   electron: 12.2.3
@@ -781,6 +799,15 @@ atom-chess:
   latest_in_major: 31.7.7
   patches_behind: 0
   status: red
+atomic-wallet:
+  electron: 39.2.7
+  major: 39
+  age_label: 7mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 19
+  status: orange
 atv-remote:
   electron: 33.2.1
   major: 33
@@ -838,7 +865,7 @@ autographa:
 autorecord-manager:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -971,13 +998,13 @@ balenaetcher:
   patches_behind: 17
   status: red
 bananas:
-  electron: 31.7.7
+  electron: 31.7.6
   major: 31
-  age_label: 1y 6mo ago
+  age_label: 1y 7mo ago
   eol: true
   majors_behind: 12
   latest_in_major: 31.7.7
-  patches_behind: 0
+  patches_behind: 1
   status: red
 bar-lobby:
   electron: 37.10.3
@@ -1036,7 +1063,7 @@ battery:
 bbg-bin:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -1079,13 +1106,13 @@ bear-graph:
   patches_behind: 0
   status: red
 beaver-notes:
-  electron: 39.8.10
-  major: 39
-  age_label: 2mo ago
+  electron: 40.8.5
+  major: 40
+  age_label: 3mo ago
   eol: true
-  majors_behind: 4
-  latest_in_major: 39.8.10
-  patches_behind: 0
+  majors_behind: 3
+  latest_in_major: 40.10.6
+  patches_behind: 10
   status: orange
 beekeeper-studio:
   electron: 39.8.5
@@ -1189,7 +1216,7 @@ betwixt:
 beyondallreason:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -1315,7 +1342,7 @@ bitclient:
 bitshares-astro-ui:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -1360,7 +1387,7 @@ block-goose:
 blockbench:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -1531,7 +1558,7 @@ boxhero:
 boxplayer:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -1540,7 +1567,7 @@ boxplayer:
 bradtunes:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -1621,7 +1648,7 @@ bruno:
 bsky:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -1709,13 +1736,13 @@ cacher:
   patches_behind: 14
   status: red
 calmlywriter:
-  electron: 34.5.8
+  electron: 34.1.1
   major: 34
-  age_label: 1y 1mo ago
+  age_label: 1y 5mo ago
   eol: true
   majors_behind: 9
   latest_in_major: 34.5.8
-  patches_behind: 0
+  patches_behind: 17
   status: red
 calt:
   electron: 31.7.7
@@ -1844,13 +1871,13 @@ ccsm:
   patches_behind: 0
   status: green
 cerebro:
-  electron: 20.3.12
+  electron: 20.2.0
   major: 20
-  age_label: 3y 5mo ago
+  age_label: 3y 10mo ago
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
-  patches_behind: 0
+  patches_behind: 13
   status: red
 certbox:
   electron: 36.9.5
@@ -1891,7 +1918,7 @@ charta:
 chat-overlay:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -1945,7 +1972,7 @@ chaterm:
 chatgpt-atlas:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -2078,13 +2105,13 @@ chronos:
   patches_behind: 24
   status: red
 chrysalis:
-  electron: 23.3.13
+  electron: 23.1.1
   major: 23
-  age_label: 2y 11mo ago
+  age_label: 3y 5mo ago
   eol: true
   majors_behind: 20
   latest_in_major: 23.3.13
-  patches_behind: 0
+  patches_behind: 22
   status: red
 chunksize-checker:
   electron: 31.7.7
@@ -2107,7 +2134,7 @@ ciliterm:
 cinematic:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2121,6 +2148,15 @@ circle-chain:
   majors_behind: 23
   latest_in_major: 20.3.12
   patches_behind: 0
+  status: red
+circuitjs:
+  electron: 27.0.0
+  major: 27
+  age_label: 2y 9mo ago
+  eol: true
+  majors_behind: 16
+  latest_in_major: 27.3.11
+  patches_behind: 24
   status: red
 clash-auto:
   electron: 24.8.8
@@ -2161,7 +2197,7 @@ clawd-on-desk:
 clawx:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2305,7 +2341,7 @@ cocomusic:
 code-notes:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -2314,7 +2350,7 @@ code-notes:
 code:
   electron: 42.6.0
   major: 42
-  age_label: 16d ago
+  age_label: 17d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -2368,7 +2404,7 @@ codex:
 cohesion:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -2386,7 +2422,7 @@ coinstac:
 colanode:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2546,13 +2582,13 @@ copyman:
   patches_behind: 0
   status: red
 copytranslator:
-  electron: 6.1.12
-  major: 6
-  age_label: 6y 3mo ago
+  electron: 8.2.3
+  major: 8
+  age_label: 6y 4mo ago
   eol: true
-  majors_behind: 37
-  latest_in_major: 6.1.12
-  patches_behind: 0
+  majors_behind: 35
+  latest_in_major: 8.5.5
+  patches_behind: 15
   status: red
 cosbrowser:
   electron: 11.5.0
@@ -2728,7 +2764,7 @@ curseforge:
 cursor:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2791,7 +2827,7 @@ darkorbit-client:
 darkwrite:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -2800,7 +2836,7 @@ darkwrite:
 dartsmate:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -3043,7 +3079,7 @@ deer:
 deezer-discord-rpc:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -3079,7 +3115,7 @@ defi-wallet:
 descript:
   electron: 20.0.2
   major: 20
-  age_label: 3y 11mo ago
+  age_label: 4y ago
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -3196,7 +3232,7 @@ devkitty:
 dhis2-downloader:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -3439,7 +3475,7 @@ drawdb-client:
 drawio:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -3553,6 +3589,15 @@ easy-player:
   latest_in_major: 25.9.8
   patches_behind: 0
   status: red
+easyeda:
+  electron: 19.1.9
+  major: 19
+  age_label: 3y 8mo ago
+  eol: true
+  majors_behind: 24
+  latest_in_major: 19.1.9
+  patches_behind: 0
+  status: red
 ecency-surfer:
   electron: 25.9.8
   major: 25
@@ -3565,7 +3610,7 @@ ecency-surfer:
 echo-music:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -3599,13 +3644,13 @@ ecubus-pro:
   patches_behind: 4
   status: orange
 edex-ui:
-  electron: 12.2.3
+  electron: 12.2.2
   major: 12
-  age_label: 4y 8mo ago
+  age_label: 4y 10mo ago
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
-  patches_behind: 0
+  patches_behind: 1
   status: red
 edgetx-buddy:
   electron: 29.4.6
@@ -3851,13 +3896,13 @@ electron:
   patches_behind: 0
   status: green
 electronic-wechat-uos:
-  electron: 20.3.12
+  electron: 20.3.3
   major: 20
-  age_label: 3y 5mo ago
+  age_label: 3y 9mo ago
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
-  patches_behind: 0
+  patches_behind: 9
   status: red
 electronic-wechat:
   electron: 6.1.12
@@ -3878,13 +3923,13 @@ electronim:
   patches_behind: 0
   status: orange
 electronmail:
-  electron: 42.7.0
+  electron: 42.5.1
   major: 42
-  age_label: 5d ago
+  age_label: 21d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
-  patches_behind: 0
+  patches_behind: 5
   status: green
 electronwmd:
   electron: 31.7.7
@@ -3896,13 +3941,13 @@ electronwmd:
   patches_behind: 0
   status: red
 elecwhat:
-  electron: 40.10.6
+  electron: 40.1.0
   major: 40
-  age_label: 18d ago
+  age_label: 5mo ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
-  patches_behind: 0
+  patches_behind: 24
   status: orange
 element-desktop:
   electron: 42.4.1
@@ -4049,14 +4094,14 @@ envkey:
   patches_behind: 0
   status: red
 equibop:
-  electron: 40.10.6
-  major: 40
-  age_label: 18d ago
-  eol: true
-  majors_behind: 3
-  latest_in_major: 40.10.6
-  patches_behind: 0
-  status: orange
+  electron: 41.7.1
+  major: 41
+  age_label: 1mo ago
+  eol: false
+  majors_behind: 2
+  latest_in_major: 41.10.2
+  patches_behind: 8
+  status: green
 er-editor:
   electron: 28.3.3
   major: 28
@@ -4186,7 +4231,7 @@ evernote-for-linux:
 everytime:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -4357,7 +4402,7 @@ favicon-generator:
 fchat-horizon:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -4420,7 +4465,7 @@ ffbox:
 ffmpeg-ui:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -4517,13 +4562,13 @@ fireblocks-recovery-utility:
   patches_behind: 0
   status: red
 firecamp:
-  electron: 12.2.3
+  electron: 12.0.0
   major: 12
-  age_label: 4y 8mo ago
+  age_label: 5y 5mo ago
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
-  patches_behind: 0
+  patches_behind: 25
   status: red
 firefly-iota:
   electron: 27.3.11
@@ -4690,7 +4735,7 @@ focustune:
 folo:
   electron: 43.1.0
   major: 43
-  age_label: 12d ago
+  age_label: 13d ago
   eol: false
   majors_behind: 0
   latest_in_major: 43.1.1
@@ -4699,7 +4744,7 @@ folo:
 fontastic:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -4922,13 +4967,13 @@ fsolauncher:
   patches_behind: 0
   status: red
 ftb:
-  electron: 39.8.10
+  electron: 39.6.1
   major: 39
-  age_label: 2mo ago
+  age_label: 5mo ago
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
-  patches_behind: 0
+  patches_behind: 12
   status: orange
 fukayo:
   electron: 24.8.8
@@ -4996,7 +5041,7 @@ fvtt-player-client:
 gaia-amd:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -5102,14 +5147,14 @@ geforce-infinity:
   patches_behind: 0
   status: red
 geforcenow:
-  electron: 35.7.5
-  major: 35
-  age_label: 11mo ago
+  electron: 39.8.5
+  major: 39
+  age_label: 3mo ago
   eol: true
-  majors_behind: 8
-  latest_in_major: 35.7.5
-  patches_behind: 0
-  status: red
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 5
+  status: orange
 gemini:
   electron: 37.10.3
   major: 37
@@ -5293,7 +5338,7 @@ gitkraken:
 glassy-music-nankill:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -5354,13 +5399,13 @@ gomoon:
   patches_behind: 0
   status: red
 goofcord:
-  electron: 43.1.1
+  electron: 43.1.0
   major: 43
-  age_label: 6d ago
+  age_label: 13d ago
   eol: false
   majors_behind: 0
   latest_in_major: 43.1.1
-  patches_behind: 0
+  patches_behind: 1
   status: green
 google-assistant-unofficial-desktop-client:
   electron: 10.3.2
@@ -5518,7 +5563,7 @@ groupme:
 grx:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -5779,7 +5824,7 @@ heynote-bin:
 hihat:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -5867,13 +5912,13 @@ http-toolkit:
   patches_behind: 19
   status: orange
 httptoolkit:
-  electron: 39.8.10
+  electron: 39.8.7
   major: 39
-  age_label: 2mo ago
+  age_label: 3mo ago
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
-  patches_behind: 0
+  patches_behind: 3
   status: orange
 huaweicloudmeeting:
   electron: 20.3.12
@@ -5887,7 +5932,7 @@ huaweicloudmeeting:
 hubble-md:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -6157,7 +6202,7 @@ imagine:
 imfile:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -6234,6 +6279,24 @@ inkdown-bin:
   majors_behind: 8
   latest_in_major: 35.7.5
   patches_behind: 0
+  status: red
+inkdrop:
+  electron: 39.4.0
+  major: 39
+  age_label: 5mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 17
+  status: orange
+inky:
+  electron: 30.0.4
+  major: 30
+  age_label: 2y 2mo ago
+  eol: true
+  majors_behind: 13
+  latest_in_major: 30.5.1
+  patches_behind: 14
   status: red
 inmusic-software-center:
   electron: 39.8.0
@@ -6425,13 +6488,13 @@ jasper:
   patches_behind: 12
   status: red
 jbrowse:
-  electron: 42.7.0
-  major: 42
-  age_label: 5d ago
+  electron: 41.2.0
+  major: 41
+  age_label: 3mo ago
   eol: false
-  majors_behind: 1
-  latest_in_major: 42.7.0
-  patches_behind: 0
+  majors_behind: 2
+  latest_in_major: 41.10.2
+  patches_behind: 19
   status: green
 jetbrains-space:
   electron: 27.0.1
@@ -6463,7 +6526,7 @@ jitsi-meet-desktop:
 jm:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -6616,7 +6679,7 @@ kactus:
 kahla:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -6670,7 +6733,7 @@ kando:
 kankan:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -6731,13 +6794,13 @@ katana:
   patches_behind: 18
   status: red
 kdocs-uos:
-  electron: 14.2.9
-  major: 14
-  age_label: 4y 4mo ago
+  electron: 22.3.26
+  major: 22
+  age_label: 2y 10mo ago
   eol: true
-  majors_behind: 29
-  latest_in_major: 14.2.9
-  patches_behind: 0
+  majors_behind: 21
+  latest_in_major: 22.3.27
+  patches_behind: 1
   status: red
 keep-audio-alive:
   electron: 31.7.7
@@ -6922,7 +6985,7 @@ koala-client:
 kobo2notion:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -7111,7 +7174,7 @@ ldtk:
 leafview:
   electron: 43.1.0
   major: 43
-  age_label: 12d ago
+  age_label: 13d ago
   eol: false
   majors_behind: 0
   latest_in_major: 43.1.1
@@ -7165,7 +7228,7 @@ lecture-player:
 ledger-live:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -7201,7 +7264,7 @@ lens:
 lepton:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -7306,6 +7369,15 @@ linear:
   latest_in_major: 41.10.2
   patches_behind: 16
   status: green
+linkandroid:
+  electron: 29.4.6
+  major: 29
+  age_label: 1y 11mo ago
+  eol: true
+  majors_behind: 14
+  latest_in_major: 29.4.6
+  patches_behind: 0
+  status: red
 linked:
   electron: 17.0.0
   major: 17
@@ -7390,7 +7462,7 @@ live2d-kanban:
 liveplay:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -7469,13 +7541,13 @@ lode:
   patches_behind: 0
   status: red
 lofi:
-  electron: 24.8.8
+  electron: 24.8.5
   major: 24
-  age_label: 2y 9mo ago
+  age_label: 2y 10mo ago
   eol: true
   majors_behind: 19
   latest_in_major: 24.8.8
-  patches_behind: 0
+  patches_behind: 3
   status: red
 logseq:
   electron: 42.3.0
@@ -7615,7 +7687,7 @@ lx-music-desktop:
 lynxhub:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -7651,7 +7723,7 @@ lyrs:
 lzmusic:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -7894,7 +7966,7 @@ mastergo:
 mater:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -7948,7 +8020,7 @@ mattermost:
 mawejs:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -7984,7 +8056,7 @@ mdp:
 mdview:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -8011,7 +8083,7 @@ media-dupes:
 media-hoarder:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -8029,7 +8101,7 @@ media-player:
 mediachips:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -8188,6 +8260,15 @@ mihomo-party:
   latest_in_major: 41.10.2
   patches_behind: 6
   status: green
+milanote:
+  electron: 38.2.0
+  major: 38
+  age_label: 9mo ago
+  eol: true
+  majors_behind: 5
+  latest_in_major: 38.8.6
+  patches_behind: 14
+  status: orange
 milkup:
   electron: 41.10.2
   major: 41
@@ -8281,7 +8362,7 @@ miro:
 miru-viewer:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -8335,7 +8416,7 @@ mjml-app:
 mkeditor:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -8414,13 +8495,13 @@ modv:
   patches_behind: 0
   status: red
 moebius:
-  electron: 9.4.4
-  major: 9
-  age_label: 5y 5mo ago
+  electron: 8.5.2
+  major: 8
+  age_label: 5y 10mo ago
   eol: true
-  majors_behind: 34
-  latest_in_major: 9.4.4
-  patches_behind: 0
+  majors_behind: 35
+  latest_in_major: 8.5.5
+  patches_behind: 3
   status: red
 moekoedeskop:
   electron: 39.2.4
@@ -8488,7 +8569,7 @@ monokle:
 monolith-code:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -8650,7 +8731,7 @@ mubu-bin:
 mudita-center:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -8920,7 +9001,7 @@ netpad:
 netron-with-mime:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -9118,7 +9199,7 @@ noi:
 nook:
   electron: 23.0.0
   major: 23
-  age_label: 3y 5mo ago
+  age_label: 3y 6mo ago
   eol: true
   majors_behind: 20
   latest_in_major: 23.3.13
@@ -9280,7 +9361,7 @@ nucleo:
 nuclia-sync-agent:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -9395,13 +9476,13 @@ odoo-manager:
   patches_behind: 0
   status: red
 odrive:
-  electron: 2.0.18
-  major: 2
-  age_label: 7y 5mo ago
+  electron: 4.0.6
+  major: 4
+  age_label: 7y 6mo ago
   eol: true
-  majors_behind: 41
-  latest_in_major: 2.0.18
-  patches_behind: 1
+  majors_behind: 39
+  latest_in_major: 4.2.12
+  patches_behind: 21
   status: red
 ohhai-browser:
   electron: 8.2.5
@@ -9451,7 +9532,7 @@ omglol-profiler:
 omofun:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -9467,13 +9548,13 @@ onecopy:
   patches_behind: 0
   status: red
 onekey-wallet:
-  electron: 39.8.10
+  electron: 39.8.9
   major: 39
-  age_label: 2mo ago
+  age_label: 3mo ago
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
-  patches_behind: 0
+  patches_behind: 1
   status: orange
 onemouse:
   electron: 30.5.1
@@ -9577,21 +9658,21 @@ open-webui:
 openai-codex:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
   patches_behind: 0
   status: green
 openbazaar:
-  electron: 6.1.12
-  major: 6
-  age_label: 6y 3mo ago
-  eol: true
-  majors_behind: 37
-  latest_in_major: 6.1.12
-  patches_behind: 0
-  status: red
+  electron: 1.8.7
+  major: 1
+  age_label: 8y 3mo ago
+  eol: false
+  majors_behind: 42
+  latest_in_major: 1.8.8
+  patches_behind: 1
+  status: green
 openbuilds-control:
   electron: 23.3.13
   major: 23
@@ -9604,7 +9685,7 @@ openbuilds-control:
 opencode:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -9631,7 +9712,7 @@ openfortivpn-webview:
 openmarch:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -9937,7 +10018,7 @@ papercubes:
 papers:
   electron: 25.9.0
   major: 25
-  age_label: 2y 9mo ago
+  age_label: 2y 10mo ago
   eol: true
   majors_behind: 18
   latest_in_major: 25.9.8
@@ -10081,7 +10162,7 @@ pause:
 pawtop:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -10126,20 +10207,20 @@ peacock:
 pear-desktop-arjix:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
   patches_behind: 0
   status: orange
 pear-desktop-noads:
-  electron: 42.7.0
+  electron: 42.5.0
   major: 42
-  age_label: 5d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
-  patches_behind: 0
+  patches_behind: 6
   status: green
 pear-rec:
   electron: 29.4.6
@@ -10198,7 +10279,7 @@ pennywise:
 penpot:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -10736,13 +10817,13 @@ premid:
   patches_behind: 14
   status: red
 prepros:
-  electron: 25.9.8
+  electron: 25.1.0
   major: 25
-  age_label: 2y 7mo ago
+  age_label: 3y 1mo ago
   eol: true
   majors_behind: 18
   latest_in_major: 25.9.8
-  patches_behind: 0
+  patches_behind: 23
   status: red
 prettyearth:
   electron: 5.0.2
@@ -10916,14 +10997,14 @@ ptree:
   patches_behind: 0
   status: red
 publii:
-  electron: 41.10.2
-  major: 41
-  age_label: 6d ago
-  eol: false
-  majors_behind: 2
-  latest_in_major: 41.10.2
-  patches_behind: 0
-  status: green
+  electron: 39.8.9
+  major: 39
+  age_label: 3mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 1
+  status: orange
 pullp:
   electron: 14.0.1
   major: 14
@@ -10952,18 +11033,18 @@ pulse-browser:
   patches_behind: 0
   status: red
 puppetry:
-  electron: 12.2.3
+  electron: 12.0.6
   major: 12
-  age_label: 4y 8mo ago
+  age_label: 5y 3mo ago
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
-  patches_behind: 0
+  patches_behind: 19
   status: red
 pupu:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -11035,7 +11116,7 @@ qiniuclient:
 qoder:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -11440,7 +11521,7 @@ removebg:
 renamer:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -11467,7 +11548,7 @@ reor:
 repath-studio:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -11503,7 +11584,7 @@ requestly:
 requesto:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -11647,7 +11728,7 @@ rotore:
 round-drop:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -11708,13 +11789,13 @@ saadhn:
   patches_behind: 0
   status: green
 sabaki:
-  electron: 43.1.1
+  electron: 43.0.0
   major: 43
-  age_label: 6d ago
+  age_label: 20d ago
   eol: false
   majors_behind: 0
   latest_in_major: 43.1.1
-  patches_behind: 0
+  patches_behind: 2
   status: green
 saberfy:
   electron: 16.2.8
@@ -11881,7 +11962,7 @@ sdm:
 seanime:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -11926,21 +12007,21 @@ selenium-ide:
 selvania-launcher:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
   patches_behind: 0
   status: orange
 sendanywhere:
-  electron: 8.5.5
-  major: 8
-  age_label: 5y 8mo ago
-  eol: true
-  majors_behind: 35
-  latest_in_major: 8.5.5
-  patches_behind: 0
-  status: red
+  electron: 41.3.0
+  major: 41
+  age_label: 2mo ago
+  eol: false
+  majors_behind: 2
+  latest_in_major: 41.10.2
+  patches_behind: 16
+  status: green
 sengi:
   electron: 23.3.13
   major: 23
@@ -12221,13 +12302,13 @@ simple-music:
   patches_behind: 0
   status: orange
 simple-web-server:
-  electron: 38.8.6
+  electron: 38.2.2
   major: 38
-  age_label: 4mo ago
+  age_label: 9mo ago
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
-  patches_behind: 0
+  patches_behind: 12
   status: orange
 simpleinstabot:
   electron: 38.8.4
@@ -12259,7 +12340,7 @@ simplenote:
 simpleshell:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -12268,7 +12349,7 @@ simpleshell:
 simplest-file-renamer:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -12358,7 +12439,7 @@ slack:
 slacky:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -12511,7 +12592,7 @@ socially:
 sofie-chef:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -12520,7 +12601,7 @@ sofie-chef:
 sokuji:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -12554,13 +12635,13 @@ somafm-desktop-player:
   patches_behind: 0
   status: red
 sonixd:
-  electron: 22.3.27
+  electron: 22.3.1
   major: 22
-  age_label: 2y 9mo ago
+  age_label: 3y 5mo ago
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
-  patches_behind: 0
+  patches_behind: 24
   status: red
 sorted-photography:
   electron: 36.9.5
@@ -12574,7 +12655,7 @@ sorted-photography:
 soulfire:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -12637,7 +12718,7 @@ southweather:
 space-client:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -12725,14 +12806,14 @@ spine-viewer:
   patches_behind: 0
   status: red
 splayer:
-  electron: 41.10.2
-  major: 41
-  age_label: 6d ago
-  eol: false
-  majors_behind: 2
-  latest_in_major: 41.10.2
+  electron: 7.3.3
+  major: 7
+  age_label: 5y 11mo ago
+  eol: true
+  majors_behind: 36
+  latest_in_major: 7.3.3
   patches_behind: 0
-  status: green
+  status: red
 splice:
   electron: 38.4.0
   major: 38
@@ -12741,6 +12822,15 @@ splice:
   majors_behind: 5
   latest_in_major: 38.8.6
   patches_behind: 10
+  status: orange
+spline:
+  electron: 39.0.0
+  major: 39
+  age_label: 8mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 30
   status: orange
 spool:
   electron: 43.1.1
@@ -12868,6 +12958,15 @@ stage-retriever:
   latest_in_major: 29.4.6
   patches_behind: 0
   status: red
+stamp:
+  electron: 39.2.3
+  major: 39
+  age_label: 8mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 23
+  status: orange
 stampnyaa:
   electron: 25.9.8
   major: 25
@@ -12934,7 +13033,7 @@ stealthplane:
 steamachievementnotifier:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -12970,7 +13069,7 @@ stinker:
 stoat:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -13120,6 +13219,15 @@ sunroof:
   latest_in_major: 31.7.7
   patches_behind: 15
   status: red
+sunsama:
+  electron: 43.0.0
+  major: 43
+  age_label: 20d ago
+  eol: false
+  majors_behind: 0
+  latest_in_major: 43.1.1
+  patches_behind: 2
+  status: green
 supalive:
   electron: 27.3.11
   major: 27
@@ -13168,7 +13276,7 @@ supersplashbros2:
 swarm:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -13291,10 +13399,19 @@ tagspaces:
   latest_in_major: 42.7.0
   patches_behind: 8
   status: green
+tana:
+  electron: 39.2.6
+  major: 39
+  age_label: 7mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 20
+  status: orange
 tangent:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -13303,7 +13420,7 @@ tangent:
 taratormusic:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -13373,12 +13490,12 @@ teamwork:
   patches_behind: 0
   status: red
 telegram-a:
-  electron: 27.3.11
-  major: 27
-  age_label: 2y 3mo ago
+  electron: 22.3.27
+  major: 22
+  age_label: 2y 9mo ago
   eol: true
-  majors_behind: 16
-  latest_in_major: 27.3.11
+  majors_behind: 21
+  latest_in_major: 22.3.27
   patches_behind: 0
   status: red
 ten-hands:
@@ -13389,6 +13506,15 @@ ten-hands:
   majors_behind: 32
   latest_in_major: 11.5.0
   patches_behind: 18
+  status: red
+tencent-docs:
+  electron: 32.2.5
+  major: 32
+  age_label: 1y 8mo ago
+  eol: true
+  majors_behind: 11
+  latest_in_major: 32.3.3
+  patches_behind: 7
   status: red
 tenvideo:
   electron: 7.3.3
@@ -13519,7 +13645,7 @@ thermal:
 thief-app:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -13600,7 +13726,7 @@ tidal:
 tiddlywiki:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -13825,7 +13951,7 @@ topzl:
 torepe:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -13987,7 +14113,7 @@ tuff:
 tune-player:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -13996,7 +14122,7 @@ tune-player:
 turbowarp-desktop:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -14014,7 +14140,7 @@ tusk:
 tutanota:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -14140,7 +14266,7 @@ ultra-tracker:
 unlimited-clipboard:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -14176,7 +14302,7 @@ unreallauncher:
 unsplash-wallpapers:
   electron: 8.5.5
   major: 8
-  age_label: 5y 8mo ago
+  age_label: 5y 9mo ago
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -14248,7 +14374,7 @@ utools:
 uyou-todo:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -14266,7 +14392,7 @@ v2:
 vacuumtube:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -14311,7 +14437,7 @@ venom86:
 vesktop-wayafknext:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -14428,7 +14554,7 @@ visual-family-tree:
 visual-studio-code:
   electron: 42.6.0
   major: 42
-  age_label: 16d ago
+  age_label: 17d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -14497,6 +14623,15 @@ void:
   latest_in_major: 34.5.8
   patches_behind: 13
   status: red
+voiden:
+  electron: 39.8.8
+  major: 39
+  age_label: 3mo ago
+  eol: true
+  majors_behind: 4
+  latest_in_major: 39.8.10
+  patches_behind: 2
+  status: orange
 voosweeper:
   electron: 23.3.13
   major: 23
@@ -14680,7 +14815,7 @@ wdos:
 weakauras-companion:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -14707,7 +14842,7 @@ webcatalog:
 webcord:
   electron: 43.1.0
   major: 43
-  age_label: 12d ago
+  age_label: 13d ago
   eol: false
   majors_behind: 0
   latest_in_major: 43.1.1
@@ -14822,13 +14957,13 @@ whale:
   patches_behind: 15
   status: green
 whalebird:
-  electron: 39.8.10
+  electron: 39.8.7
   major: 39
-  age_label: 2mo ago
+  age_label: 3mo ago
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
-  patches_behind: 0
+  patches_behind: 3
   status: orange
 whatstron:
   electron: 28.3.3
@@ -14939,13 +15074,13 @@ wnr:
   patches_behind: 0
   status: red
 wolai:
-  electron: 22.3.27
+  electron: 22.3.7
   major: 22
-  age_label: 2y 9mo ago
+  age_label: 3y 3mo ago
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
-  patches_behind: 0
+  patches_behind: 18
   status: red
 woocommerce-pos:
   electron: 30.5.1
@@ -14986,7 +15121,7 @@ wordpresscom-studio:
 work-log-ify:
   electron: 42.7.0
   major: 42
-  age_label: 5d ago
+  age_label: 6d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0
@@ -15011,13 +15146,13 @@ wowup-native:
   patches_behind: 0
   status: orange
 wp:
-  electron: 39.8.10
+  electron: 39.8.5
   major: 39
-  age_label: 2mo ago
+  age_label: 3mo ago
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
-  patches_behind: 0
+  patches_behind: 5
   status: orange
 wpspaster:
   electron: 25.9.8
@@ -15103,7 +15238,7 @@ xresconv:
 xterminal:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15272,13 +15407,13 @@ yosoro:
   patches_behind: 7
   status: red
 youku:
-  electron: 9.4.4
-  major: 9
-  age_label: 5y 5mo ago
+  electron: 14.2.0
+  major: 14
+  age_label: 4y 9mo ago
   eol: true
-  majors_behind: 34
-  latest_in_major: 9.4.4
-  patches_behind: 0
+  majors_behind: 29
+  latest_in_major: 14.2.9
+  patches_behind: 9
   status: red
 youtube-desktop-bin:
   electron: 41.10.2
@@ -15436,7 +15571,7 @@ z-library:
 zasper:
   electron: 40.10.6
   major: 40
-  age_label: 18d ago
+  age_label: 19d ago
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15469,6 +15604,15 @@ zenvpn:
   latest_in_major: 25.9.8
   patches_behind: 0
   status: red
+zeplin:
+  electron: 38.1.0
+  major: 38
+  age_label: 10mo ago
+  eol: true
+  majors_behind: 5
+  latest_in_major: 38.8.6
+  patches_behind: 17
+  status: orange
 zerochess:
   electron: 27.3.11
   major: 27
@@ -15514,6 +15658,15 @@ znote:
   latest_in_major: 36.9.5
   patches_behind: 0
   status: red
+zo:
+  electron: 43.0.0
+  major: 43
+  age_label: 20d ago
+  eol: false
+  majors_behind: 0
+  latest_in_major: 43.1.1
+  patches_behind: 2
+  status: green
 zonote:
   electron: 9.4.4
   major: 9
@@ -15524,18 +15677,18 @@ zonote:
   patches_behind: 0
   status: red
 zui:
-  electron: 30.5.1
+  electron: 30.0.5
   major: 30
-  age_label: 1y 10mo ago
+  age_label: 2y 2mo ago
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
-  patches_behind: 0
+  patches_behind: 13
   status: red
 zulip:
   electron: 42.5.0
   major: 42
-  age_label: 26d ago
+  age_label: 27d ago
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.0

@@ -2,8 +2,8 @@ id: calmlywriter
 website: https://www.calmlywriter.com
 aur:
 - calmly-writer-bin
-electron: 34.5.8
-method: aur-depends
+electron: 34.1.1
+method: which-electron-rg
 homebrew: calmly-writer
 downloads:
 - url: https://www.calmlywriter.com/releases/Calmly%20Writer-2.0.66-arm64.dmg

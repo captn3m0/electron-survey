@@ -13,3 +13,5 @@ downloads:
   name: AtomicWallet-2.102.2.dmg
   version: 2.102.2
 we_tried: we0:urls:cb369ca2c7e2
+electron: 39.2.7
+method: which-electron-rg

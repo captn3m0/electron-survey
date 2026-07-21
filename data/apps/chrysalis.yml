@@ -10,8 +10,8 @@ packages:
   os: macos
 additionalAUR:
 - chrysalis-git
-electron: 23.3.13
-method: aur-depends
+electron: 23.1.1
+method: which-electron-rg
 latest: v0.13.3
 src: https://github.com/keyboardio/Chrysalis/archive/refs/tags/v0.13.3.zip
 downloads:

@@ -12,8 +12,8 @@ downloads:
   url: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.0.2.1.AppImage
 - name: OpenDrive.Setup.0.2.1.exe
   url: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.Setup.0.2.1.exe
-electron: 2.0.18
-method: src-range-guess
+electron: 4.0.6
+method: which-electron-fingerprint
 homebrew: odrive
 name: ODrive
 electron_src: https://github.com/liberodark/ODrive/archive/refs/tags/0.2.1.zip

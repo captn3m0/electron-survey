@@ -7,8 +7,8 @@ packages:
 - url: https://github.com/GMOD/jbrowse-components/releases/download/v4.3.0/jbrowse-desktop-v4.3.0-mac.dmg
   format: dmg
   os: macos
-electron: 42.7.0
-method: aur-depends
+electron: 41.2.0
+method: which-electron-rg
 homebrew: jbrowse
 downloads:
 - url: https://github.com/GMOD/jbrowse-components/releases/download/v4.3.0/jbrowse-desktop-v4.3.0-mac.dmg

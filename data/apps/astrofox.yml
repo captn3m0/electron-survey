@@ -9,8 +9,8 @@ packages:
   os: macos
 additionalAUR:
 - astrofox-bin
-electron: 34.5.8
-method: aur-depends
+electron: 16.0.7
+method: which-electron-rg
 homebrew: astrofox
 downloads:
 - url: https://files.astrofox.io/download/Astrofox-1.4.0.dmg

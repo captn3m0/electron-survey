@@ -26,8 +26,8 @@ packages:
 aur:
 - simple-web-server
 - simple-web-server-bin
-electron: 38.8.6
-method: aur-depends
+electron: 38.2.2
+method: which-electron-rg
 homebrew: simple-web-server
 downloads:
 - name: Simple-Web-Server-Installer-1.2.17-arm64.exe

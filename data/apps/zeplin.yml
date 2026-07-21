@@ -11,3 +11,5 @@ packages:
   os: macos
   arch: universal
 name: Zeplin
+electron: 38.1.0
+method: which-electron-rg

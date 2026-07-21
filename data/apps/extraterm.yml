@@ -20,4 +20,4 @@ aur:
 - extraterm-bin
 homebrew: extraterm
 name: Extraterm
-we_tried: v0.81.4
+we_tried: we1.2.1:v0.82.0

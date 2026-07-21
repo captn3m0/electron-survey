@@ -12,3 +12,5 @@ downloads:
 - url: https://github.com/inkle/inky/releases/download/0.15.2/inky.dmg
   name: inky.dmg
   version: 0.15.2
+electron: 30.0.4
+method: which-electron-rg

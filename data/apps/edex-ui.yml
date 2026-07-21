@@ -4,8 +4,8 @@ website: https://github.com/GitSquared/edex-ui
 repository: https://github.com/GitSquared/edex-ui
 aur:
 - edex-ui
-electron: 12.2.3
-method: aur-depends
+electron: 12.2.2
+method: which-electron-rg
 latest: v2.2.8
 src: https://github.com/GitSquared/edex-ui/archive/refs/tags/v2.2.8.zip
 downloads:

@@ -11,8 +11,8 @@ packages:
 additionalAUR:
 - equibop-bin
 - equibop-git
-electron: 40.10.6
-method: aur-depends
+electron: 41.7.1
+method: which-electron-rg
 latest: v3.2.1
 src: https://github.com/Equicord/Equibop/archive/refs/tags/v3.2.1.zip
 downloads:

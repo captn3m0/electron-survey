@@ -16,3 +16,4 @@ downloads:
 - name: Mater-v3.0.1-macos.zip
   url: https://github.com/jasonlong/mater/releases/download/v3.0.1/Mater-v3.0.1-macos.zip
 homebrew: mater
+we_tried: we1.2.1:v3.0.1

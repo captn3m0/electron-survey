@@ -9,8 +9,8 @@ packages:
   os: macos
 additionalAUR:
 - beaver-notes-git
-electron: 39.8.10
-method: aur-depends
+electron: 40.8.5
+method: which-electron-rg
 homebrew: beaver-notes
 downloads:
 - url: https://github.com/Beaver-Notes/Beaver-Notes/releases/download/4.4.0/Beaver-notes-4.4.0-universal.dmg

@@ -8,8 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 27.3.11
-method: aur-depends
+electron: 22.3.27
+method: which-electron-rg
 homebrew: telegram-a
 downloads:
 - url: https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.51/Telegram-A-arm64.dmg

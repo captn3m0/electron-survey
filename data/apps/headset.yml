@@ -5,7 +5,7 @@ aur:
 - headset-bin
 - headset-git
 electron: 14.2.9
-method: aur-depends
+method: which-electron-rg
 homebrew: headset
 downloads:
 - url: https://github.com/headsetapp/headset-electron/releases/download/v4.2.1/Headset-4.2.1-mac-arm64.zip

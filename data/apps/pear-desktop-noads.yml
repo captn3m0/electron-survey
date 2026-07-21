@@ -7,8 +7,8 @@ aur:
 additionalAUR:
 - pear-desktop-noads-git
 - pear-desktop-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.5.0
+method: which-electron-rg
 latest: v3.12.0
 src: https://github.com/pear-devs/pear-desktop/archive/refs/tags/v3.12.0.zip
 downloads:

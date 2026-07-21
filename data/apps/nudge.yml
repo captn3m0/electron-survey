@@ -22,3 +22,4 @@ downloads:
 - name: Nudge_0.6.1_amd64.snap
   url: https://github.com/aasmart/Nudge/releases/download/v0.6.1/Nudge_0.6.1_amd64.snap
 homebrew: nudge
+we_tried: we1.2.1:v0.6.1

@@ -3,8 +3,8 @@ name: Kdocs Uos
 website: https://www.kdocs.cn/
 aur:
 - kdocs-uos
-electron: 14.2.9
-method: aur-depends
+electron: 22.3.26
+method: which-electron-rg
 homebrew: kdocs
 downloads:
 - url: https://qn.cache.wpscdn.cn/kdocs/apk/kdesktopmac/KDocs_1001_v3.11.2.dmg

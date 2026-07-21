@@ -14,3 +14,5 @@ packages:
   arch: arm64
 name: Inkdrop
 we_tried: urls:58c1a4705ff7
+electron: 39.4.0
+method: which-electron-rg

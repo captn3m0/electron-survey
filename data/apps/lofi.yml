@@ -7,8 +7,8 @@ packages:
 - url: https://github.com/dvx/lofi/releases/download/v2.0.2/lofi.dmg
   format: dmg
   os: macos
-electron: 24.8.8
-method: aur-depends
+electron: 24.8.5
+method: which-electron-rg
 homebrew: lofi
 downloads:
 - url: https://github.com/dvx/lofi/releases/download/v2.0.2/lofi.dmg

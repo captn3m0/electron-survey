@@ -17,3 +17,5 @@ downloads:
 - url: https://image.easyeda.com/files/easyeda-mac-arm64-6.5.51.zip
   name: easyeda-mac-arm64-6.5.51.zip
   version: 6.5.51
+electron: 19.1.9
+method: which-electron-rg

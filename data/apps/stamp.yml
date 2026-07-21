@@ -8,3 +8,5 @@ downloads:
 name: STAMP
 aur:
 - stamp
+electron: 39.2.3
+method: which-electron-rg

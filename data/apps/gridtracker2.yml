@@ -10,7 +10,7 @@ aur:
 - gridtracker2
 - gridtracker2-bin
 electron: 35.7.5
-method: aur-depends
+method: which-electron-rg
 homebrew: gridtracker2
 downloads:
 - url: https://download2.gridtracker.org/GridTracker2-2.260705.2-universal-mac.zip

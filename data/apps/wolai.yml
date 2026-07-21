@@ -8,8 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 22.3.27
-method: aur-depends
+electron: 22.3.7
+method: which-electron-rg
 homebrew: wolai
 downloads:
 - url: https://cdn.wostatic.cn/dist/installers/wolai-1.2.12-arm64.dmg

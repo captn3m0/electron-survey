@@ -21,8 +21,8 @@ packages:
 aur:
 - publii-bin
 - publii-git
-electron: 41.10.2
-method: aur-depends
+electron: 39.8.9
+method: which-electron-rg
 homebrew: publii
 downloads:
 - url: https://getpublii.com/download/Publii-0.47.7-arm64.dmg

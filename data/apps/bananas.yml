@@ -10,8 +10,8 @@ packages:
 additionalAUR:
 - bananas-bin
 - bananas-electron-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.7.6
+method: which-electron-rg
 homebrew: bananas
 downloads:
 - url: https://github.com/mistweaverco/bananas/releases/download/v0.0.22/bananas_universal.dmg

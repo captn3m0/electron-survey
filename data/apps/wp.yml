@@ -3,8 +3,8 @@ name: Wp
 website: https://apps.wordpress.com/desktop/
 aur:
 - wp-desktop-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.8.5
+method: which-electron-rg
 homebrew: wordpresscom
 downloads:
 - url: https://github.com/Automattic/wp-desktop/releases/download/v8.2.3/wordpress.com-macOS-dmg-8.2.3-arm64.dmg

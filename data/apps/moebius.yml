@@ -8,8 +8,8 @@ packages:
 - url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
   format: dmg
   os: macos
-electron: 9.4.4
-method: aur-depends
+electron: 8.5.2
+method: which-electron-fingerprint
 latest: 1.0.29
 src: https://github.com/blocktronics/moebius/archive/refs/tags/1.0.29.zip
 downloads:

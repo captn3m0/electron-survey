@@ -10,7 +10,7 @@ packages:
   os: macos
   arch: arm64
 electron: 31.7.7
-method: aur-depends
+method: which-electron-rg
 latest: v2.1.1
 src: https://github.com/alichtman/deadbolt/archive/refs/tags/v2.1.1.zip
 downloads:

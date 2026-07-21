@@ -7,8 +7,8 @@ packages:
 - url: https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0.dmg
   format: dmg
   os: macos
-electron: 6.1.12
-method: aur-depends
+electron: 8.2.3
+method: which-electron-fingerprint
 homebrew: copytranslator
 downloads:
 - url: https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0.dmg

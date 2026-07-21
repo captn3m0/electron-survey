@@ -5,7 +5,7 @@ repository: https://github.com/ChurchApps/FreeShow
 aur:
 - freeshow-electron-bin
 electron: 37.10.3
-method: aur-depends
+method: which-electron-rg
 latest: v1.6.4
 src: https://github.com/ChurchApps/FreeShow/archive/refs/tags/v1.6.4.zip
 downloads:

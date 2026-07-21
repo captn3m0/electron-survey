@@ -23,8 +23,8 @@ aur:
 - cerebro
 - cerebro-bin
 - cerebro-git
-electron: 20.3.12
-method: aur-depends
+electron: 20.2.0
+method: which-electron-rg
 homebrew: cerebro
 downloads:
 - name: Cerebro-0.11.0-mac.zip

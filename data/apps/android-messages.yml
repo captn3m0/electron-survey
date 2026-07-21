@@ -4,8 +4,8 @@ website: https://github.com/OrangeDrangon/android-messages-desktop
 repository: https://github.com/OrangeDrangon/android-messages-desktop
 aur:
 - android-messages-desktop
-electron: 41.10.2
-method: aur-depends
+electron: 41.10.1
+method: which-electron-rg
 latest: v6.1.0
 src: https://github.com/OrangeDrangon/android-messages-desktop/archive/refs/tags/v6.1.0.zip
 downloads:

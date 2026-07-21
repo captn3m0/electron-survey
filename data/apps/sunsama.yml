@@ -13,3 +13,5 @@ downloads:
 - url: https://download.todesktop.com/2003096gmmnl0g1/Sunsama%203.4.11%20-%20Build%20260714l3e0cmg9r-arm64-mac.zip
   name: Sunsama%203.4.11%20-%20Build%20260714l3e0cmg9r-arm64-mac.zip
   version: 3.4.11,260714l3e0cmg9r
+electron: 43.0.0
+method: which-electron-rg

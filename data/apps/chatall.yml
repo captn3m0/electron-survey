@@ -26,7 +26,7 @@ packages:
 aur:
 - chatall
 electron: 33.4.11
-method: aur-depends
+method: which-electron-rg
 homebrew: chatall
 downloads:
 - name: ChatALL-1.85.110-linux-amd64.deb

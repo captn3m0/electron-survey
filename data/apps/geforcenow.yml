@@ -6,8 +6,8 @@ aur:
 - geforcenow-electron
 additionalAUR:
 - geforcenow-electron-bin
-electron: 35.7.5
-method: aur-depends
+electron: 39.8.5
+method: which-electron-rg
 latest: v3.0.0
 src: https://github.com/hmlendea/gfn-electron/archive/refs/tags/v3.0.0.zip
 downloads:

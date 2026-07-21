@@ -4,8 +4,8 @@ website: https://github.com/OpenBazaar/openbazaar-desktop
 repository: https://github.com/OpenBazaar/openbazaar-desktop
 aur:
 - openbazaar-git
-electron: 6.1.12
-method: aur-depends
+electron: 1.8.7
+method: which-electron-fingerprint
 latest: v2.4.10
 src: https://github.com/OpenBazaar/openbazaar-desktop/archive/refs/tags/v2.4.10.zip
 downloads:

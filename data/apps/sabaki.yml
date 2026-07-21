@@ -16,8 +16,8 @@ aur:
 - sabaki-bin
 - sabaki-electron
 - sabaki-git
-electron: 43.1.1
-method: aur-depends
+electron: 43.0.0
+method: which-electron-rg
 homebrew: sabaki
 downloads:
 - name: sabaki-v0.60.0-linux-arm64.AppImage

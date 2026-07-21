@@ -7,8 +7,8 @@ packages:
 - url: https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.75.1001.dmg
   format: dmg
   os: macos
-electron: 9.4.4
-method: aur-depends
+electron: 14.2.0
+method: which-electron-rg
 homebrew: youku
 downloads:
 - url: https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.75.1001.dmg
