@@ -1,6 +1,4 @@
 id: illyriad
 website: https://store.steampowered.com/app/559310
 name: Illyriad
-# Was matched to the Homebrew `steam` cask (the Steam client, steam.dmg) — not
-# this app. Opt out so it doesn't re-attach.
 homebrew: false

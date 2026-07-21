@@ -1,7 +1,5 @@
 id: eagle
 website: https://eagle.cool/
 name: Eagle
-# The AUR `eagle` and Homebrew `eagle` are Autodesk EAGLE (CAD, not Electron) —
-# a different product. Opt out so they don't re-attach to this eagle.cool entry.
 aur: false
 homebrew: false
