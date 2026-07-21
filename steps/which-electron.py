@@ -25,6 +25,7 @@ import pathlib
 import re
 import subprocess
 import tempfile
+import time
 from typing import Any
 
 import requests
@@ -45,6 +46,21 @@ TMP_DIR = ZIPS_DIR / "_wbin"
 # Skip artefacts larger than this to protect CI disk / runtime.
 _MAX_MB = int(os.environ.get("WHICH_ELECTRON_MAX_MB", "500"))
 _MAX_BYTES = _MAX_MB * 1024 * 1024
+
+# Wall-clock budget for a single `process which-electron` run (seconds; 0 = off).
+# Once exceeded, matches() stops claiming new entries so the step returns
+# promptly and the job's final commit step runs — instead of the job hitting its
+# hard timeout mid-download and being force-cancelled, which discards *all*
+# uncommitted work (the commit is the last step). The backlog drains across
+# successive scheduled runs: each fingerprinted entry gets an electron version
+# or a we_tried marker and drops out of matches(), and popularity ordering means
+# every run spends its budget on the most-used still-unresolved apps first.
+_DEADLINE_SECONDS = int(os.environ.get("WHICH_ELECTRON_DEADLINE_SECONDS", "0"))
+_START = time.monotonic()
+
+
+def _past_deadline() -> bool:
+    return _DEADLINE_SECONDS > 0 and time.monotonic() - _START >= _DEADLINE_SECONDS
 
 # Formats which-electron handles reliably. `-setup` Windows installers and
 # bare redirects without a sensible extension are skipped.
@@ -193,7 +209,7 @@ def _run_which_electron(file: pathlib.Path) -> dict[str, Any] | None:
             [*_WE_CMD, "--json", str(file)],
             capture_output=True,
             text=True,
-            timeout=300,
+            timeout=180,
         )
     except subprocess.TimeoutExpired:
         log.warning("which-electron timed out on %s", file)
@@ -252,6 +268,8 @@ _LOW_CONFIDENCE_METHODS = {"aur-depends", "src-range-guess"}
 
 
 def matches(entry: dict[str, Any]) -> bool:
+    if _past_deadline():
+        return False  # out of budget: leave the rest for the next scheduled run
     if entry.get("dead"):
         return False
     if not _candidate_urls(entry):

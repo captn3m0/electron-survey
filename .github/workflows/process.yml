@@ -92,13 +92,23 @@ jobs:
           git -C which-electron checkout -q FETCH_HEAD
           npm --prefix which-electron ci --omit=dev
 
-      # Bounded so the job stays well under the time limit; the we_tried marker
-      # means each run works through fresh binaries and skips ones already
-      # fingerprinted at their current release.
+      # Downloading + fingerprinting binaries is the one unbounded-cost step, so
+      # it is capped two ways to guarantee the job finishes and the commit below
+      # runs (a job timeout force-cancels everything and discards the run):
+      #   * WHICH_ELECTRON_DEADLINE_SECONDS — hard wall-clock budget; once spent,
+      #     no new binaries are claimed and the step returns. 5400s = 90 min
+      #     leaves ample headroom under the 180-min job limit for the metadata
+      #     steps above and the commit/report below.
+      #   * --limit — count cap for fast days when the budget isn't the governor.
+      # The backlog (~800 apps) drains across the daily schedule: the we_tried
+      # marker skips binaries already fingerprinted at their current release, and
+      # popularity ordering spends each run's budget on the most-used apps first,
+      # clearing the queue in roughly a week.
       - name: Fingerprint binaries with which-electron
-        run: uv run main.py process which-electron --limit 120
+        run: uv run main.py process which-electron --limit 200
         env:
           GH_TOKEN: ${{ github.token }}
+          WHICH_ELECTRON_DEADLINE_SECONDS: "5400"
 
       - name: Save zips cache
         if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
