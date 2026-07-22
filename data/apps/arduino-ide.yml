@@ -40,3 +40,8 @@ downloads:
   url: https://github.com/arduino/arduino-ide/releases/download/2.3.10/stable.yml
 homebrew: arduino-ide
 we_tried: we0:2.3.10
+evidence:
+  kind: binary
+  source: https://github.com/arduino/arduino-ide/releases/download/2.3.10/arduino-ide_2.3.10_Linux_64bit.AppImage
+  found_in: arduino-ide_2.3.10_Linux_64bit.AppImage
+  signal: which-electron rg signal

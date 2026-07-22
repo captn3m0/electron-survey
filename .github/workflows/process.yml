@@ -100,15 +100,23 @@ jobs:
       #     leaves ample headroom under the 180-min job limit for the metadata
       #     steps above and the commit/report below.
       #   * --limit — count cap for fast days when the budget isn't the governor.
-      # The backlog (~800 apps) drains across the daily schedule: the we_tried
-      # marker skips binaries already fingerprinted at their current release, and
-      # popularity ordering spends each run's budget on the most-used apps first,
-      # clearing the queue in roughly a week.
+      # The backlog drains across the daily schedule: the we_tried marker skips
+      # binaries already fingerprinted at their current release, and popularity
+      # ordering spends each run's budget on the most-used apps first.
+      #
+      # WHICH_ELECTRON_BACKFILL_EVIDENCE also re-claims apps this processor
+      # resolved before it recorded *which* artefact answered, so their pages can
+      # name the binary the version was read out of instead of saying it wasn't
+      # recorded. Each app drops out permanently once its evidence lands, so this
+      # is a finite ~376-app backlog on top of the unresolved queue, not a
+      # standing cost. It also un-freezes their versions: a resolved app was
+      # otherwise never re-read, so a binary detection never aged.
       - name: Fingerprint binaries with which-electron
         run: uv run main.py process which-electron --limit 200
         env:
           GH_TOKEN: ${{ github.token }}
           WHICH_ELECTRON_DEADLINE_SECONDS: "5400"
+          WHICH_ELECTRON_BACKFILL_EVIDENCE: "1"
 
       - name: Save zips cache
         if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
