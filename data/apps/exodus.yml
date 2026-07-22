@@ -2,6 +2,10 @@ id: exodus
 name: Exodus
 website: https://www.exodus.com
 packages:
+- url: https://downloads.exodus.com/releases/exodus-linux-x64-26.7.1.deb
+  format: deb
+  os: linux
+  arch: x64
 - url: https://downloads.exodus.com/releases/exodus-macos-arm64-26.7.1.dmg
   format: dmg
   os: macos
@@ -9,3 +13,5 @@ packages:
 aur:
 - exodus
 - exodus-bin
+electron: 41.0.3
+method: which-electron-rg

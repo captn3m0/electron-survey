@@ -78,6 +78,14 @@ _EXT_PRIORITY = {
 }
 
 _SESSION = requests.Session()
+# Identify ourselves. Several vendor CDNs (exodus.com among them) answer 403 to
+# the default `python-requests/x.y` User-Agent, which used to fail silently:
+# every download errored, so `process()` never wrote a we_tried marker and the
+# app was re-queued and re-failed on every run, forever. Any non-default UA is
+# enough — no need to impersonate a browser.
+_SESSION.headers["User-Agent"] = (
+    "electron-survey/1.0 (+https://github.com/captn3m0/electron-survey)"
+)
 
 
 class _TooLarge(Exception):
@@ -283,17 +291,19 @@ def matches(entry: dict[str, Any]) -> bool:
 
 def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     app_id: str = entry["id"]
-    fingerprinted = False
+    inspected = 0
+    unread = 0
 
     for url in _candidate_urls(entry):
         path = _download(url)
         if path is None:
+            unread += 1
             continue
         try:
             result = _run_which_electron(path)
         finally:
             path.unlink(missing_ok=True)
-        fingerprinted = True
+        inspected += 1
         if not result:
             continue
         version = result.get("version")
@@ -305,9 +315,16 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         log.info("[%s] electron %s detected via which-electron/%s on %s", app_id, version, method, url)
         return {"electron": version, "method": f"which-electron-{method}"}
 
-    # Only record the attempt if we actually inspected something; a run where
-    # every download failed (e.g. transient network) should be retried later.
-    if fingerprinted:
+    # Only retire the app once *every* candidate has actually been inspected.
+    # Marking it checked while some artefact failed to download retires it on
+    # the strength of the ones that happened to work — and the artefact that
+    # failed is often the only readable one. Typora was exactly this: its .deb
+    # fingerprints cleanly, but a transient failure on it plus an unreadable
+    # .dmg was enough to write the marker and drop the app for good.
+    if inspected and not unread:
         log.info("[%s] no electron version from which-electron; marking checked", app_id)
         return {"we_tried": _signature(entry)}
+    if unread:
+        log.info("[%s] %d/%d artefacts unreadable; leaving queued for a retry",
+                 app_id, unread, inspected + unread)
     return None

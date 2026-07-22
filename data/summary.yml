@@ -6,8 +6,8 @@ coverage:
   apps: 2092
   dead: 37
   tracked: 2055
-  detected: 1747
-  detected_pct: 85.0
+  detected: 1749
+  detected_pct: 85.1
 tier_order:
 - flagship
 - popular
@@ -22,21 +22,21 @@ tiers:
   flagship:
     label: Flagship
     apps: 38
-    detected: 34
-    detected_pct: 89.5
-    green: 16
+    detected: 36
+    detected_pct: 94.7
+    green: 17
     orange: 9
-    red: 9
-    green_pct: 47.1
-    orange_pct: 26.5
-    red_pct: 26.5
-    eol: 18
-    eol_pct: 52.9
+    red: 10
+    green_pct: 47.2
+    orange_pct: 25.0
+    red_pct: 27.8
+    eol: 19
+    eol_pct: 52.8
     median_days_behind: 133
     median_majors_behind: 6
     median_cves_critical: 148
     median_cves_high: 807
-    with_critical_cve: 34
+    with_critical_cve: 36
     with_critical_cve_pct: 100.0
   popular:
     label: Popular
@@ -116,39 +116,39 @@ tiers:
     with_critical_cve_pct: 99.9
 main:
   apps: 303
-  detected: 260
-  detected_pct: 85.8
-  green: 86
+  detected: 262
+  detected_pct: 86.5
+  green: 87
   orange: 58
-  red: 116
-  green_pct: 33.1
-  orange_pct: 22.3
-  red_pct: 44.6
-  eol: 174
-  eol_pct: 66.9
+  red: 117
+  green_pct: 33.2
+  orange_pct: 22.1
+  red_pct: 44.7
+  eol: 175
+  eol_pct: 66.8
   median_days_behind: 267
   median_majors_behind: 10
   median_cves_critical: 151
   median_cves_high: 850
-  with_critical_cve: 260
+  with_critical_cve: 262
   with_critical_cve_pct: 100.0
 overall:
   apps: 2092
-  detected: 1747
-  detected_pct: 83.5
-  green: 266
+  detected: 1749
+  detected_pct: 83.6
+  green: 267
   orange: 244
-  red: 1237
-  green_pct: 15.2
+  red: 1238
+  green_pct: 15.3
   orange_pct: 14.0
   red_pct: 70.8
-  eol: 1481
-  eol_pct: 84.8
+  eol: 1482
+  eol_pct: 84.7
   median_days_behind: 771
   median_majors_behind: 26
   median_cves_critical: 161
   median_cves_high: 1034
-  with_critical_cve: 1746
+  with_critical_cve: 1748
   with_critical_cve_pct: 99.9
 worst:
 - id: graphiql
@@ -292,7 +292,7 @@ stalest_majors:
 - major: 42
   apps: 34
 - major: 41
-  apps: 35
+  apps: 36
 - major: 40
   apps: 16
 - major: 39
@@ -304,7 +304,7 @@ stalest_majors:
 - major: 36
   apps: 4
 - major: 35
-  apps: 3
+  apps: 4
 - major: 34
   apps: 3
 - major: 33

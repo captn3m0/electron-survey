@@ -8073,6 +8073,23 @@ exiled-exchange-2:
   cves_critical: 157
   cves_high: 992
   cves_total: 1973
+exodus:
+  electron: 41.0.3
+  major: 41
+  age_label: 4mo ago
+  age_days: 126
+  eol: false
+  majors_behind: 2
+  latest_in_major: 41.10.3
+  patches_behind: 24
+  status: green
+  chromium: 146.0.7680.80
+  chromium_major: 146
+  chromium_majors_behind: 4
+  chromium_days_behind: 77
+  cves_critical: 144
+  cves_high: 773
+  cves_total: 1604
 expertisex:
   electron: 35.7.5
   major: 35
@@ -12905,7 +12922,7 @@ keeweb:
   electron: 12.0.7
   major: 12
   age_label: 5y 3mo ago
-  age_days: 1901
+  age_days: 1902
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
@@ -20453,7 +20470,7 @@ prettyearth:
   electron: 5.0.2
   major: 5
   age_label: 7y 3mo ago
-  age_days: 2616
+  age_days: 2617
   eol: true
   majors_behind: 38
   latest_in_major: 5.0.13
@@ -20912,7 +20929,7 @@ q-player:
   electron: 38.1.2
   major: 38
   age_label: 10mo ago
-  age_days: 307
+  age_days: 308
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -26790,6 +26807,23 @@ typesense-dashboard:
   cves_critical: 151
   cves_high: 825
   cves_total: 1695
+typora:
+  electron: 35.6.0
+  major: 35
+  age_label: 1y 1mo ago
+  age_days: 390
+  eol: true
+  majors_behind: 8
+  latest_in_major: 35.7.5
+  patches_behind: 4
+  status: red
+  chromium: 134.0.6998.205
+  chromium_major: 134
+  chromium_majors_behind: 16
+  chromium_days_behind: 449
+  cves_critical: 155
+  cves_high: 891
+  cves_total: 1823
 tyrogit-client:
   electron: 21.4.4
   major: 21
@@ -28086,7 +28120,7 @@ webkiosk-wrapper:
   electron: 5.0.2
   major: 5
   age_label: 7y 3mo ago
-  age_days: 2616
+  age_days: 2617
   eol: true
   majors_behind: 38
   latest_in_major: 5.0.13

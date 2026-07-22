@@ -70,3 +70,72 @@ def test_matches_overrides_low_confidence_methods():
     # but not re-checked once tried at this release
     assert we.matches({**base, "method": "aur-depends",
                        "we_tried": we._signature(base)}) is False
+
+
+class _FakeDownloads:
+    """Stub _download/_run_which_electron so process() can be driven offline.
+
+    ``results`` maps a URL to what which-electron would report, or None to
+    simulate a download that never landed.
+    """
+
+    def __init__(self, monkeypatch, results):
+        self.results = results
+        self.inspected = []
+        monkeypatch.setattr(we, "_download", self._download)
+        monkeypatch.setattr(we, "_run_which_electron", self._run)
+
+    def _download(self, url):
+        import pathlib
+        if self.results[url] is None:
+            return None
+        self._current = url
+        # Never created on disk; process() unlinks it with missing_ok=True.
+        return pathlib.Path("/nonexistent/fake-artefact")
+
+    def _run(self, path):
+        self.inspected.append(self._current)
+        return self.results[self._current]
+
+
+def test_process_returns_the_first_version_found(monkeypatch):
+    entry = {"id": "x", "packages": [{"url": "https://x/App.deb"}, {"url": "https://x/App.dmg"}]}
+    _FakeDownloads(monkeypatch, {
+        "https://x/App.deb": {"version": "v35.6.0", "method": "rg"},
+        "https://x/App.dmg": {"signals": []},
+    })
+    assert we.process(entry) == {"electron": "35.6.0", "method": "which-electron-rg"}
+
+
+def test_process_marks_checked_only_when_every_artefact_was_read(monkeypatch):
+    entry = {"id": "x", "packages": [{"url": "https://x/App.deb"}, {"url": "https://x/App.dmg"}]}
+    _FakeDownloads(monkeypatch, {
+        "https://x/App.deb": {"signals": []},
+        "https://x/App.dmg": {"signals": []},
+    })
+    assert we.process(entry) == {"we_tried": we._signature(entry)}
+
+
+def test_process_leaves_app_queued_when_an_artefact_failed_to_download(monkeypatch):
+    """A partial failure must not retire the app: the artefact that failed is
+    often the only readable one (typora's .deb was)."""
+    entry = {"id": "x", "packages": [{"url": "https://x/App.deb"}, {"url": "https://x/App.dmg"}]}
+    _FakeDownloads(monkeypatch, {
+        "https://x/App.deb": None,          # transient failure
+        "https://x/App.dmg": {"signals": []},  # readable, but tells us nothing
+    })
+    assert we.process(entry) is None
+    assert we.matches(entry) is True
+
+
+def test_process_returns_none_when_nothing_downloaded(monkeypatch):
+    entry = {"id": "x", "packages": [{"url": "https://x/App.deb"}]}
+    _FakeDownloads(monkeypatch, {"https://x/App.deb": None})
+    assert we.process(entry) is None
+
+
+def test_session_sends_a_non_default_user_agent():
+    """Vendor CDNs (exodus.com) 403 the default python-requests UA."""
+    ua = we._SESSION.headers["User-Agent"]
+    assert "python-requests" not in ua
+    assert "electron-survey" in ua
