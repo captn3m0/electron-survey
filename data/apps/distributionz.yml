@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/latest-mac.yml
 - name: latest.yml
   url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/distributionz-bin
+  found_in: distributionz-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

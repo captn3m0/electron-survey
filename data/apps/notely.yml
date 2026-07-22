@@ -11,3 +11,8 @@ src: https://github.com/Bilal-Belli/Notely/archive/refs/tags/Version1.0.1.zip
 downloads:
 - name: Notely.Setup.1.0.1.rar
   url: https://github.com/Bilal-Belli/Notely/releases/download/Version1.0.1/Notely.Setup.1.0.1.rar
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/notely-git
+  found_in: notely-git
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

@@ -39,3 +39,8 @@ downloads:
   url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/latest.yml
 - name: null.blockmap
   url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/null.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-ssr
+  found_in: electron-ssr
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

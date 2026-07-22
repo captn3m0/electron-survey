@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/kokolokksk/catcat-dm-react/releases/download/v2.0.1/CatCatDM.Setup.2.0.1.exe
 - name: latest.yml
   url: https://github.com/kokolokksk/catcat-dm-react/releases/download/v2.0.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/catcat-dm-react
+  found_in: catcat-dm-react
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

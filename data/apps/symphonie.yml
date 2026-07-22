@@ -11,3 +11,8 @@ src: https://github.com/kprakesh1984/symphonie/archive/refs/tags/windows-release
 downloads:
 - name: Symphonie.1.0.22.zip
   url: https://github.com/kpr-dev590/symphonie/releases/download/windows-release-v1.0.22/Symphonie.1.0.22.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/symphonie-git
+  found_in: symphonie-git
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

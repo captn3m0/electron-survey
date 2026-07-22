@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.6/MangaBox-0.4.6-Windows-arm64.exe
 - name: MangaBox-0.4.6-Windows-x64.exe
   url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.6/MangaBox-0.4.6-Windows-x64.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mangabox-bin
+  found_in: mangabox-bin
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

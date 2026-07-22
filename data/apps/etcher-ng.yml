@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_portable_1.19.17_win64.exe
 - name: etcher-ng_setup_1.19.17_win64.exe
   url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17R2/etcher-ng_setup_1.19.17_win64.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/etcher-ng-bin
+  found_in: etcher-ng-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

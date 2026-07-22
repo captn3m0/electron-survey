@@ -5,3 +5,8 @@ aur:
 - aviutl-package-manager-bin
 electron: 34.5.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/aviutl-package-manager-bin
+  found_in: aviutl-package-manager-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

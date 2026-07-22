@@ -34,3 +34,9 @@ src: https://github.com/TTLApp/time-to-leave/archive/refs/tags/4.0.0.zip
 electron: 37.2.5
 method: src-package-lock
 electron_src: https://github.com/TTLApp/time-to-leave/archive/refs/tags/4.0.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/TTLApp/time-to-leave/archive/refs/tags/4.0.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/manusa/electronim/releases/download/v0.0.122/electronim-win-x64.msi
 - name: electronim-win-x64.zip
   url: https://github.com/manusa/electronim/releases/download/v0.0.122/electronim-win-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electronim-bin
+  found_in: electronim-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

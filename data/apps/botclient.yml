@@ -26,3 +26,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/latest.yml
 we_tried: we0:v0.12.1-alpha
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/botclient-bin
+  found_in: botclient-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

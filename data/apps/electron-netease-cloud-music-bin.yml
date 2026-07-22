@@ -15,3 +15,9 @@ downloads:
 electron: 35.0.1
 method: src-yarn-lock
 electron_src: https://github.com/Rocket1184/electron-netease-cloud-music/archive/refs/tags/v0.9.40.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Rocket1184/electron-netease-cloud-music/archive/refs/tags/v0.9.40.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

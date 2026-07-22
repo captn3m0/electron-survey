@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/WickyPlays/pip-player/releases/download/release-1.2.1/PIP-Player-Setup-1.2.1.exe
 - name: PIP-Player.1.2.1.exe
   url: https://github.com/WickyPlays/pip-player/releases/download/release-1.2.1/PIP-Player.1.2.1.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pip-player-git
+  found_in: pip-player-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

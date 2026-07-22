@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/MarshallChang/Manyi-transformer/releases/download/v1.2.0/Manyi-Transformer-Setup-1.2.0.exe.blockmap
 - name: Manyi.Transformer-1.2.0-mac.zip.blockmap
   url: https://github.com/MarshallChang/Manyi-transformer/releases/download/v1.2.0/Manyi.Transformer-1.2.0-mac.zip.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/manyi-transformer
+  found_in: manyi-transformer
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

@@ -21,3 +21,9 @@ electron: 35.7.5
 method: src-range-guess
 electron_src: https://github.com/Sinedka/aniparser/archive/refs/tags/v0.4.1.zip
 we_tried: we0:v0.4.1
+evidence:
+  kind: manifest
+  source: https://github.com/Sinedka/aniparser/archive/refs/tags/v0.4.1.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

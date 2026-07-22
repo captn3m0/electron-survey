@@ -8,3 +8,8 @@ electron: 36.9.5
 method: aur-depends
 latest: 25.6.6
 src: https://github.com/0604hx/open-image-tiny/archive/refs/tags/25.6.6.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/open-image-tiny-git
+  found_in: open-image-tiny-git
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

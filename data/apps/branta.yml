@@ -14,3 +14,8 @@ downloads:
 - name: Branta-0.10.2.msi
   url: https://github.com/BrantaOps/core/releases/download/0.10.2/Branta-0.10.2.msi
 we_tried: we0:0.10.2
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/branta-bin
+  found_in: branta-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

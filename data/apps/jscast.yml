@@ -6,3 +6,8 @@ aur:
 - jscast-git
 electron: 11.5.0
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/jscast-git
+  found_in: jscast-git
+  signal: depends on electron11; reported as the newest 11.x release (11.5.0)

@@ -5,3 +5,8 @@ aur:
 - tiddlywiki-app-bin
 electron: 40.10.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tiddlywiki-app-bin
+  found_in: tiddlywiki-app-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

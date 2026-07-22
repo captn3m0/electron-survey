@@ -7,3 +7,8 @@ additionalAUR:
 - escrcpy-bin
 electron: 33.4.11
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/escrcpy
+  found_in: escrcpy
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

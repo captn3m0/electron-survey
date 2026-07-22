@@ -27,3 +27,9 @@ aur:
 homebrew: mjml-app
 name: MJML App
 electron_src: https://github.com/mjmlio/mjml-app/archive/refs/tags/v3.1.0-beta.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/mjmlio/mjml-app/archive/refs/tags/v3.1.0-beta.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

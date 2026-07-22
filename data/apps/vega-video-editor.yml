@@ -6,3 +6,8 @@ aur:
 - vega-video-editor
 electron: 13.6.9
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vega-video-editor
+  found_in: vega-video-editor
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

@@ -28,3 +28,9 @@ electron: 29.1.0
 method: src-package-lock
 name: Helios Launcher
 electron_src: https://github.com/dscalzi/HeliosLauncher/archive/refs/tags/v2.2.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/dscalzi/HeliosLauncher/archive/refs/tags/v2.2.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

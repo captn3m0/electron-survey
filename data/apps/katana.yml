@@ -12,3 +12,9 @@ aur:
 - katana
 name: Katana
 electron_src: https://github.com/bluegill/katana/archive/refs/tags/v1.4.4.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/bluegill/katana/archive/refs/tags/v1.4.4.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

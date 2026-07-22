@@ -24,3 +24,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/Owca525/animu/releases/download/v0.7.16/latest.yml
 we_tried: we0:v0.7.16
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/animu-bin
+  found_in: animu-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

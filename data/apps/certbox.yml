@@ -5,3 +5,8 @@ aur:
 - certbox-bin
 electron: 36.9.5
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/certbox-bin
+  found_in: certbox-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

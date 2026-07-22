@@ -5,3 +5,8 @@ aur:
 - fireblocks-recovery-utility-bin
 electron: 21.4.4
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/fireblocks-recovery-utility-bin
+  found_in: fireblocks-recovery-utility-bin
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

@@ -10,3 +10,9 @@ electron: 5.0.2
 method: src-package-lock
 name: PrettyEarth
 electron_src: https://github.com/evertdespiegeleer/PrettyEarth/archive/refs/tags/v1.0.4-beta.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/evertdespiegeleer/PrettyEarth/archive/refs/tags/v1.0.4-beta.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/Masayloblockly.Setup.2.0.0.exe
 - name: masayloblockly_2.0.0_amd64.deb
   url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/masayloblockly_2.0.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/masayloblockly-bin
+  found_in: masayloblockly-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player-1.4.0.dmg
 - name: Colony.Player.Setup.1.4.0.exe
   url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player.Setup.1.4.0.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/colony-player-bin
+  found_in: colony-player-bin
+  signal: depends on electron11; reported as the newest 11.x release (11.5.0)

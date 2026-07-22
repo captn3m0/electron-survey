@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/mikepruett3/owa-desktop/releases/download/v1.0.1/owa_desktop-1.0.1-full.nupkg
 - name: RELEASES
   url: https://github.com/mikepruett3/owa-desktop/releases/download/v1.0.1/RELEASES
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/owa-desktop-bin
+  found_in: owa-desktop-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

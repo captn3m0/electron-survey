@@ -14,3 +14,8 @@ downloads:
 - name: albumate-0.1.0.AppImage
   url: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0.AppImage
 we_tried: we0:0.1.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/albumate-bin
+  found_in: albumate-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

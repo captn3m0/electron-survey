@@ -99,3 +99,9 @@ packages:
   arch: arm64
 name: MarkText
 electron_src: https://github.com/marktext/marktext/archive/refs/tags/v0.19.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/marktext/marktext/archive/refs/tags/v0.19.1.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

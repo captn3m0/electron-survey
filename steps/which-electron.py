@@ -58,6 +58,10 @@ _MAX_BYTES = _MAX_MB * 1024 * 1024
 _DEADLINE_SECONDS = int(os.environ.get("WHICH_ELECTRON_DEADLINE_SECONDS", "0"))
 _START = time.monotonic()
 
+# Re-claim apps this processor already resolved but for which it never recorded
+# *which* artefact answered (see matches()). Opt-in: WHICH_ELECTRON_BACKFILL_EVIDENCE=1.
+_BACKFILL_EVIDENCE = os.environ.get("WHICH_ELECTRON_BACKFILL_EVIDENCE") == "1"
+
 
 def _past_deadline() -> bool:
     return _DEADLINE_SECONDS > 0 and time.monotonic() - _START >= _DEADLINE_SECONDS
@@ -284,7 +288,17 @@ def matches(entry: dict[str, Any]) -> bool:
         return False
     electron = entry.get("electron")
     if electron and entry.get("method") not in _LOW_CONFIDENCE_METHODS:
-        return False  # already resolved by an exact/authoritative method
+        # Already resolved by an exact/authoritative method. Opting in re-claims
+        # the ones this processor resolved before it recorded which artefact
+        # answered, so the provenance shown on the site can be filled in — and,
+        # as a side effect, their version re-read from the current binary.
+        # Off by default: it competes with genuinely unresolved apps for the
+        # daily download budget.
+        if not (_BACKFILL_EVIDENCE
+                and str(entry.get("method", "")).startswith("which-electron")
+                and not entry.get("evidence")):
+            return False
+        return True
     # Skip artefacts we already fingerprinted at their current release.
     return entry.get("we_tried") != _signature(entry)
 
@@ -319,7 +333,18 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         method = result.get("method") or "which-electron"
         version = str(version).lstrip("v")
         log.info("[%s] electron %s detected via which-electron/%s on %s", app_id, version, method, url)
-        return {"electron": version, "method": f"which-electron-{method}"}
+        signals = result.get("signals") or []
+        return {
+            "electron": version,
+            "method": f"which-electron-{method}",
+            "evidence": {
+                "kind": "binary",
+                "source": url,
+                "found_in": url.rsplit("/", 1)[-1],
+                "signal": f"which-electron {method} signal"
+                          + (f" ({len(signals)} signals agreed)" if len(signals) > 1 else ""),
+            },
+        }
 
     # Only retire the app once *every* candidate has actually been inspected.
     # Marking it checked while some artefact failed to download retires it on

@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/ArrushC/Titan/releases/download/v2.0.4/Titan-Setup-2.0.4.exe
 - name: Titan-Setup-2.0.4.exe.blockmap
   url: https://github.com/ArrushC/Titan/releases/download/v2.0.4/Titan-Setup-2.0.4.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/titan-rcs-git
+  found_in: titan-rcs-git
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

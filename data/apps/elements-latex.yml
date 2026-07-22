@@ -11,3 +11,8 @@ src: https://github.com/Red-Rapious/Elements-LaTeX/archive/refs/tags/v0.0.3-stab
 downloads:
 - name: elements-latex-0.0.3-mac.zip.dmg
   url: https://github.com/agroudiev/Elements-LaTeX/releases/download/v0.0.3-stable/elements-latex-0.0.3-mac.zip.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/elements-latex
+  found_in: elements-latex
+  signal: depends on electron18; reported as the newest 18.x release (18.3.15)

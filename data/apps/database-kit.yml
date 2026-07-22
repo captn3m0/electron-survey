@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/zhuyongqi-master/database-kit/releases/download/0.0.2/database-kit-darwin-arm64-0.0.0.zip
 - name: database-kit-win32-x64-0.0.0.zip
   url: https://github.com/zhuyongqi-master/database-kit/releases/download/0.0.2/database-kit-win32-x64-0.0.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/database-kit-git
+  found_in: database-kit-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

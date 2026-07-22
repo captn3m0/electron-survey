@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10.dmg.blockmap
 - name: rotion_1.0.10_amd64.deb
   url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion_1.0.10_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/rotion-bin
+  found_in: rotion-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

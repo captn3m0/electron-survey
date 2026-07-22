@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Windows-0.0.7-Setup.exe
 - name: MMImage-Windows-0.0.7-Setup.exe.blockmap
   url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Windows-0.0.7-Setup.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mmimage-git
+  found_in: mmimage-git
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

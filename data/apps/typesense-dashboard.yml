@@ -27,3 +27,9 @@ downloads:
 electron: 39.2.7
 method: src-package-lock
 electron_src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

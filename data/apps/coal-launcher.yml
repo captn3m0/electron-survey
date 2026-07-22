@@ -5,3 +5,8 @@ aur:
 - coal-launcher-bin
 electron: 22.3.27
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/coal-launcher-bin
+  found_in: coal-launcher-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

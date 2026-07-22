@@ -11,3 +11,8 @@ src: https://github.com/Pimentoso/mini4wdchrono/archive/refs/tags/v0.18.2.zip
 downloads:
 - name: Mini4wdChrono-windows-x64.zip
   url: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.18.2/Mini4wdChrono-windows-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mini4wdchrono-bin
+  found_in: mini4wdchrono-bin
+  signal: depends on electron9; reported as the newest 9.x release (9.4.4)

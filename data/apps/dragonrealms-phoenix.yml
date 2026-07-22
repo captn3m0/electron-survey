@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-mac-x64.dmg
 - name: phoenix-v1.35.0-win-x64.exe
   url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-win-x64.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dragonrealms-phoenix-bin
+  found_in: dragonrealms-phoenix-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

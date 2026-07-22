@@ -28,3 +28,9 @@ aur:
 - merge-request-notifier
 name: Merge Request Notifier
 electron_src: https://github.com/codecentric/merge-request-notifier/archive/refs/tags/v1.9.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/codecentric/merge-request-notifier/archive/refs/tags/v1.9.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

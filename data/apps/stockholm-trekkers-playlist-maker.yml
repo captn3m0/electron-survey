@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/VenaStrom/Stockholm-Trekkers-Playlist-Maker/releases/download/v3.0.9/stockholm-trekkers-playlist-maker_3.0.9_amd64.deb
 - name: Stockholm.Trekkers.Playlist.Maker.Setup.3.0.9.exe
   url: https://github.com/VenaStrom/Stockholm-Trekkers-Playlist-Maker/releases/download/v3.0.9/Stockholm.Trekkers.Playlist.Maker.Setup.3.0.9.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/stockholm-trekkers-playlist-maker-bin
+  found_in: stockholm-trekkers-playlist-maker-bin
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

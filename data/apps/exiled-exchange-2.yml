@@ -5,3 +5,8 @@ aur:
 - exiled-exchange-2-bin
 electron: 31.7.7
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/exiled-exchange-2-bin
+  found_in: exiled-exchange-2-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

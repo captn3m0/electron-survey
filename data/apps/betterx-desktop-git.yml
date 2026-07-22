@@ -30,3 +30,8 @@ downloads:
 - name: BetterX.Desktop-x64.dmg
   url: https://github.com/Feur-Inc/BetterX/releases/download/2.1.2-beta/BetterX.Desktop-x64.dmg
 we_tried: we0:2.1.2-beta
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/betterx-desktop-bin
+  found_in: betterx-desktop-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

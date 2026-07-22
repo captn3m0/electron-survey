@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/4ch1m/huElectron/releases/download/0.6.1/huElectron-mas-x64-0.6.1.zip
 - name: huElectron-win32-x64-0.6.1.zip
   url: https://github.com/4ch1m/huElectron/releases/download/0.6.1/huElectron-win32-x64-0.6.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/huelectron-bin
+  found_in: huelectron-bin
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

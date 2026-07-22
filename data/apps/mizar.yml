@@ -37,3 +37,8 @@ downloads:
   url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-win.exe
 - name: Mizar-1.3.0-win.exe.blockmap
   url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-win.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mizar-bin
+  found_in: mizar-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

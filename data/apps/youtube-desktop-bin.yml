@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/YouTube.Desktop-darwin-x64-1.0.5.zip
 - name: youtube_desktop-1.0.5-full.nupkg
   url: https://github.com/mikepruett3/youtube-desktop/releases/download/v1.0.5/youtube_desktop-1.0.5-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/youtube-app-bin
+  found_in: youtube-app-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

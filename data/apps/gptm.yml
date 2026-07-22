@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/Technicalflight/Gptm/releases/download/v1.2/linux-artifacts.zip
 - name: mac-artifacts.zip
   url: https://github.com/Technicalflight/Gptm/releases/download/v1.2/mac-artifacts.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/gptm-bin
+  found_in: gptm-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

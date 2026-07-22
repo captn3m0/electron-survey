@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10.dmg
 - name: live++.Setup.2.3.10.exe
   url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B.Setup.2.3.10.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/live-plus-plus-bin
+  found_in: live-plus-plus-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

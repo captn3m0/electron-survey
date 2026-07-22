@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/ailtonloures/vscode-bookmark/releases/download/v1.1.3/VSCode.Bookmark-darwin-arm64-1.1.3.zip
 - name: vscode_bookmark-1.1.3-full.nupkg
   url: https://github.com/ailtonloures/vscode-bookmark/releases/download/v1.1.3/vscode_bookmark-1.1.3-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vscode-bookmark-bin
+  found_in: vscode-bookmark-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

@@ -16,3 +16,9 @@ electron: 10.4.7
 method: src-range-guess
 name: ImageShrinker
 electron_src: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip
+evidence:
+  kind: manifest
+  source: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

@@ -10,3 +10,9 @@ electron: 7.3.3
 method: src-range-guess
 name: Final-Countdown
 electron_src: https://github.com/hunterphillips/countdown/archive/refs/tags/2.0.0.zip
+evidence:
+  kind: manifest
+  source: https://github.com/hunterphillips/countdown/archive/refs/tags/2.0.0.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

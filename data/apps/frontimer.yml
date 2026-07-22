@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/latest-linux.yml
 - name: latest.yml
   url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/frontimer
+  found_in: frontimer
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

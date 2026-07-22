@@ -41,3 +41,8 @@ downloads:
   url: https://github.com/CodyTseng/jumble/releases/download/v26.7.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/CodyTseng/jumble/releases/download/v26.7.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/jumble-bin
+  found_in: jumble-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

@@ -15,3 +15,8 @@ aur:
 electron: 4.2.12
 method: aur-depends
 name: LoT - Lot of Things
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/visualfamilytree-bin
+  found_in: visualfamilytree-bin
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-win-x64-0.11.0.exe.blockmap
 - name: ONote-win-x64-0.11.0.zip
   url: https://github.com/pansinm/ONote/releases/download/v0.11.0/ONote-win-x64-0.11.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/onote-bin
+  found_in: onote-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

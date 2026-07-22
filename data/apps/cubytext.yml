@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-win32-x64.zip
 - name: cubytext_0.0.4_amd64.deb
   url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/cubytext_0.0.4_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cubytext-bin
+  found_in: cubytext-bin
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

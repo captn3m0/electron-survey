@@ -17,3 +17,9 @@ downloads:
 packages: []
 name: Responsively App
 electron_src: https://github.com/responsively-org/responsively-app/archive/refs/tags/v1.18.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/responsively-org/responsively-app/archive/refs/tags/v1.18.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

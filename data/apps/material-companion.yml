@@ -22,3 +22,9 @@ downloads:
 electron: 28.2.3
 method: src-package-lock
 electron_src: https://github.com/MaterialFoundry/MaterialCompanion/archive/refs/tags/v1.0.4.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/MaterialFoundry/MaterialCompanion/archive/refs/tags/v1.0.4.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

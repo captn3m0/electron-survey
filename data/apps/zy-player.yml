@@ -44,3 +44,9 @@ src: https://github.com/Hunlongyu/ZY-Player/archive/refs/tags/v2.8.8.zip
 electron: 13.6.9
 method: src-package-lock
 electron_src: https://github.com/Hunlongyu/ZY-Player/archive/refs/tags/v2.8.8.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Hunlongyu/ZY-Player/archive/refs/tags/v2.8.8.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

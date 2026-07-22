@@ -69,3 +69,9 @@ aur:
 homebrew: tropy
 name: Tropy
 electron_src: https://github.com/tropy/tropy/archive/refs/tags/v1.17.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/tropy/tropy/archive/refs/tags/v1.17.3.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

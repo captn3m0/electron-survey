@@ -5,3 +5,8 @@ aur:
 - seanime-denshi-git
 electron: 42.7.0
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/seanime-denshi-git
+  found_in: seanime-denshi-git
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

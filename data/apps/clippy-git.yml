@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-win32-x64-0.4.3.zip
 - name: clippy_0.4.3_amd64.deb
   url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/clippy_0.4.3_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/clippy-bin
+  found_in: clippy-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

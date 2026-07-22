@@ -14,3 +14,8 @@ downloads:
 - name: alpha-badger-darwin-x64-0.4.1.zip
   url: https://github.com/NoamRa/alpha-badger/releases/download/v0.4.1/alpha-badger-darwin-x64-0.4.1.zip
 we_tried: we0:v0.4.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/alpha-badger
+  found_in: alpha-badger
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

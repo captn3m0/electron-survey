@@ -5,3 +5,8 @@ aur:
 - ai-gate
 electron: 34.5.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ai-gate
+  found_in: ai-gate
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

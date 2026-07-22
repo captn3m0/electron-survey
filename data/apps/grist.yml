@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.13/latest-linux.yml
 - name: latest.yml
   url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.13/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/grist-desktop
+  found_in: grist-desktop
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

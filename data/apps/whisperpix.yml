@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/WhisperPix.Setup.1.1.0.exe
 - name: whisperpix_1.1.0_amd64.deb
   url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/whisperpix_1.1.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/whisperpix-bin
+  found_in: whisperpix-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

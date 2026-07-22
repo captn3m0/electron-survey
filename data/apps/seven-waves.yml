@@ -13,3 +13,8 @@ src: https://github.com/Togohogo1/7-Waves/archive/refs/tags/v1.2.0.zip
 downloads:
 - name: 7.Waves.Setup.1.2.0.zip
   url: https://github.com/kwangzera/7-Waves/releases/download/v1.2.0/7.Waves.Setup.1.2.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/seven-waves
+  found_in: seven-waves
+  signal: depends on electron9; reported as the newest 9.x release (9.4.4)

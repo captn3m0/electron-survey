@@ -26,3 +26,8 @@ downloads:
   url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Windows_x86-64_FFBoxService%2BwebUI_5.4.zip
 - name: Windows_x86-64_FFBox_5.4.exe
   url: https://github.com/ttqftech/FFBox/releases/download/v5.4/Windows_x86-64_FFBox_5.4.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ffbox
+  found_in: ffbox
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

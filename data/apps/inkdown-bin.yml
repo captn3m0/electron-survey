@@ -16,3 +16,8 @@ electron: 35.7.5
 method: aur-depends
 latest: v2.0.1
 src: https://github.com/1943time/inkdown/archive/refs/tags/v2.0.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/inkdown
+  found_in: inkdown
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

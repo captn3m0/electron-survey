@@ -50,3 +50,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/latest.yml
 we_tried: we0:v0.4.8
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/binggpt-ee-bin
+  found_in: binggpt-ee-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

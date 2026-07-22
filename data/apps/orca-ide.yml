@@ -5,3 +5,8 @@ aur:
 - orca-ide-bin
 electron: 43.1.1
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/orca-ide-bin
+  found_in: orca-ide-bin
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

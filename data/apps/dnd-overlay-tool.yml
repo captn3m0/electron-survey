@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/Jasonizl/dnd-overlay-tool/releases/download/v0.5.2/dnd-overlay-tool-win32-x64.7z
 - name: dnd-overlay-tool-win32-x64.bundled.7z
   url: https://github.com/Jasonizl/dnd-overlay-tool/releases/download/v0.5.2/dnd-overlay-tool-win32-x64.bundled.7z
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dnd-overlay-tool-git
+  found_in: dnd-overlay-tool-git
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

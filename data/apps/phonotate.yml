@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/LoganRickert/Phonotate.App/releases/download/1.0.5/PhonotateApp.Setup.1.0.5.exe
 - name: phonotate_1.0.5_arm64.deb
   url: https://github.com/LoganRickert/Phonotate.App/releases/download/1.0.5/phonotate_1.0.5_arm64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/phonotate-git
+  found_in: phonotate-git
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

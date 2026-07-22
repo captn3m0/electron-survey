@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/Lukylix/Chrolog-Legacy/releases/download/v1.8.3/chrolog-1.8.3-win.zip
 - name: chrolog_1.8.3_amd64.deb
   url: https://github.com/Lukylix/Chrolog-Legacy/releases/download/v1.8.3/chrolog_1.8.3_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/chrolog-bin
+  found_in: chrolog-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

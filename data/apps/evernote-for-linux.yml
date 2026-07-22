@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/search5/Evernote-for-Linux/releases/download/v10.60.4-linux-ddl-ga-stable/evernote-client-10.60.4-stable-rocky8.amd64.rpm
 - name: evernote-client_10.60.4-stable_amd64.deb
   url: https://github.com/search5/Evernote-for-Linux/releases/download/v10.60.4-linux-ddl-ga-stable/evernote-client_10.60.4-stable_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/evernote-for-linux-bin
+  found_in: evernote-for-linux-bin
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/hunter-ji/RedisFish/releases/download/v1.0.2/RedisFish-1.0.2.AppImage
 - name: RedisFish-1.0.2.dmg
   url: https://github.com/hunter-ji/RedisFish/releases/download/v1.0.2/RedisFish-1.0.2.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/redisfish-bin
+  found_in: redisfish-bin
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

@@ -13,3 +13,8 @@ src: https://github.com/novrain/wavy/archive/refs/tags/1.1.3.zip
 downloads:
 - name: Wavy-1.1.3-x64.dmg
   url: https://github.com/novrain/wavy/releases/download/1.1.3/Wavy-1.1.3-x64.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wavy-bin
+  found_in: wavy-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

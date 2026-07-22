@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/thomasheckmann/zxinfo-file-browser/releases/download/v1.2.5-final/zxinfo-file-browser-1.2.5-final.AppImage
 - name: zxinfo-file-browser.1.2.5-final.exe
   url: https://github.com/thomasheckmann/zxinfo-file-browser/releases/download/v1.2.5-final/zxinfo-file-browser.1.2.5-final.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/zxinfo-file-browser-bin
+  found_in: zxinfo-file-browser-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

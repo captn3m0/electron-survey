@@ -57,3 +57,8 @@ downloads:
   url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/echoplayer-bin
+  found_in: echoplayer-bin
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

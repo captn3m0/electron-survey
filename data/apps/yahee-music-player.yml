@@ -6,3 +6,8 @@ aur:
 - yahee-music-player-git
 electron: 35.7.5
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/yahee-music-player-git
+  found_in: yahee-music-player-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

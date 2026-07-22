@@ -38,3 +38,9 @@ packages:
   arch: arm64
 name: Laravel Kit
 electron_src: https://github.com/tmdh/laravel-kit/archive/refs/tags/v2.0.9.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/tmdh/laravel-kit/archive/refs/tags/v2.0.9.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

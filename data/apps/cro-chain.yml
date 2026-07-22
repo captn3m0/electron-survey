@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cro-chain-desktop
+  found_in: cro-chain-desktop
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

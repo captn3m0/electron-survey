@@ -20,3 +20,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/latest.yml
 we_tried: we0:v3.2.2
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bilibili-manga-downloader-bin
+  found_in: bilibili-manga-downloader-bin
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

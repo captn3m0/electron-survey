@@ -39,3 +39,8 @@ downloads:
   url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-Setup-2.23.0.exe
 - name: WowUp-Setup-2.23.0.exe.blockmap
   url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-Setup-2.23.0.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wowup-native
+  found_in: wowup-native
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

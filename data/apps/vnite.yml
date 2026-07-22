@@ -5,3 +5,8 @@ aur:
 - vnite-git
 electron: 35.7.5
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vnite-git
+  found_in: vnite-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

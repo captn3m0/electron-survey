@@ -11,3 +11,8 @@ src: https://github.com/andrew-meis/hex-music-player-2.0/archive/refs/tags/v1.0.
 downloads:
 - name: hex-music-player-2.0-1.0.0-setup.exe
   url: https://github.com/andrew-meis/hex-music-player-2.0/releases/download/v1.0.0/hex-music-player-2.0-1.0.0-setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/hex-music-player
+  found_in: hex-music-player
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

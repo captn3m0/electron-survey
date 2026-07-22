@@ -29,3 +29,8 @@ downloads:
   url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-Setup-0.16.0.exe.blockmap
 - name: rekordfix_0.16.0_amd64.deb
   url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/rekordfix_0.16.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/rekordfix-bin
+  found_in: rekordfix-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

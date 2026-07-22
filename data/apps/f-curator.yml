@@ -12,3 +12,9 @@ electron: 16.0.6
 method: src-package-lock
 name: F-Curator
 electron_src: https://github.com/xizon/F-Curator/archive/refs/tags/v1.3.7.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/xizon/F-Curator/archive/refs/tags/v1.3.7.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

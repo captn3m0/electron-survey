@@ -38,3 +38,9 @@ downloads:
 electron: 16.0.6
 method: src-package-json
 electron_src: https://github.com/zenghongtu/PPet/archive/refs/tags/v3.3.0.zip
+evidence:
+  kind: manifest
+  source: https://github.com/zenghongtu/PPet/archive/refs/tags/v3.3.0.zip
+  found_in: package.json
+  signal: electron pinned to an exact version in package.json
+  reconstructed: true

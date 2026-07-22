@@ -53,3 +53,9 @@ aur:
 - frame-eth-git
 name: Frame
 electron_src: https://github.com/floating/frame/archive/refs/tags/v0.6.11.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/floating/frame/archive/refs/tags/v0.6.11.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -18,3 +18,9 @@ downloads:
 electron: 35.7.5
 method: src-yarn-lock
 electron_src: https://github.com/donn/nudelta/archive/refs/tags/0.10.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/donn/nudelta/archive/refs/tags/0.10.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

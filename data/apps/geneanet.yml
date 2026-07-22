@@ -5,3 +5,8 @@ aur:
 - geneanet
 electron: 9.4.4
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/geneanet
+  found_in: geneanet
+  signal: depends on electron9; reported as the newest 9.x release (9.4.4)

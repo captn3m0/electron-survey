@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/VSCodius-Linux-x64-1.98.2.zip
 - name: VSCodius-Win32-x64-1.98.2.zip
   url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/VSCodius-Win32-x64-1.98.2.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vscodius-bin
+  found_in: vscodius-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

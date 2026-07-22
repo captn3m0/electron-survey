@@ -11,3 +11,8 @@ src: https://github.com/MR-MKZ/Freecord/archive/refs/tags/v1.0.0-beta.zip
 downloads:
 - name: Freecord-win32-x64-1.0.0-beta.zip
   url: https://github.com/MR-MKZ/Freecord/releases/download/v1.0.0-beta/Freecord-win32-x64-1.0.0-beta.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/freecord-git
+  found_in: freecord-git
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

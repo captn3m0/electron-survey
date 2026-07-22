@@ -14,3 +14,9 @@ electron: 9.4.0
 method: src-package-lock
 name: Protoman
 electron_src: https://github.com/spluxx/protoman/archive/refs/tags/v0.4.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/spluxx/protoman/archive/refs/tags/v0.4.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

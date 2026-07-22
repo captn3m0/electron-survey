@@ -26,3 +26,9 @@ aur:
 - vitomu
 name: Dopamine
 electron_src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.7.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.7.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

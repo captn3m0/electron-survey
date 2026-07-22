@@ -34,3 +34,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/latest.yml
 we_tried: we0:v1.3.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/blix-bin
+  found_in: blix-bin
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

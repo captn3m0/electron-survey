@@ -69,3 +69,8 @@ downloads:
   checksum: 52812118cb5656cf940393714bd4216d0257ea4b5a9b3b971edbfe7d81240a64
 - name: media-hoarder-1.5.4-win-x64-setup.exe.sha256
   url: https://github.com/theMK2k/Media-Hoarder/releases/download/v1.5.4/media-hoarder-1.5.4-win-x64-setup.exe.sha256
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/media-hoarder-bin
+  found_in: media-hoarder-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

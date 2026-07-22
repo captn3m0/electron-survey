@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/maxgfr/desktop-notifier/releases/download/0.0.8/Desktop.Notifier-0.0.7.AppImage
 - name: Desktop.Notifier.Setup.0.0.7.exe
   url: https://github.com/maxgfr/desktop-notifier/releases/download/0.0.8/Desktop.Notifier.Setup.0.0.7.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/desktop-notifier-bin
+  found_in: desktop-notifier-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

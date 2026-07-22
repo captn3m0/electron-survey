@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation-linux-2.0.5.AppImage
 - name: spx-translation_2.0.5_amd64.deb
   url: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation_2.0.5_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/spx-translation
+  found_in: spx-translation
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

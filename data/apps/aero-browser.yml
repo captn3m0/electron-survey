@@ -8,3 +8,8 @@ additionalAUR:
 - aero-browser-git
 electron: 23.3.13
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/aero-browser
+  found_in: aero-browser
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

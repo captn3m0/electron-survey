@@ -22,3 +22,9 @@ electron: 7.2.4
 method: src-package-lock
 name: Oversetter
 electron_src: https://github.com/4gray/oversetter/archive/refs/tags/v0.4.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/4gray/oversetter/archive/refs/tags/v0.4.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -7,3 +7,8 @@ aur:
 electron: 27.3.11
 method: aur-depends
 name: Station
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/station-bin
+  found_in: station-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

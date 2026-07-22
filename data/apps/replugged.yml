@@ -11,3 +11,8 @@ src: https://github.com/replugged-org/replugged/archive/refs/tags/v4.11.4.zip
 downloads:
 - name: replugged.asar
   url: https://github.com/replugged-org/replugged/releases/download/v4.11.4/replugged.asar
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/replugged-electron-git
+  found_in: replugged-electron-git
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

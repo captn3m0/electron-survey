@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/matzkoh/niconizer/releases/download/v2.0.155/niconizer-linux-x64.zip
 - name: niconizer-win32-x64.zip
   url: https://github.com/matzkoh/niconizer/releases/download/v2.0.155/niconizer-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/niconizer-bin
+  found_in: niconizer-bin
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

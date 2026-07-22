@@ -40,3 +40,9 @@ packages:
   arch: arm64
 name: Camunda Modeler
 electron_src: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.49.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.49.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

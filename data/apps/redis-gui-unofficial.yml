@@ -41,3 +41,9 @@ packages:
   os: linux
   arch: x64
 electron_src: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.3.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.3.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

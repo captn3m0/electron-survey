@@ -18,3 +18,9 @@ aur:
 - silex-desktop-bin
 name: Silex website builder
 electron_src: https://github.com/silexlabs/silex-desktop/archive/refs/tags/v2.7.30.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/silexlabs/silex-desktop/archive/refs/tags/v2.7.30.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

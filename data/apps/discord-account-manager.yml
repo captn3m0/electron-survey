@@ -11,3 +11,8 @@ src: https://github.com/Bherl1/DiscordAccMgr/archive/refs/tags/v1.5.6.zip
 downloads:
 - name: DiscordAccManager-Setup.exe
   url: https://github.com/Bherl1/DiscordAccMgr/releases/download/v1.5.6/DiscordAccManager-Setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/discord-account-manager-git
+  found_in: discord-account-manager-git
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

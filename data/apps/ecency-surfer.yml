@@ -5,3 +5,8 @@ aur:
 - ecency-surfer-bin
 electron: 25.9.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ecency-surfer-bin
+  found_in: ecency-surfer-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

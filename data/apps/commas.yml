@@ -16,3 +16,8 @@ downloads:
   url: https://github.com/CyanSalt/commas/releases/download/v0.39.4/Commas-darwin-arm64.zip
 - name: Commas-darwin-x64.zip
   url: https://github.com/CyanSalt/commas/releases/download/v0.39.4/Commas-darwin-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/commas
+  found_in: commas
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/KartoffelChipss/HexPick/releases/download/v1.0.1/hexpick-1.0.1.deb
 - name: hexpick-1.0.1.snap
   url: https://github.com/KartoffelChipss/HexPick/releases/download/v1.0.1/hexpick-1.0.1.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/hexpick-bin
+  found_in: hexpick-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

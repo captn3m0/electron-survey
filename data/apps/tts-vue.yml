@@ -22,3 +22,8 @@ downloads:
   url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-macos-latest.zip
 - name: tts-vue-windows-latest.zip
   url: https://github.com/LokerL/tts-vue/releases/download/1.9.15/tts-vue-windows-latest.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tts-vue
+  found_in: tts-vue
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

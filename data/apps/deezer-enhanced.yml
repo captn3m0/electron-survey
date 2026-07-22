@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/duzda/deezer-enhanced/releases/download/v1.5.1/deezer-enhanced_1.5.1_amd64.deb
 - name: Deezer.Enhanced-1.5.1-x64.AppImage
   url: https://github.com/duzda/deezer-enhanced/releases/download/v1.5.1/Deezer.Enhanced-1.5.1-x64.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/deezer-enhanced
+  found_in: deezer-enhanced
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

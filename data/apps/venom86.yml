@@ -33,3 +33,8 @@ downloads:
   url: https://github.com/Qrodex/venom86/releases/download/v1.0.3/venom86_1.0.3_amd64.deb
 - name: venom86_1.0.3_amd64.snap
   url: https://github.com/Qrodex/venom86/releases/download/v1.0.3/venom86_1.0.3_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/venom86-bin
+  found_in: venom86-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

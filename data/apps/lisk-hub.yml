@@ -46,3 +46,9 @@ aur:
 - lisk-desktop-bin
 name: Lisk Hub
 electron_src: https://github.com/LiskHQ/lisk-hub/archive/refs/tags/v4.0.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/LiskHQ/lisk-hub/archive/refs/tags/v4.0.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

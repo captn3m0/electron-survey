@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/jts-hud-7.13.26-unpacked.zip
 - name: latest.yml
   url: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/jts-hud-manager-git
+  found_in: jts-hud-manager-git
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

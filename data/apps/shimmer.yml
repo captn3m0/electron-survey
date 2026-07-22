@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/Akashonbeats/Shimmer/releases/download/v3.0.0/Shimmer.v3.0.0.Intel.dmg
 - name: Shimmer.v3.0.0.Windows.exe
   url: https://github.com/Akashonbeats/Shimmer/releases/download/v3.0.0/Shimmer.v3.0.0.Windows.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/shimmer-git
+  found_in: shimmer-git
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

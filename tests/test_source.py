@@ -18,13 +18,13 @@ def _write(tmp_path, name, text):
 def test_package_lock_v3_packages(tmp_path):
     p = _write(tmp_path, "package-lock.json",
                '{"packages": {"node_modules/electron": {"version": "22.3.1"}}}')
-    assert source._electron_from_package_lock([p]) == "22.3.1"
+    assert source._electron_from_package_lock([p]) == ("22.3.1", p)
 
 
 def test_package_lock_v1_dependencies(tmp_path):
     p = _write(tmp_path, "package-lock.json",
                '{"dependencies": {"electron": {"version": "18.0.4"}}}')
-    assert source._electron_from_package_lock([p]) == "18.0.4"
+    assert source._electron_from_package_lock([p]) == ("18.0.4", p)
 
 
 def test_package_lock_no_electron(tmp_path):
@@ -37,7 +37,7 @@ def test_package_lock_malformed_is_skipped(tmp_path):
     bad = _write(tmp_path, "a.json", "{not json")
     good = _write(tmp_path, "b.json",
                   '{"dependencies": {"electron": {"version": "9.4.4"}}}')
-    assert source._electron_from_package_lock([bad, good]) == "9.4.4"
+    assert source._electron_from_package_lock([bad, good]) == ("9.4.4", good)
 
 
 # --- yarn.lock -------------------------------------------------------------
@@ -45,13 +45,13 @@ def test_package_lock_malformed_is_skipped(tmp_path):
 def test_yarn_classic(tmp_path):
     p = _write(tmp_path, "yarn.lock",
                'electron@^20.0.0:\n  version "20.1.0"\n  resolved "x"\n')
-    assert source._electron_from_yarn_lock([p]) == "20.1.0"
+    assert source._electron_from_yarn_lock([p]) == ("20.1.0", p)
 
 
 def test_yarn_berry(tmp_path):
     p = _write(tmp_path, "yarn.lock",
                '"electron@npm:^24.0.0":\n  version: 24.1.2\n  resolution: "electron@npm:24.1.2"\n')
-    assert source._electron_from_yarn_lock([p]) == "24.1.2"
+    assert source._electron_from_yarn_lock([p]) == ("24.1.2", p)
 
 
 def test_yarn_ignores_electron_prefixed_packages(tmp_path):
@@ -66,19 +66,19 @@ def test_yarn_ignores_electron_prefixed_packages(tmp_path):
 def test_pnpm_v8_slash_key(tmp_path):
     p = _write(tmp_path, "pnpm-lock.yaml",
                "packages:\n  /electron/20.1.0:\n    resolution: {integrity: sha}\n")
-    assert source._electron_from_pnpm_lock([p]) == "20.1.0"
+    assert source._electron_from_pnpm_lock([p]) == ("20.1.0", p)
 
 
 def test_pnpm_v8_at_key(tmp_path):
     p = _write(tmp_path, "pnpm-lock.yaml",
                "packages:\n  /electron@27.0.2:\n    resolution: {integrity: sha}\n")
-    assert source._electron_from_pnpm_lock([p]) == "27.0.2"
+    assert source._electron_from_pnpm_lock([p]) == ("27.0.2", p)
 
 
 def test_pnpm_v9_snapshots(tmp_path):
     p = _write(tmp_path, "pnpm-lock.yaml",
                "snapshots:\n  electron@31.0.0: {}\n")
-    assert source._electron_from_pnpm_lock([p]) == "31.0.0"
+    assert source._electron_from_pnpm_lock([p]) == ("31.0.0", p)
 
 
 # --- package.json range ----------------------------------------------------
@@ -86,13 +86,13 @@ def test_pnpm_v9_snapshots(tmp_path):
 def test_package_json_devdep_range(tmp_path):
     p = _write(tmp_path, "package.json",
                '{"devDependencies": {"electron": "^20.0.0"}}')
-    assert source._electron_range_from_package_json([p]) == "^20.0.0"
+    assert source._electron_range_from_package_json([p]) == ("^20.0.0", p)
 
 
 def test_package_json_prefers_devdep_over_dep(tmp_path):
     p = _write(tmp_path, "package.json",
                '{"dependencies": {"electron": "1.0.0"}, "devDependencies": {"electron": "25.0.0"}}')
-    assert source._electron_range_from_package_json([p]) == "25.0.0"
+    assert source._electron_range_from_package_json([p]) == ("25.0.0", p)
 
 
 # --- range resolution ------------------------------------------------------
@@ -149,3 +149,23 @@ def test_matches_does_not_override_other_methods():
     assert source.matches(e) is False
     e2 = {"id": "x", "src": "u1", "electron": "39.8.3", "method": "aur-depends"}
     assert source.matches(e2) is False
+
+
+def test_lockfile_extractors_report_which_file_matched(tmp_path):
+    """Evidence needs the matching path, not just the version."""
+    lock = tmp_path / "app" / "package-lock.json"
+    lock.parent.mkdir()
+    lock.write_text('{"packages": {"node_modules/electron": {"version": "30.1.2"}}}')
+    assert source._electron_from_package_lock([lock]) == ("30.1.2", lock)
+
+
+def test_yarn_lock_extractor_reports_its_path(tmp_path):
+    lock = tmp_path / "yarn.lock"
+    lock.write_text('"electron@^28.0.0":\n  version "28.3.1"\n')
+    assert source._electron_from_yarn_lock([lock]) == ("28.3.1", lock)
+
+
+def test_package_json_extractor_reports_its_path(tmp_path):
+    manifest = tmp_path / "package.json"
+    manifest.write_text('{"devDependencies": {"electron": "^30.0.0"}}')
+    assert source._electron_range_from_package_json([manifest]) == ("^30.0.0", manifest)

@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/aasmart/Nudge/releases/download/v0.6.1/Nudge_0.6.1_amd64.snap
 homebrew: nudge
 we_tried: we1.2.1:v0.6.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nudge
+  found_in: nudge
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

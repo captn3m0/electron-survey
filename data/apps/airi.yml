@@ -15,3 +15,8 @@ downloads:
 - url: https://github.com/moeru-ai/airi/releases/download/v0.11.3/AIRI-0.11.3-darwin-arm64.dmg
   name: AIRI-0.11.3-darwin-arm64.dmg
   version: 0.11.3
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/airi-bin
+  found_in: airi-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

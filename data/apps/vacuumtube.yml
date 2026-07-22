@@ -50,3 +50,9 @@ downloads:
 electron: 42.5.0
 method: src-package-lock
 electron_src: https://github.com/shy1132/VacuumTube/archive/refs/tags/v1.8.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/shy1132/VacuumTube/archive/refs/tags/v1.8.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/XilinJia/Xilinota/releases/download/v2.15.1/XilinotaPortable.exe
 - name: Xilinota_release_2.15.1.apk
   url: https://github.com/XilinJia/Xilinota/releases/download/v2.15.1/Xilinota_release_2.15.1.apk
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/xilinota-bin
+  found_in: xilinota-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

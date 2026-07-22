@@ -36,7 +36,7 @@
   electron: 42.2.0
   major: 42
   age_label: 2mo ago
-  age_days: 63
+  age_days: 64
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -121,7 +121,7 @@ adrive:
   electron: 24.1.3
   major: 24
   age_label: 3y 3mo ago
-  age_days: 1182
+  age_days: 1183
   eol: true
   majors_behind: 19
   latest_in_major: 24.8.8
@@ -138,7 +138,7 @@ advanced-rest-client:
   electron: 17.1.0
   major: 17
   age_label: 4y 5mo ago
-  age_days: 1609
+  age_days: 1610
   eol: true
   majors_behind: 26
   latest_in_major: 17.4.11
@@ -164,7 +164,7 @@ aechoterm:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -223,7 +223,7 @@ affine:
   electron: 39.8.6
   major: 39
   age_label: 3mo ago
-  age_days: 111
+  age_days: 112
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -274,7 +274,7 @@ agora-flat:
   electron: 12.0.15
   major: 12
   age_label: 5y 1mo ago
-  age_days: 1832
+  age_days: 1833
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
@@ -300,7 +300,7 @@ ai-assistant-studio:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -393,7 +393,7 @@ aigcpanel:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -402,7 +402,7 @@ aigcpanel:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -461,7 +461,7 @@ aionui:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -521,7 +521,7 @@ airtame:
   chromium: 122.0.6261.70
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1059
   cves_total: 2077
@@ -538,7 +538,7 @@ akiflow:
   chromium: 144.0.7559.173
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -596,8 +596,8 @@ albumate:
 algermusicplayer:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -606,7 +606,7 @@ algermusicplayer:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -630,8 +630,8 @@ alice-ai:
 alicorn:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -640,7 +640,7 @@ alicorn:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -648,7 +648,7 @@ aliyunpan-gaozhangmin:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -657,7 +657,7 @@ aliyunpan-gaozhangmin:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -674,7 +674,7 @@ alpaca:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -699,7 +699,7 @@ alphabiz:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -708,7 +708,7 @@ alphabiz:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -716,7 +716,7 @@ altair-graphql-desktop:
   electron: 33.2.1
   major: 33
   age_label: 1y 8mo ago
-  age_days: 601
+  age_days: 602
   eol: true
   majors_behind: 10
   latest_in_major: 33.4.11
@@ -742,15 +742,15 @@ altair:
   chromium: 140.0.7339.240
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
 altarik-launcher:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -759,7 +759,7 @@ altarik-launcher:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -793,7 +793,7 @@ altus:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -835,7 +835,7 @@ amical:
   electron: 38.1.0
   major: 38
   age_label: 10mo ago
-  age_days: 314
+  age_days: 315
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -844,7 +844,7 @@ amical:
   chromium: 140.0.7339.80
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 857
   cves_total: 1752
@@ -861,7 +861,7 @@ amie:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -963,7 +963,7 @@ animathio:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -1031,7 +1031,7 @@ aniparser:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -1039,7 +1039,7 @@ aniship:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -1133,7 +1133,7 @@ anubias:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -1260,7 +1260,7 @@ apk-installer:
   electron: 10.4.7
   major: 10
   age_label: 5y 2mo ago
-  age_days: 1884
+  age_days: 1885
   eol: true
   majors_behind: 33
   latest_in_major: 10.4.7
@@ -1337,7 +1337,7 @@ archiver-app:
   chromium: 140.0.7339.240
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -1379,7 +1379,7 @@ ariang-native:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -1388,7 +1388,7 @@ ariang-native:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -1422,7 +1422,7 @@ assessment-disaggregation:
   chromium: 144.0.7559.60
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
@@ -1430,7 +1430,7 @@ astrofox:
   electron: 16.0.7
   major: 16
   age_label: 4y 7mo ago
-  age_days: 1652
+  age_days: 1653
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -1515,7 +1515,7 @@ atomic-wallet:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -1532,7 +1532,7 @@ atv-remote:
   electron: 33.2.1
   major: 33
   age_label: 1y 8mo ago
-  age_days: 601
+  age_days: 602
   eol: true
   majors_behind: 10
   latest_in_major: 33.4.11
@@ -1549,7 +1549,7 @@ audius-client:
   electron: 27.3.2
   major: 27
   age_label: 2y 5mo ago
-  age_days: 895
+  age_days: 896
   eol: true
   majors_behind: 16
   latest_in_major: 27.3.11
@@ -1600,7 +1600,7 @@ autocut-client:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -1609,7 +1609,7 @@ autocut-client:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -1617,7 +1617,7 @@ autographa:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -1626,15 +1626,15 @@ autographa:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
 autorecord-manager:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -1643,7 +1643,7 @@ autorecord-manager:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -1677,7 +1677,7 @@ awakened-poe-trade:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -1745,7 +1745,7 @@ azure-storage-explorer:
   chromium: 144.0.7559.220
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -1804,7 +1804,7 @@ baidu-translate-client:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -1838,7 +1838,7 @@ baiduwenku:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -1847,7 +1847,7 @@ baiduwenku:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -1906,7 +1906,7 @@ bar-lobby:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -1974,7 +1974,7 @@ batch-explorer:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -1983,7 +1983,7 @@ batch-explorer:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -2000,7 +2000,7 @@ battery:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -2008,7 +2008,7 @@ bbg-bin:
   electron: 40.10.2
   major: 40
   age_label: 1mo ago
-  age_days: 55
+  age_days: 56
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2017,7 +2017,7 @@ bbg-bin:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -2034,7 +2034,7 @@ bdash:
   chromium: 144.0.7559.177
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -2068,7 +2068,7 @@ beaker-ng:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -2102,7 +2102,7 @@ beaver-notes:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -2144,7 +2144,7 @@ before-dawn:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -2212,7 +2212,7 @@ better-osu-skills:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -2238,7 +2238,7 @@ betterdiscord-installer:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -2314,7 +2314,7 @@ bibisco:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -2340,7 +2340,7 @@ bili-liveluckdraw:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -2365,7 +2365,7 @@ bilibili-manga-downloader:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -2374,7 +2374,7 @@ bilibili-manga-downloader:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -2382,7 +2382,7 @@ bilibili-video-download:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -2534,8 +2534,8 @@ bitclient:
 bitshares-astro-ui:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2544,7 +2544,7 @@ bitshares-astro-ui:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -2619,8 +2619,8 @@ block-goose:
 blockbench:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2629,7 +2629,7 @@ blockbench:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -2637,7 +2637,7 @@ bloodhound:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -2705,7 +2705,7 @@ boats-animator:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -2714,7 +2714,7 @@ boats-animator:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -2739,7 +2739,7 @@ bookmarks-manager:
   electron: 15.5.7
   major: 15
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 28
   latest_in_major: 15.5.7
@@ -2756,7 +2756,7 @@ bookord:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -2765,7 +2765,7 @@ bookord:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -2782,7 +2782,7 @@ boost-changer:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -2807,7 +2807,7 @@ bootstrap-studio:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -2824,7 +2824,7 @@ borg-explorer:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -2833,7 +2833,7 @@ borg-explorer:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -2901,7 +2901,7 @@ botframework-emulator:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -2909,7 +2909,7 @@ botgem:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -2918,7 +2918,7 @@ botgem:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -2935,15 +2935,15 @@ boxhero:
   chromium: 144.0.7559.96
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
 boxplayer:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2952,15 +2952,15 @@ boxplayer:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
 bradtunes:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -2969,7 +2969,7 @@ bradtunes:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -3020,7 +3020,7 @@ brisqi:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -3164,7 +3164,7 @@ buka:
   electron: 1.6.3
   major: 1
   age_label: 9y 6mo ago
-  age_days: 3423
+  age_days: 3424
   eol: false
   majors_behind: 42
   latest_in_major: 1.8.8
@@ -3215,7 +3215,7 @@ buttercup:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -3224,7 +3224,7 @@ buttercup:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -3334,7 +3334,7 @@ caprine-ng:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -3343,7 +3343,7 @@ caprine-ng:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -3360,7 +3360,7 @@ caprine:
   chromium: 122.0.6261.57
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1059
   cves_total: 2077
@@ -3377,7 +3377,7 @@ caption:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -3419,7 +3419,7 @@ catalystplus:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -3428,7 +3428,7 @@ catalystplus:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -3453,7 +3453,7 @@ catlight:
   electron: 19.0.8
   major: 19
   age_label: 4y 1mo ago
-  age_days: 1476
+  age_days: 1477
   eol: true
   majors_behind: 24
   latest_in_major: 19.1.9
@@ -3479,7 +3479,7 @@ cbetar2:
   chromium: 144.0.7559.220
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -3496,7 +3496,7 @@ cc-map-editor:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -3513,7 +3513,7 @@ ccae:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -3615,7 +3615,7 @@ charta:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -3640,7 +3640,7 @@ chat2db:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -3649,7 +3649,7 @@ chat2db:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -3683,7 +3683,7 @@ chatbox:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -3751,7 +3751,7 @@ chatgptx:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -3768,7 +3768,7 @@ chatlab:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -3819,7 +3819,7 @@ chatterbox:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -3904,7 +3904,7 @@ chess:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -4047,8 +4047,8 @@ ciliterm:
 cinematic:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -4057,7 +4057,7 @@ cinematic:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -4166,8 +4166,8 @@ clawd-on-desk:
 clawx:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -4176,7 +4176,7 @@ clawx:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -4227,7 +4227,7 @@ clipharbor:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -4235,7 +4235,7 @@ clipper:
   electron: 8.5.2
   major: 8
   age_label: 5y 10mo ago
-  age_days: 2128
+  age_days: 2129
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -4295,7 +4295,7 @@ clippy-git:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -4303,7 +4303,7 @@ cliptext:
   electron: 7.2.4
   major: 7
   age_label: 6y 3mo ago
-  age_days: 2274
+  age_days: 2275
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -4346,7 +4346,7 @@ cloudpouch:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -4397,7 +4397,7 @@ cncjs:
   chromium: 108.0.5359.179
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -4405,7 +4405,7 @@ coal-launcher:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -4414,7 +4414,7 @@ coal-launcher:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -4422,7 +4422,7 @@ cocomusic:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -4557,8 +4557,8 @@ codex:
 cohesion:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -4575,7 +4575,7 @@ coinstac:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -4591,8 +4591,8 @@ coinstac:
 colanode:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -4601,7 +4601,7 @@ colanode:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -4609,7 +4609,7 @@ colony-player:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -4635,7 +4635,7 @@ colorpicker:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -4652,7 +4652,7 @@ colour-contrast-analyser:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -4720,7 +4720,7 @@ commas:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -4737,7 +4737,7 @@ compact-log-viewer:
   chromium: 108.0.5359.62
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1264
   cves_total: 2412
@@ -4745,7 +4745,7 @@ companion:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -4771,7 +4771,7 @@ compasscad:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -4779,7 +4779,7 @@ composercat:
   electron: 1.7.2
   major: 1
   age_label: 9y 3mo ago
-  age_days: 3343
+  age_days: 3344
   eol: false
   majors_behind: 42
   latest_in_major: 1.8.8
@@ -4788,7 +4788,7 @@ composercat:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -4813,7 +4813,7 @@ constl:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -4915,7 +4915,7 @@ cosbrowser:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -4983,7 +4983,7 @@ craze:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -4992,7 +4992,7 @@ craze:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -5017,7 +5017,7 @@ cribarth-music-player:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -5026,7 +5026,7 @@ cribarth-music-player:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -5085,7 +5085,7 @@ cryptoarm-gost:
   electron: 7.1.13
   major: 7
   age_label: 6y 6mo ago
-  age_days: 2343
+  age_days: 2344
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -5111,7 +5111,7 @@ csbooks:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -5237,8 +5237,8 @@ curseforge:
 cursor:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -5247,7 +5247,7 @@ cursor:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -5255,7 +5255,7 @@ cutrail:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -5323,7 +5323,7 @@ darkj:
   electron: 2.0.5
   major: 2
   age_label: 8y 1mo ago
-  age_days: 2930
+  age_days: 2931
   eol: true
   majors_behind: 41
   latest_in_major: 2.0.18
@@ -5340,7 +5340,7 @@ darkorbit-client:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -5373,8 +5373,8 @@ darkwrite:
 dartsmate:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -5383,7 +5383,7 @@ dartsmate:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -5451,7 +5451,7 @@ data-peek:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -5493,7 +5493,7 @@ data-works:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -5502,7 +5502,7 @@ data-works:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -5604,7 +5604,7 @@ dbgate:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -5680,7 +5680,7 @@ deckboard:
   electron: 29.1.6
   major: 29
   age_label: 2y 4mo ago
-  age_days: 846
+  age_days: 847
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -5689,7 +5689,7 @@ deckboard:
   chromium: 122.0.6261.139
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -5748,7 +5748,7 @@ deepchat:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -5850,7 +5850,7 @@ deezer-enhanced:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -5918,7 +5918,7 @@ deskaide:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -5927,7 +5927,7 @@ deskaide:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -5944,7 +5944,7 @@ deskcal:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -5969,7 +5969,7 @@ desktop-naotu:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -6003,7 +6003,7 @@ desktop-schedule:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -6088,7 +6088,7 @@ devkinsta:
   electron: 26.6.1
   major: 26
   age_label: 2y 8mo ago
-  age_days: 972
+  age_days: 973
   eol: true
   majors_behind: 17
   latest_in_major: 26.6.10
@@ -6121,8 +6121,8 @@ devkitty:
 dhis2-downloader:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -6131,7 +6131,7 @@ dhis2-downloader:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -6156,7 +6156,7 @@ dialpad:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -6207,7 +6207,7 @@ dida-bin:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -6224,7 +6224,7 @@ differon:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -6233,7 +6233,7 @@ differon:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -6258,7 +6258,7 @@ discord-account-manager:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -6267,7 +6267,7 @@ discord-account-manager:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -6309,7 +6309,7 @@ distributionz:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -6318,7 +6318,7 @@ distributionz:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -6326,7 +6326,7 @@ ditto:
   electron: 13.1.7
   major: 13
   age_label: 5y 1mo ago
-  age_days: 1832
+  age_days: 1833
   eol: true
   majors_behind: 30
   latest_in_major: 13.6.9
@@ -6335,7 +6335,7 @@ ditto:
   chromium: 91.0.4472.124
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1595
   cves_total: 2909
@@ -6505,7 +6505,7 @@ dopamine:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -6573,7 +6573,7 @@ drawdb-client:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -6598,7 +6598,7 @@ drawpen:
   electron: 40.4.0
   major: 40
   age_label: 5mo ago
-  age_days: 160
+  age_days: 161
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -6607,7 +6607,7 @@ drawpen:
   chromium: 144.0.7559.134
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -6624,7 +6624,7 @@ droppoint:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -6692,7 +6692,7 @@ dyad:
   chromium: 144.0.7559.60
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
@@ -6709,7 +6709,7 @@ e-search:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -6853,7 +6853,7 @@ echoplayer:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -6870,7 +6870,7 @@ ecloud:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -6887,7 +6887,7 @@ ecubus-pro:
   electron: 39.8.6
   major: 39
   age_label: 3mo ago
-  age_days: 111
+  age_days: 112
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -6921,7 +6921,7 @@ edgetx-buddy:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -6930,7 +6930,7 @@ edgetx-buddy:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -6964,7 +6964,7 @@ elcalc:
   chromium: 76.0.3809.139
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -6989,7 +6989,7 @@ electerm:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -6998,7 +6998,7 @@ electerm:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -7032,7 +7032,7 @@ electrocrud:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -7040,7 +7040,7 @@ electron-calculator:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -7049,7 +7049,7 @@ electron-calculator:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -7108,7 +7108,7 @@ electron-devdocs:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -7117,7 +7117,7 @@ electron-devdocs:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -7134,7 +7134,7 @@ electron-ffmpeg:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -7151,7 +7151,7 @@ electron-fiddle:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -7236,7 +7236,7 @@ electron-netease-cloud-music-bin:
   chromium: 134.0.6998.44
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 897
   cves_total: 1829
@@ -7295,7 +7295,7 @@ electron-ssr-preview:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -7321,7 +7321,7 @@ electron-widgets:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -7397,7 +7397,7 @@ electronic-wechat:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -7406,7 +7406,7 @@ electronic-wechat:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -7474,7 +7474,7 @@ elecwhat:
   chromium: 144.0.7559.96
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
@@ -7533,7 +7533,7 @@ elements-latex:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -7610,7 +7610,7 @@ email-securely-app:
   chromium: 144.0.7559.173
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -7627,7 +7627,7 @@ embertune:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -7652,7 +7652,7 @@ emudeck:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -7661,7 +7661,7 @@ emudeck:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -7737,7 +7737,7 @@ envkey:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -7788,7 +7788,7 @@ erin:
   electron: 33.2.1
   major: 33
   age_label: 1y 8mo ago
-  age_days: 601
+  age_days: 602
   eol: true
   majors_behind: 10
   latest_in_major: 33.4.11
@@ -7822,7 +7822,7 @@ eserver:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -7831,7 +7831,7 @@ eserver:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -7848,7 +7848,7 @@ etcd-manager:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -7907,7 +7907,7 @@ eusoft-ting-de:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -7924,7 +7924,7 @@ eusoft-ting-en:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -7941,7 +7941,7 @@ eusoft-ting-es:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -7958,7 +7958,7 @@ eusoft-ting-fr:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -8060,7 +8060,7 @@ exifcleaner:
   electron: 11.4.4
   major: 11
   age_label: 5y 3mo ago
-  age_days: 1911
+  age_days: 1912
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -8120,7 +8120,7 @@ expertisex:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -8273,7 +8273,7 @@ falkor:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -8348,8 +8348,8 @@ favicon-generator:
 fchat-horizon:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -8358,7 +8358,7 @@ fchat-horizon:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -8392,7 +8392,7 @@ feidao:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -8494,7 +8494,7 @@ ficus:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -8579,7 +8579,7 @@ fina:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -8621,7 +8621,7 @@ finance-manager:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -8630,7 +8630,7 @@ finance-manager:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -8638,7 +8638,7 @@ fireblocks-recovery-utility:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -8647,7 +8647,7 @@ fireblocks-recovery-utility:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -8715,7 +8715,7 @@ fishing-funds:
   chromium: 144.0.7559.60
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
@@ -8723,7 +8723,7 @@ fishpi:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -8749,7 +8749,7 @@ flare-player:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -8757,7 +8757,7 @@ flashbrowser:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -8774,7 +8774,7 @@ flashorama:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -8834,7 +8834,7 @@ flb-music-player:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -8851,7 +8851,7 @@ flbmusic:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -8902,7 +8902,7 @@ flow-browser:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -8910,7 +8910,7 @@ flowtestai:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -8919,7 +8919,7 @@ flowtestai:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -8977,8 +8977,8 @@ focustune:
 folo:
   electron: 43.1.0
   major: 43
-  age_label: 14d ago
-  age_days: 14
+  age_label: 15d ago
+  age_days: 15
   eol: false
   majors_behind: 0
   latest_in_major: 43.2.0
@@ -8994,8 +8994,8 @@ folo:
 fontastic:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -9004,7 +9004,7 @@ fontastic:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -9080,7 +9080,7 @@ fotoluks-manager:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -9089,7 +9089,7 @@ fotoluks-manager:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -9182,7 +9182,7 @@ frappe-books:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -9191,7 +9191,7 @@ frappe-books:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -9267,7 +9267,7 @@ freeshow:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -9352,7 +9352,7 @@ frosch:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -9531,7 +9531,7 @@ fvtt-player-client-omegarogue:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -9548,15 +9548,15 @@ fvtt-player-client:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
 gaia-amd:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -9565,7 +9565,7 @@ gaia-amd:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -9573,7 +9573,7 @@ gameclock:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -9582,7 +9582,7 @@ gameclock:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -9650,7 +9650,7 @@ gaucho:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -9709,7 +9709,7 @@ geekeditor:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -9743,7 +9743,7 @@ geforce-infinity:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -9777,7 +9777,7 @@ gemini:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -9794,7 +9794,7 @@ geneanet:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -9811,7 +9811,7 @@ geniemoji:
   electron: 12.0.15
   major: 12
   age_label: 5y 1mo ago
-  age_days: 1832
+  age_days: 1833
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
@@ -9854,7 +9854,7 @@ geogebra:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -9973,7 +9973,7 @@ gitfiend:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -9981,7 +9981,7 @@ githoard:
   electron: 8.4.0
   major: 8
   age_label: 6y 1mo ago
-  age_days: 2205
+  age_days: 2206
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -10134,7 +10134,7 @@ glimboi:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -10151,7 +10151,7 @@ glyphr-studio:
   electron: 28.2.1
   major: 28
   age_label: 2y 6mo ago
-  age_days: 902
+  age_days: 903
   eol: true
   majors_behind: 15
   latest_in_major: 28.3.3
@@ -10202,7 +10202,7 @@ godspeed:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -10219,7 +10219,7 @@ gomoon:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -10228,15 +10228,15 @@ gomoon:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
 goofcord:
   electron: 43.1.0
   major: 43
-  age_label: 14d ago
-  age_days: 14
+  age_label: 15d ago
+  age_days: 15
   eol: false
   majors_behind: 0
   latest_in_major: 43.2.0
@@ -10279,7 +10279,7 @@ google-calender-widget:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -10296,7 +10296,7 @@ google-chat-electron:
   chromium: 106.0.5249.181
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -10372,7 +10372,7 @@ graphql-ide:
   electron: 1.7.6
   major: 1
   age_label: 9y ago
-  age_days: 3268
+  age_days: 3269
   eol: false
   majors_behind: 42
   latest_in_major: 1.8.8
@@ -10381,7 +10381,7 @@ graphql-ide:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -10466,7 +10466,7 @@ gridtracker2:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -10491,7 +10491,7 @@ grinplusplus:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -10559,7 +10559,7 @@ gsubs:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -10627,7 +10627,7 @@ hamsket:
   electron: 17.1.0
   major: 17
   age_label: 4y 5mo ago
-  age_days: 1609
+  age_days: 1610
   eol: true
   majors_behind: 26
   latest_in_major: 17.4.11
@@ -10678,7 +10678,7 @@ hashtag:
   electron: 7.2.4
   major: 7
   age_label: 6y 3mo ago
-  age_days: 2274
+  age_days: 2275
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -10712,7 +10712,7 @@ hawkpass:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -10721,7 +10721,7 @@ hawkpass:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -10738,7 +10738,7 @@ hayase:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -10746,7 +10746,7 @@ he3-tools:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -10755,7 +10755,7 @@ he3-tools:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -10789,7 +10789,7 @@ headlamp:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -10814,7 +10814,7 @@ healthi:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -10840,7 +10840,7 @@ helioslauncher:
   chromium: 122.0.6261.70
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1059
   cves_total: 2077
@@ -10959,7 +10959,7 @@ hexo:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -10984,7 +10984,7 @@ hexpick:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -10993,7 +10993,7 @@ hexpick:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -11010,7 +11010,7 @@ hey-desktop:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -11120,7 +11120,7 @@ horanghill:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -11188,7 +11188,7 @@ http-toolkit:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -11299,7 +11299,7 @@ huly:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -11435,7 +11435,7 @@ icalingua:
   chromium: 140.0.7339.41
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 859
   cves_total: 1763
@@ -11528,7 +11528,7 @@ iease-music-daihy:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -11562,7 +11562,7 @@ igdm:
   electron: 10.4.2
   major: 10
   age_label: 5y 4mo ago
-  age_days: 1946
+  age_days: 1947
   eol: true
   majors_behind: 33
   latest_in_major: 10.4.7
@@ -11579,7 +11579,7 @@ ih8rtcgui:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -11588,7 +11588,7 @@ ih8rtcgui:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -11613,7 +11613,7 @@ ikun-music:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -11639,7 +11639,7 @@ image-metahub:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -11664,7 +11664,7 @@ image-shrinker:
   electron: 10.4.7
   major: 10
   age_label: 5y 2mo ago
-  age_days: 1884
+  age_days: 1885
   eol: true
   majors_behind: 33
   latest_in_major: 10.4.7
@@ -11698,7 +11698,7 @@ image2pattern:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -11707,7 +11707,7 @@ image2pattern:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -11775,7 +11775,7 @@ inav-configurator:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -11843,7 +11843,7 @@ infiniti-clips:
   chromium: 106.0.5249.119
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -11851,7 +11851,7 @@ infinity:
   electron: 24.3.1
   major: 24
   age_label: 3y 2mo ago
-  age_days: 1161
+  age_days: 1162
   eol: true
   majors_behind: 19
   latest_in_major: 24.8.8
@@ -11894,7 +11894,7 @@ inkdown-bin:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -12021,7 +12021,7 @@ interview-coder:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -12030,7 +12030,7 @@ interview-coder:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -12149,7 +12149,7 @@ issie:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -12200,7 +12200,7 @@ ivideo:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -12217,7 +12217,7 @@ jandi:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -12276,7 +12276,7 @@ jasper:
   electron: 37.4.0
   major: 37
   age_label: 10mo ago
-  age_days: 328
+  age_days: 329
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -12310,7 +12310,7 @@ jetbrains-space:
   electron: 27.0.1
   major: 27
   age_label: 2y 9mo ago
-  age_days: 1007
+  age_days: 1008
   eol: true
   majors_behind: 16
   latest_in_major: 27.3.11
@@ -12327,7 +12327,7 @@ jimud:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -12378,7 +12378,7 @@ joindesktop:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -12404,7 +12404,7 @@ joplin:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -12421,7 +12421,7 @@ journey:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -12497,7 +12497,7 @@ jscast:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -12548,7 +12548,7 @@ juice-client:
   electron: 10.4.7
   major: 10
   age_label: 5y 2mo ago
-  age_days: 1884
+  age_days: 1885
   eol: true
   majors_behind: 33
   latest_in_major: 10.4.7
@@ -12616,7 +12616,7 @@ justwrite:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -12625,7 +12625,7 @@ justwrite:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -12727,7 +12727,7 @@ kanbanflow:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -12778,7 +12778,7 @@ kap:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -12795,7 +12795,7 @@ kaplan-desktop:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -12846,7 +12846,7 @@ katachi:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -12880,7 +12880,7 @@ kdocs-uos:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -12922,7 +12922,7 @@ keeper-password-manager-digital-vault:
   electron: 41.7.0
   major: 41
   age_label: 2mo ago
-  age_days: 63
+  age_days: 64
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -12956,7 +12956,7 @@ keybase:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -12973,7 +12973,7 @@ keycombiner:
   electron: 16.0.7
   major: 16
   age_label: 4y 7mo ago
-  age_days: 1652
+  age_days: 1653
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -13092,7 +13092,7 @@ kingsoft-xiezuo:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -13101,7 +13101,7 @@ kingsoft-xiezuo:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -13152,7 +13152,7 @@ kiwix-js:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -13288,7 +13288,7 @@ kube-dev-dashboard:
   chromium: 108.0.5359.62
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1264
   cves_total: 2412
@@ -13322,7 +13322,7 @@ kui:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -13347,7 +13347,7 @@ kurisu:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -13356,7 +13356,7 @@ kurisu:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -13449,7 +13449,7 @@ lanzouyun-pan:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -13466,7 +13466,7 @@ laradumps:
   electron: 38.1.0
   major: 38
   age_label: 10mo ago
-  age_days: 314
+  age_days: 315
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -13475,7 +13475,7 @@ laradumps:
   chromium: 140.0.7339.80
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 857
   cves_total: 1752
@@ -13534,7 +13534,7 @@ lazytype:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -13543,7 +13543,7 @@ lazytype:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -13686,8 +13686,8 @@ lecture-player:
 ledger-live:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -13696,7 +13696,7 @@ ledger-live:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -13747,15 +13747,15 @@ lens:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
 lepton:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -13789,7 +13789,7 @@ less-player:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -13798,7 +13798,7 @@ less-player:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -13815,7 +13815,7 @@ less-reader:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -13832,7 +13832,7 @@ lexicanter:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -13866,7 +13866,7 @@ libgendesktop:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -13959,7 +13959,7 @@ linkandroid:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -13968,7 +13968,7 @@ linkandroid:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -14027,7 +14027,7 @@ lisk-hub:
   electron: 29.3.0
   major: 29
   age_label: 2y 3mo ago
-  age_days: 832
+  age_days: 833
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -14036,7 +14036,7 @@ lisk-hub:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -14112,7 +14112,7 @@ live2d-kanban:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -14121,7 +14121,7 @@ live2d-kanban:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -14214,7 +14214,7 @@ localcan:
   electron: 38.1.0
   major: 38
   age_label: 10mo ago
-  age_days: 314
+  age_days: 315
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -14223,7 +14223,7 @@ localcan:
   chromium: 140.0.7339.80
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 857
   cves_total: 1752
@@ -14257,7 +14257,7 @@ locu:
   chromium: 144.0.7559.111
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 809
   cves_total: 1664
@@ -14350,7 +14350,7 @@ loopy:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -14359,7 +14359,7 @@ loopy:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -14384,7 +14384,7 @@ lot-lot-of-things:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -14486,7 +14486,7 @@ luna:
   electron: 8.5.2
   major: 8
   age_label: 5y 10mo ago
-  age_days: 2128
+  age_days: 2129
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -14621,8 +14621,8 @@ lyrs:
 lzmusic:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -14631,7 +14631,7 @@ lzmusic:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -14818,7 +14818,7 @@ mangabox:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -14835,7 +14835,7 @@ manta:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -14860,7 +14860,7 @@ manyverse:
   electron: 18.3.7
   major: 18
   age_label: 4y ago
-  age_days: 1448
+  age_days: 1449
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -14877,7 +14877,7 @@ map-download:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -14894,7 +14894,7 @@ mapeo:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -14920,7 +14920,7 @@ marchen:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -14962,7 +14962,7 @@ markdown:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -14971,7 +14971,7 @@ markdown:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -15080,8 +15080,8 @@ mastergo:
 mater:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15090,7 +15090,7 @@ mater:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15182,8 +15182,8 @@ mattermost:
 mawejs:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15192,7 +15192,7 @@ mawejs:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15200,7 +15200,7 @@ mbcord:
   electron: 13.0.1
   major: 13
   age_label: 5y 2mo ago
-  age_days: 1883
+  age_days: 1884
   eol: true
   majors_behind: 30
   latest_in_major: 13.6.9
@@ -15209,7 +15209,7 @@ mbcord:
   chromium: 91.0.4472.69
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1625
   cves_total: 2948
@@ -15250,8 +15250,8 @@ mdp:
 mdview:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15260,7 +15260,7 @@ mdview:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15301,8 +15301,8 @@ media-dupes:
 media-hoarder:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15311,7 +15311,7 @@ media-hoarder:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15335,8 +15335,8 @@ media-player:
 mediachips:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -15396,7 +15396,7 @@ megacubo:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -15455,7 +15455,7 @@ memebox:
   electron: 20.3.4
   major: 20
   age_label: 3y 9mo ago
-  age_days: 1357
+  age_days: 1358
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -15472,7 +15472,7 @@ memocast:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -15498,7 +15498,7 @@ mendeley-reference-manager:
   chromium: 144.0.7559.220
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15557,7 +15557,7 @@ meteor-todo:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -15566,7 +15566,7 @@ meteor-todo:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -15625,7 +15625,7 @@ mihomo-party:
   electron: 41.8.0
   major: 41
   age_label: 1mo ago
-  age_days: 35
+  age_days: 36
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -15651,7 +15651,7 @@ milanote:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -15685,7 +15685,7 @@ min:
   chromium: 144.0.7559.220
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15727,7 +15727,7 @@ mini4wdchrono:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -15770,7 +15770,7 @@ minimal-image-viewer:
   chromium: 91.0.4472.106
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1599
   cves_total: 2913
@@ -15795,7 +15795,7 @@ minterm:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -15821,15 +15821,15 @@ miro:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
 miru-viewer:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -15838,7 +15838,7 @@ miru-viewer:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -15855,7 +15855,7 @@ missive:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -15897,7 +15897,7 @@ mizar:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -15906,7 +15906,7 @@ mizar:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -15914,7 +15914,7 @@ mjml-app:
   electron: 7.2.4
   major: 7
   age_label: 6y 3mo ago
-  age_days: 2274
+  age_days: 2275
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -15999,7 +15999,7 @@ mockoon:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -16025,7 +16025,7 @@ mockuuups-studio:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -16084,7 +16084,7 @@ moebius:
   electron: 8.5.2
   major: 8
   age_label: 5y 10mo ago
-  age_days: 2128
+  age_days: 2129
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -16152,7 +16152,7 @@ mongodb-compass:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -16186,7 +16186,7 @@ monit:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -16195,7 +16195,7 @@ monit:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -16203,7 +16203,7 @@ monokle:
   electron: 28.2.4
   major: 28
   age_label: 2y 5mo ago
-  age_days: 881
+  age_days: 882
   eol: true
   majors_behind: 15
   latest_in_major: 28.3.3
@@ -16271,7 +16271,7 @@ morgen:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -16305,7 +16305,7 @@ motrix:
   electron: 22.3.7
   major: 22
   age_label: 3y 3mo ago
-  age_days: 1182
+  age_days: 1183
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -16314,7 +16314,7 @@ motrix:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -16356,7 +16356,7 @@ moyu:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -16382,7 +16382,7 @@ moyurd:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -16424,7 +16424,7 @@ mqttx:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -16467,7 +16467,7 @@ mstream:
   chromium: 122.0.6261.129
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -16492,7 +16492,7 @@ mu-epub-viewer:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -16509,7 +16509,7 @@ mubu-bin:
   electron: 13.1.7
   major: 13
   age_label: 5y 1mo ago
-  age_days: 1832
+  age_days: 1833
   eol: true
   majors_behind: 30
   latest_in_major: 13.6.9
@@ -16518,15 +16518,15 @@ mubu-bin:
   chromium: 91.0.4472.124
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1595
   cves_total: 2909
 mudita-center:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -16535,7 +16535,7 @@ mudita-center:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -16560,7 +16560,7 @@ muffon:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -16645,7 +16645,7 @@ musicbox:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -16722,7 +16722,7 @@ mxiv:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -16773,7 +16773,7 @@ my-yesplaymusic:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -16832,7 +16832,7 @@ native-access:
   electron: 41.7.0
   major: 41
   age_label: 2mo ago
-  age_days: 63
+  age_days: 64
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -16977,7 +16977,7 @@ net-player:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -16994,7 +16994,7 @@ netease-cloud-music-web-player:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -17070,7 +17070,7 @@ netsend:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -17079,7 +17079,7 @@ netsend:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -17087,7 +17087,7 @@ network-assembler:
   electron: 7.2.4
   major: 7
   age_label: 6y 3mo ago
-  age_days: 2274
+  age_days: 2275
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -17104,7 +17104,7 @@ neucalculator:
   electron: 7.1.13
   major: 7
   age_label: 6y 6mo ago
-  age_days: 2343
+  age_days: 2344
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -17130,7 +17130,7 @@ neuro-karaoke-wrapper:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -17138,7 +17138,7 @@ newpad-git:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -17147,7 +17147,7 @@ newpad-git:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -17172,7 +17172,7 @@ next-library:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -17181,7 +17181,7 @@ next-library:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -17189,7 +17189,7 @@ nexus-wallet:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -17198,7 +17198,7 @@ nexus-wallet:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -17215,7 +17215,7 @@ nfov:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -17257,7 +17257,7 @@ ngrev:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -17274,7 +17274,7 @@ nibbler:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -17291,7 +17291,7 @@ niconizer:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -17317,7 +17317,7 @@ nikode:
   chromium: 144.0.7559.173
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -17342,7 +17342,7 @@ nipaplay:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -17351,7 +17351,7 @@ nipaplay:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -17359,7 +17359,7 @@ node-snapdrop:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -17368,7 +17368,7 @@ node-snapdrop:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -17453,7 +17453,7 @@ nora:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -17495,7 +17495,7 @@ notable:
   electron: 7.1.9
   major: 7
   age_label: 6y 7mo ago
-  age_days: 2381
+  age_days: 2382
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -17614,7 +17614,7 @@ notesnook:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -17732,8 +17732,8 @@ nucleo:
 nuclia-sync-agent:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -17742,7 +17742,7 @@ nuclia-sync-agent:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -17759,7 +17759,7 @@ nudelta:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -17810,7 +17810,7 @@ nuru-browser:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -17878,7 +17878,7 @@ objtoschematic:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -17895,7 +17895,7 @@ oblivion:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -17946,7 +17946,7 @@ odoo-manager:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -18005,7 +18005,7 @@ ollama-chat:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -18014,7 +18014,7 @@ ollama-chat:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -18055,8 +18055,8 @@ omglol-profiler:
 omofun:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -18065,7 +18065,7 @@ omofun:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -18124,7 +18124,7 @@ oneplay:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -18133,7 +18133,7 @@ oneplay:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -18184,7 +18184,7 @@ ontime:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -18260,7 +18260,7 @@ open-password-manager:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -18320,7 +18320,7 @@ openbazaar:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -18395,8 +18395,8 @@ openfortivpn-webview:
 openmarch:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -18405,7 +18405,7 @@ openmarch:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -18413,7 +18413,7 @@ openmtp:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -18447,7 +18447,7 @@ openvpn-connect-linux:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -18464,7 +18464,7 @@ openwebmonitor3:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -18498,7 +18498,7 @@ orca-writer:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -18541,7 +18541,7 @@ oss-browser:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -18651,7 +18651,7 @@ oversetter:
   electron: 7.2.4
   major: 7
   age_label: 6y 3mo ago
-  age_days: 2274
+  age_days: 2275
   eol: true
   majors_behind: 36
   latest_in_major: 7.3.3
@@ -18685,7 +18685,7 @@ overvue:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -18694,7 +18694,7 @@ overvue:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -18753,7 +18753,7 @@ own3d:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -18762,7 +18762,7 @@ own3d:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -18770,7 +18770,7 @@ oxen-electron-wallet:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -18838,7 +18838,7 @@ padloc:
   electron: 19.0.5
   major: 19
   age_label: 4y 1mo ago
-  age_days: 1492
+  age_days: 1493
   eol: true
   majors_behind: 24
   latest_in_major: 19.1.9
@@ -18881,7 +18881,7 @@ panda:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -18906,7 +18906,7 @@ panfu:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -18923,7 +18923,7 @@ panwriter:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -18966,7 +18966,7 @@ papercubes:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -19076,7 +19076,7 @@ parsify-desktop:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -19085,7 +19085,7 @@ parsify-desktop:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -19093,7 +19093,7 @@ parsify:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -19102,7 +19102,7 @@ parsify:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -19153,7 +19153,7 @@ passky:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -19161,7 +19161,7 @@ password-strength-checker:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -19170,7 +19170,7 @@ password-strength-checker:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -19245,8 +19245,8 @@ pause:
 pawtop:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -19255,7 +19255,7 @@ pawtop:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -19272,7 +19272,7 @@ pdfkit:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -19280,7 +19280,7 @@ pdmaas-pro:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -19289,7 +19289,7 @@ pdmaas-pro:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -19297,7 +19297,7 @@ pdmaner-final:
   electron: 13.1.7
   major: 13
   age_label: 5y 1mo ago
-  age_days: 1832
+  age_days: 1833
   eol: true
   majors_behind: 30
   latest_in_major: 13.6.9
@@ -19306,7 +19306,7 @@ pdmaner-final:
   chromium: 91.0.4472.124
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1595
   cves_total: 2909
@@ -19314,7 +19314,7 @@ peacock:
   electron: 9.0.0-beta.13
   major: 9
   age_label: 6y 4mo ago
-  age_days: 2301
+  age_days: 2302
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -19330,8 +19330,8 @@ peacock:
 pear-desktop-arjix:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -19340,15 +19340,15 @@ pear-desktop-arjix:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
 pear-desktop-noads:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -19365,7 +19365,7 @@ pear-rec:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -19374,7 +19374,7 @@ pear-rec:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -19442,7 +19442,7 @@ pendulums:
   chromium: 76.0.3809.139
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -19484,7 +19484,7 @@ perrito-ws:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -19493,7 +19493,7 @@ perrito-ws:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -19663,7 +19663,7 @@ pic-crop:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -19680,7 +19680,7 @@ picgo-git:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -19705,7 +19705,7 @@ piclist:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -19833,7 +19833,7 @@ pitv:
   chromium: 108.0.5359.62
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1264
   cves_total: 2412
@@ -19884,7 +19884,7 @@ pixzip-lite:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -19892,7 +19892,7 @@ plasticity:
   electron: 26.6.9
   major: 26
   age_label: 2y 5mo ago
-  age_days: 895
+  age_days: 896
   eol: true
   majors_behind: 17
   latest_in_major: 26.6.10
@@ -19935,7 +19935,7 @@ playcode:
   chromium: 108.0.5359.62
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1264
   cves_total: 2412
@@ -19943,7 +19943,7 @@ plex-folder-playlist-creator:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -20003,7 +20003,7 @@ plutonia:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -20054,7 +20054,7 @@ poddycast-app:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -20105,7 +20105,7 @@ poi:
   chromium: 140.0.7339.240
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -20122,7 +20122,7 @@ polar:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -20309,7 +20309,7 @@ positron:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -20326,7 +20326,7 @@ postbird:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -20334,7 +20334,7 @@ postcat:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -20343,7 +20343,7 @@ postcat:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -20487,7 +20487,7 @@ prepros:
   electron: 25.1.0
   major: 25
   age_label: 3y 2mo ago
-  age_days: 1140
+  age_days: 1141
   eol: true
   majors_behind: 18
   latest_in_major: 25.9.8
@@ -20530,7 +20530,7 @@ pretzel:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -20547,7 +20547,7 @@ primate:
   chromium: 108.0.5359.179
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -20555,7 +20555,7 @@ primitive-nextgen:
   electron: 28.2.0
   major: 28
   age_label: 2y 6mo ago
-  age_days: 909
+  age_days: 910
   eol: true
   majors_behind: 15
   latest_in_major: 28.3.3
@@ -20623,7 +20623,7 @@ projector:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -20657,7 +20657,7 @@ prompt-booster:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -20768,7 +20768,7 @@ proton-mail:
   chromium: 122.0.6261.57
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1059
   cves_total: 2077
@@ -20810,7 +20810,7 @@ ptree:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -20844,7 +20844,7 @@ pullp:
   electron: 14.0.1
   major: 14
   age_label: 4y 11mo ago
-  age_days: 1772
+  age_days: 1773
   eol: true
   majors_behind: 29
   latest_in_major: 14.2.9
@@ -20911,8 +20911,8 @@ puppetry:
 pupu:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -20921,7 +20921,7 @@ pupu:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -20946,7 +20946,7 @@ pushnotifications:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -20955,7 +20955,7 @@ pushnotifications:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -20972,7 +20972,7 @@ q-player:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -21031,7 +21031,7 @@ qiniuclient:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -21142,7 +21142,7 @@ quark:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -21150,7 +21150,7 @@ quasar-todo:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -21159,7 +21159,7 @@ quasar-todo:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -21201,7 +21201,7 @@ quicknote:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -21210,7 +21210,7 @@ quicknote:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -21261,7 +21261,7 @@ r2modman:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -21312,7 +21312,7 @@ r5-wallet:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -21320,7 +21320,7 @@ r6rc:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -21329,7 +21329,7 @@ r6rc:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -21354,7 +21354,7 @@ raj-browser:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -21363,7 +21363,7 @@ raj-browser:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -21380,7 +21380,7 @@ rambox:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -21388,7 +21388,7 @@ random-browser:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -21397,7 +21397,7 @@ random-browser:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -21422,7 +21422,7 @@ raven-reader:
   electron: 19.1.2
   major: 19
   age_label: 3y 10mo ago
-  age_days: 1385
+  age_days: 1386
   eol: true
   majors_behind: 24
   latest_in_major: 19.1.9
@@ -21439,7 +21439,7 @@ react-explorer:
   electron: 21.2.3
   major: 21
   age_label: 3y 9mo ago
-  age_days: 1350
+  age_days: 1351
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -21448,7 +21448,7 @@ react-explorer:
   chromium: 106.0.5249.168
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -21550,7 +21550,7 @@ recode-converter:
   chromium: 144.0.7559.220
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -21601,7 +21601,7 @@ redisfish:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -21652,7 +21652,7 @@ reflect:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -21728,7 +21728,7 @@ remember-the-milk:
   electron: 39.2.2
   major: 39
   age_label: 8mo ago
-  age_days: 245
+  age_days: 246
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -21779,7 +21779,7 @@ remotehamradio:
   electron: 29.1.6
   major: 29
   age_label: 2y 4mo ago
-  age_days: 846
+  age_days: 847
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -21788,7 +21788,7 @@ remotehamradio:
   chromium: 122.0.6261.139
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -21796,7 +21796,7 @@ removebg:
   electron: 29.1.5
   major: 29
   age_label: 2y 4mo ago
-  age_days: 853
+  age_days: 854
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -21805,15 +21805,15 @@ removebg:
   chromium: 122.0.6261.130
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
 renamer:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -21830,7 +21830,7 @@ rendertune:
   electron: 33.2.1
   major: 33
   age_label: 1y 8mo ago
-  age_days: 601
+  age_days: 602
   eol: true
   majors_behind: 10
   latest_in_major: 33.4.11
@@ -21856,7 +21856,7 @@ reor:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -21949,7 +21949,7 @@ responsively:
   electron: 27.0.4
   major: 27
   age_label: 2y 8mo ago
-  age_days: 986
+  age_days: 987
   eol: true
   majors_behind: 16
   latest_in_major: 27.3.11
@@ -21992,7 +21992,7 @@ restfox:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -22119,7 +22119,7 @@ ringer-client:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -22128,7 +22128,7 @@ ringer-client:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -22145,7 +22145,7 @@ riot:
   chromium: 144.0.7559.220
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -22162,7 +22162,7 @@ rocket-chat:
   chromium: 144.0.7559.60
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
@@ -22238,7 +22238,7 @@ rowboat:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -22289,7 +22289,7 @@ ryusak:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -22298,7 +22298,7 @@ ryusak:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -22340,7 +22340,7 @@ saberfy:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -22400,7 +22400,7 @@ sandman:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -22417,7 +22417,7 @@ sanguosha:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -22468,7 +22468,7 @@ schildichat-desktop-eol:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -22561,7 +22561,7 @@ screen-studio:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -22578,7 +22578,7 @@ scriptorium:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -22587,7 +22587,7 @@ scriptorium:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -22663,7 +22663,7 @@ seapig:
   electron: 6.1.12
   major: 6
   age_label: 6y 3mo ago
-  age_days: 2255
+  age_days: 2256
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -22672,7 +22672,7 @@ seapig:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -22714,7 +22714,7 @@ selenium-ide:
   electron: 28.2.0
   major: 28
   age_label: 2y 6mo ago
-  age_days: 909
+  age_days: 910
   eol: true
   majors_behind: 15
   latest_in_major: 28.3.3
@@ -22730,8 +22730,8 @@ selenium-ide:
 selvania-launcher:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -22740,7 +22740,7 @@ selvania-launcher:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -22825,7 +22825,7 @@ ses:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -22850,7 +22850,7 @@ seven-waves:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -22918,7 +22918,7 @@ sharing:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -22927,7 +22927,7 @@ sharing:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -22969,7 +22969,7 @@ shiba:
   electron: 2.0.2
   major: 2
   age_label: 8y 3mo ago
-  age_days: 2982
+  age_days: 2983
   eol: true
   majors_behind: 41
   latest_in_major: 2.0.18
@@ -23012,7 +23012,7 @@ shimmer:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -23037,7 +23037,7 @@ shotscreen:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -23046,7 +23046,7 @@ shotscreen:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -23122,7 +23122,7 @@ shutu-client:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -23131,7 +23131,7 @@ shutu-client:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -23165,7 +23165,7 @@ siki:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -23301,7 +23301,7 @@ simple-web-server:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -23318,7 +23318,7 @@ simpleinstabot:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -23359,8 +23359,8 @@ simplenote:
 simpleshell:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -23369,7 +23369,7 @@ simpleshell:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -23403,7 +23403,7 @@ simpletex:
   chromium: 108.0.5359.62
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1264
   cves_total: 2412
@@ -23539,7 +23539,7 @@ slack:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -23581,7 +23581,7 @@ slimevr-server:
   electron: 40.9.1
   major: 40
   age_label: 3mo ago
-  age_days: 97
+  age_days: 98
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -23590,7 +23590,7 @@ slimevr-server:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -23734,7 +23734,7 @@ snippet-notes:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -23743,7 +23743,7 @@ snippet-notes:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -23760,7 +23760,7 @@ snippetstore:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -23835,8 +23835,8 @@ socially:
 sofie-chef:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -23845,15 +23845,15 @@ sofie-chef:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
 sokuji:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -23862,7 +23862,7 @@ sokuji:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -23904,7 +23904,7 @@ somafm-desktop-player:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -23930,7 +23930,7 @@ sonixd:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -23989,7 +23989,7 @@ soundcloud-rpc:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -24015,7 +24015,7 @@ soundnode:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -24023,7 +24023,7 @@ soundsync:
   electron: 15.5.7
   major: 15
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 28
   latest_in_major: 15.5.7
@@ -24049,7 +24049,7 @@ source-me:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -24073,8 +24073,8 @@ southweather:
 space-client:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -24083,7 +24083,7 @@ space-client:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -24091,7 +24091,7 @@ space-snake:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -24134,7 +24134,7 @@ spaceradar:
   chromium: 144.0.7559.96
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 810
   cves_total: 1666
@@ -24151,7 +24151,7 @@ spark-wallet:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -24270,7 +24270,7 @@ splice:
   chromium: 140.0.7339.240
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -24346,7 +24346,7 @@ spotspot:
   electron: 8.3.1
   major: 8
   age_label: 6y 2mo ago
-  age_days: 2241
+  age_days: 2242
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -24431,7 +24431,7 @@ sqlite3-page-explorer:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -24440,7 +24440,7 @@ sqlite3-page-explorer:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -24482,7 +24482,7 @@ ssh-config-editor:
   electron: 33.2.1
   major: 33
   age_label: 1y 8mo ago
-  age_days: 601
+  age_days: 602
   eol: true
   majors_behind: 10
   latest_in_major: 33.4.11
@@ -24508,7 +24508,7 @@ stacker:
   chromium: 76.0.3809.146
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3493
@@ -24516,7 +24516,7 @@ stage-retriever:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -24525,7 +24525,7 @@ stage-retriever:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -24584,7 +24584,7 @@ standup-picker:
   electron: 16.0.7
   major: 16
   age_label: 4y 7mo ago
-  age_days: 1652
+  age_days: 1653
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -24652,7 +24652,7 @@ stealthplane:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -24661,7 +24661,7 @@ stealthplane:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -24686,7 +24686,7 @@ sticky-markdown-note:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -24695,7 +24695,7 @@ sticky-markdown-note:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -24720,7 +24720,7 @@ stinker:
   electron: 11.4.11
   major: 11
   age_label: 5y ago
-  age_days: 1813
+  age_days: 1814
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -24736,8 +24736,8 @@ stinker:
 stoat:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -24746,7 +24746,7 @@ stoat:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -24754,7 +24754,7 @@ stockholm-trekkers-playlist-maker:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -24831,7 +24831,7 @@ streaker:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -24933,7 +24933,7 @@ studymd:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -25094,7 +25094,7 @@ superhuman:
   electron: 41.6.1
   major: 41
   age_label: 2mo ago
-  age_days: 68
+  age_days: 69
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -25127,8 +25127,8 @@ supersplashbros2:
 swarm:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -25137,7 +25137,7 @@ swarm:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -25188,7 +25188,7 @@ swifty:
   chromium: 106.0.5249.119
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -25205,7 +25205,7 @@ switch:
   chromium: 76.0.3809.88
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3496
@@ -25290,7 +25290,7 @@ synergy:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -25324,7 +25324,7 @@ tabby-terminal:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -25399,8 +25399,8 @@ tangent:
 taratormusic:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -25409,7 +25409,7 @@ taratormusic:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -25426,7 +25426,7 @@ taskana:
   chromium: 134.0.6998.88
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 893
   cves_total: 1825
@@ -25485,7 +25485,7 @@ teamide:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -25494,15 +25494,15 @@ teamide:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
 teams-for-linux:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -25536,7 +25536,7 @@ telegram-a:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -25545,7 +25545,7 @@ telegram-a:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -25621,7 +25621,7 @@ termius:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -25630,7 +25630,7 @@ termius:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -25655,7 +25655,7 @@ tesler:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -25664,7 +25664,7 @@ tesler:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -25757,7 +25757,7 @@ texture:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -25783,7 +25783,7 @@ texturelab:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -25859,7 +25859,7 @@ thinreports-section-editor:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -25868,7 +25868,7 @@ thinreports-section-editor:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -25944,7 +25944,7 @@ threema-for-desktop:
   electron: 21.2.2
   major: 21
   age_label: 3y 9mo ago
-  age_days: 1357
+  age_days: 1358
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -25953,7 +25953,7 @@ threema-for-desktop:
   chromium: 106.0.5249.168
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -25961,7 +25961,7 @@ threema:
   electron: 37.4.0
   major: 37
   age_label: 10mo ago
-  age_days: 328
+  age_days: 329
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -25994,8 +25994,8 @@ tidal:
 tiddlywiki:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -26004,7 +26004,7 @@ tiddlywiki:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -26097,7 +26097,7 @@ timing71:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -26114,7 +26114,7 @@ ting-de:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -26148,7 +26148,7 @@ tishare:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -26182,7 +26182,7 @@ tithon:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -26250,7 +26250,7 @@ tockler:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -26327,7 +26327,7 @@ todometer:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -26335,7 +26335,7 @@ tomato-radio-automation:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -26352,7 +26352,7 @@ tomatox:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -26369,7 +26369,7 @@ tome:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -26378,7 +26378,7 @@ tome:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -26412,7 +26412,7 @@ topzl:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -26548,7 +26548,7 @@ treo:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -26599,7 +26599,7 @@ trico:
   chromium: 108.0.5359.179
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -26624,7 +26624,7 @@ tropy:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -26658,7 +26658,7 @@ tts-now:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -26667,7 +26667,7 @@ tts-now:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -26725,8 +26725,8 @@ tuff:
 tune-player:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -26735,7 +26735,7 @@ tune-player:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -26743,7 +26743,7 @@ turbowarp-desktop:
   electron: 42.2.0
   major: 42
   age_label: 2mo ago
-  age_days: 63
+  age_days: 64
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -26776,8 +26776,8 @@ tusk:
 tutanota:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -26828,7 +26828,7 @@ twinkle-tray:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -26845,7 +26845,7 @@ typesense-dashboard:
   electron: 39.2.7
   major: 39
   age_label: 7mo ago
-  age_days: 221
+  age_days: 222
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -26871,7 +26871,7 @@ typora:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -26879,7 +26879,7 @@ tyrogit-client:
   electron: 21.4.4
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1204
+  age_days: 1205
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -26888,7 +26888,7 @@ tyrogit-client:
   chromium: 106.0.5249.199
   chromium_major: 106
   chromium_majors_behind: 44
-  chromium_days_behind: 1330
+  chromium_days_behind: 1331
   cves_critical: 174
   cves_high: 1279
   cves_total: 2434
@@ -26930,7 +26930,7 @@ udeler:
   electron: 11.5.0
   major: 11
   age_label: 4y 11mo ago
-  age_days: 1785
+  age_days: 1786
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -26964,7 +26964,7 @@ ugonlinemusicplayer:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -26973,7 +26973,7 @@ ugonlinemusicplayer:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -27151,7 +27151,7 @@ upscayl:
   electron: 27.3.10
   major: 27
   age_label: 2y 3mo ago
-  age_days: 832
+  age_days: 833
   eol: true
   majors_behind: 16
   latest_in_major: 27.3.11
@@ -27202,7 +27202,7 @@ utilso:
   electron: 15.5.7
   major: 15
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 28
   latest_in_major: 15.5.7
@@ -27219,7 +27219,7 @@ utools:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -27228,15 +27228,15 @@ utools:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
 uyou-todo:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -27245,7 +27245,7 @@ uyou-todo:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -27269,8 +27269,8 @@ v2:
 vacuumtube:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -27304,7 +27304,7 @@ valhalla:
   electron: 18.3.15
   major: 18
   age_label: 3y 10mo ago
-  age_days: 1393
+  age_days: 1394
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -27330,7 +27330,7 @@ vega-video-editor:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -27354,8 +27354,8 @@ venom86:
 vesktop-wayafknext:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -27364,7 +27364,7 @@ vesktop-wayafknext:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -27406,7 +27406,7 @@ vic-diary:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -27415,7 +27415,7 @@ vic-diary:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -27432,7 +27432,7 @@ vidbee:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -27440,7 +27440,7 @@ video-chapter-injector:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -27449,7 +27449,7 @@ video-chapter-injector:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -27457,7 +27457,7 @@ video-hub-app:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -27466,7 +27466,7 @@ video-hub-app:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -27508,7 +27508,7 @@ vimp:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -27551,7 +27551,7 @@ visty:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -27559,7 +27559,7 @@ visual-family-tree:
   electron: 4.2.12
   major: 4
   age_label: 6y 10mo ago
-  age_days: 2470
+  age_days: 2471
   eol: true
   majors_behind: 39
   latest_in_major: 4.2.12
@@ -27636,7 +27636,7 @@ vnite:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -27772,7 +27772,7 @@ vrcx-bin:
   chromium: 144.0.7559.173
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -27797,7 +27797,7 @@ vscodium:
   electron: 42.2.0
   major: 42
   age_label: 2mo ago
-  age_days: 63
+  age_days: 64
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -27857,7 +27857,7 @@ vue-calc:
   chromium: 59.0.3071.115
   chromium_major: 59
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
   cves_total: 3929
@@ -27891,7 +27891,7 @@ vulpidl:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -27899,7 +27899,7 @@ vutronmusic:
   electron: 37.10.3
   major: 37
   age_label: 7mo ago
-  age_days: 237
+  age_days: 238
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -27959,7 +27959,7 @@ wail:
   chromium: 58.0.3029.110
   chromium_major: 58
   chromium_majors_behind: 92
-  chromium_days_behind: 3246
+  chromium_days_behind: 3247
   cves_critical: 253
   cves_high: 2093
   cves_total: 3946
@@ -27984,7 +27984,7 @@ wallet-recovery-wizard:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -27993,7 +27993,7 @@ wallet-recovery-wizard:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -28068,8 +28068,8 @@ wdos:
 weakauras-companion:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -28078,7 +28078,7 @@ weakauras-companion:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -28086,7 +28086,7 @@ webcam-glass:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -28119,8 +28119,8 @@ webcatalog:
 webcord:
   electron: 43.1.0
   major: 43
-  age_label: 14d ago
-  age_days: 14
+  age_label: 15d ago
+  age_days: 15
   eol: false
   majors_behind: 0
   latest_in_major: 43.2.0
@@ -28137,7 +28137,7 @@ webeep-sync:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -28146,7 +28146,7 @@ webeep-sync:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -28154,7 +28154,7 @@ webgal-terre:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -28163,7 +28163,7 @@ webgal-terre:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -28256,7 +28256,7 @@ weektodo:
   electron: 25.0.1
   major: 25
   age_label: 3y 2mo ago
-  age_days: 1147
+  age_days: 1148
   eol: true
   majors_behind: 18
   latest_in_major: 25.9.8
@@ -28273,7 +28273,7 @@ weltenschaft:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -28435,7 +28435,7 @@ wire:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -28469,7 +28469,7 @@ witsy:
   chromium: 140.0.7339.133
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 855
   cves_total: 1750
@@ -28486,7 +28486,7 @@ wizard-mirror:
   chromium: 76.0.3809.88
   chromium_major: 76
   chromium_majors_behind: 74
-  chromium_days_behind: 2465
+  chromium_days_behind: 2466
   cves_critical: 242
   cves_high: 1894
   cves_total: 3496
@@ -28494,7 +28494,7 @@ wiznote:
   electron: 16.2.8
   major: 16
   age_label: 4y 2mo ago
-  age_days: 1519
+  age_days: 1520
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -28545,7 +28545,7 @@ wnr:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -28554,7 +28554,7 @@ wnr:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -28562,7 +28562,7 @@ wolai:
   electron: 22.3.7
   major: 22
   age_label: 3y 3mo ago
-  age_days: 1182
+  age_days: 1183
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -28571,7 +28571,7 @@ wolai:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -28673,7 +28673,7 @@ workflowy:
   chromium: 140.0.7339.249
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 151
   cves_high: 850
   cves_total: 1743
@@ -28749,7 +28749,7 @@ wx-read:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -28758,7 +28758,7 @@ wx-read:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -28775,7 +28775,7 @@ xc-music-electron:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -28867,8 +28867,8 @@ xresconv:
 xterminal:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -28877,7 +28877,7 @@ xterminal:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -28945,7 +28945,7 @@ yahee-music-player:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -28970,7 +28970,7 @@ yana:
   electron: 10.4.7
   major: 10
   age_label: 5y 2mo ago
-  age_days: 1884
+  age_days: 1885
   eol: true
   majors_behind: 33
   latest_in_major: 10.4.7
@@ -29021,7 +29021,7 @@ yaradio-yamusic:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -29038,7 +29038,7 @@ yarle-evernote-to-md:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -29047,7 +29047,7 @@ yarle-evernote-to-md:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -29081,7 +29081,7 @@ yesplaymusic:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -29098,7 +29098,7 @@ yesplaymusicosd-origin:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -29123,7 +29123,7 @@ yet-another-gitbook-reader:
   electron: 10.4.7
   major: 10
   age_label: 5y 2mo ago
-  age_days: 1884
+  age_days: 1885
   eol: true
   majors_behind: 33
   latest_in_major: 10.4.7
@@ -29149,7 +29149,7 @@ yidongbangong:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902
@@ -29157,7 +29157,7 @@ ynote:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -29166,7 +29166,7 @@ ynote:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -29259,7 +29259,7 @@ youtube-music-desktop-app:
   electron: 40.4.0
   major: 40
   age_label: 5mo ago
-  age_days: 160
+  age_days: 161
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -29268,7 +29268,7 @@ youtube-music-desktop-app:
   chromium: 144.0.7559.134
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -29319,7 +29319,7 @@ youtube-transcript-fetcher:
   chromium: 134.0.6998.205
   chromium_major: 134
   chromium_majors_behind: 16
-  chromium_days_behind: 449
+  chromium_days_behind: 450
   cves_critical: 155
   cves_high: 891
   cves_total: 1823
@@ -29429,7 +29429,7 @@ ytmdesktop-youtube-music:
   electron: 40.4.0
   major: 40
   age_label: 5mo ago
-  age_days: 160
+  age_days: 161
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -29438,7 +29438,7 @@ ytmdesktop-youtube-music:
   chromium: 144.0.7559.134
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -29446,7 +29446,7 @@ yts-streaming:
   electron: 29.4.6
   major: 29
   age_label: 1y 11mo ago
-  age_days: 703
+  age_days: 704
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -29455,7 +29455,7 @@ yts-streaming:
   chromium: 122.0.6261.156
   chromium_major: 122
   chromium_majors_behind: 28
-  chromium_days_behind: 827
+  chromium_days_behind: 828
   cves_critical: 164
   cves_high: 1053
   cves_total: 2071
@@ -29496,8 +29496,8 @@ z-library:
 zasper:
   electron: 40.10.6
   major: 40
-  age_label: 20d ago
-  age_days: 20
+  age_label: 21d ago
+  age_days: 21
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -29506,7 +29506,7 @@ zasper:
   chromium: 144.0.7559.236
   chromium_major: 144
   chromium_majors_behind: 6
-  chromium_days_behind: 133
+  chromium_days_behind: 134
   cves_critical: 148
   cves_high: 807
   cves_total: 1662
@@ -29565,7 +29565,7 @@ zeplin:
   electron: 38.1.0
   major: 38
   age_label: 10mo ago
-  age_days: 314
+  age_days: 315
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -29574,7 +29574,7 @@ zeplin:
   chromium: 140.0.7339.80
   chromium_major: 140
   chromium_majors_behind: 10
-  chromium_days_behind: 267
+  chromium_days_behind: 268
   cves_critical: 153
   cves_high: 857
   cves_total: 1752
@@ -29616,7 +29616,7 @@ zhiximind:
   electron: 22.3.27
   major: 22
   age_label: 2y 9mo ago
-  age_days: 1016
+  age_days: 1017
   eol: true
   majors_behind: 21
   latest_in_major: 22.3.27
@@ -29625,7 +29625,7 @@ zhiximind:
   chromium: 108.0.5359.215
   chromium_major: 108
   chromium_majors_behind: 42
-  chromium_days_behind: 1261
+  chromium_days_behind: 1262
   cves_critical: 172
   cves_high: 1243
   cves_total: 2381
@@ -29684,7 +29684,7 @@ zonote:
   electron: 9.4.4
   major: 9
   age_label: 5y 5mo ago
-  age_days: 1966
+  age_days: 1967
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -29717,8 +29717,8 @@ zui:
 zulip:
   electron: 42.5.0
   major: 42
-  age_label: 28d ago
-  age_days: 28
+  age_label: 29d ago
+  age_days: 29
   eol: false
   majors_behind: 1
   latest_in_major: 42.7.1
@@ -29761,7 +29761,7 @@ zy-player:
   chromium: 91.0.4472.164
   chromium_major: 91
   chromium_majors_behind: 59
-  chromium_days_behind: 1786
+  chromium_days_behind: 1787
   cves_critical: 195
   cves_high: 1588
   cves_total: 2902

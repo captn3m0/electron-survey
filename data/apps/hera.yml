@@ -6,3 +6,8 @@ aur:
 - hera-git
 electron: 32.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/hera-git
+  found_in: hera-git
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

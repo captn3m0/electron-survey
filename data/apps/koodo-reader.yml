@@ -64,3 +64,9 @@ homebrew: koodo-reader
 electron: 34.5.8
 method: src-yarn-lock
 electron_src: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.2.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

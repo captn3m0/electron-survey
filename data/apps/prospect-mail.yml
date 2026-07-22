@@ -96,3 +96,8 @@ downloads:
   url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect.Mail-1.2.1-arm64-mac.zip.blockmap
 - name: Prospect.Mail-1.2.1-mac.zip.blockmap
   url: https://github.com/julian-alarcon/prospect-mail/releases/download/v1.2.1/Prospect.Mail-1.2.1-mac.zip.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/prospect-mail
+  found_in: prospect-mail
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

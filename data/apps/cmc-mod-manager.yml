@@ -5,3 +5,8 @@ aur:
 - cmc-mod-manager-bin
 electron: 30.5.1
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cmc-mod-manager-bin
+  found_in: cmc-mod-manager-bin
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

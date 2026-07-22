@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/Wai.Chat-darwin-x64-1.1.2.zip
 - name: wai_chat_desktopt-1.1.2-full.nupkg
   url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/wai_chat_desktopt-1.1.2-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wai-chat-desktop
+  found_in: wai-chat-desktop
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

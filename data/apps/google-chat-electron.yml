@@ -21,3 +21,9 @@ name: Unofficial Google Chat App
 additionalAUR:
 - google-chat-linux
 electron_src: https://github.com/ankurk91/google-chat-electron/archive/refs/tags/2.20.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ankurk91/google-chat-electron/archive/refs/tags/2.20.0.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

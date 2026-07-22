@@ -7,3 +7,8 @@ additionalAUR:
 - own3d-desktop-git
 electron: 29.4.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/own3d-desktop-bin
+  found_in: own3d-desktop-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

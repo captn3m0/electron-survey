@@ -52,3 +52,8 @@ downloads:
   url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi.App-0.0.19-arm64-mac.zip.blockmap
 - name: Refi.App-0.0.19-mac.zip.blockmap
   url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi.App-0.0.19-mac.zip.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/refi-app-bin
+  found_in: refi-app-bin
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

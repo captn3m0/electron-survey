@@ -5,3 +5,8 @@ aur:
 - objtoschematic-bin
 electron: 13.6.9
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/objtoschematic-bin
+  found_in: objtoschematic-bin
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

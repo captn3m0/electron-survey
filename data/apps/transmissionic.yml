@@ -35,3 +35,8 @@ downloads:
   url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-win-v1.8.0.exe
 - name: Transmissionic-win-v1.8.0.exe.blockmap
   url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-win-v1.8.0.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/transmissionic-bin
+  found_in: transmissionic-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

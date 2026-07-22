@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/jaredthejellyfish/pihead-gui/releases/download/v0.0.1/pihead-gui-Linux-ARM64-0.0.1.AppImage
 - name: pihead-gui-Mac-0.0.1-Installer.dmg
   url: https://github.com/jaredthejellyfish/pihead-gui/releases/download/v0.0.1/pihead-gui-Mac-0.0.1-Installer.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pihead-gui-git
+  found_in: pihead-gui-git
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

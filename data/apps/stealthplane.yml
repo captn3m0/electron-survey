@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-win32-ia32.zip
 - name: stealthplane-windows.zip
   url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-windows.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/stealthplane-bin
+  found_in: stealthplane-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

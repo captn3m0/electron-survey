@@ -82,3 +82,9 @@ packages:
   os: macos
 name: Insomnia
 electron_src: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.0.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.0.2.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

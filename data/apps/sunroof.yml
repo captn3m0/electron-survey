@@ -50,3 +50,9 @@ downloads:
 electron: 31.1.0
 method: src-pnpm-lock
 electron_src: https://github.com/verticalsync/Sunroof/archive/refs/tags/v1.6.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/verticalsync/Sunroof/archive/refs/tags/v1.6.1.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

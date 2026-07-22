@@ -10,3 +10,8 @@ downloads:
 - url: https://storage.atomm.com/efficacy/atomm-package/prod/packages/121/c518d71e-2d6a-4494-851f-8e61b8a76949/xTool-Studio-arm64-1.2.11.dmg
   name: xTool-Studio-arm64-1.2.11.dmg
   version: 1.2.11,121,c518d71e-2d6a-4494-851f-8e61b8a76949
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/xtool-creative-space
+  found_in: xtool-creative-space
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

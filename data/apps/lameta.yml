@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/onset/lameta/releases/download/v2.3.17/lameta-mac-2.3.17.dmg
 - name: lameta-Windows-Setup-2.3.17.exe
   url: https://github.com/onset/lameta/releases/download/v2.3.17/lameta-Windows-Setup-2.3.17.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lameta
+  found_in: lameta
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

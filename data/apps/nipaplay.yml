@@ -33,3 +33,8 @@ downloads:
   url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-x64.exe
 - name: NipaPlay-1.7.0-win-x64.exe.blockmap
   url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-x64.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nipaplay-bin
+  found_in: nipaplay-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

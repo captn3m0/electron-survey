@@ -5,3 +5,8 @@ aur:
 - teamwork-desktop
 electron: 26.6.10
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/teamwork-desktop
+  found_in: teamwork-desktop
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

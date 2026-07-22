@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/gabrielesilinic/stage-retriever/releases/download/v0.0.2/StageRetriever-windows-amd64.7z
 - name: StageRetriever-windows-amd64.zip
   url: https://github.com/gabrielesilinic/stage-retriever/releases/download/v0.0.2/StageRetriever-windows-amd64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/stage-retriever
+  found_in: stage-retriever
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

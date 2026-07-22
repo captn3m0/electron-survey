@@ -40,3 +40,9 @@ downloads:
 electron: 32.3.3
 method: src-range-guess
 electron_src: https://github.com/ezra-bible-app/ezra-bible-app/archive/refs/tags/1.20.0.zip
+evidence:
+  kind: manifest
+  source: https://github.com/ezra-bible-app/ezra-bible-app/archive/refs/tags/1.20.0.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

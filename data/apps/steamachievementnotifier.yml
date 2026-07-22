@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/releases/download/1.9.44/SteamAchievementNotifier_V1.9.44.exe
 - name: SteamAchievementNotifier_V1.9.44.exe.blockmap
   url: https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/releases/download/1.9.44/SteamAchievementNotifier_V1.9.44.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/steamachievementnotifier
+  found_in: steamachievementnotifier
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

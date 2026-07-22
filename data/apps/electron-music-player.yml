@@ -6,3 +6,8 @@ aur:
 - electron-music-player
 electron: 25.9.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-music-player
+  found_in: electron-music-player
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

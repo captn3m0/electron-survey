@@ -34,3 +34,8 @@ downloads:
   checksum: 864f0039ff49382857c60e741650b473d16ba6c73e829b41725de5a7b89678bc
 - name: moyurd_1.1.1_amd64.deb.sha256
   url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd_1.1.1_amd64.deb.sha256
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/moyurd
+  found_in: moyurd
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

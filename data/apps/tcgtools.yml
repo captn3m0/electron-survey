@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/Kazbonfim/tcgtools/releases/download/1.8.6/tcgtools-portable.zip
 - name: TCGTools.Setup.1.8.6.exe
   url: https://github.com/Kazbonfim/tcgtools/releases/download/1.8.6/TCGTools.Setup.1.8.6.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tcgtools-git
+  found_in: tcgtools-git
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

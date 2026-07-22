@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/ilyagru/Space-Snake/releases/download/0.11.1/Space-Snake-macOS-x64-v0.11.1.zip
 - name: Space-Snake-win32-x64-v0.11.1.zip
   url: https://github.com/ilyagru/Space-Snake/releases/download/0.11.1/Space-Snake-win32-x64-v0.11.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/space-snake-bin
+  found_in: space-snake-bin
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

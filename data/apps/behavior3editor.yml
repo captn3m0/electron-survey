@@ -14,3 +14,8 @@ downloads:
 - name: behavior3editor_1.8.2.exe
   url: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.exe
 we_tried: we0:v1.8.2
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/behavior3editor-git
+  found_in: behavior3editor-git
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

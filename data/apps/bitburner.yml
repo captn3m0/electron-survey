@@ -20,3 +20,9 @@ downloads:
 electron: 41.4.0
 method: src-package-lock
 electron_src: https://github.com/bitburner-official/bitburner-src/archive/refs/tags/v3.0.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/bitburner-official/bitburner-src/archive/refs/tags/v3.0.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

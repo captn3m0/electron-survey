@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Windows-Installer.exe
 - name: SofieChef-0.6.0-Windows-Installer.exe.blockmap
   url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Windows-Installer.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/sofie-chef-bin
+  found_in: sofie-chef-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

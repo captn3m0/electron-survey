@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/Fury-0.1.18-arm64.dmg.blockmap
 - name: latest-mac.yml
   url: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/latest-mac.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/fury-git
+  found_in: fury-git
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

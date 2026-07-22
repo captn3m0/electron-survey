@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-win32-x64.zip
 - name: stremio-web-desktop_1.0.0_amd64.deb
   url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop_1.0.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/stremio-web-desktop-bin
+  found_in: stremio-web-desktop-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

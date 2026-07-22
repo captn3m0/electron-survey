@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/latest-mac.yml
 - name: latest.yml
   url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ezytdl-bin
+  found_in: ezytdl-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

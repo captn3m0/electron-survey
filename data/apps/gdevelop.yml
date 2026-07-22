@@ -41,3 +41,9 @@ packages:
   format: dmg
   os: macos
 electron_src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.274.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.274.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

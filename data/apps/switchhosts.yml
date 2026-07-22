@@ -81,3 +81,9 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+evidence:
+  kind: lockfile
+  source: https://github.com/oldj/SwitchHosts/archive/refs/tags/v5.0.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

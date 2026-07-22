@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/latest-mac.yml
 - name: latest.yml
   url: https://github.com/copicseal/copicseal/releases/download/v0.3.9/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/copicseal-git
+  found_in: copicseal-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

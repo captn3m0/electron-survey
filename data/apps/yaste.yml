@@ -11,3 +11,8 @@ src: https://github.com/LuanRoger/yaste/archive/refs/tags/v1.1.0.zip
 downloads:
 - name: yaste-v1.1.zip
   url: https://github.com/LuanRoger/yaste/releases/download/v1.1.0/yaste-v1.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/yaste-git
+  found_in: yaste-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

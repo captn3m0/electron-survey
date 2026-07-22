@@ -22,3 +22,9 @@ downloads:
 electron: 29.4.2
 method: src-yarn-lock
 electron_src: https://github.com/OmegaRogue/fvtt-player-client/archive/refs/tags/1.6.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/OmegaRogue/fvtt-player-client/archive/refs/tags/1.6.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

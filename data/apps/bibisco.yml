@@ -10,3 +10,9 @@ aur:
 - bibisco-ce
 name: bibisco
 electron_src: https://github.com/andreafeccomandi/bibisco/archive/refs/tags/v2.2.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/andreafeccomandi/bibisco/archive/refs/tags/v2.2.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

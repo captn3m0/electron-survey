@@ -11,3 +11,8 @@ src: https://github.com/Cuby-Project/Cuby-Client/archive/refs/tags/release.zip
 downloads:
 - name: cuby-win32-x64.zip
   url: https://github.com/Cuby-Project/Cuby-Client/releases/download/release/cuby-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cuby-git
+  found_in: cuby-git
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

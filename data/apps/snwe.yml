@@ -15,3 +15,9 @@ src: https://github.com/blahsd/snwe/archive/refs/tags/v0.1.0.zip
 electron: 2.0.0
 method: src-package-lock
 electron_src: https://github.com/blahsd/snwe/archive/refs/tags/v0.1.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/blahsd/snwe/archive/refs/tags/v0.1.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

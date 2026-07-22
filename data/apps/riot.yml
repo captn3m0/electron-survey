@@ -13,3 +13,9 @@ aur:
 homebrew: element
 name: Riot
 electron_src: https://github.com/vector-im/element-desktop/archive/refs/tags/v1.12.13.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/vector-im/element-desktop/archive/refs/tags/v1.12.13.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

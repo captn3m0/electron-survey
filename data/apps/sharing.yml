@@ -5,3 +5,8 @@ aur:
 - sharing-gui
 electron: 21.4.4
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/sharing-gui
+  found_in: sharing-gui
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

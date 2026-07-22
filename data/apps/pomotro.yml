@@ -11,3 +11,8 @@ src: https://github.com/Ranork/Pomotro/archive/refs/tags/v1.2.zip
 downloads:
 - name: Pomotro-win32-x64.zip
   url: https://github.com/Ranork/Pomotro/releases/download/v1.2/Pomotro-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pomotro
+  found_in: pomotro
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

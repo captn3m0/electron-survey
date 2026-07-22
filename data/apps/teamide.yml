@@ -53,3 +53,8 @@ downloads:
   url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.exe.blockmap
 - name: TeamIDE-win-2.6.38.zip
   url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/teamide-bin
+  found_in: teamide-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

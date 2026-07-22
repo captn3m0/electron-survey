@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-win32-x64-1.12.0.zip
 - name: japreader_1.12.0_amd64.deb
   url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader_1.12.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/japreader-bin
+  found_in: japreader-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

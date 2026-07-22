@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/DevanshuSawant/image-stitching-electron-app/releases/download/v1-v4/AI.Image.Stitcher-v3.exe
 - name: AI.Image.Stitcher-v4.exe
   url: https://github.com/DevanshuSawant/image-stitching-electron-app/releases/download/v1-v4/AI.Image.Stitcher-v4.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/image-stitching-git
+  found_in: image-stitching-git
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

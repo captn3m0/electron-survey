@@ -37,3 +37,8 @@ downloads:
   url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/NTrack-1.5.0.exe
 - name: ntrack_1.5.0_amd64.deb
   url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack_1.5.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ntrack-bin
+  found_in: ntrack-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

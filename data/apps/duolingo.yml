@@ -11,3 +11,8 @@ src: https://github.com/hmlendea/dl-desktop/archive/refs/tags/v4.3.0.zip
 downloads:
 - name: dl-desktop_4.3.0_linux.zip
   url: https://github.com/hmlendea/dl-desktop/releases/download/v4.3.0/dl-desktop_4.3.0_linux.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/duolingo-desktop-bin
+  found_in: duolingo-desktop-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

@@ -16,3 +16,9 @@ aur:
 - ohhaibrowser-bin
 name: OhHai Browser
 electron_src: https://github.com/OhHaiBrowser/Browser/archive/refs/tags/v3.4.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/OhHaiBrowser/Browser/archive/refs/tags/v3.4.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

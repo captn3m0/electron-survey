@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0-setup.exe
 - name: GameClock-2.7.0.AppImage
   url: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/gameclock-bin
+  found_in: gameclock-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

@@ -35,3 +35,8 @@ downloads:
   url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup.exe
 - name: LemmyModder-0.4.0-Windows-Setup.exe.blockmap
   url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lemmy-modder-app-bin
+  found_in: lemmy-modder-app-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

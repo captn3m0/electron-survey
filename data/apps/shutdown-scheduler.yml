@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/Shutdown.Scheduler-0.0.7.Setup.exe
 - name: shutdown_scheduler-0.0.7-full.nupkg
   url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/shutdown_scheduler-0.0.7-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/shutdown-scheduler-git
+  found_in: shutdown-scheduler-git
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

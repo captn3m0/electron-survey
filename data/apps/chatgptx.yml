@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/ChatGPTx.Setup.1.0.1.exe.zip
 - name: chatgptx_1.0.1_amd64.deb
   url: https://github.com/florindum/chatgpt-desktop-tray/releases/download/v1.0.1/chatgptx_1.0.1_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/chatgptx-bin
+  found_in: chatgptx-bin
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

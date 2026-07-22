@@ -19,3 +19,8 @@ downloads:
   name: ChatGPT_Atlas_Desktop_public_1.2026.189.0_20260717210119000.dmg
   version: 1.2026.189.0,20260717210119000
 we_tried: we1.2.1:urls:08e9ee5df783
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/chatgpt-desktop-bin
+  found_in: chatgpt-desktop-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

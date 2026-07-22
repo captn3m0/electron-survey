@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial_1.0.8_amd64.deb
 - name: chengla-linux-unofficial_1.0.8_amd64.snap
   url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial_1.0.8_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/chengla-linux-unofficial-bin
+  found_in: chengla-linux-unofficial-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

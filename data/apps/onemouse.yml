@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/mppon/onemouse/releases/download/v2.0.0/onemouse-win32-x64.zip
 - name: onemouse_2.0.0_amd64.deb
   url: https://github.com/mppon/onemouse/releases/download/v2.0.0/onemouse_2.0.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/onemouse-bin
+  found_in: onemouse-bin
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

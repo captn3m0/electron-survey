@@ -43,3 +43,8 @@ downloads:
   url: https://github.com/organization/lyrs/releases/download/v0.26.4/Lyrs-Web-Setup-0.26.4.exe
 - name: lyrs_0.26.4_amd64.deb
   url: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs_0.26.4_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lyrs-bin
+  found_in: lyrs-bin
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

@@ -5,3 +5,8 @@ aur:
 - openmarch-bin
 electron: 40.10.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/openmarch-bin
+  found_in: openmarch-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

@@ -11,3 +11,8 @@ src: https://github.com/MillerSpil/ShoppingListApplication/archive/refs/tags/pro
 downloads:
 - name: shoppinglist-win32-ia32.7z
   url: https://github.com/MillerSpil/ShoppingListApplication/releases/download/production-windows/shoppinglist-win32-ia32.7z
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/shoppinglist-bin
+  found_in: shoppinglist-bin
+  signal: depends on electron17; reported as the newest 17.x release (17.4.11)

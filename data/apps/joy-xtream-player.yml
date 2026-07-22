@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/emanoelhenrick/Joy/releases/download/v0.8.3/JOI.Client-0.8.3.setup.exe
 - name: JOI.Client-0.8.3.setup.x86.exe
   url: https://github.com/emanoelhenrick/Joy/releases/download/v0.8.3/JOI.Client-0.8.3.setup.x86.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/joy-xtream-player-git
+  found_in: joy-xtream-player-git
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

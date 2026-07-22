@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/Heonys/topzl-desktop/releases/download/v0.0.6/topzl-0.0.6-win-setup.exe
 - name: topzl-0.0.6-win-setup.zip
   url: https://github.com/Heonys/topzl-desktop/releases/download/v0.0.6/topzl-0.0.6-win-setup.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/topzl-git
+  found_in: topzl-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

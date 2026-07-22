@@ -7,3 +7,8 @@ additionalAUR:
 - heroic-games-launcher-git
 electron: 41.10.2
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/heroic-games-launcher
+  found_in: heroic-games-launcher
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

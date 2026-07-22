@@ -11,3 +11,8 @@ src: https://github.com/funkpopo/simpleshell/archive/refs/tags/v0.4.34.zip
 downloads:
 - name: SimpleShell-v0.4.34-Setup-x64.exe
   url: https://github.com/funkpopo/simpleshell/releases/download/v0.4.34/SimpleShell-v0.4.34-Setup-x64.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/simpleshell-git
+  found_in: simpleshell-git
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

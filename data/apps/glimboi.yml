@@ -5,3 +5,8 @@ aur:
 - glimboi-bin
 electron: 18.3.15
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/glimboi-bin
+  found_in: glimboi-bin
+  signal: depends on electron18; reported as the newest 18.x release (18.3.15)

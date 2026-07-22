@@ -5,3 +5,8 @@ aur:
 - projscope-music-player-bin
 electron: 17.4.11
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/projscope-music-player-bin
+  found_in: projscope-music-player-bin
+  signal: depends on electron17; reported as the newest 17.x release (17.4.11)

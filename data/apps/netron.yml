@@ -36,3 +36,9 @@ packages:
   os: macos
 name: Netron
 electron_src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.1.8.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/lutzroeder/netron/archive/refs/tags/v9.1.8.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

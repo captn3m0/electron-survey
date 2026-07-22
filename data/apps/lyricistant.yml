@@ -5,3 +5,8 @@ aur:
 - lyricistant-bin
 electron: 30.5.1
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lyricistant-bin
+  found_in: lyricistant-bin
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

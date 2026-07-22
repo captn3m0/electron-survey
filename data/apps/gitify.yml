@@ -44,3 +44,9 @@ packages:
   os: macos
 name: Gitify
 electron_src: https://github.com/manosim/gitify/archive/refs/tags/v7.0.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/manosim/gitify/archive/refs/tags/v7.0.0.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

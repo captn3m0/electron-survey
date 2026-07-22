@@ -41,3 +41,8 @@ downloads:
 - name: spark-wallet-0.3.1-win-setup.exe
   url: https://github.com/shesek/spark-wallet/releases/download/v0.3.1/spark-wallet-0.3.1-win-setup.exe
   checksum: 992aad31bf7a755ff7c6390093aeb6ddd63eede6e280c70ad303a3a002672c4e
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/spark-wallet-bin
+  found_in: spark-wallet-bin
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

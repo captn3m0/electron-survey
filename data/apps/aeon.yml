@@ -32,3 +32,8 @@ electron: 23.3.13
 method: aur-depends
 name: Aeon
 we_tried: we0:v0.2.22
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/aeon-bin
+  found_in: aeon-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

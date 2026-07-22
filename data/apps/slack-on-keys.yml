@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/vivek-nexus/slack-on-keys/releases/download/v1.1.2/slack-on-keys-darwin-x64-1.1.2.zip
 - name: slack-on-keys_1.1.2_amd64.deb
   url: https://github.com/vivek-nexus/slack-on-keys/releases/download/v1.1.2/slack-on-keys_1.1.2_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/slack-on-keys-bin
+  found_in: slack-on-keys-bin
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

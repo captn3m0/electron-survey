@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/latest-linux.yml
 - name: latest.yml
   url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/compasscad-bin
+  found_in: compasscad-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

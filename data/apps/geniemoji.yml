@@ -16,3 +16,9 @@ electron: 12.0.15
 method: src-package-lock
 name: Geniemoji
 electron_src: https://github.com/virejdasani/Geniemoji/archive/refs/tags/v6.0.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/virejdasani/Geniemoji/archive/refs/tags/v6.0.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

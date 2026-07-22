@@ -20,3 +20,9 @@ electron: 12.0.2
 method: src-package-lock
 name: Socially
 electron_src: https://github.com/JackHumphries9/Socially/archive/refs/tags/V1.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/JackHumphries9/Socially/archive/refs/tags/V1.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

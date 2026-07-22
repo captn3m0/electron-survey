@@ -57,3 +57,8 @@ downloads:
   url: https://github.com/author-more/penpot-desktop/releases/download/v0.23.2/penpot-desktop.exe
 - name: penpot-desktop.exe.blockmap
   url: https://github.com/author-more/penpot-desktop/releases/download/v0.23.2/penpot-desktop.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/penpot-desktop-bin
+  found_in: penpot-desktop-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

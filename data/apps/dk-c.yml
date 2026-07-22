@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/EntityPlantt/DK-CPP/releases/download/v1.3.1/DK-C%2B%2B-win32-x64.7z
 - name: DK-C++.msi
   url: https://github.com/EntityPlantt/DK-CPP/releases/download/v1.3.1/DK-C%2B%2B.msi
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dk-c++-bin
+  found_in: dk-c++-bin
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

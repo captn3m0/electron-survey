@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/kelp404/electron-s3-file-manager/releases/download/v0.2.0/Electron.S3.File.Manager-0.2.0.dmg
 - name: Electron.S3.File.Manager.0.2.0.exe
   url: https://github.com/kelp404/electron-s3-file-manager/releases/download/v0.2.0/Electron.S3.File.Manager.0.2.0.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-s3-file-manager
+  found_in: electron-s3-file-manager
+  signal: depends on electron20; reported as the newest 20.x release (20.3.12)

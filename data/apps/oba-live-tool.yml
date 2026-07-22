@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_windows_x64.exe
 - name: oba-live-tool_1.6.1_windows_x64.exe.blockmap
   url: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_windows_x64.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/oba-live-tool-git
+  found_in: oba-live-tool-git
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

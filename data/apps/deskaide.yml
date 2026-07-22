@@ -6,3 +6,8 @@ aur:
 - deskaide-bin
 electron: 22.3.27
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/deskaide-bin
+  found_in: deskaide-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

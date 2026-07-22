@@ -29,3 +29,8 @@ downloads:
   url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-Setup-0.9.2.exe
 - name: pause-Setup-0.9.2.exe.blockmap
   url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-Setup-0.9.2.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pause-desktop-bin
+  found_in: pause-desktop-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

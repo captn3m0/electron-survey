@@ -5,3 +5,8 @@ aur:
 - odoo-manager-bin
 electron: 35.7.5
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/odoo-manager-bin
+  found_in: odoo-manager-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

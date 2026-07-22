@@ -11,3 +11,8 @@ src: https://github.com/louisdecharson/converse/archive/refs/tags/v0.2.3.zip
 downloads:
 - name: Converse.app.zip
   url: https://github.com/louisdecharson/converse/releases/download/v0.2.3/Converse.app.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/converse
+  found_in: converse
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

@@ -59,3 +59,8 @@ downloads:
   url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop_1.6.5_amd64.deb
 - name: vesktop_1.6.5_arm64.deb
   url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop_1.6.5_arm64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vesktop-wayafknext-bin
+  found_in: vesktop-wayafknext-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

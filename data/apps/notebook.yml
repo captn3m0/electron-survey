@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/akash2061/NoteBook-app/releases/download/v1.1.0/NoteBook_1.1.0_amd64.deb
 - name: NoteBook_1.1.0_amd64.snap
   url: https://github.com/akash2061/NoteBook-app/releases/download/v1.1.0/NoteBook_1.1.0_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/notebook-bin
+  found_in: notebook-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

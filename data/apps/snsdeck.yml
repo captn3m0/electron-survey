@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/meganii/snsdeck/releases/download/v0.0.3/snsdeck-win32-x64-0.0.3.zip
 - name: snsdeck_0.0.3_amd64.deb
   url: https://github.com/meganii/snsdeck/releases/download/v0.0.3/snsdeck_0.0.3_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/snsdeck
+  found_in: snsdeck
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

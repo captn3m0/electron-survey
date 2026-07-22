@@ -6,3 +6,8 @@ aur:
 - mxiv-git
 electron: 38.8.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mxiv-git
+  found_in: mxiv-git
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

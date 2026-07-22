@@ -29,3 +29,8 @@ downloads:
   url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_win_x64.exe
 - name: yarle-evernote-to-md_win_x64.exe.blockmap
   url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_win_x64.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/yarle-evernote-to-md-bin
+  found_in: yarle-evernote-to-md-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

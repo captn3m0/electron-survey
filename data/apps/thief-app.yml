@@ -37,3 +37,9 @@ downloads:
 electron: 8.5.5
 method: src-range-guess
 electron_src: https://github.com/cteamx/Thief/archive/refs/tags/4.0.0.zip
+evidence:
+  kind: manifest
+  source: https://github.com/cteamx/Thief/archive/refs/tags/4.0.0.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

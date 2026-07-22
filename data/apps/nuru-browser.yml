@@ -11,3 +11,8 @@ src: https://github.com/ackimcu/Nuru-Browser/archive/refs/tags/v1.0.2.zip
 downloads:
 - name: NuruBrowser-1.0.2.AppImage
   url: https://github.com/ackimcu/Nuru-Browser/releases/download/v1.0.2/NuruBrowser-1.0.2.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nuru-browser-bin
+  found_in: nuru-browser-bin
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

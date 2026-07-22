@@ -5,3 +5,8 @@ aur:
 - neanes-bin
 electron: 43.1.1
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/neanes-bin
+  found_in: neanes-bin
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

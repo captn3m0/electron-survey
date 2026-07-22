@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-win32.zip
 - name: video-chapter-injector-win64.zip
   url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-win64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/video-chapter-injector-bin
+  found_in: video-chapter-injector-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

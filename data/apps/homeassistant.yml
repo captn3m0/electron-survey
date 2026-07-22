@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/homeassistant_desktop-1.1.1-full.nupkg
 - name: RELEASES
   url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/RELEASES
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/homeassistant-desktop-bin
+  found_in: homeassistant-desktop-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

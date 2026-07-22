@@ -22,3 +22,9 @@ downloads:
 electron: 43.0.0
 method: src-package-lock
 electron_src: https://github.com/FrostX2/frozen-rpc/archive/refs/tags/v1.0.0-beta-3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/FrostX2/frozen-rpc/archive/refs/tags/v1.0.0-beta-3.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/TaratorMusic.dmg.blockmap
 - name: TaratorMusic.exe
   url: https://github.com/TaratorMusic/TaratorMusic/releases/download/1.8.7/TaratorMusic.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/taratormusic-bin
+  found_in: taratormusic-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

@@ -11,3 +11,8 @@ src: https://github.com/0adri3n/PocketYoutube/archive/refs/tags/v1.3.1.zip
 downloads:
 - name: PocketYoutube-win32-x64-v1.3.1.zip
   url: https://github.com/0adri3n/PocketYoutube/releases/download/v1.3.1/PocketYoutube-win32-x64-v1.3.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pocketyoutube-git
+  found_in: pocketyoutube-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

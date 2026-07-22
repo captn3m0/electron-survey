@@ -34,4 +34,4 @@ def cli() -> None:
     pass
 
 
-from commands import audit, cleanup, cves, dedupe, extract_apps, fetch_versions, freshness, popularity, process, report, stats, summary  # noqa: E402, F401
+from commands import audit, cleanup, cves, dedupe, evidence, extract_apps, fetch_versions, freshness, popularity, process, report, stats, summary  # noqa: E402, F401

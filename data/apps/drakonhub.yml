@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub_2026.06.14_amd64.deb
 - name: drakonhub_2026.06.14_win32_x64.zip
   url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub_2026.06.14_win32_x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/drakonhub-bin
+  found_in: drakonhub-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

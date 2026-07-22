@@ -8,3 +8,8 @@ electron: 6.1.12
 method: aur-depends
 latest: 5.7.5
 src: https://github.com/onblog/JustWrite/archive/refs/tags/5.7.5.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/justwrite-git
+  found_in: justwrite-git
+  signal: depends on electron6; reported as the newest 6.x release (6.1.12)

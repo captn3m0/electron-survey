@@ -5,3 +5,8 @@ aur:
 - godot-launcher-bin
 electron: 41.10.2
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/godot-launcher-bin
+  found_in: godot-launcher-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

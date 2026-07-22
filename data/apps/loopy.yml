@@ -11,3 +11,8 @@ src: https://github.com/jchu634/loopy-desktop/archive/refs/tags/v1.2.1.zip
 downloads:
 - name: loopy-desktop.Setup.1.2.1.exe
   url: https://github.com/jchu634/loopy-desktop/releases/download/v1.2.1/loopy-desktop.Setup.1.2.1.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/loopy-desktop
+  found_in: loopy-desktop
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

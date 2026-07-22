@@ -22,3 +22,9 @@ downloads:
 electron: 39.8.6
 method: src-package-lock
 electron_src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

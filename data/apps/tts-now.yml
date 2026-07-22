@@ -5,3 +5,8 @@ aur:
 - tts-now-bin
 electron: 22.3.27
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tts-now-bin
+  found_in: tts-now-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

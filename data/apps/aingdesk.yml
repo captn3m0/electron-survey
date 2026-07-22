@@ -29,3 +29,8 @@ downloads:
 - name: AingDesk-win-1.2.4-x64.exe
   url: https://github.com/aingdesk/AingDesk/releases/download/v1.2.4/AingDesk-win-1.2.4-x64.exe
 we_tried: we0:v1.2.4
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/aingdesk
+  found_in: aingdesk
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

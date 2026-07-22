@@ -19,3 +19,9 @@ method: src-range-guess
 aur:
 - sqlui-native-bin
 name: display-dj
+evidence:
+  kind: manifest
+  source: https://github.com/synle/display-dj/archive/refs/tags/v7.0.34.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

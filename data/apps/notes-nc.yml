@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-Setup-0.8.0.exe
 - name: Notes-Setup-0.8.0.exe.blockmap
   url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-Setup-0.8.0.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/notes-nc-bin
+  found_in: notes-nc-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

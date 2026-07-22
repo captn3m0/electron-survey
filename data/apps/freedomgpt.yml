@@ -30,3 +30,8 @@ downloads:
   url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/Setup.exe
 - name: WriteZipToSetup.exe
   url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/WriteZipToSetup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/freedomgpt-git
+  found_in: freedomgpt-git
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

@@ -7,3 +7,8 @@ additionalAUR:
 - local-llama-git
 electron: 31.7.7
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/local-llama-bin
+  found_in: local-llama-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

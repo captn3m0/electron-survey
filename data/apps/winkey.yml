@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/BeastCodZ/WinKey/releases/download/Update/WinKey-2.0.0.exe
 - name: WinKey-2.0.0.pacman
   url: https://github.com/BeastCodZ/WinKey/releases/download/Update/WinKey-2.0.0.pacman
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/winkey-bin
+  found_in: winkey-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

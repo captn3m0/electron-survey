@@ -45,3 +45,9 @@ src: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.0.11.zip
 electron: 40.4.0
 method: src-yarn-lock
 electron_src: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.0.11.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.0.11.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

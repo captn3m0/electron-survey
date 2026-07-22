@@ -9,3 +9,9 @@ src: https://github.com/greboid/tithon/archive/refs/tags/v0.0.41.zip
 electron: 39.2.7
 method: src-package-lock
 electron_src: https://github.com/greboid/tithon/archive/refs/tags/v0.0.41.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/greboid/tithon/archive/refs/tags/v0.0.41.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

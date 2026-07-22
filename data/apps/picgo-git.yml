@@ -55,3 +55,8 @@ downloads:
   url: https://github.com/Molunerfinn/PicGo/releases/download/v3.0.1/PicGo-3.0.1-x64.exe.blockmap
 - name: PicGo-3.0.1-x86_64.AppImage
   url: https://github.com/Molunerfinn/PicGo/releases/download/v3.0.1/PicGo-3.0.1-x86_64.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/picgo-git
+  found_in: picgo-git
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

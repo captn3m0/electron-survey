@@ -31,3 +31,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/AnthonyGress/Android-Toolkit/releases/download/v1.5.27/latest.yml
 we_tried: we0:v1.5.27
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/android-toolkit
+  found_in: android-toolkit
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

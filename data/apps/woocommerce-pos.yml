@@ -29,3 +29,8 @@ downloads:
   url: https://github.com/wcpos/electron/releases/download/v1.9.9/woocommerce-pos_1.9.9_amd64.deb
 - name: WooCommercePOS-1.9.9-full.nupkg
   url: https://github.com/wcpos/electron/releases/download/v1.9.9/WooCommercePOS-1.9.9-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/woocommerce-pos
+  found_in: woocommerce-pos
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

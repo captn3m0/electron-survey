@@ -28,3 +28,8 @@ packages:
   os: macos
 name: Wire
 we_tried: we1.2.1:urls:cd3022f95015
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wire-desktop-git
+  found_in: wire-desktop-git
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

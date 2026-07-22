@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/latest-linux.yml
 - name: latest.yml
   url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-dam-bin
+  found_in: electron-dam-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

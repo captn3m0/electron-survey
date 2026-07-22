@@ -5,3 +5,8 @@ aur:
 - edgetx-buddy-bin
 electron: 29.4.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/edgetx-buddy-bin
+  found_in: edgetx-buddy-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-macos-v0.3.3.zip
 - name: texturelab-win-v0.3.3.zip
   url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-win-v0.3.3.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/texturelab-bin
+  found_in: texturelab-bin
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

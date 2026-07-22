@@ -8,3 +8,8 @@ electron: 31.7.7
 method: aur-depends
 latest: '@quory/core@6.1.0'
 src: https://github.com/CNimmo16/quory/archive/refs/tags/@quory/core@6.1.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/quory-bin
+  found_in: quory-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

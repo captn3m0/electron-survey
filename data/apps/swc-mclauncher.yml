@@ -7,3 +7,8 @@ additionalAUR:
 - swc-ytdownloader-bin
 electron: 28.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/swc-mclauncher-bin
+  found_in: swc-mclauncher-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

@@ -33,3 +33,9 @@ packages:
   arch: arm64
 name: Signal
 electron_src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.19.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.19.0.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

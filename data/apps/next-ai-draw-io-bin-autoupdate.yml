@@ -49,3 +49,8 @@ downloads:
   url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io.0.4.16.exe
 - name: Next.AI.Draw.io.Setup.0.4.16.exe
   url: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io.Setup.0.4.16.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/next-ai-draw-io-bin-autoupdate
+  found_in: next-ai-draw-io-bin-autoupdate
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

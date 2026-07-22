@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260721031802/todoist-wrapper-latest.rpm
 - name: todoist-wrapper-linux-x64.zip
   url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260721031802/todoist-wrapper-linux-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/todoist-wrapper-bin
+  found_in: todoist-wrapper-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

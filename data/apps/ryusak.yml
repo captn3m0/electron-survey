@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-win32-x64-1.6.2.zip
 - name: ryusak_1.6.2_amd64.deb
   url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/ryusak_1.6.2_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ryusak
+  found_in: ryusak
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

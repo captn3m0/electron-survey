@@ -21,3 +21,9 @@ method: src-package-lock
 aur:
 - sqlui-native-bin
 name: sqlui-native
+evidence:
+  kind: lockfile
+  source: https://github.com/synle/sqlui-native/archive/refs/tags/v3.1.9.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

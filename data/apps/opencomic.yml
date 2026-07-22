@@ -67,3 +67,9 @@ aur:
 homebrew: opencomic
 name: OpenComic
 electron_src: https://github.com/ollm/OpenComic/archive/refs/tags/v1.6.5.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ollm/OpenComic/archive/refs/tags/v1.6.5.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

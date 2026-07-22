@@ -18,3 +18,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/friendsofagape/autographa/releases/download/v2.4.0/latest.yml
 we_tried: we0:v2.4.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/autographa-bin
+  found_in: autographa-bin
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

@@ -14,3 +14,9 @@ downloads:
 electron: 23.2.0
 method: src-package-json
 electron_src: https://github.com/dcrousso/GroupMe/archive/refs/tags/v1.1.2.zip
+evidence:
+  kind: manifest
+  source: https://github.com/dcrousso/GroupMe/archive/refs/tags/v1.1.2.zip
+  found_in: package.json
+  signal: electron pinned to an exact version in package.json
+  reconstructed: true

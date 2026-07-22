@@ -40,3 +40,9 @@ aur:
 - mediachips-bin
 name: mediaChips
 electron_src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.3.4.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.3.4.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

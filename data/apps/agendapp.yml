@@ -20,3 +20,8 @@ downloads:
 - name: agendapp-1.5.0-win32-x64.zip
   url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-win32-x64.zip
 we_tried: we0:1.5.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/agendapp
+  found_in: agendapp
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

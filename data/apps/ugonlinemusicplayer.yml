@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/uguang2003/UGOnlineMusicPlayer/releases/download/V1.0.2/UGOnlineMusicPlayer-V1.0.2.apk
 - name: UGOnlineMusicPlayer_Setup-V1.0.2.exe
   url: https://github.com/uguang2003/UGOnlineMusicPlayer/releases/download/V1.0.2/UGOnlineMusicPlayer_Setup-V1.0.2.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ugonlinemusicplayer-git
+  found_in: ugonlinemusicplayer-git
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

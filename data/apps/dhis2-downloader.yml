@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/worldbank/DHIS2-Downloader/releases/download/v0.6.3/dhis2-downloader-0.6.3.AppImage
 - name: dhis2-downloader_0.6.3_amd64.deb
   url: https://github.com/worldbank/DHIS2-Downloader/releases/download/v0.6.3/dhis2-downloader_0.6.3_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dhis2-downloader-bin
+  found_in: dhis2-downloader-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

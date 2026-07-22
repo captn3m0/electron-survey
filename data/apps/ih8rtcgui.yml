@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/kenny59/ih8rtcgui/releases/download/v0.0.8/ih8rtcgui-Setup-0.0.8.exe.blockmap
 - name: latest.yml
   url: https://github.com/kenny59/ih8rtcgui/releases/download/v0.0.8/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ih8rtcgui
+  found_in: ih8rtcgui
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

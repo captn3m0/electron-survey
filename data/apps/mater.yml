@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/jasonlong/mater/releases/download/v3.0.1/Mater-v3.0.1-macos.zip
 homebrew: mater
 we_tried: we1.2.1:v3.0.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mater-bin
+  found_in: mater-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

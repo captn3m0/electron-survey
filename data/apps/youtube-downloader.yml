@@ -15,3 +15,8 @@ downloads:
   name: Youtube.Downloader.zip
   version: '0.23'
 we_tried: we1.2.1:urls:be84761c605a
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/youtube-downloader-git
+  found_in: youtube-downloader-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

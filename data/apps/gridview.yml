@@ -6,3 +6,8 @@ aur:
 - gridview-git
 electron: 26.6.10
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/gridview-git
+  found_in: gridview-git
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

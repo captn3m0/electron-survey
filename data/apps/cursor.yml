@@ -55,3 +55,8 @@ downloads:
   name: Cursor-darwin-arm64.zip
   version: 3.12.17,0fb762053c34788bb7760d5673f8a6d4c8589d52
 we_tried: we1.2.1:urls:df767f3ea373
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cursor-bin
+  found_in: cursor-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

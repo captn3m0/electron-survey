@@ -50,3 +50,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.7/latest.yml
 we_tried: we0:v5.0.5
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/aliyunpan-gaozhangmin-bin
+  found_in: aliyunpan-gaozhangmin-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

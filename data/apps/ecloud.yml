@@ -10,3 +10,8 @@ downloads:
 - url: https://download.cloud.189.cn/file/downloadFile.action?dlt=4&dt=1&expired=1766930486508&sk=297953828&ufi=61304212366059386&zyc=60&token=cloud3&sig=gfhWf6DndIlD28kChBJM1d48E18%3D
   name: downloadFile.action
   version: 1.1.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ecloud-bin
+  found_in: ecloud-bin
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

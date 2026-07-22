@@ -5,3 +5,8 @@ aur:
 - graycrown-bin
 electron: 20.3.12
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/graycrown-bin
+  found_in: graycrown-bin
+  signal: depends on electron20; reported as the newest 20.x release (20.3.12)

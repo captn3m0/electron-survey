@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/Fotoluks-Manager-Setup-2.4.0.exe.blockmap
 - name: latest.yml
   url: https://github.com/Evernayt/fotoluks-manager/releases/download/2.4.0/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/fotoluks-manager-git
+  found_in: fotoluks-manager-git
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

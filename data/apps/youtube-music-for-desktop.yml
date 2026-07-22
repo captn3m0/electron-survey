@@ -44,3 +44,9 @@ aur:
 - youtube-music-for-desktop-bin
 name: Youtube Music for Desktop (Unofficial)
 electron_src: https://github.com/Venipa/ytmdesktop2/archive/refs/tags/v0.18.9.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Venipa/ytmdesktop2/archive/refs/tags/v0.18.9.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

@@ -7,3 +7,8 @@ additionalAUR:
 - huaweicloudmeeting-bin
 electron: 20.3.12
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/huaweicloudmeeting
+  found_in: huaweicloudmeeting
+  signal: depends on electron20; reported as the newest 20.x release (20.3.12)

@@ -8,3 +8,8 @@ additionalAUR:
 - imfile-git
 electron: 42.7.0
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/imfile
+  found_in: imfile
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

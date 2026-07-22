@@ -104,7 +104,28 @@ def test_process_returns_the_first_version_found(monkeypatch):
         "https://x/App.deb": {"version": "v35.6.0", "method": "rg"},
         "https://x/App.dmg": {"signals": []},
     })
-    assert we.process(entry) == {"electron": "35.6.0", "method": "which-electron-rg"}
+    assert we.process(entry) == {
+        "electron": "35.6.0",
+        "method": "which-electron-rg",
+        "evidence": {
+            "kind": "binary",
+            "source": "https://x/App.deb",
+            "found_in": "App.deb",
+            "signal": "which-electron rg signal",
+        },
+    }
+
+
+def test_process_records_which_artefact_answered(monkeypatch):
+    """The first candidate is unreadable, so the evidence must name the second."""
+    entry = {"id": "x", "packages": [{"url": "https://x/App.deb"}, {"url": "https://x/App.dmg"}]}
+    _FakeDownloads(monkeypatch, {
+        "https://x/App.deb": {"signals": []},
+        "https://x/App.dmg": {"version": "v20.0.0", "method": "fingerprint"},
+    })
+    evidence = we.process(entry)["evidence"]
+    assert evidence["found_in"] == "App.dmg"
+    assert evidence["source"] == "https://x/App.dmg"
 
 
 def test_process_marks_checked_only_when_every_artefact_was_read(monkeypatch):
@@ -153,3 +174,23 @@ def test_process_treats_a_tool_crash_as_unread_not_as_a_clean_miss(monkeypatch):
 
     assert we.process(entry) is None
     assert we.matches(entry) is True
+
+
+def test_resolved_apps_are_not_reclaimed_by_default():
+    entry = {"id": "x", "electron": "30.0.0", "method": "which-electron-rg",
+             "packages": [{"url": "https://x/App.deb"}]}
+    assert we.matches(entry) is False
+
+
+def test_backfill_flag_reclaims_only_binary_results_missing_evidence(monkeypatch):
+    monkeypatch.setattr(we, "_BACKFILL_EVIDENCE", True)
+    binary_no_evidence = {"id": "x", "electron": "30.0.0", "method": "which-electron-rg",
+                          "packages": [{"url": "https://x/App.deb"}]}
+    binary_with_evidence = {**binary_no_evidence, "evidence": {"kind": "binary"}}
+    lockfile_result = {"id": "y", "electron": "30.0.0", "method": "src-package-lock",
+                       "packages": [{"url": "https://y/App.deb"}]}
+
+    assert we.matches(binary_no_evidence) is True
+    assert we.matches(binary_with_evidence) is False
+    # A lockfile reading is not this processor's to re-derive.
+    assert we.matches(lockfile_result) is False

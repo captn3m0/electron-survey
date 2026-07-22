@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/GHchenjingqi/panda/releases/download/v1.1.9/panda-app.Setup.1.1.9.exe.blockmap
 homebrew: panda
 we_tried: we1.2.1:v1.1.9
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/panda-app-git
+  found_in: panda-app-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-win_ia32.exe
 - name: electronwmd-0.5.2-1.5.3-win_x64.exe
   url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-win_x64.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electronwmd-bin
+  found_in: electronwmd-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

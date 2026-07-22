@@ -61,3 +61,9 @@ method: src-pnpm-lock
 homebrew: iptvnator
 name: IPTVnator
 electron_src: https://github.com/4gray/iptvnator/archive/refs/tags/v0.22.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/4gray/iptvnator/archive/refs/tags/v0.22.0.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

@@ -17,3 +17,9 @@ aur:
 - premid-nightly
 name: PreMiD
 electron_src: https://github.com/PreMiD/PreMiD/archive/refs/tags/app-v2.2.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/PreMiD/PreMiD/archive/refs/tags/app-v2.2.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

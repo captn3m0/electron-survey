@@ -92,3 +92,8 @@ packages:
   os: macos
   arch: arm64
 name: Visual Studio Code
+evidence:
+  kind: binary
+  source: https://vscode.download.prss.microsoft.com/dbazure/download/insider/5e212606d57c0a17f73bc8b7ae0cc9e14bcfd345/VSCode-darwin-arm64.zip
+  found_in: VSCode-darwin-arm64.zip
+  signal: which-electron rg signal

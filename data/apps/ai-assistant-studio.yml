@@ -11,3 +11,8 @@ src: https://github.com/gabrielborgesdm/ai-assistant-studio/archive/refs/tags/v2
 downloads:
 - name: ai-assistant-studio-2.0.0-setup.exe
   url: https://github.com/gabrielborgesdm/ai-assistant-studio/releases/download/v2.1.0/ai-assistant-studio-2.0.0-setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ai-assistant-studio-bin
+  found_in: ai-assistant-studio-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

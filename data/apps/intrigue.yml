@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue.Setup.1.5.0.exe
 - name: intrigue_1.5.0_amd64.snap
   url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/intrigue_1.5.0_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/intrigue-bin
+  found_in: intrigue-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

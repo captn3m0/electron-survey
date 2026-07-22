@@ -5,3 +5,8 @@ aur:
 - mods-manager-for-3dmigoto-bin
 electron: 32.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/mods-manager-for-3dmigoto-bin
+  found_in: mods-manager-for-3dmigoto-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/anthonypauwels/favicon-generator/releases/download/0.1.1/favicon-generator-macos-0.1.1.dmg
 - name: favicon-generator-windows-0.1.1.exe
   url: https://github.com/anthonypauwels/favicon-generator/releases/download/0.1.1/favicon-generator-windows-0.1.1.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/favicon-generator
+  found_in: favicon-generator
+  signal: depends on electron14; reported as the newest 14.x release (14.2.9)

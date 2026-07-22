@@ -5,3 +5,8 @@ aur:
 - spacemesh-bin
 electron: 25.9.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/spacemesh-bin
+  found_in: spacemesh-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

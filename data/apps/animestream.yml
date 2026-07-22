@@ -8,3 +8,8 @@ additionalAUR:
 - animestream-git
 electron: 27.3.11
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/animestream-bin
+  found_in: animestream-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

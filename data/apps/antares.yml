@@ -51,3 +51,9 @@ aur:
 - antares-sql-git
 name: Antares
 electron_src: https://github.com/antares-sql/antares/archive/refs/tags/v0.7.35.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/antares-sql/antares/archive/refs/tags/v0.7.35.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

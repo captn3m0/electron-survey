@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Windows-0.1.5-Setup.exe
 - name: nats-js-client-Windows-0.1.5-Setup.exe.blockmap
   url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Windows-0.1.5-Setup.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nats-js-client-bin
+  found_in: nats-js-client-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

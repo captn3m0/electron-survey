@@ -29,3 +29,8 @@ downloads:
   url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/TOMATOX-Setup-2.0.2.exe.blockmap
 - name: tomatox_2.0.2_amd64.snap
   url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/tomatox_2.0.2_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tomatox-bin
+  found_in: tomatox-bin
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

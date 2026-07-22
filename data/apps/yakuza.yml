@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/fzdwx/yakuza/releases/download/0.2.4/yactrl
 - name: yakuza-0.1.0.AppImage
   url: https://github.com/fzdwx/yakuza/releases/download/0.2.4/yakuza-0.1.0.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/yakuza-bin
+  found_in: yakuza-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

@@ -108,3 +108,8 @@ downloads:
 - name: SHA256SUMS.txt
   url: https://github.com/any-listen/any-listen-desktop/releases/download/v0.7.1/SHA256SUMS.txt
 we_tried: we0:v0.7.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/any-listen-desktop
+  found_in: any-listen-desktop
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

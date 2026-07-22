@@ -48,3 +48,9 @@ electron: 16.2.8
 method: src-package-lock
 name: Tockler
 electron_src: https://github.com/MayGo/tockler/archive/refs/tags/v4.0.21.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/MayGo/tockler/archive/refs/tags/v4.0.21.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

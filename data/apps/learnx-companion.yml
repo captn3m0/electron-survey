@@ -29,3 +29,8 @@ downloads:
   url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-win-x64-v2.5.0.exe
 - name: learnX-companion-win-x64-v2.5.0.exe.blockmap
   url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-win-x64-v2.5.0.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/learnx-companion-electron-git
+  found_in: learnx-companion-electron-git
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

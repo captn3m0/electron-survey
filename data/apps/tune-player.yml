@@ -11,3 +11,8 @@ src: https://github.com/Moebytes/Tune-Player/archive/refs/tags/v1.0.0.zip
 downloads:
 - name: Tune-Player-1.0.0.AppImage
   url: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tune-player-bin
+  found_in: tune-player-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

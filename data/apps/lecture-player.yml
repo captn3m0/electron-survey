@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/real-vinay/learnhub/releases/download/v1.1.1/LearnHub-Setup-1.1.1.exe
 - name: LearnHub-Setup-1.1.1.exe.blockmap
   url: https://github.com/real-vinay/learnhub/releases/download/v1.1.1/LearnHub-Setup-1.1.1.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lecture-player-git
+  found_in: lecture-player-git
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

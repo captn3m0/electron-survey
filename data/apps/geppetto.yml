@@ -18,3 +18,9 @@ electron: 16.0.0
 method: src-yarn-lock
 name: Geppetto
 electron_src: https://github.com/matthijsgroen/geppetto/archive/refs/tags/1.3.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/matthijsgroen/geppetto/archive/refs/tags/1.3.1.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

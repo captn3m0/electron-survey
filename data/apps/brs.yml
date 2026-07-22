@@ -30,3 +30,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/lvcabral/brs-desktop/releases/download/v2.2.0/latest.yml
 we_tried: we0:v2.2.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/brs-desktop-bin
+  found_in: brs-desktop-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

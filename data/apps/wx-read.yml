@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read-0.2.2.dmg
 - name: wx-read.Setup.0.2.2.exe
   url: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read.Setup.0.2.2.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wx-read
+  found_in: wx-read
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

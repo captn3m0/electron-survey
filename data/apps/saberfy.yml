@@ -11,3 +11,8 @@ src: https://github.com/LoliE1ON/Saberfy/archive/refs/tags/v2.1.0.zip
 downloads:
 - name: Saberfy_v2.1.0.exe
   url: https://github.com/dev-okinawa/Saberfy/releases/download/v2.1.0/Saberfy_v2.1.0.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/saberfy
+  found_in: saberfy
+  signal: depends on electron16; reported as the newest 16.x release (16.2.8)

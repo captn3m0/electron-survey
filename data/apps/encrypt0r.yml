@@ -22,3 +22,9 @@ downloads:
 - name: encrypt0r-windows-x86.zip
   url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-windows-x86.zip
 electron_src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.70.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.70.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

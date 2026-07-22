@@ -5,3 +5,8 @@ aur:
 - moyu-bin
 electron: 16.2.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/moyu-bin
+  found_in: moyu-bin
+  signal: depends on electron16; reported as the newest 16.x release (16.2.8)

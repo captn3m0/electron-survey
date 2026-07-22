@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-win32-ia32.zip
 - name: DesktopNaotu-win32-x64.zip
   url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/desktop-naotu
+  found_in: desktop-naotu
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

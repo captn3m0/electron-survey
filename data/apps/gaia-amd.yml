@@ -35,3 +35,8 @@ downloads:
   url: https://github.com/amd/gaia/releases/download/v0.22.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/amd/gaia/releases/download/v0.22.0/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/gaia-amd-webui
+  found_in: gaia-amd-webui
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

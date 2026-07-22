@@ -32,3 +32,9 @@ electron: 18.2.0
 method: src-package-lock
 name: Transee
 electron_src: https://github.com/alessioforte/transee/archive/refs/tags/v2.1.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/alessioforte/transee/archive/refs/tags/v2.1.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

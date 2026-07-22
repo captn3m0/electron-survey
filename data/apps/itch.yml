@@ -21,3 +21,9 @@ aur:
 - itch-setup-git
 - kitch-setup-bin
 electron_src: https://github.com/itchio/itch/archive/refs/tags/v26.15.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/itchio/itch/archive/refs/tags/v26.15.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

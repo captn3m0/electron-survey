@@ -5,3 +5,8 @@ aur:
 - materialious
 electron: 43.1.1
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/materialious
+  found_in: materialious
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

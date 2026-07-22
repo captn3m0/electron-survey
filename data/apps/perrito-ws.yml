@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/perrito_ws-1.1.0-full.nupkg
 - name: RELEASES
   url: https://github.com/KAIKAKU-AI/perrito-ws/releases/download/v1.1.0/RELEASES
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/perrito-ws
+  found_in: perrito-ws
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

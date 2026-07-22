@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu.Setup.0.1.8.exe
 - name: PuPu_0.1.8.deb
   url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu_0.1.8.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pupu-bin
+  found_in: pupu-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

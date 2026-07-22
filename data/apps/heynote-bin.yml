@@ -54,3 +54,8 @@ downloads:
   url: https://github.com/heyman/heynote/releases/download/v2.9.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/heyman/heynote/releases/download/v2.9.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/heynote
+  found_in: heynote
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

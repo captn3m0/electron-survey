@@ -16,3 +16,8 @@ downloads:
 - name: BetterSoundCloud.0.7.1.zip
   url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.zip
 we_tried: we0:V0.7.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bettersoundcloud
+  found_in: bettersoundcloud
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

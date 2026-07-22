@@ -14,3 +14,9 @@ method: src-package-lock
 homebrew: magiccap
 name: MagicCap
 electron_src: https://github.com/MagicCap/MagicCap/archive/refs/tags/v2.1.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/MagicCap/MagicCap/archive/refs/tags/v2.1.2.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

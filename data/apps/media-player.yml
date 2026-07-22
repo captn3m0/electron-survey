@@ -11,3 +11,8 @@ src: https://github.com/cesar-al-dev/media-player-electron/archive/refs/tags/v0.
 downloads:
 - name: ElectronMediaPlayer-Windows-0.0.2-Setup.exe
   url: https://github.com/cesar-al-dev/media-player-electron/releases/download/v0.0.2-alpha/ElectronMediaPlayer-Windows-0.0.2-Setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/media-player-electron-git
+  found_in: media-player-electron-git
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

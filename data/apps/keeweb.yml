@@ -79,3 +79,9 @@ packages:
   os: linux
   arch: x64
 electron_src: https://github.com/keeweb/keeweb/archive/refs/tags/v1.18.7.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/keeweb/keeweb/archive/refs/tags/v1.18.7.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

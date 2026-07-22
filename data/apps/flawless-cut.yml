@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/metadream/flawless-cut/releases/download/1.2.2/FlawlessCut-1.2.2-arm64.dmg
 - name: FlawlessCut-1.2.2-x64.zip
   url: https://github.com/metadream/flawless-cut/releases/download/1.2.2/FlawlessCut-1.2.2-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/flawless-cut-bin
+  found_in: flawless-cut-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

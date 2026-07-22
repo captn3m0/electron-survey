@@ -32,3 +32,8 @@ downloads:
   url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.0.exe
 - name: Video.Hub.App.3.Demo.Setup.3.2.1.exe
   url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.1.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/video-hub-app-bin
+  found_in: video-hub-app-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

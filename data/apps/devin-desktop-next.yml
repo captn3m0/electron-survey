@@ -10,3 +10,8 @@ packages:
   arch: arm64
 electron: 39.8.10
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/devin-desktop-next
+  found_in: devin-desktop-next
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

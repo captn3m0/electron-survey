@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/ArthurLobopro/dicionario.js/releases/download/v2.7.5/dicionario.js_2.7.5_amd64.deb
 - name: RELEASES
   url: https://github.com/ArthurLobopro/dicionario.js/releases/download/v2.7.5/RELEASES
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dicionario.js-bin
+  found_in: dicionario.js-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

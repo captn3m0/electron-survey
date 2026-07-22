@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-win32-x64.zip
 - name: RELEASES
   url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/RELEASES
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/guiwrapper-bin
+  found_in: guiwrapper-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

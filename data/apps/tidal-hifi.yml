@@ -45,3 +45,9 @@ downloads:
 electron: 41.5.0+wvcus
 method: src-package-lock
 electron_src: https://github.com/Mastermindzh/tidal-hifi/archive/refs/tags/8.0.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Mastermindzh/tidal-hifi/archive/refs/tags/8.0.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

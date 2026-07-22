@@ -8,3 +8,8 @@ electron: 28.3.3
 method: aur-depends
 latest: 1.0.0
 src: https://github.com/chenyk2016/Browser-Manager/archive/refs/tags/1.0.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/browser-manager-git
+  found_in: browser-manager-git
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

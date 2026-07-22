@@ -5,3 +5,8 @@ aur:
 - kaleido-client-git
 electron: 31.7.7
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/kaleido-client-git
+  found_in: kaleido-client-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

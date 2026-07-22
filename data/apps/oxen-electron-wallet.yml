@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-win.exe
 - name: oxen-electron-wallet-1.8.4-win.exe.blockmap
   url: https://github.com/oxen-io/oxen-electron-gui-wallet/releases/download/v1.8.4/oxen-electron-wallet-1.8.4-win.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/oxen-electron-wallet
+  found_in: oxen-electron-wallet
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

@@ -34,3 +34,9 @@ homebrew: redis-insight
 electron: 41.7.2
 method: src-yarn-lock
 electron_src: https://github.com/redis/RedisInsight/archive/refs/tags/3.8.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/redis/RedisInsight/archive/refs/tags/3.8.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

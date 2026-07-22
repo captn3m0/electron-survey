@@ -18,3 +18,8 @@ downloads:
 - name: Bili-LiveLuckDraw-Windows-v1.0.5-Setup.exe
   url: https://github.com/grtsinry43/Bili-LiveLuckDraw/releases/download/v1.0.5/Bili-LiveLuckDraw-Windows-v1.0.5-Setup.exe
 we_tried: we0:v1.0.5
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bili-liveluckdraw-bin
+  found_in: bili-liveluckdraw-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

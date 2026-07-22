@@ -80,3 +80,9 @@ packages:
   arch: arm64
 name: Mattermost
 electron_src: https://github.com/mattermost/desktop/archive/refs/tags/v6.2.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/mattermost/desktop/archive/refs/tags/v6.2.2.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

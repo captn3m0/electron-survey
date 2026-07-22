@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/nekobato/RoundDrop/releases/download/v1.6.2/RoundDrop-1.6.2-arm64-mac.zip.blockmap
 - name: RoundDrop-1.6.2-arm64.dmg
   url: https://github.com/nekobato/RoundDrop/releases/download/v1.6.2/RoundDrop-1.6.2-arm64.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/round-drop-git
+  found_in: round-drop-git
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

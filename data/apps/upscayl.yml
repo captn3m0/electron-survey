@@ -57,3 +57,9 @@ src: https://github.com/upscayl/upscayl/archive/refs/tags/v2.15.0.zip
 electron: 27.3.10
 method: src-package-lock
 electron_src: https://github.com/upscayl/upscayl/archive/refs/tags/v2.15.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/upscayl/upscayl/archive/refs/tags/v2.15.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

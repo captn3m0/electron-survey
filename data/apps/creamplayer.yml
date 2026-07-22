@@ -11,3 +11,8 @@ src: https://github.com/Beadd/Creamplayer/archive/refs/tags/v5.2.2.zip
 downloads:
 - name: creamplayer-win32-x64.zip
   url: https://github.com/Beadd/Creamplayer/releases/download/v5.2.2/creamplayer-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/creamplayer
+  found_in: creamplayer
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

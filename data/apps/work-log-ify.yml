@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/dmitrijs/WorkLogIfy/releases/download/v1.45.2/WorkLogIfy-mac-v1.45.2.dmg
 - name: WorkLogIfy-win-v1.45.2.exe
   url: https://github.com/dmitrijs/WorkLogIfy/releases/download/v1.45.2/WorkLogIfy-win-v1.45.2.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/work-log-ify-git
+  found_in: work-log-ify-git
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

@@ -80,3 +80,9 @@ src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.7.3.zip
 electron: 42.6.1
 method: src-pnpm-lock
 electron_src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.7.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.7.3.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

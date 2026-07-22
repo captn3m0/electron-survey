@@ -18,3 +18,9 @@ aur:
 - petal
 name: Petal
 electron_src: https://github.com/ilime/Petal/archive/refs/tags/v2.25.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ilime/Petal/archive/refs/tags/v2.25.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

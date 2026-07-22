@@ -12,3 +12,8 @@ downloads:
 - name: Lan.-darwin-x64-1.2.0.zip
   url: https://github.com/easyhutu/any-sync-gui/releases/download/v1.6.0/Lan.-darwin-x64-1.2.0.zip
 we_tried: we0:v1.6.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/any-sync-gui
+  found_in: any-sync-gui
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

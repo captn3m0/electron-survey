@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.exe.blockmap
 - name: wj-markdown-editor-win32-x64-2.19.7.zip
   url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wj-markdown-editor-bin
+  found_in: wj-markdown-editor-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

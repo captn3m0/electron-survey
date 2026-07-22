@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/jamieweavis/streaker/releases/download/v2.6.1/Streaker-darwin-arm64-2.6.1.zip
 - name: streaker_2.6.1_amd64.deb
   url: https://github.com/jamieweavis/streaker/releases/download/v2.6.1/streaker_2.6.1_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/streaker-bin
+  found_in: streaker-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

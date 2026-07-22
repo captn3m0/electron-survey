@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/Sherlockouo/music/releases/download/v2.8.0/R3PLAYX-2.8.0-mac-x64.dmg
 - name: R3PLAYX-2.8.0-win-x64-Setup.exe
   url: https://github.com/Sherlockouo/music/releases/download/v2.8.0/R3PLAYX-2.8.0-win-x64-Setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/r3playx-bin
+  found_in: r3playx-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

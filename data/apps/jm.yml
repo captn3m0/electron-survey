@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-linux-x64-2.2.1.zip
 - name: jm-desktop-win32-x64-2.2.1.zip
   url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-win32-x64-2.2.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/jm-desktop-bin
+  found_in: jm-desktop-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

@@ -8,3 +8,8 @@ electron: 4.2.12
 method: aur-depends
 latest: 0.3.0
 src: https://github.com/willnewii/qiniuClient/archive/refs/tags/0.3.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/qiniuclient
+  found_in: qiniuclient
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

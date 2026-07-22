@@ -20,3 +20,9 @@ downloads:
 electron: 33.4.11
 method: src-range-guess
 electron_src: https://github.com/0xGingi/T3_Chat_Electron/archive/refs/tags/v1.0.0.zip
+evidence:
+  kind: manifest
+  source: https://github.com/0xGingi/T3_Chat_Electron/archive/refs/tags/v1.0.0.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

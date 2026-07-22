@@ -75,3 +75,8 @@ downloads:
   url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-win-ia32-2.2.0.zip
 - name: update-win-x64-2.2.0.zip
   url: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/update-win-x64-2.2.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dev-sidecar-git
+  found_in: dev-sidecar-git
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

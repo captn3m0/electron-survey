@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/xunxun10/snippet-notes/releases/download/0.6.0/snippet-note-linux-arm64-0.6.0.z02
 - name: snippet-note-linux-arm64-0.6.0.zip
   url: https://github.com/xunxun10/snippet-notes/releases/download/0.6.0/snippet-note-linux-arm64-0.6.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/snippet-notes
+  found_in: snippet-notes
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

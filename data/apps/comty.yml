@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/ragestudio/comty/releases/download/rel-260720_1/dist.zip
 - name: versions.json
   url: https://github.com/ragestudio/comty/releases/download/rel-260720_1/versions.json
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/comty-desktop
+  found_in: comty-desktop
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

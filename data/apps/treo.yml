@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/developerEhsan/Treo/releases/download/v1.1.6/latest.yml
 - name: treo-1.1.6-setup.exe
   url: https://github.com/developerEhsan/Treo/releases/download/v1.1.6/treo-1.1.6-setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/treo-git
+  found_in: treo-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

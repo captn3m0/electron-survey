@@ -60,3 +60,9 @@ packages:
   arch: arm64
 name: Zettlr
 electron_src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.6.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/zettlr/zettlr/archive/refs/tags/v4.6.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

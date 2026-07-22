@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_ia32.deb
 - name: Electron-PDF-Viewer_1.0.0_win.exe
   url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_win.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-pdf-viewer-bin
+  found_in: electron-pdf-viewer-bin
+  signal: depends on electron2; reported as the newest 2.x release (2.1.0-unsupported.20180809)

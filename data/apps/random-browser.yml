@@ -11,3 +11,8 @@ src: https://github.com/YisusGaming/random-browser/archive/refs/tags/v2.0.0.zip
 downloads:
 - name: random-browser-win32-portable.zip
   url: https://github.com/MikaYxCoding/random-browser/releases/download/v2.0.0/random-browser-win32-portable.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/random-browser-git
+  found_in: random-browser-git
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

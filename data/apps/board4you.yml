@@ -20,3 +20,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/GachiLord/board4you/releases/download/v1.0.9/latest.yml
 we_tried: we0:v1.0.9
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/board4you-bin
+  found_in: board4you-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

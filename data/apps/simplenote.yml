@@ -57,3 +57,9 @@ aur:
 homebrew: simplenote
 name: Simplenote
 electron_src: https://github.com/Automattic/simplenote-electron/archive/refs/tags/v2.27.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Automattic/simplenote-electron/archive/refs/tags/v2.27.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

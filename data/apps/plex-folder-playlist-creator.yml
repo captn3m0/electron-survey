@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-1.0.4-x86_64.AppImage
 - name: PlexFolderPlaylistCreator-darwin-arm64.zip
   url: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-darwin-arm64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/plex-folder-playlist-creator-bin
+  found_in: plex-folder-playlist-creator-bin
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

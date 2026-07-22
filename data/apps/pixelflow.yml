@@ -8,3 +8,8 @@ electron: 34.5.8
 method: aur-depends
 latest: 2.0.0
 src: https://github.com/FayazK/Pixelflow/archive/refs/tags/2.0.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pixelflow
+  found_in: pixelflow
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

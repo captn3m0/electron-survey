@@ -43,3 +43,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/latest.yml
 we_tried: we0:v0.37.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/before-dawn
+  found_in: before-dawn
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

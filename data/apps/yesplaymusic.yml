@@ -68,3 +68,9 @@ src: https://github.com/qier222/YesPlayMusic/archive/refs/tags/v0.4.10.zip
 electron: 13.6.9
 method: src-yarn-lock
 electron_src: https://github.com/qier222/YesPlayMusic/archive/refs/tags/v0.4.10.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/qier222/YesPlayMusic/archive/refs/tags/v0.4.10.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

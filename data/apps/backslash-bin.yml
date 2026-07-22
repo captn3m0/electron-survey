@@ -20,3 +20,9 @@ downloads:
 electron: 33.4.11
 method: src-yarn-lock
 electron_src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

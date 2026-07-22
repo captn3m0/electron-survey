@@ -42,3 +42,9 @@ downloads:
 electron: 41.2.1
 method: src-pnpm-lock
 electron_src: https://github.com/blueberrycongee/termcanvas/archive/refs/tags/v0.39.10.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/blueberrycongee/termcanvas/archive/refs/tags/v0.39.10.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest-linux.yml
 - name: latest.yml
   url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/emudeck-bin
+  found_in: emudeck-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

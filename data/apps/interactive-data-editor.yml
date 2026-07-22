@@ -17,3 +17,9 @@ electron: 17.4.11
 method: src-range-guess
 name: Interactive Data Editor
 electron_src: https://github.com/Koushikphy/Interactive_Data_Editor/archive/refs/tags/v2.13.1.zip
+evidence:
+  kind: manifest
+  source: https://github.com/Koushikphy/Interactive_Data_Editor/archive/refs/tags/v2.13.1.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

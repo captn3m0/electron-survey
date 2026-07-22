@@ -5,3 +5,8 @@ aur:
 - 3fa-bin
 electron: 26.6.10
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/3fa-bin
+  found_in: 3fa-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

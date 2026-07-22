@@ -16,3 +16,8 @@ downloads:
 - name: build.zip
   url: https://github.com/malacration/sap-front/releases/download/v5.1.0/build.zip
 we_tried: we0:v5.1.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/angular-electron-bin
+  found_in: angular-electron-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

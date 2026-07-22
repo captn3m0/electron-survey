@@ -11,3 +11,8 @@ src: https://github.com/amarsbar/rice-cooker/archive/refs/tags/v0.1.2.zip
 downloads:
 - name: rice-cooker-0.1.2.tar.gz
   url: https://github.com/amarsbar/rice-cooker/releases/download/v0.1.2/rice-cooker-0.1.2.tar.gz
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/rice-cooker
+  found_in: rice-cooker
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

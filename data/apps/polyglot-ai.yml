@@ -5,3 +5,8 @@ aur:
 - polyglot-ai-bin
 electron: 23.3.13
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/polyglot-ai-bin
+  found_in: polyglot-ai-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

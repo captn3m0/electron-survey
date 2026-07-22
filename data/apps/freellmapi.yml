@@ -14,3 +14,9 @@ downloads:
 electron: 33.4.11
 method: src-package-lock
 electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.5.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.5.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

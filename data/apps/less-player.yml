@@ -41,3 +41,8 @@ downloads:
   url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/WawaSC-Regular.otf
 - name: WawaSC-Regular.ttf
   url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/WawaSC-Regular.ttf
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/less-player-bin
+  found_in: less-player-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

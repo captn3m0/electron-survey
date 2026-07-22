@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-darwin-arm64-0.12.0.zip
 - name: salesforce2sql-linux-x64-0.12.0.zip
   url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-linux-x64-0.12.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/salesforce2sql-bin
+  found_in: salesforce2sql-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

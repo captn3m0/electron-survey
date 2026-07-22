@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/latest-mac.yml
 - name: latest.yml
   url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/jasper-km-bin
+  found_in: jasper-km-bin
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

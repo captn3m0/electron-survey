@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/programmingKyle/finance-manager/releases/download/1.0.1/finance-manager-1.0.1.exe
 - name: latest.yml
   url: https://github.com/programmingKyle/finance-manager/releases/download/1.0.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/finance-manager-git
+  found_in: finance-manager-git
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

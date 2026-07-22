@@ -32,3 +32,9 @@ electron: 12.2.3
 method: src-package-lock
 name: Imagine
 electron_src: https://github.com/meowtec/Imagine/archive/refs/tags/v0.7.5.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/meowtec/Imagine/archive/refs/tags/v0.7.5.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

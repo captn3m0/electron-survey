@@ -28,3 +28,8 @@ downloads:
 - name: RELEASES
   url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/RELEASES
 we_tried: we0:v0.3.2
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bookord-bin
+  found_in: bookord-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

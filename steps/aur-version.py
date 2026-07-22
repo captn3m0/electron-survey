@@ -77,6 +77,8 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     major_versions = _load_major_versions()
 
     found_major: int | None = None
+    found_pkg: str | None = None
+    found_dep: str | None = None
 
     for pkg_name in entry.get("aur", []):
         depends = pkg_index.get(pkg_name, [])
@@ -86,6 +88,7 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
                 major = int(m.group(1))
                 if found_major is None:
                     found_major = major
+                    found_pkg, found_dep = pkg_name, dep
                 elif found_major != major:
                     log.warning(
                         "[%s] conflicting electron majors in AUR deps (%d vs %d), skipping",
@@ -102,4 +105,16 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         return None
 
     log.info("[%s] electron %s (major %d from AUR depends)", entry["id"], version, found_major)
-    return {"electron": version, "method": "aur-depends"}
+    return {
+        "electron": version,
+        "method": "aur-depends",
+        "evidence": {
+            "kind": "aur-depends",
+            "source": f"https://aur.archlinux.org/packages/{found_pkg}",
+            "found_in": found_pkg,
+            # Be explicit that this is a major-line inference, not an exact read:
+            # the package links against the distro's shared Electron.
+            "signal": f"depends on {found_dep}; reported as the newest "
+                      f"{found_major}.x release ({version})",
+        },
+    }

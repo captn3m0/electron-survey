@@ -11,3 +11,8 @@ src: https://github.com/AndrewMaksimchuk/pomodoro/archive/refs/tags/v1.9.6.zip
 downloads:
 - name: pomodoro_1.8.2_amd64.deb
   url: https://github.com/AndrewMaksimchuk/pomodoro/releases/download/v1.9.6/pomodoro_1.8.2_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pomodoro-bin
+  found_in: pomodoro-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

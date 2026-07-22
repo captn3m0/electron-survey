@@ -35,3 +35,8 @@ downloads:
   url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.34.1/sokuji_0.34.1_amd64.deb
 - name: sokuji_0.34.1_arm64.deb
   url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.34.1/sokuji_0.34.1_arm64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/sokuji-bin
+  found_in: sokuji-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

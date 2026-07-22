@@ -48,3 +48,8 @@ downloads:
 - name: latest-linux-arm64.yml
   url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/latest-linux-arm64.yml
 we_tried: we0:v0.6.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bsky-electron-bin
+  found_in: bsky-electron-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

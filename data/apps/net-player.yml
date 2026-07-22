@@ -11,3 +11,8 @@ src: https://github.com/Zhoucheng133/net-player/archive/refs/tags/v3.0.1.zip
 downloads:
 - name: Windows.x64.zip
   url: https://github.com/Zhoucheng133/netPlayer/releases/download/v3.0.1/Windows.x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/net-player
+  found_in: net-player
+  signal: depends on electron13; reported as the newest 13.x release (13.6.9)

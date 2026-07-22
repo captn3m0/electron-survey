@@ -11,3 +11,8 @@ src: https://github.com/JKerbin/Smart-Contract-Obfuscator/archive/refs/tags/setu
 downloads:
 - name: SCO.Setup.1.0.0.exe
   url: https://github.com/JKerbin/SCO-Smart-Contract-Obfuscation-Tool/releases/download/setup/SCO.Setup.1.0.0.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/smart-contract-obfuscator-git
+  found_in: smart-contract-obfuscator-git
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

@@ -16,3 +16,9 @@ electron: 8.1.1
 method: src-package-lock
 name: Open Log Viewer
 electron_src: https://github.com/tmoreno/open-log-viewer/archive/refs/tags/1.6.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/tmoreno/open-log-viewer/archive/refs/tags/1.6.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

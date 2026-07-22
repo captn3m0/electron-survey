@@ -29,3 +29,8 @@ downloads:
 - name: win-akuse-1.10.1.exe.blockmap
   url: https://github.com/akuse-app/akuse/releases/download/1.10.1/win-akuse-1.10.1.exe.blockmap
 we_tried: we0:1.10.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/akuse
+  found_in: akuse
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

@@ -32,3 +32,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/latest.yml
 we_tried: we0:v0.1.2
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bookmarks-manager-bin
+  found_in: bookmarks-manager-bin
+  signal: depends on electron15; reported as the newest 15.x release (15.5.7)

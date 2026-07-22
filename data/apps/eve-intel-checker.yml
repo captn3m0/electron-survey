@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/SebastienDuruz/Eve-Intel-Checker/releases/download/v1.0.12/EveIntelChecker-1.0.12.AppImage
 - name: EveIntelChecker_1.0.12.exe
   url: https://github.com/SebastienDuruz/Eve-Intel-Checker/releases/download/v1.0.12/EveIntelChecker_1.0.12.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/eve-intel-checker-bin
+  found_in: eve-intel-checker-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

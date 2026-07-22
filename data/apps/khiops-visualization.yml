@@ -53,3 +53,8 @@ downloads:
   url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/khiops-visualization-bin
+  found_in: khiops-visualization-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

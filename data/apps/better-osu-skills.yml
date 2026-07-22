@@ -18,3 +18,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/latest.yml
 we_tried: we0:v1.0.6
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/better-osu-skills-bin
+  found_in: better-osu-skills-bin
+  signal: depends on electron11; reported as the newest 11.x release (11.5.0)

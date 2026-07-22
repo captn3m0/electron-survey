@@ -11,3 +11,8 @@ src: https://github.com/kna40/DateFile/archive/refs/tags/v0.1.0.zip
 downloads:
 - name: DateFile-win32-x64.zip
   url: https://github.com/kna40/DateFile/releases/download/v0.1.0/DateFile-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/datefile
+  found_in: datefile
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

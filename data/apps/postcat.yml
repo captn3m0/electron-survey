@@ -57,3 +57,8 @@ downloads:
   url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe
 - name: Postcat-Setup-0.5.1.exe.blockmap
   url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/postcat-appimage
+  found_in: postcat-appimage
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/favo/electron-player/releases/download/v.1.2.0/latest-linux-arm64.yml
 - name: pintomind-player.AppImage
   url: https://github.com/favo/electron-player/releases/download/v.1.2.0/pintomind-player.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pintomind-player-git
+  found_in: pintomind-player-git
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

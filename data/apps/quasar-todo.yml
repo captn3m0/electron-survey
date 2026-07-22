@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-Setup-0.1.4.exe
 - name: Quasar-Todo-Setup-0.1.4.exe.blockmap
   url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-Setup-0.1.4.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/quasar-todo-bin
+  found_in: quasar-todo-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

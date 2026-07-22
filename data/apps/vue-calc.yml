@@ -16,3 +16,9 @@ electron: 1.8.3
 method: src-package-lock
 name: Vue Calc
 electron_src: https://github.com/el3um4s/vue-calc/archive/refs/tags/v0.18.04.15.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/el3um4s/vue-calc/archive/refs/tags/v0.18.04.15.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

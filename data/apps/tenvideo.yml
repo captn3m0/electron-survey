@@ -11,3 +11,8 @@ downloads:
   name: TencentVideo2.176.0.55802.dmg
   version: 2.176.0.55802
 we_tried: we1.2.1:urls:bb32b58ea44b
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tenvideo
+  found_in: tenvideo
+  signal: depends on electron7; reported as the newest 7.x release (7.3.3)

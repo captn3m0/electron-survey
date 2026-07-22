@@ -32,3 +32,9 @@ electron: 21.2.2
 method: src-pnpm-lock
 name: Threema For Desktop
 electron_src: https://github.com/GeekCornerGH/Threema-For-Desktop/archive/refs/tags/v2.5.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/GeekCornerGH/Threema-For-Desktop/archive/refs/tags/v2.5.1.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

@@ -30,3 +30,8 @@ downloads:
 - name: SSH.-Setup-2.0.0.exe.blockmap
   url: https://github.com/bintelAI/aissh/releases/download/v2.0.0/SSH.-Setup-2.0.0.exe.blockmap
 we_tried: we0:v2.0.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bintelai-ssh-assistant
+  found_in: bintelai-ssh-assistant
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

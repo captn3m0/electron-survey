@@ -16,3 +16,8 @@ downloads:
 - url: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v5.3.1/WeakAuras-Companion-5.3.1-mac-universal.dmg
   name: WeakAuras-Companion-5.3.1-mac-universal.dmg
   version: 5.3.1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/weakauras-companion
+  found_in: weakauras-companion
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

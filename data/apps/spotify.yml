@@ -11,3 +11,8 @@ downloads:
   name: SpotifyARM64.dmg
   version: 1.2.94.583
 we_tried: we1.2.1:urls:915eb8fa6fa9
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/spotify-electron-bin
+  found_in: spotify-electron-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

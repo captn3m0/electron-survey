@@ -11,3 +11,8 @@ src: https://github.com/hunt-kingyo/electron-ffmpeg-gui/archive/refs/tags/v0.2.2
 downloads:
 - name: electron-ffmpeg-gui-0.2.2-setup.exe
   url: https://github.com/hunt-kingyo/electron-ffmpeg-gui/releases/download/v0.2.2/electron-ffmpeg-gui-0.2.2-setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-ffmpeg-gui-git
+  found_in: electron-ffmpeg-gui-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

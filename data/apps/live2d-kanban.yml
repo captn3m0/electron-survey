@@ -7,3 +7,8 @@ additionalAUR:
 - live2d-kanban-desktop-bin
 electron: 22.3.27
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/live2d-kanban-desktop
+  found_in: live2d-kanban-desktop
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

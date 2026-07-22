@@ -8,3 +8,8 @@ electron: 31.7.7
 method: aur-depends
 latest: v2.0.7
 src: https://github.com/magayagalabs/CyCode/archive/refs/tags/v2.0.7.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cycode
+  found_in: cycode
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

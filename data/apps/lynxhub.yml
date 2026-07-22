@@ -64,3 +64,8 @@ downloads:
   url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_x64-Setup.exe
 - name: LynxHub-V3.5.5-win_x64-Setup.exe.blockmap
   url: https://github.com/KindaBrazy/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_x64-Setup.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lynxhub
+  found_in: lynxhub
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

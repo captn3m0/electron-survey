@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/Tray.Link-darwin-arm64-2.3.0.zip
 - name: TrayLink-2.3.0-full.nupkg
   url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/TrayLink-2.3.0-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/tray-link-bin
+  found_in: tray-link-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

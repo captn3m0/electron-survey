@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-0.3.1.dmg
 - name: Pflux-Setup-0.3.1.exe
   url: https://github.com/gaspardruan/pflux/releases/download/v0.3.1/Pflux-Setup-0.3.1.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pflux-git
+  found_in: pflux-git
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

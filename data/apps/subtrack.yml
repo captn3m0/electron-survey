@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack-1.1.1.AppImage
 - name: SubTrack.Setup.1.1.1.exe
   url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack.Setup.1.1.1.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/subtrack-bin
+  found_in: subtrack-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

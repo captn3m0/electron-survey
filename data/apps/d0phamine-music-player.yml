@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/d0phamine/d0phamine-music-player/releases/download/1.2.0/d0phamine-music-player_1.2.0_amd64.deb
 - name: d0phamine-music-player_1.2.0_arm64.deb
   url: https://github.com/d0phamine/d0phamine-music-player/releases/download/1.2.0/d0phamine-music-player_1.2.0_arm64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/d0phamine-music-player-bin
+  found_in: d0phamine-music-player-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

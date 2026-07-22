@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/andrew-ld/lutris-gamepad-ui/releases/download/v0.2.0/lutris-gamepad-ui-arm64.AppImage
 - name: lutris-gamepad-ui-x64.AppImage
   url: https://github.com/andrew-ld/lutris-gamepad-ui/releases/download/v0.2.0/lutris-gamepad-ui-x64.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lutris-gamepad-ui-git
+  found_in: lutris-gamepad-ui-git
+  signal: depends on electron43; reported as the newest 43.x release (43.1.1)

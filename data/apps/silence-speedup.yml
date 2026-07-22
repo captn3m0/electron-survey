@@ -5,3 +5,8 @@ aur:
 - silence-speedup-bin
 electron: 34.5.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/silence-speedup-bin
+  found_in: silence-speedup-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

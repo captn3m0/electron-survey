@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-linux-x64-0.5.6.zip
 - name: elemntary-win32-x64-0.5.6.zip
   url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-win32-x64-0.5.6.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/elemntary-bin
+  found_in: elemntary-bin
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

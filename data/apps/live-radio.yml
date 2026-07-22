@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/JesperBry/live-radio-app/releases/download/v1.2.1/radio-app_1.2.1_amd64.deb
 - name: radio-app_1.2.1_amd64.snap
   url: https://github.com/JesperBry/live-radio-app/releases/download/v1.2.1/radio-app_1.2.1_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/live-radio-app-bin
+  found_in: live-radio-app-bin
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

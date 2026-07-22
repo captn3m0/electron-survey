@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/Inventario-Windows-1.1.1-Setup.exe.blockmap
 - name: latest.yml
   url: https://github.com/osoyinas/simple-inventory/releases/download/1.1.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/simple-inventory-bin
+  found_in: simple-inventory-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

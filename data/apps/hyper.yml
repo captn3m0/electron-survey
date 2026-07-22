@@ -72,3 +72,9 @@ aur:
 - hyper-bin
 - hyper-git
 electron_src: https://github.com/vercel/hyper/archive/refs/tags/v3.4.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/vercel/hyper/archive/refs/tags/v3.4.1.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

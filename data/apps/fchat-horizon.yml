@@ -73,3 +73,8 @@ downloads:
   url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/latest.yml
 - name: SHASUMS256.txt
   url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/SHASUMS256.txt
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/fchat-horizon-bin
+  found_in: fchat-horizon-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

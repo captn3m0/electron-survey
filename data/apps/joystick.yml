@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/zenineasa/Joycast/releases/download/v1.0.0/joystick-1.0.0.Setup.exe
 - name: joystick_1.0.0_amd64.deb
   url: https://github.com/zenineasa/Joycast/releases/download/v1.0.0/joystick_1.0.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/joystick-bin
+  found_in: joystick-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

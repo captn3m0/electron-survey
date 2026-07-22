@@ -30,3 +30,9 @@ aur:
 - fairshare-bin
 name: FAIRshare
 electron_src: https://github.com/fairdataihub/FAIRshare/archive/refs/tags/v2.1.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/fairdataihub/FAIRshare/archive/refs/tags/v2.1.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

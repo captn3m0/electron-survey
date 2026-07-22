@@ -18,3 +18,8 @@ downloads:
 - name: Altitude-Metrix-Wallet-win32-x86.exe
   url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-win32-x86.exe
 we_tried: we0:3.4.2
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/altitude-metrix-wallet-bin
+  found_in: altitude-metrix-wallet-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

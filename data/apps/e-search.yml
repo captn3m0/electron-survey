@@ -42,3 +42,9 @@ aur:
 - e-search
 name: eSearch
 electron_src: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.3.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.3.3.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

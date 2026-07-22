@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.x86_64.rpm
 - name: electron-file-manager_2.0.4_amd64.deb
   url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager_2.0.4_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/electron-file-manager-bin
+  found_in: electron-file-manager-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

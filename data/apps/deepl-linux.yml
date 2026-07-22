@@ -14,3 +14,8 @@ src: https://github.com/kumakichi/Deepl-linux-electron/archive/refs/tags/v1.6.1.
 downloads:
 - name: Deepl-Linux-Electron-1.6.1.AppImage
   url: https://github.com/kumakichi/Deepl-linux-electron/releases/download/v1.6.1/Deepl-Linux-Electron-1.6.1.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/deepl-linux-electron
+  found_in: deepl-linux-electron
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

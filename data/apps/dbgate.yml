@@ -145,3 +145,9 @@ packages:
   format: dmg
   os: macos
 electron_src: https://github.com/dbgate/dbgate/archive/refs/tags/v7.2.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/dbgate/dbgate/archive/refs/tags/v7.2.3.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

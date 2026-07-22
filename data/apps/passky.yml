@@ -28,3 +28,9 @@ electron: 40.8.0
 method: src-yarn-lock
 name: passky
 electron_src: https://github.com/Rabbit-Company/Passky-Desktop/archive/refs/tags/v8.1.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Rabbit-Company/Passky-Desktop/archive/refs/tags/v8.1.3.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

@@ -38,3 +38,8 @@ downloads:
   url: https://github.com/kaishuu0123/leavepad/releases/download/v2.6.1/leavepad-2.6.1.dmg.blockmap
 - name: leavepad_2.6.1_amd64.snap
   url: https://github.com/kaishuu0123/leavepad/releases/download/v2.6.1/leavepad_2.6.1_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/leavepad
+  found_in: leavepad
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

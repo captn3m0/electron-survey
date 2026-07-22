@@ -11,3 +11,8 @@ src: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/archive/refs/tags/v3.
 downloads:
 - name: Outdated-Snake.Setup.zip
   url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v3.0.0/Outdated-Snake.Setup.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/outdated-snake-git
+  found_in: outdated-snake-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

@@ -47,3 +47,8 @@ downloads:
   url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.9-beta/latest-mac.yml
 - name: latest.yml
   url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.9-beta/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/glassy-music-nankill-git
+  found_in: glassy-music-nankill-git
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

@@ -23,3 +23,9 @@ downloads:
 electron: 19.1.9+wvcus
 method: src-package-lock
 electron_src: https://github.com/Alex313031/Apple-Music-Electron/archive/refs/tags/v3.1.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/Alex313031/Apple-Music-Electron/archive/refs/tags/v3.1.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

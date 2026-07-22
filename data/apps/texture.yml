@@ -5,3 +5,8 @@ aur:
 - texture
 electron: 4.2.12
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/texture
+  found_in: texture
+  signal: depends on electron4; reported as the newest 4.x release (4.2.12)

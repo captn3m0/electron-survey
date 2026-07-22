@@ -31,3 +31,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/classfang/AIHub/releases/download/v1.8.9/latest.yml
 we_tried: we0:v1.8.9
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/aihub
+  found_in: aihub
+  signal: depends on electron30; reported as the newest 30.x release (30.5.1)

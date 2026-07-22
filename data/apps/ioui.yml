@@ -7,3 +7,9 @@ electron: 7.1.2
 method: src-package-lock
 name: ioui
 electron_src: https://github.com/shivang-pokar/ioui/archive/refs/tags/v1.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/shivang-pokar/ioui/archive/refs/tags/v1.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

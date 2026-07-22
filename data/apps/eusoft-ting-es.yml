@@ -5,3 +5,8 @@ aur:
 - eusoft-ting-es-bin
 electron: 11.5.0
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/eusoft-ting-es-bin
+  found_in: eusoft-ting-es-bin
+  signal: depends on electron11; reported as the newest 11.x release (11.5.0)

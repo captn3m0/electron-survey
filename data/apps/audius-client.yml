@@ -9,3 +9,9 @@ src: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/
 electron: 27.3.2
 method: src-package-lock
 electron_src: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk@15.3.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk@15.3.1.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

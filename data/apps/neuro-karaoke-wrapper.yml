@@ -36,3 +36,9 @@ downloads:
 electron: 40.9.3
 method: src-yarn-lock
 electron_src: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.7.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.7.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

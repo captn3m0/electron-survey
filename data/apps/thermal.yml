@@ -39,3 +39,9 @@ downloads:
 electron: 5.0.3
 method: src-yarn-lock
 electron_src: https://github.com/gitthermal/thermal/archive/refs/tags/v0.0.4.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/gitthermal/thermal/archive/refs/tags/v0.0.4.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

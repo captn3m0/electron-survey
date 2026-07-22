@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/ringcentral/ringcentral-community-app/releases/download/v0.0.12/ringcentral-community-app_0.0.12_amd64.deb
 - name: RingCentral.Community.app-0.0.12.AppImage
   url: https://github.com/ringcentral/ringcentral-community-app/releases/download/v0.0.12/RingCentral.Community.app-0.0.12.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ringcentral-community-app-bin
+  found_in: ringcentral-community-app-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/Madu-de/MaduChat/releases/download/v1.2.1/maduchat-frontend-1.2.1-win32-ia32.zip
 - name: maduchat-frontend-1.2.1-win32-x64.zip
   url: https://github.com/Madu-de/MaduChat/releases/download/v1.2.1/maduchat-frontend-1.2.1-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/maduchat-frontend-bin
+  found_in: maduchat-frontend-bin
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

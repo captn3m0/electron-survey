@@ -11,3 +11,8 @@ src: https://github.com/CmarThaa/music_player/archive/refs/tags/v0.1.4.zip
 downloads:
 - name: easy-player-win32-x64.rar
   url: https://github.com/CmarThaa/music_player/releases/download/v0.1.4/easy-player-win32-x64.rar
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/easy-player
+  found_in: easy-player
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

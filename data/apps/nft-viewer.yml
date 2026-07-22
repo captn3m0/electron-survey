@@ -8,3 +8,8 @@ electron: 25.9.8
 method: aur-depends
 latest: v1.9.4
 src: https://github.com/BTS-CM/NFT_Viewer/archive/refs/tags/v1.9.4.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nft-viewer-bin
+  found_in: nft-viewer-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

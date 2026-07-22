@@ -6,3 +6,8 @@ aur:
 - benchworx-bin
 electron: 12.2.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/benchworx-bin
+  found_in: benchworx-bin
+  signal: depends on electron12; reported as the newest 12.x release (12.2.3)

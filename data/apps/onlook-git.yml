@@ -52,3 +52,8 @@ downloads:
   url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x64.zip.blockmap
 - name: Onlook-x86_64.AppImage
   url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/Onlook-x86_64.AppImage
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/onlook-bin
+  found_in: onlook-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

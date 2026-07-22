@@ -32,7 +32,7 @@ tiers:
     red_pct: 27.8
     eol: 19
     eol_pct: 52.8
-    median_days_behind: 133
+    median_days_behind: 134
     median_majors_behind: 6
     median_cves_critical: 148
     median_cves_high: 807
@@ -70,7 +70,7 @@ tiers:
     red_pct: 47.0
     eol: 129
     eol_pct: 70.5
-    median_days_behind: 267
+    median_days_behind: 268
     median_majors_behind: 10
     median_cves_critical: 153
     median_cves_high: 855
@@ -126,7 +126,7 @@ main:
   red_pct: 44.9
   eol: 176
   eol_pct: 66.9
-  median_days_behind: 267
+  median_days_behind: 268
   median_majors_behind: 10
   median_cves_critical: 151
   median_cves_high: 850
@@ -166,7 +166,7 @@ worst:
   electron: 1.9.37
   chromium: 59.0.3071.115
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
 - id: openbazaar
@@ -175,7 +175,7 @@ worst:
   electron: 1.8.7
   chromium: 59.0.3071.115
   chromium_majors_behind: 91
-  chromium_days_behind: 3003
+  chromium_days_behind: 3004
   cves_critical: 253
   cves_high: 2087
 - id: keep

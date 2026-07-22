@@ -31,3 +31,9 @@ method: src-yarn-lock
 homebrew: graphql-playground
 name: GraphQL Playground
 electron_src: https://github.com/graphql/graphql-playground/archive/refs/tags/v1.8.10.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/graphql/graphql-playground/archive/refs/tags/v1.8.10.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

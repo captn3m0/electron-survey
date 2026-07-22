@@ -62,8 +62,62 @@ layout: default
   {% endif %}
   {% if f.patches_behind > 0 %}<tr><th>Within its line</th><td>{{ f.patches_behind }} newer patch release{% if f.patches_behind > 1 %}s{% endif %} available, up to {{ f.latest_in_major }}</td></tr>{% endif %}
   {% if f.age_label %}<tr><th>That release</th><td>shipped {{ f.age_label }}</td></tr>{% endif %}
-  {% if app.method %}<tr><th>Detected via</th><td>{{ app.method }}</td></tr>{% endif %}
+  {% if app.method %}<tr><th>Detected via</th><td><code>{{ app.method }}</code></td></tr>{% endif %}
 </table>
+
+{% if app.evidence %}
+{%- assign ev = app.evidence -%}
+<h2>How we know</h2>
+
+<div class="evidence">
+  <p class="what">
+    {%- case ev.kind -%}
+    {%- when 'binary' -%}
+      Read out of the shipped binary
+      <strong>{{ ev.found_in }}</strong>.
+    {%- when 'lockfile' -%}
+      Read from <strong>{{ ev.found_in }}</strong> in the published source archive.
+    {%- when 'manifest' -%}
+      Read from <strong>{{ ev.found_in }}</strong> in the published source archive.
+    {%- when 'aur-depends' -%}
+      Inferred from the Arch package <strong>{{ ev.found_in }}</strong>.
+    {%- else -%}
+      Recorded from {{ ev.found_in }}.
+    {%- endcase -%}
+  </p>
+  <p class="muted">{{ ev.signal }}</p>
+  {% if ev.source %}
+  <p class="muted"><small>Artefact examined: <a href="{{ ev.source }}"><code>{{ ev.source }}</code></a></small></p>
+  {% endif %}
+  {% if ev.kind == 'aur-depends' %}
+  <p class="caveat">
+    This is a major-line inference, not an exact read: the package links against
+    the distribution's shared Electron, so the exact patch release a user runs
+    depends on their system. Treat it as a floor.
+  </p>
+  {% elsif ev.signal contains 'range' %}
+  <p class="caveat">
+    No lockfile was published, so the version is the newest release satisfying the
+    declared range — what a fresh install would resolve to, not necessarily what
+    was shipped.
+  </p>
+  {% endif %}
+  {% if ev.reconstructed %}
+  <p class="muted"><small>
+    Rebuilt from the recorded detection method; the exact path inside the archive
+    wasn't stored at the time, so only the file's name is shown.
+  </small></p>
+  {% endif %}
+</div>
+{% elsif f %}
+<h2>How we know</h2>
+<p class="muted">
+  This version predates provenance recording{% if app.method %} (detected via
+  <code>{{ app.method }}</code>){% endif %}. Which artefact answered isn't stored
+  for binary fingerprints, so it fills in the next time the binary is
+  re-fingerprinted.
+</p>
+{% endif %}
 {% else %}
 <p class="muted">
   No Electron version detected yet — this app has no public source lockfile and

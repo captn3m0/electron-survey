@@ -19,6 +19,8 @@ cross-referenced against known CVE fix dates, to quantify that lag at scale.
     process aur-version     read Electron major from AUR `electron<N>` depends
     process which-electron  fingerprint downloaded binaries (opt-in, downloads)
     dedupe                  drop entries duplicating another's repository
+    download-audit          probe artefacts the fingerprinter can't fetch
+    evidence-backfill       rebuild provenance for pre-existing detections
     popularity              rank apps into tiers -> data/popularity.yml
     cves                    unpatched Chromium CVEs per version -> data/cves.yml
     freshness               per-app Electron/Chromium staleness -> data/freshness.yml

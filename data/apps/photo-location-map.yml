@@ -5,3 +5,8 @@ aur:
 - photo-location-map
 electron: 32.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/photo-location-map
+  found_in: photo-location-map
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

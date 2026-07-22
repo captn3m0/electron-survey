@@ -5,3 +5,8 @@ aur:
 - soulfire-bin
 electron: 42.7.0
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/soulfire-bin
+  found_in: soulfire-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

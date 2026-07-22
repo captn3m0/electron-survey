@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool/releases/download/v1.7.2/nft_tool.dmg
 - name: nft_tool.exe
   url: https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool/releases/download/v1.7.2/nft_tool.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nft-tool-bin
+  found_in: nft-tool-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

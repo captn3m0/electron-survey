@@ -5,3 +5,8 @@ aur:
 - prompt-evaluator-bin
 electron: 28.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/prompt-evaluator-bin
+  found_in: prompt-evaluator-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

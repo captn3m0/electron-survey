@@ -44,3 +44,8 @@ downloads:
   url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Windows_4.6.2.zip
 - name: WebGAL_Terre_Windows_Setup_4.6.2.exe
   url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Windows_Setup_4.6.2.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/webgal-terre-bin
+  found_in: webgal-terre-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

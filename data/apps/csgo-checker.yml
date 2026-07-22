@@ -27,3 +27,8 @@ downloads:
   url: https://github.com/dumbasPL/csgo-checker/releases/download/v1.4.4/latest-linux.yml
 - name: latest.yml
   url: https://github.com/dumbasPL/csgo-checker/releases/download/v1.4.4/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/csgo-checker-electron
+  found_in: csgo-checker-electron
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

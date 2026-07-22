@@ -47,3 +47,9 @@ homebrew: drata-agent
 electron: 36.2.0
 method: src-yarn-lock
 electron_src: https://github.com/drata/drata-agent/archive/refs/tags/3.9.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/drata/drata-agent/archive/refs/tags/3.9.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

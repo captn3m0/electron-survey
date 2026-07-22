@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/nuclia/sync-agent/releases/download/1.9.13/Progress-Sync-Setup.exe
 - name: Progress.Sync.Agent.dmg
   url: https://github.com/nuclia/sync-agent/releases/download/1.9.13/Progress.Sync.Agent.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nuclia-sync-agent-bin
+  found_in: nuclia-sync-agent-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

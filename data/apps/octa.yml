@@ -11,3 +11,8 @@ src: https://github.com/MeroVinggen/octa-electron/archive/refs/tags/v2.0.1.zip
 downloads:
 - name: octa-electron-2.0.1-setup.exe
   url: https://github.com/MeroVinggen/octa-electron/releases/download/v2.0.1/octa-electron-2.0.1-setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/octa-electron
+  found_in: octa-electron
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

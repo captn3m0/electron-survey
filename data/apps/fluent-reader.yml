@@ -31,3 +31,9 @@ packages:
   format: dmg
   os: macos
 electron_src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.2.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

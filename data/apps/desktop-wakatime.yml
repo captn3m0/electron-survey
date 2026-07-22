@@ -11,3 +11,8 @@ downloads:
   name: macos-wakatime.zip
   version: 5.28.4
 we_tried: we1.2.1:urls:14af2d7f3060
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/desktop-wakatime-bin
+  found_in: desktop-wakatime-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

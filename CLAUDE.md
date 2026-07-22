@@ -129,6 +129,18 @@ because their commits carry `[skip ci]`).
   when no download failed, so a transient network error re-queues the app
   instead of retiring it. `stats` prints the running total as `we-exhausted`;
   a jump there means artefacts stopped being fetchable.
+- Any processor that sets `electron` must also return an `evidence` block
+  naming what it actually read: `{kind, source, found_in, signal}` where `kind`
+  is `binary` / `lockfile` / `manifest` / `aur-depends`, `source` is the URL of
+  the artefact examined, `found_in` is the file or package inside it, and
+  `signal` is a one-line human explanation. The site renders this as the
+  "How we know" block, so a version with no evidence looks unsupported.
+  `evidence.reconstructed: true` marks records rebuilt by `evidence-backfill`
+  rather than observed directly.
+- A resolved app is never re-fingerprinted, so which-electron results keep both
+  their version *and* their missing provenance indefinitely. Set
+  `WHICH_ELECTRON_BACKFILL_EVIDENCE=1` to re-claim those apps (bounded by the
+  usual `--limit` / deadline); it also refreshes versions read from binaries.
 - The `source` processor's preference order for detecting an electron
   version is: `package-lock.json` > `yarn.lock` > `pnpm-lock.yaml` >
   `package.json` (range resolved against `data/versions.txt`).

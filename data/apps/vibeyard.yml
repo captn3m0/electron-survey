@@ -41,3 +41,8 @@ downloads:
   url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.3/Vibeyard-Setup-0.3.3.exe.blockmap
 - name: vibeyard_0.3.3_amd64.deb
   url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.3/vibeyard_0.3.3_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vibeyard-bin
+  found_in: vibeyard-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

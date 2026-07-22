@@ -9,3 +9,9 @@ src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
 electron: 39.8.10
 method: src-range-guess
 electron_src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
+evidence:
+  kind: manifest
+  source: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

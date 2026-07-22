@@ -23,3 +23,9 @@ packages:
   os: macos
   arch: arm64
 electron_src: https://github.com/antonreshetov/massCode/archive/refs/tags/v1.3.1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/antonreshetov/massCode/archive/refs/tags/v1.3.1.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

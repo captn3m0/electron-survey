@@ -69,3 +69,8 @@ downloads:
   url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music_3.11.4_arm64.deb
 - name: youtube-music_3.11.4_armv7l.deb
   url: https://github.com/ArjixWasTaken/pear-desktop/releases/download/v3.11.4/youtube-music_3.11.4_armv7l.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/pear-desktop-arjix-git
+  found_in: pear-desktop-arjix-git
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

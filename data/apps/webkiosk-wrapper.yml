@@ -21,3 +21,9 @@ electron: 5.0.2
 method: src-package-lock
 name: Webkiosk-Wrapper
 electron_src: https://github.com/ngudbhav/Webkiosk-Wrapper/archive/refs/tags/v1.1.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/ngudbhav/Webkiosk-Wrapper/archive/refs/tags/v1.1.3.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

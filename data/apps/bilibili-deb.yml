@@ -59,3 +59,8 @@ downloads:
 - name: io.github.msojocs.bilibili_1.17.9-1_loong64.deb
   url: https://github.com/msojocs/bilibili-linux/releases/download/v1.17.9-1/io.github.msojocs.bilibili_1.17.9-1_loong64.deb
 we_tried: we0:v1.17.9-1
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/bilibili
+  found_in: bilibili
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

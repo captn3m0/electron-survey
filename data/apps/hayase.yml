@@ -5,3 +5,8 @@ aur:
 - hayase-bin
 electron: 38.8.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/hayase-bin
+  found_in: hayase-bin
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

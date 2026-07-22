@@ -47,3 +47,8 @@ downloads:
   url: https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.exe
 - name: oblivion-desktop-win-x64.zip
   url: https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/oblivion-desktop
+  found_in: oblivion-desktop
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

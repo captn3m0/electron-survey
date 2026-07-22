@@ -61,3 +61,8 @@ downloads:
   url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x64.tar.gz
 - name: solidtime-x86_64.rpm
   url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x86_64.rpm
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/solidtime-bin
+  found_in: solidtime-bin
+  signal: depends on electron41; reported as the newest 41.x release (41.10.2)

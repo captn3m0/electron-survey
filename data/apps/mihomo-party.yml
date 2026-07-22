@@ -174,3 +174,9 @@ downloads:
 electron: 41.8.0
 method: src-pnpm-lock
 electron_src: https://github.com/mihomo-party-org/mihomo-party/archive/refs/tags/v2.0.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/mihomo-party-org/mihomo-party/archive/refs/tags/v2.0.0.zip
+  found_in: pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  reconstructed: true

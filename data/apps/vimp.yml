@@ -11,3 +11,8 @@ src: https://github.com/Larksel/Vimp/archive/refs/tags/v0.1.2.zip
 downloads:
 - name: VimpCLI.exe
   url: https://github.com/Larksel/Vimp/releases/download/v0.1.2/VimpCLI.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vimp-git
+  found_in: vimp-git
+  signal: depends on electron37; reported as the newest 37.x release (37.10.3)

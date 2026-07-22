@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel-darwin-arm64-0.1.0.zip
 - name: github-panel_0.1.0_amd64.deb
   url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel_0.1.0_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/github-panel-bin
+  found_in: github-panel-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

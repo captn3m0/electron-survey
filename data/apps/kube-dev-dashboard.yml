@@ -14,3 +14,9 @@ electron: 22.0.0
 method: src-yarn-lock
 name: Kube Dev Dashboard
 electron_src: https://github.com/prsh9/KubeCtl-Dashboard/archive/refs/tags/v0.14.3.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/prsh9/KubeCtl-Dashboard/archive/refs/tags/v0.14.3.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/chenhb23/lanzouyun-disk/releases/download/v3.5.3/lanzouyun-3.5.3-x64-mac.dmg
 - name: lanzouyun-3.5.3-x64-win.zip
   url: https://github.com/chenhb23/lanzouyun-disk/releases/download/v3.5.3/lanzouyun-3.5.3-x64-win.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lanzouyun-pan
+  found_in: lanzouyun-pan
+  signal: depends on electron18; reported as the newest 18.x release (18.3.15)

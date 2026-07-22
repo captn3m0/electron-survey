@@ -5,3 +5,8 @@ aur:
 - vnstat-client-git
 electron: 19.1.9
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vnstat-client-git
+  found_in: vnstat-client-git
+  signal: depends on electron19; reported as the newest 19.x release (19.1.9)

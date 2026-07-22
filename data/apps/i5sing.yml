@@ -24,3 +24,9 @@ aur:
 - i5sing
 name: i5sing
 electron_src: https://github.com/i5sing/i5SING/archive/refs/tags/v0.3.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/i5sing/i5SING/archive/refs/tags/v0.3.0.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

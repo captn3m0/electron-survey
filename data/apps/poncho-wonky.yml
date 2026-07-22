@@ -41,3 +41,8 @@ downloads:
   url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky_5.3.0_amd64.deb
 - name: ponchowonky_5.3.0_arm64.deb
   url: https://github.com/soapdog/patchwork/releases/download/v5.3.0/ponchowonky_5.3.0_arm64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/poncho-wonky
+  found_in: poncho-wonky
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

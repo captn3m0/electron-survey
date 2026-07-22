@@ -5,3 +5,8 @@ aur:
 - basic-blackjack-bin
 electron: 39.8.10
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/basic-blackjack-bin
+  found_in: basic-blackjack-bin
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

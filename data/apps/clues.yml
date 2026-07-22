@@ -11,3 +11,8 @@ src: https://github.com/mucahit-sahin/CluesApp/archive/refs/tags/v1.0.2.zip
 downloads:
 - name: Clues.App.Setup.1.0.2.exe
   url: https://github.com/mucahit-sahin/CluesApp/releases/download/v1.0.2/Clues.App.Setup.1.0.2.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/clues-git
+  found_in: clues-git
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

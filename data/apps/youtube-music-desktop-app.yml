@@ -40,3 +40,9 @@ aur:
 homebrew: ytmdesktop-youtube-music
 name: YTMDesktop App
 electron_src: https://github.com/adlerluiz/ytmdesktop/archive/refs/tags/v2.0.11.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/adlerluiz/ytmdesktop/archive/refs/tags/v2.0.11.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

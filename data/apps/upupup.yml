@@ -11,3 +11,8 @@ src: https://github.com/unclemcz/upupup/archive/refs/tags/0.0.5.zip
 downloads:
 - name: upupup_0.0.5_amd64.deb
   url: https://github.com/unclemcz/upupup/releases/download/0.0.5/upupup_0.0.5_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/upupup-bin
+  found_in: upupup-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

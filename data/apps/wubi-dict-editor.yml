@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.33/wubi-dict-editor-v1.33-win32-x64.zip
 - name: WubiDictEditor-1.3.3-arm64.dmg
   url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.33/WubiDictEditor-1.3.3-arm64.dmg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wubi-dict-editor
+  found_in: wubi-dict-editor
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

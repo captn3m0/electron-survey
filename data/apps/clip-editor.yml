@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip_editor-0.2.7-full.nupkg
 - name: RELEASES
   url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/RELEASES
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/clip-editor-bin
+  found_in: clip-editor-bin
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

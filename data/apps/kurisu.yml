@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-win-x64.exe
 - name: Kurisu-1.2.0-win-x64.zip
   url: https://github.com/MCDFsteve/Kurisu/releases/download/v1.2.0/Kurisu-1.2.0-win-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/kurisu-bin
+  found_in: kurisu-bin
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

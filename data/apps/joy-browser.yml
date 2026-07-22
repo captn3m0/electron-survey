@@ -9,3 +9,9 @@ src: https://github.com/drpt78/joy-browser/archive/refs/tags/0.0.12.zip
 electron: 28.3.3
 method: src-package-lock
 electron_src: https://github.com/drpt78/joy-browser/archive/refs/tags/0.0.12.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/drpt78/joy-browser/archive/refs/tags/0.0.12.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

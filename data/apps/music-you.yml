@@ -5,3 +5,8 @@ aur:
 - music-you-bin
 electron: 27.3.11
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/music-you-bin
+  found_in: music-you-bin
+  signal: depends on electron27; reported as the newest 27.x release (27.3.11)

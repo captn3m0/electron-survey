@@ -26,3 +26,9 @@ electron: 22.0.0
 method: src-package-lock
 name: PlayCode
 electron_src: https://github.com/playcode/playcode-desktop/archive/refs/tags/v2022.12.27.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/playcode/playcode-desktop/archive/refs/tags/v2022.12.27.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

@@ -12,3 +12,8 @@ downloads:
 - name: writer-darwin-x64-1.2.0.zip
   url: https://github.com/Intellicode/writer/releases/download/v1.2.0/writer-darwin-x64-1.2.0.zip
 we_tried: we0:v1.2.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ai-writer
+  found_in: ai-writer
+  signal: depends on electron26; reported as the newest 26.x release (26.6.10)

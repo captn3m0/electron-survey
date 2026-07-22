@@ -11,3 +11,8 @@ src: https://github.com/laowus/Less-Reader/archive/refs/tags/v0.0.8.zip
 downloads:
 - name: Less.Reader.Setup.0.0.8.exe
   url: https://github.com/laowus/Less-Reader/releases/download/v0.0.8/Less.Reader.Setup.0.0.8.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/less-reader-git
+  found_in: less-reader-git
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

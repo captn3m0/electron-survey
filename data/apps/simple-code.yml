@@ -40,3 +40,9 @@ downloads:
 electron: 33.4.11
 method: src-package-lock
 electron_src: https://github.com/DonutsDelivery/simple-code-gui/archive/refs/tags/v1.3.58.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/DonutsDelivery/simple-code-gui/archive/refs/tags/v1.3.58.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

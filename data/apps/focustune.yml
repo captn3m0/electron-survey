@@ -5,3 +5,8 @@ aur:
 - focustune-git
 electron: 28.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/focustune-git
+  found_in: focustune-git
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

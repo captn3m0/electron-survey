@@ -5,3 +5,8 @@ aur:
 - altarik-launcher-bin
 electron: 40.10.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/altarik-launcher-bin
+  found_in: altarik-launcher-bin
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

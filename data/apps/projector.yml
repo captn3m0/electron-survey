@@ -11,3 +11,8 @@ src: https://github.com/JetBrains/projector-client/archive/refs/tags/v1.8.0.zip
 downloads:
 - name: projector-client-web-distribution-v1.8.0.zip
   url: https://github.com/JetBrains/projector-client/releases/download/v1.8.0/projector-client-web-distribution-v1.8.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/projector-bin
+  found_in: projector-bin
+  signal: depends on electron16; reported as the newest 16.x release (16.2.8)

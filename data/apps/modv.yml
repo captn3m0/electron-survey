@@ -28,3 +28,8 @@ downloads:
   url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe
 - name: modV.Setup.3.30.0.exe.blockmap
   url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/modv-bin
+  found_in: modv-bin
+  signal: depends on electron25; reported as the newest 25.x release (25.9.8)

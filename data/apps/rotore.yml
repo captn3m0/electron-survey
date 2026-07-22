@@ -11,3 +11,8 @@ src: https://github.com/LinneRELLa/ROTORE/archive/refs/tags/v1.0.2.zip
 downloads:
 - name: ROTORE.Setup.1.0.2.exe
   url: https://github.com/LinneRELLa/ROTORE/releases/download/v1.0.2/ROTORE.Setup.1.0.2.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/rotore-git
+  found_in: rotore-git
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

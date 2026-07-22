@@ -111,7 +111,7 @@ def _by_depth(paths: list[pathlib.Path]) -> list[pathlib.Path]:
     return sorted(paths, key=lambda p: len(p.parts))
 
 
-def _electron_from_package_lock(paths: list[pathlib.Path]) -> str | None:
+def _electron_from_package_lock(paths: list[pathlib.Path]) -> tuple[str, pathlib.Path] | None:
     for path in paths:
         try:
             data = json.loads(path.read_text(encoding="utf-8", errors="replace"))
@@ -120,15 +120,15 @@ def _electron_from_package_lock(paths: list[pathlib.Path]) -> str | None:
         # v2/v3 format
         pkg = data.get("packages", {}).get("node_modules/electron")
         if pkg and "version" in pkg:
-            return str(pkg["version"])
+            return str(pkg["version"]), path
         # v1 format
         dep = data.get("dependencies", {}).get("electron")
         if dep and "version" in dep:
-            return str(dep["version"])
+            return str(dep["version"]), path
     return None
 
 
-def _electron_from_yarn_lock(paths: list[pathlib.Path]) -> str | None:
+def _electron_from_yarn_lock(paths: list[pathlib.Path]) -> tuple[str, pathlib.Path] | None:
     for path in paths:
         try:
             text = path.read_text(encoding="utf-8", errors="replace")
@@ -142,11 +142,11 @@ def _electron_from_yarn_lock(paths: list[pathlib.Path]) -> str | None:
             re.MULTILINE,
         )
         if m:
-            return m.group(1)
+            return m.group(1), path
     return None
 
 
-def _electron_from_pnpm_lock(paths: list[pathlib.Path]) -> str | None:
+def _electron_from_pnpm_lock(paths: list[pathlib.Path]) -> tuple[str, pathlib.Path] | None:
     for path in paths:
         try:
             data = _yaml.safe_load(path.read_text(encoding="utf-8", errors="replace"))
@@ -161,11 +161,11 @@ def _electron_from_pnpm_lock(paths: list[pathlib.Path]) -> str | None:
                 if re.match(r'^/?electron[@/]', str(key)):
                     m = re.search(r'[\/@](\d+\.\d+\.\d+)', str(key))
                     if m:
-                        return m.group(1)
+                        return m.group(1), path
     return None
 
 
-def _electron_range_from_package_json(paths: list[pathlib.Path]) -> str | None:
+def _electron_range_from_package_json(paths: list[pathlib.Path]) -> tuple[str, pathlib.Path] | None:
     for path in paths:
         try:
             data = json.loads(path.read_text(encoding="utf-8", errors="replace"))
@@ -174,7 +174,7 @@ def _electron_range_from_package_json(paths: list[pathlib.Path]) -> str | None:
         for dep_key in ("devDependencies", "dependencies"):
             val = data.get(dep_key, {}).get("electron")
             if val:
-                return str(val)
+                return str(val), path
     return None
 
 
@@ -235,6 +235,8 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         # Record which archive this version came from so matches() can re-detect
         # when the github.com processor advances src to a newer release.
         result["electron_src"] = src_url
+        if "evidence" in result:
+            result["evidence"]["source"] = src_url
     return result
 
 
@@ -253,20 +255,21 @@ def _detect(app_id: str, zip_path: pathlib.Path, extract_dir: pathlib.Path) -> d
     pkg_jsons  = _by_depth(list(extract_dir.rglob("package.json")))
 
     # Collect exact versions from lockfiles in preference order
-    lockfile_versions: list[tuple[str, str]] = []
+    lockfile_versions: list[tuple[str, str, pathlib.Path]] = []
     for label, extractor in [
         ("package-lock.json", lambda: _electron_from_package_lock(pkg_locks)),
         ("yarn.lock",         lambda: _electron_from_yarn_lock(yarn_locks)),
         ("pnpm-lock.yaml",    lambda: _electron_from_pnpm_lock(pnpm_locks)),
     ]:
-        version = extractor()
-        if version:
-            lockfile_versions.append((label, version))
+        found = extractor()
+        if found:
+            version, path = found
+            lockfile_versions.append((label, version, path))
 
-    unique_versions = list(dict.fromkeys(v for _, v in lockfile_versions))
+    unique_versions = list(dict.fromkeys(v for _, v, _ in lockfile_versions))
 
     if len(unique_versions) > 1:
-        detail = ", ".join(f"{lbl}={ver}" for lbl, ver in lockfile_versions)
+        detail = ", ".join(f"{lbl}={ver}" for lbl, ver, _ in lockfile_versions)
         log.warning("[%s] conflicting electron versions across lockfiles: %s", app_id, detail)
 
     _method_map = {
@@ -275,25 +278,63 @@ def _detect(app_id: str, zip_path: pathlib.Path, extract_dir: pathlib.Path) -> d
         "pnpm-lock.yaml":    "src-pnpm-lock",
     }
 
+    def _rel(path: pathlib.Path) -> str:
+        """Path of the file inside the archive, not on this machine's disk."""
+        try:
+            return str(path.relative_to(extract_dir))
+        except ValueError:
+            return path.name
+
     if unique_versions:
-        source, version = lockfile_versions[0]
-        log.info("[%s] electron %s detected via %s", app_id, version, source)
-        return {"electron": version, "method": _method_map.get(source, f"src-{source}")}
+        source, version, path = lockfile_versions[0]
+        log.info("[%s] electron %s detected via %s (%s)", app_id, version, source, _rel(path))
+        evidence = {
+            "kind": "lockfile",
+            "found_in": _rel(path),
+            "signal": f"electron pinned in {source}",
+        }
+        if len(unique_versions) > 1:
+            evidence["signal"] += (
+                " — other lockfiles in this archive disagree: "
+                + ", ".join(f"{lbl}={ver}" for lbl, ver, _ in lockfile_versions[1:])
+            )
+        return {
+            "electron": version,
+            "method": _method_map.get(source, f"src-{source}"),
+            "evidence": evidence,
+        }
 
     # No lockfile found electron — try package.json files shallowest first
     if pkg_jsons:
-        rng = _electron_range_from_package_json(pkg_jsons)
-        if rng:
+        found = _electron_range_from_package_json(pkg_jsons)
+        if found:
+            rng, path = found
             exact = re.fullmatch(r'v?(\d+\.\d+\.\d+)', rng.strip())
             if exact:
                 version = exact.group(1)
                 log.info("[%s] electron %s detected via package.json (exact)", app_id, version)
-                return {"electron": version, "method": "src-package-json"}
+                return {
+                    "electron": version,
+                    "method": "src-package-json",
+                    "evidence": {
+                        "kind": "manifest",
+                        "found_in": _rel(path),
+                        "signal": f"electron pinned to exactly {rng}",
+                    },
+                }
             resolved = _resolve_range(rng)
             if resolved:
                 log.warning("[%s] electron version-range ONLY from package.json: %s", app_id, rng)
                 log.info("[%s] electron %s resolved from range %s", app_id, resolved, rng)
-                return {"electron": resolved, "method": "src-range-guess"}
+                return {
+                    "electron": resolved,
+                    "method": "src-range-guess",
+                    "evidence": {
+                        "kind": "manifest",
+                        "found_in": _rel(path),
+                        "signal": f"no lockfile; range \"{rng}\" resolved to its highest known match",
+                    },
+                }
             log.warning("[%s] electron range %s could not be resolved", app_id, rng)
 
     log.info("[%s] no electron version found", app_id)

@@ -31,3 +31,8 @@ downloads:
   url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-win-x64-0.5.0-install.exe
 - name: SPIE-win-x64-0.5.0-install.exe.blockmap
   url: https://github.com/robsonos/spie/releases/download/v0.5.0/SPIE-win-x64-0.5.0-install.exe.blockmap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/spie-bin
+  found_in: spie-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

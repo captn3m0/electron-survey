@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Setup-5.11.0.exe
 - name: Wallet.Recovery.Wizard-Setup-5.11.0.exe.sha256sum
   url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Setup-5.11.0.exe.sha256sum
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/wallet-recovery-wizard-bin
+  found_in: wallet-recovery-wizard-bin
+  signal: depends on electron22; reported as the newest 22.x release (22.3.27)

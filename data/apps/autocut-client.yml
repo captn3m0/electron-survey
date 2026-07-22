@@ -14,3 +14,8 @@ downloads:
 - name: autocut-client_v0.1.12.exe
   url: https://github.com/zcf0508/autocut-client/releases/download/v0.1.12/autocut-client_v0.1.12.exe
 we_tried: we0:v0.1.12
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/autocut-client
+  found_in: autocut-client
+  signal: depends on electron21; reported as the newest 21.x release (21.4.4)

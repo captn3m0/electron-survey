@@ -11,3 +11,9 @@ electron: 8.2.4
 method: src-package-lock
 name: Lax
 electron_src: https://github.com/brandly/Lax/archive/refs/tags/v0.6.6.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/brandly/Lax/archive/refs/tags/v0.6.6.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

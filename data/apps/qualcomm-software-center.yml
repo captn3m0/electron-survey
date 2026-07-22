@@ -5,3 +5,8 @@ aur:
 - qualcomm-software-center
 electron: 32.3.3
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/qualcomm-software-center
+  found_in: qualcomm-software-center
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

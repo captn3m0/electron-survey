@@ -11,3 +11,8 @@ src: https://github.com/wasd09090030/live2Dpet_Miku/archive/refs/tags/V1.0.zip
 downloads:
 - name: Miku_Pet.zip
   url: https://github.com/wasd09090030/live2Dpet_Miku/releases/download/V1.0/Miku_Pet.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/live2d-desktop-pet-git
+  found_in: live2d-desktop-pet-git
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

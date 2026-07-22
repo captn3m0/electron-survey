@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/CyrusCKF/translator/releases/download/v0.1.2/calt-0.1.2-win.zip
 - name: calt.0.1.2.msi
   url: https://github.com/CyrusCKF/translator/releases/download/v0.1.2/calt.0.1.2.msi
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/calt-git
+  found_in: calt-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

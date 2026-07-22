@@ -5,3 +5,8 @@ aur:
 - alicorn-git
 electron: 40.10.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/alicorn-git
+  found_in: alicorn-git
+  signal: depends on electron40; reported as the newest 40.x release (40.10.6)

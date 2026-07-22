@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/astudentinearth/darkwrite/releases/download/v1.2.3-beta.1/Darkwrite.AppImage
 - name: Darkwrite.deb
   url: https://github.com/astudentinearth/darkwrite/releases/download/v1.2.3-beta.1/Darkwrite.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/darkwrite-bin
+  found_in: darkwrite-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

@@ -8,3 +8,8 @@ electron: 23.3.13
 method: aur-depends
 latest: 0.0.8
 src: https://github.com/nullfuzz-pentest/CGDI/archive/refs/tags/0.0.8.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cgdi
+  found_in: cgdi
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

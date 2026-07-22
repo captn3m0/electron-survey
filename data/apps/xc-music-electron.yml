@@ -22,3 +22,8 @@ downloads:
   url: https://github.com/yiktllw/XCMusic/releases/download/0.3.1/xc-music.Setup.0.3.1.exe
 - name: xc-music_0.3.1_amd64.snap
   url: https://github.com/yiktllw/XCMusic/releases/download/0.3.1/xc-music_0.3.1_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/xc-music-bin
+  found_in: xc-music-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

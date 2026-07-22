@@ -17,3 +17,8 @@ downloads:
   url: https://github.com/TheSingularis/shrimp/releases/download/v0.1.7/shrimp-0.1.7.tar.gz
 - name: SHRIMP.Setup.0.1.7.exe
   url: https://github.com/TheSingularis/shrimp/releases/download/v0.1.7/SHRIMP.Setup.0.1.7.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/shrimp
+  found_in: shrimp
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

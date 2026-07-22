@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor.Setup.0.4.1.exe
 - name: ClipHarbor_0.4.1_amd64.deb
   url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor_0.4.1_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/clipharbor-bin
+  found_in: clipharbor-bin
+  signal: depends on electron35; reported as the newest 35.x release (35.7.5)

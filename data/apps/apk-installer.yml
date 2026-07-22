@@ -14,3 +14,8 @@ downloads:
 - name: Apk.Installer.Setup.1.6.0.exe
   url: https://github.com/zhujiaming/apk-installer/releases/download/1.6.0/Apk.Installer.Setup.1.6.0.exe
 we_tried: we0:1.6.0
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/apk-installer
+  found_in: apk-installer
+  signal: depends on electron10; reported as the newest 10.x release (10.4.7)

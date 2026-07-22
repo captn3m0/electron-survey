@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat.Setup.0.9.3.exe
 - name: VoceChat_0.9.3_amd64.deb
   url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat_0.9.3_amd64.deb
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/vocechat-desktop-bin
+  found_in: vocechat-desktop-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

@@ -47,3 +47,9 @@ downloads:
 electron: 27.0.2
 method: src-yarn-lock
 electron_src: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.2.5-1.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.2.5-1.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

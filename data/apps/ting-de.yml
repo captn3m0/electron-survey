@@ -14,3 +14,8 @@ downloads:
 - url: https://static.eudic.net/pkg/dhmac.dmg
   name: dhmac.dmg
   version: latest
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/ting-de
+  found_in: ting-de
+  signal: depends on electron11; reported as the newest 11.x release (11.5.0)

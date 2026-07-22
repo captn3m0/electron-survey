@@ -73,3 +73,9 @@ packages:
   arch: arm64
 name: Joplin
 electron_src: https://github.com/laurent22/joplin/archive/refs/tags/v3.6.15.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/laurent22/joplin/archive/refs/tags/v3.6.15.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

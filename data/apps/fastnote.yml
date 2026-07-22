@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/creamIcec/FastNote/releases/download/v1.0.1/fastnote.1.0.0.exe
 - name: fastnote.1.0.0.msi
   url: https://github.com/creamIcec/FastNote/releases/download/v1.0.1/fastnote.1.0.0.msi
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/fastnote-git
+  found_in: fastnote-git
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/trumanjchan/sorted-photography/releases/download/v2.1.0/sorted-photography-darwin-arm64-2.1.0.zip
 - name: sorted_photography-2.1.0-full.nupkg
   url: https://github.com/trumanjchan/sorted-photography/releases/download/v2.1.0/sorted_photography-2.1.0-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/sorted-photography-git
+  found_in: sorted-photography-git
+  signal: depends on electron36; reported as the newest 36.x release (36.9.5)

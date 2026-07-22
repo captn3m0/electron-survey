@@ -11,3 +11,8 @@ src: https://github.com/jaejaywoo/HireGPT/archive/refs/tags/v0.2.0.zip
 downloads:
 - name: HireGPT-darwin-x64-v0.2.0.zip
   url: https://github.com/jaejaywoo/HireGPT/releases/download/v0.2.0/HireGPT-darwin-x64-v0.2.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/hiregpt
+  found_in: hiregpt
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

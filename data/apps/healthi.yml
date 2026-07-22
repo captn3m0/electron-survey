@@ -12,3 +12,9 @@ electron: 4.2.12
 method: src-range-guess
 name: healthi
 electron_src: https://github.com/pablopunk/healthi-app/archive/refs/tags/4.0.1.zip
+evidence:
+  kind: manifest
+  source: https://github.com/pablopunk/healthi-app/archive/refs/tags/4.0.1.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

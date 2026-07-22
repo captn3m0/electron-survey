@@ -5,3 +5,8 @@ aur:
 - paradise-pi-bin
 electron: 24.8.8
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/paradise-pi-bin
+  found_in: paradise-pi-bin
+  signal: depends on electron24; reported as the newest 24.x release (24.8.8)

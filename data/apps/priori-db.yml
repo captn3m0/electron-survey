@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-win-x64.exe
 - name: priori-db-v0.0.1-beta-win-x64.zip
   url: https://github.com/priori/priori-db/releases/download/v0.0.1-beta/priori-db-v0.0.1-beta-win-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/priori-db-bin
+  found_in: priori-db-bin
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

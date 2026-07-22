@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray_2.0.0_amd64.deb
 - name: nostr-relay-tray_2.0.0_amd64.snap
   url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray_2.0.0_amd64.snap
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/nostr-relay-tray-bin
+  found_in: nostr-relay-tray-bin
+  signal: depends on electron28; reported as the newest 28.x release (28.3.3)

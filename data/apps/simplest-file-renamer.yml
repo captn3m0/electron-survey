@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer.1.0.0.exe
 - name: Simplest.File.Renamer.Setup.1.0.0.exe
   url: https://github.com/whyboris/Simplest-File-Renamer/releases/download/v1.0.0/Simplest.File.Renamer.Setup.1.0.0.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/simplest-file-renamer-bin
+  found_in: simplest-file-renamer-bin
+  signal: depends on electron8; reported as the newest 8.x release (8.5.5)

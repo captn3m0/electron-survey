@@ -13,3 +13,8 @@ downloads:
   url: https://github.com/clockley/EMSMediaSystem/releases/download/6.4.3/EMS.Media.System-6.4.3.AppImage
 - name: EMS.Media.System.Setup.6.4.3.exe
   url: https://github.com/clockley/EMSMediaSystem/releases/download/6.4.3/EMS.Media.System.Setup.6.4.3.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/emsmediasystem-bin
+  found_in: emsmediasystem-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

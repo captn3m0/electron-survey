@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share_1.4.2_amd64.deb
 - name: screen_area_share-1.4.2-full.nupkg
   url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen_area_share-1.4.2-full.nupkg
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/screen-area-share-bin
+  found_in: screen-area-share-bin
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

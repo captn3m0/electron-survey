@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/RELEASES
 - name: RELEASES.json
   url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/RELEASES.json
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/chat-overlay-bin
+  found_in: chat-overlay-bin
+  signal: depends on electron42; reported as the newest 42.x release (42.7.0)

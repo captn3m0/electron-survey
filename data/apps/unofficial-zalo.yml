@@ -14,3 +14,9 @@ electron: 5.0.13
 method: src-range-guess
 name: Unofficial Zalo
 electron_src: https://github.com/SafeStudio/unofficial-zalo/archive/refs/tags/v1.0.7.zip
+evidence:
+  kind: manifest
+  source: https://github.com/SafeStudio/unofficial-zalo/archive/refs/tags/v1.0.7.zip
+  found_in: package.json
+  signal: no lockfile; a package.json range was resolved to its highest known match
+  reconstructed: true

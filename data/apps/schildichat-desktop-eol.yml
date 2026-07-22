@@ -5,3 +5,8 @@ aur:
 - schildichat-desktop-eol
 electron: 38.8.6
 method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/schildichat-desktop-eol
+  found_in: schildichat-desktop-eol
+  signal: depends on electron38; reported as the newest 38.x release (38.8.6)

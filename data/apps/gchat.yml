@@ -11,3 +11,8 @@ src: https://github.com/dcrousso/GChat/archive/refs/tags/v1.0.1.zip
 downloads:
 - name: GChat-macOS-v1.0.1.zip
   url: https://github.com/dcrousso/GChat/releases/download/v1.0.1/GChat-macOS-v1.0.1.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/gchat
+  found_in: gchat
+  signal: depends on electron23; reported as the newest 23.x release (23.3.13)

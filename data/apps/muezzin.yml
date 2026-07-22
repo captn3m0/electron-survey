@@ -24,3 +24,9 @@ electron: 25.8.4
 method: src-package-lock
 name: muezzin
 electron_src: https://github.com/DBChoco/Muezzin/archive/refs/tags/v2.6.0.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/DBChoco/Muezzin/archive/refs/tags/v2.6.0.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

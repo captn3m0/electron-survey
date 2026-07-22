@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/puff-dayo/cozydeco-overlay/releases/download/v0.1/cozy_overlay_desktop-win32-x64-v0.1-portable.zip
 - name: cozy_overlay_desktop-win32-x64-v0.1-setup.exe
   url: https://github.com/puff-dayo/cozydeco-overlay/releases/download/v0.1/cozy_overlay_desktop-win32-x64-v0.1-setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/cozy-overlay-desktop-bin
+  found_in: cozy-overlay-desktop-bin
+  signal: depends on electron33; reported as the newest 33.x release (33.4.11)

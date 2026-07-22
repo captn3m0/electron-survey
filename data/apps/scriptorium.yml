@@ -11,3 +11,8 @@ src: https://github.com/Toriality/scriptorium/archive/refs/tags/release.zip
 downloads:
 - name: Scriptorium.BETA-Windows-0.1.1-Setup.exe
   url: https://github.com/Toriality/scriptorium/releases/download/release/Scriptorium.BETA-Windows-0.1.1-Setup.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/scriptorium-git
+  found_in: scriptorium-git
+  signal: depends on electron29; reported as the newest 29.x release (29.4.6)

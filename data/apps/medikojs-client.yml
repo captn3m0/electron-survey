@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/rafalhogent/medikoJs/releases/download/0.0.4-alpha/medikojs-client-v0.0.4-alpha-linux-x64.zip
 - name: medikojs-client-v0.0.4-alpha-win32-x64.zip
   url: https://github.com/rafalhogent/medikoJs/releases/download/0.0.4-alpha/medikojs-client-v0.0.4-alpha-win32-x64.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/medikojs-client-bin
+  found_in: medikojs-client-bin
+  signal: depends on electron32; reported as the newest 32.x release (32.3.3)

@@ -20,3 +20,9 @@ electron: 14.0.1
 method: src-package-lock
 name: Pullp
 electron_src: https://github.com/rkclark/pullp/archive/refs/tags/v4.0.2.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/rkclark/pullp/archive/refs/tags/v4.0.2.zip
+  found_in: package-lock.json
+  signal: electron pinned in package-lock.json
+  reconstructed: true

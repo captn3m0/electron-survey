@@ -34,3 +34,9 @@ aur:
 - rendertune-bin
 name: RenderTune
 electron_src: https://github.com/MartinBarker/RenderTune/archive/refs/tags/v2.0.12.zip
+evidence:
+  kind: lockfile
+  source: https://github.com/MartinBarker/RenderTune/archive/refs/tags/v2.0.12.zip
+  found_in: yarn.lock
+  signal: electron pinned in yarn.lock
+  reconstructed: true

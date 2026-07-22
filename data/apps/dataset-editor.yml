@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/latest-linux.yml
 - name: latest.yml
   url: https://github.com/Jelosus2/DatasetEditor/releases/download/v1.0.1/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/dataset-editor
+  found_in: dataset-editor
+  signal: depends on electron39; reported as the newest 39.x release (39.8.10)

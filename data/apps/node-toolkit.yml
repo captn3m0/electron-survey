@@ -11,3 +11,8 @@ src: https://github.com/FelixZC/node-toolkit/archive/refs/tags/v2.2.2.zip
 downloads:
 - name: node-toolkit-2.2.2-win-x64.exe
   url: https://github.com/FelixZC/node-toolkit/releases/download/v2.2.2/node-toolkit-2.2.2-win-x64.exe
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/node-toolkit-git
+  found_in: node-toolkit-git
+  signal: depends on electron31; reported as the newest 31.x release (31.7.7)

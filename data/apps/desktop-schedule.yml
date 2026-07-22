@@ -25,3 +25,8 @@ downloads:
   url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-win-x64-setup-1.1.0.exe
 - name: Desktop.Schedule-win-x64-setup-1.1.0.zip
   url: https://github.com/TimFang4162/desktop-schedule/releases/download/v1.1.0/Desktop.Schedule-win-x64-setup-1.1.0.zip
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/desktop-schedule-bin
+  found_in: desktop-schedule-bin
+  signal: depends on electron16; reported as the newest 16.x release (16.2.8)

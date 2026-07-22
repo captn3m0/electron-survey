@@ -21,3 +21,8 @@ downloads:
   url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/KickTalk.exe
 - name: latest.yml
   url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/latest.yml
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/kick-talk-git
+  found_in: kick-talk-git
+  signal: depends on electron34; reported as the newest 34.x release (34.5.8)

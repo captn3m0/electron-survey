@@ -45,6 +45,29 @@ answer wins. Each app records which method resolved it, shown on its page.
 The rest are overwhelmingly proprietary apps whose installers aren't
 fingerprintable.
 
+### Show your working
+
+Every app page carries a **How we know** block naming the exact artefact the
+version was read out of — the installer filename for a binary fingerprint, the
+lockfile for a source detection, the Arch package for an AUR inference — with a
+link to the artefact itself so the reading can be checked.
+
+Not all of it is equally strong, and the pages say so:
+
+- A **binary fingerprint** or a **lockfile** is an exact read of a specific
+  shipped file.
+- A **package.json range** is not: with no lockfile published, the version shown
+  is the newest release satisfying the declared range, which is what a fresh
+  install resolves to rather than necessarily what shipped.
+- An **AUR depends** entry gives the major line only. The package links against
+  the distribution's shared Electron, so the exact patch release a user runs
+  depends on their system. Read it as a floor.
+
+Provenance was added after much of the data was collected. Where it could be
+rebuilt from what was already stored it has been, and those records are marked
+as reconstructed. Binary fingerprints can't be rebuilt — which artefact answered
+wasn't recorded at the time — so they fill in as apps are re-fingerprinted.
+
 ## From Electron to Chromium
 
 Each Electron release pins one exact Chromium build; the mapping comes from
