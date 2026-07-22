@@ -68,6 +68,21 @@ body.wide { max-width: 62em; }
 .masthead nav .minor { color: var(--ink-muted); }
 .masthead hr { margin: .6em 0 1.4em; }
 
+/* ---- work-in-progress banner -------------------------------------------- */
+
+.wip-banner {
+  border: 2px solid var(--orange-fg);
+  border-radius: .3em;
+  background: var(--orange-bg);
+  color: var(--orange-fg);
+  padding: 1em 1.2em;
+  margin: 0 0 1.6em;
+  font-size: 1.05em;
+}
+.wip-banner p { margin: .3em 0; }
+.wip-banner p:first-child { font-size: 1.4em; font-weight: 700; text-align: center; margin-top: 0; }
+.wip-banner a { color: var(--orange-fg); text-decoration: underline; }
+
 .lede { font-size: 1.05em; }
 .muted { color: var(--ink-muted); }
 small.muted { display: inline-block; }
