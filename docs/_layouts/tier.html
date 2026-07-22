@@ -1,10 +1,22 @@
 ---
 layout: default
+wide: true
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.description }}</p>
-
 {% assign ids = site.data.popularity.tiers[page.tier] %}
-<p><strong>{{ ids | size }}</strong> apps · <span class="st st-green">supported</span> <span class="st st-orange">recently EOL</span> <span class="st st-red">old</span></p>
+{% assign stat = site.data.summary.tiers[page.tier] %}
 
-{% include applist.html ids=ids %}
+<h1>{{ page.title }}</h1>
+<p class="lede">{{ page.description }}</p>
+
+<ul class="stats">
+  <li><span class="n">{{ stat.apps }}</span><span class="k">apps in tier</span></li>
+  <li><span class="n">{{ stat.detected }}</span><span class="k">with a detected Electron</span></li>
+  <li><span class="n">{{ stat.eol_pct }}%</span><span class="k">on end-of-life Electron</span></li>
+  <li><span class="n">{{ stat.median_days_behind }}</span><span class="k">median days behind Chromium</span></li>
+</ul>
+
+{% include tierbar.html stat=stat key=true %}
+
+<p class="muted"><small>Ordered by reach — the strongest of AUR votes or Homebrew installs. Click a column to re-sort, or filter by name. <a href="{{ '/about/' | relative_url }}">How these numbers are built</a>.</small></p>
+
+{% include applist.html ids=ids rank=true %}

@@ -18,7 +18,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           submodules: true
 
@@ -30,18 +30,18 @@ jobs:
             /usr/local/share/boost "$AGENT_TOOLSDIRECTORY" || true
           df -h /
 
-      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
           node-version: "22"
 
-      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+      - uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
 
       - name: Build meta indexes (AUR, Homebrew, Electron headers)
         run: make all
 
       - name: Restore zips cache
         id: cache-zips-restore
-        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         with:
           path: zips/
           key: zips-${{ hashFiles('data/apps/**/*.yml') }}
@@ -112,18 +112,31 @@ jobs:
 
       - name: Save zips cache
         if: always() && steps.cache-zips-restore.outputs.cache-hit != 'true'
-        uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         with:
           path: zips/
           key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
 
       # After which-electron has resolved fresh versions, recompute tiers +
-      # staleness so the committed data (and the docs/ site) stay current.
-      - name: Compute popularity tiers and Electron freshness
+      # staleness + the rolled-up headline figures so the committed data (and
+      # the docs/ site built from it) stay current.
+      - name: Compute popularity tiers
+        if: always()
+        run: uv run main.py popularity
+
+      # NVD is a third party and does go down; a failure here just leaves
+      # yesterday's committed data/cves.yml in place, which freshness can still
+      # read, so it must not take the rest of the pipeline with it.
+      - name: Refresh unpatched Chromium CVE counts
+        if: always()
+        continue-on-error: true
+        run: uv run main.py cves --refresh
+
+      - name: Compute Electron freshness and site summary
         if: always()
         run: |
-          uv run main.py popularity
           uv run main.py freshness
+          uv run main.py summary
 
       - name: Generate report
         if: always()
@@ -133,8 +146,19 @@ jobs:
         if: always()
         run: uv run main.py stats
 
-      - uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5.2.0
+      - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
         if: always()
         with:
           commit_message: "chore: update release and electron version data [skip ci]"
-          file_pattern: "data/apps/ data/popularity.yml data/freshness.yml REPORT.md"
+          file_pattern: "data/apps/ data/popularity.yml data/freshness.yml data/summary.yml data/cves.yml REPORT.md"
+
+  # [skip ci] on the commit above suppresses the push trigger, so publish
+  # explicitly rather than leaving the site a day stale.
+  publish:
+    needs: process
+    if: always()
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml

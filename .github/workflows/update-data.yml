@@ -12,11 +12,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           submodules: true
 
-      - uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
+      - uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
 
       - name: Extract apps
         run: uv run main.py extract-apps
@@ -24,10 +24,30 @@ jobs:
       - name: Fetch electron versions from npm
         run: uv run main.py fetch-versions
 
+      # A new Electron release moves every app's staleness, so recompute the
+      # derived files the site reads. Only the two cheap meta indexes are
+      # needed here — not the multi-hundred-MB AUR/Homebrew dumps.
+      - name: Recompute Electron and Chromium freshness
+        run: |
+          make meta/electron-index.json meta/eol-electron.json
+          uv run main.py freshness
+          uv run main.py summary
+
       - name: Generate report
         run: uv run main.py report
 
-      - uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5.2.0
+      - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
         with:
           commit_message: "chore: update app list and electron versions [skip ci]"
-          file_pattern: "data/apps/ data/versions.txt REPORT.md"
+          file_pattern: "data/apps/ data/versions.txt data/freshness.yml data/summary.yml REPORT.md"
+
+  # [skip ci] on the commit above suppresses the push trigger, so publish
+  # explicitly rather than leaving the site a day stale.
+  publish:
+    needs: update
+    if: always()
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml

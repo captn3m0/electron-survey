@@ -1,0 +1,96 @@
+name: Publish site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "data/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+  # The data workflows commit with [skip ci], which suppresses the push event
+  # for their own commits, so they call this workflow directly as their last
+  # step. (A workflow_run trigger would also work, but it hands an elevated
+  # token to a run whose head SHA predates the data commit that triggered it.)
+  workflow_call:
+
+permissions:
+  contents: read
+
+# One deploy at a time, and never cancel one midway: a half-finished deploy
+# would leave the published site inconsistent with the data it claims.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      # configure-pages turns Pages on for the repo the first time it runs.
+      pages: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          # Always the tip of main, never github.sha: a scheduled data run
+          # commits *during* the run, so its own SHA is one commit behind the
+          # data we want to publish.
+          ref: main
+          # The electron-apps submodule is only an input to the data pipeline;
+          # the site builds purely from committed data/.
+          submodules: false
+
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+        id: pages
+        with:
+          enablement: true
+
+      - uses: ruby/setup-ruby@a30dfa457ad68707b8b910ac3a244714b61c0626 # v1.320.0
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+          working-directory: docs
+
+      # docs/_data is a symlink to ../data and docs/_plugins holds the per-app
+      # page generator, so this needs a normal (non-safe) Jekyll build — which
+      # is exactly what GitHub Pages' built-in build would not give us.
+      - name: Build site
+        working-directory: docs
+        env:
+          JEKYLL_ENV: production
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: bundle exec jekyll build --baseurl "$PAGES_BASE_PATH"
+
+      - name: Check the build produced what we expect
+        working-directory: docs
+        run: |
+          test -f _site/index.html
+          test -f _site/flagship/index.html
+          test -f _site/about/index.html
+          pages=$(find _site/apps -name '*.html' | wc -l)
+          echo "Generated $pages app pages"
+          # Guard against a silently empty data dir or a generator regression.
+          [ "$pages" -gt 1000 ] || { echo "Too few app pages: $pages"; exit 1; }
+          # An unregistered Liquid filter is passed through silently rather than
+          # raising, so assert the raw-data block really is pretty-printed JSON.
+          grep -q '&quot;id&quot;: ' _site/apps/joplin.html \
+            || { echo "Raw data block is not pretty-printed JSON"; exit 1; }
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: docs/_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5.0.0
+        id: deployment

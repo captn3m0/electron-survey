@@ -46,8 +46,8 @@ tiers:
   - balenaetcher
   - arc
   - gemini
-  - headlamp
   - openmtp
+  - headlamp
   - redisinsight
   - termius
   - freelens
@@ -55,8 +55,8 @@ tiers:
   - lens
   - wave-terminal
   - tabby
-  - battery
   - block-goose
+  - battery
   - maestro-ai
   - panda
   - cherry-studio
@@ -67,8 +67,8 @@ tiers:
   - anytype
   - xmind
   - super-productivity
-  - upwork
   - ferdium
+  - upwork
   - deezer
   - siyuan
   - session-desktop
@@ -90,8 +90,8 @@ tiers:
   established:
   - anythingllm
   - logseq
-  - notion-calendar
   - thebrowsercompany-dia
+  - notion-calendar
   - mockoon
   - appium-inspector
   - aionui
@@ -153,8 +153,8 @@ tiers:
   - curseforge
   - electron
   - plexamp
-  - screen-studio
   - pulsar-edit
+  - screen-studio
   - cutter
   - thorium-reader
   - atv-remote
@@ -165,8 +165,8 @@ tiers:
   - keeper-password-manager-digital-vault
   - graphiql
   - superhuman
-  - browserosaurus
   - camunda-modeler
+  - browserosaurus
   - fastmail
   - sparkle
   - vysor
@@ -201,8 +201,8 @@ tiers:
   - fluent-reader
   - icalingua
   - yandex-music-windows
-  - keeweb
   - easyeda
+  - keeweb
   - ynote
   - cerebro
   - tencent-docs
@@ -215,8 +215,8 @@ tiers:
   - sencha-inspector
   - sencha-test
   - sencha-themer
-  - sqlectron
   - equibop
+  - sqlectron
   - wp
   - museeks
   - beaker-browser
@@ -247,8 +247,8 @@ tiers:
   - edex-ui
   - electronic-wechat-uos
   - edrawmind
-  - tropy
   - inav-configurator
+  - tropy
   - nteract
   - datasette-desktop
   - elecwhat
@@ -332,9 +332,9 @@ tiers:
   - nook
   - cabal-desktop
   - container-ps
+  - orca
   - masscode
   - witsy
-  - orca
   - dyad
   - postman-agent
   - descript
@@ -345,9 +345,9 @@ tiers:
   - ssh-config-editor
   - agent-tars
   - codebuddy
-  - switch
   - restfox
   - splice
+  - switch
   - remnote
   - codebuddy-cn
   - protopie
@@ -359,22 +359,22 @@ tiers:
   - basecamp
   - magiccap
   - deepchat
-  - jamovi
   - chatwork
+  - jamovi
   - lumen
   - aya
   - motion
-  - runjs
   - wordpresscom-studio
+  - runjs
   - sculptor
   - oss-browser
   - ditto
   - laravel-kit
   - replit
   - chatall
-  - monokle
   - youku
   - git-it
+  - monokle
   - bananas
   - beaver-notes
   - localcan
@@ -387,16 +387,16 @@ tiers:
   - electron-fiddle
   - jbrowse
   - tetrio
-  - deepnest
   - drata-agent
+  - deepnest
   - panwriter
   - publii
   - akiflow
   - simple-web-server
   - notable
   - biscuit
-  - voiden
   - meru
+  - voiden
   - windows95
   - shuttle
   - shift
@@ -407,8 +407,8 @@ tiers:
   - milanote
   - reflect
   - pennywise
-  - removebg
   - fishing-funds
+  - removebg
   - journey
   - listen1-desktop-bin
   - colour-contrast-analyser
@@ -416,9 +416,9 @@ tiers:
   - tana
   - front
   - kube-forwarder
+  - outerbase-studio
   - sipgate
   - infra
-  - outerbase-studio
   - gdevelop
   - ueli
   - plasticity
@@ -431,9 +431,9 @@ tiers:
   - onekey-wallet
   - ao
   - papers
+  - perplexity
   - xtool-creative-space
   - linkandroid
-  - perplexity
   - explorer
   - nfov
   - electorrent
@@ -445,9 +445,9 @@ tiers:
   - colorpicker
   - missive
   - mongotron
+  - znote
   - circuitjs
   - kui
-  - znote
   - splayer
   - rowboat
   - jasper
@@ -456,16 +456,16 @@ tiers:
   - ovice
   - bdash
   - amie
-  - quickbooks
   - zo
+  - quickbooks
   - deadbolt
   - godspeed
   - inmusic-software-center
   - stamp
   - ontime
   - jetbrains-space
-  - windsurf
   - chrysalis
+  - windsurf
   - mater
   - simpletex
   - zy-player
@@ -528,8 +528,8 @@ tiers:
   - ting-de
   - wail
   - envkey
-  - parsehub
   - electrocrud
+  - parsehub
   - shiba
   - todometer
   - gridea
@@ -2109,12 +2109,14 @@ scores:
     aur_popularity: 0
     brew_installs: 705
     reach: 0.4936
+    rank: 196
   1password:
     tier: flagship
     aur_votes: 209
     aur_popularity: 6.2749
-    brew_installs: 58657
+    brew_installs: 58670
     reach: 0.8262
+    rank: 12
   3fa:
     tier: unranked
     aur_votes: 0
@@ -2139,18 +2141,21 @@ scores:
     aur_popularity: 0
     brew_installs: 49
     reach: 0.2944
+    rank: 468
   actual-budget:
     tier: established
     aur_votes: 12
     aur_popularity: 0.6556
-    brew_installs: 830
-    reach: 0.5059
+    brew_installs: 831
+    reach: 0.506
+    rank: 184
   adrive:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0
     brew_installs: 808
     reach: 0.5039
+    rank: 187
   advanced-rest-client:
     tier: unranked
     aur_votes: 0
@@ -2163,12 +2168,14 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.1472
+    rank: 598
   aeon:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.0929
+    rank: 649
   aero-browser:
     tier: unranked
     aur_votes: 0
@@ -2191,8 +2198,9 @@ scores:
     tier: established
     aur_votes: 7
     aur_popularity: 0.8074
-    brew_installs: 1860
-    reach: 0.5666
+    brew_installs: 1857
+    reach: 0.5664
+    rank: 128
   agendapp:
     tier: unranked
     aur_votes: 0
@@ -2205,6 +2213,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 494
     reach: 0.4669
+    rank: 228
   agora-flat:
     tier: unranked
     aur_votes: 0
@@ -2223,24 +2232,28 @@ scores:
     aur_popularity: 0.6516
     brew_installs: 0
     reach: 0.0929
+    rank: 650
   ai-chat:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.0929
+    rank: 651
   ai-gate:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.1942
     brew_installs: 0
     reach: 0.0929
+    rank: 652
   ai-writer:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 653
   aider-desk:
     tier: unranked
     aur_votes: 0
@@ -2253,6 +2266,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 141
     reach: 0.3729
+    rank: 350
   aigepu:
     tier: unranked
     aur_votes: 0
@@ -2281,8 +2295,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 6183
-    reach: 0.6569
+    brew_installs: 6190
+    reach: 0.657
+    rank: 59
   aipo-com:
     tier: unranked
     aur_votes: 0
@@ -2301,24 +2316,28 @@ scores:
     aur_popularity: 0.1325
     brew_installs: 186
     reach: 0.3936
+    rank: 315
   airtame:
     tier: established
     aur_votes: 7
     aur_popularity: 0.0
-    brew_installs: 159
-    reach: 0.3819
+    brew_installs: 158
+    reach: 0.3814
+    rank: 332
   akiflow:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 201
     reach: 0.3995
+    rank: 303
   akuse:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 599
   albert-launcher:
     tier: unranked
     aur_votes: 0
@@ -2337,12 +2356,14 @@ scores:
     aur_popularity: 0.0004
     brew_installs: 0
     reach: 0.0929
+    rank: 654
   alice-ai:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0022
     brew_installs: 0
     reach: 0.0929
+    rank: 655
   alicorn:
     tier: unranked
     aur_votes: 0
@@ -2355,12 +2376,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 64
     reach: 0.3141
+    rank: 439
   aliyunpan-gaozhangmin:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 600
   alpaca:
     tier: unranked
     aur_votes: 0
@@ -2383,14 +2406,16 @@ scores:
     tier: established
     aur_votes: 2
     aur_popularity: 0.0121
-    brew_installs: 2367
-    reach: 0.5847
+    brew_installs: 2365
+    reach: 0.5846
+    rank: 117
   altair:
     tier: established
     aur_votes: 3
     aur_popularity: 0.0
-    brew_installs: 2367
-    reach: 0.5847
+    brew_installs: 2365
+    reach: 0.5846
+    rank: 118
   altarik-launcher:
     tier: unranked
     aur_votes: 0
@@ -2409,6 +2434,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 601
   amcrest:
     tier: unranked
     aur_votes: 0
@@ -2421,6 +2447,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 656
   amialive:
     tier: unranked
     aur_votes: 0
@@ -2431,20 +2458,23 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1003
-    reach: 0.5201
+    brew_installs: 1004
+    reach: 0.5202
+    rank: 167
   amie:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 92
     reach: 0.3411
+    rank: 400
   android-messages:
     tier: established
     aur_votes: 10
     aur_popularity: 0.7316
     brew_installs: 0
     reach: 0.3214
+    rank: 426
   android-toolkit:
     tier: unranked
     aur_votes: 0
@@ -2493,6 +2523,7 @@ scores:
     aur_popularity: 0.1813
     brew_installs: 0
     reach: 0.0929
+    rank: 657
   aniparser:
     tier: unranked
     aur_votes: 0
@@ -2523,12 +2554,14 @@ scores:
     aur_popularity: 0.0227
     brew_installs: 0
     reach: 0.3086
+    rank: 449
   antsword:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 446
     reach: 0.4592
+    rank: 239
   anubias:
     tier: unranked
     aur_votes: 0
@@ -2541,6 +2574,7 @@ scores:
     aur_popularity: 0.2778
     brew_installs: 0
     reach: 0.0929
+    rank: 658
   any-sync:
     tier: unranked
     aur_votes: 0
@@ -2551,20 +2585,23 @@ scores:
     tier: established
     aur_votes: 9
     aur_popularity: 0.2395
-    brew_installs: 7303
-    reach: 0.6694
+    brew_installs: 7306
+    reach: 0.6695
+    rank: 52
   anytype:
     tier: popular
     aur_votes: 59
     aur_popularity: 1.3726
-    brew_installs: 3567
-    reach: 0.6155
+    brew_installs: 3568
+    reach: 0.6156
+    rank: 93
   ao:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 126
-    reach: 0.3645
+    brew_installs: 127
+    reach: 0.3651
+    rank: 357
   apiflow:
     tier: unranked
     aur_votes: 0
@@ -2575,8 +2612,9 @@ scores:
     tier: established
     aur_votes: 7
     aur_popularity: 0.3758
-    brew_installs: 5282
+    brew_installs: 5286
     reach: 0.6451
+    rank: 74
   apk-installer:
     tier: unranked
     aur_votes: 0
@@ -2589,18 +2627,21 @@ scores:
     aur_popularity: 0
     brew_installs: 6403
     reach: 0.6596
+    rank: 58
   apple-music-electron-bin:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.2773
     brew_installs: 0
     reach: 0.1858
+    rank: 566
   aqua-voice:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1160
-    reach: 0.5311
+    brew_installs: 1159
+    reach: 0.531
+    rank: 159
   aquaquill:
     tier: unranked
     aur_votes: 0
@@ -2611,20 +2652,23 @@ scores:
     tier: popular
     aur_votes: 3
     aur_popularity: 0.4318
-    brew_installs: 30931
+    brew_installs: 30928
     reach: 0.7781
+    rank: 27
   arch-app-center:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0004
     brew_installs: 0
     reach: 0.0929
+    rank: 659
   archiver-app:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 184
     reach: 0.3928
+    rank: 316
   archperf-pro:
     tier: unranked
     aur_votes: 0
@@ -2641,8 +2685,9 @@ scores:
     tier: popular
     aur_votes: 6
     aur_popularity: 0.2861
-    brew_installs: 8707
+    brew_installs: 8709
     reach: 0.6827
+    rank: 51
   ariang-native:
     tier: unranked
     aur_votes: 0
@@ -2653,8 +2698,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1828
-    reach: 0.5653
+    brew_installs: 1832
+    reach: 0.5654
+    rank: 130
   assessment-disaggregation:
     tier: unranked
     aur_votes: 0
@@ -2673,6 +2719,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 56
     reach: 0.3042
+    rank: 457
   astroprint:
     tier: unranked
     aur_votes: 0
@@ -2685,12 +2732,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2945
+    rank: 464
   atlassify:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0005
     brew_installs: 0
     reach: 0.0929
+    rank: 660
   atmos-weather:
     tier: unranked
     aur_votes: 0
@@ -2715,6 +2764,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 100
     reach: 0.3797
+    rank: 337
   attack-shark-x11:
     tier: unranked
     aur_votes: 0
@@ -2725,8 +2775,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 1520
-    reach: 0.5514
+    brew_installs: 1518
+    reach: 0.5513
+    rank: 139
   audius-client:
     tier: unranked
     aur_votes: 0
@@ -2739,6 +2790,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 7
     reach: 0.1858
+    rank: 567
   autho-iptv:
     tier: unranked
     aur_votes: 0
@@ -2751,6 +2803,7 @@ scores:
     aur_popularity: 0
     brew_installs: 726
     reach: 0.4958
+    rank: 194
   autocut-client:
     tier: unranked
     aur_votes: 0
@@ -2793,18 +2846,21 @@ scores:
     aur_popularity: 0
     brew_installs: 375
     reach: 0.4462
+    rank: 251
   azure-data-studio:
     tier: flagship
     aur_votes: 458
     aur_popularity: 0.4382
     brew_installs: 3852
     reach: 0.8215
+    rank: 14
   azure-storage-explorer:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 5105
-    reach: 0.6425
+    brew_installs: 5098
+    reach: 0.6424
+    rank: 75
   backend-ai:
     tier: unranked
     aur_votes: 0
@@ -2817,6 +2873,7 @@ scores:
     aur_popularity: 0
     brew_installs: 56
     reach: 0.3042
+    rank: 458
   backslash-bin:
     tier: unranked
     aur_votes: 0
@@ -2829,12 +2886,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 568
   baidunetdisk:
     tier: established
     aur_votes: 14
     aur_popularity: 0.0121
-    brew_installs: 5624
-    reach: 0.6498
+    brew_installs: 5632
+    reach: 0.6499
+    rank: 71
   baiduwenku:
     tier: unranked
     aur_votes: 0
@@ -2851,14 +2910,16 @@ scores:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 34751
+    brew_installs: 34756
     reach: 0.7868
+    rank: 26
   bananas:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 286
-    reach: 0.4259
+    brew_installs: 287
+    reach: 0.4261
+    rank: 267
   bar-lobby:
     tier: unranked
     aur_votes: 0
@@ -2874,15 +2935,17 @@ scores:
   barmer-ecare:
     tier: minimal
     aur_votes: 2
-    aur_popularity: 0.0089
+    aur_popularity: 0.0077
     brew_installs: 0
     reach: 0.1472
+    rank: 602
   basecamp:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 419
-    reach: 0.4545
+    brew_installs: 420
+    reach: 0.4547
+    rank: 243
   basic-blackjack:
     tier: unranked
     aur_votes: 0
@@ -2899,26 +2962,30 @@ scores:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 11408
+    brew_installs: 11401
     reach: 0.703
+    rank: 45
   bbg-bin:
     tier: established
     aur_votes: 6
     aur_popularity: 0.0003
     brew_installs: 0
     reach: 0.2608
+    rank: 496
   bdash:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 93
     reach: 0.3419
+    rank: 399
   beaker-browser:
     tier: established
     aur_votes: 18
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3946
+    rank: 312
   beaker-ng:
     tier: unranked
     aur_votes: 0
@@ -2937,18 +3004,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 281
     reach: 0.4246
+    rank: 272
   beekeeper-studio:
     tier: popular
     aur_votes: 6
     aur_popularity: 0.0214
-    brew_installs: 9603
-    reach: 0.69
+    brew_installs: 9590
+    reach: 0.6899
+    rank: 49
   beeper:
     tier: established
     aur_votes: 17
     aur_popularity: 2.9379
-    brew_installs: 3494
+    brew_installs: 3497
     reach: 0.614
+    rank: 96
   before-dawn:
     tier: unranked
     aur_votes: 0
@@ -2983,8 +3053,9 @@ scores:
     tier: established
     aur_votes: 8
     aur_popularity: 0.0
-    brew_installs: 588
-    reach: 0.48
+    brew_installs: 587
+    reach: 0.4799
+    rank: 209
   bettersoundcloud:
     tier: unranked
     aur_votes: 0
@@ -2997,18 +3068,21 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 661
   betwixt:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 16
     reach: 0.2132
+    rank: 559
   beyondallreason:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.4253
     brew_installs: 0
     reach: 0.0929
+    rank: 662
   bibisco:
     tier: unranked
     aur_votes: 0
@@ -3027,6 +3101,7 @@ scores:
     aur_popularity: 0.0328
     brew_installs: 0
     reach: 0.1858
+    rank: 569
   bilibili-manga-downloader:
     tier: unranked
     aur_votes: 0
@@ -3075,18 +3150,21 @@ scores:
     aur_popularity: 0.0051
     brew_installs: 196
     reach: 0.3976
+    rank: 306
   bison-wallet:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 14
     reach: 0.2038
+    rank: 561
   bitburner:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.0091
     brew_installs: 0
     reach: 0.2157
+    rank: 548
   bitclient:
     tier: unranked
     aur_votes: 0
@@ -3103,8 +3181,9 @@ scores:
     tier: flagship
     aur_votes: 24
     aur_popularity: 0.227
-    brew_installs: 53626
+    brew_installs: 53641
     reach: 0.8195
+    rank: 15
   blinker:
     tier: unranked
     aur_votes: 0
@@ -3121,20 +3200,23 @@ scores:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 11411
-    reach: 0.703
+    brew_installs: 11418
+    reach: 0.7031
+    rank: 44
   blockbench:
     tier: popular
     aur_votes: 31
     aur_popularity: 0.8297
-    brew_installs: 581
-    reach: 0.4791
+    brew_installs: 582
+    reach: 0.4792
+    rank: 210
   bloodhound:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 793
     reach: 0.5025
+    rank: 189
   blot:
     tier: unranked
     aur_votes: 0
@@ -3189,12 +3271,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 165
     reach: 0.3847
+    rank: 325
   bootstrap-studio:
     tier: established
     aur_votes: 14
     aur_popularity: 0.0069
     brew_installs: 244
     reach: 0.414
+    rank: 282
   borg-explorer:
     tier: unranked
     aur_votes: 0
@@ -3223,8 +3307,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 5700
-    reach: 0.6508
+    brew_installs: 5712
+    reach: 0.651
+    rank: 69
   botgem:
     tier: unranked
     aur_votes: 0
@@ -3243,6 +3328,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 663
   boxy-svg:
     tier: unranked
     aur_votes: 0
@@ -3267,12 +3353,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 664
   brisqi:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0029
     brew_installs: 0
     reach: 0.1472
+    rank: 603
   broadcast:
     tier: unranked
     aur_votes: 0
@@ -3289,8 +3377,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1381
-    reach: 0.5442
+    brew_installs: 1375
+    reach: 0.5438
+    rank: 149
   brs:
     tier: unranked
     aur_votes: 0
@@ -3301,8 +3390,9 @@ scores:
     tier: flagship
     aur_votes: 76
     aur_popularity: 5.5016
-    brew_installs: 84578
+    brew_installs: 84576
     reach: 0.8538
+    rank: 9
   bsky:
     tier: unranked
     aur_votes: 0
@@ -3319,8 +3409,9 @@ scores:
     tier: established
     aur_votes: 8
     aur_popularity: 0.0
-    brew_installs: 77
-    reach: 0.3278
+    brew_installs: 78
+    reach: 0.3288
+    rank: 416
   budgetbutlerweb:
     tier: unranked
     aur_votes: 0
@@ -3357,30 +3448,35 @@ scores:
     aur_popularity: 0.0
     brew_installs: 111
     reach: 0.3551
+    rank: 373
   cabal-desktop:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 658
-    reach: 0.4884
+    brew_installs: 656
+    reach: 0.4882
+    rank: 205
   cables:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 38
     reach: 0.2757
+    rank: 488
   cacher:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 131
-    reach: 0.3674
+    brew_installs: 132
+    reach: 0.368
+    rank: 354
   calmlywriter:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 75
     reach: 0.3259
+    rank: 421
   calt:
     tier: unranked
     aur_votes: 0
@@ -3391,14 +3487,16 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1279
-    reach: 0.5384
+    brew_installs: 1280
+    reach: 0.5385
+    rank: 155
   camunda-modeler:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 1379
-    reach: 0.5441
+    brew_installs: 1381
+    reach: 0.5442
+    rank: 148
   caprine-ng:
     tier: unranked
     aur_votes: 0
@@ -3411,6 +3509,7 @@ scores:
     aur_popularity: 0.0256
     brew_installs: 900
     reach: 0.512
+    rank: 177
   caption-pro:
     tier: unranked
     aur_votes: 0
@@ -3435,6 +3534,7 @@ scores:
     aur_popularity: 0
     brew_installs: 18
     reach: 0.2216
+    rank: 542
   casterr:
     tier: unranked
     aur_votes: 0
@@ -3459,18 +3559,21 @@ scores:
     aur_popularity: 0
     brew_installs: 35
     reach: 0.2697
+    rank: 492
   cbetar2:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 665
   cc-map-editor:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 604
   ccae:
     tier: unranked
     aur_votes: 0
@@ -3489,6 +3592,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 117
     reach: 0.4202
+    rank: 275
   certbox:
     tier: unranked
     aur_votes: 0
@@ -3531,12 +3635,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 324
     reach: 0.4352
+    rank: 262
   chatbox:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 3845
-    reach: 0.6212
+    brew_installs: 3843
+    reach: 0.6211
+    rank: 88
   chatd:
     tier: unranked
     aur_votes: 0
@@ -3549,30 +3655,35 @@ scores:
     aur_popularity: 0.0014
     brew_installs: 0
     reach: 0.0929
+    rank: 666
   chatgpt-atlas:
     tier: popular
     aur_votes: 6
     aur_popularity: 3.655
-    brew_installs: 14157
+    brew_installs: 14166
     reach: 0.7193
+    rank: 38
   chatgpt-desktop:
     tier: flagship
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 44623
-    reach: 0.8056
+    brew_installs: 44655
+    reach: 0.8057
+    rank: 19
   chatgptx:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.1472
+    rank: 605
   chatlab:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.8511
     brew_installs: 0
     reach: 0.1472
+    rank: 606
   chatpad-ai:
     tier: unranked
     aur_votes: 0
@@ -3595,8 +3706,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 389
-    reach: 0.449
+    brew_installs: 392
+    reach: 0.4495
+    rank: 246
   cheating-daddy:
     tier: unranked
     aur_votes: 0
@@ -3613,8 +3725,9 @@ scores:
     tier: popular
     aur_votes: 2
     aur_popularity: 0.2455
-    brew_installs: 9874
+    brew_installs: 9864
     reach: 0.6921
+    rank: 48
   chess:
     tier: unranked
     aur_votes: 0
@@ -3627,6 +3740,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 24
     reach: 0.2422
+    rank: 520
   chirpity:
     tier: unranked
     aur_votes: 0
@@ -3651,12 +3765,14 @@ scores:
     aur_popularity: 0
     brew_installs: 34
     reach: 0.2675
+    rank: 494
   chrysalis:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.0
-    brew_installs: 81
-    reach: 0.3316
+    brew_installs: 82
+    reach: 0.3325
+    rank: 413
   chunksize-checker:
     tier: unranked
     aur_votes: 0
@@ -3669,6 +3785,7 @@ scores:
     aur_popularity: 0.6531
     brew_installs: 0
     reach: 0.4603
+    rank: 234
   ciliterm:
     tier: unranked
     aur_votes: 0
@@ -3681,6 +3798,7 @@ scores:
     aur_popularity: 0.3206
     brew_installs: 0
     reach: 0.0929
+    rank: 667
   circle-chain:
     tier: unranked
     aur_votes: 0
@@ -3693,6 +3811,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 105
     reach: 0.3509
+    rank: 385
   clash-auto:
     tier: unranked
     aur_votes: 0
@@ -3705,24 +3824,28 @@ scores:
     aur_popularity: 0.4915
     brew_installs: 0
     reach: 0.1858
+    rank: 570
   claude-desktop-native:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0119
     brew_installs: 0
     reach: 0.2401
+    rank: 523
   claude-desktop:
     tier: established
     aur_votes: 14
     aur_popularity: 8.833
     brew_installs: 0
     reach: 0.363
+    rank: 360
   claude:
     tier: flagship
-    aur_votes: 11
-    aur_popularity: 8.1222
-    brew_installs: 197791
-    reach: 0.9177
+    aur_votes: 12
+    aur_popularity: 9.1222
+    brew_installs: 198003
+    reach: 0.9178
+    rank: 2
   clawd-on-desk:
     tier: unranked
     aur_votes: 0
@@ -3738,15 +3861,17 @@ scores:
   clickup:
     tier: established
     aur_votes: 18
-    aur_popularity: 0.8681
-    brew_installs: 2251
-    reach: 0.5809
+    aur_popularity: 0.7526
+    brew_installs: 2249
+    reach: 0.5808
+    rank: 121
   clip-editor:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0009
     brew_installs: 0
     reach: 0.0929
+    rank: 668
   clipharbor:
     tier: unranked
     aur_votes: 0
@@ -3801,6 +3926,7 @@ scores:
     aur_popularity: 0
     brew_installs: 8
     reach: 0.1653
+    rank: 593
   cltracer:
     tier: unranked
     aur_votes: 0
@@ -3819,12 +3945,14 @@ scores:
     aur_popularity: 0.0435
     brew_installs: 0
     reach: 0.0929
+    rank: 669
   cncjs:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0
     brew_installs: 37
     reach: 0.2737
+    rank: 490
   coal-launcher:
     tier: unranked
     aur_votes: 0
@@ -3855,18 +3983,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3797
+    rank: 338
   codebuddy-cn:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 450
-    reach: 0.4599
+    brew_installs: 451
+    reach: 0.4601
+    rank: 236
   codebuddy:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.1568
-    brew_installs: 492
-    reach: 0.4666
+    brew_installs: 493
+    reach: 0.4667
+    rank: 229
   codefuse-ide:
     tier: unranked
     aur_votes: 0
@@ -3895,20 +4026,23 @@ scores:
     tier: flagship
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 44623
-    reach: 0.8056
+    brew_installs: 44655
+    reach: 0.8057
+    rank: 20
   codex:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.1858
+    rank: 571
   cohesion:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 607
   coinstac:
     tier: unranked
     aur_votes: 0
@@ -3951,12 +4085,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 108
     reach: 0.353
+    rank: 381
   colour-contrast-analyser:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 159
     reach: 0.3819
+    rank: 331
   comate:
     tier: unranked
     aur_votes: 0
@@ -3967,14 +4103,16 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 4686
+    brew_installs: 4689
     reach: 0.6361
+    rank: 77
   comma-chameleon:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 8
     reach: 0.1653
+    rank: 594
   commandeer:
     tier: unranked
     aur_votes: 0
@@ -3999,18 +4137,21 @@ scores:
     aur_popularity: 0.3941
     brew_installs: 1465
     reach: 0.5486
+    rank: 142
   compasscad:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 670
   composercat:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 67
-    reach: 0.3175
+    brew_installs: 68
+    reach: 0.3186
+    rank: 434
   compress:
     tier: unranked
     aur_votes: 0
@@ -4033,8 +4174,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 638
-    reach: 0.4861
+    brew_installs: 639
+    reach: 0.4862
+    rank: 207
   controlhub-vortexseries:
     tier: unranked
     aur_votes: 0
@@ -4065,6 +4207,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 49
     reach: 0.2944
+    rank: 469
   cornelsen-offline-lernen:
     tier: unranked
     aur_votes: 0
@@ -4077,6 +4220,7 @@ scores:
     aur_popularity: 0.0121
     brew_installs: 0
     reach: 0.1472
+    rank: 608
   cozy-desktop:
     tier: unranked
     aur_votes: 0
@@ -4095,6 +4239,7 @@ scores:
     aur_popularity: 0.3207
     brew_installs: 0
     reach: 0.1472
+    rank: 609
   craze:
     tier: unranked
     aur_votes: 0
@@ -4119,6 +4264,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 13
     reach: 0.3086
+    rank: 450
   cro-chain:
     tier: unranked
     aur_votes: 0
@@ -4131,6 +4277,7 @@ scores:
     aur_popularity: 0.0346
     brew_installs: 0
     reach: 0.2401
+    rank: 524
   cryptique:
     tier: unranked
     aur_votes: 0
@@ -4149,6 +4296,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 572
   csgo-checker:
     tier: unranked
     aur_votes: 0
@@ -4197,18 +4345,21 @@ scores:
     aur_popularity: 1.5114
     brew_installs: 1723
     reach: 0.5608
+    rank: 131
   cursor:
     tier: flagship
-    aur_votes: 104
-    aur_popularity: 6.1463
-    brew_installs: 130356
+    aur_votes: 105
+    aur_popularity: 6.6451
+    brew_installs: 130352
     reach: 0.8863
+    rank: 5
   cutie-tanks:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 671
   cutrail:
     tier: unranked
     aur_votes: 0
@@ -4221,6 +4372,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 1622
     reach: 0.5563
+    rank: 136
   cuttletron:
     tier: unranked
     aur_votes: 0
@@ -4233,6 +4385,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 610
   cyberx:
     tier: unranked
     aur_votes: 0
@@ -4257,6 +4410,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 672
   danger-crew:
     tier: unranked
     aur_votes: 0
@@ -4305,6 +4459,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 673
   data-forge-notebook:
     tier: unranked
     aur_votes: 0
@@ -4329,6 +4484,7 @@ scores:
     aur_popularity: 0
     brew_installs: 22
     reach: 0.236
+    rank: 536
   data-works:
     tier: unranked
     aur_votes: 0
@@ -4353,12 +4509,14 @@ scores:
     aur_popularity: 2.0617
     brew_installs: 62
     reach: 0.3438
+    rank: 396
   datazenit:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 10
     reach: 0.1804
+    rank: 588
   datefile:
     tier: unranked
     aur_votes: 0
@@ -4375,8 +4533,9 @@ scores:
     tier: established
     aur_votes: 11
     aur_popularity: 0.0255
-    brew_installs: 1448
-    reach: 0.5477
+    brew_installs: 1450
+    reach: 0.5478
+    rank: 143
   dbglass:
     tier: unranked
     aur_votes: 0
@@ -4395,6 +4554,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 88
     reach: 0.3378
+    rank: 404
   debugtron:
     tier: unranked
     aur_votes: 0
@@ -4413,12 +4573,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2157
+    rank: 549
   decrediton:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0
     brew_installs: 12
     reach: 0.193
+    rank: 563
   deemix-fix-gui-git:
     tier: unranked
     aur_votes: 0
@@ -4431,24 +4593,28 @@ scores:
     aur_popularity: 0.0022
     brew_installs: 0
     reach: 0.0929
+    rank: 674
   deepchat:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 396
-    reach: 0.4503
+    brew_installs: 395
+    reach: 0.4501
+    rank: 245
   deepl-linux:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.1472
+    rank: 611
   deepnest:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 220
-    reach: 0.4062
+    brew_installs: 219
+    reach: 0.4059
+    rank: 296
   deepnotes:
     tier: unranked
     aur_votes: 0
@@ -4473,12 +4639,14 @@ scores:
     aur_popularity: 0.0688
     brew_installs: 0
     reach: 0.2157
+    rank: 550
   deezer:
     tier: popular
     aur_votes: 62
     aur_popularity: 0.0343
-    brew_installs: 1343
+    brew_installs: 1344
     reach: 0.5553
+    rank: 137
   defi-wallet:
     tier: unranked
     aur_votes: 0
@@ -4503,6 +4671,7 @@ scores:
     aur_popularity: 0
     brew_installs: 532
     reach: 0.4725
+    rank: 221
   deskaide:
     tier: unranked
     aur_votes: 0
@@ -4527,6 +4696,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 612
   desktop-notifier:
     tier: unranked
     aur_votes: 0
@@ -4545,6 +4715,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 442
     reach: 0.4585
+    rank: 241
   dev-sidecar:
     tier: unranked
     aur_votes: 0
@@ -4557,18 +4728,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 675
   devin-desktop-next:
     tier: established
     aur_votes: 5
     aur_popularity: 0.3925
     brew_installs: 0
     reach: 0.2401
+    rank: 525
   devkinsta:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 130
     reach: 0.3669
+    rank: 355
   devkitty:
     tier: unranked
     aur_votes: 0
@@ -4593,6 +4767,7 @@ scores:
     aur_popularity: 0
     brew_installs: 111
     reach: 0.3551
+    rank: 374
   dicionario-js:
     tier: unranked
     aur_votes: 0
@@ -4605,12 +4780,14 @@ scores:
     aur_popularity: 0.1573
     brew_installs: 0
     reach: 0.3086
+    rank: 451
   dida-bin:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 676
   differon:
     tier: unranked
     aur_votes: 0
@@ -4623,12 +4800,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 677
   digiexam:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 17
     reach: 0.2175
+    rank: 544
   dilidili:
     tier: unranked
     aur_votes: 0
@@ -4645,14 +4824,16 @@ scores:
     tier: flagship
     aur_votes: 239
     aur_popularity: 2.5428
-    brew_installs: 93115
-    reach: 0.861
+    brew_installs: 93424
+    reach: 0.8612
+    rank: 8
   display-dj:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 678
   distributionz:
     tier: unranked
     aur_votes: 0
@@ -4662,15 +4843,17 @@ scores:
   ditto:
     tier: minimal
     aur_votes: 1
-    aur_popularity: 0.6528
+    aur_popularity: 0.5659
     brew_installs: 354
     reach: 0.4419
+    rank: 257
   dixa:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 11
     reach: 0.187
+    rank: 564
   dk-c:
     tier: unranked
     aur_votes: 0
@@ -4695,6 +4878,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 679
   doc2x:
     tier: unranked
     aur_votes: 0
@@ -4755,6 +4939,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 220
     reach: 0.4062
+    rank: 291
   drawdb-client:
     tier: unranked
     aur_votes: 0
@@ -4765,14 +4950,16 @@ scores:
     tier: flagship
     aur_votes: 5
     aur_popularity: 0.6231
-    brew_installs: 41036
-    reach: 0.7993
+    brew_installs: 41164
+    reach: 0.7996
+    rank: 21
   drawpen:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 882
+    brew_installs: 883
     reach: 0.5105
+    rank: 179
   drawtify-designer:
     tier: unranked
     aur_votes: 0
@@ -4785,12 +4972,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 680
   duolingo:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.2086
     brew_installs: 0
     reach: 0.0929
+    rank: 681
   dupfinder:
     tier: unranked
     aur_votes: 0
@@ -4821,12 +5010,14 @@ scores:
     aur_popularity: 0.0607
     brew_installs: 540
     reach: 0.4736
+    rank: 219
   dynalist:
     tier: established
     aur_votes: 8
     aur_popularity: 0.0
-    brew_installs: 75
-    reach: 0.3259
+    brew_installs: 76
+    reach: 0.3269
+    rank: 419
   e-search:
     tier: unranked
     aur_votes: 0
@@ -4875,6 +5066,7 @@ scores:
     aur_popularity: 0.0098
     brew_installs: 285
     reach: 0.4256
+    rank: 270
   ebtcalc:
     tier: unranked
     aur_votes: 0
@@ -4887,12 +5079,14 @@ scores:
     aur_popularity: 0
     brew_installs: 57
     reach: 0.3056
+    rank: 454
   ecency-surfer:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 682
   echo-music:
     tier: unranked
     aur_votes: 0
@@ -4917,6 +5111,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 40
     reach: 0.2795
+    rank: 479
   ecubus-pro:
     tier: unranked
     aur_votes: 0
@@ -4929,6 +5124,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3537
+    rank: 377
   edgetx-buddy:
     tier: unranked
     aur_votes: 0
@@ -4941,6 +5137,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 105
     reach: 0.3509
+    rank: 386
   elastron:
     tier: unranked
     aur_votes: 0
@@ -4953,30 +5150,35 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 683
   elecap:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0033
     brew_installs: 0
     reach: 0.0929
+    rank: 684
   electerm:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 3281
+    brew_installs: 3284
     reach: 0.6093
+    rank: 104
   electorrent:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 114
     reach: 0.3571
+    rank: 370
   electrocrud:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 27
     reach: 0.2508
+    rank: 513
   electron-calculator:
     tier: unranked
     aur_votes: 0
@@ -5001,6 +5203,7 @@ scores:
     aur_popularity: 0.0003
     brew_installs: 0
     reach: 0.1858
+    rank: 573
   electron-deno-ide:
     tier: unranked
     aur_votes: 0
@@ -5023,8 +5226,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 224
-    reach: 0.4076
+    brew_installs: 223
+    reach: 0.4072
+    rank: 288
   electron-file-manager:
     tier: unranked
     aur_votes: 0
@@ -5055,6 +5259,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3874
+    rank: 321
   electron-notes:
     tier: unranked
     aur_votes: 0
@@ -5079,6 +5284,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 685
   electron-widgets:
     tier: unranked
     aur_votes: 0
@@ -5091,6 +5297,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 613
   electron-youtube-music:
     tier: unranked
     aur_votes: 0
@@ -5101,56 +5308,65 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1701
-    reach: 0.5598
+    brew_installs: 1698
+    reach: 0.5597
+    rank: 132
   electronic-wechat-uos:
     tier: established
     aur_votes: 13
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3537
+    rank: 378
   electronic-wechat:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 614
   electronim:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0009
     brew_installs: 0
     reach: 0.1472
+    rank: 615
   electronmail:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0
     brew_installs: 59
     reach: 0.3081
+    rank: 452
   electronwmd:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0213
     brew_installs: 0
     reach: 0.0929
+    rank: 686
   elecwhat:
     tier: established
     aur_votes: 12
     aur_popularity: 1.6703
     brew_installs: 0
     reach: 0.3438
+    rank: 397
   element-desktop:
     tier: established
     aur_votes: 13
     aur_popularity: 0.0669
-    brew_installs: 5801
-    reach: 0.6521
+    brew_installs: 5809
+    reach: 0.6522
+    rank: 65
   element:
     tier: established
     aur_votes: 13
     aur_popularity: 0.0669
-    brew_installs: 5801
-    reach: 0.6521
+    brew_installs: 5809
+    reach: 0.6522
+    rank: 66
   elemental-notes:
     tier: unranked
     aur_votes: 0
@@ -5175,12 +5391,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 50
     reach: 0.2959
+    rank: 462
   elevate:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0016
     brew_installs: 0
     reach: 0.0929
+    rank: 687
   email-securely-app:
     tier: unranked
     aur_votes: 0
@@ -5205,6 +5423,7 @@ scores:
     aur_popularity: 0.0017
     brew_installs: 0
     reach: 0.1472
+    rank: 616
   enclina-messenger:
     tier: unranked
     aur_votes: 0
@@ -5217,6 +5436,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 688
   enderframework:
     tier: unranked
     aur_votes: 0
@@ -5241,12 +5461,14 @@ scores:
     aur_popularity: 0.9752
     brew_installs: 774
     reach: 0.5006
+    rank: 191
   envkey:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 28
     reach: 0.2534
+    rank: 512
   epherome:
     tier: unranked
     aur_votes: 0
@@ -5257,8 +5479,9 @@ scores:
     tier: established
     aur_votes: 7
     aur_popularity: 0.2887
-    brew_installs: 218
-    reach: 0.4055
+    brew_installs: 219
+    reach: 0.4059
+    rank: 297
   er-editor:
     tier: unranked
     aur_votes: 0
@@ -5301,6 +5524,7 @@ scores:
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.1858
+    rank: 574
   etcher:
     tier: unranked
     aur_votes: 0
@@ -5349,6 +5573,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3214
+    rank: 427
   evernote-for-linux:
     tier: unranked
     aur_votes: 0
@@ -5383,20 +5608,23 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 669
-    reach: 0.4897
+    brew_installs: 668
+    reach: 0.4896
+    rank: 202
   exiled-exchange-2:
     tier: established
     aur_votes: 6
     aur_popularity: 0.7352
     brew_installs: 0
     reach: 0.2608
+    rank: 497
   exodus:
     tier: flagship
     aur_votes: 103
     aur_popularity: 12.8218
     brew_installs: 0
     reach: 0.6225
+    rank: 85
   expertisex:
     tier: unranked
     aur_votes: 0
@@ -5415,30 +5643,35 @@ scores:
     aur_popularity: 0
     brew_installs: 116
     reach: 0.3584
+    rank: 368
   expresslrs-configurator:
     tier: established
     aur_votes: 8
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2945
+    rank: 465
   extraterm:
     tier: established
     aur_votes: 12
     aur_popularity: 0.0002
     brew_installs: 110
     reach: 0.3544
+    rank: 375
   ezra-bible:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 689
   ezytdl:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.014
     brew_installs: 0
     reach: 0.1472
+    rank: 617
   f-curator:
     tier: unranked
     aur_votes: 0
@@ -5457,6 +5690,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 690
   fairshare:
     tier: unranked
     aur_votes: 0
@@ -5481,12 +5715,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 691
   fastmail:
     tier: established
-    aur_votes: 4
-    aur_popularity: 0.0211
-    brew_installs: 1370
+    aur_votes: 5
+    aur_popularity: 1.0188
+    brew_installs: 1371
     reach: 0.5436
+    rank: 151
   fastnote:
     tier: unranked
     aur_votes: 0
@@ -5505,6 +5741,7 @@ scores:
     aur_popularity: 0.0104
     brew_installs: 0
     reach: 0.1472
+    rank: 618
   fdc3-sail:
     tier: unranked
     aur_votes: 0
@@ -5533,8 +5770,9 @@ scores:
     tier: popular
     aur_votes: 53
     aur_popularity: 0.0533
-    brew_installs: 1882
-    reach: 0.5674
+    brew_installs: 1883
+    reach: 0.5675
+    rank: 126
   ferrum-git:
     tier: unranked
     aur_votes: 0
@@ -5565,24 +5803,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 692
   figma-linux:
     tier: popular
     aur_votes: 26
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.4417
+    rank: 258
   figma:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 38939
+    brew_installs: 38943
     reach: 0.7954
+    rank: 23
   filen:
     tier: established
     aur_votes: 16
     aur_popularity: 1.2666
     brew_installs: 647
     reach: 0.4872
+    rank: 206
   fileside:
     tier: unranked
     aur_votes: 0
@@ -5631,6 +5873,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 96
     reach: 0.3443
+    rank: 394
   fireflies-ai:
     tier: unranked
     aur_votes: 0
@@ -5643,6 +5886,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 14
     reach: 0.2038
+    rank: 562
   firetail:
     tier: unranked
     aur_votes: 0
@@ -5653,8 +5897,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 161
-    reach: 0.3828
+    brew_installs: 162
+    reach: 0.3833
+    rank: 327
   fishpi:
     tier: unranked
     aur_votes: 0
@@ -5667,6 +5912,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 693
   flashbrowser:
     tier: unranked
     aur_votes: 0
@@ -5733,6 +5979,7 @@ scores:
     aur_popularity: 0.0121
     brew_installs: 0
     reach: 0.0929
+    rank: 694
   flomo:
     tier: unranked
     aur_votes: 0
@@ -5751,6 +5998,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 31
     reach: 0.363
+    rank: 361
   flowtestai:
     tier: unranked
     aur_votes: 0
@@ -5763,12 +6011,14 @@ scores:
     aur_popularity: 0.2101
     brew_installs: 237
     reach: 0.4314
+    rank: 263
   flyenv:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1004
-    reach: 0.5202
+    brew_installs: 1006
+    reach: 0.5203
+    rank: 166
   focused-task:
     tier: unranked
     aur_votes: 0
@@ -5787,6 +6037,7 @@ scores:
     aur_popularity: 0.4047
     brew_installs: 2144
     reach: 0.5772
+    rank: 123
   font-editor:
     tier: unranked
     aur_votes: 0
@@ -5805,6 +6056,7 @@ scores:
     aur_popularity: 0.0017
     brew_installs: 707
     reach: 0.4938
+    rank: 195
   forestpin-analytics:
     tier: unranked
     aur_votes: 0
@@ -5835,6 +6087,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 695
   fotojet:
     tier: unranked
     aur_votes: 0
@@ -5859,30 +6112,35 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3214
+    rank: 428
   framer:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 704
-    reach: 0.4935
+    brew_installs: 701
+    reach: 0.4932
+    rank: 197
   frank-go:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.8676
     brew_installs: 0
     reach: 0.0929
+    rank: 696
   franz:
     tier: popular
     aur_votes: 40
     aur_popularity: 0.0001
-    brew_installs: 373
+    brew_installs: 372
     reach: 0.4977
+    rank: 192
   frappe-books:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0001
-    brew_installs: 447
-    reach: 0.4594
+    brew_installs: 448
+    reach: 0.4596
+    rank: 238
   freecord:
     tier: unranked
     aur_votes: 0
@@ -5895,12 +6153,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 697
   freelens:
     tier: popular
     aur_votes: 9
     aur_popularity: 0.658
-    brew_installs: 14884
-    reach: 0.723
+    brew_installs: 14893
+    reach: 0.7231
+    rank: 36
   freellmapi:
     tier: unranked
     aur_votes: 0
@@ -5911,26 +6171,30 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 142
-    reach: 0.3735
+    brew_installs: 143
+    reach: 0.374
+    rank: 347
   freeter:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2401
+    rank: 526
   freetube-electron-bin:
     tier: flagship
     aur_votes: 96
     aur_popularity: 1.2519
     brew_installs: 0
     reach: 0.6131
+    rank: 98
   friends:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 698
   frogtalk:
     tier: unranked
     aur_votes: 0
@@ -5943,6 +6207,7 @@ scores:
     aur_popularity: 0
     brew_installs: 157
     reach: 0.381
+    rank: 335
   frontimer:
     tier: unranked
     aur_votes: 0
@@ -5979,6 +6244,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 57
     reach: 0.3056
+    rank: 455
   fukayo:
     tier: unranked
     aur_votes: 0
@@ -6015,6 +6281,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 699
   fvtt-player-client:
     tier: unranked
     aur_votes: 0
@@ -6039,6 +6306,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 700
   garuda-rani:
     tier: unranked
     aur_votes: 0
@@ -6055,8 +6323,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 940
-    reach: 0.5152
+    brew_installs: 938
+    reach: 0.5151
+    rank: 170
   gaucho:
     tier: unranked
     aur_votes: 0
@@ -6075,18 +6344,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 150
     reach: 0.3776
+    rank: 344
   gdlauncher-git:
     tier: established
     aur_votes: 17
     aur_popularity: 0.0
     brew_installs: 61
     reach: 0.3874
+    rank: 322
   geekeditor:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 701
   geeks-diary:
     tier: unranked
     aur_votes: 0
@@ -6099,18 +6371,21 @@ scores:
     aur_popularity: 0.183
     brew_installs: 0
     reach: 0.1472
+    rank: 619
   geforcenow:
     tier: established
     aur_votes: 11
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.333
+    rank: 410
   gemini:
     tier: popular
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 27479
-    reach: 0.7692
+    brew_installs: 27471
+    reach: 0.7691
+    rank: 30
   geneanet:
     tier: unranked
     aur_votes: 0
@@ -6135,6 +6410,7 @@ scores:
     aur_popularity: 0.0004
     brew_installs: 581
     reach: 0.4791
+    rank: 211
   geppetto:
     tier: unranked
     aur_votes: 0
@@ -6153,6 +6429,7 @@ scores:
     aur_popularity: 0.003
     brew_installs: 0
     reach: 0.1472
+    rank: 620
   getraenkeliste:
     tier: unranked
     aur_votes: 0
@@ -6177,24 +6454,28 @@ scores:
     aur_popularity: 0.0091
     brew_installs: 0
     reach: 0.0929
+    rank: 702
   git-it:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0034
     brew_installs: 294
     reach: 0.428
+    rank: 265
   gitbook:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2401
+    rank: 527
   gitfiend:
     tier: established
     aur_votes: 11
     aur_popularity: 0.0
-    brew_installs: 72
+    brew_installs: 71
     reach: 0.333
+    rank: 411
   githoard:
     tier: unranked
     aur_votes: 0
@@ -6205,8 +6486,9 @@ scores:
     tier: flagship
     aur_votes: 112
     aur_popularity: 1.3138
-    brew_installs: 50172
-    reach: 0.8145
+    brew_installs: 50122
+    reach: 0.8144
+    rank: 16
   github-issue-alert:
     tier: unranked
     aur_votes: 0
@@ -6223,26 +6505,30 @@ scores:
     tier: flagship
     aur_votes: 112
     aur_popularity: 1.3138
-    brew_installs: 50172
-    reach: 0.8145
+    brew_installs: 50122
+    reach: 0.8144
+    rank: 17
   gitify:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
-    brew_installs: 1894
-    reach: 0.5679
+    brew_installs: 1897
+    reach: 0.568
+    rank: 125
   gitkraken-on-premise-serverless:
     tier: flagship
     aur_votes: 318
     aur_popularity: 1.8627
     brew_installs: 42
     reach: 0.7727
+    rank: 28
   gitkraken:
     tier: flagship
     aur_votes: 318
     aur_popularity: 1.8627
-    brew_installs: 7200
+    brew_installs: 7201
     reach: 0.7727
+    rank: 29
   gitscout:
     tier: unranked
     aur_votes: 0
@@ -6267,6 +6553,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2608
+    rank: 498
   gluppi:
     tier: unranked
     aur_votes: 0
@@ -6285,6 +6572,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 703
   godot-launcher:
     tier: unranked
     aur_votes: 0
@@ -6297,6 +6585,7 @@ scores:
     aur_popularity: 0
     brew_installs: 88
     reach: 0.3378
+    rank: 405
   gomoon:
     tier: unranked
     aur_votes: 0
@@ -6315,6 +6604,7 @@ scores:
     aur_popularity: 2.2809
     brew_installs: 0
     reach: 0.3874
+    rank: 323
   google-assistant-unofficial-desktop-client:
     tier: unranked
     aur_votes: 0
@@ -6327,6 +6617,7 @@ scores:
     aur_popularity: 0.0059
     brew_installs: 0
     reach: 0.0929
+    rank: 704
   google-chat-electron:
     tier: unranked
     aur_votes: 0
@@ -6339,6 +6630,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 705
   google-messages:
     tier: unranked
     aur_votes: 0
@@ -6361,8 +6653,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1419
-    reach: 0.5462
+    brew_installs: 1415
+    reach: 0.546
+    rank: 145
   graphql-ide:
     tier: unranked
     aur_votes: 0
@@ -6375,6 +6668,7 @@ scores:
     aur_popularity: 0
     brew_installs: 993
     reach: 0.5194
+    rank: 168
   grasshopper:
     tier: unranked
     aur_votes: 0
@@ -6387,6 +6681,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 575
   graycrown:
     tier: unranked
     aur_votes: 0
@@ -6399,18 +6694,21 @@ scores:
     aur_popularity: 0
     brew_installs: 43
     reach: 0.2848
+    rank: 475
   gridea:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 26
     reach: 0.248
+    rank: 517
   gridtracker2:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0005
     brew_installs: 76
     reach: 0.3269
+    rank: 420
   gridview:
     tier: unranked
     aur_votes: 0
@@ -6441,6 +6739,7 @@ scores:
     aur_popularity: 0.1024
     brew_installs: 0
     reach: 0.0929
+    rank: 706
   gsubs:
     tier: unranked
     aur_votes: 0
@@ -6459,6 +6758,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 22
     reach: 0.236
+    rank: 537
   guiwrapper:
     tier: unranked
     aur_votes: 0
@@ -6477,12 +6777,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 621
   handbook:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.0929
+    rank: 707
   harmony-im:
     tier: unranked
     aur_votes: 0
@@ -6519,6 +6821,7 @@ scores:
     aur_popularity: 0.0078
     brew_installs: 0
     reach: 0.2157
+    rank: 551
   hbbatchbeast:
     tier: unranked
     aur_votes: 0
@@ -6541,14 +6844,16 @@ scores:
     tier: popular
     aur_votes: 9
     aur_popularity: 0.0808
-    brew_installs: 18895
+    brew_installs: 18899
     reach: 0.741
+    rank: 33
   headset:
     tier: established
     aur_votes: 10
     aur_popularity: 0.0
-    brew_installs: 68
+    brew_installs: 69
     reach: 0.3214
+    rank: 429
   healthi:
     tier: unranked
     aur_votes: 0
@@ -6577,8 +6882,9 @@ scores:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0051
-    brew_installs: 523
-    reach: 0.4712
+    brew_installs: 520
+    reach: 0.4708
+    rank: 224
   hera:
     tier: unranked
     aur_votes: 0
@@ -6591,12 +6897,14 @@ scores:
     aur_popularity: 3.2699
     brew_installs: 0
     reach: 0.501
+    rank: 190
   heroic:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 3101
-    reach: 0.605
+    brew_installs: 3104
+    reach: 0.6051
+    rank: 106
   hex-music-player:
     tier: unranked
     aur_votes: 0
@@ -6627,18 +6935,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 708
   hey-desktop:
     tier: established
     aur_votes: 7
     aur_popularity: 0.0008
-    brew_installs: 1282
+    brew_installs: 1283
     reach: 0.5386
+    rank: 154
   heynote-bin:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.157
     brew_installs: 0
     reach: 0.0929
+    rank: 709
   hhd-ui:
     tier: unranked
     aur_votes: 0
@@ -6669,6 +6980,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 710
   homeassistant:
     tier: unranked
     aur_votes: 0
@@ -6685,8 +6997,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 3367
-    reach: 0.6112
+    brew_installs: 3359
+    reach: 0.611
+    rank: 101
   horanghill:
     tier: unranked
     aur_votes: 0
@@ -6733,8 +7046,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 3790
-    reach: 0.6201
+    brew_installs: 3793
+    reach: 0.6202
+    rank: 89
   https-checker:
     tier: unranked
     aur_votes: 0
@@ -6747,6 +7061,7 @@ scores:
     aur_popularity: 0.3083
     brew_installs: 0
     reach: 0.3716
+    rank: 351
   huaweicloudmeeting:
     tier: unranked
     aur_votes: 0
@@ -6765,6 +7080,7 @@ scores:
     aur_popularity: 0.0246
     brew_installs: 0
     reach: 0.0929
+    rank: 711
   hugin-messenger:
     tier: unranked
     aur_votes: 0
@@ -6777,12 +7093,14 @@ scores:
     aur_popularity: 0
     brew_installs: 63
     reach: 0.313
+    rank: 440
   hyper:
     tier: flagship
     aur_votes: 76
     aur_popularity: 0.0
-    brew_installs: 3650
-    reach: 0.6173
+    brew_installs: 3649
+    reach: 0.6172
+    rank: 92
   hyperamp:
     tier: unranked
     aur_votes: 0
@@ -6825,6 +7143,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.426
+    rank: 268
   iceborne:
     tier: unranked
     aur_votes: 0
@@ -6843,6 +7162,7 @@ scores:
     aur_popularity: 0
     brew_installs: 48
     reach: 0.2929
+    rank: 472
   icxor:
     tier: unranked
     aur_votes: 0
@@ -6855,6 +7175,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 622
   idrt:
     tier: unranked
     aur_votes: 0
@@ -6879,6 +7200,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 60
     reach: 0.3093
+    rank: 446
   ih8rtcgui:
     tier: unranked
     aur_votes: 0
@@ -6921,6 +7243,7 @@ scores:
     aur_popularity: 0.0014
     brew_installs: 0
     reach: 0.1472
+    rank: 623
   image-shrinker:
     tier: unranked
     aur_votes: 0
@@ -6957,18 +7280,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 712
   inav-configurator:
     tier: established
     aur_votes: 9
     aur_popularity: 0.0
-    brew_installs: 102
-    reach: 0.3488
+    brew_installs: 104
+    reach: 0.3502
+    rank: 388
   inboxer:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 20
     reach: 0.2291
+    rank: 540
   inethi:
     tier: unranked
     aur_votes: 0
@@ -6993,12 +7319,14 @@ scores:
     aur_popularity: 0
     brew_installs: 24
     reach: 0.2422
+    rank: 521
   infra:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 152
     reach: 0.3785
+    rank: 343
   inkdown-bin:
     tier: unranked
     aur_votes: 0
@@ -7011,24 +7339,28 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 126
     reach: 0.3645
+    rank: 358
   inky:
     tier: minimal
     aur_votes: 3
     aur_popularity: 1.0
     brew_installs: 136
     reach: 0.3702
+    rank: 353
   inmusic-software-center:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 88
     reach: 0.3378
+    rank: 406
   insomnia:
     tier: flagship
     aur_votes: 165
     aur_popularity: 0.2222
-    brew_installs: 20087
-    reach: 0.7456
+    brew_installs: 20069
+    reach: 0.7455
+    rank: 31
   instatron:
     tier: unranked
     aur_votes: 0
@@ -7059,6 +7391,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 624
   intrigue:
     tier: unranked
     aur_votes: 0
@@ -7098,21 +7431,24 @@ scores:
   ipfs-desktop:
     tier: established
     aur_votes: 22
-    aur_popularity: 0.1952
+    aur_popularity: 0.1742
     brew_installs: 565
     reach: 0.477
+    rank: 213
   iptvnator:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 3538
+    brew_installs: 3535
     reach: 0.6149
+    rank: 94
   issie:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 713
   istrolid:
     tier: unranked
     aur_votes: 0
@@ -7125,6 +7461,7 @@ scores:
     aur_popularity: 0.1593
     brew_installs: 396
     reach: 0.6554
+    rank: 62
   itime:
     tier: unranked
     aur_votes: 0
@@ -7141,20 +7478,23 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1198
+    brew_installs: 1199
     reach: 0.5335
+    rank: 158
   jamovi:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 393
-    reach: 0.4497
+    brew_installs: 392
+    reach: 0.4495
+    rank: 247
   jandi:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 22
     reach: 0.236
+    rank: 538
   janpankana:
     tier: unranked
     aur_votes: 0
@@ -7167,6 +7507,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 625
   jasper-km:
     tier: unranked
     aur_votes: 0
@@ -7179,18 +7520,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 97
     reach: 0.345
+    rank: 393
   jbrowse:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 224
-    reach: 0.4076
+    brew_installs: 223
+    reach: 0.4072
+    rank: 289
   jetbrains-space:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 84
     reach: 0.3343
+    rank: 409
   jimud:
     tier: unranked
     aur_votes: 0
@@ -7209,6 +7553,7 @@ scores:
     aur_popularity: 0.0247
     brew_installs: 0
     reach: 0.1472
+    rank: 626
   jm:
     tier: unranked
     aur_votes: 0
@@ -7221,18 +7566,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 714
   joplin:
     tier: flagship
     aur_votes: 582
     aur_popularity: 5.8441
-    brew_installs: 6756
+    brew_installs: 6755
     reach: 0.8535
+    rank: 10
   journey:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 161
     reach: 0.3828
+    rank: 329
   joy-browser:
     tier: unranked
     aur_votes: 0
@@ -7317,6 +7665,7 @@ scores:
     aur_popularity: 0
     brew_installs: 7
     reach: 0.1565
+    rank: 595
   kahla:
     tier: unranked
     aur_votes: 0
@@ -7353,6 +7702,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 859
     reach: 0.5085
+    rank: 181
   kankan:
     tier: unranked
     aur_votes: 0
@@ -7363,8 +7713,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 6032
+    brew_installs: 6033
     reach: 0.6551
+    rank: 63
   kaplan-desktop:
     tier: unranked
     aur_votes: 0
@@ -7383,6 +7734,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 576
   karbonized:
     tier: unranked
     aur_votes: 0
@@ -7395,6 +7747,7 @@ scores:
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.0929
+    rank: 715
   katana:
     tier: unranked
     aur_votes: 0
@@ -7413,6 +7766,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 50
     reach: 0.2959
+    rank: 463
   keep-audio-alive:
     tier: unranked
     aur_votes: 0
@@ -7425,18 +7779,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2787
+    rank: 481
   keeper-password-manager-digital-vault:
     tier: established
     aur_votes: 13
     aur_popularity: 0.0
-    brew_installs: 1444
-    reach: 0.5475
+    brew_installs: 1440
+    reach: 0.5473
+    rank: 144
   keeweb:
     tier: established
     aur_votes: 18
     aur_popularity: 0.0
-    brew_installs: 286
-    reach: 0.4259
+    brew_installs: 285
+    reach: 0.4256
+    rank: 271
   kerlig:
     tier: unranked
     aur_votes: 0
@@ -7447,14 +7804,16 @@ scores:
     tier: flagship
     aur_votes: 195
     aur_popularity: 0.284
-    brew_installs: 1963
+    brew_installs: 1961
     reach: 0.7074
+    rank: 40
   keycombiner:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 61
-    reach: 0.3106
+    brew_installs: 60
+    reach: 0.3093
+    rank: 447
   khiops-covisualization:
     tier: unranked
     aur_votes: 0
@@ -7473,6 +7832,7 @@ scores:
     aur_popularity: 0.1815
     brew_installs: 0
     reach: 0.0929
+    rank: 716
   kick-vod-downloader:
     tier: unranked
     aur_votes: 0
@@ -7485,6 +7845,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.1472
+    rank: 627
   kindle-companion:
     tier: unranked
     aur_votes: 0
@@ -7515,6 +7876,7 @@ scores:
     aur_popularity: 0
     brew_installs: 58
     reach: 0.3068
+    rank: 453
   kiwiirc:
     tier: unranked
     aur_votes: 0
@@ -7530,9 +7892,10 @@ scores:
   klack:
     tier: minimal
     aur_votes: 2
-    aur_popularity: 1.9969
+    aur_popularity: 1.7315
     brew_installs: 0
     reach: 0.1472
+    rank: 628
   klive-ide:
     tier: unranked
     aur_votes: 0
@@ -7579,14 +7942,16 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 934
-    reach: 0.5148
+    brew_installs: 936
+    reach: 0.5149
+    rank: 171
   koofr:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0284
     brew_installs: 0
     reach: 0.0929
+    rank: 717
   krypt-pad:
     tier: unranked
     aur_votes: 0
@@ -7603,14 +7968,16 @@ scores:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 157
-    reach: 0.381
+    brew_installs: 156
+    reach: 0.3805
+    rank: 336
   kui:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 105
     reach: 0.3509
+    rank: 387
   kun:
     tier: unranked
     aur_votes: 0
@@ -7629,6 +7996,7 @@ scores:
     aur_popularity: 0.0514
     brew_installs: 0
     reach: 0.3214
+    rank: 430
   kute:
     tier: unranked
     aur_votes: 0
@@ -7647,6 +8015,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 718
   lantalk:
     tier: unranked
     aur_votes: 0
@@ -7659,6 +8028,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 719
   laradumps:
     tier: unranked
     aur_votes: 0
@@ -7669,8 +8039,9 @@ scores:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
-    brew_installs: 344
-    reach: 0.4397
+    brew_installs: 345
+    reach: 0.44
+    rank: 259
   last-hit:
     tier: unranked
     aur_votes: 0
@@ -7695,18 +8066,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 720
   lceda-pro:
     tier: established
     aur_votes: 6
     aur_popularity: 0.2283
     brew_installs: 0
     reach: 0.2608
+    rank: 499
   ldtk:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0378
     brew_installs: 0
     reach: 0.1472
+    rank: 629
   leafview:
     tier: unranked
     aur_votes: 0
@@ -7719,6 +8093,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 4
     reach: 0.2608
+    rank: 500
   learnx-companion:
     tier: unranked
     aur_votes: 0
@@ -7737,6 +8112,7 @@ scores:
     aur_popularity: 0
     brew_installs: 40
     reach: 0.2795
+    rank: 480
   lecture-player:
     tier: unranked
     aur_votes: 0
@@ -7749,6 +8125,7 @@ scores:
     aur_popularity: 1.5623
     brew_installs: 0
     reach: 0.5986
+    rank: 111
   left:
     tier: unranked
     aur_votes: 0
@@ -7759,8 +8136,9 @@ scores:
     tier: established
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 2106
-    reach: 0.5759
+    brew_installs: 2108
+    reach: 0.576
+    rank: 124
   lemmy-modder:
     tier: unranked
     aur_votes: 0
@@ -7771,14 +8149,16 @@ scores:
     tier: popular
     aur_votes: 33
     aur_popularity: 0.2815
-    brew_installs: 12221
-    reach: 0.7082
+    brew_installs: 12201
+    reach: 0.7081
+    rank: 39
   lepton:
     tier: established
     aur_votes: 6
     aur_popularity: 0.1365
     brew_installs: 142
     reach: 0.3735
+    rank: 349
   leser:
     tier: unranked
     aur_votes: 0
@@ -7815,6 +8195,7 @@ scores:
     aur_popularity: 0
     brew_installs: 67
     reach: 0.3175
+    rank: 435
   libgendesktop:
     tier: unranked
     aur_votes: 0
@@ -7845,12 +8226,14 @@ scores:
     aur_popularity: 0
     brew_installs: 9
     reach: 0.1733
+    rank: 591
   lightproxy:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 70
     reach: 0.3208
+    rank: 433
   lightrail-core:
     tier: unranked
     aur_votes: 0
@@ -7863,36 +8246,42 @@ scores:
     aur_popularity: 0.0044
     brew_installs: 0
     reach: 0.0929
+    rank: 721
   linear:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 2812
-    reach: 0.5976
+    brew_installs: 2822
+    reach: 0.5979
+    rank: 113
   linkandroid:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 118
     reach: 0.3596
+    rank: 367
   linked:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 722
   linux-sensor-tray:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.2409
     brew_installs: 0
     reach: 0.0929
+    rank: 723
   linux-wallpaper-engine-ux:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.5661
     brew_installs: 0
     reach: 0.0929
+    rank: 724
   lisk-hub:
     tier: unranked
     aur_votes: 0
@@ -7905,6 +8294,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 160
     reach: 0.3824
+    rank: 330
   live-plus-plus:
     tier: unranked
     aur_votes: 0
@@ -7941,12 +8331,14 @@ scores:
     aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.0929
+    rank: 725
   lobehub:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 834
     reach: 0.5062
+    rank: 183
   local-by-flywheel:
     tier: unranked
     aur_votes: 0
@@ -7959,6 +8351,7 @@ scores:
     aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.0929
+    rank: 726
   local-mock-server:
     tier: unranked
     aur_votes: 0
@@ -7969,8 +8362,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 277
-    reach: 0.4235
+    brew_installs: 278
+    reach: 0.4238
+    rank: 274
   localchat:
     tier: unranked
     aur_votes: 0
@@ -7983,24 +8377,28 @@ scores:
     aur_popularity: 0
     brew_installs: 74
     reach: 0.3249
+    rank: 423
   lode:
     tier: established
     aur_votes: 15
     aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.3716
+    rank: 352
   lofi:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 56
-    reach: 0.3042
+    brew_installs: 55
+    reach: 0.3029
+    rank: 459
   logseq:
     tier: established
     aur_votes: 7
     aur_popularity: 0.0046
-    brew_installs: 6876
+    brew_installs: 6875
     reach: 0.6649
+    rank: 53
   logsnag:
     tier: unranked
     aur_votes: 0
@@ -8010,9 +8408,10 @@ scores:
   loom:
     tier: established
     aur_votes: 3
-    aur_popularity: 0.0772
+    aur_popularity: 0.067
     brew_installs: 4897
     reach: 0.6394
+    rank: 76
   loopy:
     tier: unranked
     aur_votes: 0
@@ -8023,8 +8422,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 4377
-    reach: 0.6309
+    brew_installs: 4383
+    reach: 0.631
+    rank: 82
   lot-lot-of-things:
     tier: unranked
     aur_votes: 0
@@ -8049,12 +8449,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 386
     reach: 0.4484
+    rank: 248
   lumi:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.1858
+    rank: 577
   luminary:
     tier: unranked
     aur_votes: 0
@@ -8067,6 +8469,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 578
   lutris-gamepad-ui:
     tier: unranked
     aur_votes: 0
@@ -8079,6 +8482,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 727
   lx-music-desktop:
     tier: unranked
     aur_votes: 0
@@ -8143,8 +8547,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 74
-    reach: 0.3249
+    brew_installs: 73
+    reach: 0.3239
+    rank: 424
   maduchat-frontend:
     tier: unranked
     aur_votes: 0
@@ -8155,8 +8560,9 @@ scores:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 10163
-    reach: 0.6943
+    brew_installs: 10189
+    reach: 0.6945
+    rank: 46
   magicavoxel-launcher:
     tier: unranked
     aur_votes: 0
@@ -8169,6 +8575,7 @@ scores:
     aur_popularity: 0
     brew_installs: 404
     reach: 0.4518
+    rank: 244
   mailcowclient:
     tier: unranked
     aur_votes: 0
@@ -8179,20 +8586,23 @@ scores:
     tier: flagship
     aur_votes: 216
     aur_popularity: 0.8211
-    brew_installs: 816
+    brew_installs: 819
     reach: 0.7211
+    rank: 37
   mangabox:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0025
     brew_installs: 0
     reach: 0.0929
+    rank: 728
   manta:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0004
-    brew_installs: 66
-    reach: 0.3164
+    brew_installs: 65
+    reach: 0.3153
+    rank: 437
   manyi-transformer:
     tier: unranked
     aur_votes: 0
@@ -8205,6 +8615,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 6
     reach: 0.2787
+    rank: 482
   map-download:
     tier: unranked
     aur_votes: 0
@@ -8229,6 +8640,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 729
   markdown-c3:
     tier: unranked
     aur_votes: 0
@@ -8241,6 +8653,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 730
   markdown:
     tier: unranked
     aur_votes: 0
@@ -8259,24 +8672,28 @@ scores:
     aur_popularity: 0.0003
     brew_installs: 0
     reach: 0.4466
+    rank: 249
   marvin:
     tier: established
     aur_votes: 7
     aur_popularity: 0.0
     brew_installs: 110
     reach: 0.3544
+    rank: 376
   masayloblockly:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 731
   masscode:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0029
     brew_installs: 563
     reach: 0.4767
+    rank: 215
   mastergo:
     tier: unranked
     aur_votes: 0
@@ -8289,12 +8706,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 81
     reach: 0.3316
+    rank: 415
   material-colors:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 7
     reach: 0.1565
+    rank: 596
   material-companion:
     tier: unranked
     aur_votes: 0
@@ -8307,18 +8726,21 @@ scores:
     aur_popularity: 0.0025
     brew_installs: 0
     reach: 0.0929
+    rank: 732
   mathcha-notebook:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 43
     reach: 0.2848
+    rank: 476
   mattermost:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 4517
-    reach: 0.6333
+    brew_installs: 4513
+    reach: 0.6332
+    rank: 79
   mawejs:
     tier: unranked
     aur_votes: 0
@@ -8331,6 +8753,7 @@ scores:
     aur_popularity: 0
     brew_installs: 9
     reach: 0.1733
+    rank: 592
   md5app:
     tier: unranked
     aur_votes: 0
@@ -8373,6 +8796,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 733
   media-player:
     tier: unranked
     aur_votes: 0
@@ -8401,8 +8825,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 3078
-    reach: 0.6044
+    brew_installs: 3072
+    reach: 0.6043
+    rank: 107
   megacubo:
     tier: unranked
     aur_votes: 0
@@ -8449,32 +8874,37 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 524
-    reach: 0.4713
+    brew_installs: 522
+    reach: 0.471
+    rank: 223
   merge-request-notifier:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 734
   meridius:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 735
   meru:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 195
-    reach: 0.3972
+    brew_installs: 196
+    reach: 0.3976
+    rank: 307
   meta-quest-developer-hub:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 242
-    reach: 0.4134
+    brew_installs: 244
+    reach: 0.414
+    rank: 283
   metastream:
     tier: unranked
     aur_votes: 0
@@ -8511,6 +8941,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2608
+    rank: 501
   microsoft-teams:
     tier: unranked
     aur_votes: 0
@@ -8535,24 +8966,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 579
   milanote:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 182
     reach: 0.392
+    rank: 318
   milkup:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.241
     brew_installs: 0
     reach: 0.0929
+    rank: 736
   min:
     tier: established
     aur_votes: 15
     aur_popularity: 0.2098
-    brew_installs: 794
-    reach: 0.5026
+    brew_installs: 796
+    reach: 0.5027
+    rank: 188
   mindmapp:
     tier: unranked
     aur_votes: 0
@@ -8605,8 +9040,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 4164
+    brew_installs: 4163
     reach: 0.6272
+    rank: 83
   miru-viewer:
     tier: unranked
     aur_votes: 0
@@ -8619,6 +9055,7 @@ scores:
     aur_popularity: 0
     brew_installs: 108
     reach: 0.353
+    rank: 382
   miteiru-bin:
     tier: unranked
     aur_votes: 0
@@ -8643,12 +9080,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 737
   mjml-app:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 66
-    reach: 0.3164
+    brew_installs: 65
+    reach: 0.3153
+    rank: 438
   mkeditor:
     tier: unranked
     aur_votes: 0
@@ -8685,18 +9124,21 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 39
     reach: 0.2776
+    rank: 486
   mockoon:
     tier: established
     aur_votes: 6
     aur_popularity: 0.0097
-    brew_installs: 6652
-    reach: 0.6624
+    brew_installs: 6644
+    reach: 0.6623
+    rank: 56
   mockuuups-studio:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 17
     reach: 0.2175
+    rank: 545
   moderndeck:
     tier: unranked
     aur_votes: 0
@@ -8719,8 +9161,9 @@ scores:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 55
-    reach: 0.3029
+    brew_installs: 54
+    reach: 0.3016
+    rank: 460
   moekoedeskop:
     tier: unranked
     aur_votes: 0
@@ -8733,6 +9176,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 119
     reach: 0.491
+    rank: 201
   monami-note:
     tier: unranked
     aur_votes: 0
@@ -8749,8 +9193,9 @@ scores:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 37144
+    brew_installs: 37120
     reach: 0.7918
+    rank: 24
   mongomix:
     tier: unranked
     aur_votes: 0
@@ -8763,6 +9208,7 @@ scores:
     aur_popularity: 0
     brew_installs: 108
     reach: 0.353
+    rank: 383
   monit:
     tier: unranked
     aur_votes: 0
@@ -8773,8 +9219,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 295
-    reach: 0.4282
+    brew_installs: 294
+    reach: 0.428
+    rank: 266
   monolith-code:
     tier: unranked
     aur_votes: 0
@@ -8799,30 +9246,35 @@ scores:
     aur_popularity: 0.0
     brew_installs: 31
     reach: 0.2608
+    rank: 502
   moosync:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.1569
     brew_installs: 0
     reach: 0.2157
+    rank: 552
   morgen:
     tier: established
     aur_votes: 7
     aur_popularity: 0.0001
     brew_installs: 254
     reach: 0.417
+    rank: 278
   motion:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 374
     reach: 0.446
+    rank: 252
   motrix:
     tier: established
     aur_votes: 2
     aur_popularity: 0.0
-    brew_installs: 5792
-    reach: 0.652
+    brew_installs: 5801
+    reach: 0.6521
+    rank: 68
   mouse-automator:
     tier: unranked
     aur_votes: 0
@@ -8847,6 +9299,7 @@ scores:
     aur_popularity: 0.0039
     brew_installs: 0
     reach: 0.0929
+    rank: 738
   mq3t:
     tier: unranked
     aur_votes: 0
@@ -8865,6 +9318,7 @@ scores:
     aur_popularity: 0.0071
     brew_installs: 4033
     reach: 0.6248
+    rank: 84
   ms-365:
     tier: unranked
     aur_votes: 0
@@ -8877,6 +9331,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 630
   mterm:
     tier: unranked
     aur_votes: 0
@@ -8889,6 +9344,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 11
     reach: 0.187
+    rank: 565
   mu-epub-viewer:
     tier: unranked
     aur_votes: 0
@@ -8901,12 +9357,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 57
     reach: 0.3056
+    rank: 456
   mudita-center:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.5663
     brew_installs: 0
     reach: 0.0929
+    rank: 739
   muezzin:
     tier: unranked
     aur_votes: 0
@@ -8919,12 +9377,14 @@ scores:
     aur_popularity: 0.0328
     brew_installs: 0
     reach: 0.2157
+    rank: 553
   mullvad:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 4452
+    brew_installs: 4449
     reach: 0.6322
+    rank: 80
   multiple-file-manager:
     tier: unranked
     aur_votes: 0
@@ -8941,8 +9401,9 @@ scores:
     tier: established
     aur_votes: 8
     aur_popularity: 0.0
-    brew_installs: 213
-    reach: 0.4038
+    brew_installs: 212
+    reach: 0.4034
+    rank: 301
   music-player:
     tier: unranked
     aur_votes: 0
@@ -8967,6 +9428,7 @@ scores:
     aur_popularity: 0.0059
     brew_installs: 0
     reach: 0.0929
+    rank: 740
   musicfreedesktop:
     tier: unranked
     aur_votes: 0
@@ -9009,6 +9471,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 741
   myapp-scrapthatpage:
     tier: unranked
     aur_votes: 0
@@ -9043,8 +9506,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 916
-    reach: 0.5133
+    brew_installs: 917
+    reach: 0.5134
+    rank: 174
   native-facebook:
     tier: unranked
     aur_votes: 0
@@ -9099,6 +9563,7 @@ scores:
     aur_popularity: 0.4616
     brew_installs: 0
     reach: 0.0929
+    rank: 742
   net-player:
     tier: unranked
     aur_votes: 0
@@ -9111,6 +9576,7 @@ scores:
     aur_popularity: 0.7298
     brew_installs: 0
     reach: 0.2608
+    rank: 503
   netflix-electron31:
     tier: unranked
     aur_votes: 0
@@ -9139,14 +9605,16 @@ scores:
     tier: established
     aur_votes: 2
     aur_popularity: 0.0
-    brew_installs: 2555
-    reach: 0.5904
+    brew_installs: 2552
+    reach: 0.5903
+    rank: 116
   netsend:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 743
   network-assembler:
     tier: unranked
     aur_votes: 0
@@ -9195,6 +9663,7 @@ scores:
     aur_popularity: 0
     brew_installs: 115
     reach: 0.3577
+    rank: 369
   nft-tool:
     tier: unranked
     aur_votes: 0
@@ -9219,6 +9688,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2401
+    rank: 528
   nicepage:
     tier: unranked
     aur_votes: 0
@@ -9237,12 +9707,14 @@ scores:
     aur_popularity: 0.0437
     brew_installs: 0
     reach: 0.0929
+    rank: 744
   nimblenote:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 26
     reach: 0.248
+    rank: 518
   nipaplay:
     tier: unranked
     aur_votes: 0
@@ -9273,18 +9745,21 @@ scores:
     aur_popularity: 0.0019
     brew_installs: 0
     reach: 0.1858
+    rank: 580
   nook:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 659
     reach: 0.4885
+    rank: 204
   nora:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 745
   norde-source:
     tier: unranked
     aur_votes: 0
@@ -9303,18 +9778,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 746
   nota:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0
-    brew_installs: 142
-    reach: 0.3735
+    brew_installs: 143
+    reach: 0.374
+    rank: 348
   notable:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 198
     reach: 0.3983
+    rank: 305
   note-mark:
     tier: unranked
     aur_votes: 0
@@ -9367,8 +9845,9 @@ scores:
     tier: established
     aur_votes: 13
     aur_popularity: 0.0004
-    brew_installs: 1127
+    brew_installs: 1128
     reach: 0.5289
+    rank: 161
   notifica-task:
     tier: unranked
     aur_votes: 0
@@ -9379,14 +9858,16 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 6779
-    reach: 0.6638
+    brew_installs: 6763
+    reach: 0.6637
+    rank: 55
   notion:
     tier: flagship
     aur_votes: 35
     aur_popularity: 1.307
-    brew_installs: 62723
+    brew_installs: 62731
     reach: 0.8313
+    rank: 11
   novel-tree:
     tier: unranked
     aur_votes: 0
@@ -9399,6 +9880,7 @@ scores:
     aur_popularity: 0.004
     brew_installs: 98
     reach: 0.3458
+    rank: 392
   ntrack:
     tier: unranked
     aur_votes: 0
@@ -9409,14 +9891,16 @@ scores:
     tier: popular
     aur_votes: 44
     aur_popularity: 0.0069
-    brew_installs: 855
+    brew_installs: 854
     reach: 0.5102
+    rank: 180
   nucleo:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 110
-    reach: 0.3544
+    brew_installs: 109
+    reach: 0.3537
+    rank: 379
   nuclia-sync-agent:
     tier: unranked
     aur_votes: 0
@@ -9441,12 +9925,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 75
     reach: 0.3259
+    rank: 422
   numara:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.002
     brew_installs: 0
     reach: 0.1858
+    rank: 581
   nuru-browser:
     tier: unranked
     aur_votes: 0
@@ -9457,8 +9943,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 4603
-    reach: 0.6347
+    brew_installs: 4607
+    reach: 0.6348
+    rank: 78
   nxshell:
     tier: unranked
     aur_votes: 0
@@ -9489,12 +9976,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 747
   obsidian:
     tier: flagship
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 170604
+    brew_installs: 170786
     reach: 0.9066
+    rank: 3
   octa:
     tier: unranked
     aur_votes: 0
@@ -9513,6 +10002,7 @@ scores:
     aur_popularity: 0
     brew_installs: 62
     reach: 0.3118
+    rank: 444
   ohhai-browser:
     tier: unranked
     aur_votes: 0
@@ -9543,6 +10033,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 748
   omofun:
     tier: unranked
     aur_votes: 0
@@ -9561,6 +10052,7 @@ scores:
     aur_popularity: 0.0003
     brew_installs: 130
     reach: 0.3669
+    rank: 356
   onemouse:
     tier: unranked
     aur_votes: 0
@@ -9589,8 +10081,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 85
-    reach: 0.3352
+    brew_installs: 86
+    reach: 0.3361
+    rank: 408
   oomol-studio:
     tier: unranked
     aur_votes: 0
@@ -9609,6 +10102,7 @@ scores:
     aur_popularity: 0.4149
     brew_installs: 0
     reach: 0.1472
+    rank: 631
   open-image-tiny:
     tier: unranked
     aur_votes: 0
@@ -9633,72 +10127,84 @@ scores:
     aur_popularity: 0.0004
     brew_installs: 0
     reach: 0.2157
+    rank: 554
   open-video-downloader:
     tier: established
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 1030
     reach: 0.5221
+    rank: 164
   open-webui:
     tier: established
     aur_votes: 1
-    aur_popularity: 0.3696
-    brew_installs: 3328
-    reach: 0.6103
+    aur_popularity: 0.3204
+    brew_installs: 3342
+    reach: 0.6106
+    rank: 103
   openai-codex:
     tier: established
     aur_votes: 7
     aur_popularity: 1.7691
     brew_installs: 0
     reach: 0.2787
+    rank: 483
   openbazaar:
     tier: established
     aur_votes: 10
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3214
+    rank: 431
   openbuilds-control:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0329
     brew_installs: 0
     reach: 0.1472
+    rank: 632
   opencode:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.491
     brew_installs: 0
     reach: 0.0929
+    rank: 749
   opencomic:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0003
     brew_installs: 232
     reach: 0.4102
+    rank: 286
   openfortivpn-webview:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 750
   openmarch:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0437
     brew_installs: 0
     reach: 0.0929
+    rank: 751
   openmtp:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 18896
-    reach: 0.741
+    brew_installs: 18922
+    reach: 0.7411
+    rank: 32
   opentubex:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.5665
     brew_installs: 0
     reach: 0.0929
+    rank: 752
   openvpn-connect-linux:
     tier: unranked
     aur_votes: 0
@@ -9727,20 +10233,23 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 552
-    reach: 0.4752
+    brew_installs: 565
+    reach: 0.477
+    rank: 214
   oscgoesbrrr:
     tier: established
     aur_votes: 5
     aur_popularity: 0.7553
     brew_installs: 0
     reach: 0.2401
+    rank: 529
   oss-browser:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 358
-    reach: 0.4427
+    brew_installs: 357
+    reach: 0.4425
+    rank: 256
   ostara:
     tier: unranked
     aur_votes: 0
@@ -9763,20 +10272,23 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 152
-    reach: 0.3785
+    brew_installs: 153
+    reach: 0.379
+    rank: 341
   outertale:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 753
   outline-client:
     tier: established
     aur_votes: 10
     aur_popularity: 0.0308
-    brew_installs: 540
-    reach: 0.4736
+    brew_installs: 541
+    reach: 0.4737
+    rank: 218
   overlay-spirit:
     tier: unranked
     aur_votes: 0
@@ -9795,6 +10307,7 @@ scores:
     aur_popularity: 0
     brew_installs: 45
     reach: 0.2881
+    rank: 473
   overvue:
     tier: unranked
     aur_votes: 0
@@ -9807,6 +10320,7 @@ scores:
     aur_popularity: 0
     brew_installs: 94
     reach: 0.3427
+    rank: 398
   owa:
     tier: unranked
     aur_votes: 0
@@ -9819,6 +10333,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 633
   own3d:
     tier: unranked
     aur_votes: 0
@@ -9837,12 +10352,14 @@ scores:
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.1858
+    rank: 582
   p3x-redis-ui:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.1858
+    rank: 583
   pad-md:
     tier: unranked
     aur_votes: 0
@@ -9855,6 +10372,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 114
     reach: 0.3571
+    rank: 371
   palletone:
     tier: unranked
     aur_votes: 0
@@ -9871,8 +10389,9 @@ scores:
     tier: popular
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 9893
-    reach: 0.6923
+    brew_installs: 9876
+    reach: 0.6922
+    rank: 47
   pandora-box:
     tier: unranked
     aur_votes: 0
@@ -9889,8 +10408,9 @@ scores:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.1391
-    brew_installs: 214
-    reach: 0.4041
+    brew_installs: 215
+    reach: 0.4045
+    rank: 300
   paperarxiv:
     tier: unranked
     aur_votes: 0
@@ -9909,12 +10429,14 @@ scores:
     aur_popularity: 0
     brew_installs: 126
     reach: 0.3645
+    rank: 359
   papyrus:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 54
     reach: 0.3016
+    rank: 461
   paradise-pi:
     tier: unranked
     aur_votes: 0
@@ -9931,8 +10453,9 @@ scores:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 28
-    reach: 0.2534
+    brew_installs: 27
+    reach: 0.2508
+    rank: 514
   parseit:
     tier: unranked
     aur_votes: 0
@@ -9945,24 +10468,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 63
     reach: 0.313
+    rank: 441
   parsify:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 63
     reach: 0.313
+    rank: 442
   particle-dev:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2401
+    rank: 530
   paseo:
     tier: established
     aur_votes: 1
     aur_popularity: 0.4906
-    brew_installs: 1834
-    reach: 0.5655
+    brew_installs: 1847
+    reach: 0.566
+    rank: 129
   passbox:
     tier: unranked
     aur_votes: 0
@@ -9993,6 +10520,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2401
+    rank: 531
   patchwork:
     tier: unranked
     aur_votes: 0
@@ -10017,6 +10545,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 754
   pdfkit:
     tier: unranked
     aur_votes: 0
@@ -10041,18 +10570,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1472
+    rank: 634
   pear-desktop-arjix:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.3185
     brew_installs: 0
     reach: 0.1472
+    rank: 635
   pear-desktop-noads:
     tier: established
     aur_votes: 17
     aur_popularity: 0.239
     brew_installs: 0
     reach: 0.3874
+    rank: 324
   pear-rec:
     tier: unranked
     aur_votes: 0
@@ -10075,8 +10607,9 @@ scores:
     tier: flagship
     aur_votes: 76
     aur_popularity: 0.0773
-    brew_installs: 282
+    brew_installs: 281
     reach: 0.5822
+    rank: 119
   pendulums:
     tier: unranked
     aur_votes: 0
@@ -10089,18 +10622,21 @@ scores:
     aur_popularity: 0
     brew_installs: 163
     reach: 0.3838
+    rank: 326
   penpot:
     tier: minimal
     aur_votes: 4
-    aur_popularity: 0.0122
+    aur_popularity: 0.0106
     brew_installs: 0
     reach: 0.2157
+    rank: 555
   perplexity:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.2897
-    brew_installs: 117
-    reach: 0.359
+    brew_installs: 123
+    reach: 0.3627
+    rank: 365
   perrito-ws:
     tier: unranked
     aur_votes: 0
@@ -10119,6 +10655,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 755
   pflux:
     tier: unranked
     aur_votes: 0
@@ -10129,8 +10666,9 @@ scores:
     tier: flagship
     aur_votes: 2
     aur_popularity: 0.0865
-    brew_installs: 57862
+    brew_installs: 57861
     reach: 0.8252
+    rank: 13
   pgdm-ui:
     tier: unranked
     aur_votes: 0
@@ -10179,6 +10717,7 @@ scores:
     aur_popularity: 0.5661
     brew_installs: 0
     reach: 0.0929
+    rank: 756
   photoscreensaver:
     tier: unranked
     aur_votes: 0
@@ -10209,6 +10748,7 @@ scores:
     aur_popularity: 0.1023
     brew_installs: 923
     reach: 0.5139
+    rank: 173
   picturama:
     tier: unranked
     aur_votes: 0
@@ -10231,8 +10771,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 249
-    reach: 0.4155
+    brew_installs: 250
+    reach: 0.4158
+    rank: 280
   pilot:
     tier: unranked
     aur_votes: 0
@@ -10263,6 +10804,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 757
   pitv:
     tier: unranked
     aur_votes: 0
@@ -10281,6 +10823,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 584
   pixzip-lite:
     tier: unranked
     aur_votes: 0
@@ -10293,18 +10836,21 @@ scores:
     aur_popularity: 0
     brew_installs: 149
     reach: 0.3771
+    rank: 346
   platinum:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 758
   playback:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 16
     reach: 0.2132
+    rank: 560
   playcode:
     tier: unranked
     aur_votes: 0
@@ -10321,14 +10867,16 @@ scores:
     tier: established
     aur_votes: 1
     aur_popularity: 0.0045
-    brew_installs: 1650
+    brew_installs: 1648
     reach: 0.5575
+    rank: 133
   pliim:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 20
     reach: 0.2291
+    rank: 541
   plutonia:
     tier: unranked
     aur_votes: 0
@@ -10341,6 +10889,7 @@ scores:
     aur_popularity: 0.3199
     brew_installs: 935
     reach: 0.5148
+    rank: 172
   pocketyoutube:
     tier: unranked
     aur_votes: 0
@@ -10357,20 +10906,23 @@ scores:
     tier: flagship
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 44939
-    reach: 0.8062
+    brew_installs: 44924
+    reach: 0.8061
+    rank: 18
   poe:
     tier: established
     aur_votes: 6
     aur_popularity: 0.0502
-    brew_installs: 579
-    reach: 0.4788
+    brew_installs: 578
+    reach: 0.4787
+    rank: 212
   poi:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 35
     reach: 0.2697
+    rank: 493
   polar:
     tier: unranked
     aur_votes: 0
@@ -10401,6 +10953,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 689
     reach: 0.4919
+    rank: 200
   pomodoro-timer:
     tier: unranked
     aur_votes: 0
@@ -10423,8 +10976,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 909
-    reach: 0.5127
+    brew_installs: 910
+    reach: 0.5128
+    rank: 176
   poncho-wonky:
     tier: unranked
     aur_votes: 0
@@ -10437,30 +10991,35 @@ scores:
     aur_popularity: 0.4904
     brew_installs: 0
     reach: 0.1472
+    rank: 636
   popsql:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 3026
+    brew_installs: 3029
     reach: 0.6032
+    rank: 108
   portmaster:
     tier: popular
     aur_votes: 32
     aur_popularity: 0.3168
     brew_installs: 0
     reach: 0.4686
+    rank: 226
   positron:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 2233
+    brew_installs: 2234
     reach: 0.5803
+    rank: 122
   postbird:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 188
     reach: 0.3944
+    rank: 314
   postcat:
     tier: unranked
     aur_votes: 0
@@ -10479,24 +11038,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 536
     reach: 0.473
+    rank: 220
   postman:
     tier: flagship
     aur_votes: 319
     aur_popularity: 2.3174
-    brew_installs: 154676
-    reach: 0.8992
+    brew_installs: 154579
+    reach: 0.8991
+    rank: 4
   postybirb-plus-bin:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 759
   postybirb:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 760
   potacat:
     tier: unranked
     aur_votes: 0
@@ -10509,6 +11072,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 761
   pplink:
     tier: unranked
     aur_votes: 0
@@ -10521,12 +11085,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2608
+    rank: 504
   prepros:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 63
     reach: 0.313
+    rank: 443
   preserver:
     tier: unranked
     aur_votes: 0
@@ -10551,6 +11117,7 @@ scores:
     aur_popularity: 0
     brew_installs: 31
     reach: 0.2608
+    rank: 505
   prexview:
     tier: unranked
     aur_votes: 0
@@ -10579,8 +11146,9 @@ scores:
     tier: established
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 2869
-    reach: 0.5992
+    brew_installs: 2868
+    reach: 0.5991
+    rank: 110
   prizrak-box:
     tier: unranked
     aur_votes: 0
@@ -10599,6 +11167,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 762
   projscope-music-player:
     tier: unranked
     aur_votes: 0
@@ -10641,6 +11210,7 @@ scores:
     aur_popularity: 0.0284
     brew_installs: 0
     reach: 0.1472
+    rank: 637
   protoman:
     tier: unranked
     aur_votes: 0
@@ -10653,24 +11223,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 763
   proton-mail:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 6069
+    brew_installs: 6070
     reach: 0.6555
+    rank: 61
   protonmail-bridge:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 5343
-    reach: 0.6459
+    brew_installs: 5347
+    reach: 0.646
+    rank: 73
   protopie:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 450
-    reach: 0.4599
+    brew_installs: 451
+    reach: 0.4601
+    rank: 237
   proxy-manager:
     tier: unranked
     aur_votes: 0
@@ -10689,12 +11263,14 @@ scores:
     aur_popularity: 0.6524
     brew_installs: 0
     reach: 0.0929
+    rank: 764
   publii:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 207
     reach: 0.4017
+    rank: 302
   pullp:
     tier: unranked
     aur_votes: 0
@@ -10705,8 +11281,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1626
-    reach: 0.5564
+    brew_installs: 1628
+    reach: 0.5565
+    rank: 134
   pulse-browser:
     tier: unranked
     aur_votes: 0
@@ -10717,14 +11294,16 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 254
-    reach: 0.417
+    brew_installs: 253
+    reach: 0.4167
+    rank: 279
   pupu:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 765
   pure-studio:
     tier: unranked
     aur_votes: 0
@@ -10761,6 +11340,7 @@ scores:
     aur_popularity: 0.1181
     brew_installs: 0
     reach: 0.0929
+    rank: 766
   qikqr:
     tier: unranked
     aur_votes: 0
@@ -10773,24 +11353,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 767
   qoder:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0285
     brew_installs: 0
     reach: 0.0929
+    rank: 768
   qqmusic:
     tier: established
     aur_votes: 11
     aur_popularity: 0.0
-    brew_installs: 3009
+    brew_installs: 3007
     reach: 0.6027
+    rank: 109
   qqnews:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 41
     reach: 0.2813
+    rank: 478
   qrocad:
     tier: unranked
     aur_votes: 0
@@ -10803,6 +11387,7 @@ scores:
     aur_popularity: 0
     brew_installs: 5
     reach: 0.1348
+    rank: 648
   qualcomm-software-center:
     tier: unranked
     aur_votes: 0
@@ -10827,6 +11412,7 @@ scores:
     aur_popularity: 0
     brew_installs: 38
     reach: 0.2757
+    rank: 489
   querym:
     tier: unranked
     aur_votes: 0
@@ -10839,6 +11425,7 @@ scores:
     aur_popularity: 0
     brew_installs: 91
     reach: 0.3403
+    rank: 402
   quicknote:
     tier: unranked
     aur_votes: 0
@@ -10863,18 +11450,21 @@ scores:
     aur_popularity: 0.2113
     brew_installs: 0
     reach: 0.2608
+    rank: 506
   r3play:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 769
   r3playx:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 770
   r5-wallet:
     tier: unranked
     aur_votes: 0
@@ -10915,8 +11505,9 @@ scores:
     tier: established
     aur_votes: 11
     aur_popularity: 0.868
-    brew_installs: 561
-    reach: 0.4765
+    brew_installs: 562
+    reach: 0.4766
+    rank: 216
   random-browser:
     tier: unranked
     aur_votes: 0
@@ -10935,6 +11526,7 @@ scores:
     aur_popularity: 0.0091
     brew_installs: 24
     reach: 0.2422
+    rank: 522
   reach-podcast-player:
     tier: unranked
     aur_votes: 0
@@ -10951,14 +11543,16 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 5835
-    reach: 0.6526
+    brew_installs: 5818
+    reach: 0.6523
+    rank: 64
   reactotron:
     tier: established
     aur_votes: 4
     aur_popularity: 0.0
-    brew_installs: 5389
-    reach: 0.6466
+    brew_installs: 5373
+    reach: 0.6464
+    rank: 72
   readcat:
     tier: unranked
     aur_votes: 0
@@ -10977,6 +11571,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 446
     reach: 0.4592
+    rank: 240
   rebaslight:
     tier: unranked
     aur_votes: 0
@@ -11007,18 +11602,21 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 771
   redisfish:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 772
   redisinsight:
     tier: popular
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 16270
-    reach: 0.7297
+    brew_installs: 16285
+    reach: 0.7298
+    rank: 34
   refi-app:
     tier: unranked
     aur_votes: 0
@@ -11031,6 +11629,7 @@ scores:
     aur_popularity: 0
     brew_installs: 182
     reach: 0.392
+    rank: 319
   rekordfix:
     tier: unranked
     aur_votes: 0
@@ -11061,6 +11660,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 43
     reach: 0.3214
+    rank: 432
   remember:
     tier: unranked
     aur_votes: 0
@@ -11073,30 +11673,35 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2157
+    rank: 556
   remindr:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.0929
+    rank: 773
   remnote:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.0
-    brew_installs: 467
-    reach: 0.4627
+    brew_installs: 468
+    reach: 0.4628
+    rank: 233
   remotehamradio:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 10
     reach: 0.1804
+    rank: 589
   removebg:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 162
     reach: 0.3833
+    rank: 328
   remsupp:
     tier: unranked
     aur_votes: 0
@@ -11109,6 +11714,7 @@ scores:
     aur_popularity: 0
     brew_installs: 158
     reach: 0.3814
+    rank: 333
   rendertune:
     tier: unranked
     aur_votes: 0
@@ -11121,30 +11727,35 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 774
   repath-studio:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 775
   replit:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
     brew_installs: 339
     reach: 0.4386
+    rank: 260
   replugged:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2401
+    rank: 532
   requestly:
     tier: established
     aur_votes: 3
     aur_popularity: 0.0036
-    brew_installs: 3352
-    reach: 0.6109
+    brew_installs: 3351
+    reach: 0.6108
+    rank: 102
   requesto:
     tier: unranked
     aur_votes: 0
@@ -11157,12 +11768,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 776
   responsively:
     tier: established
     aur_votes: 13
     aur_popularity: 0.1055
-    brew_installs: 1484
-    reach: 0.5496
+    brew_installs: 1480
+    reach: 0.5494
+    rank: 141
   responsivize:
     tier: unranked
     aur_votes: 0
@@ -11173,14 +11786,16 @@ scores:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0005
-    brew_installs: 478
-    reach: 0.4644
+    brew_installs: 477
+    reach: 0.4643
+    rank: 230
   reticulum-meshchat:
     tier: minimal
     aur_votes: 1
-    aur_popularity: 0.0285
+    aur_popularity: 0.0247
     brew_installs: 0
     reach: 0.0929
+    rank: 777
   reversee:
     tier: unranked
     aur_votes: 0
@@ -11193,12 +11808,14 @@ scores:
     aur_popularity: 0.0006
     brew_installs: 0
     reach: 0.0929
+    rank: 778
   revolt-desktop-adblock:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 779
   rice-cooker:
     tier: unranked
     aur_votes: 0
@@ -11211,6 +11828,7 @@ scores:
     aur_popularity: 0
     brew_installs: 18
     reach: 0.2216
+    rank: 543
   ride:
     tier: unranked
     aur_votes: 0
@@ -11239,8 +11857,9 @@ scores:
     tier: established
     aur_votes: 13
     aur_popularity: 0.0669
-    brew_installs: 5801
-    reach: 0.6521
+    brew_installs: 5809
+    reach: 0.6522
+    rank: 67
   rmclient:
     tier: unranked
     aur_votes: 0
@@ -11251,14 +11870,16 @@ scores:
     tier: flagship
     aur_votes: 95
     aur_popularity: 0.0001
-    brew_installs: 1027
+    brew_installs: 1028
     reach: 0.6118
+    rank: 99
   rotion:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 780
   rotore:
     tier: unranked
     aur_votes: 0
@@ -11277,12 +11898,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 109
     reach: 0.3537
+    rank: 380
   rowboat:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 101
     reach: 0.348
+    rank: 391
   rubick:
     tier: unranked
     aur_votes: 0
@@ -11293,8 +11916,9 @@ scores:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
-    brew_installs: 370
-    reach: 0.4452
+    brew_installs: 369
+    reach: 0.445
+    rank: 254
   ryusak:
     tier: unranked
     aur_votes: 0
@@ -11311,8 +11935,9 @@ scores:
     tier: established
     aur_votes: 17
     aur_popularity: 0.0
-    brew_installs: 330
-    reach: 0.4366
+    brew_installs: 335
+    reach: 0.4377
+    rank: 261
   saberfy:
     tier: unranked
     aur_votes: 0
@@ -11329,8 +11954,9 @@ scores:
     tier: flagship
     aur_votes: 76
     aur_popularity: 0.0323
-    brew_installs: 381
+    brew_installs: 383
     reach: 0.5822
+    rank: 120
   salesforce2sql:
     tier: unranked
     aur_votes: 0
@@ -11367,6 +11993,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2157
+    rank: 557
   school-timetable:
     tier: unranked
     aur_votes: 0
@@ -11379,6 +12006,7 @@ scores:
     aur_popularity: 0.102
     brew_installs: 0
     reach: 0.363
+    rank: 362
   scratchjr:
     tier: unranked
     aur_votes: 0
@@ -11407,8 +12035,9 @@ scores:
     tier: established
     aur_votes: 4
     aur_popularity: 2.7838
-    brew_installs: 1629
-    reach: 0.5566
+    brew_installs: 1627
+    reach: 0.5565
+    rank: 135
   scriptorium:
     tier: unranked
     aur_votes: 0
@@ -11427,12 +12056,14 @@ scores:
     aur_popularity: 0
     brew_installs: 365
     reach: 0.4442
+    rank: 255
   sdm:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 956
-    reach: 0.5165
+    brew_installs: 954
+    reach: 0.5164
+    rank: 169
   seanime:
     tier: unranked
     aur_votes: 0
@@ -11451,6 +12082,7 @@ scores:
     aur_popularity: 0.0329
     brew_installs: 175
     reach: 0.3891
+    rank: 320
   select-launcher:
     tier: unranked
     aur_votes: 0
@@ -11463,6 +12095,7 @@ scores:
     aur_popularity: 0.1228
     brew_installs: 0
     reach: 0.2401
+    rank: 533
   selvania-launcher:
     tier: unranked
     aur_votes: 0
@@ -11475,36 +12108,42 @@ scores:
     aur_popularity: 0.0
     brew_installs: 220
     reach: 0.4062
+    rank: 292
   sencha-inspector:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 220
     reach: 0.4062
+    rank: 293
   sencha-test:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 220
     reach: 0.4062
+    rank: 294
   sencha-themer:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
     brew_installs: 220
     reach: 0.4062
+    rank: 295
   sendanywhere:
     tier: established
     aur_votes: 16
     aur_popularity: 0.0
     brew_installs: 116
     reach: 0.3797
+    rank: 339
   sengi:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 49
     reach: 0.2944
+    rank: 470
   seobrowse:
     tier: unranked
     aur_votes: 0
@@ -11517,6 +12156,7 @@ scores:
     aur_popularity: 0
     brew_installs: 17
     reach: 0.2175
+    rank: 546
   serina:
     tier: unranked
     aur_votes: 0
@@ -11538,9 +12178,10 @@ scores:
   session-desktop:
     tier: popular
     aur_votes: 47
-    aur_popularity: 1.082
-    brew_installs: 1373
+    aur_popularity: 0.9388
+    brew_installs: 1372
     reach: 0.5437
+    rank: 150
   seven-waves:
     tier: unranked
     aur_votes: 0
@@ -11607,6 +12248,7 @@ scores:
     aur_popularity: 0
     brew_installs: 27
     reach: 0.2508
+    rank: 515
   shibuya:
     tier: unranked
     aur_votes: 0
@@ -11619,6 +12261,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 189
     reach: 0.3948
+    rank: 311
   shimmer:
     tier: unranked
     aur_votes: 0
@@ -11659,8 +12302,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 191
-    reach: 0.3956
+    brew_installs: 190
+    reach: 0.3952
+    rank: 310
   shutu-client:
     tier: unranked
     aur_votes: 0
@@ -11673,6 +12317,7 @@ scores:
     aur_popularity: 0
     brew_installs: 701
     reach: 0.4932
+    rank: 198
   sigma-file-manager:
     tier: unranked
     aur_votes: 0
@@ -11683,14 +12328,16 @@ scores:
     tier: popular
     aur_votes: 61
     aur_popularity: 0.7058
-    brew_installs: 35304
+    brew_installs: 35293
     reach: 0.788
+    rank: 25
   siki:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 781
   silence-speedup:
     tier: unranked
     aur_votes: 0
@@ -11709,6 +12356,7 @@ scores:
     aur_popularity: 0.0247
     brew_installs: 0
     reach: 0.0929
+    rank: 782
   simpico:
     tier: unranked
     aur_votes: 0
@@ -11751,6 +12399,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 200
     reach: 0.3991
+    rank: 304
   simpleinstabot:
     tier: unranked
     aur_votes: 0
@@ -11767,8 +12416,9 @@ scores:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
-    brew_installs: 825
-    reach: 0.5054
+    brew_installs: 826
+    reach: 0.5055
+    rank: 185
   simpleshell:
     tier: unranked
     aur_votes: 0
@@ -11787,6 +12437,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 77
     reach: 0.3278
+    rank: 417
   simpletodo:
     tier: unranked
     aur_votes: 0
@@ -11799,6 +12450,7 @@ scores:
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.1472
+    rank: 638
   singland:
     tier: unranked
     aur_votes: 0
@@ -11811,6 +12463,7 @@ scores:
     aur_popularity: 0.6521
     brew_installs: 153
     reach: 0.379
+    rank: 342
   sixgrid:
     tier: unranked
     aur_votes: 0
@@ -11821,14 +12474,16 @@ scores:
     tier: popular
     aur_votes: 25
     aur_popularity: 2.8982
-    brew_installs: 1409
-    reach: 0.5457
+    brew_installs: 1411
+    reach: 0.5458
+    rank: 146
   sizzy:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 39
     reach: 0.2776
+    rank: 487
   skype:
     tier: unranked
     aur_votes: 0
@@ -11845,8 +12500,9 @@ scores:
     tier: flagship
     aur_votes: 693
     aur_popularity: 7.5254
-    brew_installs: 84858
+    brew_installs: 84807
     reach: 0.8769
+    rank: 6
   slacky:
     tier: unranked
     aur_votes: 0
@@ -11859,18 +12515,21 @@ scores:
     aur_popularity: 0.1365
     brew_installs: 0
     reach: 0.363
+    rank: 363
   slimevr-server:
     tier: minimal
     aur_votes: 1
-    aur_popularity: 0.1574
+    aur_popularity: 0.1364
     brew_installs: 0
     reach: 0.0929
+    rank: 783
   slippi-launcher:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.0889
     brew_installs: 0
     reach: 0.1858
+    rank: 585
   smallpdf:
     tier: unranked
     aur_votes: 0
@@ -11955,6 +12614,7 @@ scores:
     aur_popularity: 0
     brew_installs: 10
     reach: 0.1804
+    rank: 590
   social-amnesia:
     tier: unranked
     aur_votes: 0
@@ -11988,9 +12648,10 @@ scores:
   sokuji:
     tier: minimal
     aur_votes: 1
-    aur_popularity: 0.0014
+    aur_popularity: 0.0012
     brew_installs: 0
     reach: 0.0929
+    rank: 784
   solar-wallet:
     tier: unranked
     aur_votes: 0
@@ -12003,6 +12664,7 @@ scores:
     aur_popularity: 0.123
     brew_installs: 0
     reach: 0.1472
+    rank: 639
   somafm-desktop-player:
     tier: unranked
     aur_votes: 0
@@ -12021,12 +12683,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 240
     reach: 0.4127
+    rank: 284
   sononym:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.058
     brew_installs: 0
     reach: 0.0929
+    rank: 785
   sorted-photography:
     tier: unranked
     aur_votes: 0
@@ -12051,6 +12715,7 @@ scores:
     aur_popularity: 0.9093
     brew_installs: 0
     reach: 0.1472
+    rank: 640
   soundnode:
     tier: unranked
     aur_votes: 0
@@ -12063,6 +12728,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 786
   source-me:
     tier: unranked
     aur_votes: 0
@@ -12091,8 +12757,9 @@ scores:
     tier: established
     aur_votes: 11
     aur_popularity: 0.1887
-    brew_installs: 855
-    reach: 0.5081
+    brew_installs: 854
+    reach: 0.508
+    rank: 182
   spacemesh:
     tier: unranked
     aur_votes: 0
@@ -12105,6 +12772,7 @@ scores:
     aur_popularity: 0
     brew_installs: 71
     reach: 0.3218
+    rank: 425
   spark-wallet:
     tier: unranked
     aur_votes: 0
@@ -12123,6 +12791,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 1339
     reach: 0.5418
+    rank: 152
   spearmint-test:
     tier: unranked
     aur_votes: 0
@@ -12159,18 +12828,21 @@ scores:
     aur_popularity: 0.278
     brew_installs: 104
     reach: 0.3502
+    rank: 389
   splice:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 477
     reach: 0.4643
+    rank: 231
   spline:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 184
-    reach: 0.3928
+    brew_installs: 183
+    reach: 0.3924
+    rank: 317
   spool:
     tier: unranked
     aur_votes: 0
@@ -12193,8 +12865,9 @@ scores:
     tier: flagship
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 97011
+    brew_installs: 97001
     reach: 0.8641
+    rank: 7
   spotspot:
     tier: unranked
     aur_votes: 0
@@ -12229,8 +12902,9 @@ scores:
     tier: established
     aur_votes: 11
     aur_popularity: 0.0
-    brew_installs: 220
-    reach: 0.4062
+    brew_installs: 219
+    reach: 0.4059
+    rank: 298
   sqlite3-page-explorer:
     tier: unranked
     aur_votes: 0
@@ -12243,6 +12917,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 787
   sqview:
     tier: unranked
     aur_votes: 0
@@ -12253,8 +12928,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 502
-    reach: 0.4681
+    brew_installs: 501
+    reach: 0.468
+    rank: 227
   stacker:
     tier: unranked
     aur_votes: 0
@@ -12279,6 +12955,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 87
     reach: 0.3369
+    rank: 407
   stampnyaa:
     tier: unranked
     aur_votes: 0
@@ -12289,8 +12966,9 @@ scores:
     tier: popular
     aur_votes: 48
     aur_popularity: 0.0112
-    brew_installs: 1238
+    brew_installs: 1237
     reach: 0.5359
+    rank: 157
   standup-picker:
     tier: unranked
     aur_votes: 0
@@ -12303,6 +12981,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2945
+    rank: 466
   statwrap:
     tier: unranked
     aur_votes: 0
@@ -12321,6 +13000,7 @@ scores:
     aur_popularity: 0.0009
     brew_installs: 0
     reach: 0.0929
+    rank: 788
   steamachievementnotifier:
     tier: unranked
     aur_votes: 0
@@ -12333,6 +13013,7 @@ scores:
     aur_popularity: 0
     brew_installs: 531
     reach: 0.4723
+    rank: 222
   sticky-markdown-note:
     tier: unranked
     aur_votes: 0
@@ -12357,6 +13038,7 @@ scores:
     aur_popularity: 0.612
     brew_installs: 0
     reach: 0.2401
+    rank: 534
   stockholm-trekkers-playlist-maker:
     tier: unranked
     aur_votes: 0
@@ -12381,6 +13063,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 423
     reach: 0.4553
+    rank: 242
   storaji:
     tier: unranked
     aur_votes: 0
@@ -12399,12 +13082,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 789
   streamlabs-obs:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 885
-    reach: 0.5107
+    brew_installs: 884
+    reach: 0.5106
+    rank: 178
   streetviewdownload360:
     tier: unranked
     aur_votes: 0
@@ -12417,24 +13102,28 @@ scores:
     aur_popularity: 1.0772
     brew_installs: 0
     reach: 0.2787
+    rank: 484
   stremio-web:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 790
   stretchly-xeruf:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 791
   stretchly:
     tier: established
     aur_votes: 2
     aur_popularity: 0.0
-    brew_installs: 3921
-    reach: 0.6227
+    brew_installs: 3915
+    reach: 0.6225
+    rank: 86
   strimio:
     tier: unranked
     aur_votes: 0
@@ -12507,6 +13196,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 237
     reach: 0.4118
+    rank: 285
   supalive:
     tier: unranked
     aur_votes: 0
@@ -12522,21 +13212,24 @@ scores:
   super-productivity:
     tier: popular
     aur_votes: 65
-    aur_popularity: 3.8587
-    brew_installs: 2803
-    reach: 0.5974
+    aur_popularity: 3.3453
+    brew_installs: 2805
+    reach: 0.5975
+    rank: 114
   superhuman:
     tier: established
     aur_votes: 1
     aur_popularity: 0.0505
-    brew_installs: 1384
-    reach: 0.5443
+    brew_installs: 1386
+    reach: 0.5444
+    rank: 147
   superpowers-html5-2d-3d-game-maker:
     tier: minimal
     aur_votes: 4
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2157
+    rank: 558
   supersplashbros2:
     tier: unranked
     aur_votes: 0
@@ -12573,6 +13266,7 @@ scores:
     aur_popularity: 0
     brew_installs: 67
     reach: 0.3175
+    rank: 436
   swit:
     tier: unranked
     aur_votes: 0
@@ -12583,14 +13277,16 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 479
-    reach: 0.4646
+    brew_installs: 477
+    reach: 0.4643
+    rank: 232
   switchhosts:
     tier: established
     aur_votes: 6
     aur_popularity: 0.077
-    brew_installs: 3379
-    reach: 0.6115
+    brew_installs: 3387
+    reach: 0.6116
+    rank: 100
   symphonie:
     tier: unranked
     aur_votes: 0
@@ -12612,9 +13308,10 @@ scores:
   synergy:
     tier: minimal
     aur_votes: 1
-    aur_popularity: 0.0051
+    aur_popularity: 0.0045
     brew_installs: 0
     reach: 0.0929
+    rank: 792
   syng:
     tier: unranked
     aur_votes: 0
@@ -12639,18 +13336,21 @@ scores:
     aur_popularity: 0.4262
     brew_installs: 0
     reach: 0.3946
+    rank: 313
   tabby:
     tier: popular
     aur_votes: 16
     aur_popularity: 0.4261
-    brew_installs: 11688
-    reach: 0.7048
+    brew_installs: 11694
+    reach: 0.7049
+    rank: 43
   tableflip:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
     brew_installs: 96
     reach: 0.3443
+    rank: 395
   tagflow:
     tier: unranked
     aur_votes: 0
@@ -12663,18 +13363,21 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 160
     reach: 0.4603
+    rank: 235
   tagstoo:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.5659
     brew_installs: 0
     reach: 0.0929
+    rank: 793
   tana:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0003
     brew_installs: 158
     reach: 0.3814
+    rank: 334
   tangent:
     tier: unranked
     aur_votes: 0
@@ -12687,6 +13390,7 @@ scores:
     aur_popularity: 0.0005
     brew_installs: 0
     reach: 0.0929
+    rank: 794
   taskana:
     tier: unranked
     aur_votes: 0
@@ -12705,6 +13409,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 795
   tcgtools:
     tier: unranked
     aur_votes: 0
@@ -12723,12 +13428,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 796
   teams-for-linux:
     tier: flagship
     aur_votes: 110
     aur_popularity: 2.1759
     brew_installs: 0
     reach: 0.6312
+    rank: 81
   teamwork:
     tier: unranked
     aur_votes: 0
@@ -12739,8 +13446,9 @@ scores:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0
-    brew_installs: 225
-    reach: 0.4079
+    brew_installs: 226
+    reach: 0.4082
+    rank: 287
   teleios-bible:
     tier: unranked
     aur_votes: 0
@@ -12757,14 +13465,16 @@ scores:
     tier: established
     aur_votes: 8
     aur_popularity: 0.0019
-    brew_installs: 258
-    reach: 0.4182
+    brew_installs: 261
+    reach: 0.419
+    rank: 276
   tenvideo:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0
-    brew_installs: 825
-    reach: 0.5054
+    brew_installs: 824
+    reach: 0.5053
+    rank: 186
   termcanvas:
     tier: unranked
     aur_votes: 0
@@ -12775,8 +13485,9 @@ scores:
     tier: popular
     aur_votes: 42
     aur_popularity: 1.8792
-    brew_installs: 15094
+    brew_installs: 15098
     reach: 0.7241
+    rank: 35
   teseve:
     tier: unranked
     aur_votes: 0
@@ -12819,6 +13530,7 @@ scores:
     aur_popularity: 0.0788
     brew_installs: 221
     reach: 0.4066
+    rank: 290
   texpaste:
     tier: unranked
     aur_votes: 0
@@ -12831,6 +13543,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 797
   textspace:
     tier: unranked
     aur_votes: 0
@@ -12865,14 +13578,16 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 6774
+    brew_installs: 6771
     reach: 0.6638
+    rank: 54
   thedesk-client:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 37
     reach: 0.2737
+    rank: 491
   themebuilder:
     tier: unranked
     aur_votes: 0
@@ -12907,8 +13622,9 @@ scores:
     tier: established
     aur_votes: 2
     aur_popularity: 0.0199
-    brew_installs: 1535
-    reach: 0.5521
+    brew_installs: 1533
+    reach: 0.552
+    rank: 138
   thoughts:
     tier: unranked
     aur_votes: 0
@@ -12933,24 +13649,28 @@ scores:
     aur_popularity: 0
     brew_installs: 17
     reach: 0.2175
+    rank: 547
   threema:
     tier: popular
     aur_votes: 35
-    aur_popularity: 0.0022
-    brew_installs: 479
+    aur_popularity: 0.0019
+    brew_installs: 481
     reach: 0.4803
+    rank: 208
   tidal-hifi:
     tier: established
     aur_votes: 5
     aur_popularity: 0.2314
     brew_installs: 0
     reach: 0.2401
+    rank: 535
   tidal:
     tier: established
     aur_votes: 12
     aur_popularity: 0.2254
-    brew_installs: 3245
-    reach: 0.6084
+    brew_installs: 3241
+    reach: 0.6083
+    rank: 105
   tiddlywiki:
     tier: unranked
     aur_votes: 0
@@ -12961,14 +13681,16 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 33
-    reach: 0.2654
+    brew_installs: 32
+    reach: 0.2631
+    rank: 495
   tilde:
     tier: established
     aur_votes: 14
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.363
+    rank: 364
   tiliq:
     tier: unranked
     aur_votes: 0
@@ -12981,6 +13703,7 @@ scores:
     aur_popularity: 0
     brew_installs: 7
     reach: 0.1565
+    rank: 597
   time-zone-converter:
     tier: unranked
     aur_votes: 0
@@ -13017,6 +13740,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 31
     reach: 0.2608
+    rank: 507
   tiny-games:
     tier: unranked
     aur_votes: 0
@@ -13071,24 +13795,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 798
   todoist-wrapper:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0002
     brew_installs: 0
     reach: 0.0929
+    rank: 799
   todoist:
     tier: popular
     aur_votes: 30
     aur_popularity: 0.2526
-    brew_installs: 6439
-    reach: 0.66
+    brew_installs: 6435
+    reach: 0.6599
+    rank: 57
   todometer:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 27
     reach: 0.2508
+    rank: 516
   tofino:
     tier: unranked
     aur_votes: 0
@@ -13101,6 +13829,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 800
   tomatox:
     tier: unranked
     aur_votes: 0
@@ -13179,6 +13908,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 801
   translation-editor:
     tier: unranked
     aur_votes: 0
@@ -13197,6 +13927,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 802
   tray-link:
     tier: unranked
     aur_votes: 0
@@ -13209,6 +13940,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.333
+    rank: 412
   treo:
     tier: unranked
     aur_votes: 0
@@ -13225,8 +13957,9 @@ scores:
     tier: popular
     aur_votes: 29
     aur_popularity: 0.0468
-    brew_installs: 695
-    reach: 0.4925
+    brew_installs: 696
+    reach: 0.4927
+    rank: 199
   trico:
     tier: unranked
     aur_votes: 0
@@ -13237,14 +13970,16 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 1258
-    reach: 0.5371
+    brew_installs: 1260
+    reach: 0.5373
+    rank: 156
   tropy:
     tier: established
     aur_votes: 6
     aur_popularity: 0.0005
     brew_installs: 104
     reach: 0.3502
+    rank: 390
   trufos:
     tier: unranked
     aur_votes: 0
@@ -13299,24 +14034,28 @@ scores:
     aur_popularity: 0.0288
     brew_installs: 0
     reach: 0.2608
+    rank: 508
   turbowarp-desktop:
     tier: established
     aur_votes: 6
     aur_popularity: 0.0011
     brew_installs: 0
     reach: 0.2608
+    rank: 509
   tusk:
     tier: established
     aur_votes: 16
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.3797
+    rank: 340
   tutanota:
     tier: flagship
     aur_votes: 102
     aur_popularity: 2.8324
-    brew_installs: 852
+    brew_installs: 855
     reach: 0.6212
+    rank: 87
   tuxedo-control-center:
     tier: unranked
     aur_votes: 0
@@ -13353,6 +14092,7 @@ scores:
     aur_popularity: 0.0022
     brew_installs: 0
     reach: 0.2787
+    rank: 485
   twittertron:
     tier: unranked
     aur_votes: 0
@@ -13371,12 +14111,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.2945
+    rank: 467
   typora:
     tier: flagship
     aur_votes: 164
     aur_popularity: 0.0116
-    brew_installs: 11887
+    brew_installs: 11894
     reach: 0.7061
+    rank: 42
   tyrogit-client:
     tier: unranked
     aur_votes: 0
@@ -13401,12 +14143,14 @@ scores:
     aur_popularity: 0.2408
     brew_installs: 90
     reach: 0.3394
+    rank: 403
   udeler-pro:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 803
   udeler:
     tier: unranked
     aur_votes: 0
@@ -13419,6 +14163,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 150
     reach: 0.3776
+    rank: 345
   ugonlinemusicplayer:
     tier: unranked
     aur_votes: 0
@@ -13429,8 +14174,9 @@ scores:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 3463
+    brew_installs: 3464
     reach: 0.6133
+    rank: 97
   uivonim:
     tier: unranked
     aur_votes: 0
@@ -13455,6 +14201,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 804
   unlimited-clipboard:
     tier: unranked
     aur_votes: 0
@@ -13476,15 +14223,17 @@ scores:
   unreallauncher:
     tier: minimal
     aur_votes: 1
-    aur_popularity: 1.0
+    aur_popularity: 0.8671
     brew_installs: 0
     reach: 0.0929
+    rank: 805
   unsplash-wallpapers:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0007
     brew_installs: 0
     reach: 0.0929
+    rank: 806
   up2share:
     tier: unranked
     aur_votes: 0
@@ -13507,8 +14256,9 @@ scores:
     tier: popular
     aur_votes: 2
     aur_popularity: 0.2844
-    brew_installs: 9174
-    reach: 0.6866
+    brew_installs: 9185
+    reach: 0.6867
+    rank: 50
   upupup:
     tier: unranked
     aur_votes: 0
@@ -13521,6 +14271,7 @@ scores:
     aur_popularity: 0.0029
     brew_installs: 0
     reach: 0.5675
+    rank: 127
   utilso:
     tier: unranked
     aur_votes: 0
@@ -13531,8 +14282,9 @@ scores:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0272
-    brew_installs: 1058
+    brew_installs: 1057
     reach: 0.5241
+    rank: 162
   uyou-todo:
     tier: unranked
     aur_votes: 0
@@ -13545,18 +14297,21 @@ scores:
     aur_popularity: 0.652
     brew_installs: 0
     reach: 0.0929
+    rank: 807
   vacuumtube:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.1566
     brew_installs: 0
     reach: 0.0929
+    rank: 808
   vagrant-manager:
     tier: established
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 2788
-    reach: 0.597
+    brew_installs: 2781
+    reach: 0.5968
+    rank: 115
   valhalla:
     tier: unranked
     aur_votes: 0
@@ -13599,12 +14354,14 @@ scores:
     aur_popularity: 0.0247
     brew_installs: 0
     reach: 0.0929
+    rank: 809
   via:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
     brew_installs: 1137
     reach: 0.5295
+    rank: 160
   vibeyard:
     tier: unranked
     aur_votes: 0
@@ -13623,6 +14380,7 @@ scores:
     aur_popularity: 0.3167
     brew_installs: 0
     reach: 0.1472
+    rank: 641
   video-chapter-injector:
     tier: unranked
     aur_votes: 0
@@ -13641,6 +14399,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 518
     reach: 0.4705
+    rank: 225
   vigad:
     tier: unranked
     aur_votes: 0
@@ -13653,6 +14412,7 @@ scores:
     aur_popularity: 0.089
     brew_installs: 0
     reach: 0.0929
+    rank: 810
   vimp:
     tier: unranked
     aur_votes: 0
@@ -13681,8 +14441,9 @@ scores:
     tier: flagship
     aur_votes: 1741
     aur_popularity: 29.1018
-    brew_installs: 492629
+    brew_installs: 492755
     reach: 1.0002
+    rank: 1
   vixie:
     tier: unranked
     aur_votes: 0
@@ -13722,15 +14483,17 @@ scores:
   void:
     tier: minimal
     aur_votes: 3
-    aur_popularity: 0.001
-    brew_installs: 669
-    reach: 0.4897
+    aur_popularity: 0.0009
+    brew_installs: 665
+    reach: 0.4892
+    rank: 203
   voiden:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.1796
     brew_installs: 196
     reach: 0.3976
+    rank: 308
   voipstudio:
     tier: unranked
     aur_votes: 0
@@ -13743,12 +14506,14 @@ scores:
     aur_popularity: 0.0888
     brew_installs: 0
     reach: 0.0929
+    rank: 811
   volta:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.7524
     brew_installs: 44
     reach: 0.2865
+    rank: 474
   voosweeper:
     tier: unranked
     aur_votes: 0
@@ -13770,9 +14535,10 @@ scores:
   vrcx-bin:
     tier: established
     aur_votes: 6
-    aur_popularity: 0.2521
+    aur_popularity: 0.2185
     brew_installs: 0
     reach: 0.2608
+    rank: 510
   vscode-bookmark:
     tier: unranked
     aur_votes: 0
@@ -13783,14 +14549,16 @@ scores:
     tier: popular
     aur_votes: 5
     aur_popularity: 0.7918
-    brew_installs: 39262
+    brew_installs: 39274
     reach: 0.796
+    rank: 22
   vscodius:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 812
   vudit:
     tier: unranked
     aur_votes: 0
@@ -13827,12 +14595,14 @@ scores:
     aur_popularity: 0.2095
     brew_installs: 0
     reach: 0.0929
+    rank: 813
   vysor:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0044
-    brew_installs: 1324
-    reach: 0.541
+    brew_installs: 1325
+    reach: 0.5411
+    rank: 153
   wai-chat:
     tier: unranked
     aur_votes: 0
@@ -13845,6 +14615,7 @@ scores:
     aur_popularity: 0
     brew_installs: 30
     reach: 0.2584
+    rank: 511
   waiterio-restaurant-pos:
     tier: unranked
     aur_votes: 0
@@ -13891,14 +14662,16 @@ scores:
     tier: popular
     aur_votes: 7
     aur_popularity: 0.7567
-    brew_installs: 12004
-    reach: 0.7068
+    brew_installs: 12008
+    reach: 0.7069
+    rank: 41
   wavy:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 814
   wayward:
     tier: unranked
     aur_votes: 0
@@ -13917,6 +14690,7 @@ scores:
     aur_popularity: 0.0005
     brew_installs: 22
     reach: 0.236
+    rank: 539
   web-toolbox:
     tier: unranked
     aur_votes: 0
@@ -13935,18 +14709,21 @@ scores:
     aur_popularity: 0.0
     brew_installs: 1499
     reach: 0.5503
+    rank: 140
   webcord:
     tier: popular
     aur_votes: 40
     aur_popularity: 1.8662
     brew_installs: 0
     reach: 0.4977
+    rank: 193
   webeep-sync:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0005
     brew_installs: 0
     reach: 0.0929
+    rank: 815
   webgal-terre:
     tier: unranked
     aur_votes: 0
@@ -13959,6 +14736,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 816
   webkiosk-wrapper:
     tier: unranked
     aur_votes: 0
@@ -13987,14 +14765,16 @@ scores:
     tier: flagship
     aur_votes: 86
     aur_popularity: 0.7234
-    brew_installs: 1712
+    brew_installs: 1714
     reach: 0.5986
+    rank: 112
   weektodo:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 25
     reach: 0.2452
+    rank: 519
   weighthub:
     tier: unranked
     aur_votes: 0
@@ -14007,6 +14787,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 817
   weltenschaft:
     tier: unranked
     aur_votes: 0
@@ -14031,12 +14812,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 60
     reach: 0.3093
+    rank: 448
   whalebird:
     tier: established
     aur_votes: 21
     aur_popularity: 0.0
     brew_installs: 98
     reach: 0.4143
+    rank: 281
   whatsapp:
     tier: unranked
     aur_votes: 0
@@ -14049,6 +14832,7 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 818
   whisperpix:
     tier: unranked
     aur_votes: 0
@@ -14073,6 +14857,7 @@ scores:
     aur_popularity: 0
     brew_installs: 194
     reach: 0.3968
+    rank: 309
   winds:
     tier: unranked
     aur_votes: 0
@@ -14085,6 +14870,7 @@ scores:
     aur_popularity: 0
     brew_installs: 82
     reach: 0.3325
+    rank: 414
   winkey:
     tier: unranked
     aur_votes: 0
@@ -14097,6 +14883,7 @@ scores:
     aur_popularity: 0.0002
     brew_installs: 327
     reach: 0.4466
+    rank: 250
   witnote:
     tier: unranked
     aur_votes: 0
@@ -14107,8 +14894,9 @@ scores:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 558
-    reach: 0.4761
+    brew_installs: 556
+    reach: 0.4758
+    rank: 217
   wizard-mirror:
     tier: unranked
     aur_votes: 0
@@ -14121,12 +14909,14 @@ scores:
     aur_popularity: 0.0001
     brew_installs: 42
     reach: 0.283
+    rank: 477
   wizread:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0001
     brew_installs: 0
     reach: 0.0929
+    rank: 819
   wj-markdown-editor:
     tier: unranked
     aur_votes: 0
@@ -14139,18 +14929,21 @@ scores:
     aur_popularity: 0.0005
     brew_installs: 0
     reach: 0.1472
+    rank: 642
   wolai:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 49
     reach: 0.2944
+    rank: 471
   wondershare-edrawmax:
     tier: established
     aur_votes: 10
     aur_popularity: 0.0
     brew_installs: 113
     reach: 0.3564
+    rank: 372
   woocommerce-pos:
     tier: unranked
     aur_votes: 0
@@ -14169,6 +14962,7 @@ scores:
     aur_popularity: 0.0003
     brew_installs: 0
     reach: 0.1472
+    rank: 643
   wordofthehour:
     tier: unranked
     aur_votes: 0
@@ -14187,6 +14981,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 370
     reach: 0.4452
+    rank: 253
   work-log-ify:
     tier: unranked
     aur_votes: 0
@@ -14199,6 +14994,7 @@ scores:
     aur_popularity: 0.0
     brew_installs: 917
     reach: 0.5134
+    rank: 175
   workpuls:
     tier: unranked
     aur_votes: 0
@@ -14223,12 +15019,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 820
   wp:
     tier: established
     aur_votes: 10
     aur_popularity: 0.0
     brew_installs: 217
     reach: 0.4052
+    rank: 299
   wpspaster:
     tier: unranked
     aur_votes: 0
@@ -14277,12 +15075,14 @@ scores:
     aur_popularity: 0.426
     brew_installs: 0
     reach: 0.0929
+    rank: 821
   xmind:
     tier: popular
     aur_votes: 54
     aur_popularity: 0.0019
-    brew_installs: 3500
+    brew_installs: 3501
     reach: 0.6141
+    rank: 95
   xresconv:
     tier: unranked
     aur_votes: 0
@@ -14295,12 +15095,14 @@ scores:
     aur_popularity: 0.0091
     brew_installs: 0
     reach: 0.1472
+    rank: 644
   xtool-creative-space:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0005
     brew_installs: 121
     reach: 0.3615
+    rank: 366
   xuanxuan:
     tier: unranked
     aur_votes: 0
@@ -14337,6 +15139,7 @@ scores:
     aur_popularity: 0.0103
     brew_installs: 0
     reach: 0.426
+    rank: 269
   yank-note:
     tier: unranked
     aur_votes: 0
@@ -14367,6 +15170,7 @@ scores:
     aur_popularity: 0.0891
     brew_installs: 1028
     reach: 0.522
+    rank: 165
   yesplaymusicosd-origin:
     tier: unranked
     aur_votes: 0
@@ -14394,9 +15198,10 @@ scores:
   ynote:
     tier: established
     aur_votes: 5
-    aur_popularity: 0.0415
-    brew_installs: 282
-    reach: 0.4248
+    aur_popularity: 0.036
+    brew_installs: 281
+    reach: 0.4246
+    rank: 273
   yoheim:
     tier: unranked
     aur_votes: 0
@@ -14413,8 +15218,9 @@ scores:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 295
-    reach: 0.4282
+    brew_installs: 298
+    reach: 0.429
+    rank: 264
   yout:
     tier: unranked
     aur_votes: 0
@@ -14433,24 +15239,28 @@ scores:
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.1858
+    rank: 586
   youtube-downloader:
     tier: established
     aur_votes: 0
     aur_popularity: 0.0
-    brew_installs: 5696
-    reach: 0.6508
+    brew_installs: 5692
+    reach: 0.6507
+    rank: 70
   youtube-music-desktop-app:
     tier: established
     aur_votes: 2
     aur_popularity: 0.4262
-    brew_installs: 3726
-    reach: 0.6188
+    brew_installs: 3719
+    reach: 0.6187
+    rank: 90
   youtube-music-for-desktop:
     tier: minimal
     aur_votes: 3
     aur_popularity: 0.2466
     brew_installs: 0
     reach: 0.1858
+    rank: 587
   youtube-smarttv-emu:
     tier: unranked
     aur_votes: 0
@@ -14493,6 +15303,7 @@ scores:
     aur_popularity: 0.0121
     brew_installs: 0
     reach: 0.1472
+    rank: 645
   ytm-dlp:
     tier: unranked
     aur_votes: 0
@@ -14503,8 +15314,9 @@ scores:
     tier: established
     aur_votes: 2
     aur_popularity: 0.4262
-    brew_installs: 3726
-    reach: 0.6188
+    brew_installs: 3719
+    reach: 0.6187
+    rank: 91
   yts-streaming:
     tier: unranked
     aur_votes: 0
@@ -14520,9 +15332,10 @@ scores:
   z-library:
     tier: minimal
     aur_votes: 2
-    aur_popularity: 0.1574
+    aur_popularity: 0.1365
     brew_installs: 0
     reach: 0.1472
+    rank: 646
   zasper:
     tier: unranked
     aur_votes: 0
@@ -14535,6 +15348,7 @@ scores:
     aur_popularity: 0.5668
     brew_installs: 0
     reach: 0.0929
+    rank: 822
   zefenify:
     tier: unranked
     aur_votes: 0
@@ -14565,6 +15379,7 @@ scores:
     aur_popularity: 0
     brew_installs: 259
     reach: 0.4184
+    rank: 277
   zerabase:
     tier: unranked
     aur_votes: 0
@@ -14581,14 +15396,16 @@ scores:
     tier: established
     aur_votes: 3
     aur_popularity: 0.0
-    brew_installs: 6097
-    reach: 0.6559
+    brew_installs: 6104
+    reach: 0.656
+    rank: 60
   zhiximind:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
     brew_installs: 0
     reach: 0.0929
+    rank: 823
   zima-linux-client:
     tier: unranked
     aur_votes: 0
@@ -14599,14 +15416,16 @@ scores:
     tier: minimal
     aur_votes: 1
     aur_popularity: 0.0
-    brew_installs: 105
-    reach: 0.3509
+    brew_installs: 106
+    reach: 0.3516
+    rank: 384
   zo:
     tier: minimal
     aur_votes: 0
     aur_popularity: 0
-    brew_installs: 91
-    reach: 0.3403
+    brew_installs: 92
+    reach: 0.3411
+    rank: 401
   zonote:
     tier: unranked
     aur_votes: 0
@@ -14625,12 +15444,14 @@ scores:
     aur_popularity: 0.0
     brew_installs: 62
     reach: 0.3118
+    rank: 445
   zulip:
     tier: established
     aur_votes: 5
     aur_popularity: 0.0002
-    brew_installs: 1038
-    reach: 0.5227
+    brew_installs: 1032
+    reach: 0.5223
+    rank: 163
   zxinfo-file-browser:
     tier: unranked
     aur_votes: 0
@@ -14643,9 +15464,11 @@ scores:
     aur_popularity: 0
     brew_installs: 77
     reach: 0.3278
+    rank: 418
   zyfun-git:
     tier: minimal
     aur_votes: 2
     aur_popularity: 0.0011
     brew_installs: 0
     reach: 0.1472
+    rank: 647

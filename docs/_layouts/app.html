@@ -1,48 +1,97 @@
 ---
 layout: default
 ---
-{% assign app = page.app %}
-{% assign s = page.score %}
-{% assign f = site.data.freshness[page.app_id] %}
+{%- comment -%}
+  Rendered once per record in data/apps/ by the jekyll-datapage_gen plugin
+  (see `page_gen` in _config.yml). The record itself arrives as `page.app`;
+  everything else is looked up by its id.
+{%- endcomment -%}
+{%- assign app = page.app -%}
+{%- assign app_id = app.id -%}
+{%- assign s = site.data.popularity.scores[app_id] -%}
+{%- assign f = site.data.freshness[app_id] -%}
+{%- assign tier_label = site.data.summary.tiers[s.tier].label | default: 'Unranked' -%}
 
-<h1>{{ app.name | default: page.app_id }}</h1>
+<div class="app-head">
+  <h1>{{ app.name | default: app_id }}</h1>
+</div>
 
 <p>
-  {% if s %}<strong>Tier:</strong> {{ s.tier }}{% endif %}
-  {% if f %}
-    · <span class="st st-{{ f.status }}">Electron {{ f.electron }}</span>
-    · {{ f.majors_behind }} major(s) behind (current: {{ f.major | plus: f.majors_behind }}){% if f.eol %} · end-of-life{% endif %}
-    {% if f.patches_behind > 0 %} · {{ f.patches_behind }} patch releases behind {{ f.latest_in_major }} in its line{% endif %}
-    {% if f.age_label %} · released {{ f.age_label }}{% endif %}
-  {% endif %}
+  {% if s.tier %}<a href="{{ s.tier | prepend: '/' | append: '/' | relative_url }}">{{ tier_label }}</a>{% else %}{{ tier_label }}{% endif %}{% if s.rank %} · #{{ s.rank }} most-used app tracked{% endif %}
+  {%- if f %} · <span class="st st-{{ f.status }}">Electron {{ f.electron }}</span>{% if f.chromium %} · Chromium {{ f.chromium }}{% endif %}{% endif %}
 </p>
 
-<table>
-  <tr><th>id</th><td>{{ page.app_id }}</td></tr>
+{% if f %}
+<div class="exposure">
+  {% if f.chromium_days_behind and f.chromium_days_behind > 0 %}
+  <p>
+    <span class="figure">{{ f.chromium_days_behind }}</span> days behind Chromium.
+  </p>
+  <p class="muted">
+    Stable Electron first shipped a Chromium newer than
+    {{ f.chromium_major }} that long ago. Every fix that landed only in Chromium
+    {{ f.chromium_major | plus: 1 }} or later — up to today's
+    {{ site.data.summary.current.chromium_major }} — is one this release cannot
+    receive as a patch.
+  </p>
+  {% else %}
+  <p><span class="figure">Current</span></p>
+  <p class="muted">
+    This app is on the newest Chromium major that stable Electron ships
+    ({{ f.chromium_major }}). Nothing newer exists to be behind.
+  </p>
+  {% endif %}
+</div>
+
+<table class="facts">
+  <tr><th>Electron</th><td>{{ f.electron }}{% if f.majors_behind > 0 %} — {{ f.majors_behind }} major{% if f.majors_behind > 1 %}s{% endif %} behind {{ site.data.summary.current.electron_major }}{% endif %}</td></tr>
+  <tr><th>Chromium</th><td>{{ f.chromium | default: '—' }}{% if f.chromium_majors_behind > 0 %} — {{ f.chromium_majors_behind }} majors behind {{ site.data.summary.current.chromium_major }}{% endif %}</td></tr>
+  <tr><th>Support</th><td>
+    {%- if f.eol -%}
+      <span class="st st-{{ f.status }}">end-of-life</span> — Electron {{ f.major }} no longer receives security fixes
+    {%- else -%}
+      <span class="st st-green">supported</span> — Electron {{ f.major }} still receives backported fixes
+    {%- endif -%}
+  </td></tr>
+  {% if f.cves_total %}
+  <tr><th>Open Chromium CVEs</th><td>
+    <span class="st st-red">{{ f.cves_critical }} critical</span>
+    <span class="st st-orange">{{ f.cves_high }} high</span>
+    <span class="muted">of {{ f.cves_total }} recorded against Chromium and fixed in a build newer than {{ f.chromium }}</span>
+  </td></tr>
+  {% endif %}
+  {% if f.patches_behind > 0 %}<tr><th>Within its line</th><td>{{ f.patches_behind }} newer patch release{% if f.patches_behind > 1 %}s{% endif %} available, up to {{ f.latest_in_major }}</td></tr>{% endif %}
+  {% if f.age_label %}<tr><th>That release</th><td>shipped {{ f.age_label }}</td></tr>{% endif %}
+  {% if app.method %}<tr><th>Detected via</th><td>{{ app.method }}</td></tr>{% endif %}
+</table>
+{% else %}
+<p class="muted">
+  No Electron version detected yet — this app has no public source lockfile and
+  its binaries haven't been fingerprinted. See
+  <a href="{{ '/about/' | relative_url }}">how detection works</a>.
+</p>
+{% endif %}
+
+<h2>About this app</h2>
+
+<table class="facts">
+  <tr><th>id</th><td><code>{{ app_id }}</code></td></tr>
   {% if app.website %}<tr><th>Website</th><td><a href="{{ app.website }}">{{ app.website }}</a></td></tr>{% endif %}
   {% if app.repository %}<tr><th>Repository</th><td><a href="{{ app.repository }}">{{ app.repository }}</a></td></tr>{% endif %}
-  {% if app.method %}<tr><th>Detection method</th><td>{{ app.method }}</td></tr>{% endif %}
   {% if app.latest %}<tr><th>Latest release</th><td>{{ app.latest }}</td></tr>{% endif %}
-  {% if app.homebrew %}<tr><th>Homebrew cask</th><td>{{ app.homebrew }}</td></tr>{% endif %}
-  {% if app.dead %}<tr><th>Status</th><td>dead</td></tr>{% endif %}
+  {% if app.homebrew %}<tr><th>Homebrew cask</th><td><a href="https://formulae.brew.sh/cask/{{ app.homebrew }}">{{ app.homebrew }}</a>{% if s.brew_installs > 0 %} — {{ s.brew_installs }} installs in 365d{% endif %}</td></tr>{% endif %}
+  {% if app.aur %}<tr><th>AUR</th><td>{% for p in app.aur %}<a href="https://aur.archlinux.org/packages/{{ p }}">{{ p }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% if s.aur_votes > 0 %} — {{ s.aur_votes }} votes{% endif %}</td></tr>{% endif %}
+  {% if app.additionalAUR %}<tr><th>AUR variants</th><td class="muted">{{ app.additionalAUR | join: ', ' }} <small>(folded, not counted separately)</small></td></tr>{% endif %}
+  {% if app.dead %}<tr><th>Status</th><td>marked dead — not processed</td></tr>{% endif %}
 </table>
-
-{% if app.aur %}
-<h2>AUR packages</h2>
-<ul>{% for p in app.aur %}<li>{{ p }}</li>{% endfor %}</ul>
-{% endif %}
-
-{% if app.additionalAUR %}
-<h2>AUR variants <small>(folded — not counted separately)</small></h2>
-<ul>{% for p in app.additionalAUR %}<li>{{ p }}</li>{% endfor %}</ul>
-{% endif %}
 
 {% if app.downloads %}
 <h2>Release downloads</h2>
 <ul>
-  {% for d in app.downloads %}
+  {% for d in app.downloads limit: 25 %}
   <li><a href="{{ d.url }}">{{ d.name | default: d.url }}</a>{% if d.version %} — {{ d.version }}{% endif %}</li>
   {% endfor %}
+  {% if app.downloads.size > 25 %}<li class="muted">…and {{ app.downloads.size | minus: 25 }} more</li>{% endif %}
 </ul>
 {% endif %}
 
@@ -50,12 +99,12 @@ layout: default
 <h2>Curated packages</h2>
 <ul>
   {% for p in app.packages %}
-  <li><a href="{{ p.url }}">{{ p.url }}</a> — {{ p.format }} / {{ p.os }}{% if p.arch %} / {{ p.arch }}{% endif %}</li>
+  <li><a href="{{ p.url }}">{{ p.format }} / {{ p.os }}{% if p.arch %} / {{ p.arch }}{% endif %}</a></li>
   {% endfor %}
 </ul>
 {% endif %}
 
 <details>
   <summary>Raw data</summary>
-  <pre>{{ app | jsonify }}</pre>
+  <pre><code class="json">{{ app | pretty_json | escape }}</code></pre>
 </details>

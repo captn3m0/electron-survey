@@ -3,3 +3,5 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.8"  # for `jekyll serve` on Ruby 3.x
 
+# Generates one page per record in _data (see `page_gen` in _config.yml).
+gem "jekyll-datapage-generator", "~> 1.4"

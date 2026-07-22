@@ -21,7 +21,10 @@ Output feeds the Jekyll site in ``docs/`` (``data/`` is symlinked to
 ``docs/_data``), so it stays plain, Liquid-friendly YAML:
 
     tiers:   {flagship: [id, ...], popular: [...], ...}   # each sorted by reach
-    scores:  {<id>: {tier, aur_votes, aur_popularity, brew_installs, reach}}
+    scores:  {<id>: {tier, aur_votes, aur_popularity, brew_installs, reach, rank}}
+
+``rank`` is a 1-based position across every app that carries a signal at all,
+ordered by ``reach`` — "the Nth most-used app we track".
 """
 
 import json
@@ -110,6 +113,15 @@ def popularity() -> None:
 
     for ids in tiers.values():
         ids.sort(key=lambda i: scores[i]["reach"], reverse=True)
+
+    # Overall "Nth most-used app we track", across every app with a signal.
+    ranked = sorted(
+        (i for i, s in scores.items() if s["reach"] > 0),
+        key=lambda i: scores[i]["reach"],
+        reverse=True,
+    )
+    for position, app_id in enumerate(ranked, start=1):
+        scores[app_id]["rank"] = position
 
     path = DATA_DIR / "popularity.yml"
     path.write_text(

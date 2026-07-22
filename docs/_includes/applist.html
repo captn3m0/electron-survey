@@ -1,22 +1,56 @@
-{% comment %} Renders a table for a list of app ids: include.ids {% endcomment %}
-<table>
-  <thead>
-    <tr><th>App</th><th>Electron</th><th>Patch delta</th><th>Age</th></tr>
-  </thead>
-  <tbody>
-  {% for id in include.ids %}
-    {% assign app = site.data.apps[id] %}
-    {% assign f = site.data.freshness[id] %}
-    <tr>
-      <td><a href="{{ id | prepend: '/apps/' | append: '.html' | relative_url }}">{{ app.name | default: id }}</a></td>
-      {% if f %}
-      <td><span class="st st-{{ f.status }}" title="{{ f.majors_behind }} major(s) behind{% if f.eol %} · end-of-life{% endif %}">{{ f.electron }}</span></td>
-      <td>{% if f.patches_behind > 0 %}+{{ f.patches_behind }} → {{ f.latest_in_major }}{% else %}—{% endif %}</td>
-      <td>{{ f.age_label | default: '—' }}</td>
-      {% else %}
-      <td>—</td><td>—</td><td>—</td>
-      {% endif %}
-    </tr>
-  {% endfor %}
-  </tbody>
-</table>
+{% comment %}
+  App listing table.
+
+    ids     – list of app ids to render (already ordered by the caller)
+    filter  – set to render the type-to-filter box (default: on)
+    rank    – set to show the overall popularity rank column
+
+  Sorting and filtering are enhanced by assets/js/table.js; every numeric cell
+  carries data-sort so it sorts as a number rather than as its label.
+{% endcomment %}
+{% assign show_filter = include.filter | default: true %}
+<div data-table>
+  {% if show_filter %}
+  <div class="tablebar">
+    <input type="search" placeholder="Filter {{ include.ids | size }} apps by name…" aria-label="Filter apps by name">
+    <span class="count"><span class="shown">{{ include.ids | size }}</span> shown</span>
+  </div>
+  {% endif %}
+  <div class="table-wrap">
+    <table class="data">
+      <thead>
+        <tr>
+          {% if include.rank %}<th class="num">#</th>{% endif %}
+          <th>App</th>
+          <th>Electron</th>
+          <th>Chromium</th>
+          <th class="num" title="Days since stable Electron shipped a newer Chromium major">Days behind</th>
+          <th class="num" title="Critical / high severity Chromium CVEs fixed in a build newer than the one this app ships">Open CVEs</th>
+          <th class="num" title="Newer patch releases available in the same Electron line">Patches</th>
+          <th class="num">Released</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for id in include.ids %}
+        {% assign app = site.data.apps[id] %}
+        {% assign f = site.data.freshness[id] %}
+        {% assign s = site.data.popularity.scores[id] %}
+        <tr>
+          {% if include.rank %}<td class="num rank" data-sort="{{ s.rank | default: 99999 }}">{{ s.rank | default: '—' }}</td>{% endif %}
+          <td class="app"><a href="{{ id | prepend: '/apps/' | append: '.html' | relative_url }}">{{ app.name | default: id }}</a></td>
+          {% if f %}
+          <td data-sort="{{ f.major }}"><span class="st st-{{ f.status }}" title="{{ f.majors_behind }} Electron major(s) behind{% if f.eol %} · end-of-life{% endif %}">{{ f.electron }}</span></td>
+          <td data-sort="{{ f.chromium_major | default: 0 }}">{% if f.chromium_major %}{{ f.chromium_major }}{% if f.chromium_majors_behind > 0 %} <span class="muted">−{{ f.chromium_majors_behind }}</span>{% endif %}{% else %}—{% endif %}</td>
+          <td class="num" data-sort="{{ f.chromium_days_behind | default: 0 }}">{% if f.chromium_days_behind %}{{ f.chromium_days_behind }}{% else %}0{% endif %}</td>
+          <td class="num" data-sort="{{ f.cves_critical | default: 0 }}">{% if f.cves_total %}<span title="{{ f.cves_critical }} critical, {{ f.cves_high }} high, {{ f.cves_total }} total"><strong>{{ f.cves_critical }}</strong><span class="muted"> / {{ f.cves_high }}</span></span>{% else %}—{% endif %}</td>
+          <td class="num" data-sort="{{ f.patches_behind | default: 0 }}">{% if f.patches_behind > 0 %}+{{ f.patches_behind }}{% else %}—{% endif %}</td>
+          <td class="num" data-sort="{{ f.age_days | default: 0 }}">{{ f.age_label | default: '—' }}</td>
+          {% else %}
+          <td colspan="6" class="muted">not detected yet</td>
+          {% endif %}
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

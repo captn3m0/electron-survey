@@ -1,0 +1,19 @@
+{% comment %}
+  Stacked green/orange/red proportion bar for a summary bucket.
+
+    stat  – a bucket from data/summary.yml (tiers.<name>, main, or overall)
+    key   – set to render the "N supported · N recently EOL · N old" caption
+{% endcomment %}
+<div class="bar" role="img" aria-label="{{ include.stat.green }} supported, {{ include.stat.orange }} recently end-of-life, {{ include.stat.red }} long end-of-life">
+  <span class="g" style="width: {{ include.stat.green_pct }}%"></span>
+  <span class="o" style="width: {{ include.stat.orange_pct }}%"></span>
+  <span class="r" style="width: {{ include.stat.red_pct }}%"></span>
+</div>
+{% if include.key %}
+<div class="bar-key">
+  <span><span class="st st-green">{{ include.stat.green }}</span> supported</span>
+  <span><span class="st st-orange">{{ include.stat.orange }}</span> recently EOL</span>
+  <span><span class="st st-red">{{ include.stat.red }}</span> long EOL</span>
+  <span>median <strong>{{ include.stat.median_days_behind }}</strong> days behind Chromium</span>
+</div>
+{% endif %}

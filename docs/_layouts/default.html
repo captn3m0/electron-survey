@@ -3,28 +3,72 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- assign page_title = page.title | default: site.title -%}
+  {%- assign page_desc = page.description | default: site.description -%}
+  {%- comment -%}
+    App pages come from jekyll-datapage-generator, which carries no description
+    of its own, so build a specific one from the app's own numbers.
+  {%- endcomment -%}
+  {%- if page.app -%}
+    {%- assign af = site.data.freshness[page.app.id] -%}
+    {%- assign app_name = page.app.name | default: page.app.id -%}
+    {%- if af and af.chromium_days_behind > 0 -%}
+      {%- capture page_desc -%}
+        {{ app_name }} ships Electron {{ af.electron }} — Chromium {{ af.chromium_major }},
+        {{ af.chromium_days_behind }} days behind, with {{ af.cves_critical }} critical
+        and {{ af.cves_high }} high-severity Chromium CVEs still unpatched.
+      {%- endcapture -%}
+    {%- elsif af -%}
+      {%- capture page_desc -%}
+        {{ app_name }} ships Electron {{ af.electron }}, on the newest Chromium major
+        stable Electron offers.
+      {%- endcapture -%}
+    {%- else -%}
+      {%- capture page_desc -%}No Electron version detected yet for {{ app_name }}.{%- endcapture -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- assign page_desc = page_desc | strip_html | normalize_whitespace | strip | truncate: 300 -%}
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page_desc }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ page_desc }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="{{ '/assets/css/sakura.css' | relative_url }}">
-  <style>
-    table { font-size: .95rem; }
-    .st { display: inline-block; padding: 0 .35em; border-radius: .25em; font-weight: 600; white-space: nowrap; }
-    .st-green  { background: #d6f5df; color: #12692b; }
-    .st-orange { background: #ffe8c7; color: #8a4b00; }
-    .st-red    { background: #ffd9d9; color: #8a0000; }
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>&#9889;</text></svg>">
+  <script src="{{ '/assets/js/table.js' | relative_url }}" defer></script>
 </head>
-<body>
-  <nav>
-    <a href="{{ '/' | relative_url }}">Home</a> ·
-    <a href="{{ '/flagship/' | relative_url }}">Flagship</a> ·
-    <a href="{{ '/popular/' | relative_url }}">Popular</a> ·
-    <a href="{{ '/established/' | relative_url }}">Established</a> ·
-    <a href="{{ '/minimal/' | relative_url }}">Minimal</a> ·
-    <a href="{{ '/unranked/' | relative_url }}">Unranked</a>
-  </nav>
+<body{% if page.wide %} class="wide"{% endif %}>
+  <header class="masthead">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav>
+      {%- for tier in site.data.summary.main_tiers -%}
+        {%- assign tier_url = tier | prepend: '/' | append: '/' | relative_url %}
+        <a href="{{ tier_url }}"{% if page.tier == tier %} aria-current="page"{% endif %}>{{ site.data.summary.tiers[tier].label }}</a>
+      {%- endfor -%}
+      {%- assign nav_minor = "minimal,unranked" | split: "," -%}
+      {%- for tier in nav_minor -%}
+        {%- assign tier_url = tier | prepend: '/' | append: '/' | relative_url %}
+        <a class="minor" href="{{ tier_url }}"{% if page.tier == tier %} aria-current="page"{% endif %}>{{ site.data.summary.tiers[tier].label }}</a>
+      {%- endfor %}
+      <a class="minor" href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>Method</a>
+    </nav>
+  </header>
   <hr>
+
   {{ content }}
+
   <hr>
-  <footer><small>{{ site.description }} — generated from <code>data/</code>.</small></footer>
+  <footer>
+    {{ site.description }} Rebuilt daily from
+    <a href="{{ site.repository }}">{{ site.repository | remove: 'https://github.com/' }}</a>;
+    data generated {{ site.data.summary.generated }} against Electron
+    {{ site.data.summary.current.electron_major }} / Chromium
+    {{ site.data.summary.current.chromium_major }}.
+  </footer>
 </body>
 </html>

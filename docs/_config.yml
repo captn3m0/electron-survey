@@ -1,12 +1,40 @@
 title: Electron Survey
 description: How far behind Chromium are the Electron apps you use?
+repository: https://github.com/captn3m0/electron-survey
+
+# Project-pages defaults. The deploy workflow passes the real base path from
+# actions/configure-pages, so a custom domain would just work without editing
+# these; they exist so a local build matches production.
+url: https://captn3m0.github.io
+baseurl: /electron-survey
 
 # data/ is symlinked to _data, so every per-app YAML is available as
-# site.data.apps.<id> and the computed tiers as site.data.popularity.
-# A local `_plugins/app_pages.rb` generates one page per app, so this site
-# must be built with `bundle exec jekyll build` (not GitHub Pages safe mode).
+# site.data.apps.<id>, the computed tiers as site.data.popularity, staleness as
+# site.data.freshness, unpatched Chromium CVEs as site.data.cves and the
+# rolled-up headline figures as site.data.summary. Following that symlink needs
+# a normal `bundle exec jekyll build`, not GitHub Pages' safe mode.
+
+plugins:
+  - jekyll-datapage-generator
+
+# One page per app record: data/apps/<id>.yml -> /apps/<id>.html, rendered with
+# _layouts/app.html and reachable in Liquid as `page.app`.
+page_gen:
+  - data: apps
+    template: app
+    dir: apps
+    name: id
+    title: name
+    page_data_prefix: app
+
+# Every app page is generated; nothing here is a blog.
+future: false
+
+sass:
+  style: compressed
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - .bundle

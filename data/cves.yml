@@ -1,0 +1,9743 @@
+generated: '2026-07-22'
+source: NVD CVE API 2.0, cpe:2.3:a:google:chrome
+total_cves: 5452
+scored_cves: 5425
+unscored_cves: 0
+by_chromium_major:
+  39: &id001
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  40: &id002
+    critical: 278
+    high: 2312
+    medium: 1717
+    low: 61
+    total: 4368
+  41: &id003
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  42: &id004
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  43: &id005
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  44: &id006
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  45: &id007
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  47: &id008
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  49: &id009
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  50: &id010
+    critical: 264
+    high: 2191
+    medium: 1634
+    low: 61
+    total: 4150
+  51: &id011
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  52: &id012
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  53: &id013
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  54: &id014
+    critical: 255
+    high: 2122
+    medium: 1576
+    low: 60
+    total: 4013
+  56: &id015
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  58: &id016
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  59: &id017
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  61: &id018
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  66: &id019
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  69: &id020
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  73: &id021
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  76: &id022
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  78: &id023
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  80: &id024
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  83: &id025
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  85: &id026
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  87: &id027
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  89: &id028
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  91: &id029
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  93: &id030
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  94: &id031
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  96: &id032
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  98: &id033
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  100: &id034
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  102: &id035
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  104: &id036
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  106: &id037
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  108: &id038
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  110: &id039
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  112: &id040
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  114: &id041
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  116: &id042
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  118: &id043
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  120: &id044
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  122: &id045
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  124: &id046
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  126: &id047
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  128: &id048
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  130: &id049
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  132: &id050
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  134: &id051
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  136: &id052
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  138: &id053
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  140: &id054
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  142: &id055
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  144: &id056
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  146: &id057
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  148: &id058
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  150: &id059
+    critical: 0
+    high: 0
+    medium: 0
+    low: 0
+    total: 0
+by_chromium:
+  39.0.2171.65: *id001
+  40.0.2214.91: *id002
+  41.0.2272.76: *id003
+  42.0.2311.107: *id004
+  43.0.2357.65: *id005
+  44.0.2403.125: *id006
+  45.0.2454.85: *id007
+  47.0.2526.73:
+    critical: 276
+    high: 2232
+    medium: 1654
+    low: 61
+    total: 4223
+  47.0.2526.110: *id008
+  49.0.2623.75: *id009
+  50.0.2661.102: *id010
+  51.0.2704.63:
+    critical: 264
+    high: 2176
+    medium: 1624
+    low: 61
+    total: 4125
+  51.0.2704.84:
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  51.0.2704.103:
+    critical: 264
+    high: 2170
+    medium: 1621
+    low: 61
+    total: 4116
+  51.0.2704.106: *id011
+  52.0.2743.82: *id012
+  53.0.2785.113:
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  53.0.2785.143: *id013
+  54.0.2840.51:
+    critical: 257
+    high: 2133
+    medium: 1596
+    low: 60
+    total: 4046
+  54.0.2840.101: *id014
+  56.0.2924.87: *id015
+  58.0.3029.110: *id016
+  59.0.3071.115: *id017
+  61.0.3163.100: *id018
+  66.0.3359.181: *id019
+  69.0.3497.106:
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  69.0.3497.128: *id020
+  73.0.3683.119:
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  73.0.3683.121: *id021
+  76.0.3809.88:
+    critical: 242
+    high: 1894
+    medium: 1302
+    low: 58
+    total: 3496
+  76.0.3809.102:
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  76.0.3809.110:
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  76.0.3809.126:
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  76.0.3809.131:
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  76.0.3809.136:
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  76.0.3809.138:
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  76.0.3809.139:
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  76.0.3809.146: *id022
+  78.0.3904.92:
+    critical: 240
+    high: 1868
+    medium: 1255
+    low: 57
+    total: 3420
+  78.0.3904.94:
+    critical: 240
+    high: 1868
+    medium: 1255
+    low: 57
+    total: 3420
+  78.0.3904.99:
+    critical: 240
+    high: 1868
+    medium: 1255
+    low: 57
+    total: 3420
+  78.0.3904.113:
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  78.0.3904.126:
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  78.0.3904.130:
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  78.0.3905.1: *id023
+  80.0.3987.86:
+    critical: 240
+    high: 1848
+    medium: 1231
+    low: 56
+    total: 3375
+  80.0.3987.134:
+    critical: 240
+    high: 1823
+    medium: 1212
+    low: 56
+    total: 3331
+  80.0.3987.137:
+    critical: 240
+    high: 1823
+    medium: 1212
+    low: 56
+    total: 3331
+  80.0.3987.141:
+    critical: 240
+    high: 1823
+    medium: 1212
+    low: 56
+    total: 3331
+  80.0.3987.158:
+    critical: 240
+    high: 1817
+    medium: 1210
+    low: 56
+    total: 3323
+  80.0.3987.163:
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  80.0.3987.165: *id024
+  83.0.4103.64:
+    critical: 233
+    high: 1793
+    medium: 1177
+    low: 56
+    total: 3259
+  83.0.4103.94:
+    critical: 233
+    high: 1793
+    medium: 1175
+    low: 56
+    total: 3257
+  83.0.4103.100:
+    critical: 231
+    high: 1792
+    medium: 1173
+    low: 56
+    total: 3252
+  83.0.4103.104:
+    critical: 231
+    high: 1792
+    medium: 1173
+    low: 56
+    total: 3252
+  83.0.4103.119:
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  83.0.4103.122: *id025
+  85.0.4183.84:
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  85.0.4183.86:
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  85.0.4183.87:
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  85.0.4183.93:
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  85.0.4183.98:
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  85.0.4183.121: *id026
+  87.0.4280.60:
+    critical: 219
+    high: 1718
+    medium: 1131
+    low: 56
+    total: 3124
+  87.0.4280.67:
+    critical: 214
+    high: 1707
+    medium: 1123
+    low: 56
+    total: 3100
+  87.0.4280.88:
+    critical: 214
+    high: 1703
+    medium: 1121
+    low: 56
+    total: 3094
+  87.0.4280.141: *id027
+  89.0.4389.69:
+    critical: 198
+    high: 1679
+    medium: 1107
+    low: 56
+    total: 3040
+  89.0.4389.82:
+    critical: 198
+    high: 1665
+    medium: 1088
+    low: 56
+    total: 3007
+  89.0.4389.90:
+    critical: 198
+    high: 1662
+    medium: 1088
+    low: 56
+    total: 3004
+  89.0.4389.114:
+    critical: 198
+    high: 1656
+    medium: 1088
+    low: 56
+    total: 2998
+  89.0.4389.128: *id028
+  91.0.4472.69:
+    critical: 195
+    high: 1625
+    medium: 1072
+    low: 56
+    total: 2948
+  91.0.4472.77:
+    critical: 195
+    high: 1609
+    medium: 1063
+    low: 56
+    total: 2923
+  91.0.4472.106:
+    critical: 195
+    high: 1599
+    medium: 1063
+    low: 56
+    total: 2913
+  91.0.4472.124:
+    critical: 195
+    high: 1595
+    medium: 1063
+    low: 56
+    total: 2909
+  91.0.4472.164: *id029
+  93.0.4577.58:
+    critical: 194
+    high: 1558
+    medium: 1054
+    low: 56
+    total: 2862
+  93.0.4577.63:
+    critical: 194
+    high: 1558
+    medium: 1054
+    low: 56
+    total: 2862
+  93.0.4577.82: *id030
+  94.0.4606.51:
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  94.0.4606.61:
+    critical: 192
+    high: 1542
+    medium: 1046
+    low: 55
+    total: 2835
+  94.0.4606.71:
+    critical: 192
+    high: 1540
+    medium: 1045
+    low: 55
+    total: 2832
+  94.0.4606.81: *id031
+  96.0.4664.45:
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  96.0.4664.55:
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  96.0.4664.110:
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  96.0.4664.174: *id032
+  98.0.4758.74:
+    critical: 186
+    high: 1463
+    medium: 1009
+    low: 55
+    total: 2713
+  98.0.4758.82:
+    critical: 184
+    high: 1449
+    medium: 1005
+    low: 55
+    total: 2693
+  98.0.4758.102:
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  98.0.4758.109:
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  98.0.4758.141: *id033
+  100.0.4896.56:
+    critical: 181
+    high: 1418
+    medium: 997
+    low: 54
+    total: 2650
+  100.0.4896.60:
+    critical: 181
+    high: 1405
+    medium: 990
+    low: 54
+    total: 2630
+  100.0.4896.75:
+    critical: 181
+    high: 1404
+    medium: 989
+    low: 54
+    total: 2628
+  100.0.4896.127:
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  100.0.4896.143:
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  100.0.4896.160: *id034
+  102.0.5005.61:
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  102.0.5005.63:
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  102.0.5005.115:
+    critical: 176
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2551
+  102.0.5005.134:
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  102.0.5005.148:
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  102.0.5005.167: *id035
+  104.0.5112.65:
+    critical: 175
+    high: 1339
+    medium: 961
+    low: 54
+    total: 2529
+  104.0.5112.81:
+    critical: 175
+    high: 1323
+    medium: 952
+    low: 54
+    total: 2504
+  104.0.5112.102:
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  104.0.5112.114:
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  104.0.5112.124: *id036
+  106.0.5249.51:
+    critical: 174
+    high: 1292
+    medium: 940
+    low: 54
+    total: 2460
+  106.0.5249.61:
+    critical: 174
+    high: 1292
+    medium: 940
+    low: 54
+    total: 2460
+  106.0.5249.91:
+    critical: 174
+    high: 1284
+    medium: 928
+    low: 54
+    total: 2440
+  106.0.5249.103:
+    critical: 174
+    high: 1284
+    medium: 928
+    low: 54
+    total: 2440
+  106.0.5249.119:
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  106.0.5249.165:
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  106.0.5249.168:
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  106.0.5249.181:
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  106.0.5249.199: *id037
+  108.0.5359.62:
+    critical: 172
+    high: 1264
+    medium: 922
+    low: 54
+    total: 2412
+  108.0.5359.125:
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  108.0.5359.179:
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  108.0.5359.215: *id038
+  110.0.5481.77:
+    critical: 172
+    high: 1225
+    medium: 901
+    low: 54
+    total: 2352
+  110.0.5481.100:
+    critical: 172
+    high: 1225
+    medium: 901
+    low: 54
+    total: 2352
+  110.0.5481.104:
+    critical: 172
+    high: 1225
+    medium: 901
+    low: 54
+    total: 2352
+  110.0.5481.177:
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  110.0.5481.179:
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  110.0.5481.192:
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  110.0.5481.208: *id039
+  112.0.5615.49:
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  112.0.5615.50:
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  112.0.5615.87:
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  112.0.5615.165:
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  112.0.5615.183:
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  112.0.5615.204: *id040
+  114.0.5735.45:
+    critical: 170
+    high: 1180
+    medium: 867
+    low: 54
+    total: 2271
+  114.0.5735.106:
+    critical: 170
+    high: 1170
+    medium: 861
+    low: 54
+    total: 2255
+  114.0.5735.134:
+    critical: 170
+    high: 1165
+    medium: 861
+    low: 54
+    total: 2250
+  114.0.5735.199:
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  114.0.5735.243:
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  114.0.5735.248:
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  114.0.5735.289: *id041
+  116.0.5845.82:
+    critical: 169
+    high: 1145
+    medium: 853
+    low: 54
+    total: 2221
+  116.0.5845.97:
+    critical: 169
+    high: 1131
+    medium: 845
+    low: 54
+    total: 2199
+  116.0.5845.179:
+    critical: 169
+    high: 1122
+    medium: 844
+    low: 54
+    total: 2189
+  116.0.5845.188:
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  116.0.5845.190:
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  116.0.5845.228: *id042
+  118.0.5993.54:
+    critical: 168
+    high: 1115
+    medium: 834
+    low: 54
+    total: 2171
+  118.0.5993.89:
+    critical: 168
+    high: 1112
+    medium: 823
+    low: 54
+    total: 2157
+  118.0.5993.120:
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  118.0.5993.129:
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  118.0.5993.144:
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  118.0.5993.159: *id043
+  120.0.6099.56:
+    critical: 167
+    high: 1095
+    medium: 814
+    low: 54
+    total: 2130
+  120.0.6099.109:
+    critical: 167
+    high: 1085
+    medium: 811
+    low: 54
+    total: 2117
+  120.0.6099.199:
+    critical: 167
+    high: 1080
+    medium: 811
+    low: 54
+    total: 2112
+  120.0.6099.216:
+    critical: 167
+    high: 1080
+    medium: 810
+    low: 54
+    total: 2111
+  120.0.6099.227:
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  120.0.6099.268:
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  120.0.6099.276:
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  120.0.6099.283:
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  120.0.6099.291: *id044
+  122.0.6261.39:
+    critical: 164
+    high: 1066
+    medium: 804
+    low: 54
+    total: 2088
+  122.0.6261.57:
+    critical: 164
+    high: 1059
+    medium: 800
+    low: 54
+    total: 2077
+  122.0.6261.70:
+    critical: 164
+    high: 1059
+    medium: 800
+    low: 54
+    total: 2077
+  122.0.6261.111:
+    critical: 164
+    high: 1054
+    medium: 800
+    low: 54
+    total: 2072
+  122.0.6261.112:
+    critical: 164
+    high: 1054
+    medium: 800
+    low: 54
+    total: 2072
+  122.0.6261.129:
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  122.0.6261.130:
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  122.0.6261.139:
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  122.0.6261.156: *id045
+  124.0.6367.49:
+    critical: 163
+    high: 1044
+    medium: 792
+    low: 54
+    total: 2053
+  124.0.6367.60:
+    critical: 163
+    high: 1039
+    medium: 780
+    low: 54
+    total: 2036
+  124.0.6367.91:
+    critical: 163
+    high: 1037
+    medium: 778
+    low: 54
+    total: 2032
+  124.0.6367.119:
+    critical: 163
+    high: 1035
+    medium: 778
+    low: 54
+    total: 2030
+  124.0.6367.201:
+    critical: 161
+    high: 1035
+    medium: 777
+    low: 54
+    total: 2027
+  124.0.6367.207:
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  124.0.6367.221:
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  124.0.6367.230:
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  124.0.6367.233:
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  124.0.6367.243: *id046
+  126.0.6478.36:
+    critical: 159
+    high: 1023
+    medium: 774
+    low: 54
+    total: 2010
+  126.0.6478.61:
+    critical: 158
+    high: 1008
+    medium: 771
+    low: 54
+    total: 1991
+  126.0.6478.114:
+    critical: 158
+    high: 1004
+    medium: 771
+    low: 54
+    total: 1987
+  126.0.6478.127:
+    critical: 158
+    high: 999
+    medium: 771
+    low: 54
+    total: 1982
+  126.0.6478.183:
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  126.0.6478.185:
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  126.0.6478.234: *id047
+  128.0.6613.36:
+    critical: 157
+    high: 974
+    medium: 764
+    low: 53
+    total: 1948
+  128.0.6613.84:
+    critical: 156
+    high: 962
+    medium: 756
+    low: 53
+    total: 1927
+  128.0.6613.120:
+    critical: 156
+    high: 957
+    medium: 756
+    low: 53
+    total: 1922
+  128.0.6613.137:
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  128.0.6613.162:
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  128.0.6613.178:
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  128.0.6613.186: *id048
+  130.0.6723.44:
+    critical: 155
+    high: 944
+    medium: 751
+    low: 53
+    total: 1903
+  130.0.6723.59:
+    critical: 155
+    high: 936
+    medium: 746
+    low: 53
+    total: 1890
+  130.0.6723.91:
+    critical: 155
+    high: 933
+    medium: 746
+    low: 53
+    total: 1887
+  130.0.6723.118:
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  130.0.6723.137:
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  130.0.6723.152:
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  130.0.6723.170:
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  130.0.6723.191: *id049
+  132.0.6834.83:
+    critical: 155
+    high: 910
+    medium: 734
+    low: 53
+    total: 1852
+  132.0.6834.159:
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  132.0.6834.194:
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  132.0.6834.196:
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  132.0.6834.210: *id050
+  134.0.6998.44:
+    critical: 155
+    high: 897
+    medium: 724
+    low: 53
+    total: 1829
+  134.0.6998.88:
+    critical: 155
+    high: 893
+    medium: 724
+    low: 53
+    total: 1825
+  134.0.6998.165:
+    critical: 155
+    high: 892
+    medium: 724
+    low: 53
+    total: 1824
+  134.0.6998.178:
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  134.0.6998.179:
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  134.0.6998.205: *id051
+  136.0.7103.48:
+    critical: 155
+    high: 885
+    medium: 719
+    low: 53
+    total: 1812
+  136.0.7103.49:
+    critical: 155
+    high: 885
+    medium: 719
+    low: 53
+    total: 1812
+  136.0.7103.93:
+    critical: 154
+    high: 882
+    medium: 716
+    low: 53
+    total: 1805
+  136.0.7103.113:
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  136.0.7103.115:
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  136.0.7103.149:
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  136.0.7103.168:
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  136.0.7103.177: *id052
+  138.0.7204.35:
+    critical: 153
+    high: 874
+    medium: 709
+    low: 53
+    total: 1789
+  138.0.7204.97:
+    critical: 153
+    high: 873
+    medium: 706
+    low: 53
+    total: 1785
+  138.0.7204.100:
+    critical: 153
+    high: 873
+    medium: 706
+    low: 53
+    total: 1785
+  138.0.7204.157:
+    critical: 153
+    high: 870
+    medium: 706
+    low: 53
+    total: 1782
+  138.0.7204.168:
+    critical: 153
+    high: 868
+    medium: 706
+    low: 53
+    total: 1780
+  138.0.7204.185:
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  138.0.7204.224:
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  138.0.7204.235:
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  138.0.7204.243:
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  138.0.7204.251: *id053
+  140.0.7339.41:
+    critical: 153
+    high: 859
+    medium: 698
+    low: 53
+    total: 1763
+  140.0.7339.80:
+    critical: 153
+    high: 857
+    medium: 689
+    low: 53
+    total: 1752
+  140.0.7339.133:
+    critical: 153
+    high: 855
+    medium: 689
+    low: 53
+    total: 1750
+  140.0.7339.240:
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  140.0.7339.249: *id054
+  142.0.7444.52:
+    critical: 151
+    high: 843
+    medium: 682
+    low: 52
+    total: 1728
+  142.0.7444.59:
+    critical: 151
+    high: 837
+    medium: 669
+    low: 52
+    total: 1709
+  142.0.7444.134:
+    critical: 151
+    high: 830
+    medium: 669
+    low: 52
+    total: 1702
+  142.0.7444.162:
+    critical: 151
+    high: 827
+    medium: 667
+    low: 52
+    total: 1697
+  142.0.7444.175:
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  142.0.7444.177:
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  142.0.7444.226:
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  142.0.7444.235:
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  142.0.7444.265: *id055
+  144.0.7559.60:
+    critical: 148
+    high: 810
+    medium: 657
+    low: 51
+    total: 1666
+  144.0.7559.96:
+    critical: 148
+    high: 810
+    medium: 657
+    low: 51
+    total: 1666
+  144.0.7559.111:
+    critical: 148
+    high: 809
+    medium: 656
+    low: 51
+    total: 1664
+  144.0.7559.134:
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  144.0.7559.173:
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  144.0.7559.177:
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  144.0.7559.220:
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  144.0.7559.225:
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  144.0.7559.236: *id056
+  146.0.7680.65:
+    critical: 145
+    high: 790
+    medium: 649
+    low: 51
+    total: 1635
+  146.0.7680.72:
+    critical: 144
+    high: 775
+    medium: 637
+    low: 50
+    total: 1606
+  146.0.7680.80:
+    critical: 144
+    high: 773
+    medium: 637
+    low: 50
+    total: 1604
+  146.0.7680.153:
+    critical: 144
+    high: 748
+    medium: 636
+    low: 50
+    total: 1578
+  146.0.7680.166:
+    critical: 144
+    high: 740
+    medium: 636
+    low: 50
+    total: 1570
+  146.0.7680.179:
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  146.0.7680.188:
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  146.0.7680.216: *id057
+  148.0.7778.96:
+    critical: 133
+    high: 590
+    medium: 544
+    low: 34
+    total: 1301
+  148.0.7778.97:
+    critical: 133
+    high: 590
+    medium: 544
+    low: 34
+    total: 1301
+  148.0.7778.180:
+    critical: 131
+    high: 538
+    medium: 513
+    low: 26
+    total: 1208
+  148.0.7778.218:
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  148.0.7778.254:
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  148.0.7778.265:
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  148.0.7778.271:
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  148.0.7778.280: *id058
+  150.0.7871.46:
+    critical: 37
+    high: 103
+    medium: 199
+    low: 9
+    total: 348
+  150.0.7871.47:
+    critical: 2
+    high: 26
+    medium: 13
+    low: 1
+    total: 42
+  150.0.7871.114:
+    critical: 2
+    high: 26
+    medium: 13
+    low: 1
+    total: 42
+  150.0.7871.129: *id059
+by_electron:
+  0.20.0:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.1:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.2:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.3:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.4:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.5:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.6:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.7:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.20.8:
+    chromium: 39.0.2171.65
+    critical: 279
+    high: 2331
+    medium: 1733
+    low: 61
+    total: 4404
+  0.21.0:
+    chromium: 40.0.2214.91
+    critical: 278
+    high: 2312
+    medium: 1717
+    low: 61
+    total: 4368
+  0.21.1:
+    chromium: 40.0.2214.91
+    critical: 278
+    high: 2312
+    medium: 1717
+    low: 61
+    total: 4368
+  0.21.2:
+    chromium: 40.0.2214.91
+    critical: 278
+    high: 2312
+    medium: 1717
+    low: 61
+    total: 4368
+  0.21.3:
+    chromium: 41.0.2272.76
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  0.22.1:
+    chromium: 41.0.2272.76
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  0.22.2:
+    chromium: 41.0.2272.76
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  0.22.3:
+    chromium: 41.0.2272.76
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  0.23.0:
+    chromium: 41.0.2272.76
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  0.24.0:
+    chromium: 41.0.2272.76
+    critical: 278
+    high: 2293
+    medium: 1706
+    low: 61
+    total: 4338
+  0.25.0:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.25.1:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.25.2:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.25.3:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.26.0:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.26.1:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.27.0:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.27.1:
+    chromium: 42.0.2311.107
+    critical: 278
+    high: 2284
+    medium: 1696
+    low: 61
+    total: 4319
+  0.27.2:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.27.3:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.28.0:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.28.1:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.28.2:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.28.3:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.29.1:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.29.2:
+    chromium: 43.0.2357.65
+    critical: 278
+    high: 2274
+    medium: 1690
+    low: 61
+    total: 4303
+  0.30.4:
+    chromium: 44.0.2403.125
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.31.0:
+    chromium: 44.0.2403.125
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.31.2:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.32.2:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.32.3:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.0:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.1:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.2:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.3:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.4:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.6:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.7:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.8:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.33.9:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.34.0:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.34.1:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.34.2:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.34.3:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.34.4:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.35.1:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.35.2:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.35.3:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.35.4:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.35.5:
+    chromium: 45.0.2454.85
+    critical: 277
+    high: 2259
+    medium: 1665
+    low: 61
+    total: 4262
+  0.36.0:
+    chromium: 47.0.2526.73
+    critical: 276
+    high: 2232
+    medium: 1654
+    low: 61
+    total: 4223
+  0.36.2:
+    chromium: 47.0.2526.73
+    critical: 276
+    high: 2232
+    medium: 1654
+    low: 61
+    total: 4223
+  0.36.3:
+    chromium: 47.0.2526.73
+    critical: 276
+    high: 2232
+    medium: 1654
+    low: 61
+    total: 4223
+  0.36.4:
+    chromium: 47.0.2526.73
+    critical: 276
+    high: 2232
+    medium: 1654
+    low: 61
+    total: 4223
+  0.36.5:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.6:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.7:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.8:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.9:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.10:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.11:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.36.12:
+    chromium: 47.0.2526.110
+    critical: 275
+    high: 2222
+    medium: 1648
+    low: 61
+    total: 4206
+  0.37.0:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.1:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.3:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.4:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.5:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.6:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.7:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  0.37.8:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  1.0.0:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  1.0.1:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  1.0.2:
+    chromium: 49.0.2623.75
+    critical: 267
+    high: 2212
+    medium: 1641
+    low: 61
+    total: 4181
+  1.1.0:
+    chromium: 50.0.2661.102
+    critical: 264
+    high: 2191
+    medium: 1634
+    low: 61
+    total: 4150
+  1.1.1:
+    chromium: 50.0.2661.102
+    critical: 264
+    high: 2191
+    medium: 1634
+    low: 61
+    total: 4150
+  1.1.2:
+    chromium: 50.0.2661.102
+    critical: 264
+    high: 2191
+    medium: 1634
+    low: 61
+    total: 4150
+  1.1.3:
+    chromium: 50.0.2661.102
+    critical: 264
+    high: 2191
+    medium: 1634
+    low: 61
+    total: 4150
+  1.2.0:
+    chromium: 51.0.2704.63
+    critical: 264
+    high: 2176
+    medium: 1624
+    low: 61
+    total: 4125
+  1.2.1:
+    chromium: 51.0.2704.63
+    critical: 264
+    high: 2176
+    medium: 1624
+    low: 61
+    total: 4125
+  1.2.2:
+    chromium: 51.0.2704.84
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  1.2.3:
+    chromium: 51.0.2704.84
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  1.2.4:
+    chromium: 51.0.2704.103
+    critical: 264
+    high: 2170
+    medium: 1621
+    low: 61
+    total: 4116
+  1.2.5:
+    chromium: 51.0.2704.103
+    critical: 264
+    high: 2170
+    medium: 1621
+    low: 61
+    total: 4116
+  1.2.6:
+    chromium: 51.0.2704.106
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  1.2.7:
+    chromium: 51.0.2704.106
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  1.2.8:
+    chromium: 51.0.2704.106
+    critical: 264
+    high: 2171
+    medium: 1621
+    low: 61
+    total: 4117
+  1.3.0:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.1:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.2:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.3:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.4:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.5:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.6:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.7:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.9:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.10:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.13:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.14:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.3.15:
+    chromium: 52.0.2743.82
+    critical: 263
+    high: 2160
+    medium: 1616
+    low: 61
+    total: 4100
+  1.4.0:
+    chromium: 53.0.2785.113
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  1.4.1:
+    chromium: 53.0.2785.113
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  1.4.2:
+    chromium: 53.0.2785.113
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  1.4.3:
+    chromium: 53.0.2785.113
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  1.4.4:
+    chromium: 53.0.2785.113
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  1.4.5:
+    chromium: 53.0.2785.113
+    critical: 258
+    high: 2138
+    medium: 1605
+    low: 60
+    total: 4061
+  1.4.6:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.7:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.8:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.10:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.11:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.12:
+    chromium: 54.0.2840.51
+    critical: 257
+    high: 2133
+    medium: 1596
+    low: 60
+    total: 4046
+  1.4.13:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.14:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.15:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.4.16:
+    chromium: 53.0.2785.143
+    critical: 257
+    high: 2137
+    medium: 1605
+    low: 60
+    total: 4059
+  1.5.0:
+    chromium: 54.0.2840.101
+    critical: 255
+    high: 2122
+    medium: 1576
+    low: 60
+    total: 4013
+  1.5.1:
+    chromium: 54.0.2840.101
+    critical: 255
+    high: 2122
+    medium: 1576
+    low: 60
+    total: 4013
+  1.6.0:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.1:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.2:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.3:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.4:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.5:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.6:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.7:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.8:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.9:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.10:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.11:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.12:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.13:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.14:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.15:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.16:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.17:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.6.18:
+    chromium: 56.0.2924.87
+    critical: 254
+    high: 2119
+    medium: 1554
+    low: 60
+    total: 3987
+  1.7.0:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.1:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.2:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.3:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.4:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.5:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.6:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.7:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.8:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.9:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.10:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.11:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.12:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.13:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.14:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.15:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.7.16:
+    chromium: 58.0.3029.110
+    critical: 253
+    high: 2093
+    medium: 1540
+    low: 60
+    total: 3946
+  1.8.0:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.1:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.2:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.3:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.4:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.5:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.6:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.7:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  1.8.8:
+    chromium: 59.0.3071.115
+    critical: 253
+    high: 2087
+    medium: 1530
+    low: 59
+    total: 3929
+  2.0.0:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.1:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.2:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.3:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.4:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.5:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.6:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.7:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.8:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.9:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.10:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.11:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.12:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.13:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.14:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.15:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.16:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.17:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  2.0.18:
+    chromium: 61.0.3163.100
+    critical: 253
+    high: 2069
+    medium: 1514
+    low: 59
+    total: 3895
+  3.0.0:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.1:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.2:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.3:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.4:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.5:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.6:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.7:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.8:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.9:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.10:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.11:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.12:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.13:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.14:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.15:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.0.16:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.0:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.1:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.2:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.3:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.4:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.5:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.6:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.7:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.8:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.9:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.10:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.11:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.12:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  3.1.13:
+    chromium: 66.0.3359.181
+    critical: 250
+    high: 2007
+    medium: 1438
+    low: 58
+    total: 3753
+  4.0.0:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.1:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.2:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.3:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.4:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.5:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.6:
+    chromium: 69.0.3497.106
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.7:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.0.8:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.1.0:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.1.1:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.1.2:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.1.3:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.1.4:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.1.5:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.0:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.1:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.2:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.3:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.4:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.5:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.6:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.7:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.8:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.9:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.10:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.11:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  4.2.12:
+    chromium: 69.0.3497.128
+    critical: 248
+    high: 1977
+    medium: 1386
+    low: 58
+    total: 3669
+  5.0.0:
+    chromium: 73.0.3683.119
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.1:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.2:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.3:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.4:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.5:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.6:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.7:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.8:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.9:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.10:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.11:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.12:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  5.0.13:
+    chromium: 73.0.3683.121
+    critical: 245
+    high: 1922
+    medium: 1330
+    low: 58
+    total: 3555
+  6.0.0:
+    chromium: 76.0.3809.88
+    critical: 242
+    high: 1894
+    medium: 1302
+    low: 58
+    total: 3496
+  6.0.1:
+    chromium: 76.0.3809.102
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  6.0.2:
+    chromium: 76.0.3809.110
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  6.0.3:
+    chromium: 76.0.3809.126
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  6.0.4:
+    chromium: 76.0.3809.131
+    critical: 242
+    high: 1894
+    medium: 1300
+    low: 58
+    total: 3494
+  6.0.5:
+    chromium: 76.0.3809.136
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.6:
+    chromium: 76.0.3809.138
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.7:
+    chromium: 76.0.3809.139
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.8:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.9:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.10:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.11:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.0.12:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.0:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.1:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.2:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.3:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.4:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.5:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.6:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.7:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.8:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.9:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.10:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.11:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  6.1.12:
+    chromium: 76.0.3809.146
+    critical: 242
+    high: 1894
+    medium: 1299
+    low: 58
+    total: 3493
+  7.0.0:
+    chromium: 78.0.3905.1
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.0.1:
+    chromium: 78.0.3904.92
+    critical: 240
+    high: 1868
+    medium: 1255
+    low: 57
+    total: 3420
+  7.1.0:
+    chromium: 78.0.3904.94
+    critical: 240
+    high: 1868
+    medium: 1255
+    low: 57
+    total: 3420
+  7.1.1:
+    chromium: 78.0.3904.99
+    critical: 240
+    high: 1868
+    medium: 1255
+    low: 57
+    total: 3420
+  7.1.2:
+    chromium: 78.0.3904.113
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.3:
+    chromium: 78.0.3904.126
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.4:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.5:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.6:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.7:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.8:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.9:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.10:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.11:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.12:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.13:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.1.14:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.2.0:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.2.1:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.2.2:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.2.3:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.2.4:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.3.0:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.3.1:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.3.2:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  7.3.3:
+    chromium: 78.0.3904.130
+    critical: 240
+    high: 1866
+    medium: 1255
+    low: 57
+    total: 3418
+  8.0.0:
+    chromium: 80.0.3987.86
+    critical: 240
+    high: 1848
+    medium: 1231
+    low: 56
+    total: 3375
+  8.0.1:
+    chromium: 80.0.3987.86
+    critical: 240
+    high: 1848
+    medium: 1231
+    low: 56
+    total: 3375
+  8.0.2:
+    chromium: 80.0.3987.86
+    critical: 240
+    high: 1848
+    medium: 1231
+    low: 56
+    total: 3375
+  8.0.3:
+    chromium: 80.0.3987.134
+    critical: 240
+    high: 1823
+    medium: 1212
+    low: 56
+    total: 3331
+  8.1.0:
+    chromium: 80.0.3987.137
+    critical: 240
+    high: 1823
+    medium: 1212
+    low: 56
+    total: 3331
+  8.1.1:
+    chromium: 80.0.3987.141
+    critical: 240
+    high: 1823
+    medium: 1212
+    low: 56
+    total: 3331
+  8.2.0:
+    chromium: 80.0.3987.158
+    critical: 240
+    high: 1817
+    medium: 1210
+    low: 56
+    total: 3323
+  8.2.1:
+    chromium: 80.0.3987.163
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.2.2:
+    chromium: 80.0.3987.163
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.2.3:
+    chromium: 80.0.3987.163
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.2.4:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.2.5:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.3.0:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.3.1:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.3.2:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.3.3:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.3.4:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.4.0:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.4.1:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.5.0:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.5.1:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.5.2:
+    chromium: 80.0.3987.165
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.5.3:
+    chromium: 80.0.3987.163
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.5.4:
+    chromium: 80.0.3987.163
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  8.5.5:
+    chromium: 80.0.3987.163
+    critical: 240
+    high: 1813
+    medium: 1210
+    low: 56
+    total: 3319
+  9.0.0:
+    chromium: 83.0.4103.64
+    critical: 233
+    high: 1793
+    medium: 1177
+    low: 56
+    total: 3259
+  9.0.1:
+    chromium: 83.0.4103.94
+    critical: 233
+    high: 1793
+    medium: 1175
+    low: 56
+    total: 3257
+  9.0.2:
+    chromium: 83.0.4103.94
+    critical: 233
+    high: 1793
+    medium: 1175
+    low: 56
+    total: 3257
+  9.0.3:
+    chromium: 83.0.4103.100
+    critical: 231
+    high: 1792
+    medium: 1173
+    low: 56
+    total: 3252
+  9.0.4:
+    chromium: 83.0.4103.104
+    critical: 231
+    high: 1792
+    medium: 1173
+    low: 56
+    total: 3252
+  9.0.5:
+    chromium: 83.0.4103.119
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.1.0:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.1.1:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.1.2:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.2.0:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.2.1:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.3.0:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.3.1:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.3.2:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.3.3:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.3.4:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.3.5:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.4.0:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.4.1:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.4.2:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.4.3:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  9.4.4:
+    chromium: 83.0.4103.122
+    critical: 229
+    high: 1791
+    medium: 1172
+    low: 56
+    total: 3248
+  10.0.0:
+    chromium: 85.0.4183.84
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  10.0.1:
+    chromium: 85.0.4183.86
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  10.1.0:
+    chromium: 85.0.4183.87
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  10.1.1:
+    chromium: 85.0.4183.93
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  10.1.2:
+    chromium: 85.0.4183.98
+    critical: 228
+    high: 1758
+    medium: 1143
+    low: 56
+    total: 3185
+  10.1.3:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.1.4:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.1.5:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.1.6:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.1.7:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.2.0:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.3.0:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.3.1:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.3.2:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.0:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.1:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.2:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.3:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.4:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.5:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.6:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  10.4.7:
+    chromium: 85.0.4183.121
+    critical: 225
+    high: 1751
+    medium: 1141
+    low: 56
+    total: 3173
+  11.0.0:
+    chromium: 87.0.4280.60
+    critical: 219
+    high: 1718
+    medium: 1131
+    low: 56
+    total: 3124
+  11.0.1:
+    chromium: 87.0.4280.60
+    critical: 219
+    high: 1718
+    medium: 1131
+    low: 56
+    total: 3124
+  11.0.2:
+    chromium: 87.0.4280.67
+    critical: 214
+    high: 1707
+    medium: 1123
+    low: 56
+    total: 3100
+  11.0.3:
+    chromium: 87.0.4280.67
+    critical: 214
+    high: 1707
+    medium: 1123
+    low: 56
+    total: 3100
+  11.0.4:
+    chromium: 87.0.4280.67
+    critical: 214
+    high: 1707
+    medium: 1123
+    low: 56
+    total: 3100
+  11.0.5:
+    chromium: 87.0.4280.88
+    critical: 214
+    high: 1703
+    medium: 1121
+    low: 56
+    total: 3094
+  11.1.0:
+    chromium: 87.0.4280.88
+    critical: 214
+    high: 1703
+    medium: 1121
+    low: 56
+    total: 3094
+  11.1.1:
+    chromium: 87.0.4280.88
+    critical: 214
+    high: 1703
+    medium: 1121
+    low: 56
+    total: 3094
+  11.2.0:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.2.1:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.2.2:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.2.3:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.3.0:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.0:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.1:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.2:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.3:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.4:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.5:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.6:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.7:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.8:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.9:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.10:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.11:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.4.12:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  11.5.0:
+    chromium: 87.0.4280.141
+    critical: 207
+    high: 1698
+    medium: 1121
+    low: 56
+    total: 3082
+  12.0.0:
+    chromium: 89.0.4389.69
+    critical: 198
+    high: 1679
+    medium: 1107
+    low: 56
+    total: 3040
+  12.0.1:
+    chromium: 89.0.4389.82
+    critical: 198
+    high: 1665
+    medium: 1088
+    low: 56
+    total: 3007
+  12.0.2:
+    chromium: 89.0.4389.90
+    critical: 198
+    high: 1662
+    medium: 1088
+    low: 56
+    total: 3004
+  12.0.3:
+    chromium: 89.0.4389.114
+    critical: 198
+    high: 1656
+    medium: 1088
+    low: 56
+    total: 2998
+  12.0.4:
+    chromium: 89.0.4389.114
+    critical: 198
+    high: 1656
+    medium: 1088
+    low: 56
+    total: 2998
+  12.0.5:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.6:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.7:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.8:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.9:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.10:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.11:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.12:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.13:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.14:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.15:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.16:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.17:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.0.18:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.1.0:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.1.1:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.1.2:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.2.0:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.2.1:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.2.2:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  12.2.3:
+    chromium: 89.0.4389.128
+    critical: 198
+    high: 1654
+    medium: 1088
+    low: 56
+    total: 2996
+  13.0.0:
+    chromium: 91.0.4472.69
+    critical: 195
+    high: 1625
+    medium: 1072
+    low: 56
+    total: 2948
+  13.0.1:
+    chromium: 91.0.4472.69
+    critical: 195
+    high: 1625
+    medium: 1072
+    low: 56
+    total: 2948
+  13.1.0:
+    chromium: 91.0.4472.77
+    critical: 195
+    high: 1609
+    medium: 1063
+    low: 56
+    total: 2923
+  13.1.1:
+    chromium: 91.0.4472.77
+    critical: 195
+    high: 1609
+    medium: 1063
+    low: 56
+    total: 2923
+  13.1.2:
+    chromium: 91.0.4472.77
+    critical: 195
+    high: 1609
+    medium: 1063
+    low: 56
+    total: 2923
+  13.1.3:
+    chromium: 91.0.4472.106
+    critical: 195
+    high: 1599
+    medium: 1063
+    low: 56
+    total: 2913
+  13.1.4:
+    chromium: 91.0.4472.106
+    critical: 195
+    high: 1599
+    medium: 1063
+    low: 56
+    total: 2913
+  13.1.5:
+    chromium: 91.0.4472.124
+    critical: 195
+    high: 1595
+    medium: 1063
+    low: 56
+    total: 2909
+  13.1.6:
+    chromium: 91.0.4472.124
+    critical: 195
+    high: 1595
+    medium: 1063
+    low: 56
+    total: 2909
+  13.1.7:
+    chromium: 91.0.4472.124
+    critical: 195
+    high: 1595
+    medium: 1063
+    low: 56
+    total: 2909
+  13.1.8:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.1.9:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.2.0:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.2.1:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.2.2:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.2.3:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.3.0:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.4.0:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.5.0:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.5.1:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.5.2:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.0:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.1:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.2:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.3:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.6:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.7:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.8:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  13.6.9:
+    chromium: 91.0.4472.164
+    critical: 195
+    high: 1588
+    medium: 1063
+    low: 56
+    total: 2902
+  14.0.0:
+    chromium: 93.0.4577.58
+    critical: 194
+    high: 1558
+    medium: 1054
+    low: 56
+    total: 2862
+  14.0.1:
+    chromium: 93.0.4577.63
+    critical: 194
+    high: 1558
+    medium: 1054
+    low: 56
+    total: 2862
+  14.0.2:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.1.0:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.1.1:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.0:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.1:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.2:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.3:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.4:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.5:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.6:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.7:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.8:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  14.2.9:
+    chromium: 93.0.4577.82
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  15.0.0:
+    chromium: 94.0.4606.51
+    critical: 193
+    high: 1551
+    medium: 1053
+    low: 56
+    total: 2853
+  15.1.0:
+    chromium: 94.0.4606.61
+    critical: 192
+    high: 1542
+    medium: 1046
+    low: 55
+    total: 2835
+  15.1.1:
+    chromium: 94.0.4606.61
+    critical: 192
+    high: 1542
+    medium: 1046
+    low: 55
+    total: 2835
+  15.1.2:
+    chromium: 94.0.4606.71
+    critical: 192
+    high: 1540
+    medium: 1045
+    low: 55
+    total: 2832
+  15.2.0:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.0:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.1:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.2:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.3:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.4:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.5:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.6:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.3.7:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.4.0:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.4.1:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.4.2:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.0:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.1:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.2:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.3:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.4:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.5:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.6:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  15.5.7:
+    chromium: 94.0.4606.81
+    critical: 192
+    high: 1536
+    medium: 1045
+    low: 55
+    total: 2828
+  16.0.0:
+    chromium: 96.0.4664.45
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  16.0.1:
+    chromium: 96.0.4664.45
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  16.0.2:
+    chromium: 96.0.4664.55
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  16.0.3:
+    chromium: 96.0.4664.55
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  16.0.4:
+    chromium: 96.0.4664.55
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  16.0.5:
+    chromium: 96.0.4664.55
+    critical: 189
+    high: 1512
+    medium: 1029
+    low: 55
+    total: 2785
+  16.0.6:
+    chromium: 96.0.4664.110
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.0.7:
+    chromium: 96.0.4664.110
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.0.8:
+    chromium: 96.0.4664.110
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.0.9:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.0.10:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.1.0:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.1.1:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.0:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.1:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.2:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.3:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.4:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.5:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.6:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.7:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  16.2.8:
+    chromium: 96.0.4664.174
+    critical: 189
+    high: 1491
+    medium: 1026
+    low: 55
+    total: 2761
+  17.0.0:
+    chromium: 98.0.4758.74
+    critical: 186
+    high: 1463
+    medium: 1009
+    low: 55
+    total: 2713
+  17.0.1:
+    chromium: 98.0.4758.82
+    critical: 184
+    high: 1449
+    medium: 1005
+    low: 55
+    total: 2693
+  17.1.0:
+    chromium: 98.0.4758.102
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.1.1:
+    chromium: 98.0.4758.109
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.1.2:
+    chromium: 98.0.4758.109
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.2.0:
+    chromium: 98.0.4758.109
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.3.0:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.3.1:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.0:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.1:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.2:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.3:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.4:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.5:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.6:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.7:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.8:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.9:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.10:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  17.4.11:
+    chromium: 98.0.4758.141
+    critical: 184
+    high: 1441
+    medium: 1005
+    low: 55
+    total: 2685
+  18.0.0:
+    chromium: 100.0.4896.56
+    critical: 181
+    high: 1418
+    medium: 997
+    low: 54
+    total: 2650
+  18.0.1:
+    chromium: 100.0.4896.60
+    critical: 181
+    high: 1405
+    medium: 990
+    low: 54
+    total: 2630
+  18.0.2:
+    chromium: 100.0.4896.60
+    critical: 181
+    high: 1405
+    medium: 990
+    low: 54
+    total: 2630
+  18.0.3:
+    chromium: 100.0.4896.75
+    critical: 181
+    high: 1404
+    medium: 989
+    low: 54
+    total: 2628
+  18.0.4:
+    chromium: 100.0.4896.75
+    critical: 181
+    high: 1404
+    medium: 989
+    low: 54
+    total: 2628
+  18.1.0:
+    chromium: 100.0.4896.127
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.2.0:
+    chromium: 100.0.4896.143
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.2.1:
+    chromium: 100.0.4896.143
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.2.2:
+    chromium: 100.0.4896.143
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.2.3:
+    chromium: 100.0.4896.143
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.2.4:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.0:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.1:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.2:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.3:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.4:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.5:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.6:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.7:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.8:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.9:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.11:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.12:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.13:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.14:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  18.3.15:
+    chromium: 100.0.4896.160
+    critical: 179
+    high: 1396
+    medium: 987
+    low: 54
+    total: 2616
+  19.0.0:
+    chromium: 102.0.5005.61
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  19.0.1:
+    chromium: 102.0.5005.61
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  19.0.2:
+    chromium: 102.0.5005.63
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  19.0.3:
+    chromium: 102.0.5005.63
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  19.0.4:
+    chromium: 102.0.5005.63
+    critical: 177
+    high: 1357
+    medium: 967
+    low: 54
+    total: 2555
+  19.0.5:
+    chromium: 102.0.5005.115
+    critical: 176
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2551
+  19.0.6:
+    chromium: 102.0.5005.115
+    critical: 176
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2551
+  19.0.7:
+    chromium: 102.0.5005.134
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.8:
+    chromium: 102.0.5005.148
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.9:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.10:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.11:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.12:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.13:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.14:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.15:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.16:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.0.17:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.0:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.1:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.2:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.3:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.4:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.5:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.6:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.7:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.8:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  19.1.9:
+    chromium: 102.0.5005.167
+    critical: 175
+    high: 1354
+    medium: 967
+    low: 54
+    total: 2550
+  20.0.0:
+    chromium: 104.0.5112.65
+    critical: 175
+    high: 1339
+    medium: 961
+    low: 54
+    total: 2529
+  20.0.1:
+    chromium: 104.0.5112.81
+    critical: 175
+    high: 1323
+    medium: 952
+    low: 54
+    total: 2504
+  20.0.2:
+    chromium: 104.0.5112.81
+    critical: 175
+    high: 1323
+    medium: 952
+    low: 54
+    total: 2504
+  20.0.3:
+    chromium: 104.0.5112.81
+    critical: 175
+    high: 1323
+    medium: 952
+    low: 54
+    total: 2504
+  20.1.0:
+    chromium: 104.0.5112.102
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.1.1:
+    chromium: 104.0.5112.102
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.1.2:
+    chromium: 104.0.5112.114
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.1.3:
+    chromium: 104.0.5112.114
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.1.4:
+    chromium: 104.0.5112.114
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.2.0:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.0:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.1:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.2:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.3:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.4:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.5:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.6:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.7:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.8:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.9:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.10:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.11:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  20.3.12:
+    chromium: 104.0.5112.124
+    critical: 175
+    high: 1315
+    medium: 949
+    low: 54
+    total: 2493
+  21.0.0:
+    chromium: 106.0.5249.51
+    critical: 174
+    high: 1292
+    medium: 940
+    low: 54
+    total: 2460
+  21.0.1:
+    chromium: 106.0.5249.61
+    critical: 174
+    high: 1292
+    medium: 940
+    low: 54
+    total: 2460
+  21.1.0:
+    chromium: 106.0.5249.91
+    critical: 174
+    high: 1284
+    medium: 928
+    low: 54
+    total: 2440
+  21.1.1:
+    chromium: 106.0.5249.103
+    critical: 174
+    high: 1284
+    medium: 928
+    low: 54
+    total: 2440
+  21.2.0:
+    chromium: 106.0.5249.119
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.2.1:
+    chromium: 106.0.5249.165
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.2.2:
+    chromium: 106.0.5249.168
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.2.3:
+    chromium: 106.0.5249.168
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.3.0:
+    chromium: 106.0.5249.181
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.3.1:
+    chromium: 106.0.5249.181
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.3.3:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.3.4:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.3.5:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.4.0:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.4.1:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.4.2:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.4.3:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  21.4.4:
+    chromium: 106.0.5249.199
+    critical: 174
+    high: 1279
+    medium: 927
+    low: 54
+    total: 2434
+  22.0.0:
+    chromium: 108.0.5359.62
+    critical: 172
+    high: 1264
+    medium: 922
+    low: 54
+    total: 2412
+  22.0.1:
+    chromium: 108.0.5359.125
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.0.2:
+    chromium: 108.0.5359.179
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.0.3:
+    chromium: 108.0.5359.179
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.1.0:
+    chromium: 108.0.5359.179
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.2.0:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.2.1:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.0:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.1:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.2:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.3:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.4:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.5:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.6:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.7:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.8:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.9:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.10:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.11:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.12:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.13:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.14:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.15:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.16:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.17:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.18:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.20:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.21:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.22:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.23:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.24:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.25:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.26:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  22.3.27:
+    chromium: 108.0.5359.215
+    critical: 172
+    high: 1243
+    medium: 912
+    low: 54
+    total: 2381
+  23.0.0:
+    chromium: 110.0.5481.77
+    critical: 172
+    high: 1225
+    medium: 901
+    low: 54
+    total: 2352
+  23.1.0:
+    chromium: 110.0.5481.100
+    critical: 172
+    high: 1225
+    medium: 901
+    low: 54
+    total: 2352
+  23.1.1:
+    chromium: 110.0.5481.104
+    critical: 172
+    high: 1225
+    medium: 901
+    low: 54
+    total: 2352
+  23.1.2:
+    chromium: 110.0.5481.177
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.1.3:
+    chromium: 110.0.5481.179
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.1.4:
+    chromium: 110.0.5481.192
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.2.0:
+    chromium: 110.0.5481.192
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.2.1:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.2.2:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.2.3:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.2.4:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.0:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.1:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.2:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.3:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.4:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.5:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.6:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.7:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.8:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.9:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.10:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.11:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.12:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  23.3.13:
+    chromium: 110.0.5481.208
+    critical: 172
+    high: 1217
+    medium: 901
+    low: 54
+    total: 2344
+  24.0.0:
+    chromium: 112.0.5615.49
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  24.1.0:
+    chromium: 112.0.5615.50
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  24.1.1:
+    chromium: 112.0.5615.50
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  24.1.2:
+    chromium: 112.0.5615.87
+    critical: 171
+    high: 1195
+    medium: 876
+    low: 54
+    total: 2296
+  24.1.3:
+    chromium: 112.0.5615.165
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.2.0:
+    chromium: 112.0.5615.165
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.3.0:
+    chromium: 112.0.5615.165
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.3.1:
+    chromium: 112.0.5615.183
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.4.0:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.4.1:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.5.0:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.5.1:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.6.0:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.6.1:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.6.2:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.6.3:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.6.4:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.6.5:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.7.0:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.7.1:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.0:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.1:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.2:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.3:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.4:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.5:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.6:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.7:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  24.8.8:
+    chromium: 112.0.5615.204
+    critical: 170
+    high: 1190
+    medium: 876
+    low: 54
+    total: 2290
+  25.0.0:
+    chromium: 114.0.5735.45
+    critical: 170
+    high: 1180
+    medium: 867
+    low: 54
+    total: 2271
+  25.0.1:
+    chromium: 114.0.5735.45
+    critical: 170
+    high: 1180
+    medium: 867
+    low: 54
+    total: 2271
+  25.1.0:
+    chromium: 114.0.5735.106
+    critical: 170
+    high: 1170
+    medium: 861
+    low: 54
+    total: 2255
+  25.1.1:
+    chromium: 114.0.5735.106
+    critical: 170
+    high: 1170
+    medium: 861
+    low: 54
+    total: 2255
+  25.2.0:
+    chromium: 114.0.5735.134
+    critical: 170
+    high: 1165
+    medium: 861
+    low: 54
+    total: 2250
+  25.3.0:
+    chromium: 114.0.5735.199
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.3.1:
+    chromium: 114.0.5735.243
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.3.2:
+    chromium: 114.0.5735.248
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.4.0:
+    chromium: 114.0.5735.248
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.5.0:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.6.0:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.7.0:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.8.0:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.8.1:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.8.2:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.8.3:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.8.4:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.0:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.1:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.2:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.3:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.4:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.5:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.6:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.7:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  25.9.8:
+    chromium: 114.0.5735.289
+    critical: 170
+    high: 1162
+    medium: 861
+    low: 54
+    total: 2247
+  26.0.0:
+    chromium: 116.0.5845.82
+    critical: 169
+    high: 1145
+    medium: 853
+    low: 54
+    total: 2221
+  26.1.0:
+    chromium: 116.0.5845.97
+    critical: 169
+    high: 1131
+    medium: 845
+    low: 54
+    total: 2199
+  26.2.0:
+    chromium: 116.0.5845.179
+    critical: 169
+    high: 1122
+    medium: 844
+    low: 54
+    total: 2189
+  26.2.1:
+    chromium: 116.0.5845.188
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.2.2:
+    chromium: 116.0.5845.190
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.2.3:
+    chromium: 116.0.5845.190
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.2.4:
+    chromium: 116.0.5845.190
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.3.0:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.4.0:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.4.1:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.4.2:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.4.3:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.5.0:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.0:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.1:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.2:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.3:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.4:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.5:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.6:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.7:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.8:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.9:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  26.6.10:
+    chromium: 116.0.5845.228
+    critical: 169
+    high: 1121
+    medium: 844
+    low: 54
+    total: 2188
+  27.0.0:
+    chromium: 118.0.5993.54
+    critical: 168
+    high: 1115
+    medium: 834
+    low: 54
+    total: 2171
+  27.0.1:
+    chromium: 118.0.5993.89
+    critical: 168
+    high: 1112
+    medium: 823
+    low: 54
+    total: 2157
+  27.0.2:
+    chromium: 118.0.5993.89
+    critical: 168
+    high: 1112
+    medium: 823
+    low: 54
+    total: 2157
+  27.0.3:
+    chromium: 118.0.5993.120
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.0.4:
+    chromium: 118.0.5993.129
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.1.0:
+    chromium: 118.0.5993.144
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.1.2:
+    chromium: 118.0.5993.144
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.1.3:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.2.0:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.2.1:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.2.2:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.2.3:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.2.4:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.0:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.1:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.2:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.3:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.4:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.5:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.6:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.7:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.8:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.9:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.10:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  27.3.11:
+    chromium: 118.0.5993.159
+    critical: 168
+    high: 1111
+    medium: 823
+    low: 54
+    total: 2156
+  28.0.0:
+    chromium: 120.0.6099.56
+    critical: 167
+    high: 1095
+    medium: 814
+    low: 54
+    total: 2130
+  28.1.0:
+    chromium: 120.0.6099.109
+    critical: 167
+    high: 1085
+    medium: 811
+    low: 54
+    total: 2117
+  28.1.1:
+    chromium: 120.0.6099.109
+    critical: 167
+    high: 1085
+    medium: 811
+    low: 54
+    total: 2117
+  28.1.2:
+    chromium: 120.0.6099.199
+    critical: 167
+    high: 1080
+    medium: 811
+    low: 54
+    total: 2112
+  28.1.3:
+    chromium: 120.0.6099.199
+    critical: 167
+    high: 1080
+    medium: 811
+    low: 54
+    total: 2112
+  28.1.4:
+    chromium: 120.0.6099.216
+    critical: 167
+    high: 1080
+    medium: 810
+    low: 54
+    total: 2111
+  28.2.0:
+    chromium: 120.0.6099.227
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.1:
+    chromium: 120.0.6099.268
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.2:
+    chromium: 120.0.6099.276
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.3:
+    chromium: 120.0.6099.283
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.4:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.5:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.6:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.7:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.8:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.9:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.2.10:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.3.0:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.3.1:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.3.2:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  28.3.3:
+    chromium: 120.0.6099.291
+    critical: 167
+    high: 1077
+    medium: 810
+    low: 54
+    total: 2108
+  29.0.0:
+    chromium: 122.0.6261.39
+    critical: 164
+    high: 1066
+    medium: 804
+    low: 54
+    total: 2088
+  29.0.1:
+    chromium: 122.0.6261.57
+    critical: 164
+    high: 1059
+    medium: 800
+    low: 54
+    total: 2077
+  29.1.0:
+    chromium: 122.0.6261.70
+    critical: 164
+    high: 1059
+    medium: 800
+    low: 54
+    total: 2077
+  29.1.1:
+    chromium: 122.0.6261.111
+    critical: 164
+    high: 1054
+    medium: 800
+    low: 54
+    total: 2072
+  29.1.2:
+    chromium: 122.0.6261.112
+    critical: 164
+    high: 1054
+    medium: 800
+    low: 54
+    total: 2072
+  29.1.3:
+    chromium: 122.0.6261.112
+    critical: 164
+    high: 1054
+    medium: 800
+    low: 54
+    total: 2072
+  29.1.4:
+    chromium: 122.0.6261.129
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.1.5:
+    chromium: 122.0.6261.130
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.1.6:
+    chromium: 122.0.6261.139
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.2.0:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.3.0:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.3.1:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.3.2:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.3.3:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.0:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.1:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.2:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.3:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.4:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.5:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  29.4.6:
+    chromium: 122.0.6261.156
+    critical: 164
+    high: 1053
+    medium: 800
+    low: 54
+    total: 2071
+  30.0.0:
+    chromium: 124.0.6367.49
+    critical: 163
+    high: 1044
+    medium: 792
+    low: 54
+    total: 2053
+  30.0.1:
+    chromium: 124.0.6367.60
+    critical: 163
+    high: 1039
+    medium: 780
+    low: 54
+    total: 2036
+  30.0.2:
+    chromium: 124.0.6367.91
+    critical: 163
+    high: 1037
+    medium: 778
+    low: 54
+    total: 2032
+  30.0.3:
+    chromium: 124.0.6367.119
+    critical: 163
+    high: 1035
+    medium: 778
+    low: 54
+    total: 2030
+  30.0.4:
+    chromium: 124.0.6367.201
+    critical: 161
+    high: 1035
+    medium: 777
+    low: 54
+    total: 2027
+  30.0.5:
+    chromium: 124.0.6367.207
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.0.6:
+    chromium: 124.0.6367.207
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.0.7:
+    chromium: 124.0.6367.221
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.0.8:
+    chromium: 124.0.6367.230
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.0.9:
+    chromium: 124.0.6367.233
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.1.0:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.1.1:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.1.2:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.2.0:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.3.0:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.3.1:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.4.0:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.5.0:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  30.5.1:
+    chromium: 124.0.6367.243
+    critical: 161
+    high: 1034
+    medium: 777
+    low: 54
+    total: 2026
+  31.0.0:
+    chromium: 126.0.6478.36
+    critical: 159
+    high: 1023
+    medium: 774
+    low: 54
+    total: 2010
+  31.0.1:
+    chromium: 126.0.6478.36
+    critical: 159
+    high: 1023
+    medium: 774
+    low: 54
+    total: 2010
+  31.0.2:
+    chromium: 126.0.6478.61
+    critical: 158
+    high: 1008
+    medium: 771
+    low: 54
+    total: 1991
+  31.1.0:
+    chromium: 126.0.6478.114
+    critical: 158
+    high: 1004
+    medium: 771
+    low: 54
+    total: 1987
+  31.2.0:
+    chromium: 126.0.6478.127
+    critical: 158
+    high: 999
+    medium: 771
+    low: 54
+    total: 1982
+  31.2.1:
+    chromium: 126.0.6478.127
+    critical: 158
+    high: 999
+    medium: 771
+    low: 54
+    total: 1982
+  31.3.0:
+    chromium: 126.0.6478.183
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.3.1:
+    chromium: 126.0.6478.185
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.4.0:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.5.0:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.6.0:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.0:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.1:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.2:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.3:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.4:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.5:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.6:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  31.7.7:
+    chromium: 126.0.6478.234
+    critical: 157
+    high: 992
+    medium: 770
+    low: 54
+    total: 1973
+  32.0.0:
+    chromium: 128.0.6613.36
+    critical: 157
+    high: 974
+    medium: 764
+    low: 53
+    total: 1948
+  32.0.1:
+    chromium: 128.0.6613.36
+    critical: 157
+    high: 974
+    medium: 764
+    low: 53
+    total: 1948
+  32.0.2:
+    chromium: 128.0.6613.84
+    critical: 156
+    high: 962
+    medium: 756
+    low: 53
+    total: 1927
+  32.1.0:
+    chromium: 128.0.6613.120
+    critical: 156
+    high: 957
+    medium: 756
+    low: 53
+    total: 1922
+  32.1.1:
+    chromium: 128.0.6613.137
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.1.2:
+    chromium: 128.0.6613.162
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.0:
+    chromium: 128.0.6613.178
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.1:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.2:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.3:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.4:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.5:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.6:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.7:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.2.8:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.3.0:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.3.1:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.3.2:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  32.3.3:
+    chromium: 128.0.6613.186
+    critical: 156
+    high: 953
+    medium: 756
+    low: 53
+    total: 1918
+  33.0.0:
+    chromium: 130.0.6723.44
+    critical: 155
+    high: 944
+    medium: 751
+    low: 53
+    total: 1903
+  33.0.1:
+    chromium: 130.0.6723.59
+    critical: 155
+    high: 936
+    medium: 746
+    low: 53
+    total: 1890
+  33.0.2:
+    chromium: 130.0.6723.59
+    critical: 155
+    high: 936
+    medium: 746
+    low: 53
+    total: 1890
+  33.1.0:
+    chromium: 130.0.6723.91
+    critical: 155
+    high: 933
+    medium: 746
+    low: 53
+    total: 1887
+  33.2.0:
+    chromium: 130.0.6723.118
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.2.1:
+    chromium: 130.0.6723.137
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.3.0:
+    chromium: 130.0.6723.152
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.3.1:
+    chromium: 130.0.6723.170
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.3.2:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.0:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.1:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.2:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.3:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.4:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.5:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.6:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.7:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.8:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.9:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.10:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  33.4.11:
+    chromium: 130.0.6723.191
+    critical: 155
+    high: 929
+    medium: 745
+    low: 53
+    total: 1882
+  34.0.0:
+    chromium: 132.0.6834.83
+    critical: 155
+    high: 910
+    medium: 734
+    low: 53
+    total: 1852
+  34.0.1:
+    chromium: 132.0.6834.83
+    critical: 155
+    high: 910
+    medium: 734
+    low: 53
+    total: 1852
+  34.0.2:
+    chromium: 132.0.6834.159
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.1.0:
+    chromium: 132.0.6834.194
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.1.1:
+    chromium: 132.0.6834.194
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.2.0:
+    chromium: 132.0.6834.196
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.3.0:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.3.1:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.3.2:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.3.3:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.3.4:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.4.0:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.4.1:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.0:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.1:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.2:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.3:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.4:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.5:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.6:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.7:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  34.5.8:
+    chromium: 132.0.6834.210
+    critical: 155
+    high: 907
+    medium: 734
+    low: 53
+    total: 1849
+  35.0.0:
+    chromium: 134.0.6998.44
+    critical: 155
+    high: 897
+    medium: 724
+    low: 53
+    total: 1829
+  35.0.1:
+    chromium: 134.0.6998.44
+    critical: 155
+    high: 897
+    medium: 724
+    low: 53
+    total: 1829
+  35.0.2:
+    chromium: 134.0.6998.88
+    critical: 155
+    high: 893
+    medium: 724
+    low: 53
+    total: 1825
+  35.0.3:
+    chromium: 134.0.6998.88
+    critical: 155
+    high: 893
+    medium: 724
+    low: 53
+    total: 1825
+  35.1.0:
+    chromium: 134.0.6998.165
+    critical: 155
+    high: 892
+    medium: 724
+    low: 53
+    total: 1824
+  35.1.1:
+    chromium: 134.0.6998.165
+    critical: 155
+    high: 892
+    medium: 724
+    low: 53
+    total: 1824
+  35.1.2:
+    chromium: 134.0.6998.178
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.1.3:
+    chromium: 134.0.6998.179
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.1.4:
+    chromium: 134.0.6998.179
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.1.5:
+    chromium: 134.0.6998.179
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.2.0:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.2.1:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.2.2:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.3.0:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.4.0:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.5.0:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.5.1:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.6.0:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.7.0:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.7.1:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.7.2:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.7.4:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  35.7.5:
+    chromium: 134.0.6998.205
+    critical: 155
+    high: 891
+    medium: 724
+    low: 53
+    total: 1823
+  36.0.0:
+    chromium: 136.0.7103.48
+    critical: 155
+    high: 885
+    medium: 719
+    low: 53
+    total: 1812
+  36.0.1:
+    chromium: 136.0.7103.48
+    critical: 155
+    high: 885
+    medium: 719
+    low: 53
+    total: 1812
+  36.1.0:
+    chromium: 136.0.7103.49
+    critical: 155
+    high: 885
+    medium: 719
+    low: 53
+    total: 1812
+  36.2.0:
+    chromium: 136.0.7103.49
+    critical: 155
+    high: 885
+    medium: 719
+    low: 53
+    total: 1812
+  36.2.1:
+    chromium: 136.0.7103.93
+    critical: 154
+    high: 882
+    medium: 716
+    low: 53
+    total: 1805
+  36.3.0:
+    chromium: 136.0.7103.113
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.3.1:
+    chromium: 136.0.7103.113
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.3.2:
+    chromium: 136.0.7103.115
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.4.0:
+    chromium: 136.0.7103.149
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.5.0:
+    chromium: 136.0.7103.168
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.6.0:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.7.0:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.7.1:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.7.3:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.7.4:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.8.0:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.8.1:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.9.0:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.9.1:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.9.2:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.9.3:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.9.4:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  36.9.5:
+    chromium: 136.0.7103.177
+    critical: 153
+    high: 882
+    medium: 715
+    low: 53
+    total: 1803
+  37.0.0:
+    chromium: 138.0.7204.35
+    critical: 153
+    high: 874
+    medium: 709
+    low: 53
+    total: 1789
+  37.1.0:
+    chromium: 138.0.7204.35
+    critical: 153
+    high: 874
+    medium: 709
+    low: 53
+    total: 1789
+  37.2.0:
+    chromium: 138.0.7204.97
+    critical: 153
+    high: 873
+    medium: 706
+    low: 53
+    total: 1785
+  37.2.1:
+    chromium: 138.0.7204.97
+    critical: 153
+    high: 873
+    medium: 706
+    low: 53
+    total: 1785
+  37.2.2:
+    chromium: 138.0.7204.100
+    critical: 153
+    high: 873
+    medium: 706
+    low: 53
+    total: 1785
+  37.2.3:
+    chromium: 138.0.7204.100
+    critical: 153
+    high: 873
+    medium: 706
+    low: 53
+    total: 1785
+  37.2.4:
+    chromium: 138.0.7204.157
+    critical: 153
+    high: 870
+    medium: 706
+    low: 53
+    total: 1782
+  37.2.5:
+    chromium: 138.0.7204.168
+    critical: 153
+    high: 868
+    medium: 706
+    low: 53
+    total: 1780
+  37.2.6:
+    chromium: 138.0.7204.185
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.3.0:
+    chromium: 138.0.7204.224
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.3.1:
+    chromium: 138.0.7204.235
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.4.0:
+    chromium: 138.0.7204.243
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.5.0:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.5.1:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.6.0:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.6.1:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.7.0:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.7.1:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.8.0:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.9.0:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.10.0:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.10.1:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.10.2:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  37.10.3:
+    chromium: 138.0.7204.251
+    critical: 153
+    high: 867
+    medium: 706
+    low: 53
+    total: 1779
+  38.0.0:
+    chromium: 140.0.7339.41
+    critical: 153
+    high: 859
+    medium: 698
+    low: 53
+    total: 1763
+  38.1.0:
+    chromium: 140.0.7339.80
+    critical: 153
+    high: 857
+    medium: 689
+    low: 53
+    total: 1752
+  38.1.1:
+    chromium: 140.0.7339.133
+    critical: 153
+    high: 855
+    medium: 689
+    low: 53
+    total: 1750
+  38.1.2:
+    chromium: 140.0.7339.133
+    critical: 153
+    high: 855
+    medium: 689
+    low: 53
+    total: 1750
+  38.2.0:
+    chromium: 140.0.7339.133
+    critical: 153
+    high: 855
+    medium: 689
+    low: 53
+    total: 1750
+  38.2.1:
+    chromium: 140.0.7339.133
+    critical: 153
+    high: 855
+    medium: 689
+    low: 53
+    total: 1750
+  38.2.2:
+    chromium: 140.0.7339.133
+    critical: 153
+    high: 855
+    medium: 689
+    low: 53
+    total: 1750
+  38.3.0:
+    chromium: 140.0.7339.240
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.4.0:
+    chromium: 140.0.7339.240
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.5.0:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.6.0:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.7.0:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.7.1:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.7.2:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.8.0:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.8.1:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.8.2:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.8.4:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  38.8.6:
+    chromium: 140.0.7339.249
+    critical: 151
+    high: 850
+    medium: 689
+    low: 53
+    total: 1743
+  39.0.0:
+    chromium: 142.0.7444.52
+    critical: 151
+    high: 843
+    medium: 682
+    low: 52
+    total: 1728
+  39.1.0:
+    chromium: 142.0.7444.59
+    critical: 151
+    high: 837
+    medium: 669
+    low: 52
+    total: 1709
+  39.1.1:
+    chromium: 142.0.7444.59
+    critical: 151
+    high: 837
+    medium: 669
+    low: 52
+    total: 1709
+  39.1.2:
+    chromium: 142.0.7444.134
+    critical: 151
+    high: 830
+    medium: 669
+    low: 52
+    total: 1702
+  39.2.0:
+    chromium: 142.0.7444.162
+    critical: 151
+    high: 827
+    medium: 667
+    low: 52
+    total: 1697
+  39.2.1:
+    chromium: 142.0.7444.162
+    critical: 151
+    high: 827
+    medium: 667
+    low: 52
+    total: 1697
+  39.2.2:
+    chromium: 142.0.7444.162
+    critical: 151
+    high: 827
+    medium: 667
+    low: 52
+    total: 1697
+  39.2.3:
+    chromium: 142.0.7444.175
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.2.4:
+    chromium: 142.0.7444.177
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.2.5:
+    chromium: 142.0.7444.177
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.2.6:
+    chromium: 142.0.7444.226
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.2.7:
+    chromium: 142.0.7444.235
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.3.0:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.4.0:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.5.0:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.5.1:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.5.2:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.6.0:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.6.1:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.7.0:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.0:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.1:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.2:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.3:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.4:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.5:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.6:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.7:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.8:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.9:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  39.8.10:
+    chromium: 142.0.7444.265
+    critical: 151
+    high: 825
+    medium: 667
+    low: 52
+    total: 1695
+  40.0.0:
+    chromium: 144.0.7559.60
+    critical: 148
+    high: 810
+    medium: 657
+    low: 51
+    total: 1666
+  40.1.0:
+    chromium: 144.0.7559.96
+    critical: 148
+    high: 810
+    medium: 657
+    low: 51
+    total: 1666
+  40.2.0:
+    chromium: 144.0.7559.111
+    critical: 148
+    high: 809
+    medium: 656
+    low: 51
+    total: 1664
+  40.2.1:
+    chromium: 144.0.7559.111
+    critical: 148
+    high: 809
+    medium: 656
+    low: 51
+    total: 1664
+  40.3.0:
+    chromium: 144.0.7559.134
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.4.0:
+    chromium: 144.0.7559.134
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.4.1:
+    chromium: 144.0.7559.173
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.5.0:
+    chromium: 144.0.7559.177
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.6.0:
+    chromium: 144.0.7559.177
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.6.1:
+    chromium: 144.0.7559.220
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.7.0:
+    chromium: 144.0.7559.225
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.8.0:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.8.1:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.8.2:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.8.3:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.8.4:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.8.5:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.9.0:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.9.1:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.9.2:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.9.3:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.0:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.1:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.2:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.3:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.4:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.5:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  40.10.6:
+    chromium: 144.0.7559.236
+    critical: 148
+    high: 807
+    medium: 656
+    low: 51
+    total: 1662
+  41.0.0:
+    chromium: 146.0.7680.65
+    critical: 145
+    high: 790
+    medium: 649
+    low: 51
+    total: 1635
+  41.0.1:
+    chromium: 146.0.7680.72
+    critical: 144
+    high: 775
+    medium: 637
+    low: 50
+    total: 1606
+  41.0.2:
+    chromium: 146.0.7680.72
+    critical: 144
+    high: 775
+    medium: 637
+    low: 50
+    total: 1606
+  41.0.3:
+    chromium: 146.0.7680.80
+    critical: 144
+    high: 773
+    medium: 637
+    low: 50
+    total: 1604
+  41.0.4:
+    chromium: 146.0.7680.153
+    critical: 144
+    high: 748
+    medium: 636
+    low: 50
+    total: 1578
+  41.1.0:
+    chromium: 146.0.7680.166
+    critical: 144
+    high: 740
+    medium: 636
+    low: 50
+    total: 1570
+  41.1.1:
+    chromium: 146.0.7680.166
+    critical: 144
+    high: 740
+    medium: 636
+    low: 50
+    total: 1570
+  41.2.0:
+    chromium: 146.0.7680.179
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.2.1:
+    chromium: 146.0.7680.188
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.2.2:
+    chromium: 146.0.7680.188
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.3.0:
+    chromium: 146.0.7680.188
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.4.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.5.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.5.1:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.5.2:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.6.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.6.1:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.7.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.7.1:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.7.2:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.8.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.9.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.9.1:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.9.2:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.10.0:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.10.1:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.10.2:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  41.10.3:
+    chromium: 146.0.7680.216
+    critical: 141
+    high: 726
+    medium: 632
+    low: 50
+    total: 1549
+  42.0.0:
+    chromium: 148.0.7778.96
+    critical: 133
+    high: 590
+    medium: 544
+    low: 34
+    total: 1301
+  42.0.1:
+    chromium: 148.0.7778.97
+    critical: 133
+    high: 590
+    medium: 544
+    low: 34
+    total: 1301
+  42.1.0:
+    chromium: 148.0.7778.97
+    critical: 133
+    high: 590
+    medium: 544
+    low: 34
+    total: 1301
+  42.2.0:
+    chromium: 148.0.7778.97
+    critical: 133
+    high: 590
+    medium: 544
+    low: 34
+    total: 1301
+  42.3.0:
+    chromium: 148.0.7778.180
+    critical: 131
+    high: 538
+    medium: 513
+    low: 26
+    total: 1208
+  42.3.1:
+    chromium: 148.0.7778.218
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.3.2:
+    chromium: 148.0.7778.218
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.3.3:
+    chromium: 148.0.7778.218
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.4.0:
+    chromium: 148.0.7778.254
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.4.1:
+    chromium: 148.0.7778.265
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.5.0:
+    chromium: 148.0.7778.271
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.5.1:
+    chromium: 148.0.7778.271
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.5.2:
+    chromium: 148.0.7778.271
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.6.0:
+    chromium: 148.0.7778.280
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.6.1:
+    chromium: 148.0.7778.280
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.6.2:
+    chromium: 148.0.7778.280
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.7.0:
+    chromium: 148.0.7778.280
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  42.7.1:
+    chromium: 148.0.7778.280
+    critical: 122
+    high: 432
+    medium: 484
+    low: 20
+    total: 1058
+  43.0.0:
+    chromium: 150.0.7871.46
+    critical: 37
+    high: 103
+    medium: 199
+    low: 9
+    total: 348
+  43.1.0:
+    chromium: 150.0.7871.47
+    critical: 2
+    high: 26
+    medium: 13
+    low: 1
+    total: 42
+  43.1.1:
+    chromium: 150.0.7871.114
+    critical: 2
+    high: 26
+    medium: 13
+    low: 1
+    total: 42
+  43.2.0:
+    chromium: 150.0.7871.129
+    critical: 0
+    high: 0
+    medium: 0
+    low: 0
+    total: 0
