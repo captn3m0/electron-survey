@@ -15,7 +15,6 @@ packages:
   format: zip
   os: linux
   arch: x64
-we_tried: urls:9fbff587a4b3
 latest: v0.15.0
 src: https://github.com/G-Ray/pikatorrent/archive/refs/tags/v0.15.0.zip
 downloads:

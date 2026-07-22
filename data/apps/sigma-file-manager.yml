@@ -13,7 +13,6 @@ packages:
   arch: x64
 aur:
 - sigma-file-manager
-we_tried: urls:60deffabb7c2
 latest: v2.2.0
 src: https://github.com/aleksey-hoffman/sigma-file-manager/archive/refs/tags/v2.2.0.zip
 downloads:

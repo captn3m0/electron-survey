@@ -75,7 +75,7 @@ downloads:
   checksum: 7bbc208118a50807407638fe9f51112ab74b0482907bdf3e4f9bac0c8ad251e4
 - name: SHA256SUMS
   url: https://github.com/bbg-contributors/bbg/releases/download/20260608/SHA256SUMS
-electron: 40.10.6
-method: src-range-guess
+electron: 40.10.2
+method: which-electron-rg
 electron_src: https://github.com/bbg-contributors/bbg/archive/refs/tags/20260608.zip
 we_tried: we0:20260608

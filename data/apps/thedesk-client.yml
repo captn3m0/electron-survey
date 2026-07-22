@@ -3,8 +3,8 @@ name: Thedesk Client
 website: https://thedesk.top/
 aur:
 - thedesk-client-bin
-electron: 22.3.27
-method: aur-depends
+electron: 37.7.1
+method: which-electron-rg
 homebrew: thedesk
 downloads:
 - url: https://github.com/cutls/thedesk-next/releases/download/v25.4.0/TheDesk-25.4.0-universal.dmg

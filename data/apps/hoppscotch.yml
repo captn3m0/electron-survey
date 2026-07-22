@@ -33,6 +33,5 @@ downloads:
   url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_win_x64.msi
 - name: Hoppscotch_SelfHost_win_x64_portable.zip
   url: https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_win_x64_portable.zip
-we_tried: we1.2.1:v26.6.1-0
 latest: v26.6.1-0
 src: https://github.com/hoppscotch/releases/archive/refs/tags/v26.6.1-0.zip

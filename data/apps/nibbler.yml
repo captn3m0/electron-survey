@@ -11,3 +11,5 @@ downloads:
   url: https://github.com/rooklift/nibbler/releases/download/v2.5.8/nibbler-2.5.8-linux.zip
 - name: nibbler-2.5.8-windows.zip
   url: https://github.com/rooklift/nibbler/releases/download/v2.5.8/nibbler-2.5.8-windows.zip
+electron: 9.4.4
+method: which-electron-version_file

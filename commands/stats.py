@@ -21,6 +21,12 @@ def stats() -> None:
     with_downloads = sum(1 for a in remaining if has_source(a))
     with_aur = sum(1 for a in remaining if not has_source(a) and a.get("aur"))
     no_idea = sum(1 for a in remaining if not has_source(a) and not a.get("aur"))
+    # Apps which-electron inspected in full and still couldn't identify. This
+    # used to be where apps went to die silently: the marker was also written
+    # when an artefact failed to download, so an app could be retired without
+    # its readable artefact ever being looked at. Watch this number — a jump
+    # means artefacts stopped being fetchable, not that detection got harder.
+    we_exhausted = sum(1 for a in remaining if a.get("we_tried"))
 
     click.echo(f"total:          {total}")
     click.echo(f"dead:           {dead}")
@@ -28,6 +34,7 @@ def stats() -> None:
     click.echo(f"with-downloads: {with_downloads}")
     click.echo(f"with-aur:       {with_aur}")
     click.echo(f"no-idea:        {no_idea}")
+    click.echo(f"we-exhausted:   {we_exhausted}")
 
 
 @cli.command("unresolved")

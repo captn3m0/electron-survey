@@ -8,8 +8,8 @@ packages:
   os: macos
 aur:
 - leanote
-electron: 12.2.3
-method: aur-depends
+electron: 12.0.2
+method: which-electron-rg
 homebrew: leanote
 downloads:
 - name: leanote-desktop-linux-ia32-v2.7.0.zip

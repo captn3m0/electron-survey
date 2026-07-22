@@ -139,3 +139,17 @@ def test_session_sends_a_non_default_user_agent():
     ua = we._SESSION.headers["User-Agent"]
     assert "python-requests" not in ua
     assert "electron-survey" in ua
+
+
+def test_process_treats_a_tool_crash_as_unread_not_as_a_clean_miss(monkeypatch):
+    """which-electron returning no JSON means it failed to look, which is not
+    the same as looking and finding nothing (an empty signals list)."""
+    entry = {"id": "x", "packages": [{"url": "https://x/App.AppImage"}]}
+    _FakeDownloads(monkeypatch, {"https://x/App.AppImage": None})
+
+    import pathlib
+    monkeypatch.setattr(we, "_download", lambda url: pathlib.Path("/nonexistent/a"))
+    monkeypatch.setattr(we, "_run_which_electron", lambda path: None)  # crashed
+
+    assert we.process(entry) is None
+    assert we.matches(entry) is True

@@ -303,6 +303,12 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
             result = _run_which_electron(path)
         finally:
             path.unlink(missing_ok=True)
+        if result is None:
+            # The tool crashed or emitted no JSON (nteract hit a which-electron
+            # AppImage extraction bug). That is "we failed to look", not "we
+            # looked and found nothing" — an empty `signals` list is the latter.
+            unread += 1
+            continue
         inspected += 1
         if not result:
             continue

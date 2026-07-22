@@ -7,4 +7,3 @@ downloads:
 - name: DomTerm.AppImage
   url: https://github.com/PerBothner/DomTerm/releases/download/3.2.0/DomTerm.AppImage
 name: DomTerm
-we_tried: 3.2.0

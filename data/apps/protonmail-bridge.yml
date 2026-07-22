@@ -46,6 +46,5 @@ downloads:
   url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/protonmail-bridge_3.25.0-1_amd64.deb
 - name: protonmail-bridge_3.25.0-1_amd64.deb.sig
   url: https://github.com/ProtonMail/proton-bridge/releases/download/v3.25.0/protonmail-bridge_3.25.0-1_amd64.deb.sig
-we_tried: we1.2.1:v3.25.0
 latest: v3.25.0
 src: https://github.com/ProtonMail/proton-bridge/archive/refs/tags/v3.25.0.zip

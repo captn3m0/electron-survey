@@ -70,5 +70,5 @@ downloads:
 - name: latest.yml
   url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/latest.yml
 electron: 14.2.9
-method: src-range-guess
+method: which-electron-rg
 electron_src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.1.zip

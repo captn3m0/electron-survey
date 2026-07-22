@@ -7,8 +7,8 @@ packages:
 - url: https://github.com/ritz078/moose/releases/download/v0.6.2/moose-0.6.2-mac.zip
   format: zip
   os: macos
-electron: 9.4.4
-method: aur-depends
+electron: 9.0.4
+method: which-electron-fingerprint
 homebrew: moose
 downloads:
 - url: https://github.com/ritz078/moose/releases/download/v0.6.2/moose-0.6.2-mac.zip

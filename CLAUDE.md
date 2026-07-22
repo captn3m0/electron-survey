@@ -124,6 +124,11 @@ because their commits carry `[skip ci]`).
   enough to bring an entry into the GitHub release / source-detection
   pipeline.
 - Entries marked `dead: true` are skipped by `process`.
+- `we_tried` means "which-electron downloaded and read *every* candidate
+  artefact and still found nothing" — never "we had a go". It is only written
+  when no download failed, so a transient network error re-queues the app
+  instead of retiring it. `stats` prints the running total as `we-exhausted`;
+  a jump there means artefacts stopped being fetchable.
 - The `source` processor's preference order for detecting an electron
   version is: `package-lock.json` > `yarn.lock` > `pnpm-lock.yaml` >
   `package.json` (range resolved against `data/versions.txt`).

@@ -13,3 +13,5 @@ downloads:
 - url: https://github.com/Chia-Network/chia-blockchain/releases/download/2.7.3/Chia-2.7.3-arm64.dmg
   name: Chia-2.7.3-arm64.dmg
   version: 2.7.3
+electron: 39.8.5
+method: which-electron-rg

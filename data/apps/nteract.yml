@@ -51,4 +51,3 @@ downloads:
 - name: runtimed-linux-x64
   url: https://github.com/nteract/nteract/releases/download/v2.6.2-stable.202606300322/runtimed-linux-x64
 name: nteract
-we_tried: we1.2.1:v2.6.2-stable.202606300322

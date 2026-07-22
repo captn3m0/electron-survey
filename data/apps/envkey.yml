@@ -8,8 +8,8 @@ packages:
   format: zip
   os: macos
   arch: x64
-electron: 13.6.9
-method: aur-depends
+electron: 4.2.12
+method: which-electron-fingerprint
 homebrew: envkey
 downloads:
 - url: https://github.com/envkey/envkey-app/releases/download/darwin-x64-prod-v1.5.10/EnvKey-1.5.10-mac.zip

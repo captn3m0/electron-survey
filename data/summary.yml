@@ -6,8 +6,8 @@ coverage:
   apps: 2092
   dead: 37
   tracked: 2055
-  detected: 1749
-  detected_pct: 85.1
+  detected: 1752
+  detected_pct: 85.3
 tier_order:
 - flagship
 - popular
@@ -60,40 +60,40 @@ tiers:
   established:
     label: Established
     apps: 217
-    detected: 182
-    detected_pct: 83.9
+    detected: 183
+    detected_pct: 84.3
     green: 54
     orange: 43
-    red: 85
-    green_pct: 29.7
-    orange_pct: 23.6
-    red_pct: 46.7
-    eol: 128
-    eol_pct: 70.3
+    red: 86
+    green_pct: 29.5
+    orange_pct: 23.5
+    red_pct: 47.0
+    eol: 129
+    eol_pct: 70.5
     median_days_behind: 267
     median_majors_behind: 10
     median_cves_critical: 153
     median_cves_high: 855
-    with_critical_cve: 182
+    with_critical_cve: 183
     with_critical_cve_pct: 100.0
   minimal:
     label: Minimal
     apps: 520
-    detected: 456
-    detected_pct: 87.7
+    detected: 458
+    detected_pct: 88.1
     green: 79
-    orange: 82
-    red: 295
-    green_pct: 17.3
-    orange_pct: 18.0
-    red_pct: 64.7
-    eol: 377
-    eol_pct: 82.7
+    orange: 83
+    red: 296
+    green_pct: 17.2
+    orange_pct: 18.1
+    red_pct: 64.6
+    eol: 379
+    eol_pct: 82.8
     median_days_behind: 645
     median_majors_behind: 22
     median_cves_critical: 156
     median_cves_high: 953
-    with_critical_cve: 456
+    with_critical_cve: 458
     with_critical_cve_pct: 100.0
   unranked:
     label: Unranked
@@ -116,39 +116,39 @@ tiers:
     with_critical_cve_pct: 99.9
 main:
   apps: 303
-  detected: 262
-  detected_pct: 86.5
+  detected: 263
+  detected_pct: 86.8
   green: 87
   orange: 58
-  red: 117
-  green_pct: 33.2
+  red: 118
+  green_pct: 33.1
   orange_pct: 22.1
-  red_pct: 44.7
-  eol: 175
-  eol_pct: 66.8
+  red_pct: 44.9
+  eol: 176
+  eol_pct: 66.9
   median_days_behind: 267
   median_majors_behind: 10
   median_cves_critical: 151
   median_cves_high: 850
-  with_critical_cve: 262
+  with_critical_cve: 263
   with_critical_cve_pct: 100.0
 overall:
   apps: 2092
-  detected: 1749
-  detected_pct: 83.6
+  detected: 1752
+  detected_pct: 83.7
   green: 267
-  orange: 244
-  red: 1238
-  green_pct: 15.3
+  orange: 245
+  red: 1240
+  green_pct: 15.2
   orange_pct: 14.0
   red_pct: 70.8
-  eol: 1482
-  eol_pct: 84.7
-  median_days_behind: 771
+  eol: 1485
+  eol_pct: 84.8
+  median_days_behind: 772
   median_majors_behind: 26
   median_cves_critical: 161
   median_cves_high: 1034
-  with_critical_cve: 1748
+  with_critical_cve: 1751
   with_critical_cve_pct: 99.9
 worst:
 - id: graphiql
@@ -184,7 +184,7 @@ worst:
   electron: 2.0.0
   chromium: 61.0.3163.100
   chromium_majors_behind: 89
-  chromium_days_behind: 2863
+  chromium_days_behind: 2864
   cves_critical: 253
   cves_high: 2069
 - id: tusk
@@ -199,7 +199,7 @@ worst:
 - id: patchbay
   name: Patchbay
   tier: established
-  electron: 4.2.12
+  electron: 4.2.6
   chromium: 69.0.3497.128
   chromium_majors_behind: 81
   chromium_days_behind: 2646
@@ -211,7 +211,7 @@ worst:
   electron: 5.0.7
   chromium: 73.0.3683.121
   chromium_majors_behind: 77
-  chromium_days_behind: 2549
+  chromium_days_behind: 2550
   cves_critical: 245
   cves_high: 1922
 - id: tabby
@@ -232,6 +232,15 @@ worst:
   chromium_days_behind: 2360
   cves_critical: 240
   cves_high: 1866
+- id: nibbler
+  name: Nibbler
+  tier: established
+  electron: 9.4.4
+  chromium: 83.0.4103.122
+  chromium_majors_behind: 67
+  chromium_days_behind: 2158
+  cves_critical: 229
+  cves_high: 1791
 - id: webtorrent
   name: WebTorrent
   tier: flagship
@@ -277,15 +286,6 @@ worst:
   chromium_days_behind: 1968
   cves_critical: 207
   cves_high: 1698
-- id: beaker-browser
-  name: Beaker Browser
-  tier: established
-  electron: 11.0.0
-  chromium: 87.0.4280.60
-  chromium_majors_behind: 63
-  chromium_days_behind: 1968
-  cves_critical: 219
-  cves_high: 1718
 stalest_majors:
 - major: 43
   apps: 14
@@ -353,6 +353,8 @@ stalest_majors:
   apps: 3
 - major: 10
   apps: 4
+- major: 9
+  apps: 1
 - major: 7
   apps: 2
 - major: 5

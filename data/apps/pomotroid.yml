@@ -41,6 +41,6 @@ downloads:
   url: https://github.com/Splode/pomotroid/releases/download/v1.7.1/Pomotroid_1.7.1_universal.dmg
 - name: Pomotroid_1.7.1_x64-setup.exe
   url: https://github.com/Splode/pomotroid/releases/download/v1.7.1/Pomotroid_1.7.1_x64-setup.exe
-we_tried: we1.2.1:v1.7.1
 latest: v1.7.1
 src: https://github.com/Splode/pomotroid/archive/refs/tags/v1.7.1.zip
+we_tried: we1.2.1:v1.7.1

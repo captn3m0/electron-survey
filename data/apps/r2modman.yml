@@ -5,7 +5,7 @@ repository: https://github.com/ebkr/r2modmanPlus
 aur:
 - r2modman
 electron: 38.8.6
-method: aur-depends
+method: which-electron-rg
 latest: v3.2.18
 src: https://github.com/ebkr/r2modmanPlus/archive/refs/tags/v3.2.18.zip
 downloads:

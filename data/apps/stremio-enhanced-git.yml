@@ -6,8 +6,8 @@ aur:
 - stremio-enhanced-bin
 additionalAUR:
 - stremio-enhanced-git
-electron: 41.10.2
-method: aur-depends
+electron: 41.1.0
+method: which-electron-rg
 latest: v1.2.0
 src: https://github.com/REVENGE977/stremio-enhanced/archive/refs/tags/v1.2.0.zip
 downloads:

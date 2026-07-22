@@ -34,8 +34,8 @@ packages:
 aur:
 - turbowarp-desktop-bin
 - turbowarp-desktop-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.2.0
+method: which-electron-rg
 latest: v1.16.0
 src: https://github.com/TurboWarp/desktop/archive/refs/tags/v1.16.0.zip
 downloads:

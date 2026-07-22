@@ -22,8 +22,8 @@ downloads:
   url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-win32-x64.zip
 - name: Lectrote-1.5.6-WinInstall.exe
   url: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-WinInstall.exe
-electron: 36.9.5
-method: src-range-guess
+electron: 36.9.3
+method: which-electron-rg
 homebrew: lectrote
 name: Lectrote
 electron_src: https://github.com/erkyrath/lectrote/archive/refs/tags/lectrote-1.5.6.zip

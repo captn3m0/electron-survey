@@ -18,8 +18,8 @@ packages:
 aur:
 - selenium-ide-bin
 - selenium-manager
-electron: 28.3.3
-method: aur-depends
+electron: 28.2.0
+method: which-electron-rg
 latest: v4.0.1-beta.14
 src: https://github.com/SeleniumHQ/selenium-ide/archive/refs/tags/v4.0.1-beta.14.zip
 downloads:

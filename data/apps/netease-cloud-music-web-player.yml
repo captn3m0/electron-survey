@@ -15,3 +15,4 @@ downloads:
 electron: 38.8.6
 method: src-range-guess
 electron_src: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/archive/refs/tags/1.6.1.zip
+we_tried: we1.2.1:1.6.1
