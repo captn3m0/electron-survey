@@ -6,12 +6,12 @@ aur:
 - subtitle-translator-electron-bin
 electron: 43.1.1
 method: aur-depends
-latest: 2.0.0
-src: https://github.com/gnehs/subtitle-translator-electron/archive/refs/tags/2.0.0.zip
+latest: 2.0.1
+src: https://github.com/gnehs/subtitle-translator-electron/archive/refs/tags/2.0.1.zip
 downloads:
-- name: subtitle-translator_2.0.0.dmg
-  url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.0/subtitle-translator_2.0.0.dmg
-- name: subtitle-translator_2.0.0.exe
-  url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.0/subtitle-translator_2.0.0.exe
-- name: Subtitle.Translator-2.0.0.AppImage
-  url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.0/Subtitle.Translator-2.0.0.AppImage
+- name: subtitle-translator_2.0.1.dmg
+  url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.1/subtitle-translator_2.0.1.dmg
+- name: subtitle-translator_2.0.1.exe
+  url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.1/subtitle-translator_2.0.1.exe
+- name: Subtitle.Translator-2.0.1.AppImage
+  url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.1/Subtitle.Translator-2.0.1.AppImage

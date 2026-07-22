@@ -4,21 +4,21 @@ website: https://github.com/ecubus/EcuBus-Pro
 repository: https://github.com/ecubus/EcuBus-Pro
 aur:
 - ecubus-pro
-latest: v0.8.65
-src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.65.zip
+latest: v0.8.66
+src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
 downloads:
 - name: ecb_cli
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.65/ecb_cli
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/ecb_cli
 - name: ecb_cli.exe
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.65/ecb_cli.exe
-- name: EcuBus-Pro.0.8.65.exe
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.65/EcuBus-Pro.0.8.65.exe
-- name: EcuBus-Pro_0.8.65_amd64.deb
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.65/EcuBus-Pro_0.8.65_amd64.deb
-- name: EcuBus-Pro_0.8.65_x86_64.rpm
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.65/EcuBus-Pro_0.8.65_x86_64.rpm
-- name: Portable.EcuBus-Pro.0.8.65.zip
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.65/Portable.EcuBus-Pro.0.8.65.zip
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/ecb_cli.exe
+- name: EcuBus-Pro.0.8.66.exe
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/EcuBus-Pro.0.8.66.exe
+- name: EcuBus-Pro_0.8.66_amd64.deb
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/EcuBus-Pro_0.8.66_amd64.deb
+- name: EcuBus-Pro_0.8.66_x86_64.rpm
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/EcuBus-Pro_0.8.66_x86_64.rpm
+- name: Portable.EcuBus-Pro.0.8.66.zip
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/Portable.EcuBus-Pro.0.8.66.zip
 electron: 39.8.6
 method: src-package-lock
-electron_src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.65.zip
+electron_src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip

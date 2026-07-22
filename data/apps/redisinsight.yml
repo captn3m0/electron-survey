@@ -7,30 +7,30 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-latest: 3.6.0
-src: https://github.com/redis/RedisInsight/archive/refs/tags/3.6.0.zip
+latest: 3.8.0
+src: https://github.com/redis/RedisInsight/archive/refs/tags/3.8.0.zip
 downloads:
 - name: Redis-Insight-linux-aarch64.rpm
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-aarch64.rpm
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-aarch64.rpm
 - name: Redis-Insight-linux-amd64.deb
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-amd64.deb
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-amd64.deb
 - name: Redis-Insight-linux-amd64.snap
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-amd64.snap
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-amd64.snap
 - name: Redis-Insight-linux-arm64.AppImage
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-arm64.AppImage
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-arm64.AppImage
 - name: Redis-Insight-linux-arm64.deb
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-arm64.deb
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-arm64.deb
 - name: Redis-Insight-linux-x86_64.AppImage
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-x86_64.AppImage
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-x86_64.AppImage
 - name: Redis-Insight-linux-x86_64.rpm
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-linux-x86_64.rpm
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-linux-x86_64.rpm
 - name: Redis-Insight-mac-arm64.dmg
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-mac-arm64.dmg
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-arm64.dmg
 - name: Redis-Insight-mac-x64.dmg
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-mac-x64.dmg
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-mac-x64.dmg
 - name: Redis-Insight-win-installer.exe
-  url: https://github.com/redis/RedisInsight/releases/download/3.6.0/Redis-Insight-win-installer.exe
+  url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-win-installer.exe
 homebrew: redis-insight
 electron: 41.7.2
 method: src-yarn-lock
-electron_src: https://github.com/redis/RedisInsight/archive/refs/tags/3.6.0.zip
+electron_src: https://github.com/redis/RedisInsight/archive/refs/tags/3.8.0.zip

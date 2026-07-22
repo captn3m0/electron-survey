@@ -584,7 +584,7 @@ Apps with detected Electron version: 1749 / 2092
 | [GitKraken Serverless](https://www.gitkraken.com/git-client/on-premise) | 41.3.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Github Issue Alert](https://github.com/ashuvssut/github-issue-alert) [[repo]](https://github.com/ashuvssut/github-issue-alert) | 36.9.5 ⚠️ | 9mo ago | aur-depends |
 | [Github Panel](https://github.com/littlebutt/github-panel) [[repo]](https://github.com/littlebutt/github-panel) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
-| [Gitify](https://www.gitify.io/) [[repo]](https://github.com/manosim/gitify) | 23.3.13 ⚠️ | 2y 11mo ago | src-pnpm-lock |
+| [Gitify](https://www.gitify.io/) [[repo]](https://github.com/manosim/gitify) | 43.1.1 ⚠️ | 7d ago | src-pnpm-lock |
 | [Glassy Music Nankill](https://github.com/NanKillBro/glassy-music-nankill) [[repo]](https://github.com/NanKillBro/glassy-music-nankill) | 42.7.0 ⚠️ | 7d ago | aur-depends |
 | [Glimboi](https://glimboi.com/) | 18.3.15 ⚠️ | 3y 10mo ago | aur-depends |
 | [Glyphr Studio](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) [[repo]](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) | 28.2.1 ⚠️ | 2y 6mo ago | src-package-lock |
@@ -778,7 +778,7 @@ Apps with detected Electron version: 1749 / 2092
 | [Laravel Kit](https://tmdh.github.io/laravel-kit) [[repo]](https://github.com/tmdh/laravel-kit) | 33.0.0 ⚠️ | 1y 9mo ago | src-yarn-lock |
 | [Last Hit](https://last-hit.com) [[repo]](https://github.com/last-hit-aab/last-hit) | 7.1.1 ⚠️ | 6y 9mo ago | src-yarn-lock |
 | [Lax](https://github.com/brandly/Lax) | 8.2.4 ⚠️ | 6y 3mo ago | src-package-lock |
-| [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 43.1.0 ⚠️ | 14d ago | src-package-lock |
+| [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 43.2.0 | 0d ago | src-package-lock |
 | [Leanote](https://github.com/leanote/desktop-app) [[repo]](https://github.com/leanote/desktop-app) | 12.2.3 ⚠️ | 4y 8mo ago | aur-depends |
 | [Learnx Companion](https://github.com/robertying/learnX-companion) [[repo]](https://github.com/robertying/learnX-companion) | 23.3.13 ⚠️ | 2y 11mo ago | aur-depends |
 | [Leavepad](https://github.com/kaishuu0123/leavepad) [[repo]](https://github.com/kaishuu0123/leavepad) | 41.10.2 ⚠️ | 7d ago | aur-depends |
@@ -1327,7 +1327,7 @@ Apps with detected Electron version: 1749 / 2092
 | [Simplenote](https://simplenote.com) [[repo]](https://github.com/Automattic/simplenote-electron) | 34.1.1 ⚠️ | 1y 5mo ago | src-package-lock |
 | [Simpleshell](https://github.com/funkpopo/simpleshell) [[repo]](https://github.com/funkpopo/simpleshell) | 40.10.6 ⚠️ | 20d ago | aur-depends |
 | [Simplest File Renamer](https://github.com/whyboris/Simplest-File-Renamer) [[repo]](https://github.com/whyboris/Simplest-File-Renamer) | 8.5.5 ⚠️ | 5y 9mo ago | aur-depends |
-| [Simpletex](https://simpletex.cn/) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
+| [Simpletex](https://simpletex.cn/) | 22.0.0 ⚠️ | 3y 8mo ago | which-electron-rg |
 | [Simpletodo](https://simpletodo.app/) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
 | [Simplexity AI](https://github.com/inulute/simplexity-ai-app) [[repo]](https://github.com/inulute/simplexity-ai-app) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
 | [Singland](https://github.com/net-breaker/sing-land) [[repo]](https://github.com/net-breaker/sing-land) | 23.3.13 ⚠️ | 2y 11mo ago | aur-depends |
@@ -1447,7 +1447,7 @@ Apps with detected Electron version: 1749 / 2092
 | [Tasker Permissions](https://github.com/joaomgcd/Tasker-Permissions) [[repo]](https://github.com/joaomgcd/Tasker-Permissions) | 34.5.8 ⚠️ | 1y 1mo ago | aur-depends |
 | [Tcgtools](https://github.com/Kazbonfim/tcgtools) [[repo]](https://github.com/Kazbonfim/tcgtools) | 34.5.8 ⚠️ | 1y 1mo ago | aur-depends |
 | [Teamide](https://github.com/team-ide/teamide) [[repo]](https://github.com/team-ide/teamide) | 22.3.27 ⚠️ | 2y 9mo ago | aur-depends |
-| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) [[repo]](https://github.com/IsmaelMartinez/teams-for-linux) | 41.7.1 ⚠️ | 1mo ago | src-package-lock |
+| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) [[repo]](https://github.com/IsmaelMartinez/teams-for-linux) | 42.5.0 ⚠️ | 28d ago | src-package-lock |
 | [Teamwork](https://integrations.teamwork.com/integrations/teamwork-projects-desktop/) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
 | [Telegram A](https://web.telegram.org/a/get/) | 22.3.27 ⚠️ | 2y 9mo ago | which-electron-rg |
 | [Ten Hands](https://tenhands.app) [[repo]](https://github.com/saisandeepvaddi/ten-hands) | 11.2.0 ⚠️ | 5y 7mo ago | src-yarn-lock |
@@ -1740,7 +1740,7 @@ Apps with detected Electron version: 1749 / 2092
 | [sdm](https://www.strongdm.com/) | 37.3.1 ⚠️ | 11mo ago | which-electron-rg |
 | [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) [[repo]](https://github.com/nojsja/shadowsocks-electron) | 18.0.3 ⚠️ | 4y 4mo ago | src-yarn-lock |
 | [sipgate](https://www.sipgate.de/app) | 42.3.0 ⚠️ | 1mo ago | which-electron-rg |
-| [sleek](https://github.com/ransome1/sleek) [[repo]](https://github.com/ransome1/sleek) | 41.2.0 ⚠️ | 3mo ago | src-package-lock |
+| [sleek](https://github.com/ransome1/sleek) [[repo]](https://github.com/ransome1/sleek) | 43.1.1 ⚠️ | 7d ago | src-package-lock |
 | [snwe](https://github.com/blahsd/snwe) [[repo]](https://github.com/blahsd/snwe) | 2.0.0 ⚠️ | 8y 4mo ago | src-package-lock |
 | [sqlui-native](https://synle.github.io/sqlui-native/) [[repo]](https://github.com/synle/sqlui-native) | 28.3.3 ⚠️ | 2y 2mo ago | src-package-lock |
 | [stacker](https://enqueuer-land.github.io/stacker) [[repo]](https://github.com/enqueuer-land/stacker) | 6.1.9 ⚠️ | 6y 5mo ago | src-package-lock |

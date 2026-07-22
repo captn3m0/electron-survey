@@ -6,16 +6,16 @@ aur:
 - stremio-web-desktop-bin
 electron: 33.4.11
 method: aur-depends
-latest: v611
-src: https://github.com/Zaarrg/stremio-web-desktop/archive/refs/tags/v611.zip
+latest: v612
+src: https://github.com/Zaarrg/stremio-web-desktop/archive/refs/tags/v612.zip
 downloads:
 - name: stremio-web-desktop-1.0.0-1.x86_64.rpm
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v611/stremio-web-desktop-1.0.0-1.x86_64.rpm
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-1.0.0-1.x86_64.rpm
 - name: stremio-web-desktop-1.0.0-arm64.dmg
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v611/stremio-web-desktop-1.0.0-arm64.dmg
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-1.0.0-arm64.dmg
 - name: stremio-web-desktop-1.0.0.Setup.exe
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v611/stremio-web-desktop-1.0.0.Setup.exe
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-1.0.0.Setup.exe
 - name: stremio-web-desktop-win32-x64.zip
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v611/stremio-web-desktop-win32-x64.zip
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-win32-x64.zip
 - name: stremio-web-desktop_1.0.0_amd64.deb
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v611/stremio-web-desktop_1.0.0_amd64.deb
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop_1.0.0_amd64.deb

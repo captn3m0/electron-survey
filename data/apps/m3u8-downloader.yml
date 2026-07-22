@@ -8,18 +8,30 @@ additionalAUR:
 - m3u8-downloader-bin
 electron: 28.3.3
 method: aur-depends
-latest: 2.3.1
-src: https://github.com/12343954/M3U8-Downloader/archive/refs/tags/2.3.1.zip
+latest: v2.3.2
+src: https://github.com/12343954/M3U8-Downloader/archive/refs/tags/v2.3.2.zip
 downloads:
-- name: M3U8-Downloader-linux_amd64-2.3.1.deb
-  url: https://github.com/12343954/M3U8-Downloader/releases/download/2.3.1/M3U8-Downloader-linux_amd64-2.3.1.deb
-- name: M3U8-Downloader-linux_x86_64-2.3.1.AppImage
-  url: https://github.com/12343954/M3U8-Downloader/releases/download/2.3.1/M3U8-Downloader-linux_x86_64-2.3.1.AppImage
-- name: M3U8-Downloader-mac_arm64-2.3.1.dmg
-  url: https://github.com/12343954/M3U8-Downloader/releases/download/2.3.1/M3U8-Downloader-mac_arm64-2.3.1.dmg
-- name: M3U8-Downloader-mac_x64-2.3.1.dmg
-  url: https://github.com/12343954/M3U8-Downloader/releases/download/2.3.1/M3U8-Downloader-mac_x64-2.3.1.dmg
-- name: M3U8-Downloader-win_x64-2.3.1.exe
-  url: https://github.com/12343954/M3U8-Downloader/releases/download/2.3.1/M3U8-Downloader-win_x64-2.3.1.exe
-- name: M3U8-Downloader-win_x64-2.3.1.zip
-  url: https://github.com/12343954/M3U8-Downloader/releases/download/2.3.1/M3U8-Downloader-win_x64-2.3.1.zip
+- name: latest-linux.yml
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/latest.yml
+- name: M3U8-Downloader-linux_amd64-2.3.2.deb
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-linux_amd64-2.3.2.deb
+- name: M3U8-Downloader-linux_x86_64-2.3.2.AppImage
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-linux_x86_64-2.3.2.AppImage
+- name: M3U8-Downloader-mac_arm64-2.3.2.dmg
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-mac_arm64-2.3.2.dmg
+- name: M3U8-Downloader-mac_arm64-2.3.2.dmg.blockmap
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-mac_arm64-2.3.2.dmg.blockmap
+- name: M3U8-Downloader-mac_x64-2.3.2.dmg
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-mac_x64-2.3.2.dmg
+- name: M3U8-Downloader-mac_x64-2.3.2.dmg.blockmap
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-mac_x64-2.3.2.dmg.blockmap
+- name: M3U8-Downloader-win_x64-2.3.2.exe
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-win_x64-2.3.2.exe
+- name: M3U8-Downloader-win_x64-2.3.2.exe.blockmap
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-win_x64-2.3.2.exe.blockmap
+- name: M3U8-Downloader-win_x64-2.3.2.zip
+  url: https://github.com/12343954/M3U8-Downloader/releases/download/v2.3.2/M3U8-Downloader-win_x64-2.3.2.zip

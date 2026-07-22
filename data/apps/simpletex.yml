@@ -8,8 +8,8 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 13.6.9
-method: aur-depends
+electron: 22.0.0
+method: which-electron-rg
 homebrew: simpletex
 downloads:
 - url: https://update.simpletex.net/publish/electron/darwin/SimpleTex-0.2.12-arm64.dmg

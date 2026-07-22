@@ -6,46 +6,46 @@ aur:
 - goofcord-bin
 electron: 43.1.0
 method: which-electron-rg
-latest: v2.2.2
-src: https://github.com/Milkshiift/GoofCord/archive/refs/tags/v2.2.2.zip
+latest: v2.3.0
+src: https://github.com/Milkshiift/GoofCord/archive/refs/tags/v2.3.0.zip
 downloads:
-- name: GoofCord-2.2.2-linux-aarch64.rpm
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-aarch64.rpm
-- name: GoofCord-2.2.2-linux-amd64.deb
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-amd64.deb
-- name: GoofCord-2.2.2-linux-arm64.AppImage
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-arm64.AppImage
-- name: GoofCord-2.2.2-linux-arm64.deb
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-arm64.deb
-- name: GoofCord-2.2.2-linux-arm64.tar.xz
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-arm64.tar.xz
-- name: GoofCord-2.2.2-linux-armv7l.AppImage
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-armv7l.AppImage
-- name: GoofCord-2.2.2-linux-armv7l.deb
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-armv7l.deb
-- name: GoofCord-2.2.2-linux-armv7l.rpm
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-armv7l.rpm
-- name: GoofCord-2.2.2-linux-armv7l.tar.xz
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-armv7l.tar.xz
-- name: GoofCord-2.2.2-linux-x64.tar.xz
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-x64.tar.xz
-- name: GoofCord-2.2.2-linux-x86_64.AppImage
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-x86_64.AppImage
-- name: GoofCord-2.2.2-linux-x86_64.rpm
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-linux-x86_64.rpm
-- name: GoofCord-2.2.2-mac-arm64.dmg
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-mac-arm64.dmg
-- name: GoofCord-2.2.2-mac-x64.dmg
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-mac-x64.dmg
-- name: GoofCord-2.2.2-win-arm64.zip
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-arm64.zip
-- name: GoofCord-2.2.2-win-ia32.zip
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-ia32.zip
-- name: GoofCord-2.2.2-win-x64.zip
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-2.2.2-win-x64.zip
+- name: GoofCord-2.3.0-linux-aarch64.rpm
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-aarch64.rpm
+- name: GoofCord-2.3.0-linux-amd64.deb
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-amd64.deb
+- name: GoofCord-2.3.0-linux-arm64.AppImage
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-arm64.AppImage
+- name: GoofCord-2.3.0-linux-arm64.deb
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-arm64.deb
+- name: GoofCord-2.3.0-linux-arm64.tar.xz
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-arm64.tar.xz
+- name: GoofCord-2.3.0-linux-armv7l.AppImage
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-armv7l.AppImage
+- name: GoofCord-2.3.0-linux-armv7l.deb
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-armv7l.deb
+- name: GoofCord-2.3.0-linux-armv7l.rpm
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-armv7l.rpm
+- name: GoofCord-2.3.0-linux-armv7l.tar.xz
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-armv7l.tar.xz
+- name: GoofCord-2.3.0-linux-x64.tar.xz
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-x64.tar.xz
+- name: GoofCord-2.3.0-linux-x86_64.AppImage
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-x86_64.AppImage
+- name: GoofCord-2.3.0-linux-x86_64.rpm
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-x86_64.rpm
+- name: GoofCord-2.3.0-mac-arm64.dmg
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-mac-arm64.dmg
+- name: GoofCord-2.3.0-mac-x64.dmg
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-mac-x64.dmg
+- name: GoofCord-2.3.0-win-arm64.zip
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-win-arm64.zip
+- name: GoofCord-2.3.0-win-ia32.zip
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-win-ia32.zip
+- name: GoofCord-2.3.0-win-x64.zip
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-win-x64.zip
 - name: GoofCord-Setup-arm64.exe
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-Setup-arm64.exe
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-arm64.exe
 - name: GoofCord-Setup-ia32.exe
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-Setup-ia32.exe
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-ia32.exe
 - name: GoofCord-Setup-x64.exe
-  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.2.2/GoofCord-Setup-x64.exe
+  url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-x64.exe
