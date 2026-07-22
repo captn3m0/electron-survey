@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      # configure-pages turns Pages on for the repo the first time it runs.
+      # For configure-pages' enablement attempt below.
       pages: write
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -42,6 +42,11 @@ jobs:
           # the site builds purely from committed data/.
           submodules: false
 
+      # Reads the site's base path so the build works for both a project-pages
+      # URL and a custom domain. `enablement` asks GitHub to turn Pages on, but
+      # that call wants admin scope the default token may not carry — if the
+      # first run fails here, set Settings -> Pages -> Source to "GitHub Actions"
+      # once by hand and it never comes up again.
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
         id: pages
         with:

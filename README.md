@@ -68,9 +68,10 @@ build rather than GitHub Pages' safe mode — the workflow runs
 The data workflows call the publish workflow directly when they finish, because
 their commits carry `[skip ci]`.
 
-**First-time setup:** the workflow enables Pages itself via
-`actions/configure-pages`; if that is blocked, set Settings → Pages → Source to
-"GitHub Actions" once by hand.
+**First-time setup:** set Settings → Pages → Source to **GitHub Actions** once.
+The workflow also asks `actions/configure-pages` to enable Pages itself, but
+that API call wants a broader scope than the default workflow token carries, so
+don't count on it.
 
 ## Sources
 
