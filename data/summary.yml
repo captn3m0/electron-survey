@@ -1,4 +1,4 @@
-generated: '2026-07-22'
+generated: '2026-07-23'
 current:
   electron_major: 43
   chromium_major: 150
@@ -51,7 +51,7 @@ tiers:
     red_pct: 50.0
     eol: 28
     eol_pct: 63.6
-    median_days_behind: 322
+    median_days_behind: 323
     median_majors_behind: 12
     median_cves_critical: 153
     median_cves_high: 867
@@ -89,7 +89,7 @@ tiers:
     red_pct: 64.6
     eol: 379
     eol_pct: 82.8
-    median_days_behind: 645
+    median_days_behind: 646
     median_majors_behind: 22
     median_cves_critical: 156
     median_cves_high: 953
@@ -108,7 +108,7 @@ tiers:
     red_pct: 80.1
     eol: 930
     eol_pct: 90.2
-    median_days_behind: 883
+    median_days_behind: 884
     median_majors_behind: 30
     median_cves_critical: 167
     median_cves_high: 1077
@@ -193,7 +193,7 @@ worst:
   electron: 4.2.2
   chromium: 69.0.3497.128
   chromium_majors_behind: 81
-  chromium_days_behind: 2646
+  chromium_days_behind: 2647
   cves_critical: 248
   cves_high: 1977
 - id: patchbay
@@ -202,7 +202,7 @@ worst:
   electron: 4.2.6
   chromium: 69.0.3497.128
   chromium_majors_behind: 81
-  chromium_days_behind: 2646
+  chromium_days_behind: 2647
   cves_critical: 248
   cves_high: 1977
 - id: vagrant-manager
@@ -220,7 +220,7 @@ worst:
   electron: 7.1.7
   chromium: 78.0.3904.130
   chromium_majors_behind: 72
-  chromium_days_behind: 2360
+  chromium_days_behind: 2361
   cves_critical: 240
   cves_high: 1866
 - id: tenvideo
@@ -229,7 +229,7 @@ worst:
   electron: 7.3.3
   chromium: 78.0.3904.130
   chromium_majors_behind: 72
-  chromium_days_behind: 2360
+  chromium_days_behind: 2361
   cves_critical: 240
   cves_high: 1866
 - id: nibbler
@@ -283,7 +283,7 @@ worst:
   electron: 11.5.0
   chromium: 87.0.4280.141
   chromium_majors_behind: 63
-  chromium_days_behind: 1968
+  chromium_days_behind: 1969
   cves_critical: 207
   cves_high: 1698
 stalest_majors:
