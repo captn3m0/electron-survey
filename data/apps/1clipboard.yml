@@ -9,3 +9,8 @@ downloads:
 name: 1Clipboard
 electron: 0.35.6
 method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://1clipboard.io/download/darwin/1Clipboard.dmg
+  found_in: 1Clipboard.dmg
+  signal: which-electron fingerprint signal

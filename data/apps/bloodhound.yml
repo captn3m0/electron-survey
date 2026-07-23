@@ -51,3 +51,8 @@ electron: 11.5.0
 method: which-electron-rg
 latest: v4.3.1
 src: https://github.com/SpecterOps/BloodHound-Legacy/archive/refs/tags/v4.3.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
+  found_in: BloodHound-darwin-arm64.zip
+  signal: which-electron rg signal (2 signals agreed)

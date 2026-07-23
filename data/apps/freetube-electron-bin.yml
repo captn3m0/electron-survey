@@ -14,3 +14,8 @@ additionalAUR:
 - freetube-git
 electron: 42.5.2
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.25.0-beta/freetube-0.25.0-beta-mac-arm64.dmg
+  found_in: freetube-0.25.0-beta-mac-arm64.dmg
+  signal: which-electron rg signal

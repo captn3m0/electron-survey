@@ -46,3 +46,8 @@ packages:
 name: Obsidian
 electron: 39.8.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7-arm64.AppImage
+  found_in: Obsidian-1.12.7-arm64.AppImage
+  signal: which-electron rg signal

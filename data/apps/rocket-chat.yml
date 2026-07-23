@@ -31,3 +31,8 @@ packages:
 name: Rocket.Chat
 electron: 40.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.13.0/rocketchat-4.13.0-mac.dmg
+  found_in: rocketchat-4.13.0-mac.dmg
+  signal: which-electron rg signal

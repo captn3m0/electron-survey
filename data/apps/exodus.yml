@@ -15,3 +15,8 @@ aur:
 - exodus-bin
 electron: 41.0.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://downloads.exodus.com/releases/exodus-linux-x64-26.7.1.deb
+  found_in: exodus-linux-x64-26.7.1.deb
+  signal: which-electron rg signal

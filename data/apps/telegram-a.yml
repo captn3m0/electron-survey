@@ -15,3 +15,8 @@ downloads:
 - url: https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.51/Telegram-A-arm64.dmg
   name: Telegram-A-arm64.dmg
   version: 10.9.51
+evidence:
+  kind: binary
+  source: https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.51/Telegram-A-arm64.dmg
+  found_in: Telegram-A-arm64.dmg
+  signal: which-electron rg signal

@@ -15,3 +15,8 @@ packages:
 name: TIDAL
 electron: 39.8.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.tidal.com/desktop/mac/TIDAL.arm64.2.41.3.zip
+  found_in: TIDAL.arm64.2.41.3.zip
+  signal: which-electron rg signal

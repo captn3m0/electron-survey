@@ -14,3 +14,8 @@ packages:
 - url: https://releases.fontba.se/mac/FontBase-2026.5.17.dmg
   format: dmg
   os: macos
+evidence:
+  kind: binary
+  source: https://releases.fontba.se/mac/FontBase-2026.2.5.dmg
+  found_in: FontBase-2026.2.5.dmg
+  signal: which-electron rg signal

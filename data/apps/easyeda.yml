@@ -19,3 +19,8 @@ downloads:
   version: 6.5.51
 electron: 19.1.9
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://image.easyeda.com/files/easyeda-mac-arm64-6.5.51.zip
+  found_in: easyeda-mac-arm64-6.5.51.zip
+  signal: which-electron rg signal (3 signals agreed)

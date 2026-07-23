@@ -90,3 +90,8 @@ downloads:
   url: https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix_1.8.19_armv7l.deb
 latest: v1.8.19
 src: https://github.com/agalwood/Motrix/archive/refs/tags/v1.8.19.zip
+evidence:
+  kind: binary
+  source: https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.x86_64.rpm
+  found_in: Motrix-1.8.19.x86_64.rpm
+  signal: which-electron rg signal

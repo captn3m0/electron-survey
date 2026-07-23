@@ -15,3 +15,8 @@ downloads:
   name: LocalCan-2.7.0%20Setup.exe
 electron: 38.1.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://assets.localcan.com/download/LocalCan-2.7.0-arm64.dmg
+  found_in: LocalCan-2.7.0-arm64.dmg
+  signal: which-electron rg signal

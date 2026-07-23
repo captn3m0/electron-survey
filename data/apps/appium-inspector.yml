@@ -61,3 +61,8 @@ electron: 41.3.0
 method: which-electron-rg
 latest: v2026.5.1
 src: https://github.com/appium/appium-inspector/archive/refs/tags/v2026.5.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/appium/appium-inspector/releases/download/v2026.5.1/Appium-Inspector-2026.5.1-linux-arm64.AppImage
+  found_in: Appium-Inspector-2026.5.1-linux-arm64.AppImage
+  signal: which-electron rg signal

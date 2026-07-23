@@ -17,3 +17,8 @@ downloads:
   name: Beaver-notes-4.4.0-universal.dmg
   version: 4.4.0
 we_tried: we0:urls:beca324d98b7
+evidence:
+  kind: binary
+  source: https://github.com/Beaver-Notes/Beaver-Notes/releases/download/4.4.0/Beaver-notes-4.4.0-universal.dmg
+  found_in: Beaver-notes-4.4.0-universal.dmg
+  signal: which-electron rg signal

@@ -20,3 +20,8 @@ packages:
 name: GitKraken
 electron: 41.3.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://release.axocdn.com/linux/gitkraken-amd64.tar.gz
+  found_in: gitkraken-amd64.tar.gz
+  signal: which-electron rg signal

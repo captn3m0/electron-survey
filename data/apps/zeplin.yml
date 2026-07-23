@@ -13,3 +13,8 @@ packages:
 name: Zeplin
 electron: 38.1.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://pkg.zeplin.io/macos/latest/zeplin-darwin-universal.zip
+  found_in: zeplin-darwin-universal.zip
+  signal: which-electron rg signal

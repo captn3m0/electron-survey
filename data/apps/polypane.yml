@@ -10,3 +10,8 @@ downloads:
 name: Polypane
 electron: 41.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/firstversionist/polypane/releases/download/v28.0.3/Polypane-28.0.3-arm64.dmg
+  found_in: Polypane-28.0.3-arm64.dmg
+  signal: which-electron rg signal

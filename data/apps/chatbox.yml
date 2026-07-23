@@ -15,3 +15,8 @@ downloads:
 - url: https://download.chatboxai.app/releases/Chatbox-1.21.1-arm64.dmg
   name: Chatbox-1.21.1-arm64.dmg
   version: 1.21.1
+evidence:
+  kind: binary
+  source: https://download.chatboxai.app/releases/Chatbox-1.21.1-arm64.dmg
+  found_in: Chatbox-1.21.1-arm64.dmg
+  signal: which-electron rg signal

@@ -20,3 +20,8 @@ downloads:
 - name: Project.L.U.M.E.N.-win32-x64.zip
   url: https://github.com/L-U-M-E-N/lumen-desktop/releases/download/1.2.2/Project.L.U.M.E.N.-win32-x64.zip
 homebrew: lumen
+evidence:
+  kind: binary
+  source: https://github.com/L-U-M-E-N/lumen-desktop/releases/download/1.2.2/Project.L.U.M.E.N.-darwin-x64.zip
+  found_in: Project.L.U.M.E.N.-darwin-x64.zip
+  signal: which-electron rg signal (2 signals agreed)

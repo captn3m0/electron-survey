@@ -10,3 +10,8 @@ downloads:
 name: WebCatalog
 electron: 41.0.4
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cdn-2.webcatalog.io/webcatalog/WebCatalog-74.0.2-universal.dmg
+  found_in: WebCatalog-74.0.2-universal.dmg
+  signal: which-electron rg signal

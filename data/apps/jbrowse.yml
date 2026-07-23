@@ -14,3 +14,8 @@ downloads:
 - url: https://github.com/GMOD/jbrowse-components/releases/download/v4.3.0/jbrowse-desktop-v4.3.0-mac.dmg
   name: jbrowse-desktop-v4.3.0-mac.dmg
   version: 4.3.0
+evidence:
+  kind: binary
+  source: https://github.com/GMOD/jbrowse-components/releases/download/v4.3.0/jbrowse-desktop-v4.3.0-mac.dmg
+  found_in: jbrowse-desktop-v4.3.0-mac.dmg
+  signal: which-electron rg signal (2 signals agreed)

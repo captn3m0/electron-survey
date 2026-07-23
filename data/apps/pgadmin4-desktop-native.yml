@@ -10,3 +10,8 @@ downloads:
 - url: https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v9.16/macos/pgadmin4-9.16-arm64.dmg
   name: pgadmin4-9.16-arm64.dmg
   version: '9.16'
+evidence:
+  kind: binary
+  source: https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v9.16/macos/pgadmin4-9.16-arm64.dmg
+  found_in: pgadmin4-9.16-arm64.dmg
+  signal: which-electron rg signal

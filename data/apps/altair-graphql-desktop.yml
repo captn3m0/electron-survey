@@ -72,3 +72,8 @@ downloads:
 latest: v8.5.7
 src: https://github.com/altair-graphql/altair/archive/refs/tags/v8.5.7.zip
 we_tried: we0:v8.5.7
+evidence:
+  kind: binary
+  source: https://github.com/altair-graphql/altair/releases/download/v8.5.7/altair_8.5.7_arm64_linux.AppImage
+  found_in: altair_8.5.7_arm64_linux.AppImage
+  signal: which-electron rg signal

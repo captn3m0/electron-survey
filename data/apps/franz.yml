@@ -30,3 +30,8 @@ packages:
 name: Franz
 electron: 33.3.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/meetfranz/franz/releases/latest/download/Franz-5.11.0.AppImage
+  found_in: Franz-5.11.0.AppImage
+  signal: which-electron rg signal

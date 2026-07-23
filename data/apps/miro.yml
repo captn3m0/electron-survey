@@ -18,3 +18,8 @@ downloads:
   version: 0.11.160
 electron: 38.8.6
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://desktop.miro.com/platforms/darwin-arm64/Install-Miro.dmg
+  found_in: Install-Miro.dmg
+  signal: which-electron rg signal

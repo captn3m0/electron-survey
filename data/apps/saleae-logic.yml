@@ -18,3 +18,8 @@ downloads:
   version: 2.4.44
 electron: 27.1.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://downloads2.saleae.com/logic2/Logic-2.4.44-macos-arm64.zip
+  found_in: Logic-2.4.44-macos-arm64.zip
+  signal: which-electron rg signal

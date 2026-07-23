@@ -11,3 +11,8 @@ downloads:
 name: Morgen
 electron: 37.10.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.todesktop.com/210203cqcj00tw1/Morgen%204.0.4%20-%20Build%202602193oszs1hv7-arm64.dmg
+  found_in: Morgen%204.0.4%20-%20Build%202602193oszs1hv7-arm64.dmg
+  signal: which-electron rg signal

@@ -15,21 +15,20 @@ packages:
   format: zip
   os: linux
   arch: x64
-latest: v2.4.8
-src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip
+latest: v2.5.0
+src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.5.0.zip
 downloads:
-- name: Typesense-Dashboard-darwin-x64-v2.4.8.zip
-  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-darwin-x64-v2.4.8.zip
-- name: Typesense-Dashboard-linux-x64-v2.4.8.zip
-  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-linux-x64-v2.4.8.zip
-- name: Typesense-Dashboard-win32-x64-v2.4.8.zip
-  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.4.8/Typesense-Dashboard-win32-x64-v2.4.8.zip
-electron: 39.2.7
+- name: Typesense-Dashboard-darwin-x64-v2.5.0.zip
+  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.5.0/Typesense-Dashboard-darwin-x64-v2.5.0.zip
+- name: Typesense-Dashboard-linux-x64-v2.5.0.zip
+  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.5.0/Typesense-Dashboard-linux-x64-v2.5.0.zip
+- name: Typesense-Dashboard-win32-x64-v2.5.0.zip
+  url: https://github.com/bfritscher/typesense-dashboard/releases/download/v2.5.0/Typesense-Dashboard-win32-x64-v2.5.0.zip
+electron: 43.2.0
 method: src-package-lock
-electron_src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip
+electron_src: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.5.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.4.8.zip
-  found_in: package-lock.json
+  found_in: typesense-dashboard-2.5.0/src-electron/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.5.0.zip

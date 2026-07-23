@@ -18,3 +18,8 @@ downloads:
   name: bananas_universal.dmg
   version: 0.0.22
 we_tried: we0:urls:7855f381ac19
+evidence:
+  kind: binary
+  source: https://github.com/mistweaverco/bananas/releases/download/v0.0.22/bananas_universal.dmg
+  found_in: bananas_universal.dmg
+  signal: which-electron rg signal

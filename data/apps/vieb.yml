@@ -71,3 +71,8 @@ downloads:
   url: https://github.com/Jelmerro/Vieb/releases/download/12.10.0/vieb_12.10.0_arm64.deb
 latest: 12.10.0
 src: https://github.com/Jelmerro/Vieb/archive/refs/tags/12.10.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/Jelmerro/Vieb/releases/download/12.10.0/vieb-12.10.0.aarch64.rpm
+  found_in: vieb-12.10.0.aarch64.rpm
+  signal: which-electron rg signal

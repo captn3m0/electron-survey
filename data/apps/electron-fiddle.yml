@@ -63,3 +63,8 @@ electron: 40.8.5
 method: which-electron-rg
 latest: v0.39.0
 src: https://github.com/electron/fiddle/archive/refs/tags/v0.39.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/electron/fiddle/releases/download/v0.39.0/electron-fiddle-0.39.0-1.arm64.rpm
+  found_in: electron-fiddle-0.39.0-1.arm64.rpm
+  signal: which-electron rg signal

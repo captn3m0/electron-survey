@@ -43,18 +43,18 @@ tiers:
     apps: 48
     detected: 44
     detected_pct: 91.7
-    green: 16
-    orange: 6
-    red: 22
-    green_pct: 36.4
-    orange_pct: 13.6
-    red_pct: 50.0
-    eol: 28
-    eol_pct: 63.6
-    median_days_behind: 323
-    median_majors_behind: 12
-    median_cves_critical: 153
-    median_cves_high: 867
+    green: 18
+    orange: 5
+    red: 21
+    green_pct: 40.9
+    orange_pct: 11.4
+    red_pct: 47.7
+    eol: 26
+    eol_pct: 59.1
+    median_days_behind: 268
+    median_majors_behind: 10
+    median_cves_critical: 151
+    median_cves_high: 850
     with_critical_cve: 44
     with_critical_cve_pct: 100.0
   established:
@@ -62,31 +62,31 @@ tiers:
     apps: 217
     detected: 183
     detected_pct: 84.3
-    green: 54
-    orange: 43
+    green: 55
+    orange: 42
     red: 86
-    green_pct: 29.5
-    orange_pct: 23.5
+    green_pct: 30.1
+    orange_pct: 23.0
     red_pct: 47.0
-    eol: 129
-    eol_pct: 70.5
+    eol: 128
+    eol_pct: 69.9
     median_days_behind: 268
     median_majors_behind: 10
     median_cves_critical: 153
     median_cves_high: 855
-    with_critical_cve: 183
-    with_critical_cve_pct: 100.0
+    with_critical_cve: 181
+    with_critical_cve_pct: 98.9
   minimal:
     label: Minimal
     apps: 520
     detected: 458
     detected_pct: 88.1
     green: 79
-    orange: 83
-    red: 296
+    orange: 84
+    red: 295
     green_pct: 17.2
-    orange_pct: 18.1
-    red_pct: 64.6
+    orange_pct: 18.3
+    red_pct: 64.4
     eol: 379
     eol_pct: 82.8
     median_days_behind: 646
@@ -100,56 +100,56 @@ tiers:
     apps: 1269
     detected: 1031
     detected_pct: 81.2
-    green: 101
-    orange: 104
-    red: 826
-    green_pct: 9.8
-    orange_pct: 10.1
-    red_pct: 80.1
-    eol: 930
-    eol_pct: 90.2
+    green: 103
+    orange: 103
+    red: 825
+    green_pct: 10.0
+    orange_pct: 10.0
+    red_pct: 80.0
+    eol: 928
+    eol_pct: 90.0
     median_days_behind: 884
     median_majors_behind: 30
     median_cves_critical: 167
     median_cves_high: 1077
-    with_critical_cve: 1030
-    with_critical_cve_pct: 99.9
+    with_critical_cve: 1029
+    with_critical_cve_pct: 99.8
 main:
   apps: 303
   detected: 263
   detected_pct: 86.8
-  green: 87
-  orange: 58
-  red: 118
-  green_pct: 33.1
-  orange_pct: 22.1
-  red_pct: 44.9
-  eol: 176
-  eol_pct: 66.9
+  green: 90
+  orange: 56
+  red: 117
+  green_pct: 34.2
+  orange_pct: 21.3
+  red_pct: 44.5
+  eol: 173
+  eol_pct: 65.8
   median_days_behind: 268
   median_majors_behind: 10
   median_cves_critical: 151
   median_cves_high: 850
-  with_critical_cve: 263
-  with_critical_cve_pct: 100.0
+  with_critical_cve: 261
+  with_critical_cve_pct: 99.2
 overall:
   apps: 2092
   detected: 1752
   detected_pct: 83.7
-  green: 267
-  orange: 245
-  red: 1240
-  green_pct: 15.2
-  orange_pct: 14.0
-  red_pct: 70.8
-  eol: 1485
-  eol_pct: 84.8
+  green: 272
+  orange: 243
+  red: 1237
+  green_pct: 15.5
+  orange_pct: 13.9
+  red_pct: 70.6
+  eol: 1480
+  eol_pct: 84.5
   median_days_behind: 772
   median_majors_behind: 26
   median_cves_critical: 161
   median_cves_high: 1034
-  with_critical_cve: 1751
-  with_critical_cve_pct: 99.9
+  with_critical_cve: 1748
+  with_critical_cve_pct: 99.8
 worst:
 - id: graphiql
   name: GraphiQL
@@ -157,7 +157,7 @@ worst:
   electron: 1.4.13
   chromium: 53.0.2785.143
   chromium_majors_behind: 97
-  chromium_days_behind: 3511
+  chromium_days_behind: 3512
   cves_critical: 257
   cves_high: 2137
 - id: positron
@@ -288,15 +288,15 @@ worst:
   cves_high: 1698
 stalest_majors:
 - major: 43
-  apps: 14
+  apps: 16
 - major: 42
   apps: 34
 - major: 41
-  apps: 36
+  apps: 37
 - major: 40
-  apps: 16
+  apps: 15
 - major: 39
-  apps: 29
+  apps: 28
 - major: 38
   apps: 13
 - major: 37
@@ -318,7 +318,7 @@ stalest_majors:
 - major: 29
   apps: 4
 - major: 28
-  apps: 3
+  apps: 2
 - major: 27
   apps: 6
 - major: 26

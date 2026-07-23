@@ -28,3 +28,8 @@ downloads:
 - url: https://getpublii.com/download/Publii-0.47.7-arm64.dmg
   name: Publii-0.47.7-arm64.dmg
   version: 0.47.7,17468
+evidence:
+  kind: binary
+  source: https://getpublii.com/download/Publii-0.47.6.AppImage
+  found_in: Publii-0.47.6.AppImage
+  signal: which-electron rg signal

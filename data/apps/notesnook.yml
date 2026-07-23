@@ -79,3 +79,8 @@ downloads:
   url: https://github.com/streetwriters/notesnook/releases/download/v3.4.4/notesnook_win_x64_portable.exe
 latest: v3.4.4
 src: https://github.com/streetwriters/notesnook/archive/refs/tags/v3.4.4.zip
+evidence:
+  kind: binary
+  source: https://github.com/streetwriters/notesnook/releases/download/v3.4.4/notesnook_mac_arm64.dmg
+  found_in: notesnook_mac_arm64.dmg
+  signal: which-electron rg signal

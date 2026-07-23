@@ -20,3 +20,8 @@ electron: 13.6.9
 method: which-electron-rg
 latest: v1.3.0
 src: https://github.com/BetterDiscord/Installer/archive/refs/tags/v1.3.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Linux.AppImage
+  found_in: BetterDiscord-Linux.AppImage
+  signal: which-electron rg signal

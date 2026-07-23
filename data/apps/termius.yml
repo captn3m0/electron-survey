@@ -18,3 +18,8 @@ downloads:
   version: 9.41.1
 electron: 21.4.4
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://autoupdate.termius.com/mac-arm64/Termius.dmg
+  found_in: Termius.dmg
+  signal: which-electron rg signal

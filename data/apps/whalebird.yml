@@ -16,3 +16,8 @@ downloads:
 - url: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-mac-universal.dmg
   name: Whalebird-6.3.0-mac-universal.dmg
   version: 6.3.0
+evidence:
+  kind: binary
+  source: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-mac-universal.dmg
+  found_in: Whalebird-6.3.0-mac-universal.dmg
+  signal: which-electron rg signal

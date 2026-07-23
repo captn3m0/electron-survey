@@ -13,3 +13,8 @@ downloads:
   version: 2.2.1.2340
 electron: 42.4.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://static.mypikpak.com/mac/PikPak-v2.2.1.2340-arm64.zip
+  found_in: PikPak-v2.2.1.2340-arm64.zip
+  signal: which-electron rg signal

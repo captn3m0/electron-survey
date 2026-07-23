@@ -17,3 +17,8 @@ electron: 29.2.0
 method: which-electron-rg
 latest: v1.4.0
 src: https://github.com/actuallymentor/battery/archive/refs/tags/v1.4.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip
+  found_in: battery-1.4.0-mac-arm64.zip
+  signal: which-electron rg signal

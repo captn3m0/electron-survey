@@ -127,3 +127,8 @@ downloads:
   url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/venmic-x64.node
 latest: v1.2.4
 src: https://github.com/Legcord/Legcord/archive/refs/tags/v1.2.4.zip
+evidence:
+  kind: binary
+  source: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-aarch64.rpm
+  found_in: Legcord-1.2.4-linux-aarch64.rpm
+  signal: which-electron rg signal

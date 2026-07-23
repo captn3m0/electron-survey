@@ -11,3 +11,8 @@ downloads:
 - url: https://github.com/Kochava-Studios/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-arm64.dmg
   name: Witsy-3.5.2-darwin-arm64.dmg
   version: 3.5.2
+evidence:
+  kind: binary
+  source: https://github.com/Kochava-Studios/witsy/releases/download/v3.5.2/Witsy-3.5.2-darwin-arm64.dmg
+  found_in: Witsy-3.5.2-darwin-arm64.dmg
+  signal: which-electron rg signal

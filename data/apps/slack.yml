@@ -29,3 +29,8 @@ packages:
   os: macos
   arch: arm64
 name: Slack
+evidence:
+  kind: binary
+  source: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.48.102/Slack-4.48.102-macOS.dmg
+  found_in: Slack-4.48.102-macOS.dmg
+  signal: which-electron rg signal

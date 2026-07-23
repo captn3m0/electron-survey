@@ -42,3 +42,8 @@ downloads:
 homebrew: proton-mail
 electron: 29.0.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/proton-mail-1.0.6-1.x86_64.rpm
+  found_in: proton-mail-1.0.6-1.x86_64.rpm
+  signal: which-electron rg signal

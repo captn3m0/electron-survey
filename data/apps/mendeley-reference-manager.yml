@@ -14,3 +14,8 @@ downloads:
   version: 2.148.0
 electron: 40.6.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.148.0-universal.dmg
+  found_in: mendeley-reference-manager-2.148.0-universal.dmg
+  signal: which-electron rg signal

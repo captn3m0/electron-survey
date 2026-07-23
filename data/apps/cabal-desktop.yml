@@ -45,3 +45,8 @@ electron: 14.0.0
 method: which-electron-rg
 latest: v8.0.0
 src: https://github.com/cabal-club/cabal-desktop/archive/refs/tags/v8.0.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-linux-x86_64.AppImage
+  found_in: cabal-desktop-8.0.0-linux-x86_64.AppImage
+  signal: which-electron rg signal

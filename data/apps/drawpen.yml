@@ -41,3 +41,8 @@ downloads:
 - name: RELEASES
   url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/RELEASES
 homebrew: drawpen
+evidence:
+  kind: binary
+  source: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen-0.0.53-1.x86_64.rpm
+  found_in: drawpen-0.0.53-1.x86_64.rpm
+  signal: which-electron rg signal

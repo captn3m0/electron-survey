@@ -10,3 +10,8 @@ downloads:
 - url: https://github.com/Automattic/wp-desktop/releases/download/v8.2.3/wordpress.com-macOS-dmg-8.2.3-arm64.dmg
   name: wordpress.com-macOS-dmg-8.2.3-arm64.dmg
   version: 8.2.3
+evidence:
+  kind: binary
+  source: https://github.com/Automattic/wp-desktop/releases/download/v8.2.3/wordpress.com-macOS-dmg-8.2.3-arm64.dmg
+  found_in: wordpress.com-macOS-dmg-8.2.3-arm64.dmg
+  signal: which-electron rg signal

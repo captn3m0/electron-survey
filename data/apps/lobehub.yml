@@ -67,7 +67,12 @@ downloads:
   url: https://github.com/lobehub/lobehub/releases/download/v2.2.10/lobehub-desktop_2.2.10_amd64.snap
 - name: lobehub-renderer.tar.gz
   url: https://github.com/lobehub/lobehub/releases/download/v2.2.10/lobehub-renderer.tar.gz
-electron: 41.1.0
+electron: 41.3.0
 method: which-electron-rg
 latest: v2.2.10
 src: https://github.com/lobehub/lobe-chat/archive/refs/tags/v2.2.10.zip
+evidence:
+  kind: binary
+  source: https://github.com/lobehub/lobehub/releases/download/v2.2.10/lobehub-desktop-2.2.10.x86_64.rpm
+  found_in: lobehub-desktop-2.2.10.x86_64.rpm
+  signal: which-electron rg signal

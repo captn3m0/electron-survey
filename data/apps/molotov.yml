@@ -15,3 +15,8 @@ downloads:
   version: 7.0.0
 electron: 34.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://desktop-auto-upgrade.molotov.tv/mac/m1/Molotov-7.0.0-mac.zip
+  found_in: Molotov-7.0.0-mac.zip
+  signal: which-electron rg signal

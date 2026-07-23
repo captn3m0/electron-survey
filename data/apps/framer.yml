@@ -13,3 +13,8 @@ downloads:
   version: 2026.24.3
 electron: 42.3.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://updates.framer.com/electron/darwin/arm64/Framer-2026.24.3.zip
+  found_in: Framer-2026.24.3.zip
+  signal: which-electron rg signal

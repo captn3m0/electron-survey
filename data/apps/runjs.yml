@@ -14,3 +14,8 @@ packages:
 - url: https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0-universal.dmg
   format: dmg
   os: macos
+evidence:
+  kind: binary
+  source: https://github.com/lukehaas/RunJS/releases/download/v3.2.2/RunJS-3.2.2-universal.dmg
+  found_in: RunJS-3.2.2-universal.dmg
+  signal: which-electron rg signal

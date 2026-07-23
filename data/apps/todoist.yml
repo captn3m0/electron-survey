@@ -10,3 +10,8 @@ downloads:
   version: 9.29.1
 electron: 42.4.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://electron-dl.todoist.com/mac/Todoist-darwin-9.29.1-arm64-latest.dmg
+  found_in: Todoist-darwin-9.29.1-arm64-latest.dmg
+  signal: which-electron rg signal

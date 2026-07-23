@@ -13,3 +13,8 @@ downloads:
   version: 0.12.1
 electron: 32.3.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://d1a1dx1sgvjqrz.cloudfront.net/aqua-voice-updates/darwin/arm64/Aqua%20Voice-darwin-arm64-0.12.1.zip
+  found_in: Aqua%20Voice-darwin-arm64-0.12.1.zip
+  signal: which-electron rg signal

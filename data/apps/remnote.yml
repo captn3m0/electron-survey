@@ -15,3 +15,8 @@ downloads:
   version: 1.26.32
 electron: 36.9.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download2.remnote.io/remnote-desktop2/RemNote-1.26.32-arm64-mac.zip
+  found_in: RemNote-1.26.32-arm64-mac.zip
+  signal: which-electron rg signal

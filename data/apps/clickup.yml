@@ -17,3 +17,8 @@ downloads:
   version: 3.5.230,260616wecrh5vza
 electron: 41.2.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.todesktop.com/221003ra4tebclw/ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
+  found_in: ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
+  signal: which-electron rg signal

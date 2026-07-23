@@ -38,3 +38,8 @@ downloads:
 - name: via_desktop-2026.5.18-full.nupkg
   url: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via_desktop-2026.5.18-full.nupkg
 homebrew: via
+evidence:
+  kind: binary
+  source: https://github.com/cebby2420/via-desktop/releases/download/v2026.5.18/via-desktop-2026.5.18-1.x86_64.rpm
+  found_in: via-desktop-2026.5.18-1.x86_64.rpm
+  signal: which-electron rg signal

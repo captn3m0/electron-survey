@@ -14,3 +14,8 @@ downloads:
   version: 26.04.01341-202607130058
 electron: 36.9.4
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://dl3.xmind.net/Xmind-for-macOS-26.04.01341-202607130058.dmg
+  found_in: Xmind-for-macOS-26.04.01341-202607130058.dmg
+  signal: which-electron rg signal

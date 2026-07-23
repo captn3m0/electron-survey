@@ -45,3 +45,8 @@ downloads:
   url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox_0.40.0_amd64.snap
 latest: v0.40.0
 src: https://github.com/flawiddsouza/Restfox/archive/refs/tags/v0.40.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0-1.x86_64.rpm
+  found_in: Restfox-0.40.0-1.x86_64.rpm
+  signal: which-electron rg signal

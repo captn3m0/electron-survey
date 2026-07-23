@@ -15,3 +15,8 @@ downloads:
 - url: https://open.u-tools.cn/download/uTools-7.8.0-arm64.dmg
   name: uTools-7.8.0-arm64.dmg
   version: 7.8.0
+evidence:
+  kind: binary
+  source: https://open.u-tools.cn/download/uTools-7.8.0-arm64.dmg
+  found_in: uTools-7.8.0-arm64.dmg
+  signal: which-electron rg signal

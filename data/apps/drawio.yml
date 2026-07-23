@@ -79,7 +79,12 @@ downloads:
   url: https://github.com/jgraph/drawio-desktop/releases/download/v30.4.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v30.4.1/latest.yml
-electron: 42.7.0
+electron: 42.7.1
 method: which-electron-rg
 latest: v30.4.1
 src: https://github.com/jgraph/drawio-desktop/archive/refs/tags/v30.4.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/jgraph/drawio-desktop/releases/download/v30.4.1/drawio-aarch64-30.4.1.rpm
+  found_in: drawio-aarch64-30.4.1.rpm
+  signal: which-electron rg signal

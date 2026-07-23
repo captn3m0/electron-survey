@@ -33,3 +33,8 @@ downloads:
   name: Anytype-0.55.5-mac-arm64.dmg
   version: 0.55.5
 we_tried: we0:urls:c1bfab655e83
+evidence:
+  kind: binary
+  source: https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype-0.55.5-mac-arm64.dmg
+  found_in: Anytype-0.55.5-mac-arm64.dmg
+  signal: which-electron rg signal

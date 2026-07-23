@@ -15,3 +15,8 @@ downloads:
   name: AnythingLLMDesktop-Silicon.dmg
   version: 1.15.0
 we_tried: we0:urls:d49c340e8f84
+evidence:
+  kind: binary
+  source: https://cdn.anythingllm.com/latest/AnythingLLMDesktop-Silicon.dmg
+  found_in: AnythingLLMDesktop-Silicon.dmg
+  signal: which-electron rg signal

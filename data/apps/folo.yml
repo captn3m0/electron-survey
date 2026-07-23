@@ -54,3 +54,8 @@ downloads:
   url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/render-asset.tar.gz
 latest: desktop/v1.11.0
 src: https://github.com/RSSNext/Folo/archive/refs/tags/desktop/v1.11.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-linux-x64.AppImage
+  found_in: Folo-1.11.0-linux-x64.AppImage
+  signal: which-electron rg signal (2 signals agreed)

@@ -14,3 +14,8 @@ downloads:
   version: 1.0.14
 electron: 30.0.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/replit/desktop/releases/download/v1.0.14/Replit.dmg
+  found_in: Replit.dmg
+  signal: which-electron rg signal

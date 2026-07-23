@@ -75,3 +75,8 @@ downloads:
   url: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/latest.yml
 latest: v1.85.110
 src: https://github.com/ai-shifu/ChatALL/archive/refs/tags/v1.85.110.zip
+evidence:
+  kind: binary
+  source: https://github.com/ai-shifu/ChatALL/releases/download/v1.85.110/ChatALL-1.85.110-linux-arm64.AppImage
+  found_in: ChatALL-1.85.110-linux-arm64.AppImage
+  signal: which-electron rg signal

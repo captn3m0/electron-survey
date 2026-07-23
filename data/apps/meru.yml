@@ -67,7 +67,12 @@ downloads:
   url: https://github.com/zoidsh/meru/releases/download/v3.56.3/meru_3.56.3_amd64.deb
 - name: meru_3.56.3_arm64.deb
   url: https://github.com/zoidsh/meru/releases/download/v3.56.3/meru_3.56.3_arm64.deb
-electron: 41.2.1
+electron: 43.1.1
 method: which-electron-rg
 latest: v3.56.3
 src: https://github.com/timche/gmail-desktop/archive/refs/tags/v3.56.3.zip
+evidence:
+  kind: binary
+  source: https://github.com/zoidsh/meru/releases/download/v3.56.3/meru-3.56.3.aarch64.rpm
+  found_in: meru-3.56.3.aarch64.rpm
+  signal: which-electron rg signal

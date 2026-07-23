@@ -21,3 +21,8 @@ packages:
 name: Loom
 electron: 39.2.6
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://packages.loom.com/desktop-packages/Loom-0.338.4-arm64.dmg
+  found_in: Loom-0.338.4-arm64.dmg
+  signal: which-electron rg signal

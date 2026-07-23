@@ -14,3 +14,8 @@ downloads:
 - url: https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.75.1001.dmg
   name: youkuclient_setup_9.2.75.1001.dmg
   version: 9.2.75.1001
+evidence:
+  kind: binary
+  source: https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.75.1001.dmg
+  found_in: youkuclient_setup_9.2.75.1001.dmg
+  signal: which-electron rg signal

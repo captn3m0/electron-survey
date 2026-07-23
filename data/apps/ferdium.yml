@@ -110,3 +110,8 @@ downloads:
   url: https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/latest.yml
 latest: v7.1.2
 src: https://github.com/ferdium/ferdium-app/archive/refs/tags/v7.1.2.zip
+evidence:
+  kind: binary
+  source: https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-linux-7.1.2-aarch64.rpm
+  found_in: Ferdium-linux-7.1.2-aarch64.rpm
+  signal: which-electron rg signal

@@ -74,3 +74,8 @@ downloads:
 latest: v0.27.2
 src: https://github.com/toeverything/AFFiNE/archive/refs/tags/v0.27.2.zip
 we_tried: we0:v0.27.0
+evidence:
+  kind: binary
+  source: https://github.com/toeverything/AFFiNE/releases/download/v0.27.2/affine-0.27.2-stable-linux-x64.zip
+  found_in: affine-0.27.2-stable-linux-x64.zip
+  signal: which-electron rg signal (2 signals agreed)

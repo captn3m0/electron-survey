@@ -24,3 +24,8 @@ electron: 19.1.9
 method: which-electron-rg
 latest: v1.10.1
 src: https://github.com/OutlineFoundation/outline-apps/archive/refs/tags/v1.10.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage
+  found_in: Outline-Client.AppImage
+  signal: which-electron rg signal

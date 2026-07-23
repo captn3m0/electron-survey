@@ -15,3 +15,8 @@ downloads:
 - url: https://pkg-ant.baidu.com/issue/netdisk/MACguanjia/8.6.0/BaiduNetdisk_mac_8.6.0_arm64.dmg
   name: BaiduNetdisk_mac_8.6.0_arm64.dmg
   version: 8.6.0
+evidence:
+  kind: binary
+  source: https://pkg-ant.baidu.com/issue/netdisk/MACguanjia/8.6.0/BaiduNetdisk_mac_8.6.0_arm64.dmg
+  found_in: BaiduNetdisk_mac_8.6.0_arm64.dmg
+  signal: which-electron rg signal

@@ -114,3 +114,8 @@ downloads:
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX_1.13.0_arm64.deb
 latest: v1.13.0
 src: https://github.com/emqx/MQTTX/archive/refs/tags/v1.13.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.aarch64.rpm
+  found_in: MQTTX-1.13.0.aarch64.rpm
+  signal: which-electron rg signal

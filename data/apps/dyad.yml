@@ -48,3 +48,8 @@ electron: 40.0.0
 method: which-electron-rg
 latest: v1.8.0
 src: https://github.com/dyad-sh/dyad/archive/refs/tags/v1.8.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/dyad-sh/dyad/releases/download/v1.8.0/dyad-1.8.0-1.x86_64.rpm
+  found_in: dyad-1.8.0-1.x86_64.rpm
+  signal: which-electron rg signal

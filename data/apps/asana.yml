@@ -13,3 +13,8 @@ packages:
 name: Asana
 electron: 37.7.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://desktop-downloads.asana.com/darwin_arm64/prod/v2.6.0/Asana-darwin-arm64-2.6.0.zip
+  found_in: Asana-darwin-arm64-2.6.0.zip
+  signal: which-electron rg signal

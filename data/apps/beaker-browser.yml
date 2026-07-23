@@ -26,3 +26,8 @@ aur:
 name: Beaker Browser
 electron_src: https://github.com/beakerbrowser/beaker/archive/refs/tags/1.1.0.zip
 we_tried: we0:1.1.0
+evidence:
+  kind: binary
+  source: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/Beaker.Browser-1.1.0.AppImage
+  found_in: Beaker.Browser-1.1.0.AppImage
+  signal: which-electron rg signal

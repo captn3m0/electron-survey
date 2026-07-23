@@ -15,3 +15,8 @@ downloads:
   version: 1.31.1
 electron: 41.3.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://releases.linear.app/Linear-1.31.1-universal.dmg
+  found_in: Linear-1.31.1-universal.dmg
+  signal: which-electron rg signal

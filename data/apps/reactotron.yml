@@ -26,3 +26,8 @@ electron: 27.0.3
 method: which-electron-rg
 latest: reactotron-react-native@5.2.0
 src: https://github.com/infinitered/reactotron/archive/refs/tags/reactotron-react-native@5.2.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.AppImage
+  found_in: Reactotron-3.10.0.AppImage
+  signal: which-electron rg signal

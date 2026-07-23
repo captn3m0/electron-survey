@@ -8,3 +8,8 @@ downloads:
 name: ChatWork
 electron: 41.1.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://desktop-app.chatwork.com/installer/ChatWork.dmg
+  found_in: ChatWork.dmg
+  signal: which-electron rg signal

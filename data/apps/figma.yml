@@ -17,3 +17,8 @@ additionalAUR:
 - figma-linux-next
 electron: 39.8.2
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://desktop.figma.com/mac-arm/Figma-126.2.9.zip
+  found_in: Figma-126.2.9.zip
+  signal: which-electron rg signal

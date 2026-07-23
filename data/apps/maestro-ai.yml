@@ -53,7 +53,12 @@ downloads:
   url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/Maestro-Portable-0.17.3-x64.exe
 - name: Maestro-Setup-0.17.3-x64.exe
   url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/Maestro-Setup-0.17.3-x64.exe
-electron: 28.3.3
+electron: 41.6.0
 method: which-electron-rg
 latest: v0.17.3
 src: https://github.com/pedramamini/Maestro/archive/refs/tags/v0.17.3.zip
+evidence:
+  kind: binary
+  source: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-aarch64.rpm
+  found_in: maestro-0.17.3-aarch64.rpm
+  signal: which-electron rg signal

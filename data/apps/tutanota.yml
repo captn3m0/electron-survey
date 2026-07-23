@@ -19,5 +19,10 @@ downloads:
 - url: https://app.tuta.com/desktop/tutanota-desktop-mac.dmg
   name: tutanota-desktop-mac.dmg
   version: 355.260710.0
-electron: 42.5.0
+electron: 43.1.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://mail.tutanota.com/desktop/tutanota-desktop-linux.AppImage
+  found_in: tutanota-desktop-linux.AppImage
+  signal: which-electron rg signal

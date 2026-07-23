@@ -10,3 +10,8 @@ downloads:
 name: Biscuit
 electron: 39.2.5
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/agata/dl.biscuit/releases/download/1.2.33/Biscuit-1.2.33-arm64.dmg
+  found_in: Biscuit-1.2.33-arm64.dmg
+  signal: which-electron rg signal

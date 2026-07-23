@@ -151,7 +151,12 @@ downloads:
   url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Release
 - name: Release.gpg
   url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Release.gpg
-electron: 39.5.2
+electron: 41.10.0
 method: which-electron-rg
 latest: v1.10.3
 src: https://github.com/freelensapp/freelens/archive/refs/tags/v1.10.3.zip
+evidence:
+  kind: binary
+  source: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-linux-amd64.rpm
+  found_in: Freelens-1.10.3-linux-amd64.rpm
+  signal: which-electron rg signal

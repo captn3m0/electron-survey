@@ -15,3 +15,8 @@ downloads:
   name: osx-arm64-devtunnel-zip
   version: 1.0.1972+07cc55c789
 we_tried: we0:urls:c9ac6b3e0c28
+evidence:
+  kind: binary
+  source: https://github.com/Microsoft/BotFramework-Emulator/releases/download/v4.14.1/botframework-emulator-4.14.1-mac.zip
+  found_in: botframework-emulator-4.14.1-mac.zip
+  signal: which-electron rg signal

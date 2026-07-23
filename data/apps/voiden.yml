@@ -16,3 +16,8 @@ downloads:
   version: 2.2.2
 electron: 39.8.8
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://voiden-releases.s3.eu-west-1.amazonaws.com/voiden/darwin/arm64/Voiden-darwin-arm64-2.2.2.zip
+  found_in: Voiden-darwin-arm64-2.2.2.zip
+  signal: which-electron rg signal

@@ -10,3 +10,8 @@ downloads:
 name: PopSQL
 electron: 27.0.2
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://popsql-releases.s3.amazonaws.com/mac/PopSQL-1.0.135-arm64.dmg
+  found_in: PopSQL-1.0.135-arm64.dmg
+  signal: which-electron rg signal

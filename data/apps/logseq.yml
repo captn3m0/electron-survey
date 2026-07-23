@@ -102,3 +102,8 @@ downloads:
   url: https://github.com/logseq/logseq/releases/download/2.0.1/VERSION
 latest: 2.0.1
 src: https://github.com/logseq/logseq/archive/refs/tags/2.0.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/logseq/logseq/releases/download/2.0.1/Logseq-linux-arm64-2.0.1.AppImage
+  found_in: Logseq-linux-arm64-2.0.1.AppImage
+  signal: which-electron rg signal

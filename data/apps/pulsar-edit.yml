@@ -79,7 +79,12 @@ downloads:
 - name: Windows.Pulsar.Setup.1.132.1.exe
   url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Windows.Pulsar.Setup.1.132.1.exe
   checksum: 0086dd54caa0a325162ce915cbb3bf5ecca0bd11f9df81e97665ef48e64eefb9
-electron: 30.0.9
+electron: 30.5.1
 method: which-electron-rg
 latest: v1.132.1
 src: https://github.com/pulsar-edit/pulsar/archive/refs/tags/v1.132.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar-1.132.1.aarch64.rpm
+  found_in: ARM.Linux.pulsar-1.132.1.aarch64.rpm
+  signal: which-electron rg signal

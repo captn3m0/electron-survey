@@ -56,3 +56,8 @@ downloads:
   url: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/signature.asc
 latest: v1.14.3
 src: https://github.com/oxen-io/session-desktop/archive/refs/tags/v1.14.3.zip
+evidence:
+  kind: binary
+  source: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-x86_64-1.14.3.rpm
+  found_in: session-desktop-linux-x86_64-1.14.3.rpm
+  signal: which-electron rg signal

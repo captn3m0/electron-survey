@@ -26,3 +26,8 @@ downloads:
 - url: https://prerelease.keybase.io/Keybase-arm64.dmg
   name: Keybase-arm64.dmg
   version: 6.6.3,20260603142618,f60f2ff97e
+evidence:
+  kind: binary
+  source: https://prerelease.keybase.io/keybase_amd64.deb
+  found_in: keybase_amd64.deb
+  signal: which-electron rg signal

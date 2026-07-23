@@ -18,3 +18,8 @@ downloads:
 we_tried: we0:urls:9de55008fedd
 electron: 24.1.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cdn.aliyundrive.net/downloads/apps/desktop/aDrive-6.9.3-arm64.dmg
+  found_in: aDrive-6.9.3-arm64.dmg
+  signal: which-electron rg signal

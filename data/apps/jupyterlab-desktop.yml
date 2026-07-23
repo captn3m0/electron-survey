@@ -23,33 +23,32 @@ packages:
   format: snap
   os: linux
   arch: x64
-latest: v4.2.5-1
-src: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.2.5-1.zip
+latest: v4.6.2-1
+src: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.6.2-1.zip
 downloads:
 - name: JupyterLab-macOS-arm64.zip
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-macOS-arm64.zip
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-macOS-arm64.zip
 - name: JupyterLab-macOS-x64.zip
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-macOS-x64.zip
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-macOS-x64.zip
 - name: JupyterLab-Setup-Debian-x64.deb
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Debian-x64.deb
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-Setup-Debian-x64.deb
 - name: JupyterLab-Setup-Fedora-x64.rpm
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Fedora-x64.rpm
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-Setup-Fedora-x64.rpm
 - name: JupyterLab-Setup-macOS-arm64.dmg
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-macOS-arm64.dmg
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-Setup-macOS-arm64.dmg
 - name: JupyterLab-Setup-macOS-x64.dmg
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-macOS-x64.dmg
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-Setup-macOS-x64.dmg
 - name: JupyterLab-Setup-Windows-x64.exe
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Windows-x64.exe
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-Setup-Windows-x64.exe
 - name: JupyterLab-Setup.snap
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup.snap
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/JupyterLab-Setup.snap
 - name: latest.yml
-  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/latest.yml
-electron: 27.0.2
+  url: https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.2-1/latest.yml
+electron: 42.5.0
 method: src-yarn-lock
-electron_src: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.2.5-1.zip
+electron_src: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.6.2-1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.2.5-1.zip
-  found_in: yarn.lock
+  found_in: jupyterlab-desktop-4.6.2-1/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
+  source: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.6.2-1.zip

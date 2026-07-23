@@ -62,3 +62,8 @@ electron: 38.8.6
 method: which-electron-rg
 latest: v0.43.0
 src: https://github.com/kubernetes-sigs/headlamp/archive/refs/tags/v0.43.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.43.0/Headlamp-0.43.0-linux-arm64.AppImage
+  found_in: Headlamp-0.43.0-linux-arm64.AppImage
+  signal: which-electron rg signal

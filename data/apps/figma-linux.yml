@@ -46,3 +46,8 @@ downloads:
   url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_x86_64.AppImage
 - name: figma-linux_0.11.5_linux_x86_64.rpm
   url: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_x86_64.rpm
+evidence:
+  kind: binary
+  source: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_aarch64.rpm
+  found_in: figma-linux_0.11.5_linux_aarch64.rpm
+  signal: which-electron rg signal

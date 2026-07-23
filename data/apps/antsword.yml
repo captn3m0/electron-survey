@@ -11,3 +11,8 @@ downloads:
   name: Yuque-4.2.1.1333.dmg
   version: 4.2.1.1333,BJ573111a41a6d47e0a380a8cac832ae49
 we_tried: we0:urls:4ee49862179f
+evidence:
+  kind: binary
+  source: https://app.nlark.com/yuque-desktop/4.2.1.1333/BJ573111a41a6d47e0a380a8cac832ae49/Yuque-4.2.1.1333.dmg
+  found_in: Yuque-4.2.1.1333.dmg
+  signal: which-electron rg signal

@@ -25,3 +25,8 @@ packages:
   os: macos
   arch: arm64
 name: Notion
+evidence:
+  kind: binary
+  source: https://desktop-release.notion-static.com/Notion-7.9.0-arm64.dmg
+  found_in: Notion-7.9.0-arm64.dmg
+  signal: which-electron rg signal

@@ -49,3 +49,8 @@ electron: 37.6.0
 method: which-electron-rg
 latest: v1.39.2
 src: https://github.com/gathertown/gather-town-desktop-releases/archive/refs/tags/v1.39.2.zip
+evidence:
+  kind: binary
+  source: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.39.2/Gather-1.39.2-arm64-mac.zip
+  found_in: Gather-1.39.2-arm64-mac.zip
+  signal: which-electron rg signal

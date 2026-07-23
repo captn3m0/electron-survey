@@ -10,3 +10,8 @@ downloads:
 name: Bootstrap Studio
 electron: 37.10.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://releases.bootstrapstudio.io/8.0.1/Bootstrap%20Studio%20(arm64).dmg
+  found_in: Bootstrap%20Studio%20(arm64).dmg
+  signal: which-electron rg signal

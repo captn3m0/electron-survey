@@ -17,3 +17,8 @@ downloads:
 - url: https://desktop.githubusercontent.com/releases/3.6.3-931da4a1/GitHubDesktop-arm64.zip
   name: GitHubDesktop-arm64.zip
   version: 3.6.3-931da4a1
+evidence:
+  kind: binary
+  source: https://desktop.githubusercontent.com/releases/3.6.3-931da4a1/GitHubDesktop-arm64.zip
+  found_in: GitHubDesktop-arm64.zip
+  signal: which-electron rg signal

@@ -24,3 +24,8 @@ downloads:
   url: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-Setup-1.4.5.exe
 homebrew: atv-remote
 we_tried: we0:v1.4.5
+evidence:
+  kind: binary
+  source: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-1.4.5.AppImage
+  found_in: ATV-Remote-1.4.5.AppImage
+  signal: which-electron rg signal

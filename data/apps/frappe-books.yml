@@ -81,3 +81,8 @@ downloads:
   url: https://github.com/frappe/books/releases/download/v0.36.0/latest.yml
 latest: v0.36.0
 src: https://github.com/frappe/books/archive/refs/tags/v0.36.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-aarch64.rpm
+  found_in: Frappe-Books-v0.36.0-linux-aarch64.rpm
+  signal: which-electron rg signal

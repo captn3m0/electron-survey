@@ -39,3 +39,8 @@ electron: 25.3.0
 method: which-electron-rg
 latest: v0.14.0
 src: https://github.com/jhen0409/react-native-debugger/archive/refs/tags/v0.14.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger-0.14.0-1.amd64.rpm
+  found_in: react-native-debugger-0.14.0-1.amd64.rpm
+  signal: which-electron rg signal

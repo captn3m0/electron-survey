@@ -86,3 +86,8 @@ downloads:
   url: https://github.com/hovancik/stretchly/releases/download/v1.22.0/Stretchly_1.22.0_arm64.deb
 latest: v1.22.0
 src: https://github.com/hovancik/stretchly/archive/refs/tags/v1.22.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/hovancik/stretchly/releases/download/v1.22.0/Stretchly-1.22.0.aarch64.rpm
+  found_in: Stretchly-1.22.0.aarch64.rpm
+  signal: which-electron rg signal

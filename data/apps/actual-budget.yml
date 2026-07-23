@@ -40,3 +40,8 @@ downloads:
   url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-windows-x64.exe
 homebrew: actual
 we_tried: we0:v26.7.0
+evidence:
+  kind: binary
+  source: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-arm64.AppImage
+  found_in: Actual-linux-arm64.AppImage
+  signal: which-electron rg signal

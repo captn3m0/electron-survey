@@ -33,3 +33,8 @@ electron: 1.8.4
 method: which-electron-version_file
 latest: v1.18.0
 src: https://github.com/aliyun/oss-browser/archive/refs/tags/v1.18.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/aliyun/oss-browser/releases/download/v1.18.0/oss-browser-darwin-x64.zip
+  found_in: oss-browser-darwin-x64.zip
+  signal: which-electron version_file signal (3 signals agreed)

@@ -69,3 +69,8 @@ electron: 37.2.4
 method: which-electron-rg
 latest: v2.1.6
 src: https://github.com/balena-io/etcher/archive/refs/tags/v2.1.6.zip
+evidence:
+  kind: binary
+  source: https://github.com/balena-io/etcher/releases/download/v2.1.6/balena-etcher-2.1.6-1.x86_64.rpm
+  found_in: balena-etcher-2.1.6-1.x86_64.rpm
+  signal: which-electron rg signal

@@ -16,3 +16,8 @@ downloads:
 we_tried: we0:urls:8edffade44b6
 electron: 40.4.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.akiflow.com/builds/Akiflow-2.74.21-d6d9f817-universal.dmg
+  found_in: Akiflow-2.74.21-d6d9f817-universal.dmg
+  signal: which-electron rg signal

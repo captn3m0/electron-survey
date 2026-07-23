@@ -12,3 +12,8 @@ downloads:
   version: 6.4.1,39d919119a63419159e7dce344162dfb
 electron: 32.1.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://www.oculus.com/x2asset/electron-apps/odh/39d919119a63419159e7dce344162dfb/Meta%20Quest%20Developer%20Hub-6.4.1.zip
+  found_in: Meta%20Quest%20Developer%20Hub-6.4.1.zip
+  signal: which-electron rg signal

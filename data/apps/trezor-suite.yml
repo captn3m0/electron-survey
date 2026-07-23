@@ -14,55 +14,60 @@ packages:
 aur:
 - trezor-bridge-bin
 - trezor-suite-bin
-electron: 41.3.0
+electron: 42.5.0
 method: which-electron-rg
-latest: v26.6.1
-src: https://github.com/trezor/trezor-suite/archive/refs/tags/v26.6.1.zip
+latest: v26.7.2
+src: https://github.com/trezor/trezor-suite/archive/refs/tags/v26.7.2.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/latest-linux-arm64.yml
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/latest-linux.yml
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/latest-mac.yml
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/latest.yml
-- name: Trezor-Suite-26.6.1-linux-arm64.AppImage
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-linux-arm64.AppImage
-- name: Trezor-Suite-26.6.1-linux-arm64.AppImage.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-linux-arm64.AppImage.asc
-- name: Trezor-Suite-26.6.1-linux-x86_64.AppImage
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-linux-x86_64.AppImage
-- name: Trezor-Suite-26.6.1-linux-x86_64.AppImage.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-linux-x86_64.AppImage.asc
-- name: Trezor-Suite-26.6.1-mac-arm64.dmg
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.dmg
-- name: Trezor-Suite-26.6.1-mac-arm64.dmg.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.dmg.asc
-- name: Trezor-Suite-26.6.1-mac-arm64.dmg.blockmap
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.dmg.blockmap
-- name: Trezor-Suite-26.6.1-mac-arm64.zip
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.zip
-- name: Trezor-Suite-26.6.1-mac-arm64.zip.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.zip.asc
-- name: Trezor-Suite-26.6.1-mac-arm64.zip.blockmap
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-arm64.zip.blockmap
-- name: Trezor-Suite-26.6.1-mac-x64.dmg
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-x64.dmg
-- name: Trezor-Suite-26.6.1-mac-x64.dmg.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-x64.dmg.asc
-- name: Trezor-Suite-26.6.1-mac-x64.dmg.blockmap
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-x64.dmg.blockmap
-- name: Trezor-Suite-26.6.1-mac-x64.zip
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-x64.zip
-- name: Trezor-Suite-26.6.1-mac-x64.zip.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-x64.zip.asc
-- name: Trezor-Suite-26.6.1-mac-x64.zip.blockmap
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-mac-x64.zip.blockmap
-- name: Trezor-Suite-26.6.1-win-x64.exe
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-win-x64.exe
-- name: Trezor-Suite-26.6.1-win-x64.exe.asc
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-win-x64.exe.asc
-- name: Trezor-Suite-26.6.1-win-x64.exe.blockmap
-  url: https://github.com/trezor/trezor-suite/releases/download/v26.6.1/Trezor-Suite-26.6.1-win-x64.exe.blockmap
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/latest.yml
+- name: Trezor-Suite-26.7.2-linux-arm64.AppImage
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-arm64.AppImage
+- name: Trezor-Suite-26.7.2-linux-arm64.AppImage.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-arm64.AppImage.asc
+- name: Trezor-Suite-26.7.2-linux-x86_64.AppImage
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-x86_64.AppImage
+- name: Trezor-Suite-26.7.2-linux-x86_64.AppImage.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-x86_64.AppImage.asc
+- name: Trezor-Suite-26.7.2-mac-arm64.dmg
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-arm64.dmg
+- name: Trezor-Suite-26.7.2-mac-arm64.dmg.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-arm64.dmg.asc
+- name: Trezor-Suite-26.7.2-mac-arm64.dmg.blockmap
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-arm64.dmg.blockmap
+- name: Trezor-Suite-26.7.2-mac-arm64.zip
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-arm64.zip
+- name: Trezor-Suite-26.7.2-mac-arm64.zip.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-arm64.zip.asc
+- name: Trezor-Suite-26.7.2-mac-arm64.zip.blockmap
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-arm64.zip.blockmap
+- name: Trezor-Suite-26.7.2-mac-x64.dmg
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-x64.dmg
+- name: Trezor-Suite-26.7.2-mac-x64.dmg.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-x64.dmg.asc
+- name: Trezor-Suite-26.7.2-mac-x64.dmg.blockmap
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-x64.dmg.blockmap
+- name: Trezor-Suite-26.7.2-mac-x64.zip
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-x64.zip
+- name: Trezor-Suite-26.7.2-mac-x64.zip.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-x64.zip.asc
+- name: Trezor-Suite-26.7.2-mac-x64.zip.blockmap
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-mac-x64.zip.blockmap
+- name: Trezor-Suite-26.7.2-win-x64.exe
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-win-x64.exe
+- name: Trezor-Suite-26.7.2-win-x64.exe.asc
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-win-x64.exe.asc
+- name: Trezor-Suite-26.7.2-win-x64.exe.blockmap
+  url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-win-x64.exe.blockmap
 homebrew: trezor-suite
+evidence:
+  kind: binary
+  source: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-arm64.AppImage
+  found_in: Trezor-Suite-26.7.2-linux-arm64.AppImage
+  signal: which-electron rg signal

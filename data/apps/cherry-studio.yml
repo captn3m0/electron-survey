@@ -18,3 +18,8 @@ downloads:
 - url: https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-arm64.dmg
   name: Cherry-Studio-1.9.12-arm64.dmg
   version: 1.9.12
+evidence:
+  kind: binary
+  source: https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-arm64.dmg
+  found_in: Cherry-Studio-1.9.12-arm64.dmg
+  signal: which-electron rg signal

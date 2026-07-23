@@ -1,40 +1,43 @@
 id: expresslrs-configurator
 repository: https://github.com/ExpressLRS/ExpressLRS-Configurator
 website: https://github.com/ExpressLRS/ExpressLRS-Configurator
-latest: v1.8.2
-src: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.2.zip
+latest: v1.8.3
+src: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.3.zip
 downloads:
-- name: ExpressLRS-Configurator-1.8.2.dmg
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/ExpressLRS-Configurator-1.8.2.dmg
-- name: ExpressLRS-Configurator-1.8.2.dmg.blockmap
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/ExpressLRS-Configurator-1.8.2.dmg.blockmap
-- name: expresslrs-configurator-1.8.2.pacman
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/expresslrs-configurator-1.8.2.pacman
-- name: expresslrs-configurator-1.8.2.x86_64.rpm
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/expresslrs-configurator-1.8.2.x86_64.rpm
-- name: expresslrs-configurator-1.8.2.zip
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/expresslrs-configurator-1.8.2.zip
-- name: ExpressLRS-Configurator-Setup-1.8.2.exe
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/ExpressLRS-Configurator-Setup-1.8.2.exe
-- name: ExpressLRS-Configurator-Setup-1.8.2.exe.blockmap
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/ExpressLRS-Configurator-Setup-1.8.2.exe.blockmap
-- name: expresslrs-configurator_1.8.2_amd64.deb
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/expresslrs-configurator_1.8.2_amd64.deb
+- name: ExpressLRS-Configurator-1.8.3-arm64.dmg
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/ExpressLRS-Configurator-1.8.3-arm64.dmg
+- name: ExpressLRS-Configurator-1.8.3-arm64.dmg.blockmap
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/ExpressLRS-Configurator-1.8.3-arm64.dmg.blockmap
+- name: ExpressLRS-Configurator-1.8.3-x64.dmg
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/ExpressLRS-Configurator-1.8.3-x64.dmg
+- name: ExpressLRS-Configurator-1.8.3-x64.dmg.blockmap
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/ExpressLRS-Configurator-1.8.3-x64.dmg.blockmap
+- name: expresslrs-configurator-1.8.3.pacman
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/expresslrs-configurator-1.8.3.pacman
+- name: expresslrs-configurator-1.8.3.x86_64.rpm
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/expresslrs-configurator-1.8.3.x86_64.rpm
+- name: expresslrs-configurator-1.8.3.zip
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/expresslrs-configurator-1.8.3.zip
+- name: ExpressLRS-Configurator-Setup-1.8.3.exe
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/ExpressLRS-Configurator-Setup-1.8.3.exe
+- name: ExpressLRS-Configurator-Setup-1.8.3.exe.blockmap
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/ExpressLRS-Configurator-Setup-1.8.3.exe.blockmap
+- name: expresslrs-configurator_1.8.3_amd64.deb
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/expresslrs-configurator_1.8.3_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/latest-linux.yml
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/latest-mac.yml
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.2/latest.yml
+  url: https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.8.3/latest.yml
 electron: 41.2.0
 method: src-yarn-lock
 aur:
 - expresslrs-configurator
 name: ExpressLRS Configurator
-electron_src: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.2.zip
+electron_src: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.2.zip
-  found_in: yarn.lock
+  found_in: ExpressLRS-Configurator-1.8.3/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
+  source: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.3.zip

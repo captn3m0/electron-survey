@@ -15,3 +15,8 @@ downloads:
   version: 4.10.3.33593722,ed480cd7
 electron: 37.7.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/darwin-arm64/CodeBuddy-darwin-arm64-4.10.3.33593722-ed480cd7.zip
+  found_in: CodeBuddy-darwin-arm64-4.10.3.33593722-ed480cd7.zip
+  signal: which-electron rg signal

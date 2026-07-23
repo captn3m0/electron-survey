@@ -13,3 +13,8 @@ downloads:
   version: 1.138.0
 electron: 41.5.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://calendar-desktop-release.notion-static.com/Notion%20Calendar-darwin-arm64-1.138.0.zip
+  found_in: Notion%20Calendar-darwin-arm64-1.138.0.zip
+  signal: which-electron rg signal

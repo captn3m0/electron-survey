@@ -42,3 +42,8 @@ downloads:
   url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/SHA256SUMS
 latest: v0.60.0
 src: https://github.com/SabakiHQ/Sabaki/archive/refs/tags/v0.60.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-linux-arm64.AppImage
+  found_in: sabaki-v0.60.0-linux-arm64.AppImage
+  signal: which-electron rg signal

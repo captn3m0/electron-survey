@@ -58,3 +58,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/ente/photos-desktop/releases/download/v1.7.26/latest.yml
 homebrew: ente
+evidence:
+  kind: binary
+  source: https://github.com/ente/photos-desktop/releases/download/v1.7.26/ente-1.7.26-aarch64.rpm
+  found_in: ente-1.7.26-aarch64.rpm
+  signal: which-electron rg signal

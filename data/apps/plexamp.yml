@@ -15,3 +15,8 @@ downloads:
 - url: https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp-4.13.2-arm64.dmg
   name: Plexamp-4.13.2-arm64.dmg
   version: 4.13.2
+evidence:
+  kind: binary
+  source: https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp-4.13.2-arm64.dmg
+  found_in: Plexamp-4.13.2-arm64.dmg
+  signal: which-electron rg signal

@@ -32,3 +32,8 @@ latest: v5.0.7
 src: https://github.com/koush/vysor.io/archive/refs/tags/v5.0.7.zip
 electron: 24.3.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/koush/vysor.io/releases/download/v5.0.7/vysor-5.0.7-full.nupkg
+  found_in: vysor-5.0.7-full.nupkg
+  signal: which-electron rg signal

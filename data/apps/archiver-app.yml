@@ -19,3 +19,8 @@ electron: 38.4.0
 method: which-electron-rg
 latest: v5.0.9
 src: https://github.com/incbee/archiver-5-releases/archive/refs/tags/v5.0.9.zip
+evidence:
+  kind: binary
+  source: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip
+  found_in: Archiver-5.0.9-universal-mac.zip
+  signal: which-electron rg signal

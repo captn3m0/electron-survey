@@ -66,3 +66,8 @@ downloads:
   url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Windows-1.2.17-x64.zip
 latest: v1.2.17
 src: https://github.com/terreng/simple-web-server/archive/refs/tags/v1.2.17.zip
+evidence:
+  kind: binary
+  source: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-amd64.deb
+  found_in: Simple-Web-Server-Linux-1.2.17-amd64.deb
+  signal: which-electron rg signal

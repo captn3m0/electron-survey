@@ -71,3 +71,8 @@ latest: v1.43.0
 src: https://github.com/block/goose/archive/refs/tags/v1.43.0.zip
 electron: 41.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-1.43.0-1.x86_64-vulkan.rpm
+  found_in: Goose-1.43.0-1.x86_64-vulkan.rpm
+  signal: which-electron rg signal

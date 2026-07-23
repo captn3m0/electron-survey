@@ -55,3 +55,8 @@ downloads:
 - name: Sonixd-0.15.5-win-x64.zip
   url: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-win-x64.zip
 homebrew: sonixd
+evidence:
+  kind: binary
+  source: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-arm64.AppImage
+  found_in: Sonixd-0.15.5-linux-arm64.AppImage
+  signal: which-electron rg signal

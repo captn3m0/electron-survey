@@ -37,3 +37,8 @@ electron: 38.1.0
 method: which-electron-rg
 latest: v1.11.3
 src: https://github.com/amicalhq/amical/archive/refs/tags/v1.11.3.zip
+evidence:
+  kind: binary
+  source: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-1.11.3-full.nupkg
+  found_in: Amical-1.11.3-full.nupkg
+  signal: which-electron rg signal

@@ -69,3 +69,8 @@ electron: 39.8.7
 method: which-electron-rg
 latest: v4.17.0
 src: https://github.com/xpf0000/FlyEnv/archive/refs/tags/v4.17.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.rpm
+  found_in: FlyEnv-4.17.0-arm64.rpm
+  signal: which-electron rg signal

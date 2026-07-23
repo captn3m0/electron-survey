@@ -12,3 +12,8 @@ downloads:
   version: 114.0.4-release.20250509.32955
 electron: 20.0.2
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://electron.descript.com/Descript-114.0.4-release.20250509.32955-arm64.dmg
+  found_in: Descript-114.0.4-release.20250509.32955-arm64.dmg
+  signal: which-electron rg signal

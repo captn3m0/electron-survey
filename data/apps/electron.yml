@@ -236,7 +236,12 @@ downloads:
   checksum: 20feef8515c3ca969119f5f7d846275c849e93b7b917c73b94ec4763336872ad
 - name: SHASUMS256.txt
   url: https://github.com/electron/electron/releases/download/v43.2.0/SHASUMS256.txt
-electron: 43.1.1
-method: which-electron-rg
+electron: 43.2.0
+method: which-electron-version_file
 latest: v43.2.0
 src: https://github.com/electron/electron/archive/refs/tags/v43.2.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/electron/electron/releases/download/v43.2.0/electron-v43.2.0-darwin-arm64-symbols.zip
+  found_in: electron-v43.2.0-darwin-arm64-symbols.zip
+  signal: which-electron version_file signal (2 signals agreed)

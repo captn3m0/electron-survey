@@ -13,3 +13,8 @@ downloads:
   version: 0.117.0
 electron: 36.9.5
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/usemotion/desktopapp/releases/download/0.117.0/motion-0.117.0-mac-aarch64.zip
+  found_in: motion-0.117.0-mac-aarch64.zip
+  signal: which-electron rg signal

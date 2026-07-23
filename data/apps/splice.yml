@@ -13,3 +13,8 @@ packages:
 name: Splice
 electron: 38.4.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://desktop.splice.com/conveyor/stable/splice-5.4.9-mac-aarch64.zip
+  found_in: splice-5.4.9-mac-aarch64.zip
+  signal: which-electron rg signal

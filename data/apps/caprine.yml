@@ -54,3 +54,8 @@ downloads:
   url: https://github.com/sindresorhus/caprine/releases/download/v2.61.0/latest.yml
 latest: v2.61.0
 src: https://github.com/sindresorhus/caprine/archive/refs/tags/v2.61.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/sindresorhus/caprine/releases/download/v2.61.0/Caprine-2.61.0.AppImage
+  found_in: Caprine-2.61.0.AppImage
+  signal: which-electron rg signal

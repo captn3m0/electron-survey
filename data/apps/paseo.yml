@@ -15,3 +15,8 @@ downloads:
 - url: https://github.com/getpaseo/paseo/releases/download/v0.1.110/Paseo-0.1.110-arm64.dmg
   name: Paseo-0.1.110-arm64.dmg
   version: 0.1.110
+evidence:
+  kind: binary
+  source: https://github.com/getpaseo/paseo/releases/download/v0.1.110/Paseo-0.1.110-arm64.dmg
+  found_in: Paseo-0.1.110-arm64.dmg
+  signal: which-electron rg signal

@@ -93,3 +93,8 @@ downloads:
 latest: v3.5.3
 src: https://github.com/usebruno/bruno/archive/refs/tags/v3.5.3.zip
 we_tried: we0:v3.5.3
+evidence:
+  kind: binary
+  source: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_aarch64_linux.rpm
+  found_in: bruno_3.5.3_aarch64_linux.rpm
+  signal: which-electron rg signal

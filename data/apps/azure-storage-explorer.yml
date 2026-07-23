@@ -41,7 +41,12 @@ downloads:
   url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-windows-arm64.exe
 - name: StorageExplorer-windows-x64.exe
   url: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-windows-x64.exe
-electron: 40.6.1
+electron: 41.1.0
 method: which-electron-rg
 latest: v1.44.0
 src: https://github.com/microsoft/AzureStorageExplorer/archive/refs/tags/v1.44.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-linux-x64.tar.gz
+  found_in: StorageExplorer-linux-x64.tar.gz
+  signal: which-electron rg signal

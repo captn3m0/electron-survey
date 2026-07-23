@@ -28,3 +28,8 @@ downloads:
   version: 4.2.985
 electron: 41.2.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://beeper-desktop.download.beeper.com/builds/Beeper-4.2.985-arm64-mac.zip
+  found_in: Beeper-4.2.985-arm64-mac.zip
+  signal: which-electron rg signal

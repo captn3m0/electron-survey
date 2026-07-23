@@ -37,3 +37,8 @@ electron: 37.6.0
 method: which-electron-rg
 additionalAUR:
 - discord-canary-electron-bin
+evidence:
+  kind: binary
+  source: https://stable.dl2.discordapp.net/apps/linux/0.0.134/discord-0.0.134.deb
+  found_in: discord-0.0.134.deb
+  signal: which-electron rg signal

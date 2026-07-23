@@ -82,3 +82,8 @@ downloads:
   url: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-Setup-3.5.0-x64.exe
 latest: v3.5.0
 src: https://github.com/Kuingsmile/PicList/archive/refs/tags/v3.5.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-aarch64.rpm
+  found_in: PicList-3.5.0-aarch64.rpm
+  signal: which-electron rg signal

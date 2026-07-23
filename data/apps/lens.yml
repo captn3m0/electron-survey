@@ -91,3 +91,8 @@ electron: 22.3.3
 method: which-electron-rg
 latest: v6.5.2-366
 src: https://github.com/MuhammedKalkan/OpenLens/archive/refs/tags/v6.5.2-366.zip
+evidence:
+  kind: binary
+  source: https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens-6.5.2-366.aarch64.rpm
+  found_in: OpenLens-6.5.2-366.aarch64.rpm
+  signal: which-electron rg signal

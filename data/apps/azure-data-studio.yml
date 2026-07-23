@@ -21,3 +21,8 @@ downloads:
   version: 1.52.0
 electron: 30.5.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.microsoft.com/download/6b2bfeac-9c1b-4182-9a2f-ce86ff8cc371/azuredatastudio-macos-arm64-1.52.0.zip
+  found_in: azuredatastudio-macos-arm64-1.52.0.zip
+  signal: which-electron rg signal

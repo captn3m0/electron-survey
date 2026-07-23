@@ -75,3 +75,8 @@ downloads:
   url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm_0.14.5_arm64.snap
 latest: v0.14.5
 src: https://github.com/wavetermdev/waveterm/archive/refs/tags/v0.14.5.zip
+evidence:
+  kind: binary
+  source: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-aarch64-0.14.5.rpm
+  found_in: waveterm-linux-aarch64-0.14.5.rpm
+  signal: which-electron rg signal

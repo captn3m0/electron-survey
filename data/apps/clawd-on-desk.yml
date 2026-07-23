@@ -6,27 +6,27 @@ aur:
 - clawd-on-desk-bin
 electron: 41.10.2
 method: aur-depends
-latest: v0.12.0
-src: https://github.com/rullerzhou-afk/clawd-on-desk/archive/refs/tags/v0.12.0.zip
+latest: v0.13.0
+src: https://github.com/rullerzhou-afk/clawd-on-desk/archive/refs/tags/v0.13.0.zip
 downloads:
-- name: Clawd-on-Desk-0.12.0-amd64.deb
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/Clawd-on-Desk-0.12.0-amd64.deb
-- name: Clawd-on-Desk-0.12.0-arm64.dmg
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/Clawd-on-Desk-0.12.0-arm64.dmg
-- name: Clawd-on-Desk-0.12.0-x64.dmg
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/Clawd-on-Desk-0.12.0-x64.dmg
-- name: Clawd-on-Desk-0.12.0-x86_64.AppImage
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/Clawd-on-Desk-0.12.0-x86_64.AppImage
-- name: Clawd-on-Desk-Setup-0.12.0-arm64.exe
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/Clawd-on-Desk-Setup-0.12.0-arm64.exe
-- name: Clawd-on-Desk-Setup-0.12.0-x64.exe
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/Clawd-on-Desk-Setup-0.12.0-x64.exe
+- name: Clawd-on-Desk-0.13.0-amd64.deb
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-0.13.0-amd64.deb
+- name: Clawd-on-Desk-0.13.0-arm64.dmg
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-0.13.0-arm64.dmg
+- name: Clawd-on-Desk-0.13.0-x64.dmg
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-0.13.0-x64.dmg
+- name: Clawd-on-Desk-0.13.0-x86_64.AppImage
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-0.13.0-x86_64.AppImage
+- name: Clawd-on-Desk-Setup-0.13.0-arm64.exe
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-Setup-0.13.0-arm64.exe
+- name: Clawd-on-Desk-Setup-0.13.0-x64.exe
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-Setup-0.13.0-x64.exe
 - name: latest-linux.yml
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/latest-linux.yml
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/latest-mac.yml
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.12.0/latest.yml
+  url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/latest.yml
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/clawd-on-desk-bin

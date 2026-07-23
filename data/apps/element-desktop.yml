@@ -23,3 +23,8 @@ downloads:
   version: 1.12.23
 electron: 42.4.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://packages.element.io/desktop/update/macos/Element-1.12.23-universal-mac.zip
+  found_in: Element-1.12.23-universal-mac.zip
+  signal: which-electron rg signal
