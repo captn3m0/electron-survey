@@ -52,7 +52,7 @@ method: src-pnpm-lock
 electron_src: https://github.com/verticalsync/Sunroof/archive/refs/tags/v1.6.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/verticalsync/Sunroof/archive/refs/tags/v1.6.1.zip
+  source: https://github.com/search?q=repo%3Averticalsync%2FSunroof+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

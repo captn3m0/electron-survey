@@ -16,7 +16,7 @@ name: stacker
 electron_src: https://github.com/enqueuer-land/stacker/archive/refs/tags/v0.2.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/enqueuer-land/stacker/archive/refs/tags/v0.2.0.zip
+  source: https://github.com/search?q=repo%3Aenqueuer-land%2Fstacker+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

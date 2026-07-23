@@ -25,7 +25,7 @@ method: src-package-lock
 electron_src: https://github.com/Alex313031/Apple-Music-Electron/archive/refs/tags/v3.1.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Alex313031/Apple-Music-Electron/archive/refs/tags/v3.1.1.zip
+  source: https://github.com/search?q=repo%3AAlex313031%2FApple-Music-Electron+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

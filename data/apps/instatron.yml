@@ -9,7 +9,7 @@ name: Instatron
 electron_src: https://github.com/alexdevero/instatron/archive/refs/tags/v1.5.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/alexdevero/instatron/archive/refs/tags/v1.5.0.zip
+  source: https://github.com/search?q=repo%3Aalexdevero%2Finstatron+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

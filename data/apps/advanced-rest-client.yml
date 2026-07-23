@@ -36,7 +36,7 @@ name: Advanced REST Client
 electron_src: https://github.com/advanced-rest-client/arc-electron/archive/refs/tags/v17.0.9.zip
 evidence:
   kind: lockfile
-  source: https://github.com/advanced-rest-client/arc-electron/archive/refs/tags/v17.0.9.zip
+  source: https://github.com/search?q=repo%3Aadvanced-rest-client%2Farc-electron+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

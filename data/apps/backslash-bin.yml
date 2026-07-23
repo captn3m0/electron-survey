@@ -22,7 +22,7 @@ method: src-yarn-lock
 electron_src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip
+  source: https://github.com/search?q=repo%3Abackslash-app%2Fbackslash+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

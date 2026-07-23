@@ -29,7 +29,7 @@ name: Postbird
 electron_src: https://github.com/Paxa/postbird/archive/refs/tags/0.8.4.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Paxa/postbird/archive/refs/tags/0.8.4.zip
+  source: https://github.com/search?q=repo%3APaxa%2Fpostbird+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

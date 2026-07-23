@@ -24,7 +24,7 @@ name: domodel-diary
 electron_src: https://github.com/thoughtsunificator/domodel-diary-electron/archive/refs/tags/v1.0.12.zip
 evidence:
   kind: lockfile
-  source: https://github.com/thoughtsunificator/domodel-diary-electron/archive/refs/tags/v1.0.12.zip
+  source: https://github.com/search?q=repo%3Athoughtsunificator%2Fdomodel-diary-electron+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

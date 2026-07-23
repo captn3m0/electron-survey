@@ -18,7 +18,7 @@ name: Social Amnesia
 electron_src: https://github.com/Nick-Gottschlich/Social-Amnesia/archive/refs/tags/v2.0.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Nick-Gottschlich/Social-Amnesia/archive/refs/tags/v2.0.2.zip
+  source: https://github.com/search?q=repo%3ANick-Gottschlich%2FSocial-Amnesia+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

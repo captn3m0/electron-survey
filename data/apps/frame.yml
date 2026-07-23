@@ -55,7 +55,7 @@ name: Frame
 electron_src: https://github.com/floating/frame/archive/refs/tags/v0.6.11.zip
 evidence:
   kind: lockfile
-  source: https://github.com/floating/frame/archive/refs/tags/v0.6.11.zip
+  source: https://github.com/search?q=repo%3Afloating%2Fframe+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

@@ -32,7 +32,7 @@ packages:
 electron_src: https://github.com/Toinane/colorpicker/archive/refs/tags/2.3.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Toinane/colorpicker/archive/refs/tags/2.3.0.zip
+  source: https://github.com/search?q=repo%3AToinane%2Fcolorpicker+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

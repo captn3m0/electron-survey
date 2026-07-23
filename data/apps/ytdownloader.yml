@@ -67,7 +67,7 @@ method: src-package-lock
 electron_src: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v3.22.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v3.22.0.zip
+  source: https://github.com/search?q=repo%3Aaandrew-me%2FytDownloader+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

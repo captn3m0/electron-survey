@@ -35,7 +35,7 @@ name: email-securely-app
 electron_src: https://github.com/vladimiry/email-securely-app/archive/refs/tags/v5.3.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/vladimiry/email-securely-app/archive/refs/tags/v5.3.6.zip
+  source: https://github.com/search?q=repo%3Avladimiry%2Femail-securely-app+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

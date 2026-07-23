@@ -81,6 +81,28 @@ def test_pnpm_v9_snapshots(tmp_path):
     assert source._electron_from_pnpm_lock([p]) == ("31.0.0", p)
 
 
+def test_pnpm_v9_prefers_the_project_import_over_a_dev_tools_own_electron(tmp_path):
+    # react-devtools bundles its own standalone electron dependency; a
+    # snapshots-only key match would wrongly report that version instead of
+    # the version the project itself depends on.
+    p = _write(tmp_path, "pnpm-lock.yaml", "\n".join([
+        "importers:",
+        "  .:",
+        "    devDependencies:",
+        "      electron:",
+        "        specifier: 40.8.0",
+        "        version: 40.8.0",
+        "snapshots:",
+        "  react-devtools@6.0.1:",
+        "    dependencies:",
+        "      electron: 23.3.13",
+        "  electron@23.3.13: {}",
+        "  electron@40.8.0: {}",
+        "",
+    ]))
+    assert source._electron_from_pnpm_lock([p]) == ("40.8.0", p)
+
+
 # --- package.json range ----------------------------------------------------
 
 def test_package_json_devdep_range(tmp_path):

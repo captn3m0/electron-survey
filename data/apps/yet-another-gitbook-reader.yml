@@ -12,7 +12,7 @@ name: Yet-Another-Gitbook-Reader
 electron_src: https://github.com/gnu4cn/gitbook-reader-app/archive/refs/tags/v0.8.8.zip
 evidence:
   kind: manifest
-  source: https://github.com/gnu4cn/gitbook-reader-app/archive/refs/tags/v0.8.8.zip
+  source: https://github.com/search?q=repo%3Agnu4cn%2Fgitbook-reader-app+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

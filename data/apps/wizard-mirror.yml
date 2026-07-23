@@ -9,7 +9,7 @@ name: WizardMirror
 electron_src: https://github.com/Sanjit1/WizardMirror/archive/refs/tags/1.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Sanjit1/WizardMirror/archive/refs/tags/1.0.zip
+  source: https://github.com/search?q=repo%3ASanjit1%2FWizardMirror+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

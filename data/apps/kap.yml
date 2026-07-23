@@ -29,7 +29,7 @@ name: Kap
 electron_src: https://github.com/wulkano/kap/archive/refs/tags/v3.6.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/wulkano/kap/archive/refs/tags/v3.6.0.zip
+  source: https://github.com/search?q=repo%3Awulkano%2Fkap+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

@@ -69,7 +69,7 @@ name: OpenComic
 electron_src: https://github.com/ollm/OpenComic/archive/refs/tags/v1.6.5.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ollm/OpenComic/archive/refs/tags/v1.6.5.zip
+  source: https://github.com/search?q=repo%3Aollm%2FOpenComic+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

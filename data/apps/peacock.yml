@@ -26,7 +26,7 @@ name: Peacock
 electron_src: https://github.com/peacockweb/peacock/archive/refs/tags/v2.3.5.zip
 evidence:
   kind: lockfile
-  source: https://github.com/peacockweb/peacock/archive/refs/tags/v2.3.5.zip
+  source: https://github.com/search?q=repo%3Apeacockweb%2Fpeacock+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

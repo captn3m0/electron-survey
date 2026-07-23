@@ -36,7 +36,7 @@ name: Raven Reader
 electron_src: https://github.com/hello-efficiency-inc/raven-reader/archive/refs/tags/v1.0.80.zip
 evidence:
   kind: lockfile
-  source: https://github.com/hello-efficiency-inc/raven-reader/archive/refs/tags/v1.0.80.zip
+  source: https://github.com/search?q=repo%3Ahello-efficiency-inc%2Fraven-reader+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

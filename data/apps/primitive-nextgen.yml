@@ -22,7 +22,7 @@ name: primitive.nextgen
 electron_src: https://github.com/cielito-lindo-productions/primitive.nextgen/archive/refs/tags/v2.0.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/cielito-lindo-productions/primitive.nextgen/archive/refs/tags/v2.0.2.zip
+  source: https://github.com/search?q=repo%3Acielito-lindo-productions%2Fprimitive.nextgen+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

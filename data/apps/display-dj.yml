@@ -21,7 +21,7 @@ aur:
 name: display-dj
 evidence:
   kind: manifest
-  source: https://github.com/synle/display-dj/archive/refs/tags/v7.0.34.zip
+  source: https://github.com/search?q=repo%3Asynle%2Fdisplay-dj+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

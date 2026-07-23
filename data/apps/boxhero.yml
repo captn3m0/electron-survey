@@ -26,7 +26,7 @@ name: BoxHero
 electron_src: https://github.com/bgpworks/boxhero-electron/archive/refs/tags/3.1.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/bgpworks/boxhero-electron/archive/refs/tags/3.1.6.zip
+  source: https://github.com/search?q=repo%3Abgpworks%2Fboxhero-electron+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

@@ -72,7 +72,7 @@ packages:
 electron_src: https://github.com/poooi/poi/archive/refs/tags/v11.1.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/poooi/poi/archive/refs/tags/v11.1.0.zip
+  source: https://github.com/search?q=repo%3Apoooi%2Fpoi+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

@@ -24,7 +24,7 @@ name: Kahla
 electron_src: https://github.com/AiursoftWeb/Kahla.App/archive/refs/tags/v4.5.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/AiursoftWeb/Kahla.App/archive/refs/tags/v4.5.0.zip
+  source: https://github.com/search?q=repo%3AAiursoftWeb%2FKahla.App+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

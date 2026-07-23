@@ -3,7 +3,7 @@ repository: https://github.com/signalapp/Signal-Desktop
 website: https://signal.org
 latest: v8.20.0
 src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.20.0.zip
-electron: 23.3.13
+electron: 43.0.0
 method: src-pnpm-lock
 aur:
 - signal-desktop-beta

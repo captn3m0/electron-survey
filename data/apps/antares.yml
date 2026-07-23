@@ -53,7 +53,7 @@ name: Antares
 electron_src: https://github.com/antares-sql/antares/archive/refs/tags/v0.7.35.zip
 evidence:
   kind: lockfile
-  source: https://github.com/antares-sql/antares/archive/refs/tags/v0.7.35.zip
+  source: https://github.com/search?q=repo%3Aantares-sql%2Fantares+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

@@ -30,7 +30,7 @@ method: src-package-lock
 electron_src: https://github.com/StefanLobbenmeier/youtube-dl-gui/archive/refs/tags/v2.5.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/StefanLobbenmeier/youtube-dl-gui/archive/refs/tags/v2.5.6.zip
+  source: https://github.com/search?q=repo%3AStefanLobbenmeier%2Fyoutube-dl-gui+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

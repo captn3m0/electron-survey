@@ -61,7 +61,7 @@ packages:
 electron_src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.5.zip
 evidence:
   kind: lockfile
-  source: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.5.zip
+  source: https://github.com/search?q=repo%3AJannisX11%2Fblockbench+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

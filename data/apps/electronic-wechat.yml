@@ -14,7 +14,7 @@ method: src-range-guess
 electron_src: https://github.com/zzy-ac/electronic-wechat/archive/refs/tags/v2.3.2-1.zip
 evidence:
   kind: manifest
-  source: https://github.com/zzy-ac/electronic-wechat/archive/refs/tags/v2.3.2-1.zip
+  source: https://github.com/search?q=repo%3Azzy-ac%2Felectronic-wechat+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

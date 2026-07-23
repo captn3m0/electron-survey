@@ -20,7 +20,7 @@ method: src-package-lock
 electron_src: https://github.com/negue/meme-box/archive/refs/tags/2025.1_draft.zip
 evidence:
   kind: lockfile
-  source: https://github.com/negue/meme-box/archive/refs/tags/2025.1_draft.zip
+  source: https://github.com/search?q=repo%3Anegue%2Fmeme-box+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

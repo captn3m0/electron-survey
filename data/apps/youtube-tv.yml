@@ -22,7 +22,7 @@ method: src-package-lock
 electron_src: https://github.com/etylermoss/youtube-tv-desktop/archive/refs/tags/v1.1.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/etylermoss/youtube-tv-desktop/archive/refs/tags/v1.1.3.zip
+  source: https://github.com/search?q=repo%3Aetylermoss%2Fyoutube-tv-desktop+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

@@ -11,7 +11,7 @@ method: src-range-guess
 electron_src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
 evidence:
   kind: manifest
-  source: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
+  source: https://github.com/search?q=repo%3AH33aven%2Fkute+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

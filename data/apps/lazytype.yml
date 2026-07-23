@@ -13,7 +13,7 @@ name: lazyType
 electron_src: https://github.com/ngudbhav/lazyType/archive/refs/tags/v1.0.1.zip
 evidence:
   kind: manifest
-  source: https://github.com/ngudbhav/lazyType/archive/refs/tags/v1.0.1.zip
+  source: https://github.com/search?q=repo%3Angudbhav%2FlazyType+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

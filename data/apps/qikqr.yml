@@ -18,7 +18,7 @@ name: qikQR
 electron_src: https://github.com/deep5050/qikQR/archive/refs/tags/v1.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/deep5050/qikQR/archive/refs/tags/v1.0.0.zip
+  source: https://github.com/search?q=repo%3Adeep5050%2FqikQR+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

@@ -29,7 +29,7 @@ name: Codex
 electron_src: https://github.com/jcv8000/Codex/archive/refs/tags/v2.0.5.zip
 evidence:
   kind: lockfile
-  source: https://github.com/jcv8000/Codex/archive/refs/tags/v2.0.5.zip
+  source: https://github.com/search?q=repo%3Ajcv8000%2FCodex+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

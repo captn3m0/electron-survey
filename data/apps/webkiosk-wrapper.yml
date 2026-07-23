@@ -23,7 +23,7 @@ name: Webkiosk-Wrapper
 electron_src: https://github.com/ngudbhav/Webkiosk-Wrapper/archive/refs/tags/v1.1.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ngudbhav/Webkiosk-Wrapper/archive/refs/tags/v1.1.3.zip
+  source: https://github.com/search?q=repo%3Angudbhav%2FWebkiosk-Wrapper+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

@@ -11,7 +11,7 @@ name: One Copy
 electron_src: https://github.com/HiroshiFuu/onecopy-electron/archive/refs/tags/1.0.3.zip
 evidence:
   kind: manifest
-  source: https://github.com/HiroshiFuu/onecopy-electron/archive/refs/tags/1.0.3.zip
+  source: https://github.com/search?q=repo%3AHiroshiFuu%2Fonecopy-electron+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

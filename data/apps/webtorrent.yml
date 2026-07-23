@@ -51,7 +51,7 @@ name: WebTorrent
 electron_src: https://github.com/webtorrent/webtorrent-desktop/archive/refs/tags/v0.24.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/webtorrent/webtorrent-desktop/archive/refs/tags/v0.24.0.zip
+  source: https://github.com/search?q=repo%3Awebtorrent%2Fwebtorrent-desktop+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

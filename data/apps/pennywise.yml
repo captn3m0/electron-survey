@@ -40,7 +40,7 @@ name: Pennywise
 electron_src: https://github.com/kamranahmedse/pennywise/archive/refs/tags/v0.8.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/kamranahmedse/pennywise/archive/refs/tags/v0.8.0.zip
+  source: https://github.com/search?q=repo%3Akamranahmedse%2Fpennywise+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

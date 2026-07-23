@@ -36,7 +36,7 @@ name: RenderTune
 electron_src: https://github.com/MartinBarker/RenderTune/archive/refs/tags/v2.0.12.zip
 evidence:
   kind: lockfile
-  source: https://github.com/MartinBarker/RenderTune/archive/refs/tags/v2.0.12.zip
+  source: https://github.com/search?q=repo%3AMartinBarker%2FRenderTune+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

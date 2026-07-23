@@ -22,7 +22,7 @@ name: Pullp
 electron_src: https://github.com/rkclark/pullp/archive/refs/tags/v4.0.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/rkclark/pullp/archive/refs/tags/v4.0.2.zip
+  source: https://github.com/search?q=repo%3Arkclark%2Fpullp+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

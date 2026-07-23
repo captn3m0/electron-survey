@@ -22,7 +22,7 @@ method: src-package-lock
 electron_src: https://github.com/m1z23r/nikode/archive/refs/tags/v4.7.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/m1z23r/nikode/archive/refs/tags/v4.7.3.zip
+  source: https://github.com/search?q=repo%3Am1z23r%2Fnikode+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

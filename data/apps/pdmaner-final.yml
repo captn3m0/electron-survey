@@ -14,7 +14,7 @@ method: src-yarn-lock
 electron_src: https://github.com/mybolide/pdmaner-final-release/archive/refs/tags/4.9.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/mybolide/pdmaner-final-release/archive/refs/tags/4.9.3.zip
+  source: https://github.com/search?q=repo%3Amybolide%2Fpdmaner-final-release+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

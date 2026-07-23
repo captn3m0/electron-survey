@@ -40,7 +40,7 @@ method: src-package-json
 electron_src: https://github.com/zenghongtu/PPet/archive/refs/tags/v3.3.0.zip
 evidence:
   kind: manifest
-  source: https://github.com/zenghongtu/PPet/archive/refs/tags/v3.3.0.zip
+  source: https://github.com/search?q=repo%3Azenghongtu%2FPPet+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: electron pinned to an exact version in package.json
   reconstructed: true

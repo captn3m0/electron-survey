@@ -18,7 +18,7 @@ name: ImageShrinker
 electron_src: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip
 evidence:
   kind: manifest
-  source: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip
+  source: https://github.com/search?q=repo%3Astefansl%2Fimage-shrinker+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

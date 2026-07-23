@@ -16,7 +16,7 @@ name: R6RC
 electron_src: https://github.com/austinleath/r6rc/archive/refs/tags/v0.4.6.zip
 evidence:
   kind: manifest
-  source: https://github.com/austinleath/r6rc/archive/refs/tags/v0.4.6.zip
+  source: https://github.com/search?q=repo%3Aaustinleath%2Fr6rc+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

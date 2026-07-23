@@ -56,7 +56,7 @@ packages:
 electron_src: https://github.com/zadam/trilium/archive/refs/tags/v0.104.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/zadam/trilium/archive/refs/tags/v0.104.0.zip
+  source: https://github.com/search?q=repo%3Azadam%2Ftrilium+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

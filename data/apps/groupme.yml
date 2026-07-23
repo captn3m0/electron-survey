@@ -16,7 +16,7 @@ method: src-package-json
 electron_src: https://github.com/dcrousso/GroupMe/archive/refs/tags/v1.1.2.zip
 evidence:
   kind: manifest
-  source: https://github.com/dcrousso/GroupMe/archive/refs/tags/v1.1.2.zip
+  source: https://github.com/search?q=repo%3Adcrousso%2FGroupMe+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: electron pinned to an exact version in package.json
   reconstructed: true

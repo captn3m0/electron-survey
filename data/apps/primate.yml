@@ -20,7 +20,7 @@ name: Primate
 electron_src: https://github.com/getprimate/primate/archive/refs/tags/v1.1.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/getprimate/primate/archive/refs/tags/v1.1.0.zip
+  source: https://github.com/search?q=repo%3Agetprimate%2Fprimate+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

@@ -16,7 +16,7 @@ name: PaperCubes
 electron_src: https://github.com/FlorianFe/PaperCubes/archive/refs/tags/v1.3.0-beta.zip
 evidence:
   kind: lockfile
-  source: https://github.com/FlorianFe/PaperCubes/archive/refs/tags/v1.3.0-beta.zip
+  source: https://github.com/search?q=repo%3AFlorianFe%2FPaperCubes+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

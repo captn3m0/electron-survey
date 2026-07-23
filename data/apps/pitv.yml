@@ -26,7 +26,7 @@ name: PiTV
 electron_src: https://github.com/ozankaraali/PiTV/archive/refs/tags/latest.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ozankaraali/PiTV/archive/refs/tags/latest.zip
+  source: https://github.com/search?q=repo%3Aozankaraali%2FPiTV+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

@@ -30,7 +30,7 @@ method: src-package-lock
 electron_src: https://github.com/idena-network/idena-desktop/archive/refs/tags/v0.39.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/idena-network/idena-desktop/archive/refs/tags/v0.39.1.zip
+  source: https://github.com/search?q=repo%3Aidena-network%2Fidena-desktop+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

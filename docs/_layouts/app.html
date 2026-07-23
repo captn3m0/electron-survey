@@ -87,7 +87,13 @@ layout: default
   </p>
   <p class="muted">{{ ev.signal }}</p>
   {% if ev.source %}
-  <p class="muted"><small>Artefact examined: <a href="{{ ev.source }}"><code>{{ ev.source }}</code></a></small></p>
+  <p class="muted"><small>
+    {%- if ev.reconstructed -%}
+    Search the repo: <a href="{{ ev.source }}"><code>{{ ev.found_in }}</code></a> mentioning electron
+    {%- else -%}
+    Artefact examined: <a href="{{ ev.source }}"><code>{{ ev.source }}</code></a>
+    {%- endif -%}
+  </small></p>
   {% endif %}
   {% if ev.kind == 'aur-depends' %}
   <p class="caveat">

@@ -32,7 +32,7 @@ name: media-dupes
 electron_src: https://github.com/yafp/media-dupes/archive/refs/tags/0.10.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/yafp/media-dupes/archive/refs/tags/0.10.3.zip
+  source: https://github.com/search?q=repo%3Ayafp%2Fmedia-dupes+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

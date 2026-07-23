@@ -9,7 +9,7 @@ name: Markdownify
 electron_src: https://github.com/amitmerchant1990/electron-markdownify/archive/refs/tags/1.4.1.zip
 evidence:
   kind: manifest
-  source: https://github.com/amitmerchant1990/electron-markdownify/archive/refs/tags/1.4.1.zip
+  source: https://github.com/search?q=repo%3Aamitmerchant1990%2Felectron-markdownify+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

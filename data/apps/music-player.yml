@@ -20,7 +20,7 @@ name: music-player
 electron_src: https://github.com/Aveek-Saha/MusicPlayer/archive/refs/tags/v7.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Aveek-Saha/MusicPlayer/archive/refs/tags/v7.0.0.zip
+  source: https://github.com/search?q=repo%3AAveek-Saha%2FMusicPlayer+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

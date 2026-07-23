@@ -22,7 +22,7 @@ name: SeaPig
 electron_src: https://github.com/yasumichi/seapig/archive/refs/tags/v0.8.2.zip
 evidence:
   kind: manifest
-  source: https://github.com/yasumichi/seapig/archive/refs/tags/v0.8.2.zip
+  source: https://github.com/search?q=repo%3Ayasumichi%2Fseapig+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

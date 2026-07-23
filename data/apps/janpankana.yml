@@ -30,7 +30,7 @@ name: Janpankana
 electron_src: https://github.com/styunan/japankana/archive/refs/tags/v1.0.2.zip
 evidence:
   kind: manifest
-  source: https://github.com/styunan/japankana/archive/refs/tags/v1.0.2.zip
+  source: https://github.com/search?q=repo%3Astyunan%2Fjapankana+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

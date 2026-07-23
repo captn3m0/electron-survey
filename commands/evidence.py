@@ -11,9 +11,16 @@ already stored:
     with the stored version, rather than inventing evidence for a stale answer.
   * ``src-*``        – the archive URL is in ``electron_src``, and the method
     names the lockfile. The path *inside* the archive is not recoverable without
-    re-downloading, so it is left out and the record is flagged ``reconstructed``.
+    re-downloading, so ``source`` points at a GitHub code search for that
+    lockfile mentioning electron in the repo instead, and the record is
+    flagged ``reconstructed``.
   * ``which-electron-*`` – not recoverable at all: which artefact answered is not
     stored anywhere. These fill in as apps are re-fingerprinted.
+
+Records already flagged ``reconstructed`` are recomputed on every run (cheap,
+no network calls) so improvements to the rebuild logic reach existing data;
+evidence read directly by a processor (no ``reconstructed`` flag) is never
+touched.
 
     uv run main.py evidence-backfill [--dry-run]
 """
@@ -22,6 +29,7 @@ import collections
 import pathlib
 import re
 from typing import Any
+from urllib.parse import quote_plus, urlparse
 
 import click
 
@@ -75,6 +83,28 @@ def _aur_evidence(entry: dict, pkg_index: dict[str, list[str]]) -> dict | None:
     return None
 
 
+def _github_owner_repo(url: str) -> tuple[str, str] | None:
+    """Return (owner, repo) from a GitHub URL, or None if not a GitHub URL."""
+    parsed = urlparse(url.rstrip("/"))
+    if parsed.netloc.removeprefix("www.").lower() != "github.com":
+        return None
+    parts = parsed.path.strip("/").split("/")
+    if len(parts) < 2:
+        return None
+    return parts[0], parts[1].removesuffix(".git")
+
+
+def _github_lockfile_search(owner: str, repo: str, lockfile: str) -> str:
+    """A code-search URL for `lockfile` mentioning electron, scoped to one repo.
+
+    The path inside the archive wasn't recorded, so pointing at the exact file
+    isn't possible; this at least lands on the file(s) that mention electron
+    instead of a bare zip download.
+    """
+    query = f"repo:{owner}/{repo} path:{lockfile} electron"
+    return f"https://github.com/search?q={quote_plus(query)}&type=code"
+
+
 def _src_evidence(entry: dict) -> dict | None:
     lockfile = _LOCKFILE_BY_METHOD.get(entry.get("method", ""))
     archive = entry.get("electron_src") or entry.get("src")
@@ -86,9 +116,11 @@ def _src_evidence(entry: dict) -> dict | None:
         signal = "no lockfile; a package.json range was resolved to its highest known match"
     elif entry["method"] == "src-package-json":
         signal = "electron pinned to an exact version in package.json"
+    owner_repo = _github_owner_repo(archive)
+    source = _github_lockfile_search(*owner_repo, lockfile) if owner_repo else archive
     return {
         "kind": "manifest" if manifest else "lockfile",
-        "source": archive,
+        "source": source,
         "found_in": lockfile,
         "signal": signal,
         # The path within the archive isn't stored; this was rebuilt from the
@@ -109,7 +141,10 @@ def evidence_backfill(dry_run: bool) -> None:
 
     stats: collections.Counter[str] = collections.Counter()
     for entry in load_apps():
-        if not entry.get("electron") or entry.get("evidence"):
+        if not entry.get("electron"):
+            continue
+        existing = entry.get("evidence")
+        if existing and not existing.get("reconstructed"):
             continue
         method = entry.get("method", "")
         if method == "aur-depends":

@@ -18,7 +18,7 @@ electron_src: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/archi
 we_tried: we1.2.1:1.6.1
 evidence:
   kind: manifest
-  source: https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player/archive/refs/tags/1.6.1.zip
+  source: https://github.com/search?q=repo%3Afeng-yifan%2FNetease-Cloud-Music-Web-Player+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

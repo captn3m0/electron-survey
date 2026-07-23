@@ -13,7 +13,7 @@ name: Source Me
 electron_src: https://github.com/theIYD/source-me/archive/refs/tags/0.2.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/theIYD/source-me/archive/refs/tags/0.2.1.zip
+  source: https://github.com/search?q=repo%3AtheIYD%2Fsource-me+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

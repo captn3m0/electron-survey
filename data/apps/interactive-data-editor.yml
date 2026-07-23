@@ -19,7 +19,7 @@ name: Interactive Data Editor
 electron_src: https://github.com/Koushikphy/Interactive_Data_Editor/archive/refs/tags/v2.13.1.zip
 evidence:
   kind: manifest
-  source: https://github.com/Koushikphy/Interactive_Data_Editor/archive/refs/tags/v2.13.1.zip
+  source: https://github.com/search?q=repo%3AKoushikphy%2FInteractive_Data_Editor+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

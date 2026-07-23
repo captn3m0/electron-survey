@@ -59,7 +59,7 @@ name: Simplenote
 electron_src: https://github.com/Automattic/simplenote-electron/archive/refs/tags/v2.27.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Automattic/simplenote-electron/archive/refs/tags/v2.27.1.zip
+  source: https://github.com/search?q=repo%3AAutomattic%2Fsimplenote-electron+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

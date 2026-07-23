@@ -16,7 +16,7 @@ name: Dn Tool Container
 electron_src: https://github.com/como65416/DnToolContainer/archive/refs/tags/1.5.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/como65416/DnToolContainer/archive/refs/tags/1.5.1.zip
+  source: https://github.com/search?q=repo%3Acomo65416%2FDnToolContainer+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

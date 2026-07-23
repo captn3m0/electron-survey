@@ -29,7 +29,7 @@ name: MJML App
 electron_src: https://github.com/mjmlio/mjml-app/archive/refs/tags/v3.1.0-beta.zip
 evidence:
   kind: lockfile
-  source: https://github.com/mjmlio/mjml-app/archive/refs/tags/v3.1.0-beta.zip
+  source: https://github.com/search?q=repo%3Amjmlio%2Fmjml-app+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

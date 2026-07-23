@@ -12,7 +12,7 @@ name: NeuCalculator
 electron_src: https://github.com/moh3n9595/neu-calculator/archive/refs/tags/V1.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/moh3n9595/neu-calculator/archive/refs/tags/V1.0.0.zip
+  source: https://github.com/search?q=repo%3Amoh3n9595%2Fneu-calculator+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

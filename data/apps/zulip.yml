@@ -72,7 +72,7 @@ name: Zulip
 electron_src: https://github.com/zulip/zulip-desktop/archive/refs/tags/v5.12.4.zip
 evidence:
   kind: lockfile
-  source: https://github.com/zulip/zulip-desktop/archive/refs/tags/v5.12.4.zip
+  source: https://github.com/search?q=repo%3Azulip%2Fzulip-desktop+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

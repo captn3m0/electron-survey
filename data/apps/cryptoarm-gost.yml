@@ -24,7 +24,7 @@ name: CryptoARM GOST
 electron_src: https://github.com/TrustedRu/CryptoARMGOST/archive/refs/tags/v2.5.12.zip
 evidence:
   kind: lockfile
-  source: https://github.com/TrustedRu/CryptoARMGOST/archive/refs/tags/v2.5.12.zip
+  source: https://github.com/search?q=repo%3ATrustedRu%2FCryptoARMGOST+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

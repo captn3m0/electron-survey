@@ -18,7 +18,7 @@ name: Compact Log Viewer
 electron_src: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/archive/refs/tags/v1.4.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/warrenbuckley/Compact-Log-Format-Viewer/archive/refs/tags/v1.4.0.zip
+  source: https://github.com/search?q=repo%3Awarrenbuckley%2FCompact-Log-Format-Viewer+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

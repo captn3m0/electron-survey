@@ -39,7 +39,7 @@ method: src-range-guess
 electron_src: https://github.com/cteamx/Thief/archive/refs/tags/4.0.0.zip
 evidence:
   kind: manifest
-  source: https://github.com/cteamx/Thief/archive/refs/tags/4.0.0.zip
+  source: https://github.com/search?q=repo%3Acteamx%2FThief+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

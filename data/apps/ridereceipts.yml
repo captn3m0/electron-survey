@@ -24,7 +24,7 @@ name: Ride Receipts
 electron_src: https://github.com/ridereceipts/ridereceipts/archive/refs/tags/v1.7.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ridereceipts/ridereceipts/archive/refs/tags/v1.7.6.zip
+  source: https://github.com/search?q=repo%3Aridereceipts%2Fridereceipts+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

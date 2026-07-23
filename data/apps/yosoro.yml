@@ -31,7 +31,7 @@ method: src-yarn-lock
 electron_src: https://github.com/IceEnd/Yosoro/archive/refs/tags/v1.1.7.zip
 evidence:
   kind: lockfile
-  source: https://github.com/IceEnd/Yosoro/archive/refs/tags/v1.1.7.zip
+  source: https://github.com/search?q=repo%3AIceEnd%2FYosoro+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

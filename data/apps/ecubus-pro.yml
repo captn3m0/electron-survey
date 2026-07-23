@@ -24,7 +24,7 @@ method: src-package-lock
 electron_src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
+  source: https://github.com/search?q=repo%3Aecubus%2FEcuBus-Pro+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

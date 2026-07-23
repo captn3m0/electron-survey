@@ -46,7 +46,7 @@ name: PanWriter
 electron_src: https://github.com/mb21/panwriter/archive/refs/tags/v0.8.10.zip
 evidence:
   kind: lockfile
-  source: https://github.com/mb21/panwriter/archive/refs/tags/v0.8.10.zip
+  source: https://github.com/search?q=repo%3Amb21%2Fpanwriter+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

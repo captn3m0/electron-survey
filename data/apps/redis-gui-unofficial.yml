@@ -43,7 +43,7 @@ packages:
 electron_src: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.3.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.3.0.zip
+  source: https://github.com/search?q=repo%3Aekvedaras%2Fredis-gui+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

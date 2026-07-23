@@ -66,7 +66,7 @@ method: src-yarn-lock
 electron_src: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.2.zip
+  source: https://github.com/search?q=repo%3Akoodo-reader%2Fkoodo-reader+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

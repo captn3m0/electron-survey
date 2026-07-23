@@ -54,7 +54,7 @@ homebrew: altair-graphql-client
 electron_src: https://github.com/imolorhe/altair/archive/refs/tags/v8.5.7.zip
 evidence:
   kind: lockfile
-  source: https://github.com/imolorhe/altair/archive/refs/tags/v8.5.7.zip
+  source: https://github.com/search?q=repo%3Aimolorhe%2Faltair+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

@@ -53,7 +53,7 @@ name: P3X Redis UI
 electron_src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.3014.zip
 evidence:
   kind: lockfile
-  source: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.3014.zip
+  source: https://github.com/search?q=repo%3Apatrikx3%2Fredis-ui+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

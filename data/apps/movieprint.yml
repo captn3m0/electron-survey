@@ -14,7 +14,7 @@ name: MoviePrint
 electron_src: https://github.com/fakob/MoviePrint_v004/archive/refs/tags/0.2.23.zip
 evidence:
   kind: lockfile
-  source: https://github.com/fakob/MoviePrint_v004/archive/refs/tags/0.2.23.zip
+  source: https://github.com/search?q=repo%3Afakob%2FMoviePrint_v004+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

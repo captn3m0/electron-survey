@@ -30,7 +30,7 @@ name: Infiniti Clips
 electron_src: https://github.com/azure06/infiniti-clips/archive/refs/tags/v0.2.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/azure06/infiniti-clips/archive/refs/tags/v0.2.6.zip
+  source: https://github.com/search?q=repo%3Aazure06%2Finfiniti-clips+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

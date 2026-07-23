@@ -22,7 +22,7 @@ method: src-range-guess
 electron_src: https://github.com/0xGingi/T3_Chat_Electron/archive/refs/tags/v1.0.0.zip
 evidence:
   kind: manifest
-  source: https://github.com/0xGingi/T3_Chat_Electron/archive/refs/tags/v1.0.0.zip
+  source: https://github.com/search?q=repo%3A0xGingi%2FT3_Chat_Electron+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

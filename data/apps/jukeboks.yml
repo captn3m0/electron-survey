@@ -12,7 +12,7 @@ name: Jukeboks
 electron_src: https://github.com/hirohisa/Jukeboks/archive/refs/tags/v2.2.4.zip
 evidence:
   kind: lockfile
-  source: https://github.com/hirohisa/Jukeboks/archive/refs/tags/v2.2.4.zip
+  source: https://github.com/search?q=repo%3Ahirohisa%2FJukeboks+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

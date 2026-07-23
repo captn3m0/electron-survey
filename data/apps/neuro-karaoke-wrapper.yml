@@ -38,7 +38,7 @@ method: src-yarn-lock
 electron_src: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.7.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.7.0.zip
+  source: https://github.com/search?q=repo%3AAferilVT%2Fneuro-karaoke-wrapper+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

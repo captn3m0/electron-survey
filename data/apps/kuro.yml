@@ -29,7 +29,7 @@ method: src-yarn-lock
 electron_src: https://github.com/davidsmorais/kuro/archive/refs/tags/v9.1.3.zip
 evidence:
   kind: lockfile
-  source: https://github.com/davidsmorais/kuro/archive/refs/tags/v9.1.3.zip
+  source: https://github.com/search?q=repo%3Adavidsmorais%2Fkuro+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

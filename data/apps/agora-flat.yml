@@ -11,7 +11,7 @@ name: Agora Flat
 electron_src: https://github.com/netless-io/flat/archive/refs/tags/v2.3.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/netless-io/flat/archive/refs/tags/v2.3.6.zip
+  source: https://github.com/search?q=repo%3Anetless-io%2Fflat+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

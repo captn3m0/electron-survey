@@ -17,7 +17,7 @@ method: src-yarn-lock
 electron_src: https://github.com/Rocket1184/electron-netease-cloud-music/archive/refs/tags/v0.9.40.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Rocket1184/electron-netease-cloud-music/archive/refs/tags/v0.9.40.zip
+  source: https://github.com/search?q=repo%3ARocket1184%2Felectron-netease-cloud-music+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

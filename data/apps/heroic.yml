@@ -57,7 +57,7 @@ name: Heroic
 electron_src: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/archive/refs/tags/v2.22.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/archive/refs/tags/v2.22.0.zip
+  source: https://github.com/search?q=repo%3AHeroic-Games-Launcher%2FHeroicGamesLauncher+path%3Apnpm-lock.yaml+electron&type=code
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true

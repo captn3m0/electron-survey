@@ -27,7 +27,7 @@ name: TriCo
 electron_src: https://github.com/ngudbhav/TriCo-electron-app/archive/refs/tags/v3.1.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/ngudbhav/TriCo-electron-app/archive/refs/tags/v3.1.0.zip
+  source: https://github.com/search?q=repo%3Angudbhav%2FTriCo-electron-app+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

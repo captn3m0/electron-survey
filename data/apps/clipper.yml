@@ -9,7 +9,7 @@ name: Clipper
 electron_src: https://github.com/AkashRajpurohit/clipper/archive/refs/tags/v1.0.5.zip
 evidence:
   kind: lockfile
-  source: https://github.com/AkashRajpurohit/clipper/archive/refs/tags/v1.0.5.zip
+  source: https://github.com/search?q=repo%3AAkashRajpurohit%2Fclipper+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

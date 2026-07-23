@@ -23,7 +23,7 @@ aur:
 electron_src: https://github.com/itchio/itch/archive/refs/tags/v26.15.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/itchio/itch/archive/refs/tags/v26.15.0.zip
+  source: https://github.com/search?q=repo%3Aitchio%2Fitch+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

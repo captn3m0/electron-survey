@@ -24,7 +24,7 @@ method: src-yarn-lock
 electron_src: https://github.com/OmegaRogue/fvtt-player-client/archive/refs/tags/1.6.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/OmegaRogue/fvtt-player-client/archive/refs/tags/1.6.0.zip
+  source: https://github.com/search?q=repo%3AOmegaRogue%2Ffvtt-player-client+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

@@ -14,7 +14,7 @@ name: healthi
 electron_src: https://github.com/pablopunk/healthi-app/archive/refs/tags/4.0.1.zip
 evidence:
   kind: manifest
-  source: https://github.com/pablopunk/healthi-app/archive/refs/tags/4.0.1.zip
+  source: https://github.com/search?q=repo%3Apablopunk%2Fhealthi-app+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

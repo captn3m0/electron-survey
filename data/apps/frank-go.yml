@@ -32,7 +32,7 @@ method: src-package-lock
 electron_src: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.8.zip
 evidence:
   kind: lockfile
-  source: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.8.zip
+  source: https://github.com/search?q=repo%3Aakitaonrails%2Ffrank_go+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

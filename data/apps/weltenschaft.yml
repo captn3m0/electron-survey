@@ -12,7 +12,7 @@ name: Weltenschaft
 electron_src: https://github.com/HoubkneghteS/Weltenschaft/archive/refs/tags/v0.4.2.zip
 evidence:
   kind: manifest
-  source: https://github.com/HoubkneghteS/Weltenschaft/archive/refs/tags/v0.4.2.zip
+  source: https://github.com/search?q=repo%3AHoubkneghteS%2FWeltenschaft+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

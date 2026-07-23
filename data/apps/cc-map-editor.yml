@@ -34,7 +34,7 @@ method: src-package-lock
 electron_src: https://github.com/CCDirectLink/crosscode-map-editor/archive/refs/tags/v2.4.4.zip
 evidence:
   kind: lockfile
-  source: https://github.com/CCDirectLink/crosscode-map-editor/archive/refs/tags/v2.4.4.zip
+  source: https://github.com/search?q=repo%3ACCDirectLink%2Fcrosscode-map-editor+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

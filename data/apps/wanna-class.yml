@@ -12,7 +12,7 @@ name: Wanna Class
 electron_src: https://github.com/MissterHao/WannaClass/archive/refs/tags/v1.0.0.zip
 evidence:
   kind: manifest
-  source: https://github.com/MissterHao/WannaClass/archive/refs/tags/v1.0.0.zip
+  source: https://github.com/search?q=repo%3AMissterHao%2FWannaClass+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

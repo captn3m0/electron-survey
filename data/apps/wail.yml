@@ -19,7 +19,7 @@ name: WAIL
 electron_src: https://github.com/N0taN3rd/wail/archive/refs/tags/1.1.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/N0taN3rd/wail/archive/refs/tags/1.1.0.zip
+  source: https://github.com/search?q=repo%3AN0taN3rd%2Fwail+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

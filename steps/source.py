@@ -154,6 +154,25 @@ def _electron_from_pnpm_lock(paths: list[pathlib.Path]) -> tuple[str, pathlib.Pa
             continue
         if not isinstance(data, dict):
             continue
+
+        # Prefer the version pnpm resolved for the project's own `electron`
+        # dependency (importers.<project>.*Dependencies.electron). Falling
+        # straight to a packages/snapshots key match below picks up ANY
+        # package literally named electron, including one pulled in by an
+        # unrelated dev tool (e.g. react-devtools bundles its own electron
+        # to run standalone) — a different, unrelated version.
+        importers = data.get("importers") or {}
+        for key in sorted(importers, key=lambda k: (k != ".", k)):
+            project = importers[key]
+            if not isinstance(project, dict):
+                continue
+            for dep_kind in ("dependencies", "devDependencies", "optionalDependencies"):
+                dep = (project.get(dep_kind) or {}).get("electron")
+                if isinstance(dep, dict) and dep.get("version"):
+                    m = re.search(r'(\d+\.\d+\.\d+)', str(dep["version"]))
+                    if m:
+                        return m.group(1), path
+
         # pnpm v6-v8: packages keys like "/electron/20.1.0" or "/electron@20.1.0"
         # pnpm v9: snapshots keys like "electron@20.1.0"
         for section in ("packages", "snapshots"):

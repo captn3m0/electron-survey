@@ -16,7 +16,7 @@ name: FLB Music
 electron_src: https://github.com/Patrick-web/FLB-Music-Player-Official/archive/refs/tags/v1.1.9.zip
 evidence:
   kind: lockfile
-  source: https://github.com/Patrick-web/FLB-Music-Player-Official/archive/refs/tags/v1.1.9.zip
+  source: https://github.com/search?q=repo%3APatrick-web%2FFLB-Music-Player-Official+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

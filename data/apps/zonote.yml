@@ -16,7 +16,7 @@ name: zonote
 electron_src: https://github.com/zonetti/zonote/archive/refs/tags/v0.4.4.zip
 evidence:
   kind: lockfile
-  source: https://github.com/zonetti/zonote/archive/refs/tags/v0.4.4.zip
+  source: https://github.com/search?q=repo%3Azonetti%2Fzonote+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

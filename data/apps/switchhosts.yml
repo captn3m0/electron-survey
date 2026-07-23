@@ -83,7 +83,7 @@ packages:
   arch: arm64
 evidence:
   kind: lockfile
-  source: https://github.com/oldj/SwitchHosts/archive/refs/tags/v5.0.1.zip
+  source: https://github.com/search?q=repo%3Aoldj%2FSwitchHosts+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

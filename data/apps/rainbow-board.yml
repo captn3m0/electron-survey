@@ -24,7 +24,7 @@ name: Rainbow Board
 electron_src: https://github.com/HarshKhandeparkar/rainbow-board/archive/refs/tags/v0.8.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/HarshKhandeparkar/rainbow-board/archive/refs/tags/v0.8.1.zip
+  source: https://github.com/search?q=repo%3AHarshKhandeparkar%2Frainbow-board+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

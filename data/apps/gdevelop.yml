@@ -43,7 +43,7 @@ packages:
 electron_src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.274.zip
 evidence:
   kind: lockfile
-  source: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.274.zip
+  source: https://github.com/search?q=repo%3A4ian%2FGDevelop+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

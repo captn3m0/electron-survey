@@ -26,7 +26,7 @@ name: muezzin
 electron_src: https://github.com/DBChoco/Muezzin/archive/refs/tags/v2.6.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/DBChoco/Muezzin/archive/refs/tags/v2.6.0.zip
+  source: https://github.com/search?q=repo%3ADBChoco%2FMuezzin+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

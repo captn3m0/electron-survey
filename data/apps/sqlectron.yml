@@ -52,7 +52,7 @@ packages:
 electron_src: https://github.com/sqlectron/sqlectron-gui/archive/refs/tags/v1.39.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/sqlectron/sqlectron-gui/archive/refs/tags/v1.39.0.zip
+  source: https://github.com/search?q=repo%3Asqlectron%2Fsqlectron-gui+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

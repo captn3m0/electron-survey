@@ -22,7 +22,7 @@ name: React-Explorer
 electron_src: https://github.com/warpdesign/react-explorer/archive/refs/tags/v3.1.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/warpdesign/react-explorer/archive/refs/tags/v3.1.0.zip
+  source: https://github.com/search?q=repo%3Awarpdesign%2Freact-explorer+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

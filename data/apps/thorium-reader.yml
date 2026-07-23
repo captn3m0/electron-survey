@@ -34,7 +34,7 @@ packages:
 electron_src: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.4.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.4.0.zip
+  source: https://github.com/search?q=repo%3Aedrlab%2Fthorium-reader+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

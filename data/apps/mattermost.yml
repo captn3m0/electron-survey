@@ -82,7 +82,7 @@ name: Mattermost
 electron_src: https://github.com/mattermost/desktop/archive/refs/tags/v6.2.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/mattermost/desktop/archive/refs/tags/v6.2.2.zip
+  source: https://github.com/search?q=repo%3Amattermost%2Fdesktop+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

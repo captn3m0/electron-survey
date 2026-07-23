@@ -16,7 +16,7 @@ name: clipboard-manager-electron
 electron_src: https://github.com/morozovsk/unlimited-clipboard/archive/refs/tags/v1.0.1.zip
 evidence:
   kind: manifest
-  source: https://github.com/morozovsk/unlimited-clipboard/archive/refs/tags/v1.0.1.zip
+  source: https://github.com/search?q=repo%3Amorozovsk%2Funlimited-clipboard+path%3Apackage.json+electron&type=code
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true

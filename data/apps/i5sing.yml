@@ -26,7 +26,7 @@ name: i5sing
 electron_src: https://github.com/i5sing/i5SING/archive/refs/tags/v0.3.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/i5sing/i5SING/archive/refs/tags/v0.3.0.zip
+  source: https://github.com/search?q=repo%3Ai5sing%2Fi5SING+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

@@ -14,7 +14,7 @@ name: Geeks Diary
 electron_src: https://github.com/seokju-na/geeks-diary/archive/refs/tags/1.0.0-beta2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/seokju-na/geeks-diary/archive/refs/tags/1.0.0-beta2.zip
+  source: https://github.com/search?q=repo%3Aseokju-na%2Fgeeks-diary+path%3Ayarn.lock+electron&type=code
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true

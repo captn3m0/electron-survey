@@ -11,7 +11,7 @@ method: src-package-lock
 electron_src: https://github.com/brunofin/cohesion/archive/refs/tags/v1.1.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/brunofin/cohesion/archive/refs/tags/v1.1.1.zip
+  source: https://github.com/search?q=repo%3Abrunofin%2Fcohesion+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

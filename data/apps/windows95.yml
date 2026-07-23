@@ -52,7 +52,7 @@ method: src-package-lock
 electron_src: https://github.com/felixrieseberg/windows95/archive/refs/tags/v5.0.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/felixrieseberg/windows95/archive/refs/tags/v5.0.1.zip
+  source: https://github.com/search?q=repo%3Afelixrieseberg%2Fwindows95+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true

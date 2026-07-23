@@ -12,7 +12,7 @@ name: PrettyEarth
 electron_src: https://github.com/evertdespiegeleer/PrettyEarth/archive/refs/tags/v1.0.4-beta.zip
 evidence:
   kind: lockfile
-  source: https://github.com/evertdespiegeleer/PrettyEarth/archive/refs/tags/v1.0.4-beta.zip
+  source: https://github.com/search?q=repo%3Aevertdespiegeleer%2FPrettyEarth+path%3Apackage-lock.json+electron&type=code
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
