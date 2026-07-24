@@ -23,3 +23,5 @@ evidence:
   found_in: puppetry-linux-v3.2.6-x86_64.AppImage
   signal: which-electron rg signal
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

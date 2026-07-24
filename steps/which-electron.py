@@ -13,7 +13,7 @@ only inferred from github source or AUR depends metadata: see ``matches()``.
 Downloads are transient: each artefact is fetched to a temp file and
 deleted immediately after fingerprinting, so a run never accumulates
 binaries on disk (important on CI, where the runner has ~14 GB free).
-Artefacts larger than ``WHICH_ELECTRON_MAX_MB`` (default 500) are skipped.
+Artefacts larger than ``WHICH_ELECTRON_MAX_MB`` (default 700) are skipped.
 
 Opt-in (``AUTO = False``): pass the processor name explicitly, e.g.
 
@@ -31,6 +31,7 @@ import re
 import subprocess
 import tempfile
 import time
+import zipfile
 from typing import Any
 
 import requests
@@ -48,8 +49,13 @@ ZIPS_DIR = pathlib.Path("zips")
 # contents never persist between artefacts.
 TMP_DIR = ZIPS_DIR / "_wbin"
 
-# Skip artefacts larger than this to protect CI disk / runtime.
-_MAX_MB = int(os.environ.get("WHICH_ELECTRON_MAX_MB", "500"))
+# Skip artefacts larger than this to protect CI disk / runtime. Raised from 500
+# to 700: several legitimate Electron apps (e.g. chatgpt-desktop, codex-app ship
+# universal macOS zips in the 530-570 MB range) were permanently stuck unread —
+# an oversized sibling artefact meant `we_tried` could never be set (see the
+# "only retire once every candidate has actually been inspected" comment below),
+# so the app was retried forever without ever getting a fair fingerprint attempt.
+_MAX_MB = int(os.environ.get("WHICH_ELECTRON_MAX_MB", "700"))
 _MAX_BYTES = _MAX_MB * 1024 * 1024
 
 # Wall-clock budget for a single `process which-electron` run (seconds; 0 = off).
@@ -261,6 +267,40 @@ def _download(url: str) -> pathlib.Path | None:
     return path
 
 
+_ASAR_ELECTRON_VERSION = re.compile(rb'"electron":\s*"(\d+\.\d+\.\d+)"')
+
+
+def _electron_from_asar_in_zip(path: pathlib.Path) -> str | None:
+    """Peek inside a downloaded zip for a packed ``app.asar`` and read the
+    ``electron`` version pinned in its bundled ``package.json``.
+
+    which-electron's binary-signature fingerprinting can miss a build that
+    strips or customises the strings it looks for — observed on OpenAI's
+    ChatGPT/Codex desktop apps, both of which which-electron read cleanly with
+    no signal, yet the exact version sat unmodified in the asar. Conservative
+    by construction: only trusted when every ``"electron": "X.Y.Z"``
+    occurrence in the archive agrees, so a bundled dev-tool with its own
+    unrelated pin yields no signal rather than a wrong guess.
+    """
+    try:
+        with zipfile.ZipFile(path) as zf:
+            members = sorted(
+                (n for n in zf.namelist() if n.lower().endswith("app.asar")),
+                key=lambda n: n.count("/"),
+            )
+            if not members:
+                return None
+            data = zf.read(members[0])
+    except (zipfile.BadZipFile, OSError, KeyError):
+        return None
+
+    versions = {m.decode() for m in _ASAR_ELECTRON_VERSION.findall(data)}
+    if len(versions) > 1:
+        log.info("conflicting electron pins inside %s: %s", path, versions)
+        return None
+    return next(iter(versions), None)
+
+
 def _run_which_electron(file: pathlib.Path) -> dict[str, Any] | None:
     try:
         proc = subprocess.run(
@@ -281,11 +321,25 @@ def _run_which_electron(file: pathlib.Path) -> dict[str, Any] | None:
         return None
 
 
+# Bump when *this file's own* detection logic changes in a way that could
+# produce a different result for an already-`we_tried` app — a new fallback
+# method, a raised size cap, etc — independent of the which-electron tool's
+# own fingerprint DB version below. Folded into the epoch so one bump forces
+# exactly one re-sweep of the backlog; the daily budgeted run then drains it
+# same as any other newly-unresolved apps.
+#   1: raised WHICH_ELECTRON_MAX_MB 500->700 MB and added the asar-manifest
+#      fallback (see _electron_from_asar_in_zip) — both were silently missing
+#      apps like chatgpt-desktop/codex-app whose binaries sit just over the
+#      old cap.
+_PROCESSOR_EPOCH = "1"
+
+
 def _fingerprint_epoch() -> str:
-    """Identifier for the fingerprint database in use.
+    """Identifier for the fingerprint database *and* wrapper logic in use.
 
     Included in the we_tried signature so that upgrading which-electron (whose
-    fingerprint DB may now recognise versions it previously couldn't) re-opens
+    fingerprint DB may now recognise versions it previously couldn't), or
+    bumping _PROCESSOR_EPOCH (when this file's own logic changes), re-opens
     every app that was marked as checked. Tracks the tool's own version when a
     local checkout is present; override with WHICH_ELECTRON_EPOCH.
     """
@@ -293,10 +347,10 @@ def _fingerprint_epoch() -> str:
         import json
         version = json.loads(pathlib.Path("which-electron/package.json").read_text()).get("version")
         if version:
-            return f"we{version}"
+            return f"we{version}+p{_PROCESSOR_EPOCH}"
     except Exception:
         pass
-    return os.environ.get("WHICH_ELECTRON_EPOCH", "we0")
+    return os.environ.get("WHICH_ELECTRON_EPOCH", "we0") + f"+p{_PROCESSOR_EPOCH}"
 
 
 _EPOCH = _fingerprint_epoch()
@@ -414,36 +468,53 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
             continue
         try:
             result = _run_which_electron(path)
+            if result is None:
+                # The tool crashed or emitted no JSON (nteract hit a
+                # which-electron AppImage extraction bug). That is "we failed
+                # to look", not "we looked and found nothing" — an empty
+                # `signals` list is the latter.
+                unread += 1
+                continue
+            inspected += 1
+            if result:
+                version = result.get("version")
+                if version:
+                    method = result.get("method") or "which-electron"
+                    version = str(version).lstrip("v")
+                    log.info("[%s] electron %s detected via which-electron/%s on %s", app_id, version, method, url)
+                    signals = result.get("signals") or []
+                    return {
+                        "electron": version,
+                        "method": f"which-electron-{method}",
+                        "evidence": {
+                            "kind": "binary",
+                            "source": url,
+                            "found_in": url.rsplit("/", 1)[-1],
+                            "signal": f"which-electron {method} signal"
+                                      + (f" ({len(signals)} signals agreed)" if len(signals) > 1 else ""),
+                        },
+                    }
+                log.info("[%s] no version in which-electron output for %s", app_id, url)
+
+            # which-electron's binary-signature match found nothing — fall back
+            # to reading an embedded package.json straight out of a packed
+            # app.asar, in case the build strips whatever strings the tool
+            # looks for (see _electron_from_asar_in_zip).
+            asar_version = _electron_from_asar_in_zip(path)
+            if asar_version:
+                log.info("[%s] electron %s detected via asar-packed package.json in %s", app_id, asar_version, url)
+                return {
+                    "electron": asar_version,
+                    "method": "which-electron-asar-manifest",
+                    "evidence": {
+                        "kind": "manifest",
+                        "source": url,
+                        "found_in": "app.asar (packed package.json)",
+                        "signal": "electron version read from a package.json packed inside the app's asar archive",
+                    },
+                }
         finally:
             path.unlink(missing_ok=True)
-        if result is None:
-            # The tool crashed or emitted no JSON (nteract hit a which-electron
-            # AppImage extraction bug). That is "we failed to look", not "we
-            # looked and found nothing" — an empty `signals` list is the latter.
-            unread += 1
-            continue
-        inspected += 1
-        if not result:
-            continue
-        version = result.get("version")
-        if not version:
-            log.info("[%s] no version in which-electron output for %s", app_id, url)
-            continue
-        method = result.get("method") or "which-electron"
-        version = str(version).lstrip("v")
-        log.info("[%s] electron %s detected via which-electron/%s on %s", app_id, version, method, url)
-        signals = result.get("signals") or []
-        return {
-            "electron": version,
-            "method": f"which-electron-{method}",
-            "evidence": {
-                "kind": "binary",
-                "source": url,
-                "found_in": url.rsplit("/", 1)[-1],
-                "signal": f"which-electron {method} signal"
-                          + (f" ({len(signals)} signals agreed)" if len(signals) > 1 else ""),
-            },
-        }
 
     # Only retire the app once *every* candidate has actually been inspected.
     # Marking it checked while some artefact failed to download retires it on

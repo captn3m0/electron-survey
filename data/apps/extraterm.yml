@@ -23,3 +23,5 @@ name: Extraterm
 we_tried: we1.2.1:v0.82.0
 aur_votes: 10
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

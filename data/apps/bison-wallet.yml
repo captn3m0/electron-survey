@@ -46,3 +46,5 @@ downloads:
 latest: v1.0.5
 src: https://github.com/decred/dcrdex/archive/refs/tags/v1.0.5.zip
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

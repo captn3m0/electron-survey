@@ -39,3 +39,5 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.14.0.zip
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

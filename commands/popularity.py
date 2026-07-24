@@ -20,6 +20,13 @@ longer apply, so the command is deterministic and stale flags never linger):
   * ``brew_installs``  – order-of-magnitude bucket of the install count, written
     only when installs >= 1.
 
+A manually-set ``homepage_pin: true`` forces ``homepage: true`` regardless of
+the computed counts — for apps that are obviously mega-popular but aren't
+distributed through AUR or Homebrew (e.g. ChatGPT desktop, downloaded straight
+from openai.com), so neither channel has a vote/install signal to measure.
+``aur_votes``/``brew_installs`` are still computed normally alongside a pin;
+only the ``homepage`` decision itself is overridden.
+
 The stored vote/install numbers are BUCKETED (``10 ** floor(log10(n))``: 1234 ->
 1000, 25 -> 10, 7 -> 1) on purpose: the homepage decision reads the exact counts,
 but the persisted signals round down to a power of ten so day-to-day count drift
@@ -83,7 +90,7 @@ def popularity() -> None:
 
         before = (app.get("homepage"), app.get("aur_votes"), app.get("brew_installs"))
 
-        if votes >= _HOMEPAGE_MIN_VOTES or installs >= _HOMEPAGE_MIN_INSTALLS:
+        if app.get("homepage_pin") or votes >= _HOMEPAGE_MIN_VOTES or installs >= _HOMEPAGE_MIN_INSTALLS:
             app["homepage"] = True
             featured += 1
         else:

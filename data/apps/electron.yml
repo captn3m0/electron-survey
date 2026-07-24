@@ -246,3 +246,5 @@ evidence:
   found_in: electron-v43.2.0-darwin-arm64-symbols.zip
   signal: which-electron version_file signal (2 signals agreed)
 brew_installs: 1000
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

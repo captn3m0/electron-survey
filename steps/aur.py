@@ -50,6 +50,34 @@ def _host(url: str) -> str:
         return ""
 
 
+def _path(url: str) -> str:
+    try:
+        return urlparse(url).path.strip("/").lower()
+    except Exception:
+        return ""
+
+
+def _paths_compatible(website_path: str, pkg_path: str) -> bool:
+    """True when a shared-domain match is trustworthy.
+
+    Mirrors the same check in homebrew.py: a plain single-app vendor homepage
+    has no path on either side, so the shared domain alone is enough. Once the
+    app's own website carries a product path, an AUR package whose URL is just
+    the bare domain (as with an unrelated package mislabeled with a
+    multi-product vendor's homepage — codex-app vs. python-kmeans1d, both
+    nominally "openai.com") is too weak a signal to trust.
+    """
+    if not website_path and not pkg_path:
+        return True
+    if not website_path or not pkg_path:
+        return False
+    return (
+        website_path == pkg_path
+        or website_path.startswith(pkg_path + "/")
+        or pkg_path.startswith(website_path + "/")
+    )
+
+
 @lru_cache(maxsize=1)
 def _load_index() -> tuple[dict[str, list[str]], dict[str, str], dict[str, str]]:
     """Return (by_domain, by_name_lower, url_by_name) indexes over AUR metadata.
@@ -113,7 +141,11 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     if website:
         domain = _host(website)
         if domain and domain not in _GENERIC_DOMAINS:
-            found = by_domain.get(domain, [])
+            website_path = _path(website)
+            found = [
+                name for name in by_domain.get(domain, [])
+                if _paths_compatible(website_path, _path(url_by_name.get(name, "")))
+            ]
 
     if not found:
         canonical = by_name_lower.get(entry["id"].lower())

@@ -32,3 +32,7 @@ method: which-electron-version_file
 latest: 1.6.1
 src: https://github.com/kdzwinel/betwixt/archive/refs/tags/1.6.1.zip
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: unmaintained
+homebrew_disabled: true
+homebrew_disable_reason: unmaintained

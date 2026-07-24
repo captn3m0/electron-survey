@@ -10,7 +10,11 @@ Matching strategy (tried in order):
    skipped to avoid false positives.
 
 Sets ``homebrew: <token>`` and appends the cask download URL to
-``downloads`` when a match is found.
+``downloads`` when a match is found. Also carries the cask's own
+``deprecated``/``disabled`` status forward as ``homebrew_deprecated`` /
+``homebrew_disabled`` (plus a short machine reason, e.g. ``unmaintained``,
+``fails_gatekeeper_check``), including backfilling it onto apps matched
+before this field existed — see ``matches()``.
 """
 
 import json
@@ -79,16 +83,80 @@ def _domain(url: str) -> str:
         return ""
 
 
+def _path(url: str) -> str:
+    try:
+        return urlparse(url).path.strip("/").lower()
+    except Exception:
+        return ""
+
+
+def _paths_compatible(website_path: str, cask_path: str) -> bool:
+    """True when a shared-domain match is trustworthy.
+
+    A plain single-app vendor homepage has no path on either side, so the
+    shared domain alone is enough. Once either side carries a product path
+    (openai.com hosts /chatgpt/desktop/ *and* /codex as separate apps), the
+    paths must actually correspond — otherwise a domain-only match cross-wires
+    sibling products onto the same cask, as happened with chatgpt-desktop
+    picking up codex-app's binary.
+    """
+    if not website_path and not cask_path:
+        return True
+    if not website_path or not cask_path:
+        return False
+    return (
+        website_path == cask_path
+        or website_path.startswith(cask_path + "/")
+        or cask_path.startswith(website_path + "/")
+    )
+
+
+def _status_fields(cask: dict[str, Any]) -> dict[str, Any]:
+    """Carry a cask's own deprecated/disabled status forward onto the app."""
+    fields: dict[str, Any] = {}
+    if cask.get("deprecated"):
+        fields["homebrew_deprecated"] = True
+        if cask.get("deprecation_reason"):
+            fields["homebrew_deprecation_reason"] = cask["deprecation_reason"]
+    if cask.get("disabled"):
+        fields["homebrew_disabled"] = True
+        if cask.get("disable_reason"):
+            fields["homebrew_disable_reason"] = cask["disable_reason"]
+    return fields
+
+
 def matches(entry: dict[str, Any]) -> bool:
     if entry.get("homebrew") is False:
         return False
     if entry.get("dead"):
         return False
-    return "homebrew" not in entry
+    if "homebrew" not in entry:
+        return True
+    # Already matched: only re-fire to backfill a deprecated/disabled status
+    # that wasn't recorded yet (added after the original match, either because
+    # this field didn't exist then or because Homebrew flagged the cask since).
+    # One-directional on purpose — a cask essentially never gets "undeprecated"
+    # in practice, and reprocessing on any status difference would loop forever
+    # since a cleared flag can't be distinguished from one never re-checked.
+    by_token, _ = _load_index()
+    cask = by_token.get(entry["homebrew"])
+    if cask is None:
+        return False
+    return bool(
+        (cask.get("deprecated") and not entry.get("homebrew_deprecated"))
+        or (cask.get("disabled") and not entry.get("homebrew_disabled"))
+    )
 
 
 def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     by_token, by_domain = _load_index()
+
+    existing_token = entry.get("homebrew")
+    if existing_token:
+        # Backfill path (see matches()): the match itself stands, just refresh
+        # the deprecated/disabled status.
+        cask = by_token.get(existing_token)
+        return _status_fields(cask) if cask else None
 
     found: list[dict] = []
 
@@ -103,7 +171,11 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         if website:
             domain = _domain(website)
             if domain and domain not in _GENERIC_DOMAINS:
-                found = by_domain.get(domain, [])
+                website_path = _path(website)
+                found = [
+                    c for c in by_domain.get(domain, [])
+                    if _paths_compatible(website_path, _path(c.get("homepage", "")))
+                ]
 
     if not found:
         return None
@@ -133,7 +205,7 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
 
     log.info("[%s] Homebrew cask: %s  version=%s", entry["id"], token, version)
 
-    result: dict[str, Any] = {"homebrew": token}
+    result: dict[str, Any] = {"homebrew": token, **_status_fields(cask)}
 
     if url:
         name = url.rsplit("/", 1)[-1].split("?")[0] or f"{token}.dmg"

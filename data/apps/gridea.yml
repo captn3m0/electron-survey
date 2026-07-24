@@ -36,3 +36,5 @@ downloads:
 latest: v0.9.3
 src: https://github.com/getgridea/gridea/archive/refs/tags/v0.9.3.zip
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

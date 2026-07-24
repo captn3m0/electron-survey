@@ -28,3 +28,7 @@ method: which-electron-version_file
 latest: v2.0.0-alpha.4
 src: https://github.com/rhysd/Shiba/archive/refs/tags/v2.0.0-alpha.4.zip
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: unmaintained
+homebrew_disabled: true
+homebrew_disable_reason: unmaintained

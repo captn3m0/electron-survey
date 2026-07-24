@@ -11,3 +11,5 @@ downloads:
   version: 1.18.1
 aur_votes: 1
 brew_installs: 10
+homebrew_disabled: true
+homebrew_disable_reason: no_longer_available

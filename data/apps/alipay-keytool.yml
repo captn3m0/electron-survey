@@ -9,3 +9,5 @@ downloads:
   name: getPluginUrl.htm
   version: 2.0.4
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

@@ -11,3 +11,5 @@ downloads:
 electron: 27.0.0
 method: which-electron-rg
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

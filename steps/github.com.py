@@ -115,15 +115,20 @@ def _parse_checksums(text: str) -> dict[str, str]:
 
 
 def process(entry: dict[str, Any]) -> dict[str, Any] | None:
-    """Fetch the latest stable GitHub release for *entry* and return metadata.
+    """Fetch repo metadata and the latest stable GitHub release for *entry*.
 
     Returns a dict with:
+      last_commit – ISO date the repo was last pushed to (from repo metadata)
       latest    – the tag name of the latest stable release
-      src  – zip archive URL for that tag
+      src  – zip archive URL for that tag (or, absent any stable release, for
+              the current default branch — see below)
       downloads – list of release assets, each with name, url, and optionally
                   checksum
 
-    Returns None if the entry has no GitHub repository or no stable release.
+    Returns None if the entry has no GitHub repository or the repo itself
+    can't be found (renamed/deleted). A repo with zero stable releases still
+    yields ``last_commit`` and a ``src`` pointed at its default branch, so the
+    source processor has something to search even without a tagged release.
     """
     repo_url: str = entry.get("repository", "")
     parsed = _parse_owner_repo(repo_url)
@@ -131,15 +136,37 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         return None
 
     owner, repo = parsed
+
+    try:
+        meta_resp = _get(f"https://api.github.com/repos/{owner}/{repo}")
+    except RateLimited as exc:
+        log.warning("[%s] %s — skipping this run", entry["id"], exc)
+        return None
+    if meta_resp.status_code == 404:
+        return None
+    meta_resp.raise_for_status()
+    repo_meta: dict[str, Any] = meta_resp.json()
+
+    result: dict[str, Any] = {}
+    if pushed_at := repo_meta.get("pushed_at"):
+        result["last_commit"] = pushed_at[:10]
+    default_branch: str = repo_meta.get("default_branch") or "main"
+
     try:
         resp = _get(f"https://api.github.com/repos/{owner}/{repo}/releases/latest")
     except RateLimited as exc:
-        # Skip this entry for now rather than erroring the whole run; the next
-        # scheduled run picks it up once the limit resets.
-        log.warning("[%s] %s — skipping this run", entry["id"], exc)
-        return None
+        # Skip the release lookup for now rather than erroring the whole run;
+        # the next scheduled run picks it up once the limit resets. Still
+        # return what repo metadata we already have.
+        log.warning("[%s] %s — skipping release lookup this run", entry["id"], exc)
+        return result or None
     if resp.status_code == 404:
-        return None
+        # No stable release published: fall back to the default branch's
+        # current source so the source processor still has a lockfile to
+        # search (e.g. Cider, whose electron fork pin only lives on `main`,
+        # not in any tagged release — it has none).
+        result["src"] = f"https://github.com/{owner}/{repo}/archive/refs/heads/{default_branch}.zip"
+        return result
     resp.raise_for_status()
 
     release: dict[str, Any] = resp.json()
@@ -170,10 +197,8 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
             if dl["name"] in checksum_map:
                 dl["checksum"] = checksum_map[dl["name"]]
 
-    result: dict[str, Any] = {
-        "latest": tag,
-        "src": f"https://github.com/{owner}/{repo}/archive/refs/tags/{tag}.zip",
-    }
+    result["latest"] = tag
+    result["src"] = f"https://github.com/{owner}/{repo}/archive/refs/tags/{tag}.zip"
     if downloads:
         result["downloads"] = downloads
 

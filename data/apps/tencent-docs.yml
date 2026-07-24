@@ -24,3 +24,5 @@ evidence:
   signal: which-electron rg signal (3 signals agreed)
 aur_votes: 1
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: unreachable

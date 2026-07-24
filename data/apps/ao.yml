@@ -17,3 +17,7 @@ downloads:
 we_tried: we0:urls:32403b3a14db
 aur_votes: 1
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: unmaintained
+homebrew_disabled: true
+homebrew_disable_reason: unmaintained

@@ -29,3 +29,5 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 1000
+homebrew_disabled: true
+homebrew_disable_reason: discontinued

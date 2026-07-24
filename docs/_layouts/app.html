@@ -138,8 +138,12 @@ layout: default
   <tr><th>id</th><td><code>{{ app_id }}</code></td></tr>
   {% if app.website %}<tr><th>Website</th><td><a href="{{ app.website }}">{{ app.website }}</a></td></tr>{% endif %}
   {% if app.repository %}<tr><th>Repository</th><td><a href="{{ app.repository }}">{{ app.repository }}</a></td></tr>{% endif %}
+  {% if app.last_commit %}<tr><th>Last commit</th><td>{{ app.last_commit }}</td></tr>{% endif %}
   {% if app.latest %}<tr><th>Latest release</th><td>{{ app.latest }}</td></tr>{% endif %}
-  {% if app.homebrew %}<tr><th>Homebrew cask</th><td><a href="https://formulae.brew.sh/cask/{{ app.homebrew }}">{{ app.homebrew }}</a>{% if app.brew_installs %} — {{ app.brew_installs }}+ installs in 365d{% endif %}</td></tr>{% endif %}
+  {% if app.homebrew %}<tr><th>Homebrew cask</th><td><a href="https://formulae.brew.sh/cask/{{ app.homebrew }}">{{ app.homebrew }}</a>{% if app.brew_installs %} — {{ app.brew_installs }}+ installs in 365d{% endif %}
+    {%- if app.homebrew_disabled %} <span class="st st-red" title="{{ app.homebrew_disable_reason }}">disabled on Homebrew</span>
+    {%- elsif app.homebrew_deprecated %} <span class="st st-orange" title="{{ app.homebrew_deprecation_reason }}">deprecated on Homebrew</span>{% endif %}
+  </td></tr>{% endif %}
   {% if app.aur %}<tr><th>AUR</th><td>{% for p in app.aur %}<a href="https://aur.archlinux.org/packages/{{ p }}">{{ p }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% if app.aur_votes %} — {{ app.aur_votes }}+ votes{% endif %}</td></tr>{% endif %}
   {% if app.additionalAUR %}<tr><th>AUR variants</th><td class="muted">{{ app.additionalAUR | join: ', ' }} <small>(folded, not counted separately)</small></td></tr>{% endif %}
   {% if app.dead %}<tr><th>Status</th><td>marked dead — not processed</td></tr>{% endif %}

@@ -10,3 +10,5 @@ downloads:
 name: Flow
 aur_votes: 10
 brew_installs: 10
+homebrew_disabled: true
+homebrew_disable_reason: unreachable

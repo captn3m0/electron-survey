@@ -32,3 +32,5 @@ method: which-electron-rg
 latest: v13.1.4
 src: https://github.com/kubernetes-sigs/kui/archive/refs/tags/v13.1.4.zip
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: discontinued

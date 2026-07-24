@@ -26,3 +26,7 @@ evidence:
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 homepage: true
 brew_installs: 1000
+homebrew_deprecated: true
+homebrew_deprecation_reason: unmaintained
+homebrew_disabled: true
+homebrew_disable_reason: unmaintained

@@ -7,3 +7,5 @@ downloads:
   version: 3.0.1
 name: Serene App
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: unmaintained

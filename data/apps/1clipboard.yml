@@ -15,3 +15,7 @@ evidence:
   found_in: 1Clipboard.dmg
   signal: which-electron fingerprint signal
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: unmaintained
+homebrew_disabled: true
+homebrew_disable_reason: unmaintained

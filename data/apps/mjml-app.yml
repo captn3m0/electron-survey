@@ -35,3 +35,5 @@ evidence:
   reconstructed: true
 aur_votes: 1
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

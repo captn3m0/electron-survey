@@ -39,3 +39,5 @@ evidence:
   found_in: oss-browser-darwin-x64.zip
   signal: which-electron version_file signal (3 signals agreed)
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

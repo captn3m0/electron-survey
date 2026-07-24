@@ -26,3 +26,5 @@ latest: v2.7.0
 src: https://github.com/leanote/desktop-app/archive/refs/tags/v2.7.0.zip
 aur_votes: 1
 brew_installs: 1
+homebrew_disabled: true
+homebrew_disable_reason: discontinued

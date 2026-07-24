@@ -49,3 +49,5 @@ latest: v3.0.4
 src: https://github.com/igdmapps/igdm/archive/refs/tags/v3.0.4.zip
 aur_votes: 1
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

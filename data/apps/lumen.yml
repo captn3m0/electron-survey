@@ -26,3 +26,5 @@ evidence:
   found_in: Project.L.U.M.E.N.-darwin-x64.zip
   signal: which-electron rg signal (2 signals agreed)
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

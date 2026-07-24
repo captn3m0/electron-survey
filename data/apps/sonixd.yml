@@ -62,3 +62,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: discontinued
+homebrew_disabled: true
+homebrew_disable_reason: discontinued

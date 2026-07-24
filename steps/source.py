@@ -42,6 +42,13 @@ _KEEP_SRC = os.environ.get("SURVEY_KEEP_SRC") == "1"
 _SESSION = requests.Session()
 
 
+def _is_branch_src(src: str) -> bool:
+    """True for github.com.py's no-release fallback (archive of a branch HEAD,
+    e.g. Cider) rather than a tagged release archive.
+    """
+    return "/archive/refs/heads/" in src
+
+
 def matches(entry: dict[str, Any]) -> bool:
     if not entry.get("src"):
         return False
@@ -52,9 +59,15 @@ def matches(entry: dict[str, Any]) -> bool:
             # don't overwrite a which-electron / aur-depends / direct value.
             return False
         if entry.get("electron_src") == entry.get("src"):
-            # Already detected from this exact archive; re-detect only once the
-            # github.com processor points src at a newer release.
-            return False
+            # Already detected from this exact archive; re-detect once the
+            # github.com processor points src at a newer release. A repo with
+            # no releases never gets that signal — its src is pinned forever
+            # to .../refs/heads/<branch>.zip — so instead re-detect whenever
+            # the branch has moved on since the archive was last read.
+            if not _is_branch_src(entry["src"]):
+                return False
+            if entry.get("electron_src_commit") == entry.get("last_commit"):
+                return False
     return True
 
 
@@ -201,6 +214,13 @@ def _electron_range_from_package_json(paths: list[pathlib.Path]) -> tuple[str, p
 # Version range resolution
 # ---------------------------------------------------------------------------
 
+# A `package.json` electron dependency pinned to a GitHub fork tag rather than
+# a registry version — e.g. Cider's DRM-patched build:
+#   "electron": "github:castlabs/electron-releases#v32.2.6+wvcus"
+# The tag's semver prefix is the real bundled version; any build metadata
+# suffix (+wvcus) identifies the fork, not a different Electron release.
+_GITHUB_DEP_VERSION = re.compile(r'^(?:github:|git\+https://github\.com/)[^#]+#v?(\d+\.\d+\.\d+)')
+
 _VERSIONS_PATH = pathlib.Path("data/versions.txt")
 _known_versions: list[semantic_version.Version] | None = None
 
@@ -254,6 +274,10 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
         # Record which archive this version came from so matches() can re-detect
         # when the github.com processor advances src to a newer release.
         result["electron_src"] = src_url
+        if _is_branch_src(src_url) and entry.get("last_commit"):
+            # No tagged release to advance src, so stash the commit date this
+            # read corresponds to — matches() re-detects once it's stale.
+            result["electron_src_commit"] = entry["last_commit"]
         if "evidence" in result:
             result["evidence"]["source"] = src_url
     return result
@@ -339,6 +363,19 @@ def _detect(app_id: str, zip_path: pathlib.Path, extract_dir: pathlib.Path) -> d
                         "kind": "manifest",
                         "found_in": _rel(path),
                         "signal": f"electron pinned to exactly {rng}",
+                    },
+                }
+            gh_fork = _GITHUB_DEP_VERSION.match(rng.strip())
+            if gh_fork:
+                version = gh_fork.group(1)
+                log.info("[%s] electron %s detected via package.json (github fork tag)", app_id, version)
+                return {
+                    "electron": version,
+                    "method": "src-package-json",
+                    "evidence": {
+                        "kind": "manifest",
+                        "found_in": _rel(path),
+                        "signal": f"electron pinned to a custom fork build ({rng})",
                     },
                 }
             resolved = _resolve_range(rng)

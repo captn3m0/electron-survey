@@ -43,3 +43,5 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
 brew_installs: 100
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check

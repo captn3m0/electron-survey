@@ -15,3 +15,5 @@ downloads:
   name: copytranslator-11.0.0.dmg
   version: 11.0.0
 brew_installs: 10
+homebrew_deprecated: true
+homebrew_deprecation_reason: fails_gatekeeper_check
