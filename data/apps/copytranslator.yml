@@ -14,3 +14,4 @@ downloads:
 - url: https://github.com/CopyTranslator/CopyTranslator/releases/download/v11.0.0/copytranslator-11.0.0.dmg
   name: copytranslator-11.0.0.dmg
   version: 11.0.0
+brew_installs: 10

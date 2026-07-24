@@ -12,3 +12,4 @@ evidence:
   source: https://aur.archlinux.org/packages/nora-bin
   found_in: nora-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_votes: 1

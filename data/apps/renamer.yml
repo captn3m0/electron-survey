@@ -25,3 +25,4 @@ electron: 42.5.0
 method: which-electron-rg
 latest: v7.3.2
 src: https://github.com/incbee/renamer-7-releases/archive/refs/tags/v7.3.2.zip
+brew_installs: 100

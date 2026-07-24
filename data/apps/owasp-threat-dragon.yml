@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/owasp-threat-dragon
   found_in: owasp-threat-dragon
   signal: depends on electron5; reported as the newest 5.x release (5.0.13)
+aur_votes: 1

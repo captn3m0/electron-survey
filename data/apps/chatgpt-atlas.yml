@@ -24,3 +24,6 @@ evidence:
   source: https://aur.archlinux.org/packages/chatgpt-desktop-bin
   found_in: chatgpt-desktop-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+homepage: true
+aur_votes: 1
+brew_installs: 10000

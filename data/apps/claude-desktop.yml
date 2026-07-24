@@ -27,3 +27,4 @@ aur:
 - claudebar
 electron: 41.3.0
 method: which-electron-rg
+aur_votes: 10

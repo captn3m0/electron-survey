@@ -23,3 +23,6 @@ evidence:
   source: https://autoupdate.termius.com/mac-arm64/Termius.dmg
   found_in: Termius.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 10000

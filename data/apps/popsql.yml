@@ -15,3 +15,4 @@ evidence:
   source: https://popsql-releases.s3.amazonaws.com/mac/PopSQL-1.0.135-arm64.dmg
   found_in: PopSQL-1.0.135-arm64.dmg
   signal: which-electron rg signal
+brew_installs: 1000

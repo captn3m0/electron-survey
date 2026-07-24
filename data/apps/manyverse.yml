@@ -11,3 +11,5 @@ downloads:
 name: Manyverse
 electron: 18.3.7
 method: which-electron-rg
+aur_votes: 1
+brew_installs: 1

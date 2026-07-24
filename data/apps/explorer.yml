@@ -14,3 +14,4 @@ homebrew: explorer
 name: Explorer
 electron: 0.35.6
 method: which-electron-fingerprint
+brew_installs: 100

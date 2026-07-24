@@ -16,3 +16,5 @@ downloads:
 - url: https://download2.gridtracker.org/GridTracker2-2.260705.2-universal-mac.zip
   name: GridTracker2-2.260705.2-universal-mac.zip
   version: 2.260705.2
+aur_votes: 1
+brew_installs: 10

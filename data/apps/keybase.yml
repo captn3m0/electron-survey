@@ -31,3 +31,6 @@ evidence:
   source: https://prerelease.keybase.io/keybase_amd64.deb
   found_in: keybase_amd64.deb
   signal: which-electron rg signal
+homepage: true
+aur_votes: 100
+brew_installs: 1000

@@ -38,3 +38,4 @@ evidence:
   source: https://aur.archlinux.org/packages/firefly-canary-desktop-bin
   found_in: firefly-canary-desktop-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+brew_installs: 10

@@ -29,3 +29,5 @@ evidence:
   source: https://github.com/OutlineFoundation/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage
   found_in: Outline-Client.AppImage
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 100

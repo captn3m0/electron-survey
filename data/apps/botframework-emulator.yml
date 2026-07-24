@@ -20,3 +20,4 @@ evidence:
   source: https://github.com/Microsoft/BotFramework-Emulator/releases/download/v4.14.1/botframework-emulator-4.14.1-mac.zip
   found_in: botframework-emulator-4.14.1-mac.zip
   signal: which-electron rg signal
+brew_installs: 1000

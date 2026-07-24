@@ -47,3 +47,5 @@ electron: 10.4.2
 method: which-electron-rg
 latest: v3.0.4
 src: https://github.com/igdmapps/igdm/archive/refs/tags/v3.0.4.zip
+aur_votes: 1
+brew_installs: 10

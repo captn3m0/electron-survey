@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/xterminal-bin
   found_in: xterminal-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_votes: 1

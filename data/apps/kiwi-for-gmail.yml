@@ -13,3 +13,4 @@ downloads:
   version: 4.6.2
 electron: 37.2.5
 method: which-electron-rg
+brew_installs: 10

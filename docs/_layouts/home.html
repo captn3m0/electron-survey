@@ -2,8 +2,7 @@
 layout: default
 ---
 {%- assign s = site.data.summary -%}
-{%- assign main = s.main -%}
-{%- assign tiers = site.data.popularity.tiers -%}
+{%- assign featured = s.featured -%}
 
 <div class="wip-banner">
   <p>🚧 Work in progress 🚧</p>
@@ -27,21 +26,21 @@ layout: default
 </p>
 
 <div class="headline">
-  <span class="figure">{{ main.eol_pct }}%</span>
+  <span class="figure">{{ featured.eol_pct }}%</span>
   <p>
-    of the <strong>{{ main.detected }}</strong> most-used Electron apps we can
+    of the <strong>{{ featured.detected }}</strong> most-used Electron apps we can
     resolve ship an <strong>end-of-life</strong> Electron — one whose Chromium
     line no longer receives security fixes at all.
   </p>
   <p>
-    The median one is missing <strong>{{ main.median_cves_critical }} critical</strong>
-    and <strong>{{ main.median_cves_high }} high-severity</strong> Chromium CVE
+    The median one is missing <strong>{{ featured.median_cves_critical }} critical</strong>
+    and <strong>{{ featured.median_cves_high }} high-severity</strong> Chromium CVE
     fixes — patches that exist, in a build it does not ship.
   </p>
   <p class="muted">
-    Median exposure: <strong>{{ main.median_days_behind }} days</strong> since
+    Median exposure: <strong>{{ featured.median_days_behind }} days</strong> since
     stable Electron moved to a newer Chromium major
-    (<strong>{{ main.median_majors_behind }}</strong> Chromium majors behind).
+    (<strong>{{ featured.median_majors_behind }}</strong> Chromium majors behind).
     Current: Electron {{ s.current.electron_major }} / Chromium
     {{ s.current.chromium_major }}.
   </p>
@@ -54,87 +53,26 @@ layout: default
   <li><span class="n">{{ s.overall.median_days_behind }}</span><span class="k">median days behind, all apps</span></li>
 </ul>
 
-<h2>Where the apps sit</h2>
+<h2 id="featured">Featured apps</h2>
 
 <p>
-  Apps are grouped by reach — the strongest of their AUR votes or Homebrew
-  installs — because a stale browser in something a million people run is a very
-  different problem from a stale browser in a weekend project. The three tiers
-  below are the ones worth caring about.
+  The <strong>{{ featured.apps }}</strong> apps with the widest measured install
+  base — the ones a stale Chromium reaches the most people through. Sorted by how
+  far behind Chromium each one is; <strong>{{ featured.eol_pct }}%</strong> of the
+  resolved ones are on an end-of-life Electron.
 </p>
 
-<ul class="tiers">
-{%- for tier in s.main_tiers -%}
-  {%- assign stat = s.tiers[tier] -%}
-  {%- assign tier_page = site.pages | where: "tier", tier | first -%}
-  <li class="tier-card">
-    <div class="head">
-      <a href="{{ tier | prepend: '/' | append: '/' | relative_url }}">{{ stat.label }}</a>
-      <span class="count">{{ stat.apps }} apps · {{ stat.detected }} resolved · {{ stat.eol_pct }}% end-of-life</span>
-    </div>
-    <p class="blurb">{{ tier_page.description }}</p>
-    {% include tierbar.html stat=stat key=true %}
-  </li>
-{%- endfor -%}
-</ul>
+{% include applist.html ids=site.data.summary.featured.ids %}
 
-<p class="muted">
-  <small>
-    Beyond these:
-    <a href="{{ '/minimal/' | relative_url }}">{{ s.tiers.minimal.apps }} minimal</a> and
-    <a href="{{ '/unranked/' | relative_url }}">{{ s.tiers.unranked.apps }} unranked</a>
-    apps carry little or no usage signal — they are tracked, and they are in far
-    worse shape ({{ s.tiers.unranked.eol_pct }}% end-of-life), but nobody is
-    running most of them.
-  </small>
-</p>
-
-<h2 id="top-apps">The apps most people actually run</h2>
+<h2 id="all-apps">All apps</h2>
 
 <p>
-  Every flagship app, in reach order — the {{ s.tiers.flagship.apps }} Electron
-  apps with the widest measured install base.
-  <strong>{{ s.tiers.flagship.eol_pct }}%</strong> of the resolved ones are on an
-  end-of-life Electron.
+  Every tracked app, most exposed first — the ones shipping the oldest Chromium
+  lead. Apps we haven't resolved a version for yet sort last. Click a column to
+  re-sort, or filter by name.
 </p>
 
-{% include applist.html ids=tiers.flagship rank=true %}
-
-<h2 id="furthest-behind">Furthest behind</h2>
-
-<p>
-  Widely used apps carrying the oldest Chromium. These are shipping browser
-  engines that stopped receiving fixes years ago.
-</p>
-
-<div class="table-wrap">
-  <table class="data">
-    <thead>
-      <tr>
-        <th>App</th>
-        <th>Tier</th>
-        <th>Electron</th>
-        <th>Chromium</th>
-        <th class="num">Majors behind</th>
-        <th class="num">Days behind</th>
-        <th class="num" title="Critical / high severity Chromium CVEs fixed after this build">Open CVEs</th>
-      </tr>
-    </thead>
-    <tbody>
-    {%- for row in s.worst %}
-      <tr>
-        <td class="app"><a href="{{ row.id | prepend: '/apps/' | append: '.html' | relative_url }}">{{ row.name }}</a></td>
-        <td>{{ s.tiers[row.tier].label }}</td>
-        <td><span class="st st-red">{{ row.electron }}</span></td>
-        <td>{{ row.chromium }}</td>
-        <td class="num">{{ row.chromium_majors_behind }}</td>
-        <td class="num">{{ row.chromium_days_behind }}</td>
-        <td class="num"><strong>{{ row.cves_critical }}</strong><span class="muted"> / {{ row.cves_high }}</span></td>
-      </tr>
-    {%- endfor %}
-    </tbody>
-  </table>
-</div>
+{% include applist.html ids=site.data.summary.overall.ids %}
 
 <h2>Reading the numbers</h2>
 

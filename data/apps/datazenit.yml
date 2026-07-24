@@ -15,3 +15,4 @@ src: https://github.com/datazenit/datazenit-releases/archive/refs/tags/v1.1.0.zi
 name: Datazenit
 electron: 0.37.8
 method: which-electron-version_file
+brew_installs: 10

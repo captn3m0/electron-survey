@@ -46,16 +46,8 @@
   <header class="masthead">
     <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <nav>
-      {%- for tier in site.data.summary.main_tiers -%}
-        {%- assign tier_url = tier | prepend: '/' | append: '/' | relative_url %}
-        <a href="{{ tier_url }}"{% if page.tier == tier %} aria-current="page"{% endif %}>{{ site.data.summary.tiers[tier].label }}</a>
-      {%- endfor -%}
-      {%- assign nav_minor = "minimal,unranked" | split: "," -%}
-      {%- for tier in nav_minor -%}
-        {%- assign tier_url = tier | prepend: '/' | append: '/' | relative_url %}
-        <a class="minor" href="{{ tier_url }}"{% if page.tier == tier %} aria-current="page"{% endif %}>{{ site.data.summary.tiers[tier].label }}</a>
-      {%- endfor %}
-      <a class="minor" href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>Method</a>
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
     </nav>
   </header>
   <hr>

@@ -19,3 +19,5 @@ evidence:
   source: https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.75.1001.dmg
   found_in: youkuclient_setup_9.2.75.1001.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

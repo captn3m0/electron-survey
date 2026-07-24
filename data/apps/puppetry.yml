@@ -22,3 +22,4 @@ evidence:
   source: https://github.com/dsheiko/puppetry/releases/download/v3.2.6/puppetry-linux-v3.2.6-x86_64.AppImage
   found_in: puppetry-linux-v3.2.6-x86_64.AppImage
   signal: which-electron rg signal
+brew_installs: 100

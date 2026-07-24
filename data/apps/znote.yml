@@ -47,3 +47,5 @@ packages:
   format: dmg
   os: macos
   arch: arm64
+aur_votes: 1
+brew_installs: 100

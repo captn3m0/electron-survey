@@ -38,3 +38,5 @@ electron: 1.7.12
 method: which-electron-fingerprint
 latest: v1.1.4
 src: https://github.com/hql287/Manta/archive/refs/tags/v1.1.4.zip
+aur_votes: 1
+brew_installs: 10

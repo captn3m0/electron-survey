@@ -20,3 +20,6 @@ additionalAUR:
 - arc-client
 - arcosc-client
 we_tried: we1.2.1:urls:1989ed48850f
+homepage: true
+aur_votes: 1
+brew_installs: 10000

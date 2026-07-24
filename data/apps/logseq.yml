@@ -107,3 +107,5 @@ evidence:
   source: https://github.com/logseq/logseq/releases/download/2.0.1/Logseq-linux-arm64-2.0.1.AppImage
   found_in: Logseq-linux-arm64-2.0.1.AppImage
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

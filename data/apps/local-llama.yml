@@ -12,3 +12,4 @@ evidence:
   source: https://aur.archlinux.org/packages/local-llama-bin
   found_in: local-llama-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_votes: 1

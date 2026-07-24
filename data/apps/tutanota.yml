@@ -26,3 +26,6 @@ evidence:
   source: https://mail.tutanota.com/desktop/tutanota-desktop-linux.AppImage
   found_in: tutanota-desktop-linux.AppImage
   signal: which-electron rg signal
+homepage: true
+aur_votes: 100
+brew_installs: 100

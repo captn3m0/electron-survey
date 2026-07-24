@@ -11,3 +11,4 @@ evidence:
   source: https://aur.archlinux.org/packages/git-good-bin
   found_in: git-good-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_votes: 1

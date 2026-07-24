@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/exiled-exchange-2-bin
   found_in: exiled-exchange-2-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_votes: 1

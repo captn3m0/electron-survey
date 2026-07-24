@@ -25,3 +25,6 @@ aur_downloads:
   name: Lens-2026.4.151333-latest.x86_64.AppImage
   arch: any
   source: aur-bin
+homepage: true
+aur_votes: 10
+brew_installs: 10000

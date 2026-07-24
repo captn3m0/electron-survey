@@ -21,3 +21,5 @@ evidence:
   source: https://aur.archlinux.org/packages/weakauras-companion
   found_in: weakauras-companion
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_votes: 1
+brew_installs: 10

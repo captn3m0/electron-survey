@@ -11,3 +11,4 @@ downloads:
 name: KeyCombiner
 electron: 16.0.7
 method: which-electron-rg
+brew_installs: 10

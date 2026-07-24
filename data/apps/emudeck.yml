@@ -24,3 +24,4 @@ evidence:
   source: https://aur.archlinux.org/packages/emudeck-bin
   found_in: emudeck-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_votes: 1

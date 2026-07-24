@@ -45,3 +45,6 @@ evidence:
   source: https://github.com/arduino/arduino-ide/releases/download/2.3.10/arduino-ide_2.3.10_Linux_64bit.AppImage
   found_in: arduino-ide_2.3.10_Linux_64bit.AppImage
   signal: which-electron rg signal
+homepage: true
+aur_votes: 1
+brew_installs: 1000

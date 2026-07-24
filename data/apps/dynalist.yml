@@ -12,3 +12,5 @@ downloads:
 - url: https://dynalist.io/standalone/download?file=Dynalist.dmg
   name: download
   version: 1.0.6
+aur_votes: 1
+brew_installs: 10

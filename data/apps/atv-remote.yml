@@ -29,3 +29,4 @@ evidence:
   source: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-1.4.5.AppImage
   found_in: ATV-Remote-1.4.5.AppImage
   signal: which-electron rg signal
+brew_installs: 1000

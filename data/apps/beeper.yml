@@ -33,3 +33,5 @@ evidence:
   source: https://beeper-desktop.download.beeper.com/builds/Beeper-4.2.985-arm64-mac.zip
   found_in: Beeper-4.2.985-arm64-mac.zip
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 1000

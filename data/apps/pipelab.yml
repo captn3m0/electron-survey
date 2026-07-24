@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/pipelab-bin
   found_in: pipelab-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+aur_votes: 1

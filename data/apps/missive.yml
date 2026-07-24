@@ -8,3 +8,4 @@ downloads:
 name: Missive
 electron: 38.2.2
 method: which-electron-rg
+brew_installs: 100

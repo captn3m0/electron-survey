@@ -76,3 +76,5 @@ evidence:
   source: https://github.com/aaif-goose/goose/releases/download/v1.43.0/Goose-1.43.0-1.x86_64-vulkan.rpm
   found_in: Goose-1.43.0-1.x86_64-vulkan.rpm
   signal: which-electron rg signal
+homepage: true
+brew_installs: 10000

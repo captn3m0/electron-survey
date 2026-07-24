@@ -15,3 +15,5 @@ evidence:
   source: https://cdn-2.webcatalog.io/webcatalog/WebCatalog-74.0.2-universal.dmg
   found_in: WebCatalog-74.0.2-universal.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

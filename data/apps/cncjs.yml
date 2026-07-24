@@ -53,3 +53,5 @@ electron: 22.0.3
 method: which-electron-rg
 latest: v1.11.2
 src: https://github.com/cncjs/cncjs/archive/refs/tags/v1.11.2.zip
+aur_votes: 1
+brew_installs: 10

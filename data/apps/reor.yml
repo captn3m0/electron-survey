@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/reor-bin
   found_in: reor-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_votes: 1

@@ -60,3 +60,6 @@ evidence:
   source: https://aur.archlinux.org/packages/cursor-bin
   found_in: cursor-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+homepage: true
+aur_votes: 100
+brew_installs: 100000

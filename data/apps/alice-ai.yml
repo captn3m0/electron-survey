@@ -32,3 +32,4 @@ evidence:
   source: https://aur.archlinux.org/packages/alice-ai-app-bin
   found_in: alice-ai-app-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_votes: 1

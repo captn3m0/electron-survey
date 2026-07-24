@@ -26,3 +26,4 @@ evidence:
   source: https://aur.archlinux.org/packages/vscodius-bin
   found_in: vscodius-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_votes: 1

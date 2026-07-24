@@ -16,3 +16,5 @@ evidence:
   source: https://aur.archlinux.org/packages/spotify-electron-bin
   found_in: spotify-electron-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+homepage: true
+brew_installs: 10000

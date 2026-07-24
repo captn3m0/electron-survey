@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/wizread-bin
   found_in: wizread-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+aur_votes: 1

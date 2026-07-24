@@ -74,3 +74,4 @@ evidence:
   source: https://aur.archlinux.org/packages/media-hoarder-bin
   found_in: media-hoarder-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_votes: 1

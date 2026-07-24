@@ -31,3 +31,4 @@ electron: 1.0.1
 method: which-electron-version_file
 latest: 0.5.1
 src: https://github.com/theodi/comma-chameleon/archive/refs/tags/0.5.1.zip
+brew_installs: 1

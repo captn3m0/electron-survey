@@ -24,3 +24,4 @@ evidence:
   source: https://aur.archlinux.org/packages/chatgptx-bin
   found_in: chatgptx-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_votes: 1

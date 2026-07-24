@@ -37,3 +37,5 @@ evidence:
   source: https://github.com/koush/vysor.io/releases/download/v5.0.7/vysor-5.0.7-full.nupkg
   found_in: vysor-5.0.7-full.nupkg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

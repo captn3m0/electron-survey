@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/remindr-bin
   found_in: remindr-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+aur_votes: 1

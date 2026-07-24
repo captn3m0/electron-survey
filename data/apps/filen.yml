@@ -22,3 +22,5 @@ evidence:
   source: https://cdn.filen.io/@filen/desktop/release/v3.0.52/Filen_mac_arm64.dmg
   found_in: Filen_mac_arm64.dmg
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 100

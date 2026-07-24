@@ -27,3 +27,4 @@ method: which-electron-rg
 homebrew: lectrote
 name: Lectrote
 electron_src: https://github.com/erkyrath/lectrote/archive/refs/tags/lectrote-1.5.6.zip
+brew_installs: 10

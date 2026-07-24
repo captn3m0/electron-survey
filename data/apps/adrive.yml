@@ -23,3 +23,5 @@ evidence:
   source: https://cdn.aliyundrive.net/downloads/apps/desktop/aDrive-6.9.3-arm64.dmg
   found_in: aDrive-6.9.3-arm64.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

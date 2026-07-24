@@ -19,3 +19,4 @@ evidence:
   source: https://aur.archlinux.org/packages/deepl-linux-electron
   found_in: deepl-linux-electron
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+aur_votes: 1

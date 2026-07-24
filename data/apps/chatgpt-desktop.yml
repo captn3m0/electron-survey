@@ -17,3 +17,5 @@ downloads:
   version: 26.623.141536
 aur:
 - python-kmeans1d
+homepage: true
+brew_installs: 10000

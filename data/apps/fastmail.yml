@@ -20,3 +20,5 @@ evidence:
   source: https://dl.fastmailcdn.com/desktop/production/mac/arm64/Fastmail-1.5.1-arm64-mac.zip
   found_in: Fastmail-1.5.1-arm64-mac.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

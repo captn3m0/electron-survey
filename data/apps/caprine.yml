@@ -59,3 +59,5 @@ evidence:
   source: https://github.com/sindresorhus/caprine/releases/download/v2.61.0/Caprine-2.61.0.AppImage
   found_in: Caprine-2.61.0.AppImage
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

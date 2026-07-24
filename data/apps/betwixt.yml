@@ -31,3 +31,4 @@ electron: 0.36.12
 method: which-electron-version_file
 latest: 1.6.1
 src: https://github.com/kdzwinel/betwixt/archive/refs/tags/1.6.1.zip
+brew_installs: 10

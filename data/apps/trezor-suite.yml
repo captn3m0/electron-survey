@@ -71,3 +71,6 @@ evidence:
   source: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-arm64.AppImage
   found_in: Trezor-Suite-26.7.2-linux-arm64.AppImage
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 100

@@ -50,3 +50,4 @@ evidence:
   source: https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-linux-x64.tar.gz
   found_in: StorageExplorer-linux-x64.tar.gz
   signal: which-electron rg signal
+brew_installs: 1000

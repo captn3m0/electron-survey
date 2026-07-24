@@ -444,3 +444,6 @@ evidence:
   source: https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium-1.126.04524-el8.aarch64.rpm
   found_in: codium-1.126.04524-el8.aarch64.rpm
   signal: which-electron rg signal
+homepage: true
+aur_votes: 1
+brew_installs: 10000

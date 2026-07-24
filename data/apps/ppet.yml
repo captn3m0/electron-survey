@@ -44,3 +44,4 @@ evidence:
   found_in: package.json
   signal: electron pinned to an exact version in package.json
   reconstructed: true
+aur_votes: 1

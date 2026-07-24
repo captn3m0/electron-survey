@@ -44,3 +44,4 @@ downloads:
 latest: v1.7.1
 src: https://github.com/Splode/pomotroid/archive/refs/tags/v1.7.1.zip
 we_tried: we1.2.1:v1.7.1
+brew_installs: 100

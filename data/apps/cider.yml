@@ -4,3 +4,5 @@ website: https://cider.sh
 aur:
 - cider
 name: Cider
+homepage: true
+aur_votes: 10

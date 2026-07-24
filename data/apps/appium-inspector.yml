@@ -66,3 +66,4 @@ evidence:
   source: https://github.com/appium/appium-inspector/releases/download/v2026.5.1/Appium-Inspector-2026.5.1-linux-arm64.AppImage
   found_in: Appium-Inspector-2026.5.1-linux-arm64.AppImage
   signal: which-electron rg signal
+brew_installs: 1000

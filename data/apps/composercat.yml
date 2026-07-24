@@ -8,3 +8,4 @@ downloads:
 name: Composercat
 electron: 1.7.2
 method: which-electron-fingerprint
+brew_installs: 10

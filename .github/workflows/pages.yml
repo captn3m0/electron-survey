@@ -62,11 +62,12 @@ jobs:
 
       # data/freshness.yml and data/summary.yml are derived, not committed:
       # regenerate them here from the committed observations (data/apps,
-      # data/versions.txt, data/cves.yml, data/popularity.yml) so every publish
-      # trigger — push, dispatch, or workflow_call — ships current data. Only the
-      # two cheap meta indexes freshness needs are fetched, not the
-      # multi-hundred-MB AUR/Homebrew dumps. summary reads the freshness.yml just
-      # generated plus the committed popularity.yml.
+      # data/versions.txt, data/cves.yml) so every publish trigger — push,
+      # dispatch, or workflow_call — ships current data. Only the two cheap meta
+      # indexes freshness needs are fetched, not the multi-hundred-MB AUR/Homebrew
+      # dumps. summary reads the freshness.yml just generated plus the popularity
+      # signals already committed into the per-app data/apps/*.yml, so there is
+      # nothing else to regenerate here.
       - name: Recompute Electron/Chromium freshness and summary
         run: |
           make meta/electron-index.json meta/eol-electron.json
@@ -87,7 +88,6 @@ jobs:
         working-directory: docs
         run: |
           test -f _site/index.html
-          test -f _site/flagship/index.html
           test -f _site/about/index.html
           pages=$(find _site/apps -name '*.html' | wc -l)
           echo "Generated $pages app pages"

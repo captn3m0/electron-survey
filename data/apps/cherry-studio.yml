@@ -23,3 +23,6 @@ evidence:
   source: https://github.com/CherryHQ/cherry-studio/releases/download/v1.9.12/Cherry-Studio-1.9.12-arm64.dmg
   found_in: Cherry-Studio-1.9.12-arm64.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 1
+brew_installs: 1000

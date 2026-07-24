@@ -24,3 +24,4 @@ evidence:
   source: https://aur.archlinux.org/packages/redis-viewer-bin
   found_in: redis-viewer-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_votes: 1

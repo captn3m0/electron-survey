@@ -11,3 +11,4 @@ packages:
 - url: https://streamlabs.com/streamlabs-desktop/download?sdb=1
   format: exe
   os: windows
+brew_installs: 100

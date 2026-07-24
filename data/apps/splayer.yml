@@ -16,3 +16,5 @@ downloads:
 - url: https://github.com/chiflix/splayerx/releases/download/4.9.4/SPlayer-4.9.4.dmg
   name: SPlayer-4.9.4.dmg
   version: 4.9.4
+aur_votes: 1
+brew_installs: 100

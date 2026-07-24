@@ -21,3 +21,5 @@ evidence:
   source: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-mac-universal.dmg
   found_in: Whalebird-6.3.0-mac-universal.dmg
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 10

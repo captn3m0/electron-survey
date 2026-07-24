@@ -13,3 +13,4 @@ evidence:
   source: https://release.protopie.io/ProtoPie-9.0.0-universal.dmg
   found_in: ProtoPie-9.0.0-universal.dmg
   signal: which-electron rg signal
+brew_installs: 100

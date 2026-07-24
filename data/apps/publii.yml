@@ -33,3 +33,5 @@ evidence:
   source: https://getpublii.com/download/Publii-0.47.6.AppImage
   found_in: Publii-0.47.6.AppImage
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

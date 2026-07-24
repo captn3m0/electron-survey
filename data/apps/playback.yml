@@ -10,3 +10,4 @@ homebrew: playback
 name: Playback
 electron: 0.35.4
 method: which-electron-fingerprint
+brew_installs: 10

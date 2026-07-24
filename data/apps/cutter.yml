@@ -39,3 +39,5 @@ downloads:
   url: https://github.com/rizinorg/cutter/releases/download/v2.5.0/Cutter-v2.5.0-Windows-x86_64.zip
 latest: v2.5.0
 src: https://github.com/rizinorg/cutter/archive/refs/tags/v2.5.0.zip
+aur_votes: 1
+brew_installs: 1000

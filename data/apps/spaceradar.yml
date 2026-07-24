@@ -26,3 +26,4 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+brew_installs: 10

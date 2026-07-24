@@ -87,3 +87,5 @@ evidence:
   source: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-aarch64.rpm
   found_in: PicList-3.5.0-aarch64.rpm
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

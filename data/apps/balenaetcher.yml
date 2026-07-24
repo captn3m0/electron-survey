@@ -74,3 +74,5 @@ evidence:
   source: https://github.com/balena-io/etcher/releases/download/v2.1.6/balena-etcher-2.1.6-1.x86_64.rpm
   found_in: balena-etcher-2.1.6-1.x86_64.rpm
   signal: which-electron rg signal
+homepage: true
+brew_installs: 10000

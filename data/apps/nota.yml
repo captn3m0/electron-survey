@@ -23,3 +23,5 @@ packages:
 name: Nota
 electron: 27.3.11
 method: which-electron-rg
+aur_votes: 1
+brew_installs: 100

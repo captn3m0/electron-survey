@@ -24,3 +24,5 @@ downloads:
 - name: Moebius.Setup.exe
   url: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.Setup.exe
 homebrew: moebius
+aur_votes: 1
+brew_installs: 10

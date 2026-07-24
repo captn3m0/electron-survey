@@ -22,3 +22,5 @@ evidence:
   source: https://github.com/requestly/requestly-desktop-app/releases/download/v26.6.29/Requestly-26.6.29-arm64.dmg
   found_in: Requestly-26.6.29-arm64.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

@@ -74,3 +74,4 @@ evidence:
   source: https://aur.archlinux.org/packages/pear-desktop-arjix-git
   found_in: pear-desktop-arjix-git
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_votes: 1

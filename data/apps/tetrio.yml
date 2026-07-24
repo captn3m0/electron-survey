@@ -20,3 +20,5 @@ evidence:
   source: https://tetr.io/about/desktop/builds/10/TETR.IO%20Setup%20arm64.dmg
   found_in: TETR.IO%20Setup%20arm64.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

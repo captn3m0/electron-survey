@@ -20,3 +20,5 @@ evidence:
   source: https://github.com/containers/podman-desktop/releases/download/v1.28.2/podman-desktop-1.28.2-arm64.dmg
   found_in: podman-desktop-1.28.2-arm64.dmg
   signal: which-electron rg signal
+homepage: true
+brew_installs: 10000

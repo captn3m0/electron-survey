@@ -18,3 +18,4 @@ evidence:
   source: https://static.mypikpak.com/mac/PikPak-v2.2.1.2340-arm64.zip
   found_in: PikPak-v2.2.1.2340-arm64.zip
   signal: which-electron rg signal
+brew_installs: 100

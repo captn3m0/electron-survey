@@ -26,3 +26,5 @@ evidence:
   source: https://packages.loom.com/desktop-packages/Loom-0.338.4-arm64.dmg
   found_in: Loom-0.338.4-arm64.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

@@ -115,3 +115,6 @@ evidence:
   source: https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-linux-7.1.2-aarch64.rpm
   found_in: Ferdium-linux-7.1.2-aarch64.rpm
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 1000

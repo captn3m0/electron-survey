@@ -24,3 +24,5 @@ evidence:
   source: https://image.easyeda.com/files/easyeda-mac-arm64-6.5.51.zip
   found_in: easyeda-mac-arm64-6.5.51.zip
   signal: which-electron rg signal (3 signals agreed)
+aur_votes: 10
+brew_installs: 100

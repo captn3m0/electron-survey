@@ -13,3 +13,4 @@ downloads:
   url: https://github.com/RobinBoers/cutie-tanks/releases/download/v1.5/cutie-tanks-1.5-1-x86_64.pkg.tar.zst
 - name: release.zip
   url: https://github.com/RobinBoers/cutie-tanks/releases/download/v1.5/release.zip
+aur_votes: 1

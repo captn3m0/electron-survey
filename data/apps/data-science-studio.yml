@@ -12,3 +12,4 @@ downloads:
   version: 14.0.3
 electron: 36.1.0
 method: which-electron-rg
+brew_installs: 10

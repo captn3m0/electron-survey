@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/hayase-bin
   found_in: hayase-bin
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+aur_votes: 1

@@ -81,3 +81,4 @@ downloads:
   url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64.exe
 - name: muffon-2.4.0-win-x64.exe.blockmap
   url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64.exe.blockmap
+aur_votes: 1

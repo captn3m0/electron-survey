@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/liground-bin
   found_in: liground-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+aur_votes: 1

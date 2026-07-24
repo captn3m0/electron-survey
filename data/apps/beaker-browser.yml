@@ -31,3 +31,4 @@ evidence:
   source: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/Beaker.Browser-1.1.0.AppImage
   found_in: Beaker.Browser-1.1.0.AppImage
   signal: which-electron rg signal
+aur_votes: 10

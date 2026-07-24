@@ -42,3 +42,4 @@ evidence:
   source: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-1.11.3-full.nupkg
   found_in: Amical-1.11.3-full.nupkg
   signal: which-electron rg signal
+brew_installs: 1000

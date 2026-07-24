@@ -12,3 +12,4 @@ downloads:
   version: 3.18.115
 electron: 38.2.0
 method: which-electron-rg
+brew_installs: 100

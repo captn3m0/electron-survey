@@ -79,3 +79,5 @@ evidence:
   source: https://github.com/toeverything/AFFiNE/releases/download/v0.27.2/affine-0.27.2-stable-linux-x64.zip
   found_in: affine-0.27.2-stable-linux-x64.zip
   signal: which-electron rg signal (2 signals agreed)
+aur_votes: 1
+brew_installs: 1000

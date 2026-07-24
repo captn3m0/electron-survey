@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/stealthplane-bin
   found_in: stealthplane-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+aur_votes: 1

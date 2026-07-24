@@ -24,3 +24,5 @@ evidence:
   source: https://aur.archlinux.org/packages/panda-app-git
   found_in: panda-app-git
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+homepage: true
+brew_installs: 1000

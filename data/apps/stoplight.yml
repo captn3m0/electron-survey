@@ -15,3 +15,5 @@ evidence:
   source: https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.9587.git-0533c10/stoplight-studio-mac-arm64.dmg
   found_in: stoplight-studio-mac-arm64.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

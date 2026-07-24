@@ -3,8 +3,8 @@ layout: default
 title: Method
 permalink: /about/
 description: >
-  How the Electron version of each app is detected, how popularity tiers are
-  assigned, and what the Chromium lag numbers do and do not mean.
+  How the Electron version of each app is detected, how the most-used apps are
+  flagged, and what the Chromium lag numbers do and do not mean.
 ---
 
 # How this is built
@@ -119,7 +119,7 @@ support status for the app's Electron major:
 Because the rule is relative to today, every app drifts toward red on its own as
 new Electron majors ship. Nothing here needs manual re-grading.
 
-## Popularity tiers
+## Popularity
 
 Ranking by "importance" needs a usage signal, and the only two open, comparable
 ones are:
@@ -127,17 +127,16 @@ ones are:
 - **AUR votes** — summed over the Arch packages matched to the app.
 - **Homebrew installs** — 365-day cask install count.
 
-The tiers take the **stronger of the two**, not a sum or weighted blend, so a
-Linux-only or macOS-only app isn't punished for missing the other channel. The
-thresholds are calibrated so both channels land at the same percentile:
+Each app keeps the **stronger of the two**, not a sum or weighted blend, so a
+Linux-only or macOS-only app isn't punished for missing the other channel. Both
+signals are stored on the app itself, rounded down to an order-of-magnitude
+bucket (1,234 votes is recorded as `1000`), so day-to-day count drift doesn't
+churn the data.
 
-| Tier | AUR votes | Homebrew installs (365d) | ≈ percentile |
-| --- | --- | --- | --- |
-| Flagship | ≥ 75 | ≥ 40,000 | p95 |
-| Popular | ≥ 25 | ≥ 7,500 | p90 |
-| Established | ≥ 5 | ≥ 1,000 | p68 |
-| Minimal | 1–4 | 1–999 | below |
-| Unranked | 0 | 0 | no signal |
+The most-used apps — those clearing roughly the top-10% bar on either channel
+(≥ 25 AUR votes or ≥ 7,500 Homebrew installs in a year) — are flagged
+`homepage: true` and lead the site's **Featured** list. Everything else is still
+tracked and appears under **All apps**; there are no fixed tiers.
 
 The two channels overlap surprisingly little — AUR skews Linux-enthusiast,
 Homebrew skews macOS-mainstream — which is exactly why both are needed.

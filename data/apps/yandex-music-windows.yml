@@ -32,3 +32,4 @@ evidence:
   source: https://github.com/cucumber-sp/yandex-music-linux/releases/download/v5.63.1/yandex-music-5.63.1-1.x86_64.rpm
   found_in: yandex-music-5.63.1-1.x86_64.rpm
   signal: which-electron rg signal
+aur_votes: 10

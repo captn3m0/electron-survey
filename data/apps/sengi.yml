@@ -32,3 +32,4 @@ electron: 23.3.13
 method: which-electron-rg
 latest: 1.9.1
 src: https://github.com/NicolasConstant/sengi/archive/refs/tags/1.9.1.zip
+brew_installs: 10

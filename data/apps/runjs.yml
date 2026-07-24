@@ -19,3 +19,5 @@ evidence:
   source: https://github.com/lukehaas/RunJS/releases/download/v3.2.2/RunJS-3.2.2-universal.dmg
   found_in: RunJS-3.2.2-universal.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

@@ -11,3 +11,4 @@ downloads:
 - url: https://releases.threema.ch/web-electron/v1/release/Threema-Work-Latest.dmg
   name: Threema-Work-Latest.dmg
   version: 1.2.50
+brew_installs: 10

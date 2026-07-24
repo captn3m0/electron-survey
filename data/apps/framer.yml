@@ -18,3 +18,4 @@ evidence:
   source: https://updates.framer.com/electron/darwin/arm64/Framer-2026.24.3.zip
   found_in: Framer-2026.24.3.zip
   signal: which-electron rg signal
+brew_installs: 100

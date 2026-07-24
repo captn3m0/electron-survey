@@ -17,3 +17,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ai-writer
   found_in: ai-writer
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+aur_votes: 1

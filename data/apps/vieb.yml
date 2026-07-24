@@ -76,3 +76,5 @@ evidence:
   source: https://github.com/Jelmerro/Vieb/releases/download/12.10.0/vieb-12.10.0.aarch64.rpm
   found_in: vieb-12.10.0.aarch64.rpm
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

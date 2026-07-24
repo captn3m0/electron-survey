@@ -74,3 +74,4 @@ evidence:
   source: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.rpm
   found_in: FlyEnv-4.17.0-arm64.rpm
   signal: which-electron rg signal
+brew_installs: 1000

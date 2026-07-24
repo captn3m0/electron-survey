@@ -30,3 +30,4 @@ evidence:
   source: https://aur.archlinux.org/packages/nostr-relay-tray-bin
   found_in: nostr-relay-tray-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_votes: 1

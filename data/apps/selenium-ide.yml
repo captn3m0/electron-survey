@@ -43,3 +43,4 @@ downloads:
   url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium-IDE-Setup-4.0.1-beta.14.exe.blockmap
 - name: Selenium.IDE-4.0.1-beta.14-universal-mac.zip.blockmap
   url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium.IDE-4.0.1-beta.14-universal-mac.zip.blockmap
+aur_votes: 1

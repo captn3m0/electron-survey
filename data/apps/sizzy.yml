@@ -8,3 +8,4 @@ homebrew: sizzy
 downloads:
 - *id001
 name: Sizzy
+brew_installs: 10

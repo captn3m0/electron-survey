@@ -3,7 +3,6 @@
 
     ids     – list of app ids to render (already ordered by the caller)
     filter  – set to render the type-to-filter box (default: on)
-    rank    – set to show the overall popularity rank column
 
   Sorting and filtering are enhanced by assets/js/table.js; every numeric cell
   carries data-sort so it sorts as a number rather than as its label.
@@ -20,7 +19,6 @@
     <table class="data">
       <thead>
         <tr>
-          {% if include.rank %}<th class="num">#</th>{% endif %}
           <th>App</th>
           <th>Electron</th>
           <th>Chromium</th>
@@ -34,9 +32,7 @@
       {% for id in include.ids %}
         {% assign app = site.data.apps[id] %}
         {% assign f = site.data.freshness[id] %}
-        {% assign s = site.data.popularity.scores[id] %}
         <tr>
-          {% if include.rank %}<td class="num rank" data-sort="{{ s.rank | default: 99999 }}">{{ s.rank | default: '—' }}</td>{% endif %}
           <td class="app"><a href="{{ id | prepend: '/apps/' | append: '.html' | relative_url }}">{{ app.name | default: id }}</a></td>
           {% if f %}
           <td data-sort="{{ f.major }}"><span class="st st-{{ f.status }}" title="{{ f.majors_behind }} Electron major(s) behind{% if f.eol %} · end-of-life{% endif %}">{{ f.electron }}</span></td>

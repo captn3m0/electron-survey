@@ -13,3 +13,4 @@ downloads:
   version: 2.13.2
 electron: 35.7.5
 method: which-electron-rg
+brew_installs: 10

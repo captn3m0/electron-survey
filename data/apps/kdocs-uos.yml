@@ -10,3 +10,5 @@ downloads:
 - url: https://qn.cache.wpscdn.cn/kdocs/apk/kdesktopmac/KDocs_1001_v3.11.2.dmg
   name: KDocs_1001_v3.11.2.dmg
   version: 3.11.2,1001
+aur_votes: 1
+brew_installs: 10

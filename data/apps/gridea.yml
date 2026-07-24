@@ -35,3 +35,4 @@ downloads:
   url: https://github.com/getgridea/gridea/releases/download/v0.9.3/latest.yml
 latest: v0.9.3
 src: https://github.com/getgridea/gridea/archive/refs/tags/v0.9.3.zip
+brew_installs: 10

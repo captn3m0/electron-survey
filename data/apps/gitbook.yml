@@ -3,3 +3,4 @@ website: https://www.gitbook.com/?utm_source=electron&utm_medium=logo
 aur:
 - nodejs-gitbook-cli
 name: GitBook
+aur_votes: 1

@@ -23,3 +23,5 @@ evidence:
   source: https://screenstudioassets.com/releases/3.7.3-4475/Screen%20Studio-3.7.3-4475-arm64-mac.zip
   found_in: Screen%20Studio-3.7.3-4475-arm64-mac.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

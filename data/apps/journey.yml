@@ -30,3 +30,5 @@ electron: 6.1.7
 method: which-electron-fingerprint
 latest: v2.14.6
 src: https://github.com/2-App-Studio/journey-releases/archive/refs/tags/v2.14.6.zip
+aur_votes: 1
+brew_installs: 100

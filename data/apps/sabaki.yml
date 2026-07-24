@@ -47,3 +47,5 @@ evidence:
   source: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-linux-arm64.AppImage
   found_in: sabaki-v0.60.0-linux-arm64.AppImage
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 100

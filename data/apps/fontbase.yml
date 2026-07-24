@@ -19,3 +19,5 @@ evidence:
   source: https://releases.fontba.se/mac/FontBase-2026.2.5.dmg
   found_in: FontBase-2026.2.5.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

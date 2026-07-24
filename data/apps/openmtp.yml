@@ -32,3 +32,5 @@ evidence:
   source: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.zip
   found_in: openmtp-3.2.25-mac-arm64.zip
   signal: which-electron rg signal
+homepage: true
+brew_installs: 10000

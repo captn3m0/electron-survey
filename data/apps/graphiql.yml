@@ -32,3 +32,4 @@ evidence:
   source: https://github.com/skevy/graphiql-app/releases/download/v0.7.2/graphiql-app-0.7.2-x86_64.AppImage
   found_in: graphiql-app-0.7.2-x86_64.AppImage
   signal: which-electron fingerprint signal (2 signals agreed)
+brew_installs: 1000

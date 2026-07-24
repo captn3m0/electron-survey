@@ -15,3 +15,5 @@ downloads:
 we_tried: we0:urls:cb369ca2c7e2
 electron: 39.2.7
 method: which-electron-rg
+aur_votes: 10
+brew_installs: 100

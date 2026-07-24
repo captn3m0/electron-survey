@@ -15,3 +15,6 @@ evidence:
   source: https://electron-dl.todoist.com/mac/Todoist-darwin-9.29.1-arm64-latest.dmg
   found_in: Todoist-darwin-9.29.1-arm64-latest.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 1000

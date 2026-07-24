@@ -6,7 +6,7 @@ unchanged. This makes that visible — it asks for the first couple of kilobytes
 of each candidate artefact and reports which apps have nothing fetchable.
 
     uv run main.py download-audit
-    uv run main.py download-audit --tier flagship,popular --workers 8
+    uv run main.py download-audit --featured --workers 8
 
 Read-only: it never writes to data/apps/. Findings are data-quality work
 (a stale curated `packages` URL, a vendor that moved its CDN), not something
@@ -25,9 +25,8 @@ from typing import Any
 
 import click
 import requests
-import yaml
 
-from commands import DATA_DIR, cli, load_apps
+from commands import cli, load_apps
 
 _STEP = pathlib.Path("steps/which-electron.py")
 # Enough to tell "the server is serving this file" from an error page.
@@ -59,23 +58,18 @@ def _probe(session: requests.Session, url: str) -> tuple[bool, str]:
 
 
 @cli.command("download-audit")
-@click.option("--tier", default="", help="Comma-separated tiers to limit the audit to.")
+@click.option("--featured", is_flag=True, default=False, help="Limit the audit to apps flagged homepage: true.")
 @click.option("--limit", default=0, help="Stop after this many apps (0 = no limit).")
 @click.option("--workers", default=8, show_default=True, help="Concurrent probes.")
-def download_audit(tier: str, limit: int, workers: int) -> None:
+def download_audit(featured: bool, limit: int, workers: int) -> None:
     """Report apps whose which-electron artefacts cannot be downloaded."""
     step = _load_step()
 
-    scores: dict[str, dict] = {}
-    pop = DATA_DIR / "popularity.yml"
-    if pop.exists():
-        scores = (yaml.safe_load(pop.read_text()) or {}).get("scores", {})
-
-    wanted = {t.strip() for t in tier.split(",") if t.strip()}
     apps = [a for a in load_apps() if step.matches(a)]
-    if wanted:
-        apps = [a for a in apps if scores.get(a["id"], {}).get("tier") in wanted]
-    apps.sort(key=lambda a: scores.get(a["id"], {}).get("reach", 0.0), reverse=True)
+    by_id = {a["id"]: a for a in apps}
+    if featured:
+        apps = [a for a in apps if a.get("homepage")]
+    apps.sort(key=lambda a: max(a.get("brew_installs") or 0, a.get("aur_votes") or 0), reverse=True)
     if limit:
         apps = apps[:limit]
 
@@ -96,8 +90,8 @@ def download_audit(tier: str, limit: int, workers: int) -> None:
     stuck = [(app_id, fails) for state, app_id, fails in findings if state == "unreachable"]
 
     for app_id, fails in sorted(stuck):
-        tier_label = scores.get(app_id, {}).get("tier", "unranked")
-        click.echo(f"\n{app_id}  [{tier_label}] — nothing fetchable")
+        mark = "featured" if by_id.get(app_id, {}).get("homepage") else "tracked"
+        click.echo(f"\n{app_id}  [{mark}] — nothing fetchable")
         for url, why in fails:
             click.echo(f"    {why:20s} {url}")
 

@@ -3,3 +3,4 @@ website: https://openstagecontrol.ammd.net
 aur:
 - open-stage-control-bin
 name: Open Stage Control
+aur_votes: 1

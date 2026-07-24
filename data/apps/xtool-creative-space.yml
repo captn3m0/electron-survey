@@ -15,3 +15,5 @@ evidence:
   source: https://aur.archlinux.org/packages/xtool-creative-space
   found_in: xtool-creative-space
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_votes: 1
+brew_installs: 100

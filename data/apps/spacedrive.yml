@@ -52,3 +52,5 @@ downloads:
 latest: 0.4.3
 src: https://github.com/spacedriveapp/spacedrive/archive/refs/tags/0.4.3.zip
 we_tried: we1.2.1:0.4.3
+aur_votes: 10
+brew_installs: 100

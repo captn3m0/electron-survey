@@ -20,3 +20,5 @@ evidence:
   source: https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.18-arm64-latest-mac.zip
   found_in: Superhuman-1041.0.18-arm64-latest-mac.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

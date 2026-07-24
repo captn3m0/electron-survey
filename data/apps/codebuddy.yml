@@ -20,3 +20,5 @@ evidence:
   source: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/darwin-arm64/CodeBuddy-darwin-arm64-4.10.3.33593722-ed480cd7.zip
   found_in: CodeBuddy-darwin-arm64-4.10.3.33593722-ed480cd7.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

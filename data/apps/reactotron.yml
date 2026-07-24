@@ -31,3 +31,5 @@ evidence:
   source: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.AppImage
   found_in: Reactotron-3.10.0.AppImage
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

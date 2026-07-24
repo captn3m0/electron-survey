@@ -23,3 +23,6 @@ evidence:
   source: https://downloads2.saleae.com/logic2/Logic-2.4.44-macos-arm64.zip
   found_in: Logic-2.4.44-macos-arm64.zip
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 100

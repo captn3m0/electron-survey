@@ -77,3 +77,5 @@ evidence:
   source: https://github.com/altair-graphql/altair/releases/download/v8.5.7/altair_8.5.7_arm64_linux.AppImage
   found_in: altair_8.5.7_arm64_linux.AppImage
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

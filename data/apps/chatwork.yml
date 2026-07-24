@@ -13,3 +13,4 @@ evidence:
   source: https://desktop-app.chatwork.com/installer/ChatWork.dmg
   found_in: ChatWork.dmg
   signal: which-electron rg signal
+brew_installs: 100

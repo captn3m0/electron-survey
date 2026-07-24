@@ -34,3 +34,5 @@ evidence:
   source: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-0.13.0-1.arm64.rpm
   found_in: pocket-casts-0.13.0-1.arm64.rpm
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

@@ -13,3 +13,4 @@ packages:
 name: Front
 electron: 37.9.0
 method: which-electron-rg
+brew_installs: 100

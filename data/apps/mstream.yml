@@ -24,3 +24,4 @@ aur:
 name: mStream
 electron: 29.1.4
 method: which-electron-rg
+aur_votes: 1

@@ -42,3 +42,5 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+aur_votes: 1
+brew_installs: 1000

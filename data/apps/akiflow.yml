@@ -21,3 +21,4 @@ evidence:
   source: https://download.akiflow.com/builds/Akiflow-2.74.21-d6d9f817-universal.dmg
   found_in: Akiflow-2.74.21-d6d9f817-universal.dmg
   signal: which-electron rg signal
+brew_installs: 100

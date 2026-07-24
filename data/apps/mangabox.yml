@@ -36,3 +36,4 @@ evidence:
   source: https://aur.archlinux.org/packages/mangabox-bin
   found_in: mangabox-bin
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+aur_votes: 1

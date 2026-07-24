@@ -50,3 +50,5 @@ evidence:
   source: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0-1.x86_64.rpm
   found_in: Restfox-0.40.0-1.x86_64.rpm
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

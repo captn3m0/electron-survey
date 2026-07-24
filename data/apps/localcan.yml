@@ -20,3 +20,4 @@ evidence:
   source: https://assets.localcan.com/download/LocalCan-2.7.0-arm64.dmg
   found_in: LocalCan-2.7.0-arm64.dmg
   signal: which-electron rg signal
+brew_installs: 100

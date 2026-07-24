@@ -32,3 +32,4 @@ evidence:
   source: https://aur.archlinux.org/packages/unsplash-wallpapers-bin
   found_in: unsplash-wallpapers-bin
   signal: depends on electron8; reported as the newest 8.x release (8.5.5)
+aur_votes: 1

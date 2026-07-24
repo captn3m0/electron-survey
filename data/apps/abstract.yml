@@ -12,3 +12,4 @@ packages:
 name: Abstract
 electron: 36.4.0
 method: which-electron-rg
+brew_installs: 10

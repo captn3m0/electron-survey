@@ -40,3 +40,4 @@ evidence:
   source: https://aur.archlinux.org/packages/transmissionic-bin
   found_in: transmissionic-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_votes: 1

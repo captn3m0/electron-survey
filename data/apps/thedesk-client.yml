@@ -10,3 +10,4 @@ downloads:
 - url: https://github.com/cutls/thedesk-next/releases/download/v25.4.0/TheDesk-25.4.0-universal.dmg
   name: TheDesk-25.4.0-universal.dmg
   version: 25.4.0
+brew_installs: 10

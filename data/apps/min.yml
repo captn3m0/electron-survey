@@ -43,3 +43,5 @@ packages:
   os: macos
   arch: arm64
 name: Min
+aur_votes: 10
+brew_installs: 100

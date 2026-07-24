@@ -44,3 +44,4 @@ evidence:
   source: https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/react-native-debugger-0.14.0-1.amd64.rpm
   found_in: react-native-debugger-0.14.0-1.amd64.rpm
   signal: which-electron rg signal
+brew_installs: 1000

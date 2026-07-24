@@ -10,3 +10,5 @@ evidence:
   source: https://aur.archlinux.org/packages/upwork
   found_in: upwork
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+homepage: true
+aur_votes: 10

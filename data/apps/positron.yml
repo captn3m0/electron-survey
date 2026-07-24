@@ -13,3 +13,4 @@ downloads:
   version: 2026.07.1-5
 electron: 1.9.37
 method: which-electron-version_file
+brew_installs: 1000

@@ -14,3 +14,4 @@ electron: 3.0.10
 method: which-electron-fingerprint
 latest: v1.7.0
 src: https://github.com/zehfernandes/pliim/archive/refs/tags/v1.7.0.zip
+brew_installs: 10

@@ -105,3 +105,5 @@ evidence:
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
+homepage: true
+aur_votes: 10

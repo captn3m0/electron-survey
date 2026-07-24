@@ -18,3 +18,5 @@ electron: 20.1.3
 method: which-electron-rg
 latest: 0.2.3
 src: https://github.com/simonw/datasette-app/archive/refs/tags/0.2.3.zip
+aur_votes: 10
+brew_installs: 10

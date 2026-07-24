@@ -31,3 +31,4 @@ electron: 13.0.1
 method: which-electron-rg
 latest: 2.3.13
 src: https://github.com/oonqt/MBCord/archive/refs/tags/2.3.13.zip
+brew_installs: 1

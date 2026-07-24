@@ -21,3 +21,4 @@ electron: 40.9.3
 method: which-electron-rg
 latest: v3.3.6
 src: https://github.com/team-reflect/reflect-electron-updates/archive/refs/tags/v3.3.6.zip
+brew_installs: 100

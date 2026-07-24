@@ -95,3 +95,5 @@ evidence:
   source: https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.x86_64.rpm
   found_in: Motrix-1.8.19.x86_64.rpm
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

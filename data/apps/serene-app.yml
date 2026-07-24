@@ -6,3 +6,4 @@ downloads:
   name: Serene-3.0.1.dmg
   version: 3.0.1
 name: Serene App
+brew_installs: 10

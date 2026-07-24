@@ -48,3 +48,6 @@ packages:
   os: macos
   arch: arm64
 name: Tabby
+homepage: true
+aur_votes: 10
+brew_installs: 10000

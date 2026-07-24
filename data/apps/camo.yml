@@ -8,3 +8,4 @@ downloads:
   name: camo-macos-2.8.1.24089.zip
   version: 2.8.1,24089
 we_tried: we1.2.1:urls:c6d319d65041
+brew_installs: 1000

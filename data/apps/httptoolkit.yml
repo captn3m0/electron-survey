@@ -64,3 +64,4 @@ downloads:
   url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1-x64.rpm
 - name: HttpToolkit-1.26.1.exe
   url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1.exe
+aur_votes: 10

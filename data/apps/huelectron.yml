@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/huelectron-bin
   found_in: huelectron-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_votes: 1

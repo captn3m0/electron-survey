@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/musicfree-desktop
   found_in: musicfree-desktop
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+aur_votes: 1

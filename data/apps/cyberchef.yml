@@ -9,3 +9,4 @@ src: https://github.com/gchq/CyberChef/archive/refs/tags/v11.2.0.zip
 downloads:
 - name: CyberChef_d358d82cbcb269d764a2deb598a37043bd054f45.zip
   url: https://github.com/gchq/CyberChef/releases/download/v11.2.0/CyberChef_d358d82cbcb269d764a2deb598a37043bd054f45.zip
+aur_votes: 1

@@ -41,3 +41,4 @@ electron: 13.1.8
 method: which-electron-rg
 latest: v1.49.0
 src: https://github.com/CloudPouch/CloudPouch.dev/archive/refs/tags/v1.49.0.zip
+brew_installs: 1

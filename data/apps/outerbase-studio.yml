@@ -34,3 +34,4 @@ downloads:
 - name: Outerbase-Studio-Linux-0.1.29.AppImage
   url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
 homebrew: outerbase-studio
+brew_installs: 100

@@ -8,3 +8,4 @@ downloads:
 name: CashNotify
 electron: 14.2.9
 method: which-electron-rg
+brew_installs: 10

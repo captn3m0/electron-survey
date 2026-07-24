@@ -16,3 +16,5 @@ evidence:
   source: https://aur.archlinux.org/packages/tenvideo
   found_in: tenvideo
   signal: depends on electron7; reported as the newest 7.x release (7.3.3)
+aur_votes: 1
+brew_installs: 100

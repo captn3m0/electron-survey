@@ -8,18 +8,18 @@ layout: default
 {%- endcomment -%}
 {%- assign app = page.app -%}
 {%- assign app_id = app.id -%}
-{%- assign s = site.data.popularity.scores[app_id] -%}
 {%- assign f = site.data.freshness[app_id] -%}
-{%- assign tier_label = site.data.summary.tiers[s.tier].label | default: 'Unranked' -%}
 
 <div class="app-head">
   <h1>{{ app.name | default: app_id }}</h1>
 </div>
 
+{% if app.homepage or f %}
 <p>
-  {% if s.tier %}<a href="{{ s.tier | prepend: '/' | append: '/' | relative_url }}">{{ tier_label }}</a>{% else %}{{ tier_label }}{% endif %}{% if s.rank %} · #{{ s.rank }} most-used app tracked{% endif %}
-  {%- if f %} · <span class="st st-{{ f.status }}">Electron {{ f.electron }}</span>{% if f.chromium %} · Chromium {{ f.chromium }}{% endif %}{% endif %}
+  {% if app.homepage %}<span class="st st-green" title="Among the most-used apps we track">Featured</span>{% if f %} · {% endif %}{% endif %}
+  {%- if f %}<span class="st st-{{ f.status }}">Electron {{ f.electron }}</span>{% if f.chromium %} · Chromium {{ f.chromium }}{% endif %}{% endif %}
 </p>
+{% endif %}
 
 {% if f %}
 <div class="exposure">
@@ -139,8 +139,8 @@ layout: default
   {% if app.website %}<tr><th>Website</th><td><a href="{{ app.website }}">{{ app.website }}</a></td></tr>{% endif %}
   {% if app.repository %}<tr><th>Repository</th><td><a href="{{ app.repository }}">{{ app.repository }}</a></td></tr>{% endif %}
   {% if app.latest %}<tr><th>Latest release</th><td>{{ app.latest }}</td></tr>{% endif %}
-  {% if app.homebrew %}<tr><th>Homebrew cask</th><td><a href="https://formulae.brew.sh/cask/{{ app.homebrew }}">{{ app.homebrew }}</a>{% if s.brew_installs > 0 %} — {{ s.brew_installs }} installs in 365d{% endif %}</td></tr>{% endif %}
-  {% if app.aur %}<tr><th>AUR</th><td>{% for p in app.aur %}<a href="https://aur.archlinux.org/packages/{{ p }}">{{ p }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% if s.aur_votes > 0 %} — {{ s.aur_votes }} votes{% endif %}</td></tr>{% endif %}
+  {% if app.homebrew %}<tr><th>Homebrew cask</th><td><a href="https://formulae.brew.sh/cask/{{ app.homebrew }}">{{ app.homebrew }}</a>{% if app.brew_installs %} — {{ app.brew_installs }}+ installs in 365d{% endif %}</td></tr>{% endif %}
+  {% if app.aur %}<tr><th>AUR</th><td>{% for p in app.aur %}<a href="https://aur.archlinux.org/packages/{{ p }}">{{ p }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% if app.aur_votes %} — {{ app.aur_votes }}+ votes{% endif %}</td></tr>{% endif %}
   {% if app.additionalAUR %}<tr><th>AUR variants</th><td class="muted">{{ app.additionalAUR | join: ', ' }} <small>(folded, not counted separately)</small></td></tr>{% endif %}
   {% if app.dead %}<tr><th>Status</th><td>marked dead — not processed</td></tr>{% endif %}
 </table>

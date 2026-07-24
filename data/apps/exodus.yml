@@ -20,3 +20,5 @@ evidence:
   source: https://downloads.exodus.com/releases/exodus-linux-x64-26.7.1.deb
   found_in: exodus-linux-x64-26.7.1.deb
   signal: which-electron rg signal
+homepage: true
+aur_votes: 100

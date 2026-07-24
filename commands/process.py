@@ -5,25 +5,34 @@ from typing import Any
 from urllib.parse import urlparse
 
 import click
-import yaml
 
-from commands import DATA_DIR, load_apps, write_app, cli
+from commands import load_apps, write_app, cli
 
 
 _DEFAULT_ORDER = 50
 
 
 def _prioritize(apps: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Order apps by popularity (highest reach first) when data/popularity.yml
-    exists, so bounded processors like ``which-electron --limit N`` spend their
-    budget on the apps people actually use. Falls back to id order otherwise.
+    """Order apps by their own committed popularity fields so bounded processors
+    like ``which-electron --limit N`` spend their budget on the apps people
+    actually use: ``homepage: true`` apps first, then by the larger of their
+    bucketed ``brew_installs`` / ``aur_votes`` signal, then id. Falls back to the
+    unchanged list if anything goes wrong (never crashes the run).
     """
     try:
-        scores = yaml.safe_load((DATA_DIR / "popularity.yml").read_text())["scores"]
-        reach = {app_id: s.get("reach", 0.0) for app_id, s in scores.items()}
-    except (FileNotFoundError, KeyError, TypeError):
+        # Stable sort: order by id first, then by the popularity key descending,
+        # so ties keep id order without mixing ascending/descending in one key.
+        ordered = sorted(apps, key=lambda a: a.get("id", ""))
+        ordered.sort(
+            key=lambda a: (
+                1 if a.get("homepage") else 0,
+                max(a.get("brew_installs") or 0, a.get("aur_votes") or 0),
+            ),
+            reverse=True,
+        )
+        return ordered
+    except Exception:
         return apps
-    return sorted(apps, key=lambda a: reach.get(a["id"], 0.0), reverse=True)
 
 
 def _load_processors(processors_dir: pathlib.Path) -> dict[str, types.ModuleType]:

@@ -24,3 +24,5 @@ downloads:
   url: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-windows-x64-v2.7.0.zip
 latest: v2.7.0
 src: https://github.com/leanote/desktop-app/archive/refs/tags/v2.7.0.zip
+aur_votes: 1
+brew_installs: 1

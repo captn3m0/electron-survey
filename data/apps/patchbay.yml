@@ -17,3 +17,4 @@ downloads:
   url: https://github.com/ssbc/patchbay/releases/download/v8.1.0/patchbay-Mac-8.1.0.dmg
 - name: patchbay-Windows-8.1.0.exe
   url: https://github.com/ssbc/patchbay/releases/download/v8.1.0/patchbay-Windows-8.1.0.exe
+aur_votes: 1

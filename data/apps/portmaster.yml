@@ -18,3 +18,5 @@ aur:
 - portmaster-bin
 - portmaster-legacy-bin
 we_tried: we1.2.1:urls:31b505e989de
+homepage: true
+aur_votes: 10

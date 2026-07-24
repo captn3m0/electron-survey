@@ -27,3 +27,4 @@ electron: 38.7.1
 method: which-electron-rg
 latest: v260722.1.0
 src: https://github.com/amieso/electron-releases/archive/refs/tags/v260722.1.0.zip
+brew_installs: 10

@@ -25,3 +25,5 @@ evidence:
   source: https://desktop-app.poecdn.net/updates/darwin_arm64/1.1.45.zip
   found_in: 1.1.45.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

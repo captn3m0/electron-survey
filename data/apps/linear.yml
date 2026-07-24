@@ -20,3 +20,4 @@ evidence:
   source: https://releases.linear.app/Linear-1.31.1-universal.dmg
   found_in: Linear-1.31.1-universal.dmg
   signal: which-electron rg signal
+brew_installs: 1000

@@ -10,3 +10,4 @@ downloads:
 name: CatLight
 electron: 19.0.8
 method: which-electron-rg
+brew_installs: 10

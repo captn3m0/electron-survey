@@ -80,3 +80,6 @@ evidence:
   source: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-aarch64-0.14.5.rpm
   found_in: waveterm-linux-aarch64-0.14.5.rpm
   signal: which-electron rg signal
+homepage: true
+aur_votes: 1
+brew_installs: 10000

@@ -67,3 +67,5 @@ packages:
   format: zip
   os: macos
 name: Rambox
+aur_votes: 10
+brew_installs: 100

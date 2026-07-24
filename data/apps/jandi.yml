@@ -8,3 +8,4 @@ downloads:
 name: JANDI
 electron: 21.4.3
 method: which-electron-rg
+brew_installs: 10

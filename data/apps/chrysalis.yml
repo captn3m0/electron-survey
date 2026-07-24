@@ -38,3 +38,5 @@ downloads:
 - name: RELEASES
   url: https://github.com/keyboardio/Chrysalis/releases/download/v0.13.3/RELEASES
 homebrew: chrysalis
+aur_votes: 1
+brew_installs: 10

@@ -10,3 +10,5 @@ downloads:
 - url: https://github.com/OneKeyHQ/app-monorepo/releases/download/v6.5.0/OneKey-Wallet-6.5.0-mac-arm64.dmg
   name: OneKey-Wallet-6.5.0-mac-arm64.dmg
   version: 6.5.0
+aur_votes: 1
+brew_installs: 100

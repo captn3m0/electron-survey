@@ -22,3 +22,5 @@ evidence:
   source: https://github.com/Beaver-Notes/Beaver-Notes/releases/download/4.4.0/Beaver-notes-4.4.0-universal.dmg
   found_in: Beaver-notes-4.4.0-universal.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

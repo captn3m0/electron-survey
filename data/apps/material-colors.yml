@@ -14,3 +14,4 @@ electron: 11.3.0
 method: which-electron-rg
 latest: v2.0.3
 src: https://github.com/romannurik/MaterialColorsApp/archive/refs/tags/v2.0.3.zip
+brew_installs: 1

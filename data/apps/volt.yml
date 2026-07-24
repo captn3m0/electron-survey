@@ -8,3 +8,4 @@ packages:
   format: zip
   os: macos
   arch: arm64
+aur_votes: 1

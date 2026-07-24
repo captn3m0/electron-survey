@@ -61,3 +61,6 @@ evidence:
   source: https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-x86_64-1.14.3.rpm
   found_in: session-desktop-linux-x86_64-1.14.3.rpm
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 1000

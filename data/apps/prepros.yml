@@ -14,3 +14,5 @@ downloads:
 - url: https://downloads.prepros.io/v7/7.39.0/Prepros-Mac-7.39.0.zip
   name: Prepros-Mac-7.39.0.zip
   version: 7.39.0
+aur_votes: 1
+brew_installs: 10

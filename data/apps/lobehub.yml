@@ -76,3 +76,4 @@ evidence:
   source: https://github.com/lobehub/lobehub/releases/download/v2.2.10/lobehub-desktop-2.2.10.x86_64.rpm
   found_in: lobehub-desktop-2.2.10.x86_64.rpm
   signal: which-electron rg signal
+brew_installs: 100

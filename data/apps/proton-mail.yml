@@ -47,3 +47,4 @@ evidence:
   source: https://github.com/ProtonMail/inbox-desktop/releases/download/1.0.6/proton-mail-1.0.6-1.x86_64.rpm
   found_in: proton-mail-1.0.6-1.x86_64.rpm
   signal: which-electron rg signal
+brew_installs: 1000

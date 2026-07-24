@@ -50,3 +50,4 @@ downloads:
 - name: latest.yml
   url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.4/latest.yml
 homebrew: freeshow
+brew_installs: 100

@@ -21,3 +21,4 @@ downloads:
 electron: 10.1.5
 homebrew: lightproxy
 name: LightProxy
+brew_installs: 10

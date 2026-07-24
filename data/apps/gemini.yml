@@ -25,3 +25,5 @@ evidence:
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true
+homepage: true
+brew_installs: 10000

@@ -59,3 +59,5 @@ evidence:
   source: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-linux-x64.AppImage
   found_in: Folo-1.11.0-linux-x64.AppImage
   signal: which-electron rg signal (2 signals agreed)
+aur_votes: 10
+brew_installs: 1000

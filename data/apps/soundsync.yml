@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/soundsync-bin
   found_in: soundsync-bin
   signal: depends on electron15; reported as the newest 15.x release (15.5.7)
+aur_votes: 1

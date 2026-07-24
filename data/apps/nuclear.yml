@@ -49,3 +49,6 @@ aur:
 homebrew: nuclear
 name: nuclear
 we_tried: we1.2.1:player@1.43.2
+homepage: true
+aur_votes: 10
+brew_installs: 100

@@ -17,3 +17,4 @@ electron: 32.2.7
 method: which-electron-rg
 latest: v0.6.0
 src: https://github.com/GetOvert/Overt/archive/refs/tags/v0.6.0.zip
+brew_installs: 10

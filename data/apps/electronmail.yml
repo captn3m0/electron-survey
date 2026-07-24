@@ -67,3 +67,5 @@ downloads:
   url: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.8/electron-mail-5.3.8-windows-x64-nsis-installer.exe
 latest: v5.3.8
 src: https://github.com/vladimiry/ElectronMail/archive/refs/tags/v5.3.8.zip
+aur_votes: 1
+brew_installs: 10

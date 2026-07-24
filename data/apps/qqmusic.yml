@@ -15,3 +15,5 @@ evidence:
   source: https://aur.archlinux.org/packages/qqmusic-electron
   found_in: qqmusic-electron
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+aur_votes: 10
+brew_installs: 1000

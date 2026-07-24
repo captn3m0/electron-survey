@@ -66,3 +66,4 @@ evidence:
   source: https://aur.archlinux.org/packages/solidtime-bin
   found_in: solidtime-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_votes: 1

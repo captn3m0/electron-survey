@@ -38,3 +38,4 @@ evidence:
   source: https://aur.archlinux.org/packages/chatlab-desktop
   found_in: chatlab-desktop
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_votes: 1

@@ -24,3 +24,5 @@ evidence:
   source: https://github.com/voideditor/binaries/releases/download/1.99.30044/Void.arm64.1.99.30044.dmg
   found_in: Void.arm64.1.99.30044.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

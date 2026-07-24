@@ -28,3 +28,5 @@ evidence:
   source: https://packages.element.io/desktop/update/macos/Element-1.12.23-universal-mac.zip
   found_in: Element-1.12.23-universal-mac.zip
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 1000

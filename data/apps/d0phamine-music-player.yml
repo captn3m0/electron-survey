@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/d0phamine-music-player-bin
   found_in: d0phamine-music-player-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_votes: 1

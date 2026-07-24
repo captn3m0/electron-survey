@@ -22,3 +22,5 @@ evidence:
   source: https://download.todesktop.com/221003ra4tebclw/ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
   found_in: ClickUp%203.5.230%20-%20Build%20260616wecrh5vza-arm64.dmg
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 1000

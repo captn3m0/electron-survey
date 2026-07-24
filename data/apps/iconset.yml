@@ -13,3 +13,4 @@ packages:
 name: Iconset
 electron: 18.0.0
 method: which-electron-rg
+brew_installs: 10

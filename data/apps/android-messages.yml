@@ -44,3 +44,4 @@ downloads:
 - name: latest.yml
   url: https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v6.1.0/latest.yml
 we_tried: we0:v6.1.0
+aur_votes: 10

@@ -7,3 +7,4 @@ downloads:
 - url: https://cdn.meetsidekick.com/browser-builds/sidekick-mac-release-arm64-124.61.1.50292-e244ab6-df.dmg
   name: sidekick-mac-release-arm64-124.61.1.50292-e244ab6-df.dmg
   version: 124.61.1.50292,e244ab6
+brew_installs: 100

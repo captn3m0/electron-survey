@@ -39,3 +39,4 @@ downloads:
   url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/openbazaar2_2.4.10_amd64.deb
 - name: RELEASES
   url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/RELEASES
+aur_votes: 10

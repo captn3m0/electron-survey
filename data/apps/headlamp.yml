@@ -67,3 +67,6 @@ evidence:
   source: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.43.0/Headlamp-0.43.0-linux-arm64.AppImage
   found_in: Headlamp-0.43.0-linux-arm64.AppImage
   signal: which-electron rg signal
+homepage: true
+aur_votes: 1
+brew_installs: 10000

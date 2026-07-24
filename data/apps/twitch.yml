@@ -3,3 +3,4 @@ website: https://app.twitch.tv
 aur:
 - twitch
 name: Twitch
+aur_votes: 1

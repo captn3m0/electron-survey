@@ -84,3 +84,4 @@ evidence:
   found_in: tabby-1.0.235/yarn.lock
   signal: electron pinned in yarn.lock
   source: https://github.com/Eugeny/tabby/archive/refs/tags/v1.0.235.zip
+aur_votes: 10

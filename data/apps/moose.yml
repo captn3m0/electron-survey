@@ -14,3 +14,4 @@ downloads:
 - url: https://github.com/ritz078/moose/releases/download/v0.6.2/moose-0.6.2-mac.zip
   name: moose-0.6.2-mac.zip
   version: 0.6.2
+brew_installs: 10

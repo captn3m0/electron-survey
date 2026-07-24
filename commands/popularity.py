@@ -1,6 +1,7 @@
-"""Compute a popularity tier for every app and write data/popularity.yml.
+"""Write per-app popularity signals into each data/apps/<id>.yml.
 
-Popularity is derived from two independent, comparable signals:
+Popularity is a property of an app, so it is stored on the app rather than in a
+separate global file. Two independent, comparable signals feed it:
 
   * AUR votes  – ``NumVotes`` summed over the app's ``aur`` packages, from
                  ``meta/packages-meta-ext-v1.json`` (``additionalAUR`` variants
@@ -8,51 +9,39 @@ Popularity is derived from two independent, comparable signals:
   * Homebrew   – 365-day cask installs, from
                  ``meta/homebrew-cask-install-365d.json``, joined on ``homebrew``.
 
-Thresholds are calibrated so the two channels agree on tier boundaries
-(≈ p95 / p90 / p68 of the apps that carry each signal):
+For every app this writes up to three fields (and removes them when they no
+longer apply, so the command is deterministic and stale flags never linger):
 
-    flagship     AUR ≥ 75   or  brew ≥ 40000
-    popular      AUR ≥ 25   or  brew ≥ 7500
-    established  AUR ≥ 5    or  brew ≥ 1000
-    minimal      AUR ≥ 1    or  brew ≥ 1
-    unranked     neither signal present
+  * ``homepage: true`` – the app clears the merged flagship+popular bar on
+    either channel (exact ``votes >= 25`` or ``installs >= 7500``). These are the
+    apps the site leads with in its "Featured" list. Decided on EXACT counts.
+  * ``aur_votes``      – order-of-magnitude bucket of the vote count, written
+    only when votes >= 1.
+  * ``brew_installs``  – order-of-magnitude bucket of the install count, written
+    only when installs >= 1.
 
-Output feeds the Jekyll site in ``docs/`` (``data/`` is symlinked to
-``docs/_data``), so it stays plain, Liquid-friendly YAML:
-
-    tiers:   {flagship: [id, ...], popular: [...], ...}   # each sorted by reach
-    scores:  {<id>: {tier, aur_votes, aur_popularity, brew_installs, reach, rank}}
-
-``rank`` is a 1-based position across every app that carries a signal at all,
-ordered by ``reach`` — "the Nth most-used app we track".
+The stored vote/install numbers are BUCKETED (``10 ** floor(log10(n))``: 1234 ->
+1000, 25 -> 10, 7 -> 1) on purpose: the homepage decision reads the exact counts,
+but the persisted signals round down to a power of ten so day-to-day count drift
+doesn't churn per-app diffs. Re-running is idempotent.
 """
 
 import json
-import math
 import pathlib
 from typing import Any
 
 import click
-import yaml
 
-from commands import DATA_DIR, cli, load_apps
+from commands import cli, load_apps, write_app
 
 _META = pathlib.Path("meta")
 _AUR_META = _META / "packages-meta-ext-v1.json"
 _BREW_META = _META / "homebrew-cask-install-365d.json"
 
-# (tier, min_aur_votes, min_brew_installs); first match wins, checked high→low.
-_TIERS = [
-    ("flagship", 75, 40000),
-    ("popular", 25, 7500),
-    ("established", 5, 1000),
-    ("minimal", 1, 1),
-]
-_TIER_ORDER = [t[0] for t in _TIERS] + ["unranked"]
-
-# Dataset high-water marks, used to normalise each channel to 0..1 for sorting.
-_AUR_MAX = 1738
-_BREW_MAX = 590545
+# Merged flagship+popular bar: an app is featured on the homepage when it clears
+# either channel. Checked against EXACT counts, not the stored buckets.
+_HOMEPAGE_MIN_VOTES = 25
+_HOMEPAGE_MIN_INSTALLS = 7500
 
 
 def _load_aur() -> dict[str, dict[str, Any]]:
@@ -68,23 +57,17 @@ def _load_brew() -> dict[str, int]:
     return {it["cask"]: int(it["count"].replace(",", "")) for it in data.get("items", [])}
 
 
-def _tier(votes: int, installs: int) -> str:
-    for name, min_votes, min_installs in _TIERS:
-        if votes >= min_votes or installs >= min_installs:
-            return name
-    return "unranked"
-
-
-def _reach(votes: int, installs: int) -> float:
-    """Best single normalised signal (0..1) — used only to order listings."""
-    a = math.log1p(votes) / math.log1p(_AUR_MAX) if votes else 0.0
-    b = math.log1p(installs) / math.log1p(_BREW_MAX) if installs else 0.0
-    return round(max(a, b), 4)
+def _bucket(n: int) -> int:
+    """Order-of-magnitude bucket, ``10 ** floor(log10(n))``: 1234 -> 1000,
+    25 -> 10, 7 -> 1. Exact for positive integers (digit count avoids float
+    rounding at powers of ten). Caller guarantees ``n >= 1``.
+    """
+    return 10 ** (len(str(n)) - 1)
 
 
 @cli.command("popularity")
 def popularity() -> None:
-    """Compute popularity tiers and write data/popularity.yml."""
+    """Write per-app popularity signals (homepage / aur_votes / brew_installs)."""
     aur = _load_aur()
     brew = _load_brew()
     if not aur:
@@ -92,41 +75,33 @@ def popularity() -> None:
     if not brew:
         click.echo("warning: meta/homebrew-cask-install-365d.json missing; brew installs=0 (run `make all`)", err=True)
 
-    scores: dict[str, dict[str, Any]] = {}
-    tiers: dict[str, list[str]] = {name: [] for name in _TIER_ORDER}
-
+    featured = written = 0
     for app in load_apps():
-        app_id = app["id"]
         aur_pkgs = app.get("aur") or []  # may be False (opt-out flag)
         votes = sum(aur[n]["NumVotes"] for n in aur_pkgs if n in aur)
-        pop = round(sum(aur[n]["Popularity"] for n in aur_pkgs if n in aur), 4)
         installs = brew.get(app.get("homebrew"), 0) if app.get("homebrew") else 0
-        tier = _tier(votes, installs)
-        scores[app_id] = {
-            "tier": tier,
-            "aur_votes": votes,
-            "aur_popularity": pop,
-            "brew_installs": installs,
-            "reach": _reach(votes, installs),
-        }
-        tiers[tier].append(app_id)
 
-    for ids in tiers.values():
-        ids.sort(key=lambda i: scores[i]["reach"], reverse=True)
+        before = (app.get("homepage"), app.get("aur_votes"), app.get("brew_installs"))
 
-    # Overall "Nth most-used app we track", across every app with a signal.
-    ranked = sorted(
-        (i for i, s in scores.items() if s["reach"] > 0),
-        key=lambda i: scores[i]["reach"],
-        reverse=True,
-    )
-    for position, app_id in enumerate(ranked, start=1):
-        scores[app_id]["rank"] = position
+        if votes >= _HOMEPAGE_MIN_VOTES or installs >= _HOMEPAGE_MIN_INSTALLS:
+            app["homepage"] = True
+            featured += 1
+        else:
+            app.pop("homepage", None)
 
-    path = DATA_DIR / "popularity.yml"
-    path.write_text(
-        yaml.dump({"tiers": tiers, "scores": scores},
-                  default_flow_style=False, allow_unicode=True, sort_keys=False)
-    )
-    counts = "  ".join(f"{n}={len(tiers[n])}" for n in _TIER_ORDER)
-    click.echo(f"Wrote {path}: {counts}")
+        if votes >= 1:
+            app["aur_votes"] = _bucket(votes)
+        else:
+            app.pop("aur_votes", None)
+
+        if installs >= 1:
+            app["brew_installs"] = _bucket(installs)
+        else:
+            app.pop("brew_installs", None)
+
+        after = (app.get("homepage"), app.get("aur_votes"), app.get("brew_installs"))
+        if after != before:
+            write_app(app)
+            written += 1
+
+    click.echo(f"popularity: {featured} apps flagged homepage: true; updated {written} app file(s)")

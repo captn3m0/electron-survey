@@ -33,3 +33,6 @@ evidence:
   source: https://aur.archlinux.org/packages/wire-desktop-git
   found_in: wire-desktop-git
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+homepage: true
+aur_votes: 10
+brew_installs: 100

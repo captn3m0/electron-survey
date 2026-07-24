@@ -43,3 +43,5 @@ electron: 38.7.2
 method: which-electron-rg
 latest: 9.1.1
 src: https://github.com/iNavFlight/inav-configurator/archive/refs/tags/9.1.1.zip
+aur_votes: 1
+brew_installs: 100

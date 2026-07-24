@@ -20,3 +20,5 @@ evidence:
   source: https://download.tidal.com/desktop/mac/TIDAL.arm64.2.41.3.zip
   found_in: TIDAL.arm64.2.41.3.zip
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 1000

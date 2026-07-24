@@ -50,3 +50,4 @@ electron: 21.4.4
 method: which-electron-rg
 latest: v2.0.1
 src: https://github.com/parsify-dev/desktop/archive/refs/tags/v2.0.1.zip
+brew_installs: 10

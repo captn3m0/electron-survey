@@ -34,3 +34,6 @@ evidence:
   source: https://downloads.slack-edge.com/desktop-releases/mac/arm64/4.48.102/Slack-4.48.102-macOS.dmg
   found_in: Slack-4.48.102-macOS.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 100
+brew_installs: 10000

@@ -88,3 +88,6 @@ evidence:
   source: https://github.com/jgraph/drawio-desktop/releases/download/v30.4.1/drawio-aarch64-30.4.1.rpm
   found_in: drawio-aarch64-30.4.1.rpm
   signal: which-electron rg signal
+homepage: true
+aur_votes: 1
+brew_installs: 10000

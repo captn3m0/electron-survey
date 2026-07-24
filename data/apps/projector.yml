@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/projector-bin
   found_in: projector-bin
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+aur_votes: 1

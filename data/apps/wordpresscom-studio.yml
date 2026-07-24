@@ -20,3 +20,4 @@ evidence:
   source: https://appscdn.wordpress.com/downloads/wordpress-com-studio/mac-silicon/v1.15.0/19263/update/studio-arm64-v1.15.0.zip
   found_in: studio-arm64-v1.15.0.zip
   signal: which-electron rg signal (2 signals agreed)
+brew_installs: 100

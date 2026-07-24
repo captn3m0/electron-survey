@@ -60,3 +60,5 @@ evidence:
   source: https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-arm64.AppImage
   found_in: Sonixd-0.15.5-linux-arm64.AppImage
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

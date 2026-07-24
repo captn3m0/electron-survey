@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/baidu-translate-client-bin
   found_in: baidu-translate-client-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+aur_votes: 1

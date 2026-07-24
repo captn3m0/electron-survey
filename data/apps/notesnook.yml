@@ -84,3 +84,5 @@ evidence:
   source: https://github.com/streetwriters/notesnook/releases/download/v3.4.4/notesnook_mac_arm64.dmg
   found_in: notesnook_mac_arm64.dmg
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 1000

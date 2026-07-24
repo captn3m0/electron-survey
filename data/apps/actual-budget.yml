@@ -45,3 +45,5 @@ evidence:
   source: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-arm64.AppImage
   found_in: Actual-linux-arm64.AppImage
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 100

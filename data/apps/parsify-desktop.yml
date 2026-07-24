@@ -10,3 +10,4 @@ downloads:
 name: Parsify Desktop
 electron: 21.4.4
 method: which-electron-rg
+brew_installs: 10

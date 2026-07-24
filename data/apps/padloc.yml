@@ -134,3 +134,4 @@ electron: 19.0.5
 method: which-electron-rg
 latest: v4.3.0
 src: https://github.com/padloc/padloc/archive/refs/tags/v4.3.0.zip
+brew_installs: 100

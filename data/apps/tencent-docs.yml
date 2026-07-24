@@ -22,3 +22,5 @@ evidence:
   source: https://desktop.docs.qq.com/Installer/30001/3.10.1/TencentDocs-arm64.dmg
   found_in: TencentDocs-arm64.dmg
   signal: which-electron rg signal (3 signals agreed)
+aur_votes: 1
+brew_installs: 100

@@ -36,3 +36,6 @@ downloads:
 electron: 35.6.0
 method: which-electron-rg
 we_tried: we1.2.1:urls:142c717ffd72
+homepage: true
+aur_votes: 100
+brew_installs: 10000

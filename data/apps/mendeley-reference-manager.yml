@@ -19,3 +19,4 @@ evidence:
   source: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.148.0-universal.dmg
   found_in: mendeley-reference-manager-2.148.0-universal.dmg
   signal: which-electron rg signal
+brew_installs: 100

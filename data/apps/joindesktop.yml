@@ -12,3 +12,4 @@ evidence:
   source: https://aur.archlinux.org/packages/joindesktop-bin
   found_in: joindesktop-bin
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
+aur_votes: 1

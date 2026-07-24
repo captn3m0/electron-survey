@@ -15,3 +15,5 @@ evidence:
   source: https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-8.2.71-arm64.dmg
   found_in: '%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-8.2.71-arm64.dmg'
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

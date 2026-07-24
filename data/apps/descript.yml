@@ -17,3 +17,4 @@ evidence:
   source: https://electron.descript.com/Descript-114.0.4-release.20250509.32955-arm64.dmg
   found_in: Descript-114.0.4-release.20250509.32955-arm64.dmg
   signal: which-electron rg signal
+brew_installs: 100

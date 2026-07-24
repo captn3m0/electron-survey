@@ -77,3 +77,4 @@ downloads:
   url: https://github.com/TurboWarp/desktop/releases/download/v1.16.0/TurboWarp-Setup-1.16.0.dmg
 - name: TurboWarp.Portable.1.16.0.x64.exe
   url: https://github.com/TurboWarp/desktop/releases/download/v1.16.0/TurboWarp.Portable.1.16.0.x64.exe
+aur_votes: 1

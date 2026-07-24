@@ -62,3 +62,5 @@ evidence:
   source: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-aarch64.rpm
   found_in: maestro-0.17.3-aarch64.rpm
   signal: which-electron rg signal
+homepage: true
+brew_installs: 10000

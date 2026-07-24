@@ -8,3 +8,4 @@ downloads:
 - url: https://ideservice.alipay.com/ide/getPluginUrl.htm?clientType=assistant&platform=mac&channelType=WEB
   name: getPluginUrl.htm
   version: 2.0.4
+brew_installs: 10

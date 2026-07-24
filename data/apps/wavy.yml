@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/wavy-bin
   found_in: wavy-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_votes: 1

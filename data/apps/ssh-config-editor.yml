@@ -51,3 +51,4 @@ evidence:
   source: https://github.com/anchel/ssh-config-editor/releases/download/v1.0.3/ssh-config-editor-1.0.3-darwin-arm64-installer.zip
   found_in: ssh-config-editor-1.0.3-darwin-arm64-installer.zip
   signal: which-electron rg signal
+brew_installs: 100

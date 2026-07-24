@@ -35,3 +35,4 @@ evidence:
   source: https://aur.archlinux.org/packages/betterx-desktop-bin
   found_in: betterx-desktop-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_votes: 1

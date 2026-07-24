@@ -61,3 +61,4 @@ evidence:
   source: https://aur.archlinux.org/packages/vutronmusic
   found_in: vutronmusic
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+aur_votes: 1

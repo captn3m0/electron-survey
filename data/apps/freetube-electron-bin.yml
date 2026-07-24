@@ -19,3 +19,5 @@ evidence:
   source: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.25.0-beta/freetube-0.25.0-beta-mac-arm64.dmg
   found_in: freetube-0.25.0-beta-mac-arm64.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10

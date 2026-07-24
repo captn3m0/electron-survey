@@ -15,3 +15,5 @@ downloads:
   version: 1.523.0
 electron: 39.2.6
 method: which-electron-rg
+aur_votes: 1
+brew_installs: 100

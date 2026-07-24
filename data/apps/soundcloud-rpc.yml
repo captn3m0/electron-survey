@@ -28,3 +28,4 @@ evidence:
   source: https://aur.archlinux.org/packages/soundcloud-rpc-bin
   found_in: soundcloud-rpc-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+aur_votes: 1

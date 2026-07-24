@@ -19,3 +19,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ting-de
   found_in: ting-de
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+brew_installs: 10

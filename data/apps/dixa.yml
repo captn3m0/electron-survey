@@ -28,3 +28,4 @@ homebrew: dixa
 name: Dixa
 electron: 24.0.0
 method: which-electron-rg
+brew_installs: 10

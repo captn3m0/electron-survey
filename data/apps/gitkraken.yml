@@ -25,3 +25,6 @@ evidence:
   source: https://release.axocdn.com/linux/gitkraken-amd64.tar.gz
   found_in: gitkraken-amd64.tar.gz
   signal: which-electron rg signal
+homepage: true
+aur_votes: 100
+brew_installs: 1000

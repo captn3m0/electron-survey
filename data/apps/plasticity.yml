@@ -41,3 +41,4 @@ electron: 26.6.9
 method: which-electron-rg
 latest: v26.1.3
 src: https://github.com/nkallen/plasticity/archive/refs/tags/v26.1.3.zip
+brew_installs: 100

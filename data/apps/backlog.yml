@@ -23,3 +23,4 @@ electron: 2.0.6
 method: which-electron-version_file
 latest: v1.8.0
 src: https://github.com/czytelny/backlog/archive/refs/tags/v1.8.0.zip
+brew_installs: 10

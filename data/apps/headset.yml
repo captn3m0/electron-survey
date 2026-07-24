@@ -17,3 +17,5 @@ packages:
   os: macos
   arch: arm64
 name: Headset
+aur_votes: 10
+brew_installs: 10

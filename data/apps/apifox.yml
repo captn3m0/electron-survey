@@ -20,3 +20,5 @@ evidence:
   source: https://file-assets.apifox.com/download/2.8.39/Apifox-macOS-arm64-2.8.39.dmg
   found_in: Apifox-macOS-arm64-2.8.39.dmg
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 1000

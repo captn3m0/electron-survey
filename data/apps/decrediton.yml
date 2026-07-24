@@ -30,3 +30,5 @@ electron: 26.4.3
 method: which-electron-rg
 latest: release-v2.1.4
 src: https://github.com/decred/decrediton/archive/refs/tags/release-v2.1.4.zip
+aur_votes: 1
+brew_installs: 10

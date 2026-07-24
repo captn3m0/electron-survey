@@ -45,3 +45,5 @@ electron: 29.4.2
 method: which-electron-rg
 latest: v0.45.3
 src: https://github.com/GitFiend/Support/archive/refs/tags/v0.45.3.zip
+aur_votes: 10
+brew_installs: 10

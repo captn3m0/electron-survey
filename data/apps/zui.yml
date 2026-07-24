@@ -15,3 +15,5 @@ downloads:
 - url: https://github.com/brimdata/zui/releases/download/v1.18.0/Zui-1.18.0-arm64.dmg
   name: Zui-1.18.0-arm64.dmg
   version: 1.18.0
+aur_votes: 1
+brew_installs: 10

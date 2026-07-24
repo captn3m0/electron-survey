@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/my-yesplaymusic-bin
   found_in: my-yesplaymusic-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_votes: 1

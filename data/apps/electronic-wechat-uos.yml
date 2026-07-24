@@ -14,3 +14,4 @@ downloads:
 electron: 20.3.3
 method: which-electron-rg
 electron_src: https://github.com/Riceneeder/electronic-wechat/archive/refs/tags/v2.3.2-6.zip
+aur_votes: 10

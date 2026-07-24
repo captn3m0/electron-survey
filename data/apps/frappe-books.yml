@@ -86,3 +86,5 @@ evidence:
   source: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-aarch64.rpm
   found_in: Frappe-Books-v0.36.0-linux-aarch64.rpm
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

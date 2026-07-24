@@ -40,3 +40,4 @@ evidence:
   source: https://aur.archlinux.org/packages/sokuji-bin
   found_in: sokuji-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_votes: 1

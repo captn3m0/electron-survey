@@ -9,3 +9,5 @@ downloads:
 - url: https://volta-build.s3.fr-par.scw.cloud/Volta-1.18.1-arm64.dmg
   name: Volta-1.18.1-arm64.dmg
   version: 1.18.1
+aur_votes: 1
+brew_installs: 10

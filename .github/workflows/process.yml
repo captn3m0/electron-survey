@@ -76,9 +76,10 @@ jobs:
       - name: Detect Electron from AUR depends
         run: uv run main.py process aur-version
 
-      # Recompute tiers before which-electron so its bounded budget is spent on
-      # the most-used apps first (process._prioritize reads data/popularity.yml).
-      - name: Compute popularity tiers
+      # Recompute popularity before which-electron so its bounded budget is
+      # spent on the most-used apps first (process._prioritize orders by the
+      # per-app homepage / aur_votes / brew_installs fields written here).
+      - name: Compute per-app popularity
         run: uv run main.py popularity
 
       # steps/which-electron.py runs the fingerprinter as
@@ -131,10 +132,10 @@ jobs:
           path: zips/
           key: ${{ steps.cache-zips-restore.outputs.cache-primary-key }}
 
-      # After which-electron has resolved fresh versions, recompute tiers +
+      # After which-electron has resolved fresh versions, recompute popularity +
       # staleness + the rolled-up headline figures so the committed data (and
       # the docs/ site built from it) stay current.
-      - name: Compute popularity tiers
+      - name: Compute per-app popularity
         if: always()
         run: uv run main.py popularity
 
@@ -146,6 +147,10 @@ jobs:
         continue-on-error: true
         run: uv run main.py cves --refresh
 
+      # data/freshness.yml and data/summary.yml are gitignored build artifacts,
+      # regenerated at every site build (see pages.yml) — running them here is a
+      # validation gate, so they are deliberately absent from the commit pattern
+      # below.
       - name: Compute Electron freshness and site summary
         if: always()
         run: |
@@ -164,7 +169,7 @@ jobs:
         if: always()
         with:
           commit_message: "chore: update release and electron version data [skip ci]"
-          file_pattern: "data/apps/ data/popularity.yml data/freshness.yml data/summary.yml data/cves.yml REPORT.md"
+          file_pattern: "data/apps/ data/cves.yml REPORT.md"
 
   # [skip ci] on the commit above suppresses the push trigger, so publish
   # explicitly rather than leaving the site a day stale.

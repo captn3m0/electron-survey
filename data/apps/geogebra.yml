@@ -24,3 +24,5 @@ evidence:
   source: https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
   found_in: GeoGebra-Classic-6-MacOS-Portable-6-0-920-0.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

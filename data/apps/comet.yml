@@ -15,3 +15,4 @@ evidence:
   source: https://aur.archlinux.org/packages/comet-bin
   found_in: comet-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+brew_installs: 1000

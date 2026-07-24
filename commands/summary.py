@@ -1,24 +1,24 @@
-"""Roll up data/popularity.yml + data/freshness.yml into data/summary.yml.
+"""Roll per-app popularity + data/freshness.yml up into data/summary.yml.
 
-The docs/ site needs headline numbers ("how many flagship apps ship an
-end-of-life Chromium", "median exposure in days") on every page. Computing
-those in Liquid would mean looping over ~2000 apps per page render, so they are
-precomputed here and committed alongside the data they summarise.
+The docs/ site needs headline numbers ("how many featured apps ship an
+end-of-life Chromium", "median exposure in days") plus the ordered id lists its
+two app tables render. Computing those in Liquid would mean looping over ~2000
+apps per page render, so they are precomputed here. ``summary.yml`` is a
+build-time artifact (regenerated at every publish, not committed), so its shape
+is free to change.
 
 Output:
 
     generated: '2026-07-22'
     current:  {electron_major, chromium_major}
     coverage: {apps, dead, tracked, detected, detected_pct}
-    tiers:
-      <tier>: {label, apps, detected, green, orange, red, eol, eol_pct,
-               median_days_behind, median_majors_behind,
-               median_cves_critical, median_cves_high, with_critical_cve}
-    main:     same shape, flagship+popular+established combined
-    overall:  same shape, every tracked app
-    worst:    [{id, name, tier, electron, chromium, chromium_majors_behind,
-                chromium_days_behind}]  – most-used apps furthest behind
-    stalest_majors: [{major, apps}]     – most common Electron majors in use
+    featured: {apps, detected, green/orange/red, eol, median_*, ..., ids}
+              – stats + ordered ids for apps flagged ``homepage: true``
+    overall:  {same shape, ids}   – stats + ordered ids for every non-dead app
+    stalest_majors: [{major, apps}]   – most common Electron majors among featured
+
+The ``ids`` lists are ordered by ``chromium_days_behind`` descending (most
+exposed first); apps with no freshness row sort last.
 """
 
 import collections
@@ -29,19 +29,6 @@ import click
 import yaml
 
 from commands import DATA_DIR, cli, load_apps
-
-# Display order, and which of those are the tiers the site leads with.
-TIER_ORDER = ["flagship", "popular", "established", "minimal", "unranked"]
-MAIN_TIERS = ["flagship", "popular", "established"]
-TIER_LABELS = {
-    "flagship": "Flagship",
-    "popular": "Popular",
-    "established": "Established",
-    "minimal": "Minimal",
-    "unranked": "Unranked",
-}
-
-_WORST_COUNT = 15
 
 
 def _median(values: list[int]) -> int:
@@ -86,13 +73,22 @@ def _bucket(ids: list[str], fresh: dict[str, dict]) -> dict[str, Any]:
     }
 
 
+def _order_by_exposure(ids: list[str], fresh: dict[str, dict]) -> list[str]:
+    """Ids ordered by chromium_days_behind descending; undetected apps last."""
+
+    def key(app_id: str) -> int:
+        row = fresh.get(app_id)
+        if not row or row.get("chromium_days_behind") is None:
+            return -1
+        return row["chromium_days_behind"]
+
+    return sorted(ids, key=key, reverse=True)
+
+
 @cli.command("summary")
 def summary() -> None:
     """Roll popularity + freshness up into data/summary.yml for the site."""
-    pop = yaml.safe_load((DATA_DIR / "popularity.yml").read_text()) or {}
     fresh = yaml.safe_load((DATA_DIR / "freshness.yml").read_text()) or {}
-    tiers: dict[str, list[str]] = pop.get("tiers", {})
-    scores: dict[str, dict] = pop.get("scores", {})
 
     apps = {a["id"]: a for a in load_apps()}
     dead = sum(1 for a in apps.values() if a.get("dead"))
@@ -108,41 +104,11 @@ def summary() -> None:
                 current_chromium, r["chromium_major"] + (r.get("chromium_majors_behind") or 0)
             )
 
-    per_tier = {
-        name: {"label": TIER_LABELS[name], **_bucket(tiers.get(name, []), fresh)}
-        for name in TIER_ORDER
-    }
-    main_ids = [i for name in MAIN_TIERS for i in tiers.get(name, [])]
-    all_ids = [i for name in TIER_ORDER for i in tiers.get(name, [])]
-
-    # Most-used apps furthest behind: sort by exposure, break ties by reach so
-    # the list leads with apps people actually run.
-    candidates = [
-        (i, fresh[i])
-        for i in main_ids
-        if i in fresh and fresh[i].get("chromium_days_behind") is not None
-    ]
-    candidates.sort(
-        key=lambda kv: (kv[1]["chromium_days_behind"], scores.get(kv[0], {}).get("reach", 0)),
-        reverse=True,
-    )
-    worst = [
-        {
-            "id": app_id,
-            "name": apps.get(app_id, {}).get("name") or app_id,
-            "tier": scores.get(app_id, {}).get("tier", ""),
-            "electron": row["electron"],
-            "chromium": row["chromium"],
-            "chromium_majors_behind": row["chromium_majors_behind"],
-            "chromium_days_behind": row["chromium_days_behind"],
-            "cves_critical": row.get("cves_critical"),
-            "cves_high": row.get("cves_high"),
-        }
-        for app_id, row in candidates[:_WORST_COUNT]
-    ]
+    featured_ids = [aid for aid, a in apps.items() if a.get("homepage")]
+    all_ids = [aid for aid, a in apps.items() if not a.get("dead")]
 
     major_counts = collections.Counter(
-        fresh[i]["major"] for i in main_ids if i in fresh
+        fresh[i]["major"] for i in featured_ids if i in fresh
     )
     stalest_majors = [
         {"major": m, "apps": n} for m, n in sorted(major_counts.items(), reverse=True)
@@ -158,21 +124,17 @@ def summary() -> None:
             "detected": len(fresh),
             "detected_pct": _pct(len(fresh), len(apps) - dead),
         },
-        "tier_order": TIER_ORDER,
-        "main_tiers": MAIN_TIERS,
-        "tiers": per_tier,
-        "main": _bucket(main_ids, fresh),
-        "overall": _bucket(all_ids, fresh),
-        "worst": worst,
+        "featured": {**_bucket(featured_ids, fresh), "ids": _order_by_exposure(featured_ids, fresh)},
+        "overall": {**_bucket(all_ids, fresh), "ids": _order_by_exposure(all_ids, fresh)},
         "stalest_majors": stalest_majors,
     }
 
     path = DATA_DIR / "summary.yml"
     path.write_text(yaml.dump(out, default_flow_style=False, allow_unicode=True, sort_keys=False))
-    m = out["main"]
+    f = out["featured"]
     click.echo(
-        f"Wrote {path}: {m['detected']}/{m['apps']} main-tier apps detected, "
-        f"{m['eol_pct']}% end-of-life, median {m['median_days_behind']}d behind Chromium, "
-        f"median {m['median_cves_critical']} critical / {m['median_cves_high']} high CVEs open "
+        f"Wrote {path}: {f['detected']}/{f['apps']} featured apps detected, "
+        f"{f['eol_pct']}% end-of-life, median {f['median_days_behind']}d behind Chromium, "
+        f"median {f['median_cves_critical']} critical / {f['median_cves_high']} high CVEs open "
         f"(current Electron {current_electron} / Chromium {current_chromium})"
     )

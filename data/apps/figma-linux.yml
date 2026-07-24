@@ -51,3 +51,5 @@ evidence:
   source: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_aarch64.rpm
   found_in: figma-linux_0.11.5_linux_aarch64.rpm
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10

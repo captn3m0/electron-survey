@@ -9,7 +9,8 @@ url: https://captn3m0.github.io
 baseurl: /electron-survey
 
 # data/ is symlinked to _data, so every per-app YAML is available as
-# site.data.apps.<id>, the computed tiers as site.data.popularity, staleness as
+# site.data.apps.<id> (each carrying its own popularity signals: homepage,
+# aur_votes, brew_installs), staleness as
 # site.data.freshness, unpatched Chromium CVEs as site.data.cves and the
 # rolled-up headline figures as site.data.summary. Following that symlink needs
 # a normal `bundle exec jekyll build`, not GitHub Pages' safe mode.

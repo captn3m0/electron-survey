@@ -19,3 +19,6 @@ evidence:
   source: https://dl3.xmind.net/Xmind-for-macOS-26.04.01341-202607130058.dmg
   found_in: Xmind-for-macOS-26.04.01341-202607130058.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 1000

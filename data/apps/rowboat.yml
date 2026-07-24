@@ -35,3 +35,4 @@ electron: 39.2.7
 method: which-electron-rg
 latest: v0.7.7
 src: https://github.com/rowboatlabs/rowboat/archive/refs/tags/v0.7.7.zip
+brew_installs: 100

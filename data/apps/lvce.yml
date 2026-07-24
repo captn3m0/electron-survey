@@ -10,3 +10,4 @@ evidence:
   source: https://aur.archlinux.org/packages/lvce-bin
   found_in: lvce-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+aur_votes: 1

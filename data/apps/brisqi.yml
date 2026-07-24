@@ -5,3 +5,4 @@ aur:
 electron: 40.8.3
 method: aur-depends
 name: Brisqi
+aur_votes: 1

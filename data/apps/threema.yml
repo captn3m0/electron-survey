@@ -23,3 +23,6 @@ evidence:
   source: https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg
   found_in: Threema-Latest.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 100

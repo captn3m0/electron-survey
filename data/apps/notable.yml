@@ -58,3 +58,4 @@ evidence:
   source: https://github.com/notable/notable/releases/download/v1.8.4/Notable-1.8.4.AppImage
   found_in: Notable-1.8.4.AppImage
   signal: which-electron fingerprint signal
+brew_installs: 100

@@ -15,3 +15,5 @@ evidence:
   source: https://github.com/Automattic/wp-desktop/releases/download/v8.2.3/wordpress.com-macOS-dmg-8.2.3-arm64.dmg
   found_in: wordpress.com-macOS-dmg-8.2.3-arm64.dmg
   signal: which-electron rg signal
+aur_votes: 10
+brew_installs: 100

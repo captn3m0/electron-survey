@@ -49,3 +49,4 @@ latest: v1.5.10
 src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.10.zip
 electron: 43.0.0
 method: which-electron-rg
+brew_installs: 10

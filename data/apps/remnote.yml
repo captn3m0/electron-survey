@@ -20,3 +20,5 @@ evidence:
   source: https://download2.remnote.io/remnote-desktop2/RemNote-1.26.32-arm64-mac.zip
   found_in: RemNote-1.26.32-arm64-mac.zip
   signal: which-electron rg signal
+aur_votes: 1
+brew_installs: 100

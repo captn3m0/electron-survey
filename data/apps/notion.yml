@@ -30,3 +30,6 @@ evidence:
   source: https://desktop-release.notion-static.com/Notion-7.9.0-arm64.dmg
   found_in: Notion-7.9.0-arm64.dmg
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 10000

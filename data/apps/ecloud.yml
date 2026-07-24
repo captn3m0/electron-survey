@@ -15,3 +15,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ecloud-bin
   found_in: ecloud-bin
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+brew_installs: 10

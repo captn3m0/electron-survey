@@ -36,3 +36,4 @@ downloads:
   url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/latest.yml
+aur_votes: 1

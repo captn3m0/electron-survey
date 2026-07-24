@@ -21,3 +21,4 @@ electron: 6.0.7
 aur:
 - elcalc
 name: elcalc
+aur_votes: 1

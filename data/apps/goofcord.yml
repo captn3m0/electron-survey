@@ -49,3 +49,4 @@ downloads:
   url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-ia32.exe
 - name: GoofCord-Setup-x64.exe
   url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-x64.exe
+aur_votes: 10

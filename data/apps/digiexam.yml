@@ -6,3 +6,4 @@ downloads:
   name: Digiexam_Mac_universal.dmg
   version: 26.1.10
 name: DigiExam
+brew_installs: 10

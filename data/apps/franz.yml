@@ -35,3 +35,6 @@ evidence:
   source: https://github.com/meetfranz/franz/releases/latest/download/Franz-5.11.0.AppImage
   found_in: Franz-5.11.0.AppImage
   signal: which-electron rg signal
+homepage: true
+aur_votes: 10
+brew_installs: 100

@@ -8,3 +8,4 @@ downloads:
 - url: https://www.guilded.gg/AppBuilds/mac/Guilded-1.0.9329126-release.dmg
   name: Guilded-1.0.9329126-release.dmg
   version: 1.0.9329126
+brew_installs: 10

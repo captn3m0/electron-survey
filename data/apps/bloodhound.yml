@@ -56,3 +56,5 @@ evidence:
   source: https://github.com/SpecterOps/BloodHound-Legacy/releases/download/v4.3.1/BloodHound-darwin-arm64.zip
   found_in: BloodHound-darwin-arm64.zip
   signal: which-electron rg signal (2 signals agreed)
+aur_votes: 1
+brew_installs: 100

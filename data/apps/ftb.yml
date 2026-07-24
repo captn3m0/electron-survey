@@ -10,3 +10,4 @@ downloads:
 - url: https://piston.feed-the-beast.com/app/ftb-app-macos-1.30.0-arm64.dmg
   name: ftb-app-macos-1.30.0-arm64.dmg
   version: 1.30.0
+brew_installs: 10
