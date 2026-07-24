@@ -71,7 +71,8 @@ def _load_eol_releases() -> list[dict]:
 
 
 @cli.command("freshness")
-def freshness() -> None:
+@click.option("--app", "app_ids", multiple=True, help="Recompute only these app id(s), splicing the fresh row(s) into the existing data/freshness.yml and leaving every other row (and its now-relative age_days) untouched.")
+def freshness(app_ids: tuple[str, ...]) -> None:
     """Compute Electron staleness per app -> data/freshness.yml."""
     dates = _load_version_dates()  # {version: datetime}
     by_major: dict[int, list[tuple[int, ...]]] = collections.defaultdict(list)
@@ -101,8 +102,11 @@ def freshness() -> None:
         click.echo("warning: data/cves.yml missing; CVE counts omitted (run `main.py cves`)", err=True)
 
     now = datetime.now(timezone.utc)
+    wanted = set(app_ids)
     out: dict[str, dict] = {}
     for app in load_apps():
+        if wanted and app["id"] not in wanted:
+            continue
         raw = app.get("electron")
         if not raw:
             continue
@@ -160,6 +164,22 @@ def freshness() -> None:
         }
 
     path = DATA_DIR / "freshness.yml"
+
+    if wanted:
+        # Splice the recomputed row(s) into the existing file, preserving order
+        # and every other app's row verbatim (so a single-app update doesn't
+        # re-date the whole corpus). Keys already present keep their position.
+        existing: dict[str, dict] = yaml.safe_load(path.read_text()) if path.exists() else {}
+        for app_id, row in out.items():
+            existing[app_id] = row
+        path.write_text(yaml.dump(existing, default_flow_style=False, allow_unicode=True, sort_keys=False))
+        missing = sorted(wanted - out.keys())
+        if missing:
+            click.echo(f"warning: no electron version to compute for {', '.join(missing)}; left unchanged", err=True)
+        updated = ", ".join(f"{a}={out[a]['electron']} ({out[a]['status']})" for a in sorted(out))
+        click.echo(f"Updated {len(out)}/{len(wanted)} app(s) in {path}: {updated or '(none)'}")
+        return
+
     path.write_text(yaml.dump(out, default_flow_style=False, allow_unicode=True, sort_keys=False))
     c = collections.Counter(v["status"] for v in out.values())
     lags = sorted(v["chromium_days_behind"] for v in out.values() if v["chromium_days_behind"] is not None)

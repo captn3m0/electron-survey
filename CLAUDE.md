@@ -32,6 +32,16 @@ Pipeline (each step writes back to `data/apps/`):
 The last four are order-dependent: `freshness` reads `data/cves.yml`, and
 `summary` reads both `popularity.yml` and `freshness.yml`.
 
+To re-run one app after editing its sources, pass `--app <id>` (repeatable):
+
+    uv run main.py process which-electron --app lens   # re-fingerprint one app
+    uv run main.py freshness --app lens                # splice one row, others left as-is
+
+`process --app` restricts the corpus walk to the named ids; `freshness --app`
+recomputes only those rows and splices them into the existing `data/freshness.yml`
+without re-dating every other app. `summary` is a global rollup (no per-app mode) —
+just re-run it after a single-app `freshness`.
+
 Set `GITHUB_TOKEN` (or `GH_TOKEN`) for the `github.com` processor.
 
 External meta files (AUR index, Homebrew casks, Electron headers) are pulled
@@ -144,6 +154,17 @@ because their commits carry `[skip ci]`).
 - The `source` processor's preference order for detecting an electron
   version is: `package-lock.json` > `yarn.lock` > `pnpm-lock.yaml` >
   `package.json` (range resolved against `data/versions.txt`).
+- Cross-processor precedence for the `electron` version, highest confidence
+  first: **(1)** which-electron fingerprint of a **Homebrew cask** binary
+  (`downloads` entry tagged `source: homebrew`, tier 0) > **(2)** which-electron
+  fingerprint of an **AUR `-bin`** binary (`aur_downloads`, tagged
+  `source: aur-bin`, resolved from the package's `.SRCINFO` by `steps/aur-bin.py`,
+  tier 1) > **(3)** the **github `source`** lockfile/manifest (and any other
+  tier-2 github/static download asset, which never overrides the source
+  lockfile) > **(4)** the **`aur-depends`** `Depends: electron<major>` major
+  guess (lowest). which-electron treats tiers 1–2 as an *override*: a cask or
+  `-bin` binary supersedes a version that was only inferred from github source
+  or AUR depends, but never overrides an existing which-electron binary result.
 
 ## Don't
 

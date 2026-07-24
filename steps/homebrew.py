@@ -40,6 +40,12 @@ _GENERIC_DOMAINS = {
     "github.io",
 }
 
+# Cask tokens for prerelease channels (firefox@beta, foo-nightly, …). We want
+# the stable binary users actually run: a prerelease dmg tagged as a tier-0
+# homebrew candidate could otherwise override a stable source-detected version
+# with the wrong release channel. Boundary-aware so e.g. "betaflight" is kept.
+_PRERELEASE_TOKEN = re.compile(r"(?:^|[-@])(?:beta|nightly|alpha)(?:$|[-@])", re.IGNORECASE)
+
 
 @lru_cache(maxsize=1)
 def _load_index() -> tuple[dict[str, dict], dict[str, list[dict]]]:
@@ -102,6 +108,16 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     if not found:
         return None
 
+    # Prefer the plain stable cask over any prerelease-channel variant.
+    stable = [c for c in found if not _PRERELEASE_TOKEN.search(c.get("token", ""))]
+    if not stable:
+        log.info(
+            "[%s] only prerelease Homebrew casks (%s); skipping",
+            entry["id"], [c.get("token", "") for c in found],
+        )
+        return None
+    found = stable
+
     if len(found) > 10:
         log.warning("[%s] Homebrew search returned %d results, skipping", entry["id"], len(found))
         return None
@@ -121,7 +137,9 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
 
     if url:
         name = url.rsplit("/", 1)[-1].split("?")[0] or f"{token}.dmg"
-        dl: dict[str, Any] = {"url": url, "name": name}
+        # Tag the cask binary so which-electron treats it as a tier-0 candidate
+        # (highest-confidence source) and fingerprints it before anything else.
+        dl: dict[str, Any] = {"url": url, "name": name, "source": "homebrew"}
         if version:
             dl["version"] = version
         # Append to existing downloads rather than replacing

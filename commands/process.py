@@ -70,13 +70,18 @@ def _processor_matches(processor: types.ModuleType, domain: str, entry: dict[str
 @cli.command("process")
 @click.argument("processor_name", required=False, default=None)
 @click.option("--limit", default=0, help="Stop after processing this many entries (0 = no limit).")
+@click.option("--app", "app_ids", multiple=True, help="Only process the given app id(s); repeatable. Useful for re-running one app after editing its sources.")
 @click.option("--source-fast", is_flag=True, default=False, help="Skip entries that already have an electron version (source processor only).")
 @click.option("--aur", "include_aur", is_flag=True, default=False, help="Include the AUR processor (skipped by default).")
-def process_apps(processor_name: str | None, limit: int, source_fast: bool, include_aur: bool) -> None:
+def process_apps(processor_name: str | None, limit: int, app_ids: tuple[str, ...], source_fast: bool, include_aur: bool) -> None:
     """Run processors against data/apps/ and write each entry immediately on update.
 
     PROCESSOR_NAME: optional name of a single processor to run (e.g. 'github.com'
     or 'source'). Omit to run all processors in filename order.
+
+    Pass ``--app <id>`` (repeatable) to restrict the run to specific apps — e.g.
+    ``process which-electron --app lens`` re-fingerprints a single entry without
+    walking the whole corpus.
     """
     processors_dir = pathlib.Path("steps")
     all_processors = _load_processors(processors_dir)
@@ -99,6 +104,16 @@ def process_apps(processor_name: str | None, limit: int, source_fast: bool, incl
     click.echo(f"Loaded processors: {', '.join(processors)}")
 
     apps = _prioritize(load_apps())
+
+    if app_ids:
+        wanted = set(app_ids)
+        by_id = {a["id"] for a in apps}
+        unknown = sorted(wanted - by_id)
+        if unknown:
+            raise click.ClickException(f"Unknown app id(s): {', '.join(unknown)}")
+        apps = [a for a in apps if a["id"] in wanted]
+        click.echo(f"Restricted to {len(apps)} app(s): {', '.join(sorted(wanted))}")
+
     entries_processed = entries_updated = entries_skipped = entries_errored = 0
 
     for entry in apps:

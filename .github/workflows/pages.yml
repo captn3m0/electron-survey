@@ -52,11 +52,26 @@ jobs:
         with:
           enablement: true
 
-      - uses: ruby/setup-ruby@a30dfa457ad68707b8b910ac3a244714b61c0626 # v1.320.0
+      - uses: ruby/setup-ruby@95ef2b042f9d7a56d8268cba8559e2842e2ad01b # v1.321.0
         with:
           ruby-version: "3.4"
           bundler-cache: true
           working-directory: docs
+
+      - uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+
+      # data/freshness.yml and data/summary.yml are derived, not committed:
+      # regenerate them here from the committed observations (data/apps,
+      # data/versions.txt, data/cves.yml, data/popularity.yml) so every publish
+      # trigger — push, dispatch, or workflow_call — ships current data. Only the
+      # two cheap meta indexes freshness needs are fetched, not the
+      # multi-hundred-MB AUR/Homebrew dumps. summary reads the freshness.yml just
+      # generated plus the committed popularity.yml.
+      - name: Recompute Electron/Chromium freshness and summary
+        run: |
+          make meta/electron-index.json meta/eol-electron.json
+          uv run main.py freshness
+          uv run main.py summary
 
       # docs/_data is a symlink to ../data and docs/_plugins holds the per-app
       # page generator, so this needs a normal (non-safe) Jekyll build — which
@@ -82,6 +97,17 @@ jobs:
           # raising, so assert the raw-data block really is pretty-printed JSON.
           grep -q '&quot;id&quot;: ' _site/apps/joplin.html \
             || { echo "Raw data block is not pretty-printed JSON"; exit 1; }
+          # freshness.yml is generated in this job, not committed. The exposure
+          # block only renders when an app has freshness data, so its absence
+          # means the generate step silently produced nothing — fail loudly
+          # rather than ship a site with no staleness data.
+          grep -q 'class="exposure"' _site/apps/joplin.html \
+            || { echo "Freshness data did not render into app pages"; exit 1; }
+          # summary.yml is likewise generated here, not committed. The homepage
+          # headline figure only renders a number when summary data is present,
+          # so a bare "%" means summary produced nothing — fail loudly.
+          grep -qE 'class="figure">[0-9]' _site/index.html \
+            || { echo "Summary headline did not render"; exit 1; }
 
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:

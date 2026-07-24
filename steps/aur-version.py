@@ -68,6 +68,11 @@ def _load_major_versions() -> dict[int, str]:
 
 
 def matches(entry: dict[str, Any]) -> bool:
+    # Lowest tier in the cross-processor precedence order (homebrew cask binary >
+    # AUR `-bin` binary > github source > this `aur-depends` major guess): it only
+    # fires when nothing else has resolved a version (`"electron" not in entry`),
+    # and its `aur-depends` method is in which-electron's `_LOW_CONFIDENCE_METHODS`,
+    # so a later binary fingerprint (including a tier-0/1 override) supersedes it.
     aur = entry.get("aur")
     return bool(aur) and isinstance(aur, list) and "electron" not in entry
 

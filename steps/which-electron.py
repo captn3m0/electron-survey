@@ -1,9 +1,14 @@
 """Processor that runs which-electron against download URLs.
 
 For entries that don't yet have an `electron` version detected, download
-the first usable artefact from `downloads` / `packages` and invoke
-which-electron in JSON mode. The reported version (without the leading
-``v``) is written back, with ``method = which-electron-<signal>``.
+the first usable artefact from `downloads` / `packages` / `aur_downloads`
+and invoke which-electron in JSON mode. The reported version (without the
+leading ``v``) is written back, with ``method = which-electron-<signal>``.
+
+Candidates are ordered by a source *tier* (homebrew cask binary > AUR
+``-bin`` binary > everything else) so the most authoritative artefact is
+fingerprinted first. A tier-0/1 binary also *overrides* a version that was
+only inferred from github source or AUR depends metadata: see ``matches()``.
 
 Downloads are transient: each artefact is fetched to a temp file and
 deleted immediately after fingerprinting, so a run never accumulates
@@ -72,7 +77,17 @@ _GOOD_EXT = re.compile(
     r"\.(zip|dmg|appimage|tar\.gz|tar\.bz2|tar\.xz|deb|rpm|7z|exe|nupkg)$",
     re.IGNORECASE,
 )
-_SKIP_NAME = re.compile(r"-setup\b|setup\.exe$|\.blockmap$|RELEASES$|latest.*\.yml$", re.IGNORECASE)
+# Also drop prerelease artefacts (nightly/beta/alpha channels, VCS `-git`
+# builds): a prerelease binary carries the wrong release channel's Electron and
+# must not override a stable source/binary detection. Boundary-aware so real
+# tokens like "betaflight" or a "beta.example.com" path segment aren't caught by
+# a bare substring.
+_SKIP_NAME = re.compile(
+    r"-setup\b|setup\.exe$|\.blockmap$|RELEASES$|latest.*\.yml$"
+    r"|(?:^|[-_@./])(?:nightly|beta|alpha)(?:[-_.]|$)"
+    r"|-git(?:[-_.]|$)",
+    re.IGNORECASE,
+)
 
 # Lower number = fetched first. Linux single-arch packages tend to be smaller
 # than universal dmg / NSIS exe installers, so try them before the heavyweights.
@@ -148,12 +163,37 @@ def _ext_of(url: str) -> str:
     return pathlib.Path(path).suffix
 
 
-def _candidate_urls(entry: dict[str, Any]) -> list[str]:
-    """Return download URLs worth feeding to which-electron, cheapest first."""
-    urls: list[str] = []
+# Source tiers, lowest = highest confidence. A binary fingerprint of the
+# vendor's own artefact beats a source/metadata guess, and among binaries a
+# homebrew cask or AUR `-bin` build is more authoritative than a generic
+# github/static download (which is the same tier as the github source lockfile
+# and so must never override it). Candidates are ordered (tier, ext priority).
+_TIER_HOMEBREW = 0
+_TIER_AUR_BIN = 1
+_TIER_OTHER = 2
+
+
+def _tier_of(src: dict[str, Any], default: int) -> int:
+    tag = src.get("source")
+    if tag == "homebrew":
+        return _TIER_HOMEBREW
+    if tag == "aur-bin":
+        return _TIER_AUR_BIN
+    return default
+
+
+def _candidate_urls(entry: dict[str, Any]) -> list[tuple[int, str]]:
+    """Return ``(tier, url)`` download candidates, highest-confidence first.
+
+    Tier 0 = homebrew cask binary, 1 = AUR `-bin` binary, 2 = everything else
+    (github release asset, static/curated download). Sorted by
+    ``(tier, ext priority)`` so the most authoritative, cheapest artefact is
+    fetched first.
+    """
+    out: list[tuple[int, str]] = []
     seen: set[str] = set()
 
-    def add(url: str) -> None:
+    def add(url: str, tier: int) -> None:
         if not url or url in seen:
             return
         if _SKIP_NAME.search(url):
@@ -161,16 +201,22 @@ def _candidate_urls(entry: dict[str, Any]) -> list[str]:
         if not _GOOD_EXT.search(url.split("?", 1)[0]):
             return
         seen.add(url)
-        urls.append(url)
+        out.append((tier, url))
 
     for src in (entry.get("downloads") or []) + (entry.get("packages") or []):
         if isinstance(src, dict):
-            add(src.get("url", ""))
+            add(src.get("url", ""), _tier_of(src, _TIER_OTHER))
         elif isinstance(src, str):
-            add(src)
+            add(src, _TIER_OTHER)
 
-    urls.sort(key=lambda u: _EXT_PRIORITY.get(_ext_of(u), 9))
-    return urls
+    for src in entry.get("aur_downloads") or []:
+        if isinstance(src, dict):
+            add(src.get("url", ""), _tier_of(src, _TIER_AUR_BIN))
+        elif isinstance(src, str):
+            add(src, _TIER_AUR_BIN)
+
+    out.sort(key=lambda tu: (tu[0], _EXT_PRIORITY.get(_ext_of(tu[1]), 9)))
+    return out
 
 
 def _too_big(url: str) -> bool:
@@ -267,7 +313,7 @@ def _signature(entry: dict[str, Any]) -> str:
     latest = entry.get("latest")
     if latest:
         return f"{_EPOCH}:{latest}"
-    joined = "\n".join(_candidate_urls(entry))
+    joined = "\n".join(url for _, url in _candidate_urls(entry))
     return f"{_EPOCH}:urls:" + hashlib.sha256(joined.encode()).hexdigest()[:12]
 
 
@@ -279,6 +325,23 @@ def _signature(entry: dict[str, Any]) -> str:
 _LOW_CONFIDENCE_METHODS = {"aur-depends", "src-range-guess"}
 
 
+def _is_nonbinary_method(method: str) -> bool:
+    """True for versions inferred from github source or AUR depends metadata.
+
+    These live below a binary fingerprint in the precedence order, so a tier-0
+    (homebrew cask) or tier-1 (AUR `-bin`) binary is allowed to override them.
+    which-electron's own results (``which-electron-*``) are never overridden.
+    The ``source`` processor emits ``src-*`` methods; ``source*`` is accepted
+    too so the check stays correct if those are ever renamed.
+    """
+    return method == "aur-depends" or method.startswith(("src-", "source"))
+
+
+def _has_binary_override_candidate(entry: dict[str, Any]) -> bool:
+    """True when a tier-0/1 (homebrew or aur-bin) binary is available to fetch."""
+    return any(tier <= _TIER_AUR_BIN for tier, _ in _candidate_urls(entry))
+
+
 def matches(entry: dict[str, Any]) -> bool:
     if _past_deadline():
         return False  # out of budget: leave the rest for the next scheduled run
@@ -287,19 +350,37 @@ def matches(entry: dict[str, Any]) -> bool:
     if not _candidate_urls(entry):
         return False
     electron = entry.get("electron")
-    if electron and entry.get("method") not in _LOW_CONFIDENCE_METHODS:
-        # Already resolved by an exact/authoritative method. Opting in re-claims
-        # the ones this processor resolved before it recorded which artefact
-        # answered, so the provenance shown on the site can be filled in — and,
-        # as a side effect, their version re-read from the current binary.
-        # Off by default: it competes with genuinely unresolved apps for the
-        # daily download budget.
+    method = str(entry.get("method", ""))
+
+    if electron and _is_nonbinary_method(method):
+        # Override case: a github-source lockfile/manifest or an aur-depends
+        # major guess can be replaced by a higher-confidence binary fingerprint,
+        # but only when a tier-0/1 (homebrew cask / AUR `-bin`) artefact exists —
+        # a generic tier-2 github asset is the same tier as the source lockfile
+        # and must not override it. When no such binary is available, fall back
+        # to the pre-existing behaviour: the low-confidence methods stay eligible
+        # for a plain tier-2 re-fingerprint (bounded by we_tried); the exact
+        # source lockfiles stay put.
+        if _has_binary_override_candidate(entry):
+            return entry.get("we_tried") != _signature(entry)
+        if method in _LOW_CONFIDENCE_METHODS:
+            return entry.get("we_tried") != _signature(entry)
+        return False
+
+    if electron:
+        # Already resolved by an exact/authoritative method (a binary
+        # fingerprint, or a directly-set value). Opting in re-claims the ones
+        # this processor resolved before it recorded which artefact answered, so
+        # the provenance shown on the site can be filled in — and, as a side
+        # effect, their version re-read from the current binary. Off by default:
+        # it competes with genuinely unresolved apps for the daily budget.
         if not (_BACKFILL_EVIDENCE
-                and str(entry.get("method", "")).startswith("which-electron")
+                and method.startswith("which-electron")
                 and not entry.get("evidence")):
             return False
         return True
-    # Skip artefacts we already fingerprinted at their current release.
+
+    # Unresolved: skip artefacts we already fingerprinted at their current release.
     return entry.get("we_tried") != _signature(entry)
 
 
@@ -308,7 +389,25 @@ def process(entry: dict[str, Any]) -> dict[str, Any] | None:
     inspected = 0
     unread = 0
 
-    for url in _candidate_urls(entry):
+    candidates = _candidate_urls(entry)
+    electron = entry.get("electron")
+    method = str(entry.get("method", ""))
+    # Override mode: the version is already set by a github-source or aur-depends
+    # method and a tier-0/1 binary is available to overrule it. Restrict the
+    # artefacts we download to those binaries — a generic tier-2 github/static
+    # asset is the same tier as the source lockfile and must not override it.
+    # The terminal marking logic below is unchanged, so the existing version is
+    # kept on failure (electron is a separate key, never wiped by we_tried) and
+    # re-download stops once every readable artefact has been checked.
+    override = (
+        bool(electron)
+        and _is_nonbinary_method(method)
+        and any(tier <= _TIER_AUR_BIN for tier, _ in candidates)
+    )
+    if override:
+        candidates = [(tier, url) for tier, url in candidates if tier <= _TIER_AUR_BIN]
+
+    for _tier, url in candidates:
         path = _download(url)
         if path is None:
             unread += 1

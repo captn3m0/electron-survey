@@ -67,6 +67,12 @@ jobs:
       - name: Match AUR packages
         run: uv run main.py process aur
 
+      # Resolve the binary download URLs of matched AUR `-bin` packages (from
+      # their .SRCINFO) so which-electron can fingerprint the vendor binary — a
+      # higher-confidence signal than the aur-depends major guess below.
+      - name: Resolve AUR -bin binary URLs
+        run: uv run main.py process aur-bin
+
       - name: Detect Electron from AUR depends
         run: uv run main.py process aur-version
 

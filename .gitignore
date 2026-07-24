@@ -1,7 +1,13 @@
 zips/
 **/__pycache__
+# Derived staleness data: regenerated from committed observations at every
+# site build (see .github/workflows/pages.yml), so they are never committed.
+data/freshness.yml
+data/summary.yml
 packages-meta-ext-v1.json
 aur-packages
+# Fetched .SRCINFO cache for the aur-bin processor (like other meta/ artefacts).
+meta/aur-srcinfo/
 .env
 src/
 meta/*
