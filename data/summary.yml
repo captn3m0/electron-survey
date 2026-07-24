@@ -1,4 +1,4 @@
-generated: '2026-07-23'
+generated: '2026-07-24'
 current:
   electron_major: 43
   chromium_major: 150
@@ -32,7 +32,7 @@ tiers:
     red_pct: 27.8
     eol: 19
     eol_pct: 52.8
-    median_days_behind: 134
+    median_days_behind: 135
     median_majors_behind: 6
     median_cves_critical: 148
     median_cves_high: 807
@@ -43,15 +43,15 @@ tiers:
     apps: 48
     detected: 44
     detected_pct: 91.7
-    green: 18
+    green: 19
     orange: 5
-    red: 21
-    green_pct: 40.9
+    red: 20
+    green_pct: 43.2
     orange_pct: 11.4
-    red_pct: 47.7
-    eol: 26
-    eol_pct: 59.1
-    median_days_behind: 268
+    red_pct: 45.5
+    eol: 25
+    eol_pct: 56.8
+    median_days_behind: 269
     median_majors_behind: 10
     median_cves_critical: 151
     median_cves_high: 850
@@ -70,7 +70,7 @@ tiers:
     red_pct: 47.0
     eol: 128
     eol_pct: 69.9
-    median_days_behind: 268
+    median_days_behind: 269
     median_majors_behind: 10
     median_cves_critical: 153
     median_cves_high: 855
@@ -89,7 +89,7 @@ tiers:
     red_pct: 64.4
     eol: 379
     eol_pct: 82.8
-    median_days_behind: 646
+    median_days_behind: 647
     median_majors_behind: 22
     median_cves_critical: 156
     median_cves_high: 953
@@ -108,7 +108,7 @@ tiers:
     red_pct: 80.0
     eol: 928
     eol_pct: 90.0
-    median_days_behind: 884
+    median_days_behind: 885
     median_majors_behind: 30
     median_cves_critical: 167
     median_cves_high: 1077
@@ -118,15 +118,15 @@ main:
   apps: 303
   detected: 263
   detected_pct: 86.8
-  green: 90
+  green: 91
   orange: 56
-  red: 117
-  green_pct: 34.2
+  red: 116
+  green_pct: 34.6
   orange_pct: 21.3
-  red_pct: 44.5
-  eol: 173
-  eol_pct: 65.8
-  median_days_behind: 268
+  red_pct: 44.1
+  eol: 172
+  eol_pct: 65.4
+  median_days_behind: 269
   median_majors_behind: 10
   median_cves_critical: 151
   median_cves_high: 850
@@ -136,15 +136,15 @@ overall:
   apps: 2092
   detected: 1752
   detected_pct: 83.7
-  green: 272
+  green: 273
   orange: 243
-  red: 1237
-  green_pct: 15.5
+  red: 1236
+  green_pct: 15.6
   orange_pct: 13.9
-  red_pct: 70.6
-  eol: 1480
-  eol_pct: 84.5
-  median_days_behind: 772
+  red_pct: 70.5
+  eol: 1479
+  eol_pct: 84.4
+  median_days_behind: 773
   median_majors_behind: 26
   median_cves_critical: 161
   median_cves_high: 1034
@@ -166,7 +166,7 @@ worst:
   electron: 1.9.37
   chromium: 59.0.3071.115
   chromium_majors_behind: 91
-  chromium_days_behind: 3004
+  chromium_days_behind: 3005
   cves_critical: 253
   cves_high: 2087
 - id: openbazaar
@@ -175,7 +175,7 @@ worst:
   electron: 1.8.7
   chromium: 59.0.3071.115
   chromium_majors_behind: 91
-  chromium_days_behind: 3004
+  chromium_days_behind: 3005
   cves_critical: 253
   cves_high: 2087
 - id: keep
@@ -184,7 +184,7 @@ worst:
   electron: 2.0.0
   chromium: 61.0.3163.100
   chromium_majors_behind: 89
-  chromium_days_behind: 2864
+  chromium_days_behind: 2865
   cves_critical: 253
   cves_high: 2069
 - id: tusk
@@ -193,7 +193,7 @@ worst:
   electron: 4.2.2
   chromium: 69.0.3497.128
   chromium_majors_behind: 81
-  chromium_days_behind: 2647
+  chromium_days_behind: 2648
   cves_critical: 248
   cves_high: 1977
 - id: patchbay
@@ -202,7 +202,7 @@ worst:
   electron: 4.2.6
   chromium: 69.0.3497.128
   chromium_majors_behind: 81
-  chromium_days_behind: 2647
+  chromium_days_behind: 2648
   cves_critical: 248
   cves_high: 1977
 - id: vagrant-manager
@@ -211,7 +211,7 @@ worst:
   electron: 5.0.7
   chromium: 73.0.3683.121
   chromium_majors_behind: 77
-  chromium_days_behind: 2550
+  chromium_days_behind: 2551
   cves_critical: 245
   cves_high: 1922
 - id: tabby
@@ -220,7 +220,7 @@ worst:
   electron: 7.1.7
   chromium: 78.0.3904.130
   chromium_majors_behind: 72
-  chromium_days_behind: 2361
+  chromium_days_behind: 2362
   cves_critical: 240
   cves_high: 1866
 - id: tenvideo
@@ -229,7 +229,7 @@ worst:
   electron: 7.3.3
   chromium: 78.0.3904.130
   chromium_majors_behind: 72
-  chromium_days_behind: 2361
+  chromium_days_behind: 2362
   cves_critical: 240
   cves_high: 1866
 - id: nibbler
@@ -238,7 +238,7 @@ worst:
   electron: 9.4.4
   chromium: 83.0.4103.122
   chromium_majors_behind: 67
-  chromium_days_behind: 2158
+  chromium_days_behind: 2159
   cves_critical: 229
   cves_high: 1791
 - id: webtorrent
@@ -247,7 +247,7 @@ worst:
   electron: 10.1.0
   chromium: 85.0.4183.87
   chromium_majors_behind: 65
-  chromium_days_behind: 2074
+  chromium_days_behind: 2075
   cves_critical: 228
   cves_high: 1758
 - id: tilde
@@ -256,7 +256,7 @@ worst:
   electron: 10.1.5
   chromium: 85.0.4183.121
   chromium_majors_behind: 65
-  chromium_days_behind: 2074
+  chromium_days_behind: 2075
   cves_critical: 225
   cves_high: 1751
 - id: igdm
@@ -265,7 +265,7 @@ worst:
   electron: 10.4.2
   chromium: 85.0.4183.121
   chromium_majors_behind: 65
-  chromium_days_behind: 2074
+  chromium_days_behind: 2075
   cves_critical: 225
   cves_high: 1751
 - id: papyrus
@@ -274,7 +274,7 @@ worst:
   electron: 10.1.2
   chromium: 85.0.4183.98
   chromium_majors_behind: 65
-  chromium_days_behind: 2074
+  chromium_days_behind: 2075
   cves_critical: 228
   cves_high: 1758
 - id: companion
@@ -283,12 +283,12 @@ worst:
   electron: 11.5.0
   chromium: 87.0.4280.141
   chromium_majors_behind: 63
-  chromium_days_behind: 1969
+  chromium_days_behind: 1970
   cves_critical: 207
   cves_high: 1698
 stalest_majors:
 - major: 43
-  apps: 16
+  apps: 17
 - major: 42
   apps: 34
 - major: 41
@@ -328,7 +328,7 @@ stalest_majors:
 - major: 24
   apps: 2
 - major: 23
-  apps: 3
+  apps: 2
 - major: 22
   apps: 6
 - major: 21
