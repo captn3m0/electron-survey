@@ -13,3 +13,8 @@ downloads:
   version: 2.13.6
 electron: 26.6.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://devkinsta-updates.s3.amazonaws.com/DevKinsta-2.13.6-arm64.zip
+  found_in: DevKinsta-2.13.6-arm64.zip
+  signal: which-electron rg signal

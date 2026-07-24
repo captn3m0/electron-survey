@@ -50,3 +50,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.4/latest.yml
 homebrew: freeshow
+evidence:
+  kind: binary
+  source: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.4/FreeShow-1.6.4-aarch64.rpm
+  found_in: FreeShow-1.6.4-aarch64.rpm
+  signal: which-electron rg signal

@@ -23,35 +23,34 @@ packages:
   format: deb
   os: linux
   arch: x64
-latest: v3.4.0
-src: https://github.com/buxuku/SmartSub/archive/refs/tags/v3.4.0.zip
+latest: v3.5.0
+src: https://github.com/buxuku/SmartSub/archive/refs/tags/v3.5.0.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/latest-linux.yml
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/latest-mac.yml
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/latest.yml
-- name: SmartSub_Linux_3.4.0_amd64.deb
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Linux_3.4.0_amd64.deb
-- name: SmartSub_Linux_3.4.0_x86_64.AppImage
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Linux_3.4.0_x86_64.AppImage
-- name: SmartSub_Mac_3.4.0_arm64.dmg
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Mac_3.4.0_arm64.dmg
-- name: SmartSub_Mac_3.4.0_arm64.zip
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Mac_3.4.0_arm64.zip
-- name: SmartSub_Mac_3.4.0_x64.dmg
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Mac_3.4.0_x64.dmg
-- name: SmartSub_Mac_3.4.0_x64.zip
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Mac_3.4.0_x64.zip
-- name: SmartSub_Windows_3.4.0_x64.exe
-  url: https://github.com/buxuku/SmartSub/releases/download/v3.4.0/SmartSub_Windows_3.4.0_x64.exe
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/latest.yml
+- name: SmartSub_Linux_3.5.0_amd64.deb
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Linux_3.5.0_amd64.deb
+- name: SmartSub_Linux_3.5.0_x86_64.AppImage
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Linux_3.5.0_x86_64.AppImage
+- name: SmartSub_Mac_3.5.0_arm64.dmg
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Mac_3.5.0_arm64.dmg
+- name: SmartSub_Mac_3.5.0_arm64.zip
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Mac_3.5.0_arm64.zip
+- name: SmartSub_Mac_3.5.0_x64.dmg
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Mac_3.5.0_x64.dmg
+- name: SmartSub_Mac_3.5.0_x64.zip
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Mac_3.5.0_x64.zip
+- name: SmartSub_Windows_3.5.0_x64.exe
+  url: https://github.com/buxuku/SmartSub/releases/download/v3.5.0/SmartSub_Windows_3.5.0_x64.exe
 electron: 30.5.1
 method: src-package-lock
-electron_src: https://github.com/buxuku/SmartSub/archive/refs/tags/v3.4.0.zip
+electron_src: https://github.com/buxuku/SmartSub/archive/refs/tags/v3.5.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Abuxuku%2FSmartSub+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: SmartSub-3.5.0/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/buxuku/SmartSub/archive/refs/tags/v3.5.0.zip

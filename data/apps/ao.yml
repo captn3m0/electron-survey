@@ -15,3 +15,8 @@ downloads:
   name: Ao-6.9.0.dmg
   version: 6.9.0
 we_tried: we0:urls:32403b3a14db
+evidence:
+  kind: binary
+  source: https://github.com/klaussinani/ao/releases/download/v6.9.0/Ao-6.9.0.dmg
+  found_in: Ao-6.9.0.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

@@ -6,19 +6,19 @@ aur:
 - redis-viewer-bin
 electron: 28.3.3
 method: aur-depends
-latest: v3.2.1
-src: https://github.com/redisviewer/RedisViewer/archive/refs/tags/v3.2.1.zip
+latest: v3.3.0
+src: https://github.com/redisviewer/RedisViewer/archive/refs/tags/v3.3.0.zip
 downloads:
-- name: RedisViewer_3.2.1_linux_amd64.flatpak
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.1/RedisViewer_3.2.1_linux_amd64.flatpak
-- name: RedisViewer_3.2.1_mac_arm64.dmg
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.1/RedisViewer_3.2.1_mac_arm64.dmg
-- name: RedisViewer_3.2.1_mac_intel.dmg
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.1/RedisViewer_3.2.1_mac_intel.dmg
-- name: RedisViewer_Setup_3.2.1_windows_arm64.exe
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.1/RedisViewer_Setup_3.2.1_windows_arm64.exe
-- name: RedisViewer_Setup_3.2.1_windows_x64.exe
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.1/RedisViewer_Setup_3.2.1_windows_x64.exe
+- name: RedisViewer_3.3.0_linux_amd64.flatpak
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_linux_amd64.flatpak
+- name: RedisViewer_3.3.0_mac_arm64.dmg
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_mac_arm64.dmg
+- name: RedisViewer_3.3.0_mac_intel.dmg
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_mac_intel.dmg
+- name: RedisViewer_Setup_3.3.0_windows_arm64.exe
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_Setup_3.3.0_windows_arm64.exe
+- name: RedisViewer_Setup_3.3.0_windows_x64.exe
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_Setup_3.3.0_windows_x64.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/redis-viewer-bin

@@ -13,3 +13,8 @@ downloads:
   version: 4.37.2395
 electron: 25.9.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://update.readcube.com/desktop/updates/Papers_Setup_4.37.2395-arm64.zip
+  found_in: Papers_Setup_4.37.2395-arm64.zip
+  signal: which-electron rg signal

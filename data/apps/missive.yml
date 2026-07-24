@@ -8,3 +8,8 @@ downloads:
 name: Missive
 electron: 38.2.2
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://downloads.missiveapp.com/11.12.4/Missive-11.12.4.dmg
+  found_in: Missive-11.12.4.dmg
+  signal: which-electron rg signal

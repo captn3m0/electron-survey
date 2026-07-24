@@ -13,3 +13,8 @@ downloads:
   version: 1.39.0
 electron: 39.8.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cdn.inmusicbrands.com/Software/SI04/inMusic%20Software%20Center-darwin-universal-1.39.0.zip
+  found_in: inMusic%20Software%20Center-darwin-universal-1.39.0.zip
+  signal: which-electron rg signal

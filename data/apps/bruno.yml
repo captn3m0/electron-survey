@@ -36,62 +36,66 @@ electron: 37.6.1
 method: which-electron-rg
 homebrew: bruno
 downloads:
-- name: bruno_3.5.3_aarch64_linux.rpm
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_aarch64_linux.rpm
-- name: bruno_3.5.3_amd64_linux.deb
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_amd64_linux.deb
-- name: bruno_3.5.3_arm64_linux.AppImage
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_linux.AppImage
-- name: bruno_3.5.3_arm64_linux.deb
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_linux.deb
-- name: bruno_3.5.3_arm64_mac.dmg
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_mac.dmg
-- name: bruno_3.5.3_arm64_mac.dmg.blockmap
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_mac.dmg.blockmap
-- name: bruno_3.5.3_arm64_mac.zip
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_mac.zip
-- name: bruno_3.5.3_arm64_mac.zip.blockmap
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_mac.zip.blockmap
-- name: bruno_3.5.3_arm64_win.exe
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_win.exe
-- name: bruno_3.5.3_arm64_win.exe.blockmap
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_win.exe.blockmap
-- name: bruno_3.5.3_arm64_win.msi
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_win.msi
-- name: bruno_3.5.3_arm64_win.zip
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_arm64_win.zip
-- name: bruno_3.5.3_x64_mac.dmg
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_mac.dmg
-- name: bruno_3.5.3_x64_mac.dmg.blockmap
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_mac.dmg.blockmap
-- name: bruno_3.5.3_x64_mac.zip
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_mac.zip
-- name: bruno_3.5.3_x64_mac.zip.blockmap
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_mac.zip.blockmap
-- name: bruno_3.5.3_x64_win.exe
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_win.exe
-- name: bruno_3.5.3_x64_win.exe.blockmap
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_win.exe.blockmap
-- name: bruno_3.5.3_x64_win.msi
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_win.msi
-- name: bruno_3.5.3_x64_win.zip
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x64_win.zip
-- name: bruno_3.5.3_x86_64_linux.AppImage
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x86_64_linux.AppImage
-- name: bruno_3.5.3_x86_64_linux.rpm
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/bruno_3.5.3_x86_64_linux.rpm
+- name: bruno_4.0.0_aarch64_linux.rpm
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_aarch64_linux.rpm
+- name: bruno_4.0.0_amd64_linux.deb
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_amd64_linux.deb
+- name: bruno_4.0.0_arm64_linux.AppImage
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_linux.AppImage
+- name: bruno_4.0.0_arm64_linux.deb
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_linux.deb
+- name: bruno_4.0.0_arm64_mac.dmg
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_mac.dmg
+- name: bruno_4.0.0_arm64_mac.dmg.blockmap
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_mac.dmg.blockmap
+- name: bruno_4.0.0_arm64_mac.pkg
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_mac.pkg
+- name: bruno_4.0.0_arm64_mac.zip
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_mac.zip
+- name: bruno_4.0.0_arm64_mac.zip.blockmap
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_mac.zip.blockmap
+- name: bruno_4.0.0_arm64_win.exe
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_win.exe
+- name: bruno_4.0.0_arm64_win.exe.blockmap
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_win.exe.blockmap
+- name: bruno_4.0.0_arm64_win.msi
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_win.msi
+- name: bruno_4.0.0_arm64_win.zip
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_arm64_win.zip
+- name: bruno_4.0.0_x64_mac.dmg
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_mac.dmg
+- name: bruno_4.0.0_x64_mac.dmg.blockmap
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_mac.dmg.blockmap
+- name: bruno_4.0.0_x64_mac.pkg
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_mac.pkg
+- name: bruno_4.0.0_x64_mac.zip
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_mac.zip
+- name: bruno_4.0.0_x64_mac.zip.blockmap
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_mac.zip.blockmap
+- name: bruno_4.0.0_x64_win.exe
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_win.exe
+- name: bruno_4.0.0_x64_win.exe.blockmap
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_win.exe.blockmap
+- name: bruno_4.0.0_x64_win.msi
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_win.msi
+- name: bruno_4.0.0_x64_win.zip
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x64_win.zip
+- name: bruno_4.0.0_x86_64_linux.AppImage
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x86_64_linux.AppImage
+- name: bruno_4.0.0_x86_64_linux.rpm
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_x86_64_linux.rpm
 - name: latest-arm64.yml
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/latest-arm64.yml
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/latest-arm64.yml
 - name: latest-linux-arm64.yml
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/latest-linux-arm64.yml
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/latest-linux.yml
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/latest-mac.yml
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/usebruno/bruno/releases/download/v3.5.3/latest.yml
-latest: v3.5.3
-src: https://github.com/usebruno/bruno/archive/refs/tags/v3.5.3.zip
+  url: https://github.com/usebruno/bruno/releases/download/v4.0.0/latest.yml
+latest: v4.0.0
+src: https://github.com/usebruno/bruno/archive/refs/tags/v4.0.0.zip
 we_tried: we0:v3.5.3
 evidence:
   kind: binary

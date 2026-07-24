@@ -167,7 +167,7 @@ Apps with detected Electron version: 1754 / 2092
 | [Bookmarks Manager](https://github.com/Hunlongyu/bookmarks-manager) [[repo]](https://github.com/Hunlongyu/bookmarks-manager) | 15.5.7 ⚠️ | 4y 2mo ago | aur-depends |
 | [Bookord](https://github.com/LiprikON2/Bookord) [[repo]](https://github.com/LiprikON2/Bookord) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
 | [Boost Changer](https://github.com/nbebaw/boostchanger) [[repo]](https://github.com/nbebaw/boostchanger) | 40.8.0 ⚠️ | 4mo ago | src-package-lock |
-| [Boostnote.Next](https://boostnote.io/) [[repo]](https://github.com/BoostIO/BoostNote-App) | 12.2.3 ⚠️ | 4y 9mo ago | which-electron-fingerprint |
+| [Boostnote.Next](https://boostnote.io/) [[repo]](https://github.com/BoostIO/BoostNote-App) | 12.2.3 ⚠️ | 4y 9mo ago | which-electron-rg |
 | [Bootstrap Studio](https://bootstrapstudio.io/) | 37.10.3 ⚠️ | 7mo ago | which-electron-rg |
 | [Borg Explorer](https://github.com/Netruk44/borg-repository-explorer) [[repo]](https://github.com/Netruk44/borg-repository-explorer) | 22.3.27 ⚠️ | 2y 9mo ago | aur-depends |
 | [Boson](https://albireox.github.io/boson/) | 41.10.2 ⚠️ | 9d ago | aur-depends |
@@ -594,7 +594,7 @@ Apps with detected Electron version: 1754 / 2092
 | [Godot Launcher](https://godotlauncher.org/) | 41.10.2 ⚠️ | 9d ago | aur-depends |
 | [Godspeed](https://godspeedapp.com/) | 37.10.3 ⚠️ | 7mo ago | which-electron-rg |
 | [Gomoon](https://gomoon.top/) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
-| [Goofcord](https://github.com/Milkshiift/GoofCord) [[repo]](https://github.com/Milkshiift/GoofCord) | 43.1.0 ⚠️ | 16d ago | which-electron-rg |
+| [Goofcord](https://github.com/Milkshiift/GoofCord) [[repo]](https://github.com/Milkshiift/GoofCord) | 43.1.1 ⚠️ | 9d ago | which-electron-rg |
 | [Google Calender Widget](https://github.com/p32929/google-calender-widget) [[repo]](https://github.com/p32929/google-calender-widget) | 38.8.6 ⚠️ | 4mo ago | aur-depends |
 | [Google Docs](https://github.com/Comp-Labs/Google-Docs) [[repo]](https://github.com/Comp-Labs/Google-Docs) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
 | [Google Messages](https://gitlab.com/linuxbombay/googlemessages) | 39.8.10 ⚠️ | 2mo ago | aur-depends |

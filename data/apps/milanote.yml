@@ -12,3 +12,8 @@ downloads:
   version: 3.18.115
 electron: 38.2.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://milanote-app-releases.s3.amazonaws.com/Milanote-3.18.115.dmg
+  found_in: Milanote-3.18.115.dmg
+  signal: which-electron rg signal

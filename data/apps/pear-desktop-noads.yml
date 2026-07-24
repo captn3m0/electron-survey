@@ -72,3 +72,8 @@ downloads:
   url: https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music_3.12.0_arm64.deb
 - name: youtube-music_3.12.0_armv7l.deb
   url: https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music_3.12.0_armv7l.deb
+evidence:
+  kind: binary
+  source: https://github.com/pear-devs/pear-desktop/releases/download/v3.12.0/youtube-music-3.12.0.aarch64.rpm
+  found_in: youtube-music-3.12.0.aarch64.rpm
+  signal: which-electron rg signal

@@ -27,3 +27,8 @@ electron: 38.7.1
 method: which-electron-rg
 latest: v260722.1.0
 src: https://github.com/amieso/electron-releases/archive/refs/tags/v260722.1.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/amieso/electron-releases/releases/download/v260722.1.0/Amie-260722.1.0-arm64-mac.zip
+  found_in: Amie-260722.1.0-arm64-mac.zip
+  signal: which-electron rg signal

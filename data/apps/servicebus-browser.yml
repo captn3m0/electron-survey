@@ -6,17 +6,17 @@ aur:
 - servicebus-browser-bin
 electron: 43.1.1
 method: aur-depends
-latest: 2.3.1
-src: https://github.com/mligtenberg/ServicebusBrowser/archive/refs/tags/2.3.1.zip
+latest: 2.3.2
+src: https://github.com/mligtenberg/ServicebusBrowser/archive/refs/tags/2.3.2.zip
 downloads:
 - name: servicebus-browser-linux.AppImage
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.1/servicebus-browser-linux.AppImage
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-linux.AppImage
 - name: servicebus-browser-mac-arm64.dmg
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.1/servicebus-browser-mac-arm64.dmg
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-mac-arm64.dmg
 - name: servicebus-browser-mac-arm64.zip
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.1/servicebus-browser-mac-arm64.zip
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-mac-arm64.zip
 - name: servicebus-browser-windows.exe
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.1/servicebus-browser-windows.exe
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-windows.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/servicebus-browser-bin

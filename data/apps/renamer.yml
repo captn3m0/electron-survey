@@ -25,3 +25,8 @@ electron: 42.5.0
 method: which-electron-rg
 latest: v7.3.2
 src: https://github.com/incbee/renamer-7-releases/archive/refs/tags/v7.3.2.zip
+evidence:
+  kind: binary
+  source: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.2/Renamer-7.3.2-universal-mac.zip
+  found_in: Renamer-7.3.2-universal-mac.zip
+  signal: which-electron rg signal

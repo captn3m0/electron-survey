@@ -38,3 +38,8 @@ downloads:
 - name: RELEASES
   url: https://github.com/keyboardio/Chrysalis/releases/download/v0.13.3/RELEASES
 homebrew: chrysalis
+evidence:
+  kind: binary
+  source: https://github.com/keyboardio/Chrysalis/releases/download/v0.13.3/Chrysalis-0.13.3-x64.AppImage
+  found_in: Chrysalis-0.13.3-x64.AppImage
+  signal: which-electron rg signal (2 signals agreed)

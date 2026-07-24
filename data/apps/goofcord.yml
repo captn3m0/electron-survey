@@ -4,7 +4,7 @@ website: https://github.com/Milkshiift/GoofCord
 repository: https://github.com/Milkshiift/GoofCord
 aur:
 - goofcord-bin
-electron: 43.1.0
+electron: 43.1.1
 method: which-electron-rg
 latest: v2.3.0
 src: https://github.com/Milkshiift/GoofCord/archive/refs/tags/v2.3.0.zip
@@ -49,3 +49,8 @@ downloads:
   url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-ia32.exe
 - name: GoofCord-Setup-x64.exe
   url: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-Setup-x64.exe
+evidence:
+  kind: binary
+  source: https://github.com/Milkshiift/GoofCord/releases/download/v2.3.0/GoofCord-2.3.0-linux-aarch64.rpm
+  found_in: GoofCord-2.3.0-linux-aarch64.rpm
+  signal: which-electron rg signal

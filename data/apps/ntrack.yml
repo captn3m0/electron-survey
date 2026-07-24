@@ -6,37 +6,41 @@ aur:
 - ntrack-bin
 electron: 36.9.5
 method: aur-depends
-latest: 1.5.0
-src: https://github.com/kutay-celebi/ntracker/archive/refs/tags/1.5.0.zip
+latest: 1.5.1
+src: https://github.com/kutay-celebi/ntracker/archive/refs/tags/1.5.1.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/latest-linux.yml
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/latest-mac.yml
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/latest.yml
-- name: NTrack-1.5.0-arm64-mac.zip
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/NTrack-1.5.0-arm64-mac.zip
-- name: NTrack-1.5.0-arm64-mac.zip.blockmap
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/NTrack-1.5.0-arm64-mac.zip.blockmap
-- name: NTrack-1.5.0-mac.zip
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/NTrack-1.5.0-mac.zip
-- name: NTrack-1.5.0-mac.zip.blockmap
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/NTrack-1.5.0-mac.zip.blockmap
-- name: ntrack-1.5.0-setup.exe
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack-1.5.0-setup.exe
-- name: ntrack-1.5.0-setup.exe.blockmap
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack-1.5.0-setup.exe.blockmap
-- name: ntrack-1.5.0.AppImage
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack-1.5.0.AppImage
-- name: ntrack-1.5.0.dmg
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack-1.5.0.dmg
-- name: ntrack-1.5.0.dmg.blockmap
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack-1.5.0.dmg.blockmap
-- name: NTrack-1.5.0.exe
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/NTrack-1.5.0.exe
-- name: ntrack_1.5.0_amd64.deb
-  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.0/ntrack_1.5.0_amd64.deb
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/latest.yml
+- name: NTrack-1.5.1-arm64-mac.zip
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/NTrack-1.5.1-arm64-mac.zip
+- name: NTrack-1.5.1-arm64-mac.zip.blockmap
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/NTrack-1.5.1-arm64-mac.zip.blockmap
+- name: ntrack-1.5.1-arm64.dmg
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1-arm64.dmg
+- name: ntrack-1.5.1-arm64.dmg.blockmap
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1-arm64.dmg.blockmap
+- name: NTrack-1.5.1-mac.zip
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/NTrack-1.5.1-mac.zip
+- name: NTrack-1.5.1-mac.zip.blockmap
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/NTrack-1.5.1-mac.zip.blockmap
+- name: ntrack-1.5.1-setup.exe
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1-setup.exe
+- name: ntrack-1.5.1-setup.exe.blockmap
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1-setup.exe.blockmap
+- name: ntrack-1.5.1-x64.dmg
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1-x64.dmg
+- name: ntrack-1.5.1-x64.dmg.blockmap
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1-x64.dmg.blockmap
+- name: ntrack-1.5.1.AppImage
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack-1.5.1.AppImage
+- name: NTrack-1.5.1.exe
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/NTrack-1.5.1.exe
+- name: ntrack_1.5.1_amd64.deb
+  url: https://github.com/kutay-celebi/ntracker/releases/download/1.5.1/ntrack_1.5.1_amd64.deb
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/ntrack-bin

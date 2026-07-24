@@ -14,3 +14,8 @@ downloads:
 - url: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg
   name: SendAnywhere_1783999839.dmg
   version: 24.6.1,1783999839
+evidence:
+  kind: binary
+  source: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg
+  found_in: SendAnywhere_1783999839.dmg
+  signal: which-electron rg signal

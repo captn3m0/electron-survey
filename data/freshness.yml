@@ -28,7 +28,7 @@
   chromium: 45.0.2454.85
   chromium_major: 45
   chromium_majors_behind: 105
-  chromium_days_behind: 3877
+  chromium_days_behind: 3878
   cves_critical: 277
   cves_high: 2259
   cves_total: 4262
@@ -147,7 +147,7 @@ advanced-rest-client:
   chromium: 98.0.4758.102
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -206,7 +206,7 @@ aesir-wallet:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -291,7 +291,7 @@ ai-assistant-studio:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -376,7 +376,7 @@ aider-desk:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -410,7 +410,7 @@ aihub:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -784,7 +784,7 @@ altus:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -1022,7 +1022,7 @@ aniparser:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -1107,7 +1107,7 @@ antsword:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -1328,7 +1328,7 @@ archiver-app:
   electron: 38.4.0
   major: 38
   age_label: 9mo ago
-  age_days: 274
+  age_days: 275
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -1702,7 +1702,7 @@ aya:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -1719,7 +1719,7 @@ azure-data-studio:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -1736,7 +1736,7 @@ azure-storage-explorer:
   electron: 41.1.0
   major: 41
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -1821,7 +1821,7 @@ baidunetdisk:
   electron: 26.2.0
   major: 26
   age_label: 2y 11mo ago
-  age_days: 1050
+  age_days: 1051
   eol: true
   majors_behind: 17
   latest_in_major: 26.6.10
@@ -2110,7 +2110,7 @@ beekeeper-studio:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -2127,7 +2127,7 @@ beeper:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -2331,7 +2331,7 @@ bili-liveluckdraw:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -2552,7 +2552,7 @@ bitwarden:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -2671,7 +2671,7 @@ blueknight:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -2994,7 +2994,7 @@ brim:
   electron: 30.0.5
   major: 30
   age_label: 2y 2mo ago
-  age_days: 799
+  age_days: 800
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -3275,7 +3275,7 @@ cacher:
   chromium: 98.0.4758.109
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -3487,7 +3487,7 @@ cc-map-editor:
   electron: 38.2.0
   major: 38
   age_label: 9mo ago
-  age_days: 298
+  age_days: 299
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -3504,7 +3504,7 @@ ccae:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -3606,7 +3606,7 @@ charta:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -3674,7 +3674,7 @@ chatbox:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -3759,7 +3759,7 @@ chatlab:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -3810,7 +3810,7 @@ chatterbox:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -3844,7 +3844,7 @@ cheating-daddy:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -3895,7 +3895,7 @@ chess:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -3912,7 +3912,7 @@ chia:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -3980,7 +3980,7 @@ chronos:
   electron: 27.0.0
   major: 27
   age_label: 2y 9mo ago
-  age_days: 1017
+  age_days: 1018
   eol: true
   majors_behind: 16
   latest_in_major: 27.3.11
@@ -4065,7 +4065,7 @@ circle-chain:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -4082,7 +4082,7 @@ circuitjs:
   electron: 27.0.0
   major: 27
   age_label: 2y 9mo ago
-  age_days: 1017
+  age_days: 1018
   eol: true
   majors_behind: 16
   latest_in_major: 27.3.11
@@ -4184,7 +4184,7 @@ clickup:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -4218,7 +4218,7 @@ clipharbor:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -4286,7 +4286,7 @@ clippy-git:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -4371,7 +4371,7 @@ cmc-mod-manager:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -4507,7 +4507,7 @@ codefuse-ide:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -4541,7 +4541,7 @@ codex:
   electron: 32.3.1
   major: 32
   age_label: 1y 5mo ago
-  age_days: 524
+  age_days: 525
   eol: true
   majors_behind: 11
   latest_in_major: 32.3.3
@@ -4626,7 +4626,7 @@ colorpicker:
   electron: 38.2.0
   major: 38
   age_label: 9mo ago
-  age_days: 298
+  age_days: 299
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -4643,7 +4643,7 @@ colour-contrast-analyser:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -4762,7 +4762,7 @@ compasscad:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -5221,7 +5221,7 @@ curseforge:
   electron: 39.6.1
   major: 39
   age_label: 5mo ago
-  age_days: 154
+  age_days: 155
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -5621,7 +5621,7 @@ dbglass:
   chromium: 53.0.2785.113
   chromium_major: 53
   chromium_majors_behind: 97
-  chromium_days_behind: 3512
+  chromium_days_behind: 3513
   cves_critical: 258
   cves_high: 2138
   cves_total: 4061
@@ -5731,7 +5731,7 @@ deemix-gui-git:
   electron: 37.2.6
   major: 37
   age_label: 11mo ago
-  age_days: 351
+  age_days: 352
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -6054,7 +6054,7 @@ devhub:
   electron: 11.0.3
   major: 11
   age_label: 5y 8mo ago
-  age_days: 2067
+  age_days: 2068
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -6241,7 +6241,7 @@ dilidili:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -6394,7 +6394,7 @@ dnd-overlay-tool:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -6564,7 +6564,7 @@ drawdb-client:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -6955,7 +6955,7 @@ elcalc:
   electron: 6.0.7
   major: 6
   age_label: 6y 11mo ago
-  age_days: 2518
+  age_days: 2519
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -7125,7 +7125,7 @@ electron-ffmpeg:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -7227,7 +7227,7 @@ electron-netease-cloud-music-bin:
   electron: 35.0.1
   major: 35
   age_label: 1y 4mo ago
-  age_days: 500
+  age_days: 501
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -7278,7 +7278,7 @@ electron-s3-file-manager:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -7312,7 +7312,7 @@ electron-widgets:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -7618,7 +7618,7 @@ embertune:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -7669,7 +7669,7 @@ encrypt0r:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -7839,7 +7839,7 @@ etcd-manager:
   electron: 6.1.9
   major: 6
   age_label: 6y 5mo ago
-  age_days: 2337
+  age_days: 2338
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -8052,7 +8052,7 @@ excel-parser-processor:
   chromium: 98.0.4758.74
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 186
   cves_high: 1463
   cves_total: 2713
@@ -8111,7 +8111,7 @@ expertisex:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -8154,7 +8154,7 @@ explorer:
   chromium: 45.0.2454.85
   chromium_major: 45
   chromium_majors_behind: 105
-  chromium_days_behind: 3877
+  chromium_days_behind: 3878
   cves_critical: 277
   cves_high: 2259
   cves_total: 4262
@@ -8162,7 +8162,7 @@ expresslrs-configurator:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -8264,7 +8264,7 @@ falkor:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -8434,7 +8434,7 @@ ferrum-git:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -8502,7 +8502,7 @@ fifo:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -8519,7 +8519,7 @@ figma-linux:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -8655,7 +8655,7 @@ firecamp:
   electron: 12.0.0
   major: 12
   age_label: 5y 5mo ago
-  age_days: 1969
+  age_days: 1970
   eol: true
   majors_behind: 31
   latest_in_major: 12.2.3
@@ -8740,7 +8740,7 @@ flare-player:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -8893,7 +8893,7 @@ flow-browser:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -8927,7 +8927,7 @@ fluent-reader:
   electron: 41.1.0
   major: 41
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -8944,7 +8944,7 @@ flyenv:
   electron: 39.8.7
   major: 39
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -9012,7 +9012,7 @@ fontbase:
   electron: 39.6.1
   major: 39
   age_label: 5mo ago
-  age_days: 154
+  age_days: 155
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -9114,7 +9114,7 @@ frame:
   electron: 23.1.3
   major: 23
   age_label: 3y 5mo ago
-  age_days: 1233
+  age_days: 1234
   eol: true
   majors_behind: 20
   latest_in_major: 23.3.13
@@ -9165,7 +9165,7 @@ franz:
   electron: 33.3.0
   major: 33
   age_label: 1y 7mo ago
-  age_days: 595
+  age_days: 596
   eol: true
   majors_behind: 10
   latest_in_major: 33.4.11
@@ -9199,7 +9199,7 @@ freecord:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -9386,7 +9386,7 @@ frpc-desktop:
   electron: 39.8.4
   major: 39
   age_label: 4mo ago
-  age_days: 120
+  age_days: 121
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -9420,7 +9420,7 @@ ftb:
   electron: 39.6.1
   major: 39
   age_label: 5mo ago
-  age_days: 154
+  age_days: 155
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -9539,7 +9539,7 @@ fvtt-player-client:
   electron: 29.4.5
   major: 29
   age_label: 2y ago
-  age_days: 736
+  age_days: 737
   eol: true
   majors_behind: 14
   latest_in_major: 29.4.6
@@ -9760,7 +9760,7 @@ geforcenow:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -9845,7 +9845,7 @@ geogebra:
   electron: 38.2.0
   major: 38
   age_label: 9mo ago
-  age_days: 298
+  age_days: 299
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -10233,16 +10233,16 @@ gomoon:
   cves_high: 1053
   cves_total: 2071
 goofcord:
-  electron: 43.1.0
+  electron: 43.1.1
   major: 43
-  age_label: 16d ago
-  age_days: 16
+  age_label: 9d ago
+  age_days: 9
   eol: false
   majors_behind: 0
   latest_in_major: 43.2.0
-  patches_behind: 2
+  patches_behind: 1
   status: green
-  chromium: 150.0.7871.47
+  chromium: 150.0.7871.114
   chromium_major: 150
   chromium_majors_behind: 0
   chromium_days_behind: 0
@@ -10364,7 +10364,7 @@ graphiql:
   chromium: 53.0.2785.143
   chromium_major: 53
   chromium_majors_behind: 97
-  chromium_days_behind: 3512
+  chromium_days_behind: 3513
   cves_critical: 257
   cves_high: 2137
   cves_total: 4059
@@ -10406,7 +10406,7 @@ graycrown:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -10457,7 +10457,7 @@ gridtracker2:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -10636,7 +10636,7 @@ hamsket:
   chromium: 98.0.4758.102
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -10933,7 +10933,7 @@ hexhoot:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -10950,7 +10950,7 @@ hexo:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -11103,7 +11103,7 @@ homura:
   electron: 11.2.1
   major: 11
   age_label: 5y 6mo ago
-  age_days: 2007
+  age_days: 2008
   eol: true
   majors_behind: 32
   latest_in_major: 11.5.0
@@ -11205,7 +11205,7 @@ httptoolkit:
   electron: 39.8.7
   major: 39
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -11222,7 +11222,7 @@ huaweicloudmeeting:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -11273,7 +11273,7 @@ hugin-messenger:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -11460,7 +11460,7 @@ icloud-notes:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -11477,7 +11477,7 @@ iconset:
   electron: 18.0.0
   major: 18
   age_label: 4y 4mo ago
-  age_days: 1577
+  age_days: 1578
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -11885,7 +11885,7 @@ inkdown-bin:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -11996,7 +11996,7 @@ interactive-data-editor:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -12055,7 +12055,7 @@ invizi:
   electron: 8.3.0
   major: 8
   age_label: 6y 3mo ago
-  age_days: 2260
+  age_days: 2261
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -12140,7 +12140,7 @@ issie:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -12208,7 +12208,7 @@ jandi:
   electron: 21.4.3
   major: 21
   age_label: 3y 4mo ago
-  age_days: 1225
+  age_days: 1226
   eol: true
   majors_behind: 22
   latest_in_major: 21.4.4
@@ -12293,7 +12293,7 @@ jbrowse:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -12344,7 +12344,7 @@ jitsi-meet-desktop:
   electron: 41.1.0
   major: 41
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -12412,7 +12412,7 @@ journey:
   electron: 6.1.7
   major: 6
   age_label: 6y 8mo ago
-  age_days: 2410
+  age_days: 2411
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -12446,7 +12446,7 @@ joy-xtream-player:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -12735,7 +12735,7 @@ kando:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -13075,7 +13075,7 @@ kindle-companion:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -13203,7 +13203,7 @@ knowte:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -13364,7 +13364,7 @@ kuro:
   electron: 37.3.1
   major: 37
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -13560,7 +13560,7 @@ lbry-desktop:
   chromium: 98.0.4758.109
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -13704,7 +13704,7 @@ legcord:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -13806,7 +13806,7 @@ less-reader:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -13857,7 +13857,7 @@ libgendesktop:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -13985,7 +13985,7 @@ linked:
   chromium: 98.0.4758.74
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 186
   cves_high: 1463
   cves_total: 2713
@@ -14265,7 +14265,7 @@ lode:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -14571,7 +14571,7 @@ lyrically:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -14588,7 +14588,7 @@ lyricistant:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -14690,7 +14690,7 @@ macintoshjs:
   electron: 23.1.3
   major: 23
   age_label: 3y 5mo ago
-  age_days: 1233
+  age_days: 1234
   eol: true
   majors_behind: 20
   latest_in_major: 23.3.13
@@ -14724,7 +14724,7 @@ maestro-ai:
   electron: 41.6.0
   major: 41
   age_label: 2mo ago
-  age_days: 70
+  age_days: 71
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -14741,7 +14741,7 @@ magicavoxel-launcher:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -14911,7 +14911,7 @@ marchen:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -15166,7 +15166,7 @@ mattermost:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -15353,7 +15353,7 @@ mediago:
   electron: 41.1.0
   major: 41
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -15387,7 +15387,7 @@ megacubo:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -15404,7 +15404,7 @@ melodie:
   electron: 18.0.0
   major: 18
   age_label: 4y 4mo ago
-  age_days: 1577
+  age_days: 1578
   eol: true
   majors_behind: 25
   latest_in_major: 18.3.15
@@ -15642,7 +15642,7 @@ milanote:
   electron: 38.2.0
   major: 38
   age_label: 9mo ago
-  age_days: 298
+  age_days: 299
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -15710,7 +15710,7 @@ mini-diary:
   electron: 8.3.0
   major: 8
   age_label: 6y 3mo ago
-  age_days: 2260
+  age_days: 2261
   eol: true
   majors_behind: 35
   latest_in_major: 8.5.5
@@ -15880,7 +15880,7 @@ miuzcpc:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -16322,7 +16322,7 @@ mouse-automator:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -16441,7 +16441,7 @@ ms-365:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -16577,7 +16577,7 @@ multiple-file-manager:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -16798,7 +16798,7 @@ mybox:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -17444,7 +17444,7 @@ nora:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -17631,7 +17631,7 @@ notifica-task:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -17682,7 +17682,7 @@ novel-tree:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -17716,7 +17716,7 @@ nucleo:
   electron: 32.1.2
   major: 32
   age_label: 1y 10mo ago
-  age_days: 671
+  age_days: 672
   eol: true
   majors_behind: 11
   latest_in_major: 32.3.3
@@ -17750,7 +17750,7 @@ nudelta:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -17827,7 +17827,7 @@ nxshell:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -17835,7 +17835,7 @@ o-vault:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -17937,7 +17937,7 @@ odoo-manager:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -18107,7 +18107,7 @@ onemouse:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -18549,7 +18549,7 @@ ostara:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -18566,7 +18566,7 @@ out-of-mind:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -18600,7 +18600,7 @@ outerbase-studio:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -18668,7 +18668,7 @@ overt:
   electron: 32.2.7
   major: 32
   age_label: 1y 7mo ago
-  age_days: 595
+  age_days: 596
   eol: true
   majors_behind: 11
   latest_in_major: 32.3.3
@@ -18872,7 +18872,7 @@ panda:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -18957,7 +18957,7 @@ papercubes:
   electron: 1.7.8
   major: 1
   age_label: 8y 11mo ago
-  age_days: 3224
+  age_days: 3225
   eol: false
   majors_behind: 42
   latest_in_major: 1.8.8
@@ -19025,7 +19025,7 @@ paragraph-editor:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -19110,7 +19110,7 @@ paseo:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -19263,7 +19263,7 @@ pdfkit:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -19433,7 +19433,7 @@ pendulums:
   electron: 6.0.7
   major: 6
   age_label: 6y 11mo ago
-  age_days: 2518
+  age_days: 2519
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -19688,7 +19688,7 @@ pickle-glass:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -19918,7 +19918,7 @@ playback:
   chromium: 45.0.2454.85
   chromium_major: 45
   chromium_majors_behind: 105
-  chromium_days_behind: 3877
+  chromium_days_behind: 3878
   cves_critical: 277
   cves_high: 2259
   cves_total: 4262
@@ -19960,7 +19960,7 @@ plexamp:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -20045,7 +20045,7 @@ poddycast-app:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -20164,7 +20164,7 @@ polyglot:
   electron: 23.1.3
   major: 23
   age_label: 3y 5mo ago
-  age_days: 1233
+  age_days: 1234
   eol: true
   majors_behind: 20
   latest_in_major: 23.3.13
@@ -20521,7 +20521,7 @@ pretzel:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -20589,7 +20589,7 @@ pritunl:
   electron: 32.1.2
   major: 32
   age_label: 1y 10mo ago
-  age_days: 671
+  age_days: 672
   eol: true
   majors_behind: 11
   latest_in_major: 32.3.3
@@ -20649,7 +20649,7 @@ projscope-music-player:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -20861,7 +20861,7 @@ pulsar-edit:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -21133,7 +21133,7 @@ quark:
   electron: 6.0.10
   major: 6
   age_label: 6y 11mo ago
-  age_days: 2499
+  age_days: 2500
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -21303,7 +21303,7 @@ r5-wallet:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -21371,7 +21371,7 @@ rambox:
   electron: 13.6.3
   major: 13
   age_label: 4y 8mo ago
-  age_days: 1695
+  age_days: 1696
   eol: true
   majors_behind: 30
   latest_in_major: 13.6.9
@@ -21405,7 +21405,7 @@ rao-pics:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -21694,7 +21694,7 @@ rem-rclone:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -21847,7 +21847,7 @@ reor:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -22000,7 +22000,7 @@ reticulum-meshchat:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -22060,7 +22060,7 @@ ricoh-theta:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -22612,7 +22612,7 @@ sculptor:
   electron: 37.2.6
   major: 37
   age_label: 11mo ago
-  age_days: 351
+  age_days: 352
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -22629,7 +22629,7 @@ sdm:
   electron: 37.3.1
   major: 37
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -22680,7 +22680,7 @@ sejda-pdf-desktop:
   electron: 37.3.1
   major: 37
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -22816,7 +22816,7 @@ ses:
   electron: 6.1.9
   major: 6
   age_label: 6y 5mo ago
-  age_days: 2337
+  age_days: 2338
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -23029,7 +23029,7 @@ shoppinglist:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -23530,7 +23530,7 @@ slack:
   electron: 40.8.2
   major: 40
   age_label: 4mo ago
-  age_days: 132
+  age_days: 133
   eol: true
   majors_behind: 3
   latest_in_major: 40.10.6
@@ -23632,7 +23632,7 @@ smartsub:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -23700,7 +23700,7 @@ snipcommand:
   electron: 9.3.0
   major: 9
   age_label: 5y 11mo ago
-  age_days: 2149
+  age_days: 2150
   eol: true
   majors_behind: 34
   latest_in_major: 9.4.4
@@ -24040,7 +24040,7 @@ source-me:
   electron: 1.7.8
   major: 1
   age_label: 8y 11mo ago
-  age_days: 3224
+  age_days: 3225
   eol: false
   majors_behind: 42
   latest_in_major: 1.8.8
@@ -24057,7 +24057,7 @@ southweather:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -24210,7 +24210,7 @@ spine-viewer-vue:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -24227,7 +24227,7 @@ spine-viewer:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -24261,7 +24261,7 @@ splice:
   electron: 38.4.0
   major: 38
   age_label: 9mo ago
-  age_days: 274
+  age_days: 275
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -24499,7 +24499,7 @@ stacker:
   electron: 6.1.9
   major: 6
   age_label: 6y 5mo ago
-  age_days: 2337
+  age_days: 2338
   eol: true
   majors_behind: 37
   latest_in_major: 6.1.12
@@ -24576,7 +24576,7 @@ standard-notes:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -24788,7 +24788,7 @@ stopawu:
   electron: 16.0.4
   major: 16
   age_label: 4y 8mo ago
-  age_days: 1693
+  age_days: 1694
   eol: true
   majors_behind: 27
   latest_in_major: 16.2.8
@@ -24822,7 +24822,7 @@ streaker:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -24856,7 +24856,7 @@ stremio-enhanced-git:
   electron: 41.1.0
   major: 41
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -25162,7 +25162,7 @@ swesence:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -25417,7 +25417,7 @@ taskana:
   electron: 35.0.2
   major: 35
   age_label: 1y 4mo ago
-  age_days: 494
+  age_days: 495
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -25681,7 +25681,7 @@ tess:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -25689,7 +25689,7 @@ tetrio:
   electron: 37.3.1
   major: 37
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -25715,7 +25715,7 @@ texpaste:
   chromium: 98.0.4758.74
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 186
   cves_high: 1463
   cves_total: 2713
@@ -25791,7 +25791,7 @@ the-password-manager:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -25808,7 +25808,7 @@ thedesk-client:
   electron: 37.7.1
   major: 37
   age_label: 9mo ago
-  age_days: 274
+  age_days: 275
   eol: true
   majors_behind: 6
   latest_in_major: 37.10.3
@@ -26233,7 +26233,7 @@ tmax:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -26386,7 +26386,7 @@ tomedb:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -26403,7 +26403,7 @@ topzl:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -26531,7 +26531,7 @@ trello:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -26539,7 +26539,7 @@ treo:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -27058,7 +27058,7 @@ unoffical-wallhaven:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -27627,7 +27627,7 @@ vnite:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -27695,7 +27695,7 @@ void:
   electron: 34.3.2
   major: 34
   age_label: 1y 4mo ago
-  age_days: 500
+  age_days: 501
   eol: true
   majors_behind: 9
   latest_in_major: 34.5.8
@@ -27712,7 +27712,7 @@ voiden:
   electron: 39.8.8
   major: 39
   age_label: 3mo ago
-  age_days: 98
+  age_days: 99
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -27882,7 +27882,7 @@ vulpidl:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -27967,7 +27967,7 @@ walc:
   electron: 20.3.12
   major: 20
   age_label: 3y 6mo ago
-  age_days: 1260
+  age_days: 1261
   eol: true
   majors_behind: 23
   latest_in_major: 20.3.12
@@ -28018,7 +28018,7 @@ wave-terminal:
   electron: 41.1.0
   major: 41
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -28103,7 +28103,7 @@ webcatalog:
   electron: 41.0.4
   major: 41
   age_label: 4mo ago
-  age_days: 120
+  age_days: 121
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -28197,7 +28197,7 @@ webkitty:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -28341,7 +28341,7 @@ whalebird:
   electron: 39.8.7
   major: 39
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -28392,7 +28392,7 @@ windows95:
   electron: 41.2.0
   major: 41
   age_label: 3mo ago
-  age_days: 106
+  age_days: 107
   eol: false
   majors_behind: 2
   latest_in_major: 41.10.3
@@ -28460,7 +28460,7 @@ witsy:
   electron: 38.2.0
   major: 38
   age_label: 9mo ago
-  age_days: 298
+  age_days: 299
   eol: true
   majors_behind: 5
   latest_in_major: 38.8.6
@@ -28579,7 +28579,7 @@ woocommerce-pos:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -28698,7 +28698,7 @@ wp:
   electron: 39.8.5
   major: 39
   age_label: 3mo ago
-  age_days: 118
+  age_days: 119
   eol: true
   majors_behind: 4
   latest_in_major: 39.8.10
@@ -28766,7 +28766,7 @@ xc-music-electron:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -28928,7 +28928,7 @@ y2mp3:
   chromium: 98.0.4758.141
   chromium_major: 98
   chromium_majors_behind: 52
-  chromium_days_behind: 1577
+  chromium_days_behind: 1578
   cves_critical: 184
   cves_high: 1441
   cves_total: 2685
@@ -28936,7 +28936,7 @@ yahee-music-player:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -29310,7 +29310,7 @@ youtube-transcript-fetcher:
   electron: 35.7.5
   major: 35
   age_label: 11mo ago
-  age_days: 338
+  age_days: 339
   eol: true
   majors_behind: 8
   latest_in_major: 35.7.5
@@ -29395,7 +29395,7 @@ ytdownloader:
   electron: 30.5.1
   major: 30
   age_label: 1y 10mo ago
-  age_days: 678
+  age_days: 679
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1
@@ -29701,7 +29701,7 @@ zui:
   electron: 30.0.5
   major: 30
   age_label: 2y 2mo ago
-  age_days: 799
+  age_days: 800
   eol: true
   majors_behind: 13
   latest_in_major: 30.5.1

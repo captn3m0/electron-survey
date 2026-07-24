@@ -4,19 +4,18 @@ website: https://github.com/sohzm/cheating-daddy
 repository: https://github.com/sohzm/cheating-daddy
 aur:
 - cheating-daddy
-latest: v0.7.0
-src: https://github.com/sohzm/cheating-daddy/archive/refs/tags/v0.7.0.zip
+latest: v0.8.0
+src: https://github.com/sohzm/cheating-daddy/archive/refs/tags/v0.8.0.zip
 downloads:
-- name: Cheating.Daddy-0.7.0-arm64.dmg
-  url: https://github.com/sohzm/cheating-daddy/releases/download/v0.7.0/Cheating.Daddy-0.7.0-arm64.dmg
-- name: Cheating.Daddy-0.7.0.Setup.exe
-  url: https://github.com/sohzm/cheating-daddy/releases/download/v0.7.0/Cheating.Daddy-0.7.0.Setup.exe
+- name: Cheating.Daddy-0.8.0-arm64.dmg
+  url: https://github.com/sohzm/cheating-daddy/releases/download/v0.8.0/Cheating.Daddy-0.8.0-arm64.dmg
+- name: Cheating.Daddy-0.8.0.Setup.exe
+  url: https://github.com/sohzm/cheating-daddy/releases/download/v0.8.0/Cheating.Daddy-0.8.0.Setup.exe
 electron: 30.5.1
 method: src-package-lock
-electron_src: https://github.com/sohzm/cheating-daddy/archive/refs/tags/v0.7.0.zip
+electron_src: https://github.com/sohzm/cheating-daddy/archive/refs/tags/v0.8.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Asohzm%2Fcheating-daddy+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: cheating-daddy-0.8.0/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/sohzm/cheating-daddy/archive/refs/tags/v0.8.0.zip

@@ -47,6 +47,11 @@ downloads:
 - name: latest.yml
   url: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/latest.yml
 electron: 12.2.3
-method: which-electron-fingerprint
+method: which-electron-rg
 latest: v0.23.1
 src: https://github.com/BoostIO/BoostNote-App/archive/refs/tags/v0.23.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.rpm
+  found_in: boost-note-linux.rpm
+  signal: which-electron rg signal

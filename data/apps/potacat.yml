@@ -4,42 +4,42 @@ website: https://github.com/Waffleslop/POTACAT
 repository: https://github.com/Waffleslop/POTACAT
 aur:
 - potacat
-latest: v1.9.18
-src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.18.zip
+latest: v1.9.20
+src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.20.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/latest-linux-arm64.yml
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/latest-linux.yml
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/latest-mac.yml
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/latest.yml
-- name: POTACAT-1.9.18-arm64.AppImage
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/POTACAT-1.9.18-arm64.AppImage
-- name: POTACAT-1.9.18-arm64.dmg
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/POTACAT-1.9.18-arm64.dmg
-- name: potacat-1.9.18.aarch64.rpm
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/potacat-1.9.18.aarch64.rpm
-- name: POTACAT-1.9.18.AppImage
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/POTACAT-1.9.18.AppImage
-- name: POTACAT-1.9.18.dmg
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/POTACAT-1.9.18.dmg
-- name: potacat-1.9.18.x86_64.rpm
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/potacat-1.9.18.x86_64.rpm
-- name: POTACAT-Portable-1.9.18.exe
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/POTACAT-Portable-1.9.18.exe
-- name: POTACAT-Setup-1.9.18.exe
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/POTACAT-Setup-1.9.18.exe
-- name: potacat_1.9.18_amd64.deb
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/potacat_1.9.18_amd64.deb
-- name: potacat_1.9.18_arm64.deb
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.18/potacat_1.9.18_arm64.deb
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/latest.yml
+- name: POTACAT-1.9.20-arm64.AppImage
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/POTACAT-1.9.20-arm64.AppImage
+- name: POTACAT-1.9.20-arm64.dmg
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/POTACAT-1.9.20-arm64.dmg
+- name: potacat-1.9.20.aarch64.rpm
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/potacat-1.9.20.aarch64.rpm
+- name: POTACAT-1.9.20.AppImage
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/POTACAT-1.9.20.AppImage
+- name: POTACAT-1.9.20.dmg
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/POTACAT-1.9.20.dmg
+- name: potacat-1.9.20.x86_64.rpm
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/potacat-1.9.20.x86_64.rpm
+- name: POTACAT-Portable-1.9.20.exe
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/POTACAT-Portable-1.9.20.exe
+- name: POTACAT-Setup-1.9.20.exe
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/POTACAT-Setup-1.9.20.exe
+- name: potacat_1.9.20_amd64.deb
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/potacat_1.9.20_amd64.deb
+- name: potacat_1.9.20_arm64.deb
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.9.20/potacat_1.9.20_arm64.deb
 electron: 39.8.3
 method: src-package-lock
-electron_src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.18.zip
+electron_src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.20.zip
 evidence:
   kind: lockfile
-  found_in: POTACAT-1.9.18/package-lock.json
+  found_in: POTACAT-1.9.20/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.18.zip
+  source: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.20.zip

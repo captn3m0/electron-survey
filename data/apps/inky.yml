@@ -14,3 +14,8 @@ downloads:
   version: 0.15.2
 electron: 30.0.4
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/inkle/inky/releases/download/0.15.2/inky.dmg
+  found_in: inky.dmg
+  signal: which-electron rg signal

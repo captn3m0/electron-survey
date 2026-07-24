@@ -12,3 +12,8 @@ downloads:
   version: 2023.1.7
 electron: 27.0.1
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download-cdn.jetbrains.com/space/jetbrains-space-2023.1.7.zip
+  found_in: jetbrains-space-2023.1.7.zip
+  signal: which-electron rg signal

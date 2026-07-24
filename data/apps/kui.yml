@@ -31,3 +31,8 @@ electron: 22.2.1
 method: which-electron-rg
 latest: v13.1.4
 src: https://github.com/kubernetes-sigs/kui/archive/refs/tags/v13.1.4.zip
+evidence:
+  kind: binary
+  source: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
+  found_in: Kui-darwin-arm64.tar.bz2
+  signal: which-electron rg signal

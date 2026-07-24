@@ -1,33 +1,33 @@
 id: gitify
 repository: https://github.com/manosim/gitify
 website: https://www.gitify.io/
-latest: v7.0.0
-src: https://github.com/manosim/gitify/archive/refs/tags/v7.0.0.zip
+latest: v7.0.1
+src: https://github.com/manosim/gitify/archive/refs/tags/v7.0.1.zip
 downloads:
-- name: Gitify-7.0.0-universal-mac.zip
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-7.0.0-universal-mac.zip
-- name: Gitify-7.0.0-universal-mac.zip.blockmap
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-7.0.0-universal-mac.zip.blockmap
-- name: Gitify-7.0.0-universal.dmg
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-7.0.0-universal.dmg
-- name: Gitify-7.0.0-universal.dmg.blockmap
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-7.0.0-universal.dmg.blockmap
-- name: Gitify-7.0.0.AppImage
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-7.0.0.AppImage
-- name: gitify-7.0.0.x86_64.rpm
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/gitify-7.0.0.x86_64.rpm
-- name: Gitify-Setup-7.0.0.exe
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-Setup-7.0.0.exe
-- name: Gitify-Setup-7.0.0.exe.blockmap
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/Gitify-Setup-7.0.0.exe.blockmap
-- name: gitify_7.0.0_amd64.deb
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/gitify_7.0.0_amd64.deb
+- name: Gitify-7.0.1-universal-mac.zip
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-7.0.1-universal-mac.zip
+- name: Gitify-7.0.1-universal-mac.zip.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-7.0.1-universal-mac.zip.blockmap
+- name: Gitify-7.0.1-universal.dmg
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-7.0.1-universal.dmg
+- name: Gitify-7.0.1-universal.dmg.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-7.0.1-universal.dmg.blockmap
+- name: Gitify-7.0.1.AppImage
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-7.0.1.AppImage
+- name: gitify-7.0.1.x86_64.rpm
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/gitify-7.0.1.x86_64.rpm
+- name: Gitify-Setup-7.0.1.exe
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-Setup-7.0.1.exe
+- name: Gitify-Setup-7.0.1.exe.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/Gitify-Setup-7.0.1.exe.blockmap
+- name: gitify_7.0.1_amd64.deb
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/gitify_7.0.1_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/latest-linux.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/latest-mac.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/latest.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v7.0.1/latest.yml
 electron: 43.1.1
 method: src-pnpm-lock
 aur:
@@ -43,10 +43,9 @@ packages:
   format: zip
   os: macos
 name: Gitify
-electron_src: https://github.com/manosim/gitify/archive/refs/tags/v7.0.0.zip
+electron_src: https://github.com/manosim/gitify/archive/refs/tags/v7.0.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Amanosim%2Fgitify+path%3Apnpm-lock.yaml+electron&type=code
-  found_in: pnpm-lock.yaml
+  found_in: gitify-7.0.1/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  reconstructed: true
+  source: https://github.com/manosim/gitify/archive/refs/tags/v7.0.1.zip

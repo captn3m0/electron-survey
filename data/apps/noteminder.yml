@@ -6,29 +6,33 @@ aur:
 - noteminder-bin
 electron: 27.3.11
 method: aur-depends
-latest: v1.1.6
-src: https://github.com/hypn05/NoteMinder/archive/refs/tags/v1.1.6.zip
+latest: v1.2.0
+src: https://github.com/hypn05/NoteMinder/archive/refs/tags/v1.2.0.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/latest-linux-arm64.yml
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/latest-linux-arm64.yml
+- name: latest-linux.yml
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/latest-mac.yml
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/latest.yml
-- name: NoteMinder-1.1.6-arm64.AppImage
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6-arm64.AppImage
-- name: NoteMinder-1.1.6-arm64.dmg
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6-arm64.dmg
-- name: NoteMinder-1.1.6-arm64.dmg.blockmap
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6-arm64.dmg.blockmap
-- name: NoteMinder-1.1.6.dmg
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6.dmg
-- name: NoteMinder-1.1.6.dmg.blockmap
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6.dmg.blockmap
-- name: NoteMinder.Setup.1.1.6.exe
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder.Setup.1.1.6.exe
-- name: NoteMinder.Setup.1.1.6.exe.blockmap
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder.Setup.1.1.6.exe.blockmap
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/latest.yml
+- name: NoteMinder-1.2.0-arm64.AppImage
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder-1.2.0-arm64.AppImage
+- name: NoteMinder-1.2.0-arm64.dmg
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder-1.2.0-arm64.dmg
+- name: NoteMinder-1.2.0-arm64.dmg.blockmap
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder-1.2.0-arm64.dmg.blockmap
+- name: NoteMinder-1.2.0.AppImage
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder-1.2.0.AppImage
+- name: NoteMinder-1.2.0.dmg
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder-1.2.0.dmg
+- name: NoteMinder-1.2.0.dmg.blockmap
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder-1.2.0.dmg.blockmap
+- name: NoteMinder.Setup.1.2.0.exe
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder.Setup.1.2.0.exe
+- name: NoteMinder.Setup.1.2.0.exe.blockmap
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.2.0/NoteMinder.Setup.1.2.0.exe.blockmap
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/noteminder-bin

@@ -14,3 +14,8 @@ downloads:
 we_tried: we0:urls:d5bb323429c7
 electron: 42.1.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://basecamp.com/desktop/Basecamp-5.1.4-mac.zip
+  found_in: Basecamp-5.1.4-mac.zip
+  signal: which-electron rg signal

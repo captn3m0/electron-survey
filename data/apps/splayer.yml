@@ -16,3 +16,8 @@ downloads:
 - url: https://github.com/chiflix/splayerx/releases/download/4.9.4/SPlayer-4.9.4.dmg
   name: SPlayer-4.9.4.dmg
   version: 4.9.4
+evidence:
+  kind: binary
+  source: https://github.com/chiflix/splayerx/releases/download/4.9.4/SPlayer-4.9.4.dmg
+  found_in: SPlayer-4.9.4.dmg
+  signal: which-electron fingerprint signal

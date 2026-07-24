@@ -14,3 +14,8 @@ downloads:
 electron: 20.3.3
 method: which-electron-rg
 electron_src: https://github.com/Riceneeder/electronic-wechat/archive/refs/tags/v2.3.2-6.zip
+evidence:
+  kind: binary
+  source: https://github.com/Riceneeder/electronic-wechat/releases/download/v2.3.2-6/electronic-wechat_2.3.2_amd64.deb
+  found_in: electronic-wechat_2.3.2_amd64.deb
+  signal: which-electron rg signal

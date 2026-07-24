@@ -10,3 +10,8 @@ aur:
 - stamp
 electron: 39.2.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://fym-app-production.s3.nl-ams.scw.cloud/FreeYourMusic-9.22.1.dmg
+  found_in: FreeYourMusic-9.22.1.dmg
+  signal: which-electron rg signal

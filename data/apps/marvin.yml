@@ -15,3 +15,8 @@ downloads:
   version: 1.70.0
 electron: 36.1.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://amarm.s3.amazonaws.com/Marvin-1.70.0-arm64-mac.zip
+  found_in: Marvin-1.70.0-arm64-mac.zip
+  signal: which-electron rg signal

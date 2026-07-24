@@ -13,3 +13,8 @@ downloads:
   version: 2606.1.2
 electron: 39.2.7
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://storage.googleapis.com/dialpad_native/osx/arm64/Dialpad.2603.3.5.zip
+  found_in: Dialpad.2603.3.5.zip
+  signal: which-electron rg signal (2 signals agreed)

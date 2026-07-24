@@ -15,3 +15,8 @@ downloads:
   version: 1.523.0
 electron: 39.2.6
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/tanainc/tana-desktop-releases/releases/download/v1.523.0/Tana.Outliner-1.523.0-universal.dmg
+  found_in: Tana.Outliner-1.523.0-universal.dmg
+  signal: which-electron rg signal

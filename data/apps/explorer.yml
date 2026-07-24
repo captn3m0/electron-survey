@@ -14,3 +14,8 @@ homebrew: explorer
 name: Explorer
 electron: 0.35.6
 method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-darwin-x64.zip
+  found_in: Explorer-darwin-x64.zip
+  signal: which-electron fingerprint signal

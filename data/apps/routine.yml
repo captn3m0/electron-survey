@@ -15,3 +15,8 @@ downloads:
   version: 1.1.2
 electron: 37.2.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://releases.routine.co/routine/osx-arm64/Routine-1.1.2.zip
+  found_in: Routine-1.1.2.zip
+  signal: which-electron rg signal

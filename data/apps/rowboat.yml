@@ -35,3 +35,8 @@ electron: 39.2.7
 method: which-electron-rg
 latest: v0.7.7
 src: https://github.com/rowboatlabs/rowboat/archive/refs/tags/v0.7.7.zip
+evidence:
+  kind: binary
+  source: https://github.com/rowboatlabs/rowboat/releases/download/v0.7.7/Rowboat-linux-0.7.7-1.x86_64.rpm
+  found_in: Rowboat-linux-0.7.7-1.x86_64.rpm
+  signal: which-electron rg signal

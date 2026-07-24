@@ -15,3 +15,8 @@ downloads:
   version: 0.47.0
 electron: 18.0.3
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.infra.app/darwin/Infra-darwin-universal-0.47.0.zip
+  found_in: Infra-darwin-universal-0.47.0.zip
+  signal: which-electron rg signal

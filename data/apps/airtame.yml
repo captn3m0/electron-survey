@@ -10,3 +10,8 @@ downloads:
 name: Airtame
 electron: 29.1.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://downloads-cdn.airtame.com/app/latest/mac/Airtame-4.15.0.dmg
+  found_in: Airtame-4.15.0.dmg
+  signal: which-electron rg signal

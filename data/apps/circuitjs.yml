@@ -10,3 +10,8 @@ downloads:
   version: 4.1.3js
 electron: 27.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://www.falstad.com/circuit/offline/CircuitJS1-macarm.dmg
+  found_in: CircuitJS1-macarm.dmg
+  signal: which-electron rg signal

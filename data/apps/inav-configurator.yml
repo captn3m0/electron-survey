@@ -43,3 +43,8 @@ electron: 38.7.2
 method: which-electron-rg
 latest: 9.1.1
 src: https://github.com/iNavFlight/inav-configurator/archive/refs/tags/9.1.1.zip
+evidence:
+  kind: binary
+  source: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_arm64_9.1.1.rpm
+  found_in: INAV-Configurator_linux_arm64_9.1.1.rpm
+  signal: which-electron rg signal

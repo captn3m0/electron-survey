@@ -16,3 +16,8 @@ downloads:
 we_tried: we0:urls:9285f422c711
 electron: 29.4.6
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/modstart-lib/aigcpanel/releases/download/v2.0.0/AigcPanel-2.0.0-mac-arm64.dmg
+  found_in: AigcPanel-2.0.0-mac-arm64.dmg
+  signal: which-electron rg signal

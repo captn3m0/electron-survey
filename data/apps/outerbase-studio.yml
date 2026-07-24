@@ -34,3 +34,8 @@ downloads:
 - name: Outerbase-Studio-Linux-0.1.29.AppImage
   url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
 homebrew: outerbase-studio
+evidence:
+  kind: binary
+  source: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
+  found_in: Outerbase-Studio-Linux-0.1.29.AppImage
+  signal: which-electron rg signal

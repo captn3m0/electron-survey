@@ -23,38 +23,38 @@ aur:
 - heptabase-bin
 homebrew: heptabase
 downloads:
-- name: Heptabase-1.98.6-arm64-mac.zip
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6-arm64-mac.zip
-- name: Heptabase-1.98.6-arm64-mac.zip.blockmap
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6-arm64-mac.zip.blockmap
-- name: Heptabase-1.98.6-arm64.dmg
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6-arm64.dmg
-- name: Heptabase-1.98.6-arm64.dmg.blockmap
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6-arm64.dmg.blockmap
-- name: Heptabase-1.98.6-mac.zip
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6-mac.zip
-- name: Heptabase-1.98.6-mac.zip.blockmap
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6-mac.zip.blockmap
-- name: Heptabase-1.98.6.AppImage
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6.AppImage
-- name: Heptabase-1.98.6.dmg
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6.dmg
-- name: Heptabase-1.98.6.dmg.blockmap
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6.dmg.blockmap
-- name: Heptabase-Setup-1.98.6.exe
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-Setup-1.98.6.exe
-- name: Heptabase-Setup-1.98.6.exe.blockmap
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-Setup-1.98.6.exe.blockmap
+- name: Heptabase-1.99.0-arm64-mac.zip
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0-arm64-mac.zip
+- name: Heptabase-1.99.0-arm64-mac.zip.blockmap
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0-arm64-mac.zip.blockmap
+- name: Heptabase-1.99.0-arm64.dmg
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0-arm64.dmg
+- name: Heptabase-1.99.0-arm64.dmg.blockmap
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0-arm64.dmg.blockmap
+- name: Heptabase-1.99.0-mac.zip
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0-mac.zip
+- name: Heptabase-1.99.0-mac.zip.blockmap
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0-mac.zip.blockmap
+- name: Heptabase-1.99.0.AppImage
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0.AppImage
+- name: Heptabase-1.99.0.dmg
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0.dmg
+- name: Heptabase-1.99.0.dmg.blockmap
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-1.99.0.dmg.blockmap
+- name: Heptabase-Setup-1.99.0.exe
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-Setup-1.99.0.exe
+- name: Heptabase-Setup-1.99.0.exe.blockmap
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/Heptabase-Setup-1.99.0.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/latest-linux.yml
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/latest-mac.yml
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/heptameta/project-meta/releases/download/v1.98.6/latest.yml
+  url: https://github.com/heptameta/project-meta/releases/download/v1.99.0/latest.yml
 electron: 36.9.3
 method: which-electron-rg
-latest: v1.98.6
-src: https://github.com/heptameta/project-meta/archive/refs/tags/v1.98.6.zip
+latest: v1.99.0
+src: https://github.com/heptameta/project-meta/archive/refs/tags/v1.99.0.zip
 evidence:
   kind: binary
   source: https://github.com/heptameta/project-meta/releases/download/v1.98.6/Heptabase-1.98.6.AppImage

@@ -49,3 +49,8 @@ latest: v1.5.10
 src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.10.zip
 electron: 43.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip
+  found_in: Zo-1.5.10-universal-mac.zip
+  signal: which-electron rg signal

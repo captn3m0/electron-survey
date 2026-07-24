@@ -157,7 +157,7 @@ worst:
   electron: 1.4.13
   chromium: 53.0.2785.143
   chromium_majors_behind: 97
-  chromium_days_behind: 3512
+  chromium_days_behind: 3513
   cves_critical: 257
   cves_high: 2137
 - id: positron

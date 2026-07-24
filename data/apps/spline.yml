@@ -13,3 +13,8 @@ downloads:
   version: 0.12.11
 electron: 39.0.0
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cdn.spline.design/_assets/Spline-0.12.11-arm64.mac.zip
+  found_in: Spline-0.12.11-arm64.mac.zip
+  signal: which-electron rg signal

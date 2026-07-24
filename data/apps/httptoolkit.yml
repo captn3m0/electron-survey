@@ -64,3 +64,8 @@ downloads:
   url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1-x64.rpm
 - name: HttpToolkit-1.26.1.exe
   url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1.exe
+evidence:
+  kind: binary
+  source: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1-arm64.rpm
+  found_in: HttpToolkit-1.26.1-arm64.rpm
+  signal: which-electron rg signal

@@ -15,3 +15,8 @@ downloads:
   url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.AppImage
 - name: geforcenow-electron_3.0.1_linux.zip
   url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.zip
+evidence:
+  kind: binary
+  source: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.AppImage
+  found_in: geforcenow-electron_3.0.1_linux.AppImage
+  signal: which-electron rg signal

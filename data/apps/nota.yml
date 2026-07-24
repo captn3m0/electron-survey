@@ -23,3 +23,8 @@ packages:
 name: Nota
 electron: 27.3.11
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/notaapp/releases/releases/download/0.41.0/Nota-0.41.0-arm64-mac.zip
+  found_in: Nota-0.41.0-arm64-mac.zip
+  signal: which-electron rg signal

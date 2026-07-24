@@ -23,3 +23,8 @@ downloads:
   url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat_1.14.0_amd64.snap
 - name: latest-linux.yml
   url: https://github.com/piec/elecwhat/releases/download/v1.14.0/latest-linux.yml
+evidence:
+  kind: binary
+  source: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.x86_64.rpm
+  found_in: elecwhat-1.14.0.x86_64.rpm
+  signal: which-electron rg signal

@@ -18,3 +18,8 @@ downloads:
   version: 1.3.3
 electron: 40.8.5
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://hey.com/desktop/HEY-1.3.3-arm64-mac.zip
+  found_in: HEY-1.3.3-arm64-mac.zip
+  signal: which-electron rg signal

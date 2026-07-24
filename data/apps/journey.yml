@@ -30,3 +30,8 @@ electron: 6.1.7
 method: which-electron-fingerprint
 latest: v2.14.6
 src: https://github.com/2-App-Studio/journey-releases/archive/refs/tags/v2.14.6.zip
+evidence:
+  kind: binary
+  source: https://github.com/2-App-Studio/journey-releases/releases/download/v2.14.6/journey-2.14.6-full-ia32.nupkg
+  found_in: journey-2.14.6-full-ia32.nupkg
+  signal: which-electron fingerprint signal (2 signals agreed)

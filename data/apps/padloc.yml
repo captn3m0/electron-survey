@@ -134,3 +134,8 @@ electron: 19.0.5
 method: which-electron-rg
 latest: v4.3.0
 src: https://github.com/padloc/padloc/archive/refs/tags/v4.3.0.zip
+evidence:
+  kind: binary
+  source: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_electron_x86_64.AppImage
+  found_in: padloc_4.3.0_linux_electron_x86_64.AppImage
+  signal: which-electron rg signal
