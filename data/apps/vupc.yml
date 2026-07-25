@@ -2,3 +2,14 @@ id: vupc
 repository: https://github.com/machester4/vupc
 website: https://github.com/machester4/vupc
 name: VuPC
+last_commit: '2020-10-23'
+src: https://github.com/machester4/vupc/archive/refs/heads/master.zip
+electron: 9.2.1
+method: src-yarn-lock
+evidence:
+  kind: lockfile
+  found_in: vupc-master/app/yarn.lock
+  signal: electron pinned in yarn.lock
+  source: https://github.com/machester4/vupc/archive/refs/heads/master.zip
+electron_src: https://github.com/machester4/vupc/archive/refs/heads/master.zip
+electron_src_commit: '2020-10-23'

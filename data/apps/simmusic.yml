@@ -5,3 +5,5 @@ repository: https://github.com/SimMusic/SimMusic2024-Linux
 aur:
 - simmusic-git
 aur_votes: 1
+last_commit: '2025-02-05'
+src: https://github.com/SimMusic/SimMusic2024-Linux/archive/refs/heads/main.zip

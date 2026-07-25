@@ -11,3 +11,12 @@ evidence:
   found_in: openmarch-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/OpenMarch/OpenMarch/releases/download/v0.1.4/OpenMarch-linux-arm64.AppImage
+  name: OpenMarch-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/OpenMarch/OpenMarch/releases/download/v0.1.4/OpenMarch-linux-x86_64.AppImage
+  name: OpenMarch-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

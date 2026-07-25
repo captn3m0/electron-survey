@@ -19,3 +19,13 @@ downloads:
   url: https://github.com/j-catania/TeslaSentinelViewer/releases/download/v1.0.0/TesLEr_1.0.0_arm64.dmg
 - name: TesLEr_1.0.0_x64.dmg
   url: https://github.com/j-catania/TeslaSentinelViewer/releases/download/v1.0.0/TesLEr_1.0.0_x64.dmg
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/j-catania/TeslaSentinelViewer/releases/download/v1.0.0/TesLEr-1.0.0.AppImage
+  name: TesLEr-1.0.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/j-catania/TeslaSentinelViewer/v1.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

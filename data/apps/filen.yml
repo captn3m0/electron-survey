@@ -24,3 +24,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/FilenCloudDienste/filen-desktop/releases/download/v3.0.53/Filen_linux_aarch64.rpm
+  name: Filen_linux_aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/FilenCloudDienste/filen-desktop/releases/download/v3.0.53/Filen_linux_x86_64.rpm
+  name: Filen_linux_x86_64.rpm
+  arch: x86_64
+  source: aur-bin

@@ -26,3 +26,14 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+last_commit: '2026-06-02'
+src: https://github.com/voideditor/void/archive/refs/heads/main.zip
+aur_downloads:
+- url: https://github.com/voideditor/binaries/releases/download/1.99.30044/void_1.99.30044_amd64.deb
+  name: void_1.99.30044_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://gitlab.archlinux.org/archlinux/packaging/packages/code/-/raw/main/code.sh
+  name: code.sh
+  arch: any
+  source: aur-bin

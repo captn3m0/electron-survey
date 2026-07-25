@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/minif-browser-bin
   found_in: minif-browser-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2024-09-08'

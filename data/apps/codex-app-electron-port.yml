@@ -4,3 +4,5 @@ website: https://github.com/Tomakin/codex-app-electron-port-bin
 repository: https://github.com/Tomakin/codex-app-electron-port-bin
 aur:
 - codex-app-electron-port-bin
+last_commit: '2026-03-03'
+src: https://github.com/Tomakin/codex-app-electron-port-bin/archive/refs/heads/main.zip

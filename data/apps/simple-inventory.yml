@@ -24,3 +24,9 @@ evidence:
   source: https://aur.archlinux.org/packages/simple-inventory-bin
   found_in: simple-inventory-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2024-01-29'
+aur_downloads:
+- url: https://github.com/osoyinas/simple-inventory/releases/download/1.0.1/Inventario-Linux-1.0.1.AppImage
+  name: Inventario-Linux-1.0.1.AppImage
+  arch: any
+  source: aur-bin

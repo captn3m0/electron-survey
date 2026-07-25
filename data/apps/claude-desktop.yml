@@ -28,3 +28,25 @@ aur:
 electron: 41.3.0
 method: which-electron-rg
 aur_votes: 10
+aur_downloads:
+- url: https://github.com/inulute/ai-gate/releases/download/v4.7.1/AI.Gate-4.7.1.deb
+  name: AI.Gate-4.7.1.deb
+  arch: any
+  source: aur-bin
+- url: https://github.com/AndyMik90/Auto-Claude/releases/download/v2.7.1/auto-claude_2.7.1_amd64.deb
+  name: auto-claude_2.7.1_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://github.com/CTTY-NUL/claude-linux-client/releases/download/v1.0.0/Claude.Linux.Client-1.0.0-arm64.rpm
+  name: Claude.Linux.Client-1.0.0-arm64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/CTTY-NUL/claude-linux-client/releases/download/v1.0.0/claude-linux-client-1.0.0.x86_64.rpm
+  name: claude-linux-client-1.0.0.x86_64.rpm
+  arch: x86_64
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://downloads.claude.ai/releases/darwin/universal/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
+  found_in: Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
+  signal: which-electron rg signal

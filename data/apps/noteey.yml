@@ -17,3 +17,9 @@ downloads:
   url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/Noteey-1.60.1.universal.zip
 - name: Noteey-Setup-1.60.1.exe
   url: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/Noteey-Setup-1.60.1.exe
+last_commit: '2026-07-20'
+aur_downloads:
+- url: https://github.com/andyyoungm/muenzo/releases/download/v1.53.0/Noteey-Setup-1.53.0.exe
+  name: Noteey-Setup-1.53.0.exe
+  arch: any
+  source: aur-bin

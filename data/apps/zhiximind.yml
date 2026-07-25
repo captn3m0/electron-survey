@@ -11,3 +11,12 @@ evidence:
   found_in: zhiximind-desktop-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 aur_votes: 1
+aur_downloads:
+- url: https://www.zhixi.com/download/linux?channel=21C8B557
+  name: linux
+  arch: any
+  source: aur-bin
+- url: https://www.zhixi.com/user-agreement
+  name: user-agreement
+  arch: any
+  source: aur-bin

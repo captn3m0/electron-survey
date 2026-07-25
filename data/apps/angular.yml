@@ -21,3 +21,4 @@ evidence:
   source: https://aur.archlinux.org/packages/angular-electron-bin
   found_in: angular-electron-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+last_commit: '2026-07-10'

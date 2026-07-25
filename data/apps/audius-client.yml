@@ -15,3 +15,9 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+last_commit: '2026-07-23'
+aur_downloads:
+- url: https://download.audius.co/Audius-1.5.55.AppImage
+  name: Audius-1.5.55.AppImage
+  arch: any
+  source: aur-bin

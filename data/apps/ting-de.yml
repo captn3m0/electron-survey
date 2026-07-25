@@ -20,3 +20,4 @@ evidence:
   found_in: ting-de
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
 brew_installs: 10
+we_tried: we1.2.1+p1:urls:9c6d1dab15b7

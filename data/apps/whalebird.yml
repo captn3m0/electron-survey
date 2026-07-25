@@ -23,3 +23,8 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 10
+aur_downloads:
+- url: https://github.com/h3poteto/whalebird-desktop/releases/download/v6.3.0/Whalebird-6.3.0-linux-x86_64.rpm
+  name: Whalebird-6.3.0-linux-x86_64.rpm
+  arch: any
+  source: aur-bin

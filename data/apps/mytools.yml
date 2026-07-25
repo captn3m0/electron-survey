@@ -2,3 +2,14 @@ id: mytools
 repository: https://github.com/hiql/mytools-desktop
 website: https://github.com/hiql/mytools-desktop
 name: MyTools
+last_commit: '2022-07-20'
+src: https://github.com/hiql/mytools-desktop/archive/refs/heads/main.zip
+electron: 13.4.0
+method: src-yarn-lock
+evidence:
+  kind: lockfile
+  found_in: mytools-desktop-main/yarn.lock
+  signal: electron pinned in yarn.lock
+  source: https://github.com/hiql/mytools-desktop/archive/refs/heads/main.zip
+electron_src: https://github.com/hiql/mytools-desktop/archive/refs/heads/main.zip
+electron_src_commit: '2022-07-20'

@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/anubias-bin
   found_in: anubias-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_downloads:
+- url: https://anubias.app/dl/Anubias-1.0.0-beta1.AppImage
+  name: Anubias-1.0.0-beta1.AppImage
+  arch: any
+  source: aur-bin

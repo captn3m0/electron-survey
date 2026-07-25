@@ -12,3 +12,17 @@ downloads:
   version: 6.5.0
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/OneKeyHQ/app-monorepo/releases/download/v6.5.0/OneKey-Wallet-6.5.0-linux-arm64.AppImage
+  name: OneKey-Wallet-6.5.0-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/OneKeyHQ/app-monorepo/releases/download/v6.5.0/OneKey-Wallet-6.5.0-linux-x86_64.AppImage
+  name: OneKey-Wallet-6.5.0-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/OneKeyHQ/app-monorepo/releases/download/v6.5.0/OneKey-Wallet-6.5.0-linux-arm64.AppImage
+  found_in: OneKey-Wallet-6.5.0-linux-arm64.AppImage
+  signal: which-electron rg signal

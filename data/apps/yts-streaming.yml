@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/yts-streaming-bin
   found_in: yts-streaming-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+aur_downloads:
+- url: https://github.com/iambpn/YTS-Streaming/releases/download/4.0.1/yts-streaming-4.0.0.AppImage
+  name: yts-streaming-4.0.0.AppImage
+  arch: any
+  source: aur-bin

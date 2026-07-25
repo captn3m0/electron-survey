@@ -14,3 +14,8 @@ name: Iconset
 electron: 18.0.0
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://github.com/IconsetApp/iconset/releases/download/v2.5.0/Iconset-2.5.0-arm64-mac.zip
+  found_in: Iconset-2.5.0-arm64-mac.zip
+  signal: which-electron rg signal

@@ -15,3 +15,14 @@ electron: 20.3.3
 method: which-electron-rg
 electron_src: https://github.com/Riceneeder/electronic-wechat/archive/refs/tags/v2.3.2-6.zip
 aur_votes: 10
+last_commit: '2022-12-26'
+aur_downloads:
+- url: https://github.com/Riceneeder/electronic-wechat/releases/download/v2.3.2-6/electronic-wechat_2.3.2_amd64.deb
+  name: electronic-wechat_2.3.2_amd64.deb
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/Riceneeder/electronic-wechat/releases/download/v2.3.2-6/electronic-wechat_2.3.2_amd64.deb
+  found_in: electronic-wechat_2.3.2_amd64.deb
+  signal: which-electron rg signal

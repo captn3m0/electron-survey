@@ -16,3 +16,13 @@ evidence:
   source: https://aur.archlinux.org/packages/tune-player-bin
   found_in: tune-player-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-05-06'
+aur_downloads:
+- url: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage
+  name: Tune-Player-1.0.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Moebytes/Tune-Player/v1.0.0/license.txt
+  name: license.txt
+  arch: any
+  source: aur-bin

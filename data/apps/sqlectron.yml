@@ -58,3 +58,13 @@ evidence:
   reconstructed: true
 aur_votes: 10
 brew_installs: 100
+last_commit: '2026-06-22'
+aur_downloads:
+- url: https://github.com/sqlectron/sqlectron-gui/releases/download/v1.39.0/sqlectron-1.39.0.pacman
+  name: sqlectron-1.39.0.pacman
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/sqlectron/sqlectron-gui/v1.39.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

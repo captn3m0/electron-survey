@@ -17,3 +17,5 @@ src: https://github.com/zehfernandes/pliim/archive/refs/tags/v1.7.0.zip
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2024-07-11'
+we_tried: we1.2.1+p1:v1.7.0

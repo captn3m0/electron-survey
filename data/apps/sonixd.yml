@@ -66,3 +66,4 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: discontinued
 homebrew_disabled: true
 homebrew_disable_reason: discontinued
+last_commit: '2024-02-17'

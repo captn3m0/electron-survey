@@ -21,3 +21,4 @@ downloads:
 name: Q-player
 electron: 38.1.2
 method: which-electron-rg
+last_commit: '2025-12-28'

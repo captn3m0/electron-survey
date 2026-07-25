@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/electron-s3-file-manager
   found_in: electron-s3-file-manager
   signal: depends on electron20; reported as the newest 20.x release (20.3.12)
+last_commit: '2025-03-04'

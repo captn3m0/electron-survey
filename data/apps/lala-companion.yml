@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/lala-companion-bin
   found_in: lala-companion-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_downloads:
+- url: https://github.com/lalaland-ai/lala-companion/releases/download/v0.0.16/lala-companion_0.0.16_amd64.deb
+  name: lala-companion_0.0.16_amd64.deb
+  arch: any
+  source: aur-bin

@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/expertisex-bin
   found_in: expertisex-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_downloads:
+- url: https://github.com/Adivise/ExpertiseX/releases/download/v3.3.0/expertisex-3.3.0.rpm
+  name: expertisex-3.3.0.rpm
+  arch: any
+  source: aur-bin

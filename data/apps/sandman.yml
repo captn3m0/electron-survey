@@ -36,3 +36,4 @@ downloads:
   url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman_1.9.2_amd64.deb
 - name: Sandman_1.9.2_x86.deb
   url: https://github.com/alexanderepstein/Sandman/releases/download/v1.9.2/Sandman_1.9.2_x86.deb
+last_commit: '2022-06-16'

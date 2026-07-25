@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/er-editor-git
   found_in: er-editor-git
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2026-02-17'

@@ -21,3 +21,13 @@ evidence:
   source: https://aur.archlinux.org/packages/abird-bin
   found_in: abird-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+last_commit: '2026-03-07'
+aur_downloads:
+- url: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6-asar-linux-x64.tar.zst
+  name: ABird-0.1.6-asar-linux-x64.tar.zst
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/nsz32/abird/v0.1.6/icon.svg
+  name: icon.svg
+  arch: any
+  source: aur-bin

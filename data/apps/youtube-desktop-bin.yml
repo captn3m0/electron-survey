@@ -30,3 +30,13 @@ evidence:
   source: https://aur.archlinux.org/packages/youtube-app-bin
   found_in: youtube-app-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+last_commit: '2024-12-28'
+aur_downloads:
+- url: https://github.com/cx051/YouTube-App/releases/download/2.0.1/youtube_2.0.1_amd64.deb
+  name: youtube_2.0.1_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/cx051/YouTube-App/2.0.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

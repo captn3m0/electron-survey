@@ -17,3 +17,4 @@ src: https://github.com/romannurik/MaterialColorsApp/archive/refs/tags/v2.0.3.zi
 brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2023-01-07'

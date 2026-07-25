@@ -52,3 +52,13 @@ evidence:
   reconstructed: true
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/mockoon/mockoon/releases/download/v9.7.0/mockoon-9.7.0.amd64.deb
+  name: mockoon-9.7.0.amd64.deb
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/mockoon/mockoon/releases/download/v9.7.0/mockoon-9.7.0.arm64.deb
+  name: mockoon-9.7.0.arm64.deb
+  arch: aarch64
+  source: aur-bin
+we_tried: we1.2.1+p1:v9.5.0

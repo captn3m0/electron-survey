@@ -13,3 +13,8 @@ evidence:
   found_in: joindesktop-bin
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/joaomgcd/JoinDesktop/releases/download/v1.1.3/com.joaomgcd.join_1.1.3_amd64.deb
+  name: com.joaomgcd.join_1.1.3_amd64.deb
+  arch: any
+  source: aur-bin

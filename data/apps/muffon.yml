@@ -82,3 +82,9 @@ downloads:
 - name: muffon-2.4.0-win-x64.exe.blockmap
   url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-win-x64.exe.blockmap
 aur_votes: 1
+last_commit: '2026-07-11'
+aur_downloads:
+- url: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-aarch64.pacman
+  name: muffon-2.4.0-linux-aarch64.pacman
+  arch: aarch64
+  source: aur-bin

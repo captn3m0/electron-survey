@@ -29,3 +29,13 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-07-19'
+aur_downloads:
+- url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Linux.AppImage
+  name: BetterDiscord-Linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/BetterDiscord/Installer/main/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

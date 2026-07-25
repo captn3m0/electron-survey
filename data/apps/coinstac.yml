@@ -30,3 +30,13 @@ evidence:
   source: https://aur.archlinux.org/packages/coinstac-desktop-app-bin
   found_in: coinstac-desktop-app-bin
   signal: depends on electron18; reported as the newest 18.x release (18.3.15)
+last_commit: '2025-08-06'
+aur_downloads:
+- url: https://raw.githubusercontent.com/trendscenter/coinstac/v6.9.8/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/trendscenter/coinstac/releases/download/v6.9.8/COINSTAC-6.9.8-linux.AppImage
+  name: COINSTAC-6.9.8-linux.AppImage
+  arch: x86_64
+  source: aur-bin

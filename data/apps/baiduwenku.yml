@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/baiduwenku-bin
   found_in: baiduwenku-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/wenku-Setup-3.4.1.exe
+  name: wenku-Setup-3.4.1.exe
+  arch: any
+  source: aur-bin
+- url: https://edu-wenku.bdimg.com/v1/pc/protocols/help24-new.htm
+  name: help24-new.htm
+  arch: any
+  source: aur-bin

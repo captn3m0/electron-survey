@@ -25,3 +25,4 @@ name: mStream
 electron: 29.1.4
 method: which-electron-rg
 aur_votes: 1
+last_commit: '2026-07-23'

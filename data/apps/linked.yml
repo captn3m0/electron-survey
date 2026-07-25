@@ -45,3 +45,9 @@ evidence:
   signal: electron pinned in yarn.lock
   reconstructed: true
 aur_votes: 1
+last_commit: '2024-07-17'
+aur_downloads:
+- url: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.pacman
+  name: linked-1.5.2.pacman
+  arch: any
+  source: aur-bin

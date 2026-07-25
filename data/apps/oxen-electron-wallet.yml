@@ -36,3 +36,4 @@ evidence:
   source: https://aur.archlinux.org/packages/oxen-electron-wallet
   found_in: oxen-electron-wallet
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+last_commit: '2025-06-18'

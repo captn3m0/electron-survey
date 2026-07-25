@@ -48,3 +48,4 @@ evidence:
   source: https://aur.archlinux.org/packages/before-dawn
   found_in: before-dawn
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+last_commit: '2026-06-30'

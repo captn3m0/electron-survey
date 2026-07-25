@@ -21,3 +21,4 @@ evidence:
   source: https://aur.archlinux.org/packages/bilive-danmaku-git
   found_in: bilive-danmaku-git
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2026-02-25'

@@ -8,3 +8,4 @@ downloads:
   name: Devin-darwin-arm64-3.5.1015+next.ee593c178a.dmg
   version: 3.5.1015+next.ee593c178a,ee593c178a9b46dc3f9cb9d5e8d43d8e916512a6
 brew_installs: 10
+we_tried: we1.2.1+p1:urls:a27de8a61ca5

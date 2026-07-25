@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/serina-bin
   found_in: serina-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_downloads:
+- url: https://github.com/ORN-Fox/serina-1/releases/download/R0.4.0/serina-0-4-0-linux-x64.zip
+  name: serina-0-4-0-linux-x64.zip
+  arch: any
+  source: aur-bin

@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/inethi-bin
   found_in: inethi-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_downloads:
+- url: https://github.com/iNethi/inethi-network-builder/releases/download/1.0.1/inethi_1.0.1_amd64.deb
+  name: inethi_1.0.1_amd64.deb
+  arch: any
+  source: aur-bin

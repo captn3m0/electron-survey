@@ -45,3 +45,4 @@ evidence:
   signal: electron pinned to an exact version in package.json
   reconstructed: true
 aur_votes: 1
+last_commit: '2024-06-18'

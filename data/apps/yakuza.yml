@@ -18,3 +18,17 @@ evidence:
   source: https://aur.archlinux.org/packages/yakuza-bin
   found_in: yakuza-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2024-07-14'
+aur_downloads:
+- url: https://github.com/fzdwx/yakuza/releases/download/0.2.4/yakuza-0.1.0.AppImage
+  name: yakuza-0.1.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://github.com/fzdwx/yakuza/releases/download/0.2.4/yactrl
+  name: yactrl
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/fzdwx/yakuza/0.2.4/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/sharefi-electron-bin
   found_in: sharefi-electron-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_downloads:
+- url: https://sharefi.app/download/v0.5.0/linux/sharefi-x86_64-v0.5.0.rpm
+  name: sharefi-x86_64-v0.5.0.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/lucafornerone/sharefi-electron/release/0.5.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

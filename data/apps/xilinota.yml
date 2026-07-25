@@ -30,3 +30,9 @@ evidence:
   source: https://aur.archlinux.org/packages/xilinota-bin
   found_in: xilinota-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2026-02-16'
+aur_downloads:
+- url: https://github.com/XilinJia/Xilinota/releases/download/v2.15.1/Xilinota-2.15.1.AppImage
+  name: Xilinota-2.15.1.AppImage
+  arch: any
+  source: aur-bin

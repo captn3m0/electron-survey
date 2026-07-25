@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/glimboi-bin
   found_in: glimboi-bin
   signal: depends on electron18; reported as the newest 18.x release (18.3.15)
+aur_downloads:
+- url: https://github.com/aMytho/GlimBoi/releases/download/v2.7.6/glimboi_2.7.6_amd64.deb
+  name: glimboi_2.7.6_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/aMytho/GlimBoi/v2.7.6/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

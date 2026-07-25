@@ -73,3 +73,4 @@ electron: 14.2.9
 method: which-electron-rg
 electron_src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.1.zip
 aur_votes: 1
+last_commit: '2026-07-23'

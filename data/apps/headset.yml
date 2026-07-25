@@ -19,3 +19,17 @@ packages:
 name: Headset
 aur_votes: 10
 brew_installs: 10
+aur_downloads:
+- url: https://github.com/headsetapp/headset-electron/releases/download/v4.2.1/headset-4.2.1-1.x86_64.rpm
+  name: headset-4.2.1-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com//headsetapp/headset-electron/v4.2.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/headsetapp/headset-electron/releases/download/v4.2.1/headset-4.2.1-1.x86_64.rpm
+  found_in: headset-4.2.1-1.x86_64.rpm
+  signal: which-electron rg signal

@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/vega-video-editor
   found_in: vega-video-editor
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+last_commit: '2024-12-03'
+src: https://github.com/toshusai/Vega/archive/refs/heads/main.zip

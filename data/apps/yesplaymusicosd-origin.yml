@@ -52,3 +52,4 @@ evidence:
   source: https://aur.archlinux.org/packages/yesplaymusicosd-origin-electron-git
   found_in: yesplaymusicosd-origin-electron-git
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+last_commit: '2024-01-04'

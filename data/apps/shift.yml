@@ -11,6 +11,27 @@ downloads:
   name: shift-v9.6.4.1231-stable-arm64.dmg
   version: 9.6.4.1231
 name: Shift
-we_tried: we1.2.1:urls:29d7123fc8f1
+we_tried: we1.2.1+p1:urls:b087630e6c5d
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/openshift-online/ocm-cli/releases/download/v1.0.15/ocm-linux-amd64
+  name: ocm-linux-amd64
+  arch: any
+  source: aur-bin
+- url: https://github.com/openshift-pipelines/opc/releases/download/v1.23.0/opc_1.23.0_linux_arm64.tar.gz
+  name: opc_1.23.0_linux_arm64.tar.gz
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/openshift-pipelines/opc/releases/download/v1.23.0/opc_1.23.0_linux_i386.tar.gz
+  name: opc_1.23.0_linux_i386.tar.gz
+  arch: i686
+  source: aur-bin
+- url: https://github.com/openshift-pipelines/opc/releases/download/v1.23.0/opc_1.23.0_linux_x86_64.tar.gz
+  name: opc_1.23.0_linux_x86_64.tar.gz
+  arch: x86_64
+  source: aur-bin
+- url: https://mirror.openshift.com/pub/openshift-v4/clients/pipelines/1.20.0/tkn-linux-amd64.tar.gz
+  name: tkn-linux-amd64.tar.gz
+  arch: any
+  source: aur-bin

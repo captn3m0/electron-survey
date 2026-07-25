@@ -11,3 +11,10 @@ evidence:
   source: https://aur.archlinux.org/packages/explorama-bin
   found_in: explorama-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2026-02-08'
+src: https://github.com/Explorama/Explorama/archive/refs/heads/main.zip
+aur_downloads:
+- url: https://github.com/Explorama/Explorama/releases/download/v1.0.0-alpha.4/Explorama-linux.AppImage
+  name: Explorama-linux.AppImage
+  arch: any
+  source: aur-bin

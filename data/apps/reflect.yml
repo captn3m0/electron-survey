@@ -22,3 +22,9 @@ method: which-electron-rg
 latest: v3.3.6
 src: https://github.com/team-reflect/reflect-electron-updates/archive/refs/tags/v3.3.6.zip
 brew_installs: 100
+last_commit: '2026-05-29'
+evidence:
+  kind: binary
+  source: https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.3.6/Reflect-darwin-arm64-3.3.6.zip
+  found_in: Reflect-darwin-arm64-3.3.6.zip
+  signal: which-electron rg signal

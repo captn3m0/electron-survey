@@ -50,3 +50,9 @@ src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.10.zip
 electron: 43.0.0
 method: which-electron-rg
 brew_installs: 10
+last_commit: '2026-07-14'
+evidence:
+  kind: binary
+  source: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip
+  found_in: Zo-1.5.10-universal-mac.zip
+  signal: which-electron rg signal

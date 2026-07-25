@@ -11,3 +11,12 @@ evidence:
   found_in: boxplayer-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.7/boxplayer-5.0.7-linux-arm64.AppImage
+  name: boxplayer-5.0.7-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.7/boxplayer-5.0.7-linux-x86_64.AppImage
+  name: boxplayer-5.0.7-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

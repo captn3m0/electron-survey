@@ -68,3 +68,9 @@ evidence:
   reconstructed: true
 aur_votes: 1
 brew_installs: 1000
+last_commit: '2026-05-06'
+aur_downloads:
+- url: https://github.com/open-webui/desktop/releases/download/v0.0.20/open-webui_amd64.deb
+  name: open-webui_amd64.deb
+  arch: x86_64
+  source: aur-bin

@@ -2,3 +2,5 @@ id: commandeer
 repository: https://github.com/commandeer/open
 website: https://getcommandeer.com
 name: Commandeer
+last_commit: '2023-03-06'
+src: https://github.com/commandeer/open/archive/refs/heads/development.zip

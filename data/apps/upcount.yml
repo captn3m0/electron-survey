@@ -31,3 +31,4 @@ downloads:
 - name: Upcount_x64.app.tar.gz.sig
   url: https://github.com/namespace-ee/upcount/releases/download/v2.0.0-beta.24/Upcount_x64.app.tar.gz.sig
 name: Upcount
+last_commit: '2026-05-18'

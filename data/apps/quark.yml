@@ -44,3 +44,9 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+last_commit: '2026-02-12'
+aur_downloads:
+- url: https://github.com/Nishkalkashyap/Quark-electron/releases/download/v0.6.4/Quark-linux-amd64-0.6.4.deb
+  name: Quark-linux-amd64-0.6.4.deb
+  arch: any
+  source: aur-bin

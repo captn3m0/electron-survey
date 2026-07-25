@@ -28,3 +28,9 @@ evidence:
   source: https://aur.archlinux.org/packages/yt-dlandcut-bin
   found_in: yt-dlandcut-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2023-11-10'
+aur_downloads:
+- url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
+  name: yt-dlandcut-3.0.0.AppImage
+  arch: any
+  source: aur-bin

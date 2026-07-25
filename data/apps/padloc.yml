@@ -135,3 +135,14 @@ method: which-electron-rg
 latest: v4.3.0
 src: https://github.com/padloc/padloc/archive/refs/tags/v4.3.0.zip
 brew_installs: 100
+last_commit: '2025-03-29'
+aur_downloads:
+- url: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_tauri_amd64.deb
+  name: padloc_4.3.0_linux_tauri_amd64.deb
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_electron_x86_64.AppImage
+  found_in: padloc_4.3.0_linux_electron_x86_64.AppImage
+  signal: which-electron rg signal

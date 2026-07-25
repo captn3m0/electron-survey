@@ -14,3 +14,8 @@ downloads:
 electron: 37.6.0
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://assets.ovice.io/desktop-apps/staging/darwin/arm64/ovice-darwin-arm64-1.18.8.zip
+  found_in: ovice-darwin-arm64-1.18.8.zip
+  signal: which-electron rg signal

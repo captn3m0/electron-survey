@@ -11,3 +11,12 @@ evidence:
   found_in: wizread-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/wizread/wizread-releases//releases/download/v1.0.15/wizread_1.0.15_amd64.deb
+  name: wizread_1.0.15_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://wizread.io/tos
+  name: tos
+  arch: any
+  source: aur-bin

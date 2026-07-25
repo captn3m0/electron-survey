@@ -51,6 +51,7 @@ downloads:
   url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-windows-x86_64.msi
 latest: 0.4.3
 src: https://github.com/spacedriveapp/spacedrive/archive/refs/tags/0.4.3.zip
-we_tried: we1.2.1:0.4.3
+we_tried: we1.2.1+p1:0.4.3
 aur_votes: 10
 brew_installs: 100
+last_commit: '2026-04-19'

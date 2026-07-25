@@ -21,3 +21,12 @@ evidence:
   found_in: botframework-emulator-4.14.1-mac.zip
   signal: which-electron rg signal
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.15.1/BotFramework-Emulator-4.15.1-linux-x86_64.AppImage
+  name: BotFramework-Emulator-4.15.1-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/microsoft/BotFramework-Emulator/v4.15.1/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin

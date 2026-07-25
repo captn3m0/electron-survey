@@ -11,3 +11,8 @@ evidence:
   found_in: ptree-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/smariel/PTree/releases/download/v2.3.1/PTree-linux.zip
+  name: PTree-linux.zip
+  arch: any
+  source: aur-bin

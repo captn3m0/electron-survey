@@ -43,3 +43,9 @@ evidence:
   found_in: mizar-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 aur_votes: 1
+last_commit: '2024-02-07'
+aur_downloads:
+- url: https://github.com/Fabio286/mizar/releases/download/v1.3.0/Mizar-1.3.0-linux_x86_64.AppImage
+  name: Mizar-1.3.0-linux_x86_64.AppImage
+  arch: any
+  source: aur-bin

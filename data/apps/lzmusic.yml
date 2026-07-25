@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/lzmusic-bin
   found_in: lzmusic-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_downloads:
+- url: https://github.com/yan5236/lzmusic/releases/download/v2.1.0/lzmusic-2.1.0.x86_64.rpm
+  name: lzmusic-2.1.0.x86_64.rpm
+  arch: any
+  source: aur-bin

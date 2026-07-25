@@ -46,3 +46,13 @@ evidence:
   source: https://aur.archlinux.org/packages/less-player-bin
   found_in: less-player-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2025-07-26'
+aur_downloads:
+- url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.linux-arm64.AppImage
+  name: Less.Player.v0.1.37.linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/GeekLee2012/Less-Player-Desktop/releases/download/v0.1.37/Less.Player.v0.1.37.linux-x86_64.AppImage
+  name: Less.Player.v0.1.37.linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

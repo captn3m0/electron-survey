@@ -41,3 +41,9 @@ evidence:
   found_in: fastdownloader-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 1
+last_commit: '2026-05-14'
+aur_downloads:
+- url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.pacman
+  name: fastdownloader-0.8.5.pacman
+  arch: any
+  source: aur-bin

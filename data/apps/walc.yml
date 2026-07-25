@@ -18,3 +18,9 @@ evidence:
   source: https://aur.archlinux.org/packages/walc-bin
   found_in: walc-bin
   signal: depends on electron20; reported as the newest 20.x release (20.3.12)
+last_commit: '2024-02-17'
+aur_downloads:
+- url: https://github.com/WAClient/WALC/releases/download/v0.3.3/WALC-0.3.3.AppImage
+  name: WALC-0.3.3.AppImage
+  arch: any
+  source: aur-bin

@@ -14,6 +14,7 @@ downloads:
 - name: perplexity-1.6.0-1-x86_64.pkg.tar.zst
   url: https://github.com/mazixs/perplexity/releases/download/v1.6.0-1/perplexity-1.6.0-1-x86_64.pkg.tar.zst
 homebrew: perplexity
-we_tried: we1.2.1:v1.6.0-1
+we_tried: we1.2.1+p1:v1.6.0-1
 aur_votes: 1
 brew_installs: 100
+last_commit: '2026-05-24'

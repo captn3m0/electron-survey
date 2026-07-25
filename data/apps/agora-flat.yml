@@ -15,3 +15,13 @@ evidence:
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://flat-storage.oss-accelerate.aliyuncs.com/versions/latest/stable/win/Flat-x64-2.2.3.exe
+  name: Flat-x64-2.2.3.exe
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/netless-io/flat/main/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

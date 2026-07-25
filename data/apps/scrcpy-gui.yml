@@ -28,3 +28,4 @@ downloads:
   url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.win64.exe
 - name: ScrcpyGui-1.510.win32.zip.zip
   url: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.510.win32.zip.zip
+last_commit: '2025-07-20'

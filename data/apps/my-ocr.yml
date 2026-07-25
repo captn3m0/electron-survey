@@ -28,3 +28,17 @@ evidence:
   source: https://aur.archlinux.org/packages/my-ocr-bin
   found_in: my-ocr-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2024-12-09'
+aur_downloads:
+- url: https://raw.githubusercontent.com/liumingye/my-ocr/v1.0.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/liumingye/my-ocr/releases/download/v1.0.3/MY-OCR_1.0.4_arm64.deb
+  name: MY-OCR_1.0.4_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/liumingye/my-ocr/releases/download/v1.0.3/MY-OCR_1.0.3_amd64.deb
+  name: MY-OCR_1.0.3_amd64.deb
+  arch: x86_64
+  source: aur-bin

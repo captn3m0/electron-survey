@@ -30,3 +30,4 @@ evidence:
   source: https://aur.archlinux.org/packages/dilidili-git
   found_in: dilidili-git
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2024-05-26'

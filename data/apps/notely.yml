@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/notely-git
   found_in: notely-git
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+last_commit: '2024-03-23'

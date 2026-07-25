@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/fireblocks-recovery-utility-bin
   found_in: fireblocks-recovery-utility-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+aur_downloads:
+- url: https://github.com/fireblocks/recovery/releases/download/v1.7.0/Recovery.Utility.Ubuntu.x86-64.zip
+  name: Recovery.Utility.Ubuntu.x86-64.zip
+  arch: any
+  source: aur-bin

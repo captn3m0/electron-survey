@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/kiwiirc-desktop-bin
   found_in: kiwiirc-desktop-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+aur_downloads:
+- url: https://github.com/kiwiirc/kiwiirc/releases/download/v1.7.1/kiwiirc-desktop_v1.7.1-2_linux_armv7l.deb
+  name: kiwiirc-desktop_v1.7.1-2_linux_armv7l.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/kiwiirc/kiwiirc/releases/download/v1.7.1/kiwiirc-desktop_v1.7.1-2_linux_arm64.deb
+  name: kiwiirc-desktop_v1.7.1-2_linux_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/kiwiirc/kiwiirc/releases/download/v1.7.1/kiwiirc-desktop_v1.7.1-2_linux_amd64.deb
+  name: kiwiirc-desktop_v1.7.1-2_linux_amd64.deb
+  arch: x86_64
+  source: aur-bin

@@ -17,3 +17,8 @@ electron: 39.2.2
 method: which-electron-rg
 aur_votes: 10
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://www.rememberthemilk.com/download/mac/RememberTheMilk-1.7.1-arm64.zip
+  found_in: RememberTheMilk-1.7.1-arm64.zip
+  signal: which-electron rg signal

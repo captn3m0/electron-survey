@@ -19,8 +19,8 @@ aur:
 - firefly-canary-desktop-bin
 - firefly-iota-desktop-bin
 - firefly-shimmer-desktop-bin
-electron: 27.3.11
-method: aur-depends
+electron: 27.0.2
+method: which-electron-rg
 homebrew: firefly-iota-desktop
 downloads:
 - name: firefly-iota-desktop-2.1.2.AppImage
@@ -34,8 +34,18 @@ downloads:
 latest: desktop-iota-2.1.2
 src: https://github.com/iotaledger/firefly/archive/refs/tags/desktop-iota-2.1.2.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/firefly-canary-desktop-bin
-  found_in: firefly-canary-desktop-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/iotaledger/firefly/releases/download/desktop-canary-3.0.1/firefly-canary-desktop-3.0.1.AppImage
+  found_in: firefly-canary-desktop-3.0.1.AppImage
+  signal: which-electron rg signal
 brew_installs: 10
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/iotaledger/firefly/releases/download/desktop-canary-3.0.1/firefly-canary-desktop-3.0.1.AppImage
+  name: firefly-canary-desktop-3.0.1.AppImage
+  arch: any
+  source: aur-bin
+- url: https://github.com/iotaledger/firefly/releases/download/desktop-iota-2.1.2/firefly-iota-desktop-2.1.2.AppImage
+  name: firefly-iota-desktop-2.1.2.AppImage
+  arch: any
+  source: aur-bin

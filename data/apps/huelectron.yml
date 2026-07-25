@@ -23,3 +23,13 @@ evidence:
   found_in: huelectron-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
 aur_votes: 1
+last_commit: '2023-05-07'
+aur_downloads:
+- url: https://github.com/4ch1m/huElectron/releases/download/0.6.1/huElectron-linux-x64-0.6.1.zip
+  name: huElectron-linux-x64-0.6.1.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/4ch1m/huElectron/0.6.1/app/img/icon.png
+  name: icon.png
+  arch: any
+  source: aur-bin

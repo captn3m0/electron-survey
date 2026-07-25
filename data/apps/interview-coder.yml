@@ -48,3 +48,4 @@ downloads:
   url: https://github.com/ibttf/interview-coder/releases/download/v1.0.33/latest-mac.yml
 - name: latest.yml
   url: https://github.com/ibttf/interview-coder/releases/download/v1.0.33/latest.yml
+last_commit: '2025-09-23'

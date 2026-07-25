@@ -11,3 +11,8 @@ evidence:
   found_in: llocal-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/kartikm7/llocal/v1.0.0-beta.11/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

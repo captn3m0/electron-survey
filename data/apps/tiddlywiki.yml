@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/tiddlywiki-app-bin
   found_in: tiddlywiki-app-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_downloads:
+- url: https://raw.githubusercontent.com/oeyoews/tiddlywiki-app/v4.9.16/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/oeyoews/tiddlywiki-app/releases/download/v4.9.16/tiddlywiki-app-4.9.16-aarch64.pacman
+  name: tiddlywiki-app-4.9.16-aarch64.pacman
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/oeyoews/tiddlywiki-app/releases/download/v4.9.16/tiddlywiki-app-4.9.16-x64.pacman
+  name: tiddlywiki-app-4.9.16-x64.pacman
+  arch: x86_64
+  source: aur-bin

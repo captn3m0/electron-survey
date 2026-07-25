@@ -26,3 +26,9 @@ downloads:
 - name: eDEX-UI-Windows.exe
   url: https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Windows.exe
 aur_votes: 10
+last_commit: '2021-10-19'
+evidence:
+  kind: binary
+  source: https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-arm64.AppImage
+  found_in: eDEX-UI-Linux-arm64.AppImage
+  signal: which-electron rg signal

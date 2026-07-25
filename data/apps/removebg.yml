@@ -14,3 +14,8 @@ downloads:
 electron: 29.1.5
 method: which-electron-rg
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://storage.googleapis.com/removebg-static/desktop/release/darwin/x64/remove.bg-darwin-x64-2.4.1.zip
+  found_in: remove.bg-darwin-x64-2.4.1.zip
+  signal: which-electron rg signal

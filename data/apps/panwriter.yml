@@ -54,3 +54,13 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-02-24'
+aur_downloads:
+- url: https://github.com/mb21/panwriter/releases/download/v0.8.10/PanWriter-0.8.10-arm64.AppImage
+  name: PanWriter-0.8.10-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/mb21/panwriter/releases/download/v0.8.10/PanWriter-0.8.10.AppImage
+  name: PanWriter-0.8.10.AppImage
+  arch: x86_64
+  source: aur-bin

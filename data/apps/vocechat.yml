@@ -28,3 +28,9 @@ evidence:
   source: https://aur.archlinux.org/packages/vocechat-desktop-bin
   found_in: vocechat-desktop-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2026-04-07'
+aur_downloads:
+- url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3.AppImage
+  name: VoceChat-0.9.3.AppImage
+  arch: any
+  source: aur-bin

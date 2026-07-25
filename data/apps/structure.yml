@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/structure-bin
   found_in: structure-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://github.com/neopostmodern/structure/releases/download/v0.25.1/Structure-0.25.1-x64.AppImage
+  name: Structure-0.25.1-x64.AppImage
+  arch: any
+  source: aur-bin

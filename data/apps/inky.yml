@@ -16,3 +16,8 @@ electron: 30.0.4
 method: which-electron-rg
 aur_votes: 1
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://github.com/inkle/inky/releases/download/0.15.2/inky.dmg
+  found_in: inky.dmg
+  signal: which-electron rg signal

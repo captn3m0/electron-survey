@@ -71,3 +71,9 @@ aur_votes: 1
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-07-14'
+evidence:
+  kind: binary
+  source: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.8/electron-mail-5.3.8-linux-aarch64.rpm
+  found_in: electron-mail-5.3.8-linux-aarch64.rpm
+  signal: which-electron rg signal

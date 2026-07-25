@@ -16,3 +16,9 @@ evidence:
   source: https://aur.archlinux.org/packages/upupup-bin
   found_in: upupup-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2025-01-25'
+aur_downloads:
+- url: https://github.com/unclemcz/upupup/releases/download/0.0.5/upupup_0.0.5_amd64.deb
+  name: upupup_0.0.5_amd64.deb
+  arch: any
+  source: aur-bin

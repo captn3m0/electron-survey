@@ -11,3 +11,8 @@ evidence:
   found_in: mudita-center-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/mudita/mudita-center/releases/download/4.0.0/Mudita-Center.AppImage
+  name: Mudita-Center.AppImage
+  arch: any
+  source: aur-bin

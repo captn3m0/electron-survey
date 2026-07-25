@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/image2pattern-git
   found_in: image2pattern-git
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2024-05-02'
+src: https://github.com/acrosman/image2pattern/archive/refs/heads/main.zip

@@ -4,3 +4,14 @@ website: https://github.com/helwan-linux/helwan-ai
 repository: https://github.com/helwan-linux/helwan-ai
 aur:
 - helwan-ai-gate
+last_commit: '2026-01-28'
+src: https://github.com/helwan-linux/helwan-ai/archive/refs/heads/main.zip
+electron: 29.4.6
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: helwan-ai-main/helwan-ai-gate/src/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/helwan-linux/helwan-ai/archive/refs/heads/main.zip
+electron_src: https://github.com/helwan-linux/helwan-ai/archive/refs/heads/main.zip
+electron_src_commit: '2026-01-28'

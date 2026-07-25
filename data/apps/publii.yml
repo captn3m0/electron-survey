@@ -35,3 +35,8 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://getpublii.com/download/Publii-0.47.7.rpm
+  name: Publii-0.47.7.rpm
+  arch: any
+  source: aur-bin

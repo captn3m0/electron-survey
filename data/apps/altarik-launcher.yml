@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/altarik-launcher-bin
   found_in: altarik-launcher-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+aur_downloads:
+- url: https://github.com/AltarikMC/Launcher/releases/download/2.3.3/Altarik.Launcher-linux-x64-2.3.3.zip
+  name: Altarik.Launcher-linux-x64-2.3.3.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/AltarikMC/Launcher/2.3.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/AltarikMC/Launcher/2.3.3/icon.ico
+  name: icon.ico
+  arch: any
+  source: aur-bin

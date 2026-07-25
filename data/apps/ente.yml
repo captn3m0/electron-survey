@@ -65,3 +65,13 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
+last_commit: '2026-07-06'
+aur_downloads:
+- url: https://github.com/ente-io/photos-desktop/releases/download/v1.7.26/ente-1.7.26-aarch64.pacman
+  name: ente-1.7.26-aarch64.pacman
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/ente-io/photos-desktop/releases/download/v1.7.26/ente-1.7.26-x64.pacman
+  name: ente-1.7.26-x64.pacman
+  arch: x86_64
+  source: aur-bin

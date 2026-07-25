@@ -31,8 +31,14 @@ electron: 13.0.1
 method: which-electron-rg
 latest: 2.3.13
 src: https://github.com/oonqt/MBCord/archive/refs/tags/2.3.13.zip
-brew_installs: 1
+brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2025-12-12'
+evidence:
+  kind: binary
+  source: https://github.com/oonqt/MBCord/releases/download/2.3.13/MBCord-darwin-x64.zip
+  found_in: MBCord-darwin-x64.zip
+  signal: which-electron rg signal (2 signals agreed)

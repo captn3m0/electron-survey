@@ -48,3 +48,4 @@ evidence:
   found_in: openbuilds-control
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
 aur_votes: 1
+last_commit: '2025-06-02'

@@ -22,3 +22,13 @@ evidence:
   source: https://aur.archlinux.org/packages/live-plus-plus-bin
   found_in: live-plus-plus-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2026-06-11'
+aur_downloads:
+- url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live++-2.3.10.AppImage
+  name: live++-2.3.10.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/dipelta/live-plus-plus/v2.3.10/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

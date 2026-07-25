@@ -15,3 +15,13 @@ evidence:
   found_in: lode-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
 aur_votes: 10
+aur_downloads:
+- url: https://github.com/lodeapp/lode/releases/download/v0.36.0/Lode_0.36.0_amd64.deb
+  name: Lode_0.36.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/lodeapp/lode/v0.36.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+we_tried: we1.2.1+p1:urls:ed99fe76a230

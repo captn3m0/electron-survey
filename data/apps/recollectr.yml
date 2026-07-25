@@ -4,3 +4,5 @@ website: https://recollectr.io
 aur:
 - recollectr
 name: Recollectr
+last_commit: '2019-07-11'
+src: https://github.com/Recollectr/releases/archive/refs/heads/master.zip

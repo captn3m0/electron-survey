@@ -14,3 +14,8 @@ downloads:
 electron: 37.2.5
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://downloads.kiwiforgmail.com/kiwi/release/consumer/Kiwi%20for%20Gmail-4.6.2-universal-mac.zip
+  found_in: Kiwi%20for%20Gmail-4.6.2-universal-mac.zip
+  signal: which-electron rg signal

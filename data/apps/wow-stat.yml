@@ -9,3 +9,4 @@ downloads:
 - name: WoWStat-win-3.0.5.exe
   url: https://github.com/spacedevin/wowstat/releases/download/3.0.5/WoWStat-win-3.0.5.exe
 name: WoW Stat
+last_commit: '2016-11-30'

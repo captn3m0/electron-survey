@@ -13,3 +13,4 @@ downloads:
 name: Saadhn
 electron: 0.37.3
 method: which-electron-version_file
+last_commit: '2021-08-02'

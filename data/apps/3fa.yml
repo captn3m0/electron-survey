@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/3fa-bin
   found_in: 3fa-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+aur_downloads:
+- url: https://github.com/Computing-Collective/3FA/releases/download/v1.0.1/3fa_1.0.1_amd64.deb
+  name: 3fa_1.0.1_amd64.deb
+  arch: any
+  source: aur-bin

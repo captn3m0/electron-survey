@@ -16,3 +16,8 @@ downloads:
   name: EnvKey-1.5.10-mac.zip
   version: 1.5.10
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://github.com/envkey/envkey-app/releases/download/darwin-x64-prod-v1.5.10/EnvKey-1.5.10-mac.zip
+  found_in: EnvKey-1.5.10-mac.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

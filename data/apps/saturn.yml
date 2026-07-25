@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/saturn-desktop-bin
   found_in: saturn-desktop-bin
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+aur_downloads:
+- url: https://github.com/SaturnMusic/PC/releases/download/v1.1.1/saturn_1.1.1_amd64.deb
+  name: saturn_1.1.1_amd64.deb
+  arch: any
+  source: aur-bin

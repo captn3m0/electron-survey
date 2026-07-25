@@ -36,3 +36,4 @@ downloads:
   url: https://github.com/trazyn/ieaseMusic/releases/download/v1.3.4/latest-linux.yml
 - name: latest-mac.yml
   url: https://github.com/trazyn/ieaseMusic/releases/download/v1.3.4/latest-mac.yml
+last_commit: '2023-02-16'

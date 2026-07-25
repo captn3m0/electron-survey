@@ -10,3 +10,5 @@ downloads:
   name: windows
 - url: https://nicepage.com/get/mac
   name: mac
+last_commit: '2020-09-05'
+src: https://github.com/NicepageApp/Nicepage/archive/refs/heads/master.zip

@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/mingo-bin
   found_in: mingo-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://mingo.io/eula
+  name: eula
+  arch: any
+  source: aur-bin
+- url: https://github.com/mingo-app/mingo/releases/download/v2026.5.0/mingo_2026.5.0_arm64.deb
+  name: mingo_2026.5.0_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/mingo-app/mingo/releases/download/v2026.5.0/mingo_2026.5.0_amd64.deb
+  name: mingo_2026.5.0_amd64.deb
+  arch: x86_64
+  source: aur-bin

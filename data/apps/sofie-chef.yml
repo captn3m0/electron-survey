@@ -26,3 +26,13 @@ evidence:
   source: https://aur.archlinux.org/packages/sofie-chef-bin
   found_in: sofie-chef-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-07-20'
+aur_downloads:
+- url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Linux-Executable.AppImage
+  name: SofieChef-0.6.0-Linux-Executable.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/nrkno/sofie-chef/v0.6.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

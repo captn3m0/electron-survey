@@ -100,3 +100,28 @@ evidence:
 homepage: true
 aur_votes: 1000
 brew_installs: 100000
+aur_downloads:
+- url: https://update.code.visualstudio.com/1.130.0/cli-linux-x64/stable
+  name: stable
+  arch: x86_64
+  source: aur-bin
+- url: https://update.code.visualstudio.com/1.130.0/cli-linux-arm64/stable
+  name: stable
+  arch: aarch64
+  source: aur-bin
+- url: https://update.code.visualstudio.com/1.130.0/cli-linux-armhf/stable
+  name: stable
+  arch: armv7h
+  source: aur-bin
+- url: https://vscode.download.prss.microsoft.com/dbazure/download/insider/b9ebf999d312fa4a308b624eef68731c6057459a/code-insiders_1.131.0-1784913417_amd64.deb
+  name: code-insiders_1.131.0-1784913417_amd64.deb
+  arch: x86_64
+  source: aur-bin
+- url: https://vscode.download.prss.microsoft.com/dbazure/download/insider/b9ebf999d312fa4a308b624eef68731c6057459a/code-insiders_1.131.0-1784913411_arm64.deb
+  name: code-insiders_1.131.0-1784913411_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://vscode.download.prss.microsoft.com/dbazure/download/insider/b9ebf999d312fa4a308b624eef68731c6057459a/code-insiders_1.131.0-1784913277_armhf.deb
+  name: code-insiders_1.131.0-1784913277_armhf.deb
+  arch: armv7h
+  source: aur-bin

@@ -22,3 +22,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://cdn.anythingllm.com/latest/AnythingLLMDesktop-Arm64.AppImage
+  name: AnythingLLMDesktop-Arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://cdn.anythingllm.com/latest/AnythingLLMDesktop.AppImage
+  name: AnythingLLMDesktop.AppImage
+  arch: x86_64
+  source: aur-bin

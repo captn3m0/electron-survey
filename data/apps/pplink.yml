@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/pplink-bin
   found_in: pplink-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+aur_downloads:
+- url: https://www.ppzhilian.com/download/linux/pplink_16.0.1_amd64.deb
+  name: pplink_16.0.1_amd64.deb
+  arch: any
+  source: aur-bin

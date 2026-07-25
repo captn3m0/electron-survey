@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/solar-wallet-bin
   found_in: solar-wallet-bin
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+aur_downloads:
+- url: https://github.com/satoshipay/solar/releases/download/v0.28.1/Solar-Wallet-0.28.1.deb
+  name: Solar-Wallet-0.28.1.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/satoshipay/solar/v0.28.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

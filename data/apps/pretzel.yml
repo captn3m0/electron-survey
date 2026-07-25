@@ -14,3 +14,8 @@ downloads:
 electron: 35.7.5
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://download.pretzel.rocks/Pretzel-2.13.2-universal-mac.zip
+  found_in: Pretzel-2.13.2-universal-mac.zip
+  signal: which-electron rg signal

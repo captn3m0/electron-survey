@@ -11,3 +11,8 @@ evidence:
   found_in: kinda-bard-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/zorbajwhk/KindaBard/releases/download/v1.0.0/kinda-bard_1.0.0_amd64.deb
+  name: kinda-bard_1.0.0_amd64.deb
+  arch: any
+  source: aur-bin

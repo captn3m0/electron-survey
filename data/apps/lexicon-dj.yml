@@ -14,3 +14,8 @@ downloads:
 electron: 32.3.3
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://update.rekord.cloud/releases/lexicon/latest/lexicon-1.11.10-mac-aarch64.zip
+  found_in: lexicon-1.11.10-mac-aarch64.zip
+  signal: which-electron rg signal

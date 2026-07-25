@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/librelinkupdesktop-bin
   found_in: librelinkupdesktop-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_downloads:
+- url: https://github.com/Crazy-Marvin/LibreLinkUpDesktop/releases/download/v0.1.16/LibreLinkUpDesktop-0.1.16-amd64.deb
+  name: LibreLinkUpDesktop-0.1.16-amd64.deb
+  arch: any
+  source: aur-bin

@@ -25,3 +25,4 @@ evidence:
   found_in: Archiver-5.0.9-universal-mac.zip
   signal: which-electron rg signal
 brew_installs: 100
+last_commit: '2026-06-01'

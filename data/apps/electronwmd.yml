@@ -25,3 +25,9 @@ evidence:
   found_in: electronwmd-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 aur_votes: 1
+last_commit: '2026-06-07'
+aur_downloads:
+- url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
+  name: electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
+  arch: any
+  source: aur-bin

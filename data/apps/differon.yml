@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/differon-git
   found_in: differon-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2025-06-05'
+src: https://github.com/wolfdenpublishing/differon/archive/refs/heads/master.zip

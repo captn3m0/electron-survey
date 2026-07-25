@@ -4,3 +4,14 @@ website: https://github.com/abstra-llc/safe#readme
 repository: https://github.com/abstra-llc/safe
 aur:
 - safe
+last_commit: '2023-01-04'
+src: https://github.com/abstra-llc/safe/archive/refs/heads/master.zip
+electron: 7.2.4
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: SAFE-master/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/abstra-llc/safe/archive/refs/heads/master.zip
+electron_src: https://github.com/abstra-llc/safe/archive/refs/heads/master.zip
+electron_src_commit: '2023-01-04'

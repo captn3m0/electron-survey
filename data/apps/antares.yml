@@ -58,3 +58,4 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
+last_commit: '2025-10-14'

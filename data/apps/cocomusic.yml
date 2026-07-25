@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/cocomusic
   found_in: cocomusic
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+last_commit: '2022-12-10'

@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/rao-pics-bin
   found_in: rao-pics-bin
   signal: depends on electron20; reported as the newest 20.x release (20.3.12)
+aur_downloads:
+- url: https://github.com/rao-pics/rao-pics/releases/download/v0.7.16/Rao.Pics-0.7.16-linux-arm64-openssl-3.0.x.deb
+  name: Rao.Pics-0.7.16-linux-arm64-openssl-3.0.x.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/rao-pics/rao-pics/releases/download/v0.7.16/Rao.Pics-0.7.16-linux-amd64-openssl-3.0.x.deb
+  name: Rao.Pics-0.7.16-linux-amd64-openssl-3.0.x.deb
+  arch: x86_64
+  source: aur-bin

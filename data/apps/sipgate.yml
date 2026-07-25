@@ -16,3 +16,8 @@ electron: 42.3.0
 method: which-electron-rg
 aur_votes: 1
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://s3-eu-central-1.amazonaws.com/desktop.download.sipgate.com/sipgate-2.41.3.zip
+  found_in: sipgate-2.41.3.zip
+  signal: which-electron rg signal

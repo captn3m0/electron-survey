@@ -34,3 +34,9 @@ src: https://github.com/kubernetes-sigs/kui/archive/refs/tags/v13.1.4.zip
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: discontinued
+last_commit: '2025-07-12'
+evidence:
+  kind: binary
+  source: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
+  found_in: Kui-darwin-arm64.tar.bz2
+  signal: which-electron rg signal

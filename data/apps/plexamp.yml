@@ -22,3 +22,8 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp-4.13.2.AppImage
+  name: Plexamp-4.13.2.AppImage
+  arch: any
+  source: aur-bin

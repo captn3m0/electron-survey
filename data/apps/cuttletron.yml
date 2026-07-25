@@ -16,3 +16,17 @@ evidence:
   source: https://aur.archlinux.org/packages/cuttletron-bin
   found_in: cuttletron-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+last_commit: '2024-07-23'
+aur_downloads:
+- url: https://github.com/mantzaris/cuttleTron/releases/download/v1.0.0/cuttletron-1.0.0.zip
+  name: cuttletron-1.0.0.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/mantzaris/cuttleTron/v1.0.0/cuttlefish.png
+  name: cuttlefish.png
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/mantzaris/cuttleTron/v1.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

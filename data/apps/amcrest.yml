@@ -27,3 +27,9 @@ evidence:
   source: https://aur.archlinux.org/packages/amcrest-desktop-bin
   found_in: amcrest-desktop-bin
   signal: depends on electron14; reported as the newest 14.x release (14.2.9)
+last_commit: '2023-08-07'
+aur_downloads:
+- url: https://github.com/mikepruett3/amcrest-desktop/releases/download/v1.0.1/amcrest-desktop-1.0.1-1.x86_64.rpm
+  name: amcrest-desktop-1.0.1-1.x86_64.rpm
+  arch: any
+  source: aur-bin

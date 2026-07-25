@@ -21,3 +21,24 @@ evidence:
   found_in: Linear-1.31.1-universal.dmg
   signal: which-electron rg signal
 brew_installs: 1000
+aur_downloads:
+- url: https://releases.linear.app/Linear%20Setup%201.30.0.exe
+  name: Linear%20Setup%201.30.0.exe
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/linear-arch/main/patch-main.py
+  name: patch-main.py
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Finesssee/linear-cli/v0.3.25/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/Finesssee/linear-cli/releases/download/v0.3.25/linear-cli-x86_64-unknown-linux-gnu.tar.gz
+  name: linear-cli-x86_64-unknown-linux-gnu.tar.gz
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/zacharyftw/linear-linux/releases/download/v0.2.3/Linear_0.2.3_amd64.deb
+  name: Linear_0.2.3_amd64.deb
+  arch: x86_64
+  source: aur-bin

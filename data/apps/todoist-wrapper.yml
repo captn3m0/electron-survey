@@ -6,18 +6,32 @@ aur:
 - todoist-wrapper-bin
 electron: 41.10.2
 method: aur-depends
-latest: v4.20260722031623
-src: https://github.com/conjfrnk/todoist-wrapper/archive/refs/tags/v4.20260722031623.zip
+latest: v4.20260724031651
+src: https://github.com/conjfrnk/todoist-wrapper/archive/refs/tags/v4.20260724031651.zip
 downloads:
-- name: todoist-wrapper-4.20260722031623-1.x86_64.rpm
-  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260722031623/todoist-wrapper-4.20260722031623-1.x86_64.rpm
+- name: todoist-wrapper-4.20260724031651-1.x86_64.rpm
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260724031651/todoist-wrapper-4.20260724031651-1.x86_64.rpm
 - name: todoist-wrapper-latest.rpm
-  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260722031623/todoist-wrapper-latest.rpm
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260724031651/todoist-wrapper-latest.rpm
 - name: todoist-wrapper-linux-x64.zip
-  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260722031623/todoist-wrapper-linux-x64.zip
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260724031651/todoist-wrapper-linux-x64.zip
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/todoist-wrapper-bin
   found_in: todoist-wrapper-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260722031623/todoist-wrapper-4.20260722031623-1.x86_64.rpm
+  name: todoist-wrapper-4.20260722031623-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://doist.com/brand-assets/todoist-logo.zip
+  name: todoist-logo.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/conjfrnk/todoist-wrapper/v4.20260722031623/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

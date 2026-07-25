@@ -13,3 +13,13 @@ electron: 26.6.7
 method: which-electron-rg
 aur_votes: 1
 brew_installs: 10
+aur_downloads:
+- url: https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.deb
+  name: Buckets-linux-latest-amd64-0.80.0.deb
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/buckets/application/releases/download/v0.80.0/Buckets-arm64-0.80.0.dmg
+  found_in: Buckets-arm64-0.80.0.dmg
+  signal: which-electron rg signal

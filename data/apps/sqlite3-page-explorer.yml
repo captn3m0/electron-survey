@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/sqlite3-page-explorer-git
   found_in: sqlite3-page-explorer-git
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2026-07-21'

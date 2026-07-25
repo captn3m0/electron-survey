@@ -2,3 +2,14 @@ id: hbbatchbeast
 repository: https://github.com/HaveAGitGat/HBBatchBeast
 website: https://github.com/HaveAGitGat/HBBatchBeast
 name: HBBatchBeast
+last_commit: '2026-05-11'
+src: https://github.com/HaveAGitGat/HBBatchBeast/archive/refs/heads/master.zip
+electron: 3.1.12
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: HBBatchBeast-master/HBBatchBeast/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/HaveAGitGat/HBBatchBeast/archive/refs/heads/master.zip
+electron_src: https://github.com/HaveAGitGat/HBBatchBeast/archive/refs/heads/master.zip
+electron_src_commit: '2026-05-11'

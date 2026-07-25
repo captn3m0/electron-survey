@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/hera-git
   found_in: hera-git
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2025-08-11'
+src: https://github.com/sandrasoueid/hera/archive/refs/heads/main.zip

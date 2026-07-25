@@ -40,3 +40,9 @@ downloads:
 - name: RELEASES
   url: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/RELEASES
 aur_votes: 10
+last_commit: '2022-12-02'
+evidence:
+  kind: binary
+  source: https://github.com/OpenBazaar/openbazaar-desktop/releases/download/v2.4.10/OpenBazaar2-2.4.10-full.nupkg
+  found_in: OpenBazaar2-2.4.10-full.nupkg
+  signal: which-electron fingerprint signal (2 signals agreed)

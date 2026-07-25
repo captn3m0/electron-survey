@@ -70,3 +70,29 @@ evidence:
   signal: electron pinned in yarn.lock
   reconstructed: true
 aur_votes: 1
+last_commit: '2026-06-06'
+aur_downloads:
+- url: https://raw.githubusercontent.com/patrikx3/onenote/v2026.4.132/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote-2026.4.132.aarch64.rpm
+  name: p3x-onenote-2026.4.132.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote-2026.4.132.x86_64.rpm
+  name: p3x-onenote-2026.4.132.x86_64.rpm
+  arch: x86_64
+  source: aur-bin
+- url: https://raw.githubusercontent.com/patrikx3/redis-ui/v2026.4.3014/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui-2026.4.3014.aarch64.rpm
+  name: p3x-redis-ui-2026.4.3014.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui-2026.4.3014.x86_64.rpm
+  name: p3x-redis-ui-2026.4.3014.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

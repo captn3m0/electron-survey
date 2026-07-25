@@ -22,3 +22,8 @@ evidence:
   found_in: Realm.Studio-15.2.1.dmg
   signal: which-electron rg signal
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/realm/realm-studio/releases/download/v20.0.0/Realm.Studio-20.0.0.AppImage
+  name: Realm.Studio-20.0.0.AppImage
+  arch: any
+  source: aur-bin

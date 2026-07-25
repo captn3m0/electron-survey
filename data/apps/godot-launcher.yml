@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/godot-launcher-bin
   found_in: godot-launcher-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_downloads:
+- url: https://raw.githubusercontent.com/godotlauncher/launcher/v1.10.1/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin
+- url: https://github.com/godotlauncher/launcher/releases/download/v1.10.1/Godot_Launcher-1.10.1-linux_aarch64.rpm
+  name: Godot_Launcher-1.10.1-linux_aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/godotlauncher/launcher/releases/download/v1.10.1/Godot_Launcher-1.10.1-linux_x86_64.rpm
+  name: Godot_Launcher-1.10.1-linux_x86_64.rpm
+  arch: x86_64
+  source: aur-bin

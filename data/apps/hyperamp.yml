@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/hyperamp-bin
   found_in: hyperamp-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+aur_downloads:
+- url: https://github.com/hypermodules/hyperamp/releases/download/v1.2.0/Hyperamp-1.2.0-arm64.AppImage
+  name: Hyperamp-1.2.0-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/hypermodules/hyperamp/releases/download/v1.2.0/Hyperamp-1.2.0-armv7l.AppImage
+  name: Hyperamp-1.2.0-armv7l.AppImage
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/hypermodules/hyperamp/releases/download/v1.2.0/Hyperamp-1.2.0.AppImage
+  name: Hyperamp-1.2.0.AppImage
+  arch: x86_64
+  source: aur-bin

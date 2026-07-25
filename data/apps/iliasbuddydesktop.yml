@@ -4,3 +4,14 @@ website: https://github.com/AnonymerNiklasistanonym/IliasBuddyDesktop
 repository: https://github.com/AnonymerNiklasistanonym/IliasBuddyDesktop
 aur:
 - iliasbuddydesktop
+last_commit: '2023-01-06'
+src: https://github.com/AnonymerNiklasistanonym/IliasBuddyDesktop/archive/refs/heads/master.zip
+electron: 8.5.2
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: IliasBuddyDesktop-master/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/AnonymerNiklasistanonym/IliasBuddyDesktop/archive/refs/heads/master.zip
+electron_src: https://github.com/AnonymerNiklasistanonym/IliasBuddyDesktop/archive/refs/heads/master.zip
+electron_src_commit: '2023-01-06'

@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/favicon-generator
   found_in: favicon-generator
   signal: depends on electron14; reported as the newest 14.x release (14.2.9)
+last_commit: '2023-06-21'

@@ -62,3 +62,13 @@ evidence:
   source: https://aur.archlinux.org/packages/echoplayer-bin
   found_in: echoplayer-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+last_commit: '2025-10-25'
+aur_downloads:
+- url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-arm64.deb
+  name: EchoPlayer-1.4.1-arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/mkdir700/EchoPlayer/releases/download/v1.4.1/EchoPlayer-1.4.1-amd64.deb
+  name: EchoPlayer-1.4.1-amd64.deb
+  arch: x86_64
+  source: aur-bin

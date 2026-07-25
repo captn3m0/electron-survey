@@ -134,3 +134,21 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://raw.githubusercontent.com/Legcord/Legcord/v1.2.4/license.txt
+  name: license.txt
+  arch: any
+  source: aur-bin
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-aarch64.rpm
+  name: Legcord-1.2.4-linux-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-armv7l.rpm
+  name: Legcord-1.2.4-linux-armv7l.rpm
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/Legcord/Legcord/releases/download/v1.2.4/Legcord-1.2.4-linux-x86_64.rpm
+  name: Legcord-1.2.4-linux-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

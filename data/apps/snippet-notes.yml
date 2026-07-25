@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/snippet-notes
   found_in: snippet-notes
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2026-07-12'

@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/he3-tools-bin
   found_in: he3-tools-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://he3app.com/en/terms
+  name: terms
+  arch: any
+  source: aur-bin
+- url: https://dl.he3app.com/2.0.20/He3_linux_arm64_2.0.20.deb
+  name: He3_linux_arm64_2.0.20.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://dl.he3app.com/2.0.20/He3_linux_amd64_2.0.20.deb
+  name: He3_linux_amd64_2.0.20.deb
+  arch: x86_64
+  source: aur-bin

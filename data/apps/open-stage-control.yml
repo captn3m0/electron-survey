@@ -4,3 +4,8 @@ aur:
 - open-stage-control-bin
 name: Open Stage Control
 aur_votes: 1
+aur_downloads:
+- url: https://openstagecontrol.ammd.net/packages/open-stage-control_1.30.4_linux-x64.zip
+  name: open-stage-control_1.30.4_linux-x64.zip
+  arch: any
+  source: aur-bin

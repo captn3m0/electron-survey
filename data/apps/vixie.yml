@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/vixie-git
   found_in: vixie-git
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2025-07-13'
+src: https://github.com/Vinceli2401/Vixie/archive/refs/heads/master.zip

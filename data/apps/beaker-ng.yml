@@ -11,3 +11,14 @@ evidence:
   source: https://aur.archlinux.org/packages/beaker-ng-bin
   found_in: beaker-ng-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+last_commit: '2024-02-28'
+src: https://github.com/Alex313031/beaker-ng/archive/refs/heads/master.zip
+aur_downloads:
+- url: https://github.com/Alex313031/beaker-ng/releases/download/1.2.3/beaker-browser_1.2.3_amd64.deb
+  name: beaker-browser_1.2.3_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Alex313031/beaker-ng/1.2.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

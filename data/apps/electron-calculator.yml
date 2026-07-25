@@ -26,3 +26,4 @@ evidence:
   source: https://aur.archlinux.org/packages/electron-calculator-bin
   found_in: electron-calculator-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2024-02-10'

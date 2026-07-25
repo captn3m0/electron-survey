@@ -24,3 +24,17 @@ evidence:
   source: https://aur.archlinux.org/packages/frosch-bin
   found_in: frosch-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+last_commit: '2023-04-23'
+aur_downloads:
+- url: https://raw.githubusercontent.com/ivanrey/Frosch/v2.0.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-linux-ia32.zip
+  name: Frosch-linux-ia32.zip
+  arch: i686
+  source: aur-bin
+- url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-linux-x64.zip
+  name: Frosch-linux-x64.zip
+  arch: x86_64
+  source: aur-bin

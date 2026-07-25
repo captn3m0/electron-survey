@@ -22,3 +22,13 @@ evidence:
   source: https://aur.archlinux.org/packages/gptm-bin
   found_in: gptm-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2025-01-03'
+aur_downloads:
+- url: https://github.com/Technicalflight/Gptm/releases/download/v1.2/linux-artifacts.zip
+  name: linux-artifacts.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Technicalflight/Gptm/v1.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

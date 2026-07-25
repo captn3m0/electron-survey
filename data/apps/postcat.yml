@@ -62,3 +62,9 @@ evidence:
   source: https://aur.archlinux.org/packages/postcat-appimage
   found_in: postcat-appimage
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2026-02-27'
+aur_downloads:
+- url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.AppImage
+  name: Postcat-0.5.1.AppImage
+  arch: any
+  source: aur-bin

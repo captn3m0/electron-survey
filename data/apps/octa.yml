@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/octa-electron
   found_in: octa-electron
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+last_commit: '2025-05-13'

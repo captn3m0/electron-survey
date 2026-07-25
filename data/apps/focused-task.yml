@@ -2,3 +2,14 @@ id: focused-task
 repository: https://github.com/RStankov/FocusedTask
 website: https://github.com/RStankov/FocusedTask
 name: Focused Task
+last_commit: '2023-10-27'
+src: https://github.com/RStankov/FocusedTask/archive/refs/heads/master.zip
+electron: 8.5.2
+method: src-yarn-lock
+evidence:
+  kind: lockfile
+  found_in: FocusedTask-master/shell/yarn.lock
+  signal: electron pinned in yarn.lock
+  source: https://github.com/RStankov/FocusedTask/archive/refs/heads/master.zip
+electron_src: https://github.com/RStankov/FocusedTask/archive/refs/heads/master.zip
+electron_src_commit: '2023-10-27'

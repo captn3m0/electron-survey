@@ -81,3 +81,4 @@ evidence:
   found_in: ChatALL-1.85.110-linux-arm64.AppImage
   signal: which-electron rg signal
 brew_installs: 100
+last_commit: '2026-02-11'

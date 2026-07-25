@@ -41,3 +41,13 @@ evidence:
   found_in: transmissionic-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
 aur_votes: 1
+last_commit: '2024-07-28'
+aur_downloads:
+- url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-linux-x86_64-v1.8.0.AppImage
+  name: Transmissionic-linux-x86_64-v1.8.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/6c65726f79/Transmissionic/main/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

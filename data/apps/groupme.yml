@@ -20,3 +20,4 @@ evidence:
   found_in: package.json
   signal: electron pinned to an exact version in package.json
   reconstructed: true
+last_commit: '2023-03-27'

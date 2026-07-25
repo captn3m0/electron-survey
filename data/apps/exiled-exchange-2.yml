@@ -11,3 +11,12 @@ evidence:
   found_in: exiled-exchange-2-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/Kvan7/Exiled-Exchange-2/releases/download/v0.15.8/Exiled-Exchange-2-0.15.8.AppImage
+  name: Exiled-Exchange-2-0.15.8.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Kvan7/Exiled-Exchange-2/v0.15.8/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

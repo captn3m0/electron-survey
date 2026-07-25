@@ -12,3 +12,5 @@ evidence:
   found_in: proton-mail-viewer
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
 aur_votes: 1
+last_commit: '2023-08-25'
+src: https://github.com/moba1/proton-mail-viewer/archive/refs/heads/main.zip

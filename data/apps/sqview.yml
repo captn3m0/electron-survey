@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/sqview-git
   found_in: sqview-git
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2025-12-29'
+src: https://github.com/j128919965/sqview/archive/refs/heads/main.zip

@@ -14,3 +14,8 @@ downloads:
 electron: 29.1.6
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://rhr-electron.s3.amazonaws.com/desktop-releases/RemoteHamRadio-2.4.1-universal-mac.zip
+  found_in: RemoteHamRadio-2.4.1-universal-mac.zip
+  signal: which-electron rg signal

@@ -12,3 +12,10 @@ downloads:
   name: Threema-Work-Latest.dmg
   version: 1.2.50
 brew_installs: 10
+electron: 37.4.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://releases.threema.ch/web-electron/v1/release/Threema-Work-Latest.dmg
+  found_in: Threema-Work-Latest.dmg
+  signal: which-electron rg signal

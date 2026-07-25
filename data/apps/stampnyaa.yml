@@ -26,3 +26,9 @@ evidence:
   source: https://aur.archlinux.org/packages/stampnyaa-bin
   found_in: stampnyaa-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2025-03-23'
+aur_downloads:
+- url: https://github.com/MarvNC/StampNyaa/releases/download/v1.6.0/stampnyaa-1.6.0-1.x86_64.rpm
+  name: stampnyaa-1.6.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

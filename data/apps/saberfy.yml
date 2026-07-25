@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/saberfy
   found_in: saberfy
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+last_commit: '2026-04-14'

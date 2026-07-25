@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/atmos-weather-bin
   found_in: atmos-weather-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_downloads:
+- url: https://github.com/atticuscornett/AtmosWeather/releases/download/v3.1.0/atmos-weather_3.1.0_arm64.deb
+  name: atmos-weather_3.1.0_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/atticuscornett/AtmosWeather/releases/download/v3.1.0/atmos-weather_3.1.0_armv7l.deb
+  name: atmos-weather_3.1.0_armv7l.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/atticuscornett/AtmosWeather/releases/download/v3.1.0/atmos-weather_3.1.0_amd64.deb
+  name: atmos-weather_3.1.0_amd64.deb
+  arch: x86_64
+  source: aur-bin

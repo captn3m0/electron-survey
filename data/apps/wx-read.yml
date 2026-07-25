@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/wx-read
   found_in: wx-read
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2026-01-28'

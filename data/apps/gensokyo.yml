@@ -28,3 +28,9 @@ evidence:
   source: https://aur.archlinux.org/packages/gensokyo-bin
   found_in: gensokyo-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2024-07-21'
+aur_downloads:
+- url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Debian.zip
+  name: Debian.zip
+  arch: any
+  source: aur-bin

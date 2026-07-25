@@ -32,3 +32,4 @@ downloads:
   url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-macos.dmg
 - name: PikaTorrent-v0.15.0-windows-x64.zip
   url: https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-windows-x64.zip
+last_commit: '2026-07-24'

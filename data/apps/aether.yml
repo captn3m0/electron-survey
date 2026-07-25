@@ -4,3 +4,14 @@ website: https://getaether.net
 aur:
 - aether
 name: Aether
+last_commit: '2023-09-01'
+src: https://github.com/aethereans/aether-app/archive/refs/heads/master.zip
+electron: 5.0.8
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: aether-app-master/aether-core/aether/client/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/aethereans/aether-app/archive/refs/heads/master.zip
+electron_src: https://github.com/aethereans/aether-app/archive/refs/heads/master.zip
+electron_src_commit: '2023-09-01'

@@ -18,3 +18,9 @@ evidence:
   source: https://aur.archlinux.org/packages/imageconverter2-bin
   found_in: imageconverter2-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2023-12-19'
+aur_downloads:
+- url: https://github.com/tkroo/image-converter2/releases/download/1.0.9/imageconverter2-1.0.9.AppImage
+  name: imageconverter2-1.0.9.AppImage
+  arch: any
+  source: aur-bin

@@ -11,3 +11,12 @@ evidence:
   found_in: algermusicplayer-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-linux-aarch64.rpm
+  name: AlgerMusicPlayer-5.1.0-linux-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/algerkong/AlgerMusicPlayer/releases/download/v5.1.0/AlgerMusicPlayer-5.1.0-linux-x86_64.rpm
+  name: AlgerMusicPlayer-5.1.0-linux-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

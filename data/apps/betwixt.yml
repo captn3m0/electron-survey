@@ -36,3 +36,9 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2021-11-23'
+evidence:
+  kind: binary
+  source: https://github.com/kdzwinel/betwixt/releases/download/1.6.1/Betwixt-darwin-x64.zip
+  found_in: Betwixt-darwin-x64.zip
+  signal: which-electron version_file signal (2 signals agreed)

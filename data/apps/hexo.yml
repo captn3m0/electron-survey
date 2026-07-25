@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/hexo-desktop-git
   found_in: hexo-desktop-git
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+last_commit: '2025-03-27'
+src: https://github.com/w-xuefeng/hexo-desktop/archive/refs/heads/main.zip

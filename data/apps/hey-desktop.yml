@@ -20,3 +20,13 @@ electron: 40.8.5
 method: which-electron-rg
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://api.snapcraft.io/api/v1/snaps/download/lfWUNpR7PrPGsDfuxIhVxbj0wZHoH7bK_28.snap
+  name: lfWUNpR7PrPGsDfuxIhVxbj0wZHoH7bK_28.snap
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://hey.com/desktop/HEY-1.3.3-arm64-mac.zip
+  found_in: HEY-1.3.3-arm64-mac.zip
+  signal: which-electron rg signal

@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/circle-chain-desktop-git
   found_in: circle-chain-desktop-git
   signal: depends on electron20; reported as the newest 20.x release (20.3.12)
+last_commit: '2025-02-28'

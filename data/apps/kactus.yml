@@ -15,3 +15,4 @@ method: which-electron-rg
 latest: v0.3.35
 src: https://github.com/kactus-io/kactus/archive/refs/tags/v0.3.35.zip
 brew_installs: 1
+last_commit: '2022-07-22'

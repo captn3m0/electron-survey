@@ -23,3 +23,4 @@ evidence:
   found_in: tasker-permissions-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 aur_votes: 1
+last_commit: '2025-12-18'

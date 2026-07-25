@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/projscope-music-player-bin
   found_in: projscope-music-player-bin
   signal: depends on electron17; reported as the newest 17.x release (17.4.11)
+aur_downloads:
+- url: https://github.com/jviaches/projscope-music-player/releases/download/v1.1.5/Projscope.MP3.Player-1.1.5-x86_64.rpm
+  name: Projscope.MP3.Player-1.1.5-x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/jviaches/projscope-music-player/v1.1.5/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

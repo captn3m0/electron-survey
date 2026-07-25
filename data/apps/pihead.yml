@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/pihead-gui-git
   found_in: pihead-gui-git
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+last_commit: '2025-01-05'

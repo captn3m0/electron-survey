@@ -22,3 +22,17 @@ evidence:
   source: https://aur.archlinux.org/packages/pgdm-ui-bin
   found_in: pgdm-ui-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2025-04-22'
+aur_downloads:
+- url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management-1.0.0.snap
+  name: PostGres.Data.Management-1.0.0.snap
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ucd-library/pgdm-ui/1.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ucd-library/pgdm-ui/1.0.0/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

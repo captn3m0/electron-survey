@@ -26,3 +26,9 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2024-08-15'
+evidence:
+  kind: binary
+  source: https://github.com/nrlquaker/nfov/releases/download/v1.3.1/nfov-darwin-x64-1.3.1.zip
+  found_in: nfov-darwin-x64-1.3.1.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

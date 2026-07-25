@@ -60,3 +60,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
 aur_votes: 10
+last_commit: '2026-07-18'

@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/electron-deno-ide
   found_in: electron-deno-ide
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2024-03-07'
+src: https://github.com/MooudMohammady/electron-deno-IDE/archive/refs/heads/master.zip

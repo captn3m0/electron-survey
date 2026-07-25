@@ -22,3 +22,13 @@ evidence:
   source: https://aur.archlinux.org/packages/ringcentral-community-app-bin
   found_in: ringcentral-community-app-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+last_commit: '2024-11-12'
+aur_downloads:
+- url: https://github.com/ringcentral/ringcentral-community-app/releases/download/v0.0.12/ringcentral-community-app-0.0.12.x86_64.rpm
+  name: ringcentral-community-app-0.0.12.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ringcentral/ringcentral-community-app/v0.0.12/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -22,3 +22,9 @@ evidence:
   source: https://aur.archlinux.org/packages/nuclia-sync-agent-bin
   found_in: nuclia-sync-agent-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-07-16'
+aur_downloads:
+- url: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm
+  name: nuclia-sync-agent-1.9.10-1.x86_64.rpm
+  arch: any
+  source: aur-bin

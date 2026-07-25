@@ -79,3 +79,4 @@ latest: app-v3.2.1
 src: https://github.com/jely2002/youtube-dl-gui/archive/refs/tags/app-v3.2.1.zip
 we_tried: we1.2.1:app-v3.2.1
 brew_installs: 1000
+last_commit: '2026-07-11'

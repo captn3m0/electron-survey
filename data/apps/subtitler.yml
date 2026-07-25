@@ -40,3 +40,13 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
+last_commit: '2022-10-10'
+aur_downloads:
+- url: https://github.com/s8sachin/subtitler/releases/download/v1.5.5/subtitler_1.5.5_amd64.deb
+  name: subtitler_1.5.5_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/s8sachin/subtitler/v1.5.5/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

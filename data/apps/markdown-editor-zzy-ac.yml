@@ -5,3 +5,5 @@ repository: https://github.com/zzy-ac/markdown-editor-zzy-ac
 aur:
 - markdown-editor-zzy-ac
 aur_votes: 1
+last_commit: '2021-06-06'
+src: https://github.com/zzy-ac/markdown-editor-zzy-ac/archive/refs/heads/main.zip

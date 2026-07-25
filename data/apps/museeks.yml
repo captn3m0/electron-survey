@@ -57,3 +57,9 @@ name: Museeks
 we_tried: we1.2.1:0.23.4
 aur_votes: 1
 brew_installs: 100
+last_commit: '2026-07-03'
+aur_downloads:
+- url: https://github.com/martpie/museeks/releases/download/0.23.4/Museeks-0.23.4-1.x86_64.rpm
+  name: Museeks-0.23.4-1.x86_64.rpm
+  arch: any
+  source: aur-bin

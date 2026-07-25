@@ -20,3 +20,9 @@ latest: 0.2.3
 src: https://github.com/simonw/datasette-app/archive/refs/tags/0.2.3.zip
 aur_votes: 10
 brew_installs: 10
+last_commit: '2024-08-27'
+evidence:
+  kind: binary
+  source: https://github.com/simonw/datasette-app/releases/download/0.2.3/Datasette.app.zip
+  found_in: Datasette.app.zip
+  signal: which-electron rg signal

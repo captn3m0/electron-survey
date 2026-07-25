@@ -32,3 +32,4 @@ evidence:
   found_in: typesense-dashboard-2.5.0/src-electron/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/bfritscher/typesense-dashboard/archive/refs/tags/v2.5.0.zip
+last_commit: '2026-07-22'

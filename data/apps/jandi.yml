@@ -9,3 +9,8 @@ name: JANDI
 electron: 21.4.3
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://cdn.jandi.com/jandi-pc/download/JANDI-arm64.dmg
+  found_in: JANDI-arm64.dmg
+  signal: which-electron rg signal

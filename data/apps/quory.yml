@@ -13,3 +13,9 @@ evidence:
   source: https://aur.archlinux.org/packages/quory-bin
   found_in: quory-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2025-01-26'
+aur_downloads:
+- url: https://github.com/CNimmo16/quory/releases/download/%40quory%2Fclient%401.0.6/quory-1.0.6.deb
+  name: quory-1.0.6.deb
+  arch: any
+  source: aur-bin

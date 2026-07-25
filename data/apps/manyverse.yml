@@ -15,3 +15,8 @@ aur_votes: 1
 brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+aur_downloads:
+- url: https://gitlab.com/staltz/manyverse-site/-/raw/master/src/images/logo-square.png
+  name: logo-square.png
+  arch: any
+  source: aur-bin

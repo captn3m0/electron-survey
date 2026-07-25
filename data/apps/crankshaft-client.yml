@@ -29,3 +29,9 @@ evidence:
   found_in: crankshaft-client-bin
   signal: depends on electron12; reported as the newest 12.x release (12.2.3)
 aur_votes: 1
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-linux-x86_64.AppImage
+  name: crankshaft-portable-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

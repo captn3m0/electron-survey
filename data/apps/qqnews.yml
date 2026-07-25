@@ -12,3 +12,10 @@ downloads:
   name: qqnews_2.3.70_arm64_signed.zip
   version: 2.3.70
 brew_installs: 10
+electron: 31.3.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://h5.news.qq.com/qqnews-desk/mac-arm64/qqnews_2.3.70_arm64_signed.zip
+  found_in: qqnews_2.3.70_arm64_signed.zip
+  signal: which-electron rg signal

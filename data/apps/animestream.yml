@@ -13,3 +13,10 @@ evidence:
   source: https://aur.archlinux.org/packages/animestream-bin
   found_in: animestream-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+last_commit: '2025-11-07'
+src: https://github.com/frostnova721/animestream-electron/archive/refs/heads/main.zip
+aur_downloads:
+- url: https://github.com/frostnova721/animestream-electron/releases/download/v1.0.0-alpha_3/animestream_1.0.0_amd64.deb
+  name: animestream_1.0.0_amd64.deb
+  arch: any
+  source: aur-bin

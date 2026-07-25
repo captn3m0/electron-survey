@@ -12,3 +12,8 @@ electron: 37.3.1
 method: which-electron-rg
 aur_votes: 10
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://downloads.sejda-cdn.com/sejda-desktop_7.9.3_arm64.dmg
+  found_in: sejda-desktop_7.9.3_arm64.dmg
+  signal: which-electron rg signal

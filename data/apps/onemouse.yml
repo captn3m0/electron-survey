@@ -20,3 +20,9 @@ evidence:
   source: https://aur.archlinux.org/packages/onemouse-bin
   found_in: onemouse-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2025-08-24'
+aur_downloads:
+- url: https://github.com/Scanood/onemouse/releases/download/v2.0.0/onemouse-2.0.0-1.x86_64.rpm
+  name: onemouse-2.0.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

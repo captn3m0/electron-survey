@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/basic-blackjack-bin
   found_in: basic-blackjack-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://github.com/devklick/basic-blackjack/releases/download/v0.5.5/BasicBlackjack_v0.5.5.deb
+  name: BasicBlackjack_v0.5.5.deb
+  arch: any
+  source: aur-bin

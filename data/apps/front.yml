@@ -14,3 +14,8 @@ name: Front
 electron: 37.9.0
 method: which-electron-rg
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://dl.frontapp.com/desktop/builds/3.71.1/Front-3.71.1-arm64.zip
+  found_in: Front-3.71.1-arm64.zip
+  signal: which-electron rg signal

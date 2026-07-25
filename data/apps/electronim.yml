@@ -33,3 +33,9 @@ evidence:
   found_in: electronim-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 1
+last_commit: '2026-02-13'
+aur_downloads:
+- url: https://github.com/manusa/electronim/releases/download/v0.0.122/electronim-linux-x86_64.AppImage
+  name: electronim-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

@@ -48,3 +48,10 @@ evidence:
   found_in: proton-mail-1.0.6-1.x86_64.rpm
   signal: which-electron rg signal
 brew_installs: 1000
+last_commit: '2025-03-05'
+aur:
+- proton-mail
+- proton-mail-bin
+- proton-mail-git
+homepage: true
+aur_votes: 10

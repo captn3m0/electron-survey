@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/overlay-spirit-git
   found_in: overlay-spirit-git
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2026-03-14'
+src: https://github.com/Rahul-Sahani04/overlay-spirit/archive/refs/heads/main.zip

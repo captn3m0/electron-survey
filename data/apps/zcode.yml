@@ -11,3 +11,8 @@ evidence:
   found_in: zcode-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+aur_downloads:
+- url: https://cdn-zcode.z.ai/zcode/electron/releases/3.4.2/linux-x64/ZCode-3.4.2-linux-x64.deb
+  name: ZCode-3.4.2-linux-x64.deb
+  arch: any
+  source: aur-bin

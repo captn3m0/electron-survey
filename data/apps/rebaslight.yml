@@ -35,3 +35,13 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
+last_commit: '2026-01-04'
+aur_downloads:
+- url: https://github.com/rebaslight/rebaslight/releases/download/v3.7.3/rebaslight-3.7.3.tar.bz2
+  name: rebaslight-3.7.3.tar.bz2
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/rebaslight/rebaslight/v3.7.3/src/img/logo-transparent-100.png
+  name: logo-transparent-100.png
+  arch: any
+  source: aur-bin

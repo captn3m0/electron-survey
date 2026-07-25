@@ -8,17 +8,30 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 16.2.8
-method: aur-depends
+electron: 16.0.7
+method: which-electron-rg
 homebrew: wiznote
 downloads:
 - url: https://get.wiz.cn/x/wiznote-desktop-0.1.107-mac-arm64.dmg
   name: wiznote-desktop-0.1.107-mac-arm64.dmg
   version: 0.1.107
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/wiznote-desktop-bin
-  found_in: wiznote-desktop-bin
-  signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+  kind: binary
+  source: https://get.wiz.cn/x/wiznote-desktop-0.1.107-linux-arm64.AppImage
+  found_in: wiznote-desktop-0.1.107-linux-arm64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 10
+aur_downloads:
+- url: https://www.wiz.cn/share-termsofuse.html
+  name: share-termsofuse.html
+  arch: any
+  source: aur-bin
+- url: https://get.wiz.cn/x/wiznote-desktop-0.1.107-linux-arm64.AppImage
+  name: wiznote-desktop-0.1.107-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://get.wiz.cn/x/wiznote-desktop-0.1.107-linux-x86_64.AppImage
+  name: wiznote-desktop-0.1.107-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

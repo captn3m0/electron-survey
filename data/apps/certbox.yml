@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/certbox-bin
   found_in: certbox-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+aur_downloads:
+- url: https://raw.githubusercontent.com/tls-inspector/certbox/1.9.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/tls-inspector/certbox/releases/download/1.9.3/certbox-1.9.3-1.aarch64.rpm
+  name: certbox-1.9.3-1.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/tls-inspector/certbox/releases/download/1.9.3/certbox-1.9.3-1.x86_64.rpm
+  name: certbox-1.9.3-1.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

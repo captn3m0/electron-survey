@@ -6,3 +6,8 @@ aur:
 - prtcl-bin
 name: Particle Dev
 aur_votes: 1
+aur_downloads:
+- url: https://prtcl.s3.amazonaws.com/apt/prtcl_1.7.14-1_amd64.deb
+  name: prtcl_1.7.14-1_amd64.deb
+  arch: any
+  source: aur-bin

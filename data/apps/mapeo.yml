@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/mapeo-desktop-bin
   found_in: mapeo-desktop-bin
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
+aur_downloads:
+- url: https://github.com/digidem/mapeo-desktop/releases/download/v5.6.4/Install_Mapeo_v5.6.4_linux.deb
+  name: Install_Mapeo_v5.6.4_linux.deb
+  arch: any
+  source: aur-bin

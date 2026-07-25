@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/ctool-electron-bin
   found_in: ctool-electron-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+aur_downloads:
+- url: https://github.com/baiy/Ctool/releases/download/v2.3.0/ctool_electron_linux_x64.tar.gz
+  name: ctool_electron_linux_x64.tar.gz
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/baiy/Ctool/v2.3.0/packages/ctool-core/public/icon/icon_1024.png
+  name: icon_1024.png
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/baiy/Ctool/v2.3.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

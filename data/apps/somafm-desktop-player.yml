@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/somafm-desktop-player-bin
   found_in: somafm-desktop-player-bin
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+aur_downloads:
+- url: https://github.com/alechko/somafm-desktop-player/releases/download/v0.0.24/somafm-desktop-player-0.0.24-1.x86_64.rpm
+  name: somafm-desktop-player-0.0.24-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/alechko/somafm-desktop-player/v0.0.24/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

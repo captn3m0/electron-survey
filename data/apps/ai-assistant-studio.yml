@@ -16,3 +16,9 @@ evidence:
   source: https://aur.archlinux.org/packages/ai-assistant-studio-bin
   found_in: ai-assistant-studio-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+last_commit: '2026-02-12'
+aur_downloads:
+- url: https://github.com/gabrielborgesdm/ai-assistant-studio/releases/download/v1.3.1/ai-assistant-studio_1.3.1_amd64.deb
+  name: ai-assistant-studio_1.3.1_amd64.deb
+  arch: any
+  source: aur-bin

@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/ollama-runner-git
   found_in: ollama-runner-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2025-02-05'
+src: https://github.com/Bushenzie/ollama-runner/archive/refs/heads/main.zip

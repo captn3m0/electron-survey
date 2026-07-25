@@ -11,3 +11,12 @@ evidence:
   found_in: grx-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/hpcreery/GRX/v4.4.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/hpcreery/GRX/releases/download/v4.4.0/grx-arm64.deb
+  name: grx-arm64.deb
+  arch: aarch64
+  source: aur-bin

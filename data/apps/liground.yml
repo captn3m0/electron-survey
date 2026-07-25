@@ -11,3 +11,8 @@ evidence:
   found_in: liground-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/ml-research/liground/releases/download/0.6.0/liground-0.6.0.AppImage
+  name: liground-0.6.0.AppImage
+  arch: any
+  source: aur-bin

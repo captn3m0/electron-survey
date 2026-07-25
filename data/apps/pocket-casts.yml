@@ -36,3 +36,17 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+last_commit: '2026-06-20'
+aur_downloads:
+- url: https://raw.githubusercontent.com/felicianotech/pocket-casts-desktop-app/v0.13.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/felicianotech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-0.13.0-1.arm64.rpm
+  name: pocket-casts-0.13.0-1.arm64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/felicianotech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-0.13.0-1.x86_64.rpm
+  name: pocket-casts-0.13.0-1.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

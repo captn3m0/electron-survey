@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/tomedb-bin
   found_in: tomedb-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+aur_downloads:
+- url: https://github.com/joshkotrous/tome/releases/download/v0.6.0/tome-linux-x86_64.AppImage
+  name: tome-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

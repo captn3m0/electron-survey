@@ -24,3 +24,4 @@ evidence:
   source: https://aur.archlinux.org/packages/electron-pdf-viewer-bin
   found_in: electron-pdf-viewer-bin
   signal: depends on electron2; reported as the newest 2.x release (2.1.0-unsupported.20180809)
+last_commit: '2023-06-15'

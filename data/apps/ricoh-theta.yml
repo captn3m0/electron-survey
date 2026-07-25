@@ -13,3 +13,8 @@ downloads:
 electron: 17.4.11
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://theta360-statics.s3.amazonaws.com/app/viewer/SphericalViewerUpdate/RICOH%20THETA.3.21.0.app.zip
+  found_in: RICOH%20THETA.3.21.0.app.zip
+  signal: which-electron rg signal

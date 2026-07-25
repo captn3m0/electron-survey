@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/paragraph-editor-git
   found_in: paragraph-editor-git
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2025-01-25'
+src: https://github.com/emanoelhenrick/Paragraph/archive/refs/heads/main.zip

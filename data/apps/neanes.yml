@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/neanes-bin
   found_in: neanes-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+aur_downloads:
+- url: https://github.com/neanes/neanes/releases/download/v0.5.45/Neanes-0.5.45-arm64.AppImage
+  name: Neanes-0.5.45-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/neanes/neanes/releases/download/v0.5.45/Neanes-0.5.45.AppImage
+  name: Neanes-0.5.45.AppImage
+  arch: x86_64
+  source: aur-bin

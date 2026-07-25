@@ -21,3 +21,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0-arm64.AppImage
+  name: RunJS-4.1.0-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/lukehaas/RunJS/releases/download/v4.1.0/RunJS-4.1.0.AppImage
+  name: RunJS-4.1.0.AppImage
+  arch: x86_64
+  source: aur-bin

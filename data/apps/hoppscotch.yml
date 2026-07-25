@@ -36,3 +36,4 @@ downloads:
 latest: v26.6.1-0
 src: https://github.com/hoppscotch/releases/archive/refs/tags/v26.6.1-0.zip
 brew_installs: 1000
+last_commit: '2026-07-15'

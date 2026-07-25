@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/tjmc-launcher-bin
   found_in: tjmc-launcher-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_downloads:
+- url: https://raw.githubusercontent.com/tjmcraft/TJMC-Launcher/v0.2.10/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/tjmcraft/TJMC-Launcher/releases/download/v0.2.10/TJMC-Launcher-setup-arm64.AppImage
+  name: TJMC-Launcher-setup-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/tjmcraft/TJMC-Launcher/releases/download/v0.2.10/TJMC-Launcher-setup-x86_64.AppImage
+  name: TJMC-Launcher-setup-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

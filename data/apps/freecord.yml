@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/freecord-git
   found_in: freecord-git
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2024-07-03'

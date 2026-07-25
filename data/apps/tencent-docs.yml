@@ -26,3 +26,12 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: unreachable
+aur_downloads:
+- url: https://docs.qq.com/api/package/get?channel_id=30001&version_id=latest&package_name=TencentDocs-x64.deb
+  name: get
+  arch: x86_64
+  source: aur-bin
+- url: https://docs.qq.com/api/package/get?channel_id=30001&version_id=latest&package_name=TencentDocs-arm64.deb
+  name: get
+  arch: aarch64
+  source: aur-bin

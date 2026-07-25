@@ -38,3 +38,9 @@ evidence:
   source: https://aur.archlinux.org/packages/venom86-bin
   found_in: venom86-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2026-04-19'
+aur_downloads:
+- url: https://github.com/Qrodex/venom86/releases/download/v1.0.3/venom86-1.0.3.x86_64.rpm
+  name: venom86-1.0.3.x86_64.rpm
+  arch: any
+  source: aur-bin

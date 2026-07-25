@@ -40,3 +40,9 @@ downloads:
 homebrew: chrysalis
 aur_votes: 1
 brew_installs: 10
+last_commit: '2026-02-07'
+evidence:
+  kind: binary
+  source: https://github.com/keyboardio/Chrysalis/releases/download/v0.13.3/Chrysalis-0.13.3-x64.AppImage
+  found_in: Chrysalis-0.13.3-x64.AppImage
+  signal: which-electron rg signal (2 signals agreed)

@@ -69,3 +69,9 @@ packages:
 name: Rambox
 aur_votes: 10
 brew_installs: 100
+last_commit: '2022-04-21'
+aur_downloads:
+- url: https://github.com/ramboxapp/download/releases/download/v2.7.0/Rambox-2.7.0-linux-x64.deb
+  name: Rambox-2.7.0-linux-x64.deb
+  arch: any
+  source: aur-bin

@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/oneplay-git
   found_in: oneplay-git
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+last_commit: '2026-07-15'

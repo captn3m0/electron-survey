@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/electron-music-player
   found_in: electron-music-player
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2024-08-31'
+src: https://github.com/kevinfrei/EMP/archive/refs/heads/main.zip

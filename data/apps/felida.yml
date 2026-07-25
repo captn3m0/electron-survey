@@ -18,3 +18,9 @@ evidence:
   source: https://aur.archlinux.org/packages/felida-bin
   found_in: felida-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+last_commit: '2025-02-07'
+aur_downloads:
+- url: https://github.com/raluvy95/FelidaBrowser/releases/download/v0.2.4/Felida.Browser-0.2.4.AppImage
+  name: Felida.Browser-0.2.4.AppImage
+  arch: any
+  source: aur-bin

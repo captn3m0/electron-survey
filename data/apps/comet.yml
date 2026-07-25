@@ -3,16 +3,25 @@ name: Comet
 website: https://comet.thavarshan.com/
 aur:
 - comet-bin
-electron: 33.4.11
-method: aur-depends
+electron: 32.0.1
+method: which-electron-rg
 homebrew: comet
 downloads:
 - url: https://www.perplexity.ai/rest/browser/download?channel=stable&platform=mac_arm64
   name: download
   version: 145.2.7632.4581
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/comet-bin
-  found_in: comet-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/Thavarshan/comet/releases/download/v2.2.3/comet-2.2.3-1.arm64.rpm
+  found_in: comet-2.2.3-1.arm64.rpm
+  signal: which-electron rg signal
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/Thavarshan/comet/releases/download/v2.2.3/comet-2.2.3-1.arm64.rpm
+  name: comet-2.2.3-1.arm64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/Thavarshan/comet/releases/download/v2.2.3/comet-2.2.3-1.x86_64.rpm
+  name: comet-2.2.3-1.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

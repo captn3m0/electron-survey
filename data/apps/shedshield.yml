@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/shedshield-bin
   found_in: shedshield-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2024-09-04'

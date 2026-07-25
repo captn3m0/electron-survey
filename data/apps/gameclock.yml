@@ -21,3 +21,4 @@ evidence:
   found_in: gameclock-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 aur_votes: 1
+last_commit: '2026-04-14'

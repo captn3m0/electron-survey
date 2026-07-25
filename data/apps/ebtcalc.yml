@@ -2,3 +2,14 @@ id: ebtcalc
 repository: https://github.com/EricTerrell/EBTCalc
 website: https://www.ericbt.com/ebtcalc_electron
 name: EBTCalc
+last_commit: '2025-06-26'
+src: https://github.com/EricTerrell/EBTCalc/archive/refs/heads/master.zip
+electron: 37.1.0
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: EBTCalc-master/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/EricTerrell/EBTCalc/archive/refs/heads/master.zip
+electron_src: https://github.com/EricTerrell/EBTCalc/archive/refs/heads/master.zip
+electron_src_commit: '2025-06-26'

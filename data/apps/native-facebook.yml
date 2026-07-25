@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/native-facebook-bin
   found_in: native-facebook-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://github.com/YuhApps/NativeFacebook/releases/download/v1.4.0/Facebook-1.4.0-linux-amd64.deb
+  name: Facebook-1.4.0-linux-amd64.deb
+  arch: any
+  source: aur-bin

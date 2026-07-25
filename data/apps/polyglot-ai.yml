@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/polyglot-ai-bin
   found_in: polyglot-ai-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_downloads:
+- url: https://github.com/liou666/polyglot/releases/download/v0.3.7/Polyglot_0.3.7.AppImage
+  name: Polyglot_0.3.7.AppImage
+  arch: any
+  source: aur-bin

@@ -52,3 +52,9 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
+last_commit: '2024-08-23'
+aur_downloads:
+- url: https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-linux-x86_64-4.0.0.AppImage
+  name: lisk-linux-x86_64-4.0.0.AppImage
+  arch: any
+  source: aur-bin

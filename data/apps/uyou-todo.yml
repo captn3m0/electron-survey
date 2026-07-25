@@ -34,3 +34,17 @@ evidence:
   source: https://aur.archlinux.org/packages/uyou-todo-bin
   found_in: uyou-todo-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-06-19'
+aur_downloads:
+- url: https://raw.githubusercontent.com/tonylu110/uyou-todo-electron/3.2.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/tonylu110/uyou-todo-electron/releases/download/3.2.0/uyou.ToDo-3.2.0-arm64.AppImage
+  name: uyou.ToDo-3.2.0-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/tonylu110/uyou-todo-electron/releases/download/3.2.0/uyou.ToDo-3.2.0.AppImage
+  name: uyou.ToDo-3.2.0.AppImage
+  arch: x86_64
+  source: aur-bin

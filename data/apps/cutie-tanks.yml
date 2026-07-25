@@ -14,3 +14,4 @@ downloads:
 - name: release.zip
   url: https://github.com/RobinBoers/cutie-tanks/releases/download/v1.5/release.zip
 aur_votes: 1
+last_commit: '2023-06-13'

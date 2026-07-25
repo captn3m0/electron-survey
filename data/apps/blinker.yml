@@ -15,3 +15,9 @@ evidence:
   source: https://aur.archlinux.org/packages/blinker-bin
   found_in: blinker-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2024-01-16'
+aur_downloads:
+- url: https://github.com/mrkpatchaa/blinker/releases/download/v2.1.0/blinker_2.1.0_amd64.deb
+  name: blinker_2.1.0_amd64.deb
+  arch: any
+  source: aur-bin

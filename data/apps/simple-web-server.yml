@@ -72,3 +72,4 @@ evidence:
   found_in: Simple-Web-Server-Linux-1.2.17-amd64.deb
   signal: which-electron rg signal
 brew_installs: 100
+last_commit: '2026-07-20'

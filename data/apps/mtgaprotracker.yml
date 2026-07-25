@@ -18,3 +18,10 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: discontinued
 homebrew_disabled: true
 homebrew_disable_reason: discontinued
+electron: 13.2.2
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/Razviar/mtgap/releases/download/v2.1.35/mtgaprotracker.dmg
+  found_in: mtgaprotracker.dmg
+  signal: which-electron rg signal

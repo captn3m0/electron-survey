@@ -28,3 +28,9 @@ aur_votes: 1
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2024-05-02'
+evidence:
+  kind: binary
+  source: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
+  found_in: Moebius.dmg
+  signal: which-electron fingerprint signal

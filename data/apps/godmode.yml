@@ -52,3 +52,4 @@ evidence:
   found_in: godmode
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
 aur_votes: 1
+last_commit: '2024-07-29'

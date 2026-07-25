@@ -163,3 +163,13 @@ evidence:
 homepage: true
 aur_votes: 1
 brew_installs: 10000
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-linux-amd64.AppImage
+  name: Freelens-1.10.3-linux-amd64.AppImage
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-linux-arm64.AppImage
+  name: Freelens-1.10.3-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin

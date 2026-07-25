@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/elements-latex
   found_in: elements-latex
   signal: depends on electron18; reported as the newest 18.x release (18.3.15)
+last_commit: '2023-06-30'

@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/wubi-dict-editor
   found_in: wubi-dict-editor
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2026-07-01'

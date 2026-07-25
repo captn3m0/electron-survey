@@ -24,3 +24,14 @@ downloads:
 - name: latest-linux.yml
   url: https://github.com/piec/elecwhat/releases/download/v1.14.0/latest-linux.yml
 aur_votes: 10
+last_commit: '2026-04-28'
+aur_downloads:
+- url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.pacman
+  name: elecwhat-1.14.0.pacman
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.x86_64.rpm
+  found_in: elecwhat-1.14.0.x86_64.rpm
+  signal: which-electron rg signal

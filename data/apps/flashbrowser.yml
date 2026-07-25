@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/flashbrowser-bin
   found_in: flashbrowser-bin
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
+aur_downloads:
+- url: https://github.com/radubirsan/FlashBrowser/releases/download/v0.81/v0.81_FlashBrowser_x64.exe
+  name: v0.81_FlashBrowser_x64.exe
+  arch: any
+  source: aur-bin

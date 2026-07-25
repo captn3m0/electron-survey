@@ -35,3 +35,9 @@ src: https://github.com/NicolasConstant/sengi/archive/refs/tags/1.9.1.zip
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-06-12'
+evidence:
+  kind: binary
+  source: https://github.com/NicolasConstant/sengi-electron/releases/download/v1.8.0/Sengi-1.8.0-linux.AppImage
+  found_in: Sengi-1.8.0-linux.AppImage
+  signal: which-electron rg signal

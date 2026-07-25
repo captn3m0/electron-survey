@@ -32,3 +32,9 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2026-07-20'
+evidence:
+  kind: binary
+  source: https://github.com/rhysd/Shiba/releases/download/v1.2.1/Shiba-darwin-x64.zip
+  found_in: Shiba-darwin-x64.zip
+  signal: which-electron version_file signal (3 signals agreed)

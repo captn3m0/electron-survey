@@ -11,3 +11,8 @@ evidence:
   found_in: reor-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/reorproject/reor/releases/download/v-0.2.32/ubuntu-latest-app.zip
+  name: ubuntu-latest-app.zip
+  arch: any
+  source: aur-bin

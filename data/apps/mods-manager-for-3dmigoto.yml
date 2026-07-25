@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/mods-manager-for-3dmigoto-bin
   found_in: mods-manager-for-3dmigoto-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+aur_downloads:
+- url: https://github.com/XiaoLinXiaoZhu/Mods-Manager-for-3Dmigoto/releases/download/v1.10.4/mods-manager-for-3dmigoto-1.10.4-1.x86_64.rpm
+  name: mods-manager-for-3dmigoto-1.10.4-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/XiaoLinXiaoZhu/Mods-Manager-for-3Dmigoto/v1.10.4/icon.ico
+  name: icon.ico
+  arch: any
+  source: aur-bin

@@ -13,3 +13,8 @@ downloads:
 electron: 37.10.3
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://app-updates.godspeedapp.com/1.9.19%2FGodspeed.zip
+  found_in: 1.9.19%2FGodspeed.zip
+  signal: which-electron rg signal

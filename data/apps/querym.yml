@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/querym-bin
   found_in: querym-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_downloads:
+- url: https://github.com/querymx/querym/releases/download/v0.5.9/querym-0.5.9-linux_amd64.deb
+  name: querym-0.5.9-linux_amd64.deb
+  arch: any
+  source: aur-bin

@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/mmimage-git
   found_in: mmimage-git
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2026-04-14'

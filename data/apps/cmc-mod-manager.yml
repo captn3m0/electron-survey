@@ -11,3 +11,8 @@ evidence:
   found_in: cmc-mod-manager-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/Inferno214221/cmc-mod-manager/releases/download/v3.3.0/cmc-mod-manager-linux.rpm
+  name: cmc-mod-manager-linux.rpm
+  arch: any
+  source: aur-bin

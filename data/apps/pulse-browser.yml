@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/pulse-browser-git
   found_in: pulse-browser-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2025-02-05'
+src: https://github.com/marcrdez/pulse/archive/refs/heads/main.zip

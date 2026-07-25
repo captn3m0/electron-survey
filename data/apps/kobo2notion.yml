@@ -32,3 +32,13 @@ evidence:
   source: https://aur.archlinux.org/packages/kobo2notion-bin
   found_in: kobo2notion-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+last_commit: '2026-06-22'
+aur_downloads:
+- url: https://github.com/ghnmqdtg/Kobo2Notion/releases/download/v1.2.0/kobo2notion_1.2.0_amd64.deb
+  name: kobo2notion_1.2.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ghnmqdtg/Kobo2Notion/v1.2.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

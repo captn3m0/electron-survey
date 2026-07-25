@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/finance-manager-git
   found_in: finance-manager-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2024-05-04'

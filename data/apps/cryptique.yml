@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/cryptique-git
   found_in: cryptique-git
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2024-04-14'

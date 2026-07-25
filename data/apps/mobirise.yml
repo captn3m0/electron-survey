@@ -11,3 +11,12 @@ downloads:
 name: Mobirise
 aur_votes: 1
 brew_installs: 10
+last_commit: '2025-09-16'
+src: https://github.com/Mobirise/Mobirise/archive/refs/heads/master.zip
+electron: 17.4.11
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://download.mobirise.com/MobiriseSetup-m.dmg
+  found_in: MobiriseSetup-m.dmg
+  signal: which-electron rg signal

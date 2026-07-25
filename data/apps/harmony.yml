@@ -26,3 +26,9 @@ evidence:
   source: https://aur.archlinux.org/packages/harmony-bin
   found_in: harmony-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2026-05-27'
+aur_downloads:
+- url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0.AppImage
+  name: harmony-1.6.0.AppImage
+  arch: any
+  source: aur-bin

@@ -29,3 +29,13 @@ evidence:
   found_in: qcalc-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+last_commit: '2026-07-23'
+aur_downloads:
+- url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.AppImage
+  name: QCalc-0.12.0-linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/from104/qcalc/v0.12.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

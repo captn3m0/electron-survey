@@ -11,8 +11,8 @@ packages:
 aur:
 - chatgpt-desktop-bin
 - openai-chatgpt-nativefier
-electron: 42.7.0
-method: aur-depends
+electron: 42.3.0
+method: which-electron-asar-manifest
 homebrew: chatgpt-atlas
 downloads:
 - url: https://persistent.oaistatic.com/atlas/public/ChatGPT_Atlas_Desktop_public_1.2026.189.0_20260717210119000.dmg
@@ -20,10 +20,27 @@ downloads:
   version: 1.2026.189.0,20260717210119000
 we_tried: we1.2.1:urls:08e9ee5df783
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chatgpt-desktop-bin
-  found_in: chatgpt-desktop-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: manifest
+  source: https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.721.41059.zip
+  found_in: app.asar (packed package.json)
+  signal: electron version read from a package.json packed inside the app's asar archive
 homepage: true
 aur_votes: 1
 brew_installs: 10000
+aur_downloads:
+- url: https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.721.41059.zip
+  name: ChatGPT-darwin-arm64-26.721.41059.zip
+  arch: any
+  source: aur-bin
+- url: https://registry.npmjs.org/better-sqlite3/-/better-sqlite3-12.11.1.tgz
+  name: better-sqlite3-12.11.1.tgz
+  arch: any
+  source: aur-bin
+- url: https://registry.npmjs.org/node-pty/-/node-pty-1.1.0.tgz
+  name: node-pty-1.1.0.tgz
+  arch: any
+  source: aur-bin
+- url: https://electronjs.org/headers/v42.3.0/node-v42.3.0-headers.tar.gz
+  name: node-v42.3.0-headers.tar.gz
+  arch: any
+  source: aur-bin

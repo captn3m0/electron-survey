@@ -34,3 +34,4 @@ evidence:
   source: https://aur.archlinux.org/packages/learnx-companion-electron-git
   found_in: learnx-companion-electron-git
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+last_commit: '2024-04-30'

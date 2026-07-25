@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/vudit-git
   found_in: vudit-git
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+last_commit: '2025-11-22'
+src: https://github.com/praharshjain/Vudit-Desktop/archive/refs/heads/master.zip

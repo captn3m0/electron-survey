@@ -12,3 +12,12 @@ evidence:
   source: https://aur.archlinux.org/packages/copyman-bin
   found_in: copyman-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_downloads:
+- url: https://github.com/atlantidezign/copyman/releases/download/v0.3.4/Copyman_v0.3.4_amd64.deb
+  name: Copyman_v0.3.4_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/atlantidezign/copyman/v0.3.4/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

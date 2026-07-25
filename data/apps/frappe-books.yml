@@ -88,3 +88,13 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+last_commit: '2026-05-28'
+aur_downloads:
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-aarch64.rpm
+  name: Frappe-Books-v0.36.0-linux-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-x86_64.rpm
+  name: Frappe-Books-v0.36.0-linux-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

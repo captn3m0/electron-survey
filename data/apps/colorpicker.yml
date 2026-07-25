@@ -40,3 +40,9 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-03-23'
+aur_downloads:
+- url: https://github.com/Toinane/colorpicker/releases/download/2.3.0/Colorpicker-2.3.0.AppImage
+  name: Colorpicker-2.3.0.AppImage
+  arch: any
+  source: aur-bin

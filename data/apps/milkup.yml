@@ -23,3 +23,4 @@ evidence:
   found_in: milkup
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+last_commit: '2026-07-17'

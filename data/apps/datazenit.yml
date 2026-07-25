@@ -16,3 +16,8 @@ name: Datazenit
 electron: 0.37.8
 method: which-electron-version_file
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://github.com/datazenit/datazenit-releases/releases/download/v1.1.0/linux32.tar.gz
+  found_in: linux32.tar.gz
+  signal: which-electron version_file signal (3 signals agreed)

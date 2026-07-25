@@ -9,8 +9,8 @@ packages:
   os: macos
 additionalAUR:
 - splayer-git
-electron: 7.3.3
-method: which-electron-fingerprint
+electron: 41.7.1
+method: which-electron-rg
 homebrew: splayer
 downloads:
 - url: https://github.com/chiflix/splayerx/releases/download/4.9.4/SPlayer-4.9.4.dmg
@@ -18,3 +18,17 @@ downloads:
   version: 4.9.4
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/imsyy/SPlayer/releases/download/v3.1.1/splayer-3.1.1-aarch64.rpm
+  name: splayer-3.1.1-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/imsyy/SPlayer/releases/download/v3.1.1/splayer-3.1.1-x86_64.rpm
+  name: splayer-3.1.1-x86_64.rpm
+  arch: x86_64
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/imsyy/SPlayer/releases/download/v3.1.1/splayer-3.1.1-aarch64.rpm
+  found_in: splayer-3.1.1-aarch64.rpm
+  signal: which-electron rg signal

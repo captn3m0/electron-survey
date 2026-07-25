@@ -11,3 +11,12 @@ evidence:
   found_in: tomato-radio-automation-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/dtcooper/tomato/releases/download/v0.13.0/tomato-client-v0.13.0-linux_arm64.deb
+  name: tomato-client-v0.13.0-linux_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/dtcooper/tomato/releases/download/v0.13.0/tomato-client-v0.13.0-linux_amd64.deb
+  name: tomato-client-v0.13.0-linux_amd64.deb
+  arch: x86_64
+  source: aur-bin

@@ -26,3 +26,4 @@ evidence:
   source: https://aur.archlinux.org/packages/dutor-bin
   found_in: dutor-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2024-05-10'

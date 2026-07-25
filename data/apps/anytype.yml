@@ -41,3 +41,8 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/anyproto/anytype-ts/releases/download/v0.56.0/Anytype-0.56.0.AppImage
+  name: Anytype-0.56.0.AppImage
+  arch: any
+  source: aur-bin

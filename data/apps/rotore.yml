@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/rotore-git
   found_in: rotore-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2025-05-14'

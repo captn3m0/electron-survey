@@ -20,3 +20,13 @@ evidence:
   source: https://aur.archlinux.org/packages/nft-tool-bin
   found_in: nft-tool-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2023-07-28'
+aur_downloads:
+- url: https://github.com/BTS-CM/Bitshares_NFT_Issuance_Tool/releases/download/v1.7.2/nft_tool.deb
+  name: nft_tool.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/BTS-CM/Bitshares_NFT_Issuance_Tool/v1.7.2/License.md
+  name: License.md
+  arch: any
+  source: aur-bin

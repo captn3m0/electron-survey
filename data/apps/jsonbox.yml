@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/jsonbox-bin
   found_in: jsonbox-bin
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+aur_downloads:
+- url: https://docs.r-xnoro.com/jsonbox/dist/jsonbox-2.3.4-linux-x86_64.AppImage
+  name: jsonbox-2.3.4-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

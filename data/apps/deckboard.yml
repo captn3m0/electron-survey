@@ -31,3 +31,4 @@ downloads:
 name: Deckboard
 electron: 29.1.6
 method: which-electron-rg
+last_commit: '2026-06-06'

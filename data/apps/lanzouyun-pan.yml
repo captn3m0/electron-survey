@@ -21,3 +21,4 @@ evidence:
   found_in: lanzouyun-pan
   signal: depends on electron18; reported as the newest 18.x release (18.3.15)
 aur_votes: 1
+last_commit: '2026-05-21'

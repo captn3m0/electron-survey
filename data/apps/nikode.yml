@@ -27,3 +27,9 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
+last_commit: '2026-06-18'
+aur_downloads:
+- url: https://github.com/m1z23r/nikode/releases/download/v4.7.3/Nikode-4.7.3.pacman
+  name: Nikode-4.7.3.pacman
+  arch: any
+  source: aur-bin

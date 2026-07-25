@@ -29,3 +29,4 @@ evidence:
   found_in: soundcloud-rpc-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
 aur_votes: 1
+last_commit: '2026-07-19'

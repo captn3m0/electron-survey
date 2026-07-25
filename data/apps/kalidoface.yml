@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/kalidoface-bin
   found_in: kalidoface-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_downloads:
+- url: https://github.com/yeemachine/kalidoface/releases/download/v0.1.0/kalidoface_0.1.0_amd64.deb
+  name: kalidoface_0.1.0_amd64.deb
+  arch: any
+  source: aur-bin

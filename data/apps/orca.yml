@@ -17,3 +17,14 @@ we_tried: we1.2.1:urls:83c7cea71e16
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2025-11-16'
+src: https://github.com/hundredrabbits/Orca/archive/refs/heads/main.zip
+electron: 8.5.3
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: Orca-main/desktop/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/hundredrabbits/Orca/archive/refs/heads/main.zip
+electron_src: https://github.com/hundredrabbits/Orca/archive/refs/heads/main.zip
+electron_src_commit: '2025-11-16'

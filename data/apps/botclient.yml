@@ -31,3 +31,13 @@ evidence:
   source: https://aur.archlinux.org/packages/botclient-bin
   found_in: botclient-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2024-01-24'
+aur_downloads:
+- url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-linux-x86_64.AppImage
+  name: BotClient-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/DarkGuy10/BotClient/v0.12.1-alpha/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

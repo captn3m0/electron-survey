@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/easy-player
   found_in: easy-player
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2023-09-27'

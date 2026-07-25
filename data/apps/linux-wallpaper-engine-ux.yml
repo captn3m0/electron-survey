@@ -23,3 +23,4 @@ evidence:
   found_in: linux-wallpaper-engine-ux
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 1
+last_commit: '2026-07-25'

@@ -50,3 +50,9 @@ method: which-electron-rg
 latest: v1.2.0
 src: https://github.com/felixrieseberg/macintosh.js/archive/refs/tags/v1.2.0.zip
 brew_installs: 10
+last_commit: '2026-05-05'
+evidence:
+  kind: binary
+  source: https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintosh.js-1.2.0-1.arm64.rpm
+  found_in: macintosh.js-1.2.0-1.arm64.rpm
+  signal: which-electron rg signal

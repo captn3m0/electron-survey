@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/koala-client-bin
   found_in: koala-client-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_downloads:
+- url: https://github.com/jackschedel/KoalaClient/releases/download/f250677133bca22bd36de4a46eb351bc807fa7ec-11876220306/KoalaClient-2.1.1-linux-x86_64.AppImage
+  name: KoalaClient-2.1.1-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

@@ -55,3 +55,4 @@ evidence:
   found_in: Gather-1.39.2-arm64-mac.zip
   signal: which-electron rg signal
 brew_installs: 100
+last_commit: '2026-06-26'

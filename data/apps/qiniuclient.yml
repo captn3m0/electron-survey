@@ -14,3 +14,4 @@ evidence:
   found_in: qiniuclient
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
 aur_votes: 1
+last_commit: '2023-04-13'

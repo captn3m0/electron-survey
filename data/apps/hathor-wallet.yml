@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/hathor-wallet-bin
   found_in: hathor-wallet-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+aur_downloads:
+- url: https://github.com/HathorNetwork/hathor-wallet/releases/download/v0.35.0/hathor-wallet_0.35.0_amd64.deb
+  name: hathor-wallet_0.35.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/HathorNetwork/hathor-wallet/v0.35.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

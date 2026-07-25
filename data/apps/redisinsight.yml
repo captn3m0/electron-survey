@@ -42,3 +42,8 @@ evidence:
   reconstructed: true
 homepage: true
 brew_installs: 10000
+last_commit: '2026-07-24'
+aur:
+- redisinsight-bin
+- redisinsight-git
+aur_votes: 1

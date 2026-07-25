@@ -18,3 +18,21 @@ downloads:
   version: 2.260705.2
 aur_votes: 1
 brew_installs: 10
+aur_downloads:
+- url: https://download2.gridtracker.org/GridTracker2-2.250914.1-x64.tar.gz
+  name: GridTracker2-2.250914.1-x64.tar.gz
+  arch: x86_64
+  source: aur-bin
+- url: https://download2.gridtracker.org/GridTracker2-2.250914.1-arm64.tar.gz
+  name: GridTracker2-2.250914.1-arm64.tar.gz
+  arch: aarch64
+  source: aur-bin
+- url: https://download2.gridtracker.org/GridTracker2-2.250914.1-armv7l.tar.gz
+  name: GridTracker2-2.250914.1-armv7l.tar.gz
+  arch: armv7h
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://download2.gridtracker.org/GridTracker2-2.260705.2-universal-mac.zip
+  found_in: GridTracker2-2.260705.2-universal-mac.zip
+  signal: which-electron rg signal

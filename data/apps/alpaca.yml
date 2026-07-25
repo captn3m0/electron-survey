@@ -19,3 +19,9 @@ evidence:
   source: https://aur.archlinux.org/packages/alpaca-electron-bin
   found_in: alpaca-electron-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+last_commit: '2024-04-04'
+aur_downloads:
+- url: https://github.com/ItsPi3141/alpaca-electron/releases/download/v1.0.5/Alpaca-Electron-linux-x64-v1.0.5.tar.gz
+  name: Alpaca-Electron-linux-x64-v1.0.5.tar.gz
+  arch: any
+  source: aur-bin

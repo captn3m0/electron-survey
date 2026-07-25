@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/shutdown-scheduler-git
   found_in: shutdown-scheduler-git
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2025-06-07'

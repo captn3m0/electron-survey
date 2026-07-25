@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/silence-speedup-bin
   found_in: silence-speedup-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_downloads:
+- url: https://github.com/padvincenzo/silence-speedup/releases/download/v2.0.0/Silence-SpeedUp-linux-x64.zip
+  name: Silence-SpeedUp-linux-x64.zip
+  arch: any
+  source: aur-bin

@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/sticky-markdown-note-git
   found_in: sticky-markdown-note-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2025-06-17'

@@ -109,3 +109,13 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-linux-arm64-0.10.15.zip
+  name: Logseq-linux-arm64-0.10.15.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-linux-x64-0.10.15.zip
+  name: Logseq-linux-x64-0.10.15.zip
+  arch: x86_64
+  source: aur-bin

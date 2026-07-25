@@ -14,3 +14,8 @@ downloads:
 electron: 38.6.0
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://dist.huly.io/Huly-macos-0.7.426-arm64.zip
+  found_in: Huly-macos-0.7.426-arm64.zip
+  signal: which-electron rg signal

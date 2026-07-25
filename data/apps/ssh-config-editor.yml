@@ -52,3 +52,4 @@ evidence:
   found_in: ssh-config-editor-1.0.3-darwin-arm64-installer.zip
   signal: which-electron rg signal
 brew_installs: 100
+last_commit: '2024-12-30'

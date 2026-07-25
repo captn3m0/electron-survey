@@ -34,3 +34,9 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+last_commit: '2026-07-23'
+aur_downloads:
+- url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8-1.x86_64.rpm
+  name: barklarm-2.4.8-1.x86_64.rpm
+  arch: any
+  source: aur-bin

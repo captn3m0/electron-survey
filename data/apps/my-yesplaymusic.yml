@@ -11,3 +11,20 @@ evidence:
   found_in: my-yesplaymusic-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/stark81/my_yesplaymusic/v0.4.20/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/stark81/my_yesplaymusic/releases/download/v0.4.20/yesplaymusic_0.4.20_arm64.deb
+  name: yesplaymusic_0.4.20_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/stark81/my_yesplaymusic/releases/download/v0.4.20/yesplaymusic_0.4.20_armv7l.deb
+  name: yesplaymusic_0.4.20_armv7l.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/stark81/my_yesplaymusic/releases/download/v0.4.20/yesplaymusic_0.4.20_amd64.deb
+  name: yesplaymusic_0.4.20_amd64.deb
+  arch: x86_64
+  source: aur-bin

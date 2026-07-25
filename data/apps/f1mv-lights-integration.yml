@@ -11,3 +11,8 @@ evidence:
   found_in: f1mv-lights-integration-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/JustJoostNL/F1MV-Lights-Integration/releases/download/v3.4.2/F1MV-Lights-Integration-3.4.2.AppImage
+  name: F1MV-Lights-Integration-3.4.2.AppImage
+  arch: any
+  source: aur-bin

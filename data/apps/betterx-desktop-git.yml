@@ -36,3 +36,4 @@ evidence:
   found_in: betterx-desktop-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 aur_votes: 1
+last_commit: '2026-05-27'

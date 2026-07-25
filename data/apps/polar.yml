@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/polar-bin
   found_in: polar-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_downloads:
+- url: https://github.com/jamaljsr/polar/releases/download/v4.0.0/polar-linux-x86_64-v4.0.0.rpm
+  name: polar-linux-x86_64-v4.0.0.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/jamaljsr/polar/v4.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

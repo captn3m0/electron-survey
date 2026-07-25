@@ -2,3 +2,5 @@ id: dbcloner
 repository: https://github.com/felipeleivav/dbcloner-app
 website: https://felipeleivav.github.io/dbcloner-app/
 name: DBcloner
+last_commit: '2022-02-26'
+src: https://github.com/felipeleivav/dbcloner-app/archive/refs/heads/main.zip

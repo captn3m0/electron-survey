@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/novel-tree-desktop-git
   found_in: novel-tree-desktop-git
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2025-01-22'
+src: https://github.com/novel-tree/novel-tree-desktop/archive/refs/heads/develop.zip

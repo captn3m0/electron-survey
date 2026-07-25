@@ -64,3 +64,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ikun-music-desktop-bin
   found_in: ikun-music-desktop-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+last_commit: '2026-04-06'

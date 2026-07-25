@@ -13,3 +13,8 @@ downloads:
 electron: 32.1.2
 method: which-electron-rg
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://downloads.nucleoapp.com/mac-silicon/Nucleo_4.2.0.zip
+  found_in: Nucleo_4.2.0.zip
+  signal: which-electron rg signal

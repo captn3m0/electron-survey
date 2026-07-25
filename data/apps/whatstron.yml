@@ -23,3 +23,9 @@ evidence:
   found_in: whatstron-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
+last_commit: '2024-03-03'
+aur_downloads:
+- url: https://github.com/murilopereirame/Whatstron/releases/download/v1.0.1/Whatstron.deb
+  name: Whatstron.deb
+  arch: any
+  source: aur-bin

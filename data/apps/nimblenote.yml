@@ -21,3 +21,9 @@ name: nimblenote
 electron: 19.1.9
 method: which-electron-rg
 brew_installs: 10
+last_commit: '2023-01-03'
+evidence:
+  kind: binary
+  source: https://github.com/nimblenote/nimblenote/releases/download/v3.2.2/nimblenote-3.2.2.zip
+  found_in: nimblenote-3.2.2.zip
+  signal: which-electron rg signal

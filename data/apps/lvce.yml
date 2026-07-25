@@ -11,3 +11,16 @@ evidence:
   found_in: lvce-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/lvce-editor/lvce-editor/releases/download/v0.93.1/lvce-v0.93.1_arm64.deb
+  name: lvce-v0.93.1_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/lvce-editor/lvce-editor/releases/download/v0.93.1/lvce-v0.93.1_armhf.deb
+  name: lvce-v0.93.1_armhf.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/lvce-editor/lvce-editor/releases/download/v0.93.1/lvce-v0.93.1_amd64.deb
+  name: lvce-v0.93.1_amd64.deb
+  arch: x86_64
+  source: aur-bin

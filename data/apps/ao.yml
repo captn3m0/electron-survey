@@ -21,3 +21,8 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+evidence:
+  kind: binary
+  source: https://github.com/klaussinani/ao/releases/download/v6.9.0/Ao-6.9.0.dmg
+  found_in: Ao-6.9.0.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

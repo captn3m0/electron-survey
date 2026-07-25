@@ -15,3 +15,9 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2019-11-05'
+evidence:
+  kind: binary
+  source: https://github.com/mafintosh/playback/releases/download/v1.6.0/Playback.app.zip
+  found_in: Playback.app.zip
+  signal: which-electron fingerprint signal

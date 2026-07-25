@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/nakamastream-desktop-bin
   found_in: nakamastream-desktop-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+aur_downloads:
+- url: https://github.com/NakamaStream/NakamaStream-Desktop/releases/download/v1.0.0/nakamastream-desktop_1.0.0_amd64.deb
+  name: nakamastream-desktop_1.0.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/NakamaStream/NakamaStream-Desktop/v1.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

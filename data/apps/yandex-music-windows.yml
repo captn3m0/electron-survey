@@ -33,3 +33,4 @@ evidence:
   found_in: yandex-music-5.63.1-1.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 10
+last_commit: '2025-09-25'

@@ -12,3 +12,12 @@ evidence:
   source: https://aur.archlinux.org/packages/flomo-bin
   found_in: flomo-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+aur_downloads:
+- url: https://github.com/zxp19821005/My_AUR_Files/releases/download/flomo/flomo-5.26.51.exe
+  name: flomo-5.26.51.exe
+  arch: any
+  source: aur-bin
+- url: https://help.flomoapp.com/legal/
+  name: ''
+  arch: any
+  source: aur-bin

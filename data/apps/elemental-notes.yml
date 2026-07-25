@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/elemental-notes-git
   found_in: elemental-notes-git
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2024-11-01'

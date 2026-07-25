@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/wai-chat-desktop
   found_in: wai-chat-desktop
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+last_commit: '2023-06-10'

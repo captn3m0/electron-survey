@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/coal-launcher-bin
   found_in: coal-launcher-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://github.com/Bobuxstation/Coal-Launcher/releases/download/v1.3.6/coal-launcher-1.3.6.x86_64.rpm
+  name: coal-launcher-1.3.6.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Bobuxstation/Coal-Launcher/v1.3.6/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

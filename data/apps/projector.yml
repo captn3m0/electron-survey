@@ -17,3 +17,9 @@ evidence:
   found_in: projector-bin
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
 aur_votes: 1
+last_commit: '2024-01-21'
+aur_downloads:
+- url: https://github.com/JetBrains/projector-client/releases/download/launcher-v1.1.0/projector-linux-x64-launcher-v1.1.0.zip
+  name: projector-linux-x64-launcher-v1.1.0.zip
+  arch: x86_64
+  source: aur-bin

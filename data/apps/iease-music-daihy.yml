@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/iease-music-daihy-electron-git
   found_in: iease-music-daihy-electron-git
   signal: depends on electron18; reported as the newest 18.x release (18.3.15)
+last_commit: '2023-01-11'
+src: https://github.com/daihy8759/ieaseMusic/archive/refs/heads/master.zip

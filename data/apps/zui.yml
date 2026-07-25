@@ -17,3 +17,12 @@ downloads:
   version: 1.18.0
 aur_votes: 1
 brew_installs: 10
+aur_downloads:
+- url: https://github.com/brimdata/zui/releases/download/v1.18.0/zui-1.18.0.x86_64.rpm
+  name: zui-1.18.0.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/brimdata/zui/v1.18.0/apps/zui/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin

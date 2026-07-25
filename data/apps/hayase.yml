@@ -11,3 +11,12 @@ evidence:
   found_in: hayase-bin
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/hayase-app/ui/releases/download/v6.4.34/linux-hayase-6.4.34-linux.deb
+  name: linux-hayase-6.4.34-linux.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/hayase-app/ui/v6.4.34/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

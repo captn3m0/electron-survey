@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/odoo-manager-bin
   found_in: odoo-manager-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_downloads:
+- url: https://github.com/danielmederos2424/odoo-manager/releases/download/v1.1.0/odoo-manager-linux.pacman
+  name: odoo-manager-linux.pacman
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/danielmederos2424/odoo-manager/v1.1.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -23,3 +23,4 @@ evidence:
   found_in: stealthplane-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 aur_votes: 1
+last_commit: '2024-04-04'

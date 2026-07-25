@@ -12,3 +12,8 @@ evidence:
   source: https://aur.archlinux.org/packages/own3d-desktop-bin
   found_in: own3d-desktop-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+aur_downloads:
+- url: https://github.com/own3d/desktop/releases/download/2.6.0/own3d-desktop-2.6.0-1.x86_64.rpm
+  name: own3d-desktop-2.6.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

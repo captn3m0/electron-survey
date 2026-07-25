@@ -11,3 +11,12 @@ evidence:
   found_in: text-diff-view-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/kaishuu0123/text-diff-view/releases/download/v1.8.1/text-diff-view-1.8.1.AppImage
+  name: text-diff-view-1.8.1.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/kaishuu0123/text-diff-view/v1.8.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

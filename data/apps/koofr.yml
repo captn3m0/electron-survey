@@ -5,3 +5,8 @@ packages: []
 aur:
 - koofr-desktop-bin
 aur_votes: 1
+aur_downloads:
+- url: https://app.koofr.net/dl/apps/linux64
+  name: linux64
+  arch: any
+  source: aur-bin

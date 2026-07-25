@@ -34,3 +34,4 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+last_commit: '2025-11-15'

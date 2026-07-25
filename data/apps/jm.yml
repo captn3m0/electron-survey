@@ -18,3 +18,9 @@ evidence:
   source: https://aur.archlinux.org/packages/jm-desktop-bin
   found_in: jm-desktop-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+last_commit: '2026-07-06'
+aur_downloads:
+- url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-Linux-x64-2.2.1.zip
+  name: jm-desktop-Linux-x64-2.2.1.zip
+  arch: any
+  source: aur-bin

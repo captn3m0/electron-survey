@@ -24,3 +24,9 @@ evidence:
   source: https://aur.archlinux.org/packages/webcam-glass-bin
   found_in: webcam-glass-bin
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
+last_commit: '2025-08-12'
+aur_downloads:
+- url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2_amd64.deb
+  name: Glass-0.7.2_amd64.deb
+  arch: any
+  source: aur-bin

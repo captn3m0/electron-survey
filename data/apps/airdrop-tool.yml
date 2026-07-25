@@ -21,3 +21,13 @@ evidence:
   source: https://aur.archlinux.org/packages/airdrop-tool-bin
   found_in: airdrop-tool-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2025-10-20'
+aur_downloads:
+- url: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.deb
+  name: airdrop_tool.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/BTS-CM/airdrop_tool/v0.3.31/License.md
+  name: License.md
+  arch: any
+  source: aur-bin

@@ -22,3 +22,4 @@ downloads:
 - name: latest.yml
   url: https://github.com/BTS-CM/astro-ui/releases/download/v0.5.52/latest.yml
 we_tried: we0:v0.5.51
+last_commit: '2026-07-22'

@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/ficus-bin
   found_in: ficus-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_downloads:
+- url: https://github.com/Thysrael/Ficus/releases/download/v0.2.1/app.asar
+  name: app.asar
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Thysrael/Ficus/v0.2.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Thysrael/Ficus/v0.2.1/build/icon.png
+  name: icon.png
+  arch: any
+  source: aur-bin

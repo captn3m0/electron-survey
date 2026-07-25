@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/spearmint-test-bin
   found_in: spearmint-test-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_downloads:
+- url: https://github.com/open-source-labs/spearmint/releases/download/v0.14.0/spearmint_0.14.0_amd64.deb
+  name: spearmint_0.14.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/open-source-labs/spearmint/v0.14.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

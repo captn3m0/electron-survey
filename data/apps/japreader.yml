@@ -31,3 +31,9 @@ evidence:
   found_in: japreader-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+last_commit: '2026-06-22'
+aur_downloads:
+- url: https://github.com/marisukukise/japReader/releases/download/v1.12.0/japreader-1.12.0-1.x86_64.rpm
+  name: japreader-1.12.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

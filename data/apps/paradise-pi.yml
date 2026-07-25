@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/paradise-pi-bin
   found_in: paradise-pi-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_downloads:
+- url: https://github.com/Paradise-Pi/ParadisePi/releases/download/v2.5.1/paradise-pi_2.5.1_amd64.deb
+  name: paradise-pi_2.5.1_amd64.deb
+  arch: any
+  source: aur-bin

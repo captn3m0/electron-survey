@@ -53,3 +53,4 @@ evidence:
   found_in: oblivion-desktop
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
 aur_votes: 1
+last_commit: '2026-06-30'

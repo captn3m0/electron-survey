@@ -24,3 +24,9 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+last_commit: '2026-05-20'
+aur_downloads:
+- url: https://github.com/d-ord/vulpidl/archive/refs/tags/v1.0.0.tar.gz
+  name: v1.0.0.tar.gz
+  arch: any
+  source: aur-bin

@@ -17,3 +17,8 @@ downloads:
   version: 1.2.12
 aur_votes: 1
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://cdn.wostatic.cn/dist/installers/wolai-1.2.12-arm64.dmg
+  found_in: wolai-1.2.12-arm64.dmg
+  signal: which-electron rg signal

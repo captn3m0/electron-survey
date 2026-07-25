@@ -13,3 +13,8 @@ downloads:
 electron: 38.2.0
 method: which-electron-rg
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://milanote-app-releases.s3.amazonaws.com/Milanote-3.18.115.dmg
+  found_in: Milanote-3.18.115.dmg
+  signal: which-electron rg signal

@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/xuanxuan-bin
   found_in: xuanxuan-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_downloads:
+- url: https://www.xuanim.com/dl/xuanxuan/ce10.3/xuanxuan.10.3.ce.linux.amd64.deb
+  name: xuanxuan.10.3.ce.linux.amd64.deb
+  arch: any
+  source: aur-bin

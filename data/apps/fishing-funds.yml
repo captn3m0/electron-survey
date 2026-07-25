@@ -45,3 +45,13 @@ evidence:
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-01-16'
+aur_downloads:
+- url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0-arm64.AppImage
+  name: Fishing-Funds-8.8.0-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/1zilc/fishing-funds/releases/download/v8.8.0/Fishing-Funds-8.8.0.AppImage
+  name: Fishing-Funds-8.8.0.AppImage
+  arch: x86_64
+  source: aur-bin

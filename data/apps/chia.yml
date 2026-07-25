@@ -17,3 +17,8 @@ electron: 39.8.5
 method: which-electron-rg
 aur_votes: 1
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://github.com/Chia-Network/chia-blockchain/releases/download/2.7.3/Chia-2.7.3-arm64.dmg
+  found_in: Chia-2.7.3-arm64.dmg
+  signal: which-electron rg signal

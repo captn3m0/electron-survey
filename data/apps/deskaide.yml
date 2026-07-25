@@ -11,3 +11,10 @@ evidence:
   source: https://aur.archlinux.org/packages/deskaide-bin
   found_in: deskaide-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2023-10-05'
+src: https://github.com/deskaide/deskaide/archive/refs/heads/develop.zip
+aur_downloads:
+- url: https://raw.githubusercontent.com/deskaide/deskaide/v1.0.0-alpha.16/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

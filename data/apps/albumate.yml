@@ -19,3 +19,9 @@ evidence:
   source: https://aur.archlinux.org/packages/albumate-bin
   found_in: albumate-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2024-11-04'
+aur_downloads:
+- url: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0.AppImage
+  name: albumate-0.1.0.AppImage
+  arch: any
+  source: aur-bin

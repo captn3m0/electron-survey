@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/shutu-client-bin
   found_in: shutu-client-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+aur_downloads:
+- url: https://github.com/zxp19821005/My_AUR_Files/releases/download/ShuTu-1.0.7/ShuTu-Linux-1.0.7.rpm
+  name: ShuTu-Linux-1.0.7.rpm
+  arch: any
+  source: aur-bin

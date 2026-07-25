@@ -11,3 +11,8 @@ evidence:
   found_in: remindr-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/MrDavidRios/remindr/releases/download/v2.2.5/Remindr-2.2.5-linux-amd64.deb
+  name: Remindr-2.2.5-linux-amd64.deb
+  arch: any
+  source: aur-bin

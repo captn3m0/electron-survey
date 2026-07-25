@@ -11,3 +11,12 @@ evidence:
   found_in: xmcl-electron-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.63.0/app-0.63.0-linux.asar.gz
+  name: app-0.63.0-linux.asar.gz
+  arch: any
+  source: aur-bin
+- url: https://github.com/Voxelum/x-minecraft-launcher/raw/refs/heads/master/xmcl-electron-app/icons/dark.icns
+  name: dark.icns
+  arch: any
+  source: aur-bin

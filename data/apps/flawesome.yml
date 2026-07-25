@@ -2,3 +2,14 @@ id: flawesome
 repository: https://github.com/ashishBharadwaj/flawesome
 website: https://github.com/ashishBharadwaj/flawesome
 name: Flawesome
+last_commit: '2023-02-04'
+src: https://github.com/ashishBharadwaj/flawesome/archive/refs/heads/master.zip
+electron: 9.4.0
+method: src-yarn-lock
+evidence:
+  kind: lockfile
+  found_in: flawesome-master/yarn.lock
+  signal: electron pinned in yarn.lock
+  source: https://github.com/ashishBharadwaj/flawesome/archive/refs/heads/master.zip
+electron_src: https://github.com/ashishBharadwaj/flawesome/archive/refs/heads/master.zip
+electron_src_commit: '2023-02-04'

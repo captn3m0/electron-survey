@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/fishpi-bin
   found_in: fishpi-bin
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+aur_downloads:
+- url: https://github.com/imlinhanchao/fishpi-desktop/releases/download/1.3.9/fishpi-1.3.9-linux.tar.gz
+  name: fishpi-1.3.9-linux.tar.gz
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/imlinhanchao/fishpi-desktop/master/build/icons/256x256.png
+  name: 256x256.png
+  arch: any
+  source: aur-bin

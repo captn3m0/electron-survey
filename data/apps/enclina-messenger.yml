@@ -2,3 +2,14 @@ id: enclina-messenger
 repository: https://github.com/bluethefoxofficial/CreativePublicMessenger
 website: https://github.com/bluethefoxofficial/CreativePublicMessenger
 name: Enclica Messenger
+last_commit: '2024-06-19'
+src: https://github.com/bluethefoxofficial/CreativePublicMessenger/archive/refs/heads/master.zip
+electron: 15.5.5
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: Enclica-messenger-master/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/bluethefoxofficial/CreativePublicMessenger/archive/refs/heads/master.zip
+electron_src: https://github.com/bluethefoxofficial/CreativePublicMessenger/archive/refs/heads/master.zip
+electron_src_commit: '2024-06-19'

@@ -51,3 +51,17 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 brew_installs: 100
+last_commit: '2026-02-26'
+aur_downloads:
+- url: https://raw.githubusercontent.com/kubeshop/monokle/v2.4.8/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/kubeshop/monokle/releases/download/v2.4.8/Monokle-linux-2.4.8-arm64.deb
+  name: Monokle-linux-2.4.8-arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/kubeshop/monokle/releases/download/v2.4.8/Monokle-linux-2.4.8-amd64.deb
+  name: Monokle-linux-2.4.8-amd64.deb
+  arch: x86_64
+  source: aur-bin

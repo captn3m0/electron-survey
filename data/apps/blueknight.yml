@@ -21,3 +21,9 @@ evidence:
   source: https://aur.archlinux.org/packages/blueknight-bin
   found_in: blueknight-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2025-03-26'
+aur_downloads:
+- url: https://github.com/KartoffelChipss/blueknight/releases/download/1.2.4-beta/blueknight-launcher-deb-1.2.4.deb
+  name: blueknight-launcher-deb-1.2.4.deb
+  arch: any
+  source: aur-bin

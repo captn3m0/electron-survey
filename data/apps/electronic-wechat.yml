@@ -19,3 +19,4 @@ evidence:
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true
 aur_votes: 1
+last_commit: '2023-01-01'

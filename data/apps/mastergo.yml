@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/mastergo-desktop-bin
   found_in: mastergo-desktop-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_downloads:
+- url: https://static.mastergo.com/plugins/desktop/macos-arm/MasterGo-1.10.11.dmg
+  name: MasterGo-1.10.11.dmg
+  arch: any
+  source: aur-bin

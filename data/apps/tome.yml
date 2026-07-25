@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/tome-bin
   found_in: tome-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://github.com/evinowen/tome/releases/download/0.11.1/Tome.Setup.0.11.1.deb
+  name: Tome.Setup.0.11.1.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/evinowen/tome/0.11.1/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin

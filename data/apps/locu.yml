@@ -14,3 +14,8 @@ downloads:
 electron: 40.2.1
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://locu.sfo2.digitaloceanspaces.com/Locu-0.32.0-arm64-mac.zip
+  found_in: Locu-0.32.0-arm64-mac.zip
+  signal: which-electron rg signal

@@ -12,3 +12,12 @@ evidence:
   source: https://aur.archlinux.org/packages/pharmaspot-bin
   found_in: pharmaspot-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_downloads:
+- url: https://github.com/drkNsubuga/PharmaSpot/releases/download/v1.5.3/PharmaSpot-1.5.3-1.x86_64.rpm
+  name: PharmaSpot-1.5.3-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/drkNsubuga/PharmaSpot/v1.5.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

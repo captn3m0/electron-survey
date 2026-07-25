@@ -11,3 +11,8 @@ name: Parsify Desktop
 electron: 21.4.4
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://github.com/parsify-dev/desktop/releases/download/v2.0.1/Parsify-2.0.1-mac-arm64.zip
+  found_in: Parsify-2.0.1-mac-arm64.zip
+  signal: which-electron rg signal

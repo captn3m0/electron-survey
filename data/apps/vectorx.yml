@@ -4,3 +4,8 @@ website: https://github.com/Anand-Rift/VectorXBenchmarker
 repository: https://github.com/Anand-Rift/VectorXBenchmarker
 aur:
 - vectorx-bin
+aur_downloads:
+- url: https://github.com/Anand-Rift/VectorX_Benchmarker/releases/download/VectorX_v.2.0.0_Major_Release/VectorXBenchmark-cpu-linux-x64.zip
+  name: VectorXBenchmark-cpu-linux-x64.zip
+  arch: any
+  source: aur-bin

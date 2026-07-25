@@ -26,3 +26,9 @@ evidence:
   source: https://aur.archlinux.org/packages/firetail-bin
   found_in: firetail-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+last_commit: '2026-06-17'
+aur_downloads:
+- url: https://github.com/kawuchuu/firetail/releases/download/v1.0.1/Firetail-linux-x64-1.0.1.zip
+  name: Firetail-linux-x64-1.0.1.zip
+  arch: any
+  source: aur-bin

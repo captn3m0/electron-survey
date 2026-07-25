@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/justwrite-git
   found_in: justwrite-git
   signal: depends on electron6; reported as the newest 6.x release (6.1.12)
+last_commit: '2024-05-02'

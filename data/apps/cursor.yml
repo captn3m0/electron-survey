@@ -47,8 +47,8 @@ aur:
 - cursor-nightly-bin
 - xcursor-arch-cursor-complete
 - xcursor-comix-opaque
-electron: 40.10.6
-method: aur-depends
+electron: 40.10.3
+method: which-electron-rg
 homebrew: cursor
 downloads:
 - url: https://downloads.cursor.com/production/0fb762053c34788bb7760d5673f8a6d4c8589d52/darwin/arm64/Cursor-darwin-arm64.zip
@@ -56,10 +56,15 @@ downloads:
   version: 3.12.17,0fb762053c34788bb7760d5673f8a6d4c8589d52
 we_tried: we1.2.1:urls:df767f3ea373
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cursor-bin
-  found_in: cursor-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://downloads.cursor.com/production/bc650f5a0eb6f156b3e375cb0932e7741ebc5130/linux/x64/deb/amd64/deb/cursor_3.13.13_amd64.deb
+  found_in: cursor_3.13.13_amd64.deb
+  signal: which-electron rg signal
 homepage: true
 aur_votes: 100
 brew_installs: 100000
+aur_downloads:
+- url: https://downloads.cursor.com/production/bc650f5a0eb6f156b3e375cb0932e7741ebc5130/linux/x64/deb/amd64/deb/cursor_3.13.13_amd64.deb
+  name: cursor_3.13.13_amd64.deb
+  arch: any
+  source: aur-bin

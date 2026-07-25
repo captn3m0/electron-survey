@@ -52,3 +52,6 @@ evidence:
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: discontinued
+last_commit: '2025-03-04'
+homebrew_disabled: true
+homebrew_disable_reason: discontinued

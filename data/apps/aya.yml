@@ -39,3 +39,4 @@ evidence:
   found_in: AYA-1.14.2-linux-x86_64.AppImage
   signal: which-electron rg signal
 brew_installs: 100
+last_commit: '2025-12-25'

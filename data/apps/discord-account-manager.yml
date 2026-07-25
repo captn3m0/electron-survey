@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/discord-account-manager-git
   found_in: discord-account-manager-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2026-02-11'

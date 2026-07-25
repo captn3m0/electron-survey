@@ -20,3 +20,13 @@ evidence:
   source: https://aur.archlinux.org/packages/whisperpix-bin
   found_in: whisperpix-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+last_commit: '2023-12-06'
+aur_downloads:
+- url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/whisperpix_1.1.0_amd64.deb
+  name: whisperpix_1.1.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/graham-walker/WhisperPix/v1.1.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/flb-music-player-bin
   found_in: flb-music-player-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_downloads:
+- url: https://github.com/FLB-Music/FLB-Music-Player/releases/download/v1.2.1/FLB-Music-1.2.1.AppImage
+  name: FLB-Music-1.2.1.AppImage
+  arch: any
+  source: aur-bin

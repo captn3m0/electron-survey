@@ -24,3 +24,4 @@ evidence:
   source: https://aur.archlinux.org/packages/chengla-linux-unofficial-bin
   found_in: chengla-linux-unofficial-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+last_commit: '2024-05-02'

@@ -46,8 +46,8 @@ downloads:
   url: https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-win.exe
 - name: Lepton-2.0.0-win.exe.blockmap
   url: https://github.com/hackjutsu/Lepton/releases/download/v2.0.0/Lepton-2.0.0-win.exe.blockmap
-electron: 42.5.0
-method: src-package-lock
+electron: 13.1.2
+method: which-electron-rg
 aur:
 - lepton-bin
 - lepton-snippet-manager-appimage
@@ -60,12 +60,21 @@ packages:
   arch: arm64
 electron_src: https://github.com/hackjutsu/Lepton/archive/refs/tags/v2.0.0.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Ahackjutsu%2FLepton+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  kind: binary
+  source: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0.AppImage
+  found_in: Lepton-1.10.0.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0.AppImage
+  name: Lepton-1.10.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/hackjutsu/Lepton/v1.10.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -33,3 +33,13 @@ evidence:
   found_in: unsplash-wallpapers-bin
   signal: depends on electron8; reported as the newest 8.x release (8.5.5)
 aur_votes: 1
+last_commit: '2021-03-14'
+aur_downloads:
+- url: https://github.com/soroushchehresa/unsplash-wallpapers/releases/download/v1.3.0/unsplash-wallpapers-1.3.0.x86_64.rpm
+  name: unsplash-wallpapers-1.3.0.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/soroushchehresa/unsplash-wallpapers/v1.3.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

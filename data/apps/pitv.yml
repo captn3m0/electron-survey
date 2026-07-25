@@ -30,3 +30,13 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
+last_commit: '2024-06-04'
+aur_downloads:
+- url: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv-1.1.2-1.x86_64.rpm
+  name: pitv-1.1.2-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ozankaraali/PiTV/latest/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -38,3 +38,13 @@ evidence:
   source: https://aur.archlinux.org/packages/snapmail-bin
   found_in: snapmail-bin
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+last_commit: '2025-04-01'
+aur_downloads:
+- url: https://github.com/glassbeadsoftware/snapmail/releases/download/v0.3.1-rc.6/Snapmail-0.3.1.AppImage
+  name: Snapmail-0.3.1.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/glassbeadsoftware/snapmail/v0.3.1-rc.6/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

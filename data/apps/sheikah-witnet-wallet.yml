@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/sheikah-witnet-wallet-bin
   found_in: sheikah-witnet-wallet-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+aur_downloads:
+- url: https://github.com/witnet/sheikah/releases/download/v2.0.0/Sheikah-Witnet-wallet-2.0.0.AppImage
+  name: Sheikah-Witnet-wallet-2.0.0.AppImage
+  arch: any
+  source: aur-bin

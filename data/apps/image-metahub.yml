@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/image-metahub-bin
   found_in: image-metahub-bin
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+aur_downloads:
+- url: https://github.com/LuqP2/Image-MetaHub/releases/download/v0.18.0/Image.MetaHub-0.18.0.AppImage
+  name: Image.MetaHub-0.18.0.AppImage
+  arch: any
+  source: aur-bin

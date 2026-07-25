@@ -18,3 +18,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://dl.todesktop.com/210203cqcj00tw1/versions/4.0.1/linux/deb/x64
+  name: x64
+  arch: any
+  source: aur-bin
+- url: https://dl.todesktop.com/210203cqcj00tw1/versions/3.6.19/linux/deb/x64
+  name: x64
+  arch: any
+  source: aur-bin

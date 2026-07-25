@@ -27,3 +27,9 @@ downloads:
   url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/latest-mac.yml
 - name: latest.yml
   url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v9.3.65/latest.yml
+last_commit: '2026-06-01'
+aur_downloads:
+- url: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v6.0.2/ESO-Logs-Uploader-6.0.2.AppImage
+  name: ESO-Logs-Uploader-6.0.2.AppImage
+  arch: any
+  source: aur-bin

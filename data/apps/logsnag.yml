@@ -39,3 +39,4 @@ downloads:
 name: LogSnag
 electron: 18.0.1
 method: which-electron-rg
+last_commit: '2023-07-29'

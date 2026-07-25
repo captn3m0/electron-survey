@@ -11,5 +11,10 @@ packages:
   os: macos
 name: Abstract
 electron: 36.4.0
-method: which-electron-rg
+method: which-electron-asar-manifest
 brew_installs: 10
+evidence:
+  kind: manifest
+  source: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
+  found_in: app.asar (packed package.json)
+  signal: electron version read from a package.json packed inside the app's asar archive

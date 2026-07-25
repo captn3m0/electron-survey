@@ -25,3 +25,4 @@ downloads:
   url: https://github.com/gielcobben/caption/releases/download/v2.0.1/latest-mac.yml
 - name: latest.yml
   url: https://github.com/gielcobben/caption/releases/download/v2.0.1/latest.yml
+last_commit: '2023-01-25'

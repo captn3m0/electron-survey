@@ -28,3 +28,9 @@ homebrew: lectrote
 name: Lectrote
 electron_src: https://github.com/erkyrath/lectrote/archive/refs/tags/lectrote-1.5.6.zip
 brew_installs: 10
+last_commit: '2025-10-04'
+evidence:
+  kind: binary
+  source: https://github.com/erkyrath/lectrote/releases/download/lectrote-1.5.6/Lectrote-1.5.6-linux-arm64.zip
+  found_in: Lectrote-1.5.6-linux-arm64.zip
+  signal: which-electron rg signal

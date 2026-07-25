@@ -21,3 +21,9 @@ evidence:
   found_in: netsend-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
 aur_votes: 1
+last_commit: '2023-03-20'
+aur_downloads:
+- url: https://github.com/williamnie/netSend/releases/download/v2.0.5.5/NetSend_2.0.5_amd64.deb
+  name: NetSend_2.0.5_amd64.deb
+  arch: any
+  source: aur-bin

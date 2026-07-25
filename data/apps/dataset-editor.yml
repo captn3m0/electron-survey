@@ -30,3 +30,4 @@ evidence:
   source: https://aur.archlinux.org/packages/dataset-editor
   found_in: dataset-editor
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+last_commit: '2026-03-29'

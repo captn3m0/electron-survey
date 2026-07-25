@@ -17,3 +17,4 @@ evidence:
   source: https://aur.archlinux.org/packages/any-sync-gui
   found_in: any-sync-gui
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2026-04-21'

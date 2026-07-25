@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/tcgtools-git
   found_in: tcgtools-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2025-02-07'

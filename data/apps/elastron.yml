@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/elastron-bin
   found_in: elastron-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_downloads:
+- url: https://github.com/antonkorotkov/elastron/releases/download/2.0.0/Elastron-2.0.0.AppImage
+  name: Elastron-2.0.0.AppImage
+  arch: any
+  source: aur-bin

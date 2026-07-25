@@ -34,3 +34,13 @@ evidence:
   source: https://aur.archlinux.org/packages/yarle-evernote-to-md-bin
   found_in: yarle-evernote-to-md-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2026-03-31'
+aur_downloads:
+- url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_linux_x86_64.rpm
+  name: yarle-evernote-to-md_linux_x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/akosbalasko/yarle/v6.16.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

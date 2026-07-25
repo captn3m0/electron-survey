@@ -3,17 +3,17 @@ name: Xtool Creative Space
 website: https://www.xtool.com/pages/software
 aur:
 - xtool-creative-space
-electron: 31.7.7
-method: aur-depends
+electron: 36.2.0
+method: which-electron-rg
 homebrew: xtool-studio
 downloads:
 - url: https://storage.atomm.com/efficacy/atomm-package/prod/packages/121/c518d71e-2d6a-4494-851f-8e61b8a76949/xTool-Studio-arm64-1.2.11.dmg
   name: xTool-Studio-arm64-1.2.11.dmg
   version: 1.2.11,121,c518d71e-2d6a-4494-851f-8e61b8a76949
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/xtool-creative-space
-  found_in: xtool-creative-space
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://storage.atomm.com/efficacy/atomm-package/prod/packages/121/c518d71e-2d6a-4494-851f-8e61b8a76949/xTool-Studio-arm64-1.2.11.dmg
+  found_in: xTool-Studio-arm64-1.2.11.dmg
+  signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100

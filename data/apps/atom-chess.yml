@@ -21,3 +21,4 @@ evidence:
   source: https://aur.archlinux.org/packages/atom-chess-git
   found_in: atom-chess-git
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2025-04-01'

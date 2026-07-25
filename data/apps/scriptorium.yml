@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/scriptorium-git
   found_in: scriptorium-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2024-04-10'

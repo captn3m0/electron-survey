@@ -37,3 +37,13 @@ evidence:
   found_in: r3playx-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
+last_commit: '2026-05-27'
+aur_downloads:
+- url: https://github.com/Sherlockouo/music/releases/download/v2.8.0/R3PLAYX-2.8.0-linux-arm64.deb
+  name: R3PLAYX-2.8.0-linux-arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/Sherlockouo/music/releases/download/v2.8.0/R3PLAYX-2.8.0-linux-amd64.deb
+  name: R3PLAYX-2.8.0-linux-amd64.deb
+  arch: x86_64
+  source: aur-bin

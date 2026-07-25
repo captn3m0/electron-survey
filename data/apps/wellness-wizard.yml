@@ -5,3 +5,14 @@ repository: https://github.com/halftonenano/Hackathon_gitinit
 aur:
 - wellness-wizard-git
 aur_votes: 1
+last_commit: '2023-01-08'
+src: https://github.com/halftonenano/Hackathon_gitinit/archive/refs/heads/main.zip
+electron: 22.0.0
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: Hackathon_gitinit-main/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/halftonenano/Hackathon_gitinit/archive/refs/heads/main.zip
+electron_src: https://github.com/halftonenano/Hackathon_gitinit/archive/refs/heads/main.zip
+electron_src_commit: '2023-01-08'

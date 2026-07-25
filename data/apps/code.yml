@@ -16,3 +16,4 @@ evidence:
     disagree: pnpm-lock.yaml=42.2.0'
   source: https://github.com/microsoft/vscode/archive/refs/tags/1.130.0.zip
 aur_votes: 10
+last_commit: '2026-07-25'

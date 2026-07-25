@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/data-works-bin
   found_in: data-works-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+last_commit: '2023-09-30'

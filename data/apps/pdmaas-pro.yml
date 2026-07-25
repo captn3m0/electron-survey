@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/pdmaas-pro-bin
   found_in: pdmaas-pro-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+aur_downloads:
+- url: https://github.com/zxp19821005/My_AUR_Files/releases/download/pdmaas-pro/PDMaas-Pro-linux_arm64_v2.3.3.deb
+  name: PDMaas-Pro-linux_arm64_v2.3.3.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/zxp19821005/My_AUR_Files/releases/download/pdmaas-pro/PDMaas-Pro-linux_amd64_v2.3.3.deb
+  name: PDMaas-Pro-linux_amd64_v2.3.3.deb
+  arch: x86_64
+  source: aur-bin

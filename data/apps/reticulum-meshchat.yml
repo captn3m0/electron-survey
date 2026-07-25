@@ -11,3 +11,12 @@ evidence:
   found_in: reticulum-meshchat-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/liamcottle/reticulum-meshchat/releases/download/v2.4.0/ReticulumMeshChat-v2.4.0-linux.AppImage
+  name: ReticulumMeshChat-v2.4.0-linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/liamcottle/reticulum-meshchat/v2.4.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

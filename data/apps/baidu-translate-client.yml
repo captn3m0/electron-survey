@@ -11,3 +11,12 @@ evidence:
   found_in: baidu-translate-client-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
 aur_votes: 1
+aur_downloads:
+- url: https://fanyiapp.cdn.bcebos.com/fanyi-client/pkg/win/2.4.1/百度翻译_Setup_2.4.1.exe
+  name: 百度翻译_Setup_2.4.1.exe
+  arch: any
+  source: aur-bin
+- url: https://fanyi.baidu.com/static/webpage/agreement.html
+  name: agreement.html
+  arch: any
+  source: aur-bin

@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/pdfkit-git
   found_in: pdfkit-git
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+last_commit: '2025-05-28'

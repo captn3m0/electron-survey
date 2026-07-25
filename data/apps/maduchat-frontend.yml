@@ -30,3 +30,17 @@ evidence:
   source: https://aur.archlinux.org/packages/maduchat-frontend-bin
   found_in: maduchat-frontend-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2026-02-07'
+aur_downloads:
+- url: https://github.com/Madu-de/MaduChat/releases/download/v1.2.1/maduchat-frontend-1.2.1-linux-arm64.zip
+  name: maduchat-frontend-1.2.1-linux-arm64.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/Madu-de/MaduChat/releases/download/v1.2.1/maduchat-frontend-1.2.1-linux-armv7l.zip
+  name: maduchat-frontend-1.2.1-linux-armv7l.zip
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/Madu-de/MaduChat/releases/download/v1.2.1/maduchat-frontend-1.2.1-linux-x64.zip
+  name: maduchat-frontend-1.2.1-linux-x64.zip
+  arch: x86_64
+  source: aur-bin

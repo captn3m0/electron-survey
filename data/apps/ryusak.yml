@@ -32,3 +32,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ryusak
   found_in: ryusak
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+last_commit: '2023-10-25'

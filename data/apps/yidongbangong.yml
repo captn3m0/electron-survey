@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/yidongbangong-bin
   found_in: yidongbangong-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_downloads:
+- url: https://oa.cmzq-office.com/web/ydbg/hebangong/about-service.html
+  name: about-service.html
+  arch: any
+  source: aur-bin
+- url: https://dlydbg.cmzq-office.com/pc/uos_1.0.6_arm64.deb
+  name: uos_1.0.6_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://dlydbg.cmzq-office.com/pc/uos_1.0.6_amd64.deb
+  name: uos_1.0.6_amd64.deb
+  arch: x86_64
+  source: aur-bin

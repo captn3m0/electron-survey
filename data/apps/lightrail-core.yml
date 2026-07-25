@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/lightrail-core-bin
   found_in: lightrail-core-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+aur_downloads:
+- url: https://github.com/lightrail-ai/lightrail/releases/download/v0.3.9/lightrail-core.rpm
+  name: lightrail-core.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/lightrail-ai/lightrail/v0.3.9/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

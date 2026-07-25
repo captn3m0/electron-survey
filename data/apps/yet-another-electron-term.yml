@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/yet-another-electron-term
   found_in: yet-another-electron-term
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+last_commit: '2026-07-11'

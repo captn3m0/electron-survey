@@ -11,3 +11,12 @@ evidence:
   found_in: lumi-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/Lumieducation/Lumi/releases/download/v1.0.0/lumi-1.0.0.pacman
+  name: lumi-1.0.0.pacman
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/Lumieducation/Lumi/releases/download/v1.0.0/lumi-1.0.0-aarch64.pacman
+  name: lumi-1.0.0-aarch64.pacman
+  arch: aarch64
+  source: aur-bin

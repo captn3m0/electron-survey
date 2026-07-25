@@ -11,3 +11,14 @@ evidence:
   source: https://aur.archlinux.org/packages/nodeflow-bin
   found_in: nodeflow-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+last_commit: '2024-06-13'
+src: https://github.com/maxnth/NodeFlow/archive/refs/heads/master.zip
+aur_downloads:
+- url: https://github.com/maxnth/NodeFlow/releases/download/0.0.2-alpha/NodeFlow-0.0.2.AppImage
+  name: NodeFlow-0.0.2.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/maxnth/NodeFlow/0.0.2-alpha/License
+  name: License
+  arch: any
+  source: aur-bin

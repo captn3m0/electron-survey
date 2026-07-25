@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/flexplayer
   found_in: flexplayer
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2024-05-11'

@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/translationcore-bin
   found_in: translationcore-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+aur_downloads:
+- url: https://raw.githubusercontent.com/unfoldingWord/translationCore/v3.7.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0/tC-linux-arm64-3.7.0-MAX-c16e207.deb
+  name: tC-linux-arm64-3.7.0-MAX-c16e207.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0/tC-linux-x64-3.7.0-MAX-c16e207.deb
+  name: tC-linux-x64-3.7.0-MAX-c16e207.deb
+  arch: x86_64
+  source: aur-bin

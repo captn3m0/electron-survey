@@ -20,3 +20,9 @@ evidence:
   source: https://aur.archlinux.org/packages/fvc-bin
   found_in: fvc-bin
   signal: depends on electron12; reported as the newest 12.x release (12.2.3)
+last_commit: '2023-03-24'
+aur_downloads:
+- url: https://github.com/PrismLabsDev/fvc-desktop-electron/releases/download/v2.3.2/fvc_2.3.2_amd64.deb.zip
+  name: fvc_2.3.2_amd64.deb.zip
+  arch: any
+  source: aur-bin

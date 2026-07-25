@@ -15,3 +15,4 @@ evidence:
   source: https://aur.archlinux.org/packages/midi2.0-workbench-git
   found_in: midi2.0-workbench-git
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+last_commit: '2026-07-16'

@@ -4,3 +4,5 @@ website: https://github.com/zzy-ac/fonteditor
 repository: https://github.com/zzy-ac/fonteditor
 aur:
 - font-editor
+last_commit: '2021-11-08'
+src: https://github.com/zzy-ac/fonteditor/archive/refs/heads/gh-pages.zip

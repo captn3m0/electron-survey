@@ -34,3 +34,13 @@ evidence:
   source: https://aur.archlinux.org/packages/rekordfix-bin
   found_in: rekordfix-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+last_commit: '2025-06-01'
+aur_downloads:
+- url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/rekordfix_0.16.0_amd64.deb
+  name: rekordfix_0.16.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/rzuppur/rekordfix/v0.16.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

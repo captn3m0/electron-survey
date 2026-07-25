@@ -26,3 +26,8 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 100
+aur_downloads:
+- url: https://releases.threema.ch/web-electron/archive/latest-1.2.50/Threema-Latest.deb
+  name: Threema-Latest.deb
+  arch: any
+  source: aur-bin

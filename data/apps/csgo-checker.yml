@@ -32,3 +32,4 @@ evidence:
   source: https://aur.archlinux.org/packages/csgo-checker-electron
   found_in: csgo-checker-electron
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2025-07-23'

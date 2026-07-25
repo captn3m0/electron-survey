@@ -16,3 +16,13 @@ downloads:
   version: 7.39.0
 aur_votes: 1
 brew_installs: 10
+aur_downloads:
+- url: https://downloads.prepros.io/v7/7.39.0/Prepros-7.39.0.deb
+  name: Prepros-7.39.0.deb
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://downloads.prepros.io/v7/7.39.0/Prepros-Mac-7.39.0.zip
+  found_in: Prepros-Mac-7.39.0.zip
+  signal: which-electron rg signal

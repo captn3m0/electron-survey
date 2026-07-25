@@ -11,3 +11,16 @@ evidence:
   found_in: numara-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/bornova/numara-calculator/v7.4.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/bornova/numara-calculator/releases/download/v7.4.2/Numara-7.4.2-aarch64.rpm
+  name: Numara-7.4.2-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/bornova/numara-calculator/releases/download/v7.4.2/Numara-7.4.2-x86_64.rpm
+  name: Numara-7.4.2-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

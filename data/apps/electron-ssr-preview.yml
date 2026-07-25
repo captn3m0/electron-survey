@@ -45,3 +45,4 @@ evidence:
   found_in: electron-ssr
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
 aur_votes: 1
+last_commit: '2020-06-05'

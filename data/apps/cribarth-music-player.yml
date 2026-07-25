@@ -24,3 +24,9 @@ evidence:
   source: https://aur.archlinux.org/packages/cribarth-music-player-bin
   found_in: cribarth-music-player-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2026-02-20'
+aur_downloads:
+- url: https://github.com/glanyrafon01/cribarth-music-player/releases/download/v1.2.1/cribarth-music-player_1.2.1_amd64.deb
+  name: cribarth-music-player_1.2.1_amd64.deb
+  arch: any
+  source: aur-bin

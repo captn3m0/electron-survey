@@ -19,3 +19,9 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2021-11-22'
+evidence:
+  kind: binary
+  source: https://github.com/jfbouzereau/explorer/releases/download/1.104/Explorer-darwin-x64.zip
+  found_in: Explorer-darwin-x64.zip
+  signal: which-electron fingerprint signal

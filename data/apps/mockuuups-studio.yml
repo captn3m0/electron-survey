@@ -14,3 +14,8 @@ downloads:
 electron: 13.2.1
 method: which-electron-rg
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://binaries.mockuuups.com/Mockuuups%20Studio-3.7.0-arm64-mac.zip
+  found_in: Mockuuups%20Studio-3.7.0-arm64-mac.zip
+  signal: which-electron rg signal

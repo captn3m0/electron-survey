@@ -25,3 +25,13 @@ evidence:
   source: https://aur.archlinux.org/packages/bilibili-manga-downloader-bin
   found_in: bilibili-manga-downloader-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+last_commit: '2024-01-11'
+aur_downloads:
+- url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz
+  name: bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/MOMOYATW/bilibili_manga_downloader/main/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

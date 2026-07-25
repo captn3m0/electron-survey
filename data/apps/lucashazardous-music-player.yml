@@ -24,3 +24,13 @@ evidence:
   source: https://aur.archlinux.org/packages/lucashazardous-music-player-bin
   found_in: lucashazardous-music-player-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2024-07-09'
+aur_downloads:
+- url: https://github.com/LucasHazardous/music-player/releases/download/v2.12.5/music-player-2.12.5.AppImage
+  name: music-player-2.12.5.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/LucasHazardous/music-player/v2.12.5/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

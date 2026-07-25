@@ -9,3 +9,4 @@ downloads:
 name: clippo
 electron: 2.0.8
 method: which-electron-fingerprint
+last_commit: '2021-12-24'

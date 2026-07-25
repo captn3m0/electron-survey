@@ -10,3 +10,20 @@ evidence:
   source: https://aur.archlinux.org/packages/thoughts-bin
   found_in: thoughts-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_downloads:
+- url: https://raw.githubusercontent.com/wanglin2/mind-map/0.19.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/wanglin2/mind-map/releases/download/0.19.0/thoughts_0.19.0_arm64.deb
+  name: thoughts_0.19.0_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/wanglin2/mind-map/releases/download/0.19.0/thoughts_0.19.0_armv7l.deb
+  name: thoughts_0.19.0_armv7l.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/wanglin2/mind-map/releases/download/0.19.0/thoughts_0.19.0_amd64.deb
+  name: thoughts_0.19.0_amd64.deb
+  arch: x86_64
+  source: aur-bin

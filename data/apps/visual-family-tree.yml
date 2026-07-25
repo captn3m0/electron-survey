@@ -30,3 +30,13 @@ evidence:
   source: https://aur.archlinux.org/packages/visualfamilytree-bin
   found_in: visualfamilytree-bin
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+last_commit: '2021-11-27'
+aur_downloads:
+- url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.deb
+  name: VisualFamilyTree.1.4.0.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Jisco/VisualFamilyTree/v1.4.0/README.md
+  name: README.md
+  arch: any
+  source: aur-bin

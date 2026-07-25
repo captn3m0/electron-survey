@@ -13,3 +13,13 @@ evidence:
   source: https://aur.archlinux.org/packages/nft-viewer-bin
   found_in: nft-viewer-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2024-03-08'
+aur_downloads:
+- url: https://github.com/BTS-CM/NFT_Viewer/releases/download/v1.9.2/nft_viewer.deb
+  name: nft_viewer.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/BTS-CM/NFT_Viewer/v1.9.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

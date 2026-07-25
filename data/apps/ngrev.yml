@@ -32,3 +32,13 @@ evidence:
   source: https://aur.archlinux.org/packages/ngrev-bin
   found_in: ngrev-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+last_commit: '2023-01-07'
+aur_downloads:
+- url: https://github.com/mgechev/ngrev/releases/download/v0.0.35/ngrev-0.0.35.AppImage
+  name: ngrev-0.0.35.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/mgechev/ngrev/v0.0.35/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

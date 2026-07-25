@@ -13,3 +13,12 @@ evidence:
   found_in: elecap-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/steveseguin/electroncapture/releases/download/v2.23.3/elecap-2.23.3-aarch64.rpm
+  name: elecap-2.23.3-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/steveseguin/electroncapture/releases/download/v2.23.3/elecap-2.23.3-x86_64.rpm
+  name: elecap-2.23.3-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

@@ -13,3 +13,8 @@ evidence:
   found_in: local-llama-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/tib0/local-llama/releases/download/1.0.2/Linux.local-llama.deb
+  name: Linux.local-llama.deb
+  arch: any
+  source: aur-bin

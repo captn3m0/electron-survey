@@ -2,3 +2,5 @@ id: racompass
 repository: https://github.com/racompass/racompass
 website: https://racompass.com
 name: Racompass
+last_commit: '2023-05-07'
+src: https://github.com/racompass/racompass/archive/refs/heads/main.zip

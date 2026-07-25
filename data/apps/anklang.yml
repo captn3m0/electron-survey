@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/anklang-bin
   found_in: anklang-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+aur_downloads:
+- url: https://github.com/tim-janik/anklang/releases/download/v0.3.0/anklang_0.3.0_amd64.deb
+  name: anklang_0.3.0_amd64.deb
+  arch: any
+  source: aur-bin

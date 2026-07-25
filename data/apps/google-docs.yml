@@ -37,3 +37,4 @@ evidence:
   found_in: google-docs-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 aur_votes: 1
+last_commit: '2025-06-25'

@@ -20,3 +20,13 @@ evidence:
   source: https://aur.archlinux.org/packages/sbe-bin
   found_in: sbe-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+last_commit: '2026-07-23'
+aur_downloads:
+- url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0.AppImage
+  name: sbe-3.8.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/kondoumh/sbe/v3.8.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

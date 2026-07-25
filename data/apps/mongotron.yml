@@ -27,3 +27,5 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+last_commit: '2021-06-27'
+src: https://github.com/officert/mongotron/archive/refs/heads/master.zip

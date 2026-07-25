@@ -5,3 +5,14 @@ repository: https://github.com/Artym227/Arch-App-Center
 aur:
 - arch-app-center
 aur_votes: 1
+last_commit: '2025-07-12'
+src: https://github.com/Artym227/Arch-App-Center/archive/refs/heads/main.zip
+electron: 28.3.3
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: Arch-App-Center-main/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/Artym227/Arch-App-Center/archive/refs/heads/main.zip
+electron_src: https://github.com/Artym227/Arch-App-Center/archive/refs/heads/main.zip
+electron_src_commit: '2025-07-12'

@@ -13,3 +13,12 @@ evidence:
   found_in: atlassify-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/setchy/atlassify/releases/download/v3.11.0/atlassify-3.11.0.x86_64.rpm
+  name: atlassify-3.11.0.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/setchy/atlassify/v3.11.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

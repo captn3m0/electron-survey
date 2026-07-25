@@ -22,3 +22,13 @@ evidence:
   source: https://aur.archlinux.org/packages/video-chapter-injector-bin
   found_in: video-chapter-injector-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2024-03-27'
+aur_downloads:
+- url: https://github.com/markbattistella/video-chapter-injector/releases/download/1.0.0/video-chapter-injector-linux.zip
+  name: video-chapter-injector-linux.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/markbattistella/video-chapter-injector/1.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

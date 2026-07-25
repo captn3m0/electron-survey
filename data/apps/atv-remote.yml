@@ -30,3 +30,13 @@ evidence:
   found_in: ATV-Remote-1.4.5.AppImage
   signal: which-electron rg signal
 brew_installs: 1000
+last_commit: '2025-07-04'
+aur_downloads:
+- url: https://github.com/jklewa/atv-desktop-remote/releases/download/v1.4.5/ATV-Remote-1.4.5.AppImage
+  name: ATV-Remote-1.4.5.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/jklewa/atv-desktop-remote/v1.4.5/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

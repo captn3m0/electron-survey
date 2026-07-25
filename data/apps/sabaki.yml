@@ -49,3 +49,17 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
+last_commit: '2026-07-20'
+aur_downloads:
+- url: https://raw.githubusercontent.com/SabakiHQ/Sabaki/v0.60.0/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin
+- url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-linux-arm64.AppImage
+  name: sabaki-v0.60.0-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/SabakiHQ/Sabaki/releases/download/v0.60.0/sabaki-v0.60.0-linux-x64.AppImage
+  name: sabaki-v0.60.0-linux-x64.AppImage
+  arch: x86_64
+  source: aur-bin

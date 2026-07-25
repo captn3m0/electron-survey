@@ -16,3 +16,8 @@ downloads:
   version: 24.6.1,1783999839
 aur_votes: 10
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://update.send-anywhere.com/osx_downloads/SendAnywhere_1783999839.dmg
+  found_in: SendAnywhere_1783999839.dmg
+  signal: which-electron rg signal

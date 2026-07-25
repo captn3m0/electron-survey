@@ -17,3 +17,8 @@ electron: 36.1.0
 method: which-electron-rg
 aur_votes: 1
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://amarm.s3.amazonaws.com/Marvin-1.70.0-arm64-mac.zip
+  found_in: Marvin-1.70.0-arm64-mac.zip
+  signal: which-electron rg signal

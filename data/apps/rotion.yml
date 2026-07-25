@@ -37,3 +37,9 @@ evidence:
   found_in: rotion-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 aur_votes: 1
+last_commit: '2024-06-01'
+aur_downloads:
+- url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion_1.0.10_amd64.deb
+  name: rotion_1.0.10_amd64.deb
+  arch: any
+  source: aur-bin

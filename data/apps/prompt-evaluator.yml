@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/prompt-evaluator-bin
   found_in: prompt-evaluator-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_downloads:
+- url: https://github.com/syamsasi99/prompt-evaluator/releases/download/v0.0.1/prompt-evaluator_0.0.1_amd64.deb
+  name: prompt-evaluator_0.0.1_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/syamsasi99/prompt-evaluator/v0.0.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

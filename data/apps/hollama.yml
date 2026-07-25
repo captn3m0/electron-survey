@@ -11,3 +11,16 @@ evidence:
   found_in: hollama-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/fmaclen/hollama/releases/download/0.35.1/Hollama_0.35.1-linux-x64.tar.gz
+  name: Hollama_0.35.1-linux-x64.tar.gz
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/fmaclen/hollama/0.35.1/static/favicon.png
+  name: favicon.png
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/fmaclen/hollama/0.35.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

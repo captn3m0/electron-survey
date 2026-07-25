@@ -18,3 +18,9 @@ method: which-electron-rg
 latest: v0.6.0
 src: https://github.com/GetOvert/Overt/archive/refs/tags/v0.6.0.zip
 brew_installs: 10
+last_commit: '2025-05-19'
+evidence:
+  kind: binary
+  source: https://github.com/GetOvert/Overt/releases/download/v0.6.0/Overt-darwin-arm64-0.6.0.zip
+  found_in: Overt-darwin-arm64-0.6.0.zip
+  signal: which-electron rg signal

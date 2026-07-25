@@ -63,3 +63,13 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-01-02'
+aur_downloads:
+- url: https://github.com/sindresorhus/caprine/releases/download/v2.61.0/caprine_2.61.0_amd64.deb
+  name: caprine_2.61.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/sindresorhus/caprine/v2.61.0/license
+  name: license
+  arch: any
+  source: aur-bin

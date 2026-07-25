@@ -51,3 +51,9 @@ aur_votes: 1
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2025-10-03'
+evidence:
+  kind: binary
+  source: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm_3.0.4_amd64.deb
+  found_in: IGdm_3.0.4_amd64.deb
+  signal: which-electron rg signal

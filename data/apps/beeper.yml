@@ -35,3 +35,16 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 1000
+aur_downloads:
+- url: https://beeper-desktop.download.beeper.com/builds/Beeper-4.2.1004-x86_64.AppImage
+  name: Beeper-4.2.1004-x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://api.beeper.com/desktop/download/linux/x64/nightly/com.automattic.beeper.desktop
+  name: com.automattic.beeper.desktop
+  arch: any
+  source: aur-bin
+- url: https://api.beeper.com/desktop/download/linux/x64/stable/com.automattic.beeper.desktop
+  name: com.automattic.beeper.desktop
+  arch: any
+  source: aur-bin

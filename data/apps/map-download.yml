@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/map-download-git
   found_in: map-download-git
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+last_commit: '2026-05-29'

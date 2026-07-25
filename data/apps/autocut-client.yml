@@ -19,3 +19,4 @@ evidence:
   source: https://aur.archlinux.org/packages/autocut-client
   found_in: autocut-client
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+last_commit: '2024-10-23'

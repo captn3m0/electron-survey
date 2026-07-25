@@ -28,3 +28,9 @@ evidence:
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2026-07-22'
+aur_downloads:
+- url: https://github.com/L-U-M-E-N/lumen-desktop/releases/download/1.2.2/Project.L.U.M.E.N.-linux-x64.zip
+  name: Project.L.U.M.E.N.-linux-x64.zip
+  arch: any
+  source: aur-bin

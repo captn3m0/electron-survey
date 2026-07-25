@@ -20,3 +20,9 @@ evidence:
   source: https://aur.archlinux.org/packages/evernote-for-linux-bin
   found_in: evernote-for-linux-bin
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+last_commit: '2024-03-28'
+aur_downloads:
+- url: https://github.com/search5/Evernote-for-Linux/releases/download/v10.60.4-linux-ddl-ga-stable/evernote-client_10.60.4-stable_amd64.deb
+  name: evernote-client_10.60.4-stable_amd64.deb
+  arch: any
+  source: aur-bin

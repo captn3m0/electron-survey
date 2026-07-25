@@ -28,3 +28,13 @@ evidence:
   source: https://aur.archlinux.org/packages/frame-cast-bin
   found_in: frame-cast-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+last_commit: '2024-12-31'
+aur_downloads:
+- url: https://github.com/nathan-fiscaletti/framecast/releases/download/v1.1.0/FrameCast.Setup.linux_amd64.deb
+  name: FrameCast.Setup.linux_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/nathan-fiscaletti/framecast/v1.1.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/google-messages-bin
   found_in: google-messages-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://gitlab.com/linuxbombay/googlemessages/binaries/1.0.9-4/-/raw/main/GoogleMessages-arm64.AppImage
+  name: GoogleMessages-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://gitlab.com/linuxbombay/googlemessages/binaries/1.0.9-4/-/raw/main/GoogleMessages-armv7l.AppImage
+  name: GoogleMessages-armv7l.AppImage
+  arch: armv7h
+  source: aur-bin
+- url: https://gitlab.com/linuxbombay/googlemessages/binaries/1.0.9-4/-/raw/main/GoogleMessages-x64.AppImage
+  name: GoogleMessages-x64.AppImage
+  arch: x86_64
+  source: aur-bin

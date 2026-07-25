@@ -3,3 +3,8 @@ website: https://www.documize.com/zerabase
 aur:
 - documize-community-bin
 name: Zerabase
+aur_downloads:
+- url: https://github.com/documize/community/releases/download/v3.8.0/documize-community-linux-amd64
+  name: documize-community-linux-amd64
+  arch: any
+  source: aur-bin

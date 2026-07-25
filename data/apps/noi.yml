@@ -11,3 +11,8 @@ evidence:
   found_in: noi-desktop-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/lencx/Noi/releases/download/v1.1.0/noi-1.1.0-1.x86_64.rpm
+  name: noi-1.1.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

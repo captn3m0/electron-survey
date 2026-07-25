@@ -35,3 +35,14 @@ downloads:
   url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
 homebrew: outerbase-studio
 brew_installs: 100
+last_commit: '2025-04-28'
+aur_downloads:
+- url: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
+  name: Outerbase-Studio-Linux-0.1.29.AppImage
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage
+  found_in: Outerbase-Studio-Linux-0.1.29.AppImage
+  signal: which-electron rg signal

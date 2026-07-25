@@ -6,29 +6,26 @@ aur:
 - dbptk-desktop-bin
 electron: 34.5.8
 method: aur-depends
-latest: v4.0.0
-src: https://github.com/keeps/dbptk-desktop/archive/refs/tags/v4.0.0.zip
+latest: v4.1.0
+src: https://github.com/keeps/dbptk-desktop/archive/refs/tags/v4.1.0.zip
 downloads:
-- name: dbptk-desktop-4.0.0-linux-x86_64.AppImage
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-linux-x86_64.AppImage
-- name: dbptk-desktop-4.0.0-mac-arm64.dmg
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-mac-arm64.dmg
-- name: dbptk-desktop-4.0.0-mac-arm64.zip
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-mac-arm64.zip
-- name: dbptk-desktop-4.0.0-mac-x64.dmg
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-mac-x64.dmg
-- name: dbptk-desktop-4.0.0-mac-x64.zip
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-mac-x64.zip
-- name: dbptk-desktop-4.0.0-win-x64.exe
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-win-x64.exe
+- name: dbptk-desktop-4.1.0-linux-x86_64.AppImage
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/dbptk-desktop-4.1.0-linux-x86_64.AppImage
+- name: dbptk-desktop-4.1.0-mac-arm64.dmg
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/dbptk-desktop-4.1.0-mac-arm64.dmg
+- name: dbptk-desktop-4.1.0-mac-x64.dmg
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/dbptk-desktop-4.1.0-mac-x64.dmg
+- name: dbptk-desktop-4.1.0-win-x64.exe
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/dbptk-desktop-4.1.0-win-x64.exe
 - name: latest-linux.yml
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/latest-linux.yml
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/latest-mac.yml
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/latest.yml
+  url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.0/latest.yml
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/dbptk-desktop-bin
   found_in: dbptk-desktop-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2026-07-24'

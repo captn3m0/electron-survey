@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/vrc-photo-viewer-git
   found_in: vrc-photo-viewer-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2026-02-02'

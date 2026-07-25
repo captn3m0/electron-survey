@@ -29,3 +29,13 @@ evidence:
   signal: electron pinned in yarn.lock
   reconstructed: true
 aur_votes: 1
+last_commit: '2025-12-16'
+aur_downloads:
+- url: https://github.com/Pony-House/Client/releases/download/1.5.0/Pony.House-1.5.0.AppImage
+  name: Pony.House-1.5.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Pony-House/Client/1.5.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

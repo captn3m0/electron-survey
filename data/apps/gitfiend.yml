@@ -47,3 +47,9 @@ latest: v0.45.3
 src: https://github.com/GitFiend/Support/archive/refs/tags/v0.45.3.zip
 aur_votes: 10
 brew_installs: 10
+last_commit: '2025-03-14'
+evidence:
+  kind: binary
+  source: https://github.com/GitFiend/Support/releases/download/v0.45.3/GitFiend-0.45.3.x86_64.rpm
+  found_in: GitFiend-0.45.3.x86_64.rpm
+  signal: which-electron rg signal

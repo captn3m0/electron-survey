@@ -22,3 +22,4 @@ evidence:
   source: https://aur.archlinux.org/packages/spx-translation
   found_in: spx-translation
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2023-12-12'

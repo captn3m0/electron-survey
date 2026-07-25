@@ -25,3 +25,4 @@ evidence:
   found_in: simplexity-ai-app
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
 aur_votes: 1
+last_commit: '2026-05-23'

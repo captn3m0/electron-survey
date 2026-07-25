@@ -45,3 +45,4 @@ evidence:
   found_in: react-native-debugger-0.14.0-1.amd64.rpm
   signal: which-electron rg signal
 brew_installs: 1000
+last_commit: '2023-10-21'

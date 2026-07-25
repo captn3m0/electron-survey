@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/chatterbox-git
   found_in: chatterbox-git
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+last_commit: '2025-06-08'

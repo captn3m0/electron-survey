@@ -34,3 +34,9 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
 aur_votes: 1
+last_commit: '2025-03-11'
+aur_downloads:
+- url: https://github.com/jcv8000/Codex/releases/download/v2.0.5/Codex-2.0.5-amd64.deb
+  name: Codex-2.0.5-amd64.deb
+  arch: any
+  source: aur-bin

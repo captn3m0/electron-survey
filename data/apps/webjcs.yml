@@ -5,3 +5,5 @@ repository: https://github.com/daniel-j/webjcs
 aur:
 - webjcs-git
 aur_votes: 1
+last_commit: '2020-08-29'
+src: https://github.com/daniel-j/webjcs/archive/refs/heads/master.zip

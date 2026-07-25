@@ -39,3 +39,4 @@ evidence:
   source: https://aur.archlinux.org/packages/broadcast-bin
   found_in: broadcast-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2023-08-24'

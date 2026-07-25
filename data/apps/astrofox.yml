@@ -19,3 +19,8 @@ downloads:
 we_tried: we0:urls:3867ec8c2f91
 aur_votes: 1
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://files.astrofox.io/download/Astrofox-1.4.0.dmg
+  found_in: Astrofox-1.4.0.dmg
+  signal: which-electron rg signal

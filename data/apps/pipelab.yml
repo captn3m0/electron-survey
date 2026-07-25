@@ -11,3 +11,12 @@ evidence:
   found_in: pipelab-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/CynToolkit/pipelab/releases/download/v1.42.2/Pipelab-linux-x64-1.42.2.zip
+  name: Pipelab-linux-x64-1.42.2.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/CynToolkit/pipelab/v1.42.2/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

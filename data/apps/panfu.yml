@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/panfu-desktop-bin
   found_in: panfu-desktop-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+aur_downloads:
+- url: https://raw.githubusercontent.com/teampanfu/panfu-desktop/v1.6.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/teampanfu/panfu-desktop/releases/download/v1.6.1/panfu-desktop_1.6.1_i386.deb
+  name: panfu-desktop_1.6.1_i386.deb
+  arch: i686
+  source: aur-bin
+- url: https://github.com/teampanfu/panfu-desktop/releases/download/v1.6.1/panfu-desktop_1.6.1_amd64.deb
+  name: panfu-desktop_1.6.1_amd64.deb
+  arch: x86_64
+  source: aur-bin

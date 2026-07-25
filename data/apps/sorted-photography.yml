@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/sorted-photography-git
   found_in: sorted-photography-git
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+last_commit: '2025-06-19'

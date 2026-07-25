@@ -55,3 +55,13 @@ evidence:
   source: https://aur.archlinux.org/packages/binggpt-ee-bin
   found_in: binggpt-ee-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+last_commit: '2024-07-07'
+aur_downloads:
+- url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-aarch64-0.4.8.rpm
+  name: BingGPT-Linux-aarch64-0.4.8.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-x86_64-0.4.8.rpm
+  name: BingGPT-Linux-x86_64-0.4.8.rpm
+  arch: x86_64
+  source: aur-bin

@@ -31,3 +31,13 @@ evidence:
   found_in: nostr-relay-tray-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
+last_commit: '2026-02-02'
+aur_downloads:
+- url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray_2.0.0_amd64.deb
+  name: nostr-relay-tray_2.0.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/CodyTseng/nostr-relay-tray/v2.0.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

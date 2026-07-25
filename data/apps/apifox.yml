@@ -22,3 +22,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://file-assets.apifox.com/download/Apifox-linux-arm64-latest.zip
+  name: Apifox-linux-arm64-latest.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://file-assets.apifox.com/download/Apifox-linux-latest.zip
+  name: Apifox-linux-latest.zip
+  arch: x86_64
+  source: aur-bin

@@ -4,3 +4,10 @@ website: https://localbyflywheel.com
 aur:
 - local-by-flywheel-bin
 name: Local by Flywheel
+last_commit: '2023-12-12'
+src: https://github.com/getflywheel/local-components/archive/refs/heads/master.zip
+aur_downloads:
+- url: https://cdn.localwp.com/releases-stable/10.0.0+6907/local-10.0.0-linux.rpm
+  name: local-10.0.0-linux.rpm
+  arch: any
+  source: aur-bin

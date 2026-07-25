@@ -39,3 +39,13 @@ evidence:
   found_in: handbook-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
 aur_votes: 1
+last_commit: '2026-07-02'
+aur_downloads:
+- url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/handbook-1.5.0.x86_64.rpm
+  name: handbook-1.5.0.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ECRomaneli/Handbook/1.5.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

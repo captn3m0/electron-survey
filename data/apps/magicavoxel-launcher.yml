@@ -28,3 +28,9 @@ evidence:
   source: https://aur.archlinux.org/packages/magicavoxel-launcher-bin
   found_in: magicavoxel-launcher-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2024-06-11'
+aur_downloads:
+- url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-1.0.2-1.x86_64.rpm
+  name: magicavoxel-launcher-1.0.2-1.x86_64.rpm
+  arch: any
+  source: aur-bin

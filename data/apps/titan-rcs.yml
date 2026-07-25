@@ -20,3 +20,4 @@ evidence:
   source: https://aur.archlinux.org/packages/titan-rcs-git
   found_in: titan-rcs-git
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2025-12-15'

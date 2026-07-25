@@ -18,3 +18,9 @@ homebrew: odrive
 name: ODrive
 electron_src: https://github.com/liberodark/ODrive/archive/refs/tags/0.2.1.zip
 brew_installs: 10
+last_commit: '2026-06-22'
+evidence:
+  kind: binary
+  source: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.0.2.1.AppImage
+  found_in: OpenDrive.0.2.1.AppImage
+  signal: which-electron fingerprint signal (2 signals agreed)

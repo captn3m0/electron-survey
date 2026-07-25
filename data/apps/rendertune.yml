@@ -40,3 +40,21 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
+last_commit: '2025-05-28'
+aur_downloads:
+- url: https://raw.githubusercontent.com/MartinBarker/RenderTune/v2.0.12/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-arm64.tar.bz2
+  name: RenderTune-linux-arm64.tar.bz2
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-armv7l.tar.bz2
+  name: RenderTune-linux-armv7l.tar.bz2
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/MartinBarker/RenderTune/releases/download/v2.0.12/RenderTune-linux-x64.tar.bz2
+  name: RenderTune-linux-x64.tar.bz2
+  arch: x86_64
+  source: aur-bin

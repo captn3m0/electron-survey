@@ -26,3 +26,9 @@ evidence:
   source: https://aur.archlinux.org/packages/tray-link-bin
   found_in: tray-link-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2026-06-23'
+aur_downloads:
+- url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/tray-link-2.3.0-1.x86_64.rpm
+  name: tray-link-2.3.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

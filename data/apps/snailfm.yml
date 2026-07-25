@@ -18,3 +18,9 @@ electron: 25.2.0
 aur:
 - snailfm-bin
 name: SnailFM
+last_commit: '2026-07-21'
+aur_downloads:
+- url: https://github.com/snaildos/SnailFM-Application/releases/download/v2.1.8/SnailFM-2.1.8.AppImage
+  name: SnailFM-2.1.8.AppImage
+  arch: any
+  source: aur-bin

@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/database-kit-git
   found_in: database-kit-git
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2025-06-04'

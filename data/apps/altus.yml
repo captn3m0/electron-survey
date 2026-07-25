@@ -41,3 +41,4 @@ evidence:
   found_in: altus
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 aur_votes: 1
+last_commit: '2026-07-18'

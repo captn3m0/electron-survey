@@ -18,3 +18,13 @@ evidence:
   source: https://aur.archlinux.org/packages/minterm-bin
   found_in: minterm-bin
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+last_commit: '2024-08-17'
+aur_downloads:
+- url: https://github.com/peace317/minterm/releases/download/release%2F1.0.0/MinTerm-1.0.0.AppImage
+  name: MinTerm-1.0.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/peace317/minterm/main/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

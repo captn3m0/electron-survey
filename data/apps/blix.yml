@@ -39,3 +39,13 @@ evidence:
   source: https://aur.archlinux.org/packages/blix-bin
   found_in: blix-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+last_commit: '2023-11-23'
+aur_downloads:
+- url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/blix_1.3.0_arm64.deb
+  name: blix_1.3.0_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/blix_1.3.0_amd64.deb
+  name: blix_1.3.0_amd64.deb
+  arch: x86_64
+  source: aur-bin

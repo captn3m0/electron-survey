@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/tts-now-bin
   found_in: tts-now-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://github.com/funnyzak/tts-now/releases/download/1.0.6/tts-now-ubuntu-latest-1.0.6-33ac5a4.AppImage
+  name: tts-now-ubuntu-latest-1.0.6-33ac5a4.AppImage
+  arch: any
+  source: aur-bin

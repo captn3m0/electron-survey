@@ -14,3 +14,4 @@ src: https://github.com/onmyway133/PushNotifications/archive/refs/tags/1.7.10.zi
 downloads:
 - name: Push.Notifications-1.7.10-mac.dmg
   url: https://github.com/onmyway133/PushNotifications/releases/download/1.7.10/Push.Notifications-1.7.10-mac.dmg
+last_commit: '2023-10-05'

@@ -31,3 +31,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ffbox
   found_in: ffbox
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+last_commit: '2026-07-21'

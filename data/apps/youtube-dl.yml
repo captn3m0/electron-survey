@@ -35,3 +35,9 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
+last_commit: '2025-09-07'
+aur_downloads:
+- url: https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/download/v2.5.6/Open-Video-Downloader-2.5.6.AppImage
+  name: Open-Video-Downloader-2.5.6.AppImage
+  arch: any
+  source: aur-bin

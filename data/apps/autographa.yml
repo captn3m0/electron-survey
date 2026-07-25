@@ -23,3 +23,13 @@ evidence:
   source: https://aur.archlinux.org/packages/autographa-bin
   found_in: autographa-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+last_commit: '2023-07-19'
+aur_downloads:
+- url: https://github.com/friendsofagape/autographa/releases/download/v2.4.0/autographa_2.4.0_amd64.deb
+  name: autographa_2.4.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/friendsofagape/autographa/v2.4.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

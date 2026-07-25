@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/note-mark-git
   found_in: note-mark-git
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+last_commit: '2024-05-12'
+src: https://github.com/AbdulDevHub/NoteMark/archive/refs/heads/main.zip

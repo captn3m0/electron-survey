@@ -32,3 +32,25 @@ evidence:
   source: https://aur.archlinux.org/packages/xresconv-gui-bin
   found_in: xresconv-gui-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+last_commit: '2026-07-19'
+aur_downloads:
+- url: https://raw.githubusercontent.com/xresloader/xresconv-gui/v2.6.0/doc/logo.png
+  name: logo.png
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/owent/xresconv-gui/v2.6.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/xresloader/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-arm64.tar.xz
+  name: xresconv-gui-linux-arm64.tar.xz
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/xresloader/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-armv7l.tar.xz
+  name: xresconv-gui-linux-armv7l.tar.xz
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/xresloader/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-x64.tar.xz
+  name: xresconv-gui-linux-x64.tar.xz
+  arch: x86_64
+  source: aur-bin

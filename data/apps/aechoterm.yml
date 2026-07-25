@@ -11,3 +11,16 @@ evidence:
   found_in: aechoterm-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
 aur_votes: 1
+aur_downloads:
+- url: https://ec.nantian.com.cn//privacy-agreement.html
+  name: privacy-agreement.html
+  arch: any
+  source: aur-bin
+- url: https://ec.cdn.nantian.com.cn/Aechoterm_4.0.2_arm64.deb
+  name: Aechoterm_4.0.2_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://ec.cdn.nantian.com.cn/Aechoterm_4.0.2_amd64.deb
+  name: Aechoterm_4.0.2_amd64.deb
+  arch: x86_64
+  source: aur-bin

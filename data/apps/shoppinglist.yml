@@ -16,3 +16,9 @@ evidence:
   source: https://aur.archlinux.org/packages/shoppinglist-bin
   found_in: shoppinglist-bin
   signal: depends on electron17; reported as the newest 17.x release (17.4.11)
+last_commit: '2023-05-08'
+aur_downloads:
+- url: https://github.com/MillerSpil/ShoppingListApplication/releases/download/production-linux/shoppinglist-linux-x64.7z
+  name: shoppinglist-linux-x64.7z
+  arch: any
+  source: aur-bin

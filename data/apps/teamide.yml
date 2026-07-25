@@ -59,3 +59,4 @@ evidence:
   found_in: teamide-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 aur_votes: 1
+last_commit: '2025-09-26'

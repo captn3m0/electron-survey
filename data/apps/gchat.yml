@@ -16,3 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/gchat
   found_in: gchat
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+last_commit: '2023-06-01'

@@ -37,3 +37,13 @@ evidence:
   source: https://aur.archlinux.org/packages/bookmarks-manager-bin
   found_in: bookmarks-manager-bin
   signal: depends on electron15; reported as the newest 15.x release (15.5.7)
+last_commit: '2023-03-06'
+aur_downloads:
+- url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.AppImage
+  name: Bookmark-Manager-0.1.2.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Hunlongyu/bookmarks-manager/v0.1.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -18,3 +18,4 @@ evidence:
   source: https://aur.archlinux.org/packages/ibattery-git
   found_in: ibattery-git
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2024-12-19'

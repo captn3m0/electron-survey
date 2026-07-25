@@ -6,3 +6,12 @@ electron: 40.8.3
 method: aur-depends
 name: Brisqi
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/Brisqi/releases/releases/download/v0.22.1/Brisqi-setup-0.22.1-linux-amd64.deb
+  name: Brisqi-setup-0.22.1-linux-amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://brisqi.com/terms
+  name: terms
+  arch: any
+  source: aur-bin

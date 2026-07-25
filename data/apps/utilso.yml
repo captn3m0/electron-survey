@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/utilso-bin
   found_in: utilso-bin
   signal: depends on electron15; reported as the newest 15.x release (15.5.7)
+aur_downloads:
+- url: https://cdn.utilso.com/Utilso-4.4.0.AppImage
+  name: Utilso-4.4.0.AppImage
+  arch: any
+  source: aur-bin

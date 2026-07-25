@@ -3,3 +3,8 @@ name: Cornelsen Offline Lernen
 website: https://www.cornelsen.de
 aur:
 - cornelsen-offline-lernen-bin
+aur_downloads:
+- url: https://ebook.cornelsen.de/uma20/public/v2/uma/offline/win
+  name: win
+  arch: any
+  source: aur-bin

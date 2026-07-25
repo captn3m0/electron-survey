@@ -38,3 +38,4 @@ evidence:
   found_in: ldtk-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
 aur_votes: 1
+last_commit: '2026-07-12'

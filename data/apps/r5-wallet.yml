@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/r5-wallet-bin
   found_in: r5-wallet-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_downloads:
+- url: https://github.com/r5-labs/r5-wallet/releases/download/v1.0.4-beta/r5_desktop_wallet_104_linux_x86-64.deb
+  name: r5_desktop_wallet_104_linux_x86-64.deb
+  arch: any
+  source: aur-bin

@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/megacubo-bin
   found_in: megacubo-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+aur_downloads:
+- url: https://github.com/EdenwareApps/Megacubo/releases/download/v17.6.8/Megacubo_17.6.8_linux_arm64.tar.gz
+  name: Megacubo_17.6.8_linux_arm64.tar.gz
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/EdenwareApps/Megacubo/releases/download/v17.6.8/Megacubo_17.6.8_linux_x64.tar.gz
+  name: Megacubo_17.6.8_linux_x64.tar.gz
+  arch: x86_64
+  source: aur-bin

@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/chat2db-bin
   found_in: chat2db-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://github.com/CodePhiliaX/Chat2DB/releases/download/v0.3.7/Chat2DB-0.3.7.AppImage
+  name: Chat2DB-0.3.7.AppImage
+  arch: any
+  source: aur-bin

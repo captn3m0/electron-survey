@@ -4,3 +4,5 @@ website: https://github.com/IRedDragonICY/controlhub-vortexseries
 repository: https://github.com/IRedDragonICY/controlhub-vortexseries
 aur:
 - controlhub-vortexseries-git
+last_commit: '2026-04-07'
+src: https://github.com/IRedDragonICY/controlhub-vortexseries/archive/refs/heads/main.zip

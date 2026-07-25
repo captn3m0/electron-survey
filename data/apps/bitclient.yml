@@ -43,3 +43,4 @@ evidence:
   source: https://aur.archlinux.org/packages/bitclient-bin
   found_in: bitclient-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+last_commit: '2025-12-17'

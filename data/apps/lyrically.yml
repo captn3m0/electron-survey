@@ -22,3 +22,17 @@ evidence:
   source: https://aur.archlinux.org/packages/lyrically-bin
   found_in: lyrically-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+last_commit: '2026-05-11'
+aur_downloads:
+- url: https://github.com/CyanSalt/lyrically/releases/download/v0.7.0/Lyrically-linux-x64.zip
+  name: Lyrically-linux-x64.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/CyanSalt/lyrically/v0.7.0/resources/images/icon.png
+  name: icon.png
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/CyanSalt/lyrically/v0.7.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

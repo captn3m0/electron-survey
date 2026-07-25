@@ -49,3 +49,17 @@ evidence:
   source: https://aur.archlinux.org/packages/webgal-terre-bin
   found_in: webgal-terre-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+last_commit: '2026-07-23'
+aur_downloads:
+- url: https://raw.githubusercontent.com/MakinoharaShoko/WebGAL_Terre/4.6.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Linux_Arm64_4.6.2.zip
+  name: WebGAL_Terre_Linux_Arm64_4.6.2.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Linux_4.6.2.zip
+  name: WebGAL_Terre_Linux_4.6.2.zip
+  arch: x86_64
+  source: aur-bin

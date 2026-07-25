@@ -22,3 +22,9 @@ evidence:
   source: https://aur.archlinux.org/packages/joystick-bin
   found_in: joystick-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+last_commit: '2026-01-13'
+aur_downloads:
+- url: https://github.com/zenineasa/joystick/releases/download/v1.0.0/joystick-1.0.0-1.x86_64.rpm
+  name: joystick-1.0.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

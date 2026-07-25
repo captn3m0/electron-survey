@@ -45,3 +45,13 @@ evidence:
   found_in: zyfun-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+last_commit: '2026-06-25'
+aur_downloads:
+- url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-aarch64.rpm
+  name: zyfun-linux-3.4.7-aarch64.rpm
+  arch: aarch
+  source: aur-bin
+- url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-x86_64.rpm
+  name: zyfun-linux-3.4.7-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

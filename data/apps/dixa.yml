@@ -29,3 +29,9 @@ name: Dixa
 electron: 24.0.0
 method: which-electron-rg
 brew_installs: 10
+last_commit: '2024-06-24'
+evidence:
+  kind: binary
+  source: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v4.0.12/dixa-4.0.12.zip
+  found_in: dixa-4.0.12.zip
+  signal: which-electron rg signal

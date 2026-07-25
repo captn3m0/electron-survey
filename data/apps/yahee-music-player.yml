@@ -11,3 +11,5 @@ evidence:
   source: https://aur.archlinux.org/packages/yahee-music-player-git
   found_in: yahee-music-player-git
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+last_commit: '2025-06-04'
+src: https://github.com/yukito0209/yahee-music-player/archive/refs/heads/main.zip

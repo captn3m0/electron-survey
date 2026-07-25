@@ -12,3 +12,10 @@ name: KeyCombiner
 electron: 16.0.7
 method: which-electron-rg
 brew_installs: 10
+last_commit: '2021-11-05'
+src: https://github.com/tkainrad/keycombiner/archive/refs/heads/main.zip
+evidence:
+  kind: binary
+  source: https://keycombiner.com/download/KeyCombiner-0.8.0-universal.dmg
+  found_in: KeyCombiner-0.8.0-universal.dmg
+  signal: which-electron rg signal

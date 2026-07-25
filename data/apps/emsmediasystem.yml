@@ -18,3 +18,9 @@ evidence:
   source: https://aur.archlinux.org/packages/emsmediasystem-bin
   found_in: emsmediasystem-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+last_commit: '2026-07-20'
+aur_downloads:
+- url: https://github.com/clockley/EjaxMediaSystem/releases/download/6.5.2/EMS.Media.System-6.5.2.AppImage
+  name: EMS.Media.System-6.5.2.AppImage
+  arch: any
+  source: aur-bin

@@ -44,3 +44,13 @@ electron: 37.2.4
 aur:
 - balena-etcher-bin
 name: Etcher
+last_commit: '2026-06-02'
+aur_downloads:
+- url: https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-linux-x64-2.1.4.zip
+  name: balenaEtcher-linux-x64-2.1.4.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/balena-io/etcher/refs/heads/master/assets/icon.png
+  name: icon.png
+  arch: any
+  source: aur-bin

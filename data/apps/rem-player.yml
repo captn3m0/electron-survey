@@ -16,3 +16,9 @@ evidence:
   source: https://aur.archlinux.org/packages/rem-player-bin
   found_in: rem-player-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2026-05-27'
+aur_downloads:
+- url: https://github.com/reallyGoodBaker/REM/releases/download/v0.2.4/rem_0.2.4_amd64.deb
+  name: rem_0.2.4_amd64.deb
+  arch: any
+  source: aur-bin

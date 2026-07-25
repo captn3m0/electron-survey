@@ -24,3 +24,13 @@ evidence:
   source: https://aur.archlinux.org/packages/quasar-todo-bin
   found_in: quasar-todo-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+last_commit: '2024-02-29'
+aur_downloads:
+- url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-0.1.4.AppImage
+  name: Quasar-Todo-0.1.4.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/spenserblack/quasar-todo/v0.1.4/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

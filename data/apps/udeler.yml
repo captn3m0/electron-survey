@@ -50,3 +50,4 @@ evidence:
   source: https://aur.archlinux.org/packages/udeler
   found_in: udeler
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+last_commit: '2026-02-16'

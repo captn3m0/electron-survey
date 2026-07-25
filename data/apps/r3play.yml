@@ -11,3 +11,12 @@ evidence:
   found_in: r3play-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/qier222/YesPlayMusic/releases/download/v2.0.0-alpha-2/R3PLAY-2.0.0-linux.AppImage
+  name: R3PLAY-2.0.0-linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/qier222/YesPlayMusic/v2.0.0-alpha-2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

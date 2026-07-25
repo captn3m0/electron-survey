@@ -3,3 +3,8 @@ name: Letta Code
 website: https://www.letta.com
 aur:
 - letta-code-desktop-bin
+aur_downloads:
+- url: https://download.todesktop.com/260305dtu2nh5/latest-linux.yml
+  name: latest-linux.yml
+  arch: any
+  source: aur-bin

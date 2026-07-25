@@ -60,3 +60,4 @@ evidence:
   source: https://aur.archlinux.org/packages/pawtop
   found_in: pawtop
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-06-12'

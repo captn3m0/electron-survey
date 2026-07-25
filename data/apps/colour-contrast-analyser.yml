@@ -62,3 +62,9 @@ method: which-electron-rg
 latest: v3.5.5
 src: https://github.com/ThePacielloGroup/CCAe/archive/refs/tags/v3.5.5.zip
 brew_installs: 100
+last_commit: '2025-09-10'
+evidence:
+  kind: binary
+  source: https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.5/CCA-3.5.5.zip
+  found_in: CCA-3.5.5.zip
+  signal: which-electron rg signal

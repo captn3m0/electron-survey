@@ -86,3 +86,4 @@ downloads:
   url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_x64.AppImage
 - name: lx-music-desktop_2.12.2_x64.pacman
   url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_x64.pacman
+last_commit: '2026-07-15'

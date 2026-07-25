@@ -17,3 +17,4 @@ downloads:
 name: DBGlass
 electron: 1.4.4
 method: which-electron-version_file
+last_commit: '2017-09-29'

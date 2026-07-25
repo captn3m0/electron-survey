@@ -32,3 +32,13 @@ evidence:
   source: https://aur.archlinux.org/packages/homeassistant-desktop-bin
   found_in: homeassistant-desktop-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+last_commit: '2024-12-21'
+aur_downloads:
+- url: https://github.com/mikepruett3/homeassistant-desktop/releases/download/v1.1.1/homeassistant-desktop-1.1.1-1.x86_64.rpm
+  name: homeassistant-desktop-1.1.1-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/mikepruett3/homeassistant-desktop/v1.1.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

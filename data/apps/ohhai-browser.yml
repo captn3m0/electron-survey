@@ -22,3 +22,9 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
+last_commit: '2023-01-06'
+aur_downloads:
+- url: https://github.com/OhHaiBrowser/Browser/releases/download/v3.4/ohhaibrowser-3.4.0.x86_64.rpm
+  name: ohhaibrowser-3.4.0.x86_64.rpm
+  arch: any
+  source: aur-bin

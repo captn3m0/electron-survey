@@ -2,3 +2,14 @@ id: photoscreensaver
 repository: https://github.com/RandScullard/photo-screen-saver
 website: https://github.com/RandScullard/photo-screen-saver
 name: PhotoScreenSaver
+last_commit: '2024-09-13'
+src: https://github.com/RandScullard/photo-screen-saver/archive/refs/heads/master.zip
+electron: 30.0.2
+method: src-package-lock
+evidence:
+  kind: lockfile
+  found_in: photo-screen-saver-master/package-lock.json
+  signal: electron pinned in package-lock.json
+  source: https://github.com/RandScullard/photo-screen-saver/archive/refs/heads/master.zip
+electron_src: https://github.com/RandScullard/photo-screen-saver/archive/refs/heads/master.zip
+electron_src_commit: '2024-09-13'

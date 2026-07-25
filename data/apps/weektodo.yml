@@ -14,3 +14,13 @@ aur_votes: 1
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+aur_downloads:
+- url: https://github.com/manuelernestog/weektodo/releases/download/v2.2.0/WeekToDo-2.2.0.pacman
+  name: WeekToDo-2.2.0.pacman
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/Zuntek/WeekToDoWeb/releases/download/v2.2.0/WeekToDo-2.2.0.dmg
+  found_in: WeekToDo-2.2.0.dmg
+  signal: which-electron rg signal

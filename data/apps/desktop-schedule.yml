@@ -30,3 +30,4 @@ evidence:
   source: https://aur.archlinux.org/packages/desktop-schedule-bin
   found_in: desktop-schedule-bin
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+last_commit: '2024-07-08'

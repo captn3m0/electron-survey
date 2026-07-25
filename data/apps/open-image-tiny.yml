@@ -13,3 +13,4 @@ evidence:
   source: https://aur.archlinux.org/packages/open-image-tiny-git
   found_in: open-image-tiny-git
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+last_commit: '2025-08-12'

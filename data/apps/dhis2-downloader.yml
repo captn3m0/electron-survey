@@ -22,3 +22,13 @@ evidence:
   source: https://aur.archlinux.org/packages/dhis2-downloader-bin
   found_in: dhis2-downloader-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-07-05'
+aur_downloads:
+- url: https://github.com/worldbank/DHIS2-Downloader/releases/download/v0.6.3/dhis2-downloader_0.6.3_amd64.deb
+  name: dhis2-downloader_0.6.3_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/worldbank/DHIS2-Downloader/v0.6.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

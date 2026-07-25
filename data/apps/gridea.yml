@@ -38,3 +38,18 @@ src: https://github.com/getgridea/gridea/archive/refs/tags/v0.9.3.zip
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+last_commit: '2023-07-26'
+aur_downloads:
+- url: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.AppImage
+  name: Gridea-0.9.3.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/getgridea/gridea/v0.9.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.AppImage
+  found_in: Gridea-0.9.3.AppImage
+  signal: which-electron fingerprint signal

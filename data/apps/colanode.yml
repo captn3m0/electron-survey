@@ -41,3 +41,4 @@ evidence:
   source: https://aur.archlinux.org/packages/colanode-git
   found_in: colanode-git
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+last_commit: '2026-04-03'

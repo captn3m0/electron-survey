@@ -17,3 +17,8 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/Automattic/wp-desktop/releases/download/v8.2.3/wordpress.com-linux-deb-8.2.3.deb
+  name: wordpress.com-linux-deb-8.2.3.deb
+  arch: any
+  source: aur-bin

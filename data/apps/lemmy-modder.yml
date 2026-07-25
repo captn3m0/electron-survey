@@ -40,3 +40,13 @@ evidence:
   source: https://aur.archlinux.org/packages/lemmy-modder-app-bin
   found_in: lemmy-modder-app-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+last_commit: '2024-02-02'
+aur_downloads:
+- url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-linux-amd64.deb
+  name: LemmyModder-0.4.0-linux-amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/tgxn/lemmy-modder/v0.4.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

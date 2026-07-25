@@ -33,3 +33,9 @@ evidence:
   found_in: etcher-ng-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
+last_commit: '2024-08-29'
+aur_downloads:
+- url: https://github.com/Alex313031/etcher-ng/releases/download/v1.19.17/etcher-ng_1.19.17_x64.rpm
+  name: etcher-ng_1.19.17_x64.rpm
+  arch: any
+  source: aur-bin

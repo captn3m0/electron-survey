@@ -15,3 +15,8 @@ downloads:
   name: moose-0.6.2-mac.zip
   version: 0.6.2
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://github.com/ritz078/moose/releases/download/v0.6.2/moose-0.6.2-mac.zip
+  found_in: moose-0.6.2-mac.zip
+  signal: which-electron fingerprint signal

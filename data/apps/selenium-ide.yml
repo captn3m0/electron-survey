@@ -44,3 +44,4 @@ downloads:
 - name: Selenium.IDE-4.0.1-beta.14-universal-mac.zip.blockmap
   url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.0.1-beta.14/Selenium.IDE-4.0.1-beta.14-universal-mac.zip.blockmap
 aur_votes: 1
+last_commit: '2026-02-06'

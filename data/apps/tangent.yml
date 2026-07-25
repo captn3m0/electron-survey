@@ -12,3 +12,8 @@ evidence:
   source: https://aur.archlinux.org/packages/tangent-bin
   found_in: tangent-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+aur_downloads:
+- url: https://suchnsuch-public.s3.us-east-2.amazonaws.com/Tangent/Releases/Tangent-0.12.2.AppImage
+  name: Tangent-0.12.2.AppImage
+  arch: any
+  source: aur-bin

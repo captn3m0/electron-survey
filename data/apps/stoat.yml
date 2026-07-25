@@ -13,3 +13,12 @@ evidence:
   found_in: stoat-desktop-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/stoatchat/for-desktop/releases/download/v1.4.2/Stoat-linux-arm64-1.4.2.zip
+  name: Stoat-linux-arm64-1.4.2.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/stoatchat/for-desktop/releases/download/v1.4.2/Stoat-linux-x64-1.4.2.zip
+  name: Stoat-linux-x64-1.4.2.zip
+  arch: x86_64
+  source: aur-bin
