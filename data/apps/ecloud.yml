@@ -16,3 +16,9 @@ evidence:
   found_in: ecloud-bin
   signal: depends on electron4; reported as the newest 4.x release (4.2.12)
 brew_installs: 10
+aur_downloads:
+- url: https://mirrors.sdu.edu.cn/spark-store-repository/store//network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb
+  name: com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb
+  arch: any
+  source: aur-bin
+we_tried: we1.2.1+p1:urls:8f0cd3ed11e1

@@ -27,3 +27,8 @@ evidence:
   found_in: dutor-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 last_commit: '2024-05-10'
+aur_downloads:
+- url: https://github.com/yubaoquan/dutor/releases/download/0.1.0/dutor_0.1.0_amd64.deb
+  name: dutor_0.1.0_amd64.deb
+  arch: any
+  source: aur-bin

@@ -22,3 +22,20 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 aur_votes: 100
+aur_downloads:
+- url: https://downloads.exodus.com/releases/exodus-linux-x64-26.5.7.zip
+  name: exodus-linux-x64-26.5.7.zip
+  arch: any
+  source: aur-bin
+- url: https://aur.archlinux.org/cgit/aur.git/plain/exodus.svg?h=exodus
+  name: exodus.svg
+  arch: any
+  source: aur-bin
+- url: https://aur.archlinux.org/cgit/aur.git/plain/exodus.desktop?h=exodus
+  name: exodus.desktop
+  arch: any
+  source: aur-bin
+- url: https://aur.archlinux.org/cgit/aur.git/plain/LICENSE?h=exodus
+  name: LICENSE
+  arch: any
+  source: aur-bin

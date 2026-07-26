@@ -22,3 +22,32 @@ evidence:
   found_in: Akiflow-2.74.21-d6d9f817-universal.dmg
   signal: which-electron rg signal
 brew_installs: 100
+aur_downloads:
+- url: https://download.akiflow.com/builds/Akiflow-2.72.5-7536ef84-x64.exe
+  name: Akiflow-2.72.5-7536ef84-x64.exe
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/akiflow-arch/main/patch-main.py
+  name: patch-main.py
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/akiflow-arch/main/plasma-widget/package/metadata.json
+  name: metadata.json
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/akiflow-arch/main/plasma-widget/package/contents/ui/main.qml
+  name: main.qml
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/akiflow-arch/main/plasma-widget/package/contents/ui/CompactRepresentation.qml
+  name: CompactRepresentation.qml
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/akiflow-arch/main/plasma-widget/package/contents/ui/FullRepresentation.qml
+  name: FullRepresentation.qml
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shrimpwtf/akiflow-arch/main/plasma-widget/package/contents/icons/akiflow.png
+  name: akiflow.png
+  arch: any
+  source: aur-bin

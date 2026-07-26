@@ -101,6 +101,11 @@ downloads:
   checksum: b39423506f147242c065c3f98bac3b2cc8b2a69e40e601548e8486ea530c36ae
 - name: Freelens-1.10.3-macos-arm64.pkg.sha256
   url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-macos-arm64.pkg.sha256
+- name: Freelens-1.10.3-prod-packages.json
+  url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-prod-packages.json
+  checksum: c2c499817e0bf3d8ec710a7ee4922efafb7f960df47b75b2dcb569ff0205ca8d
+- name: Freelens-1.10.3-prod-packages.json.sha256
+  url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-prod-packages.json.sha256
 - name: Freelens-1.10.3-windows-amd64-sbom.spdx.json
   url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-windows-amd64-sbom.spdx.json
   checksum: af4a0c86c0a9963d420bb2eda6644ae06f662b0a60f640883cc2712d9131546c
@@ -163,7 +168,7 @@ evidence:
 homepage: true
 aur_votes: 1
 brew_installs: 10000
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
 aur_downloads:
 - url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-linux-amd64.AppImage
   name: Freelens-1.10.3-linux-amd64.AppImage

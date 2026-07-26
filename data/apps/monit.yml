@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/monit-bin
   found_in: monit-bin
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+aur_downloads:
+- url: https://github.com/fzf404/Monit/releases/download/v0.8.1/Monit-0.8.1-linux-x86_64.AppImage
+  name: Monit-0.8.1-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/fzf404/monit/v0.8.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

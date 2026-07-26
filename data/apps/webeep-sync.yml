@@ -36,3 +36,8 @@ evidence:
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 aur_votes: 1
 last_commit: '2026-03-24'
+aur_downloads:
+- url: https://github.com/toto04/webeep-sync/releases/download/v1.0.3/webeep-sync-redhat.rpm
+  name: webeep-sync-redhat.rpm
+  arch: any
+  source: aur-bin

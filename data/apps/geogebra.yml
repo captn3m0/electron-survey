@@ -28,3 +28,8 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+aur_downloads:
+- url: https://download.geogebra.org/installers/6.0/GeoGebra-Linux64-Portable-6-0-804-0.zip
+  name: GeoGebra-Linux64-Portable-6-0-804-0.zip
+  arch: any
+  source: aur-bin

@@ -43,3 +43,12 @@ evidence:
   found_in: ccsm-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.rpm
+  name: CCSM-0.2.20-x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Jiahui-Gu/ccsm/v0.2.20/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

@@ -6,8 +6,8 @@ src: https://github.com/jasperapp/jasper/archive/refs/tags/v2.0.0.zip
 downloads:
 - name: jasper_v2.0.0_mac_arm64.zip
   url: https://github.com/jasperapp/jasper/releases/download/v2.0.0/jasper_v2.0.0_mac_arm64.zip
-electron: 37.4.0
-method: src-package-lock
+electron: 18.0.4
+method: which-electron-rg
 aur:
 - jasperapp-bin
 homebrew: jasper-app
@@ -19,10 +19,18 @@ packages:
   arch: arm64
 electron_src: https://github.com/jasperapp/jasper/archive/refs/tags/v2.0.0.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Ajasperapp%2Fjasper+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  kind: binary
+  source: https://github.com/jasperapp/jasper/releases/download/v1.1.2/jasper_v1.1.2_linux.zip
+  found_in: jasper_v1.1.2_linux.zip
+  signal: which-electron rg signal (2 signals agreed)
 brew_installs: 10
 last_commit: '2025-09-03'
+aur_downloads:
+- url: https://github.com/jasperapp/jasper/releases/download/v1.1.2/jasper_v1.1.2_linux.zip
+  name: jasper_v1.1.2_linux.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/jasperapp/jasper/v1.1.2/misc/logo/jasper.iconset/icon_512x512.png
+  name: icon_512x512.png
+  arch: any
+  source: aur-bin

@@ -38,3 +38,12 @@ evidence:
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 aur_votes: 1
 last_commit: '2025-06-25'
+aur_downloads:
+- url: https://github.com/Comp-Labs/Google-Docs/releases/download/v2022.12.1/Google-Docs-linux-amd64-2022.12.1.deb
+  name: Google-Docs-linux-amd64-2022.12.1.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Comp-Labs/Google-Docs/v2022.12.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

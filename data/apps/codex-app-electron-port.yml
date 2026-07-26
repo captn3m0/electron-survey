@@ -6,3 +6,8 @@ aur:
 - codex-app-electron-port-bin
 last_commit: '2026-03-03'
 src: https://github.com/Tomakin/codex-app-electron-port-bin/archive/refs/heads/main.zip
+aur_downloads:
+- url: https://persistent.oaistatic.com/codex-app-prod/Codex.dmg
+  name: Codex.dmg
+  arch: any
+  source: aur-bin

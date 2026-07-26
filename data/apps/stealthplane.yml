@@ -24,3 +24,12 @@ evidence:
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 aur_votes: 1
 last_commit: '2024-04-04'
+aur_downloads:
+- url: https://github.com/mahdi991613487/StealthPlane/releases/download/v1.1.0/stealthplane-linux-x64.zip
+  name: stealthplane-linux-x64.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/mahdi991613487/StealthPlane/v1.1.0/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin

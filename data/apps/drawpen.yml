@@ -48,3 +48,8 @@ evidence:
   signal: which-electron rg signal
 brew_installs: 100
 last_commit: '2026-06-28'
+aur_downloads:
+- url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen-0.0.53-1.x86_64.rpm
+  name: drawpen-0.0.53-1.x86_64.rpm
+  arch: any
+  source: aur-bin

@@ -66,3 +66,12 @@ evidence:
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
 last_commit: '2026-07-23'
+aur_downloads:
+- url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.aarch64.rpm
+  name: vesktop-1.6.5.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.x86_64.rpm
+  name: vesktop-1.6.5.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

@@ -30,3 +30,12 @@ evidence:
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
 aur_votes: 1
 last_commit: '2026-07-19'
+aur_downloads:
+- url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.1.9/soundcloud-0.1.9-installer-linux.AppImage
+  name: soundcloud-0.1.9-installer-linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/richardhbtz/soundcloud-rpc/v0.1.9/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

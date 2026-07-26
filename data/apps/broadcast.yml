@@ -40,3 +40,8 @@ evidence:
   found_in: broadcast-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 last_commit: '2023-08-24'
+aur_downloads:
+- url: https://github.com/Mobiz-Advanced-Technologies/Broadcast/releases/download/v1.0.5/broadcast-1.0.5.x86_64.rpm
+  name: broadcast-1.0.5.x86_64.rpm
+  arch: any
+  source: aur-bin

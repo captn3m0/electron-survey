@@ -46,7 +46,7 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
-last_commit: '2026-07-20'
+last_commit: '2026-07-25'
 aur_downloads:
 - url: https://github.com/fupdec/mediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Linux.AppImage
   name: MediaChips.v1.3.4.Linux.AppImage

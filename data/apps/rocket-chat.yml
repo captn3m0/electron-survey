@@ -39,3 +39,8 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.5/rocketchat-4.15.5-linux-amd64.deb
+  name: rocketchat-4.15.5-linux-amd64.deb
+  arch: any
+  source: aur-bin

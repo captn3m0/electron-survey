@@ -32,18 +32,22 @@ downloads:
   url: https://github.com/redis/RedisInsight/releases/download/3.8.0/Redis-Insight-win-installer.exe
 homebrew: redis-insight
 electron: 41.7.2
-method: src-yarn-lock
+method: which-electron-rg
 electron_src: https://github.com/redis/RedisInsight/archive/refs/tags/3.8.0.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Aredis%2FRedisInsight+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
-  signal: electron pinned in yarn.lock
-  reconstructed: true
+  kind: binary
+  source: https://download.redisinsight.redis.com/releases/3.6.0/Redis-Insight-linux-x86_64.AppImage
+  found_in: Redis-Insight-linux-x86_64.AppImage
+  signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
 aur:
 - redisinsight-bin
 - redisinsight-git
 aur_votes: 1
+aur_downloads:
+- url: https://download.redisinsight.redis.com/releases/3.6.0/Redis-Insight-linux-x86_64.AppImage
+  name: Redis-Insight-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

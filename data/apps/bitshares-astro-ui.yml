@@ -23,3 +23,12 @@ downloads:
   url: https://github.com/BTS-CM/astro-ui/releases/download/v0.5.52/latest.yml
 we_tried: we0:v0.5.51
 last_commit: '2026-07-22'
+aur_downloads:
+- url: https://github.com/BTS-CM/astro-ui/releases/download/v0.5.52/BTSAstroUI.deb
+  name: BTSAstroUI.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/BTS-CM/astro-ui/v0.5.52/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

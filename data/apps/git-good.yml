@@ -14,3 +14,8 @@ evidence:
 aur_votes: 1
 last_commit: '2026-05-28'
 src: https://github.com/weedz/git-good/archive/refs/heads/develop.zip
+aur_downloads:
+- url: https://github.com/weedz/git-good/releases/download/v0.1.5/git-good-v0.1.5.r10.g9793e78-1-x86_64.pkg.tar.xz
+  name: git-good-v0.1.5.r10.g9793e78-1-x86_64.pkg.tar.xz
+  arch: any
+  source: aur-bin

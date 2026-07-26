@@ -29,3 +29,8 @@ evidence:
   found_in: chat-overlay-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
 last_commit: '2026-07-14'
+aur_downloads:
+- url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
+  name: chat-overlay-1.1.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

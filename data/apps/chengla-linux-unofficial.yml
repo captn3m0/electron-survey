@@ -25,3 +25,8 @@ evidence:
   found_in: chengla-linux-unofficial-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
 last_commit: '2024-05-02'
+aur_downloads:
+- url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial-1.0.8.x86_64.rpm
+  name: chengla-linux-unofficial-1.0.8.x86_64.rpm
+  arch: any
+  source: aur-bin

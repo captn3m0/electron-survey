@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/eusoft-ting-en-bin
   found_in: eusoft-ting-en-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+aur_downloads:
+- url: https://static.frdic.com/pkg/ting_en/ting_en.deb
+  name: ting_en.deb
+  arch: any
+  source: aur-bin

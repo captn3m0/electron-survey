@@ -13,3 +13,12 @@ evidence:
   found_in: cinematic-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/lacymorrow/cinematic/v3.2.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/lacymorrow/cinematic/releases/download/v3.2.1/cinematic-3.2.1-aarch64.pacman
+  name: cinematic-3.2.1-aarch64.pacman
+  arch: aarch64
+  source: aur-bin

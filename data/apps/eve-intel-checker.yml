@@ -19,3 +19,8 @@ evidence:
   found_in: eve-intel-checker-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
 last_commit: '2026-03-31'
+aur_downloads:
+- url: https://github.com/SebastienDuruz/Eve-Intel-Checker/releases/download/v1.0.12/EveIntelChecker-1.0.12.AppImage
+  name: EveIntelChecker-1.0.12.AppImage
+  arch: any
+  source: aur-bin

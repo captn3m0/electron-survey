@@ -18,3 +18,8 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+aur_downloads:
+- url: https://cdn.criptext.com/Criptext-Email-Desktop/linux/Criptext-0.31.0.AppImage
+  name: Criptext-0.31.0.AppImage
+  arch: any
+  source: aur-bin

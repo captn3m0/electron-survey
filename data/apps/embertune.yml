@@ -23,3 +23,12 @@ evidence:
   found_in: embertune-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 last_commit: '2025-09-30'
+aur_downloads:
+- url: https://github.com/DylanAkp/EmberTune/releases/download/v0.9.3/EmberTune-0.9.3.AppImage
+  name: EmberTune-0.9.3.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/DylanAkp/EmberTune/v0.9.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

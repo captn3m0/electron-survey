@@ -22,3 +22,8 @@ evidence:
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 aur_votes: 1
 last_commit: '2026-04-14'
+aur_downloads:
+- url: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0.AppImage
+  name: GameClock-2.7.0.AppImage
+  arch: any
+  source: aur-bin

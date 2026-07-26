@@ -25,7 +25,7 @@ evidence:
   found_in: emudeck-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 aur_votes: 1
-last_commit: '2026-07-07'
+last_commit: '2026-07-25'
 aur_downloads:
 - url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
   name: EmuDeck-2.5.0.AppImage

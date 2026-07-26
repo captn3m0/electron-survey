@@ -13,3 +13,12 @@ evidence:
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 last_commit: '2025-04-21'
 src: https://github.com/Netruk44/borg-repository-explorer/archive/refs/heads/main.zip
+aur_downloads:
+- url: https://github.com/Netruk44/borg-repository-explorer/releases/download/v0.0.9/Borg.Explorer-linux-x64-0.0.9.zip
+  name: Borg.Explorer-linux-x64-0.0.9.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Netruk44/borg-repository-explorer/v0.0.9/license.md
+  name: license.md
+  arch: any
+  source: aur-bin

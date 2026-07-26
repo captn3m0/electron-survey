@@ -18,3 +18,12 @@ evidence:
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
 aur_votes: 1
 last_commit: '2026-06-23'
+aur_downloads:
+- url: https://github.com/hmlendea/dl-desktop/releases/download/v4.2.0/dl-desktop_4.2.0_linux.zip
+  name: dl-desktop_4.2.0_linux.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/hmlendea/dl-desktop/v4.2.0/icon.png
+  name: icon.png
+  arch: any
+  source: aur-bin

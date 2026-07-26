@@ -25,3 +25,36 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
+aur_downloads:
+- url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-amd64-3.4.13-linux1.deb
+  name: GitHubDesktop-linux-amd64-3.4.13-linux1.deb
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-arm64-3.4.13-linux1.deb
+  name: GitHubDesktop-linux-arm64-3.4.13-linux1.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-armhf-3.4.13-linux1.deb
+  name: GitHubDesktop-linux-armhf-3.4.13-linux1.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/robotze/GithubDesktopZhTool/releases/download/3.4.13/GitHubDesktop.7z
+  name: GitHubDesktop.7z
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/shiftkey/desktop/release-3.4.13-linux1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-aarch64-3.4.13-linux1.rpm
+  name: GitHubDesktop-linux-aarch64-3.4.13-linux1.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-armv7l-3.4.13-linux1.rpm
+  name: GitHubDesktop-linux-armv7l-3.4.13-linux1.rpm
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-x86_64-3.4.13-linux1.rpm
+  name: GitHubDesktop-linux-x86_64-3.4.13-linux1.rpm
+  arch: x86_64
+  source: aur-bin

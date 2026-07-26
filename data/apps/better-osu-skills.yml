@@ -24,3 +24,8 @@ evidence:
   found_in: better-osu-skills-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
 last_commit: '2023-05-21'
+aur_downloads:
+- url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/better-osu-skills-1.0.6.AppImage
+  name: better-osu-skills-1.0.6.AppImage
+  arch: any
+  source: aur-bin

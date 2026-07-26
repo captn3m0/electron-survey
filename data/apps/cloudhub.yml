@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/cloudhub-bin
   found_in: cloudhub-bin
   signal: depends on electron12; reported as the newest 12.x release (12.2.3)
+aur_downloads:
+- url: https://www.yunzhijia.com/public/agreement/client-agreement.html
+  name: client-agreement.html
+  arch: any
+  source: aur-bin
+- url: https://res.yunzhijia.com/mixed/cloudhubx/linux_arm64/CloudHub_arm64_5.0.5_2601301023.rpm
+  name: CloudHub_arm64_5.0.5_2601301023.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://res.yunzhijia.com/mixed/cloudhubx/linux_x64/CloudHub_x64_5.0.5_2601301020.rpm
+  name: CloudHub_x64_5.0.5_2601301020.rpm
+  arch: x86_64
+  source: aur-bin

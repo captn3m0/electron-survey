@@ -24,3 +24,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/requestly/http-interceptor-desktop-app/releases/download/v26.6.29/Requestly-26.6.29.AppImage
+  name: Requestly-26.6.29.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/requestly/http-interceptor-desktop-app/v26.6.29/src/loadingScreen/index.html
+  name: index.html
+  arch: any
+  source: aur-bin

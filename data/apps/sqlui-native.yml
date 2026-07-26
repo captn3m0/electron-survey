@@ -28,7 +28,7 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
-last_commit: '2026-06-11'
+last_commit: '2026-07-25'
 aur_downloads:
 - url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_amd64.deb
   name: sqlui-native_3.1.9_amd64.deb

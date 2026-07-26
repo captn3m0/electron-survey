@@ -25,3 +25,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://github.com/blueberrycongee/CursorLens/releases/download/v1.2.9/CursorLens-Linux-1.2.9.AppImage
+  name: CursorLens-Linux-1.2.9.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/blueberrycongee/CursorLens/v1.2.9/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

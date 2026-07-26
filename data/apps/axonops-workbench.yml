@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/axonops-workbench-bin
   found_in: axonops-workbench-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+aur_downloads:
+- url: https://github.com/axonops/axonops-workbench-cassandra/releases/download/v1.1.0/AxonOps.Workbench-1.1.0-linux-aarch64.rpm
+  name: AxonOps.Workbench-1.1.0-linux-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/axonops/axonops-workbench-cassandra/releases/download/v1.1.0/AxonOps.Workbench-1.1.0-linux-x86_64.rpm
+  name: AxonOps.Workbench-1.1.0-linux-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

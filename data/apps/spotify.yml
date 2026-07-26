@@ -4,7 +4,7 @@ website: https://antoniomrtz.github.io/SpotifyElectron_Web/
 aur:
 - spotify-electron-bin
 electron: 31.7.7
-method: aur-depends
+method: which-electron-rg
 homebrew: spotify
 downloads:
 - url: https://download.scdn.co/SpotifyARM64.dmg
@@ -12,9 +12,14 @@ downloads:
   version: 1.2.94.583
 we_tried: we1.2.1+p1:urls:915eb8fa6fa9
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/spotify-electron-bin
-  found_in: spotify-electron-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/AntonioMrtz/SpotifyElectron/releases/download/v2.20/SpotifyElectron.AppImage
+  found_in: SpotifyElectron.AppImage
+  signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
+aur_downloads:
+- url: https://github.com/AntonioMrtz/SpotifyElectron/releases/download/v2.20/SpotifyElectron.AppImage
+  name: SpotifyElectron.AppImage
+  arch: any
+  source: aur-bin

@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/edgetx-buddy-bin
   found_in: edgetx-buddy-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+aur_downloads:
+- url: https://github.com/EdgeTX/buddy/releases/download/latest/edgetx-buddy-0.1.0.AppImage
+  name: edgetx-buddy-0.1.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/EdgeTX/buddy/latest/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

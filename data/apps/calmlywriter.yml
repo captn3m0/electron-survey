@@ -18,3 +18,16 @@ evidence:
   source: https://www.calmlywriter.com/releases/Calmly%20Writer-2.0.66-arm64.dmg
   found_in: Calmly%20Writer-2.0.66-arm64.dmg
   signal: which-electron rg signal
+aur_downloads:
+- url: https://www.calmlywriter.com/eula.htm
+  name: eula.htm
+  arch: any
+  source: aur-bin
+- url: https://www.calmlywriter.com/pro/releases/calmly-writer-3-3.0.4.aarch64.rpm
+  name: calmly-writer-3-3.0.4.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://www.calmlywriter.com/pro/releases/calmly-writer-3-3.0.4.x86_64.rpm
+  name: calmly-writer-3-3.0.4.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

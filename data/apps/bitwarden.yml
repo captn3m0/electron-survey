@@ -56,11 +56,45 @@ downloads:
   url: https://github.com/bitwarden/clients/releases/download/cli-v2026.7.0/bw-windows-2026.7.0.zip
 - name: bw_2026.7.0_amd64.snap
   url: https://github.com/bitwarden/clients/releases/download/cli-v2026.7.0/bw_2026.7.0_amd64.snap
-electron: 39.8.5
+electron: 41.7.2
 method: which-electron-rg
 latest: cli-v2026.7.0
 src: https://github.com/bitwarden/clients/archive/refs/tags/cli-v2026.7.0.zip
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/Bitwarden-2026.7.0-amd64.deb
+  name: Bitwarden-2026.7.0-amd64.deb
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/bitwarden_2026.7.0_arm64.tar.gz
+  name: bitwarden_2026.7.0_arm64.tar.gz
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/bitwarden/clients/releases/download/cli-v2026.7.0/bw-linux-2026.7.0.zip
+  name: bw-linux-2026.7.0.zip
+  arch: x86_64
+  source: aur-bin
+- url: https://github.com/bitwarden/clients/releases/download/cli-v2026.7.0/bw-linux-arm64-2026.7.0.zip
+  name: bw-linux-arm64-2026.7.0.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://raw.githubusercontent.com/bitwarden/sdk-sm/refs/tags/bws-v2.1.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/bitwarden/sdk-sm/releases/download/bws-v2.1.0/bws-aarch64-unknown-linux-gnu-2.1.0.zip
+  name: bws-aarch64-unknown-linux-gnu-2.1.0.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/bitwarden/sdk-sm/releases/download/bws-v2.1.0/bws-x86_64-unknown-linux-gnu-2.1.0.zip
+  name: bws-x86_64-unknown-linux-gnu-2.1.0.zip
+  arch: x86_64
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/bitwarden_2026.7.0_arm64.tar.gz
+  found_in: bitwarden_2026.7.0_arm64.tar.gz
+  signal: which-electron rg signal

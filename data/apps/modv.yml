@@ -34,3 +34,12 @@ evidence:
   found_in: modv-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 last_commit: '2026-02-17'
+aur_downloads:
+- url: https://github.com/vcync/modV/releases/download/3.30.0/modV-3.30.0.AppImage
+  name: modV-3.30.0.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/vcync/modv/3.30.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

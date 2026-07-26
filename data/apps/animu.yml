@@ -31,3 +31,8 @@ evidence:
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
 aur_votes: 1
 last_commit: '2026-07-23'
+aur_downloads:
+- url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.deb
+  name: animu-0.7.16.deb
+  arch: any
+  source: aur-bin

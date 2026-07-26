@@ -39,3 +39,12 @@ evidence:
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
 aur_votes: 1
 last_commit: '2025-11-26'
+aur_downloads:
+- url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon-0.2.22-1.arm64.rpm
+  name: aeon-0.2.22-1.arm64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/leinelissen/aeon/releases/download/v0.2.22/aeon-0.2.22-1.x86_64.rpm
+  name: aeon-0.2.22-1.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

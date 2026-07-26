@@ -11,3 +11,8 @@ evidence:
   found_in: geekeditor-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/geekeditor/geekeditor-releases/releases/download/v1.4.9/geekeditor_1.4.9_amd64.deb
+  name: geekeditor_1.4.9_amd64.deb
+  arch: any
+  source: aur-bin

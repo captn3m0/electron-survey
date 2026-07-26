@@ -17,25 +17,25 @@ packages:
   arch: x64
 electron: 40.8.0
 method: which-electron-rg
-latest: v3.28.104
-src: https://github.com/SnosMe/awakened-poe-trade/archive/refs/tags/v3.28.104.zip
+latest: v3.29.101
+src: https://github.com/SnosMe/awakened-poe-trade/archive/refs/tags/v3.29.101.zip
 downloads:
-- name: Awakened-PoE-Trade-3.28.104-universal.dmg
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/Awakened-PoE-Trade-3.28.104-universal.dmg
-- name: Awakened-PoE-Trade-3.28.104-universal.dmg.blockmap
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/Awakened-PoE-Trade-3.28.104-universal.dmg.blockmap
-- name: Awakened-PoE-Trade-3.28.104.AppImage
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/Awakened-PoE-Trade-3.28.104.AppImage
-- name: Awakened-PoE-Trade-3.28.104.exe
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/Awakened-PoE-Trade-3.28.104.exe
-- name: Awakened-PoE-Trade-Setup-3.28.104.exe
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/Awakened-PoE-Trade-Setup-3.28.104.exe
-- name: Awakened-PoE-Trade-Setup-3.28.104.exe.blockmap
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/Awakened-PoE-Trade-Setup-3.28.104.exe.blockmap
+- name: Awakened-PoE-Trade-3.29.101-universal.dmg
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/Awakened-PoE-Trade-3.29.101-universal.dmg
+- name: Awakened-PoE-Trade-3.29.101-universal.dmg.blockmap
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/Awakened-PoE-Trade-3.29.101-universal.dmg.blockmap
+- name: Awakened-PoE-Trade-3.29.101.AppImage
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/Awakened-PoE-Trade-3.29.101.AppImage
+- name: Awakened-PoE-Trade-3.29.101.exe
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/Awakened-PoE-Trade-3.29.101.exe
+- name: Awakened-PoE-Trade-Setup-3.29.101.exe
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/Awakened-PoE-Trade-Setup-3.29.101.exe
+- name: Awakened-PoE-Trade-Setup-3.29.101.exe.blockmap
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/Awakened-PoE-Trade-Setup-3.29.101.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/latest-linux.yml
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/latest-mac.yml
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.28.104/latest.yml
-last_commit: '2026-07-24'
+  url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.101/latest.yml
+last_commit: '2026-07-25'

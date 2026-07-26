@@ -27,3 +27,12 @@ evidence:
   found_in: electron-calculator-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 last_commit: '2024-02-10'
+aur_downloads:
+- url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron-calculator_1.1.2_amd64.deb
+  name: electron-calculator_1.1.2_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Alex313031/electron-calculator/1.1.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

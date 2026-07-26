@@ -29,3 +29,8 @@ evidence:
   found_in: dbptk-desktop-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-linux-x86_64.AppImage
+  name: dbptk-desktop-4.0.0-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

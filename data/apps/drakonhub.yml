@@ -23,3 +23,8 @@ evidence:
   found_in: drakonhub-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
 last_commit: '2026-07-15'
+aur_downloads:
+- url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
+  name: drakonhub-2026.06.14-1.x86_64.rpm
+  arch: any
+  source: aur-bin

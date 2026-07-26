@@ -21,3 +21,12 @@ evidence:
   source: https://github.com/envkey/envkey-app/releases/download/darwin-x64-prod-v1.5.10/EnvKey-1.5.10-mac.zip
   found_in: EnvKey-1.5.10-mac.zip
   signal: which-electron fingerprint signal (2 signals agreed)
+aur_downloads:
+- url: https://envkey-releases.s3.amazonaws.com/desktop/release_artifacts/2.4.18/EnvKey-2.4.18.AppImage
+  name: EnvKey-2.4.18.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/envkey/envkey/desktop-v2.4.18/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

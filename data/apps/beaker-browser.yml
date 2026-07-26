@@ -33,3 +33,8 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 last_commit: '2022-12-27'
+aur_downloads:
+- url: https://github.com/beakerbrowser/beaker/releases/download/1.1.0/Beaker.Browser-1.1.0.AppImage
+  name: Beaker.Browser-1.1.0.AppImage
+  arch: any
+  source: aur-bin

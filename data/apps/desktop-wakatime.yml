@@ -3,8 +3,8 @@ name: Desktop Wakatime
 website: https://wakatime.com/windows
 aur:
 - desktop-wakatime-bin
-electron: 32.3.3
-method: aur-depends
+electron: 32.0.0
+method: which-electron-rg
 homebrew: wakatime
 downloads:
 - url: https://github.com/wakatime/macos-wakatime/releases/download/v5.28.4/macos-wakatime.zip
@@ -12,9 +12,22 @@ downloads:
   version: 5.28.4
 we_tried: we1.2.1+p1:urls:14af2d7f3060
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/desktop-wakatime-bin
-  found_in: desktop-wakatime-bin
-  signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+  kind: binary
+  source: https://github.com/wakatime/desktop-wakatime/releases/download/v3.0.0+1/wakatime-linux-arm64.AppImage
+  found_in: wakatime-linux-arm64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
+aur_downloads:
+- url: https://raw.githubusercontent.com/wakatime/desktop-wakatime/v3.0.0+1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/wakatime/desktop-wakatime/releases/download/v3.0.0+1/wakatime-linux-arm64.AppImage
+  name: wakatime-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/wakatime/desktop-wakatime/releases/download/v3.0.0+1/wakatime-linux-x86_64.AppImage
+  name: wakatime-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

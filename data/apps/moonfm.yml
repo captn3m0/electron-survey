@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/moonfm-bin
   found_in: moonfm-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+aur_downloads:
+- url: https://moon.fm/dist/MoonFM-5.0.3-x86_64.AppImage
+  name: MoonFM-5.0.3-x86_64.AppImage
+  arch: any
+  source: aur-bin

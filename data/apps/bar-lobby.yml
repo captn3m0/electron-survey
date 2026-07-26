@@ -12,3 +12,48 @@ evidence:
   source: https://aur.archlinux.org/packages/bar-lobby-bin
   found_in: bar-lobby-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+aur_downloads:
+- url: https://github.com/beyond-all-reason/bar-lobby/releases/download/v0.15.2/BeyondAllReason-0.15.2.AppImage
+  name: BeyondAllReason-0.15.2.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/CC-BY-3.0.txt
+  name: CC-BY-3.0.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/CC-BY-NC-ND-4.0.txt
+  name: CC-BY-NC-ND-4.0.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/CC-BY-SA-3.0.txt
+  name: CC-BY-SA-3.0.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/CC0-1.0.txt
+  name: CC0-1.0.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/ISC.txt
+  name: ISC.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/LicenseRef-IFOPE.txt
+  name: LicenseRef-IFOPE.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/LicenseRef-UNKNOWN.txt
+  name: LicenseRef-UNKNOWN.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/MIT.txt
+  name: MIT.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/OFL-1.1.txt
+  name: OFL-1.1.txt
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/beyond-all-reason/bar-lobby/v0.15.2/LICENSES/Unlicense.txt
+  name: Unlicense.txt
+  arch: any
+  source: aur-bin

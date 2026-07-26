@@ -45,3 +45,8 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
+aur_downloads:
+- url: https://stable.dl2.discordapp.net/apps/linux/1.0.150/discord-1.0.150.deb
+  name: discord-1.0.150.deb
+  arch: any
+  source: aur-bin

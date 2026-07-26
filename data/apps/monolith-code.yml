@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/monolith-code-bin
   found_in: monolith-code-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+aur_downloads:
+- url: https://github.com/Haeri/monolith-code/releases/download/v2.3.2/monolith-code-2.3.2.AppImage
+  name: monolith-code-2.3.2.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Haeri/monolith-code/v2.3.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

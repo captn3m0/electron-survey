@@ -22,3 +22,8 @@ method: aur-depends
 name: csBooks
 aur_votes: 1
 last_commit: '2024-12-22'
+aur_downloads:
+- url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-9.0.0.pacman
+  name: csBooks-9.0.0.pacman
+  arch: any
+  source: aur-bin

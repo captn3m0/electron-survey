@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/casterr-bin
   found_in: casterr-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+aur_downloads:
+- url: https://github.com/sbondCo/Casterr/releases/download/v2.0.0/Casterr-2.0.0.AppImage
+  name: Casterr-2.0.0.AppImage
+  arch: any
+  source: aur-bin

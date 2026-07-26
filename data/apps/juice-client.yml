@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/juice-client-bin
   found_in: juice-client-bin
   signal: depends on electron10; reported as the newest 10.x release (10.4.7)
+aur_downloads:
+- url: https://github.com/irrvlo/juice-client/releases/download/v1.1.18/juice-client-1.1.18-linux-x86_64.AppImage
+  name: juice-client-1.1.18-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

@@ -25,3 +25,12 @@ evidence:
   found_in: clipharbor-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 last_commit: '2025-03-28'
+aur_downloads:
+- url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor_0.4.1_amd64.deb
+  name: ClipHarbor_0.4.1_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/yurentle/ClipHarbor/v0.4.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

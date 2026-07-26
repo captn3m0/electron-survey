@@ -21,3 +21,8 @@ evidence:
   found_in: melodify-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
 last_commit: '2024-08-30'
+aur_downloads:
+- url: https://github.com/abedio/melodify-webview-app/releases/download/v1.0.0/melodify-1.0.0-1.x86_64.rpm
+  name: melodify-1.0.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

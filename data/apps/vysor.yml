@@ -40,3 +40,8 @@ evidence:
 aur_votes: 1
 brew_installs: 1000
 last_commit: '2024-07-16'
+aur_downloads:
+- url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-linux-5.0.7.deb
+  name: Vysor-linux-5.0.7.deb
+  arch: any
+  source: aur-bin

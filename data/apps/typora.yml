@@ -33,9 +33,23 @@ downloads:
 - url: https://downloads.typora.io/mac/Typora-1.13.8.dmg
   name: Typora-1.13.8.dmg
   version: 1.13.8
-electron: 35.6.0
+electron: 30.0.9
 method: which-electron-rg
 we_tried: we1.2.1+p1:urls:142c717ffd72
 homepage: true
 aur_votes: 100
 brew_installs: 10000
+aur_downloads:
+- url: https://downloads.typoraio.cn/linux/typora_1.9.3_amd64.deb
+  name: typora_1.9.3_amd64.deb
+  arch: x86_64
+  source: aur-bin
+- url: https://downloads.typoraio.cn/linux/typora_1.9.3_arm64.deb
+  name: typora_1.9.3_arm64.deb
+  arch: aarch64
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://downloads.typoraio.cn/linux/typora_1.9.3_arm64.deb
+  found_in: typora_1.9.3_arm64.deb
+  signal: which-electron rg signal

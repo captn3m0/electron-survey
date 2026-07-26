@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/enotebook-bin
   found_in: enotebook-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+aur_downloads:
+- url: https://github.com/aestrus219/eNotebook/releases/download/v1.0.0/eNotebook@1.0.0-linux.deb
+  name: eNotebook@1.0.0-linux.deb
+  arch: any
+  source: aur-bin

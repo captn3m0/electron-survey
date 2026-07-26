@@ -13,3 +13,8 @@ evidence:
   found_in: station-bin
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/getstation/desktop-app/releases/download/v3.3.0/Station-x86_64.rpm
+  name: Station-x86_64.rpm
+  arch: any
+  source: aur-bin

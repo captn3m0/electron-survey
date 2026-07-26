@@ -34,3 +34,8 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 1000
+aur_downloads:
+- url: https://prerelease.keybase.io/linux_binaries/deb/keybase_6.6.3-20260603142455.f60f2ff97e_amd64.deb
+  name: keybase_6.6.3-20260603142455.f60f2ff97e_amd64.deb
+  arch: x86_64
+  source: aur-bin

@@ -86,4 +86,30 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/Kong/insomnia/releases/download/lib@3.16.0/inso-linux-3.16.0.tar.xz
+  name: inso-linux-3.16.0.tar.xz
+  arch: any
+  source: aur-bin
+- url: https://github.com/Kong/insomnia/raw/core@2023.2.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/Kong/insomnia/releases/download/core@13.0.2/Insomnia.Core-13.0.2.deb
+  name: Insomnia.Core-13.0.2.deb
+  arch: any
+  source: aur-bin
+- url: https://github.com/Kong/insomnia/raw/core@13.0.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/Kong/insomnia/releases/download/designer@2020.5.2/Insomnia.Designer-2020.5.2.deb
+  name: Insomnia.Designer-2020.5.2.deb
+  arch: any
+  source: aur-bin
+- url: https://github.com/Kong/insomnia/raw/designer@2020.5.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+we_tried: we1.2.1+p1:core@13.1.0

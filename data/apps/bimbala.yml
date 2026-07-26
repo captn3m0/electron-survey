@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/bimbala-desktop-bin
   found_in: bimbala-desktop-bin
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+aur_downloads:
+- url: https://github.com/Bimbalacom/Desktop/releases/download/v1.0.5/bimbala-desktop-1.0.5-1.x86_64.rpm
+  name: bimbala-desktop-1.0.5-1.x86_64.rpm
+  arch: any
+  source: aur-bin

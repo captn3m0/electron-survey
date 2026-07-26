@@ -60,3 +60,8 @@ evidence:
   source: https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.rpm
   found_in: boost-note-linux.rpm
   signal: which-electron rg signal
+aur_downloads:
+- url: https://github.com/BoostIO/BoostNote.next-local/releases/download/v0.23.0/boost-note-local-linux.deb
+  name: boost-note-local-linux.deb
+  arch: any
+  source: aur-bin

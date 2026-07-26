@@ -11,3 +11,12 @@ evidence:
   found_in: vidbee-bin
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/nexmoe/VidBee/releases/download/v1.3.14/vidbee_1.3.14_amd64.deb
+  name: vidbee_1.3.14_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/nexmoe/VidBee/v1.3.14/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

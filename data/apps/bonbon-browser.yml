@@ -12,3 +12,12 @@ evidence:
   source: https://aur.archlinux.org/packages/bonbon-browser-bin
   found_in: bonbon-browser-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+aur_downloads:
+- url: https://github.com/BonBon-exchange/bonbon-browser/releases/download/v1.0.7/BonBon_1.0.7_arm64.deb
+  name: BonBon_1.0.7_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/BonBon-exchange/bonbon-browser/releases/download/v1.0.7/BonBon_1.0.7_amd64.deb
+  name: BonBon_1.0.7_amd64.deb
+  arch: x86_64
+  source: aur-bin

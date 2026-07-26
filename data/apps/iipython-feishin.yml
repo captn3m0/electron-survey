@@ -23,3 +23,8 @@ evidence:
   found_in: iipython-feishin-electron-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 last_commit: '2026-05-17'
+aur_downloads:
+- url: https://github.com/iceyear/iipython-feishin-electron-bin/releases/download/26.05.10-1.0/Feishin-linux-amd64.deb
+  name: Feishin-linux-amd64.deb
+  arch: x86_64
+  source: aur-bin

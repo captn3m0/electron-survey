@@ -60,3 +60,8 @@ evidence:
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 aur_votes: 1
 last_commit: '2025-09-26'
+aur_downloads:
+- url: https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-linux-2.6.38.AppImage
+  name: TeamIDE-linux-2.6.38.AppImage
+  arch: any
+  source: aur-bin

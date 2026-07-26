@@ -40,3 +40,12 @@ evidence:
   reconstructed: true
 aur_votes: 1
 last_commit: '2026-07-17'
+aur_downloads:
+- url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-linux.AppImage
+  name: cc-map-editor-2.4.4-linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://github.com/CCDirectLink/crosscode-map-editor/raw/v2.4.4/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

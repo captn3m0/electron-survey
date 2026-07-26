@@ -26,3 +26,8 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 10000
+aur_downloads:
+- url: https://download.termius.com/linux/Termius.deb
+  name: Termius.deb
+  arch: any
+  source: aur-bin

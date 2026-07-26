@@ -77,3 +77,8 @@ homepage: true
 aur_votes: 10
 brew_installs: 100
 last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/tagspaces/tagspaces/releases/download/v6.13.12/tagspaces-linux-amd64-6.13.12.deb
+  name: tagspaces-linux-amd64-6.13.12.deb
+  arch: any
+  source: aur-bin

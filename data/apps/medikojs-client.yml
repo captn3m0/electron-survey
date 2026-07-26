@@ -21,3 +21,8 @@ evidence:
   found_in: medikojs-client-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
 last_commit: '2025-05-30'
+aur_downloads:
+- url: https://raw.githubusercontent.com/rafalhogent/medikoJs/alpha/client/public/icons/favicon-128x128.png
+  name: favicon-128x128.png
+  arch: any
+  source: aur-bin

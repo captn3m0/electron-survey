@@ -90,3 +90,12 @@ evidence:
 aur_votes: 1
 brew_installs: 1000
 last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-aarch64.rpm
+  name: SwitchHosts-5.0.1-linux-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/oldj/SwitchHosts/releases/download/v5.0.1/SwitchHosts-5.0.1-linux-x86_64.rpm
+  name: SwitchHosts-5.0.1-linux-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

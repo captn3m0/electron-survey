@@ -73,3 +73,16 @@ evidence:
   signal: which-electron rg signal
 brew_installs: 100
 last_commit: '2026-07-20'
+aur_downloads:
+- url: https://raw.githubusercontent.com/terreng/simple-web-server/v1.2.17/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-arm64.deb
+  name: Simple-Web-Server-Linux-1.2.17-arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/terreng/simple-web-server/releases/download/v1.2.17/Simple-Web-Server-Linux-1.2.17-amd64.deb
+  name: Simple-Web-Server-Linux-1.2.17-amd64.deb
+  arch: x86_64
+  source: aur-bin

@@ -23,3 +23,12 @@ evidence:
   found_in: mouse-automator-bin
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
 last_commit: '2024-09-04'
+aur_downloads:
+- url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/Mouse-Automator-Linux-1.0.16.AppImage
+  name: Mouse-Automator-Linux-1.0.16.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/cch01/mouse-automator/v1.0.16/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

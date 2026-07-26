@@ -11,3 +11,16 @@ evidence:
   found_in: transformerlab-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/transformerlab/transformerlab-app/v0.27.8/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/transformerlab/transformerlab-app/releases/download/v0.27.8/Transformer-Lab-0.27.8-arm64.AppImage
+  name: Transformer-Lab-0.27.8-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/transformerlab/transformerlab-app/releases/download/v0.27.8/Transformer-Lab-0.27.8.AppImage
+  name: Transformer-Lab-0.27.8.AppImage
+  arch: x86_64
+  source: aur-bin

@@ -65,3 +65,8 @@ homepage: true
 aur_votes: 10
 brew_installs: 1000
 last_commit: '2025-03-20'
+aur_downloads:
+- url: https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-linux-amd64-1.18.1.deb
+  name: session-desktop-linux-amd64-1.18.1.deb
+  arch: any
+  source: aur-bin

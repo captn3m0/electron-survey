@@ -21,3 +21,8 @@ evidence:
   found_in: electron-file-manager-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 last_commit: '2026-06-06'
+aur_downloads:
+- url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager_2.0.4_amd64.deb
+  name: electron-file-manager_2.0.4_amd64.deb
+  arch: any
+  source: aur-bin

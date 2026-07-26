@@ -55,3 +55,8 @@ we_tried: we1.2.1+p1:0.4.3
 aur_votes: 10
 brew_installs: 100
 last_commit: '2026-04-19'
+aur_downloads:
+- url: https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-linux-x86_64.deb
+  name: Spacedrive-linux-x86_64.deb
+  arch: any
+  source: aur-bin

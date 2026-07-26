@@ -31,3 +31,8 @@ aur_votes: 100
 brew_installs: 1000
 homebrew_disabled: true
 homebrew_disable_reason: discontinued
+aur_downloads:
+- url: https://packages.microsoft.com/debian/12/prod/pool/main/m/mdatp/mdatp_101.26052.0011_amd64.deb
+  name: mdatp_101.26052.0011_amd64.deb
+  arch: any
+  source: aur-bin

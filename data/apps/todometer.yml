@@ -47,4 +47,13 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 brew_installs: 10
-last_commit: '2026-07-21'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/cassidoo/todometer/releases/download/v3.0.2/todometer-3.0.2.AppImage
+  name: todometer-3.0.2.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/cassidoo/todometer/v3.0.2/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

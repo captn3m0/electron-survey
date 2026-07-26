@@ -17,4 +17,17 @@ downloads:
   version: 13.0.16
 aur_votes: 10
 brew_installs: 100
-we_tried: we1.2.1+p1:urls:b9c862289be9
+we_tried: we1.2.1+p1:urls:75de44bc9671
+aur_downloads:
+- url: https://www.edrawsoft.com/archives/edrawinfo-64.run.gz
+  name: edrawinfo-64.run.gz
+  arch: any
+  source: aur-bin
+- url: https://download.wondershare.com/prd/edrawmax_full5371.rpm
+  name: edrawmax_full5371.rpm
+  arch: any
+  source: aur-bin
+- url: https://download.edrawsoft.com/edrawmind-x86_64.deb
+  name: edrawmind-x86_64.deb
+  arch: x86_64
+  source: aur-bin

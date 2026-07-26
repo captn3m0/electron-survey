@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/batch-explorer-bin
   found_in: batch-explorer-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+aur_downloads:
+- url: https://github.com/Azure/BatchExplorer/releases/download/v2.23.0-stable.1210/batch-explorer-2.23.0-stable.1210.x86_64.rpm
+  name: batch-explorer-2.23.0-stable.1210.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Azure/BatchExplorer/v2.23.0-stable.1210/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

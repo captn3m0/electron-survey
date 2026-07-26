@@ -447,4 +447,17 @@ evidence:
 homepage: true
 aur_votes: 1
 brew_installs: 10000
-last_commit: '2026-07-22'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://raw.githubusercontent.com/VSCodium/vscodium/1.126.04524/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium-1.126.04524-el8.aarch64.rpm
+  name: codium-1.126.04524-el8.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium-1.126.04524-el8.x86_64.rpm
+  name: codium-1.126.04524-el8.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

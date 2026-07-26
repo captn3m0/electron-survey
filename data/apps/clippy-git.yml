@@ -29,3 +29,8 @@ evidence:
   found_in: clippy-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 last_commit: '2025-11-15'
+aur_downloads:
+- url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-0.4.3-1.x86_64.rpm
+  name: Clippy-0.4.3-1.x86_64.rpm
+  arch: any
+  source: aur-bin

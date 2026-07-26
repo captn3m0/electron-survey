@@ -29,3 +29,16 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 100
+aur_downloads:
+- url: https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-355.260720.0/tutanota-desktop-linux.AppImage
+  name: tutanota-desktop-linux.AppImage
+  arch: any
+  source: aur-bin
+- url: https://app.tuta.com/desktop/linux-sig.bin
+  name: linux-sig.bin
+  arch: any
+  source: aur-bin
+- url: https://github.com/tutao/tutanota/raw/tutanota-desktop-release-355.260720.0/tutao-pub.pem
+  name: tutao-pub.pem
+  arch: any
+  source: aur-bin

@@ -35,3 +35,12 @@ evidence:
   source: https://github.com/alichtman/deadbolt/releases/download/v2.1.1/Deadbolt-2.1.1.x86_64.AppImage
   found_in: Deadbolt-2.1.1.x86_64.AppImage
   signal: which-electron rg signal
+aur_downloads:
+- url: https://github.com/alichtman/deadbolt/releases/download/v2.1.1/Deadbolt-2.1.1.x86_64.AppImage
+  name: Deadbolt-2.1.1.x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/alichtman/deadbolt/v2.1.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

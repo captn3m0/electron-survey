@@ -11,3 +11,8 @@ evidence:
   found_in: repath-studio-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/re-path/studio/releases/download/v0.4.16/repath-studio-linux.AppImage
+  name: repath-studio-linux.AppImage
+  arch: any
+  source: aur-bin

@@ -31,3 +31,8 @@ evidence:
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true
 last_commit: '2026-07-01'
+aur_downloads:
+- url: https://github.com/JustYuuto/deezer-discord-rpc/releases/latest/download/DeezerDiscordRPC-linux-amd64.deb
+  name: DeezerDiscordRPC-linux-amd64.deb
+  arch: any
+  source: aur-bin

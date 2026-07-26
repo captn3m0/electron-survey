@@ -1,51 +1,51 @@
 id: blockbench
 repository: https://github.com/JannisX11/blockbench
 website: https://blockbench.net/
-latest: v5.1.5
-src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.5.zip
+latest: v5.1.6
+src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.6.zip
 downloads:
-- name: Blockbench_5.1.5.AppImage
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_5.1.5.AppImage
-- name: Blockbench_5.1.5.deb
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_5.1.5.deb
-- name: Blockbench_5.1.5.exe
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_5.1.5.exe
-- name: Blockbench_5.1.5.exe.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_5.1.5.exe.blockmap
-- name: Blockbench_5.1.5.rpm
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_5.1.5.rpm
-- name: Blockbench_5.1.5_portable.exe
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_5.1.5_portable.exe
-- name: Blockbench_arm64_5.1.5.dmg
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.dmg
-- name: Blockbench_arm64_5.1.5.dmg.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.dmg.blockmap
-- name: Blockbench_arm64_5.1.5.exe
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.exe
-- name: Blockbench_arm64_5.1.5.exe.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.exe.blockmap
-- name: Blockbench_arm64_5.1.5.zip
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.zip
-- name: Blockbench_arm64_5.1.5.zip.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_arm64_5.1.5.zip.blockmap
-- name: Blockbench_x64_5.1.5.dmg
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_x64_5.1.5.dmg
-- name: Blockbench_x64_5.1.5.dmg.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_x64_5.1.5.dmg.blockmap
-- name: Blockbench_x64_5.1.5.exe
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_x64_5.1.5.exe
-- name: Blockbench_x64_5.1.5.exe.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_x64_5.1.5.exe.blockmap
-- name: Blockbench_x64_5.1.5.zip
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_x64_5.1.5.zip
-- name: Blockbench_x64_5.1.5.zip.blockmap
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/Blockbench_x64_5.1.5.zip.blockmap
+- name: Blockbench_5.1.6.AppImage
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_5.1.6.AppImage
+- name: Blockbench_5.1.6.deb
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_5.1.6.deb
+- name: Blockbench_5.1.6.exe
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_5.1.6.exe
+- name: Blockbench_5.1.6.exe.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_5.1.6.exe.blockmap
+- name: Blockbench_5.1.6.rpm
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_5.1.6.rpm
+- name: Blockbench_5.1.6_portable.exe
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_5.1.6_portable.exe
+- name: Blockbench_arm64_5.1.6.dmg
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_arm64_5.1.6.dmg
+- name: Blockbench_arm64_5.1.6.dmg.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_arm64_5.1.6.dmg.blockmap
+- name: Blockbench_arm64_5.1.6.exe
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_arm64_5.1.6.exe
+- name: Blockbench_arm64_5.1.6.exe.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_arm64_5.1.6.exe.blockmap
+- name: Blockbench_arm64_5.1.6.zip
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_arm64_5.1.6.zip
+- name: Blockbench_arm64_5.1.6.zip.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_arm64_5.1.6.zip.blockmap
+- name: Blockbench_x64_5.1.6.dmg
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_x64_5.1.6.dmg
+- name: Blockbench_x64_5.1.6.dmg.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_x64_5.1.6.dmg.blockmap
+- name: Blockbench_x64_5.1.6.exe
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_x64_5.1.6.exe
+- name: Blockbench_x64_5.1.6.exe.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_x64_5.1.6.exe.blockmap
+- name: Blockbench_x64_5.1.6.zip
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_x64_5.1.6.zip
+- name: Blockbench_x64_5.1.6.zip.blockmap
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/Blockbench_x64_5.1.6.zip.blockmap
 - name: latest-linux.yml
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/latest-linux.yml
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/latest-mac.yml
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.5/latest.yml
+  url: https://github.com/JannisX11/blockbench/releases/download/v5.1.6/latest.yml
 electron: 40.10.6
 method: src-package-lock
 aur:
@@ -58,14 +58,19 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.5.zip
+electron_src: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.6.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3AJannisX11%2Fblockbench+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: blockbench-5.1.6/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/JannisX11/blockbench/archive/refs/tags/v5.1.6.zip
 homepage: true
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/JannisX11/blockbench/releases/download/v5.1.4/Blockbench_5.1.4.deb
+  name: Blockbench_5.1.4.deb
+  arch: any
+  source: aur-bin
+we_tried: we1.2.1+p1:v5.1.6

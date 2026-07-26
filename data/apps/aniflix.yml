@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/aniflix-bin
   found_in: aniflix-bin
   signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+aur_downloads:
+- url: https://github.com/rizkhal/aniflix/releases/download/v0.0.1/aniflix_0.1.0_amd64.deb
+  name: aniflix_0.1.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/rizkhal/aniflix/master/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

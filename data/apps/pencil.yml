@@ -27,3 +27,8 @@ brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2026-06-02'
+aur_downloads:
+- url: https://pencil.evolus.vn/dl/V3.1.1.ga/Pencil_3.1.1.ga_amd64.deb
+  name: Pencil_3.1.1.ga_amd64.deb
+  arch: any
+  source: aur-bin

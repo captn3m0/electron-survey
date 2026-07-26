@@ -26,3 +26,8 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10
+aur_downloads:
+- url: https://github.com/gitkraken/gk-cli/releases/download/v3.1.62/gk_3.1.62_linux_amd64.zip
+  name: gk_3.1.62_linux_amd64.zip
+  arch: any
+  source: aur-bin

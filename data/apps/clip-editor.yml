@@ -26,3 +26,8 @@ evidence:
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
 aur_votes: 1
 last_commit: '2026-06-23'
+aur_downloads:
+- url: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip-editor-0.2.7-1.x86_64.rpm
+  name: clip-editor-0.2.7-1.x86_64.rpm
+  arch: any
+  source: aur-bin

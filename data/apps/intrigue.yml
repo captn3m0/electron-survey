@@ -25,3 +25,8 @@ evidence:
   found_in: intrigue-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 last_commit: '2026-07-19'
+aur_downloads:
+- url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0.AppImage
+  name: Intrigue-1.5.0.AppImage
+  arch: any
+  source: aur-bin

@@ -11,3 +11,8 @@ evidence:
   found_in: ai-chat-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/rabrain/ai-chat/releases/download/v1.2.5/AI-Chat-1.2.5-linux-x86_64.AppImage
+  name: AI-Chat-1.2.5-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin

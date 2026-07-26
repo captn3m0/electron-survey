@@ -7,10 +7,28 @@ aur:
 - ledger-live-bin
 - ledger-live-client-bin
 - ledger-live-desktop-appimage
-electron: 40.10.6
-method: aur-depends
+electron: 42.5.0
+method: which-electron-rg
 latest: live-mobile@4.12.0
 src: https://github.com/LedgerHQ/ledger-live/archive/refs/tags/live-mobile@4.12.0.zip
 homepage: true
 aur_votes: 10
 last_commit: '2026-07-25'
+aur_downloads:
+- url: https://download.live.ledger.com/ledger-live-desktop-4.11.0-linux-x86_64.AppImage
+  name: ledger-live-desktop-4.11.0-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/LedgerHQ/ledger-live/refs/tags/%40ledgerhq/live-desktop%404.11.0/apps/ledger-live-desktop/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://download.live.ledger.com/ledger-live-desktop-4.4.0-linux-x86_64.AppImage
+  name: ledger-live-desktop-4.4.0-linux-x86_64.AppImage
+  arch: any
+  source: aur-bin
+evidence:
+  kind: binary
+  source: https://download.live.ledger.com/ledger-live-desktop-4.11.0-linux-x86_64.AppImage
+  found_in: ledger-live-desktop-4.11.0-linux-x86_64.AppImage
+  signal: which-electron rg signal

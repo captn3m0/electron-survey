@@ -24,3 +24,8 @@ evidence:
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 brew_installs: 10
 last_commit: '2026-06-22'
+aur_downloads:
+- url: https://github.com/jasonlong/mater/releases/download/v2.0.3/Mater-linux-x64-2.0.3.zip
+  name: Mater-linux-x64-2.0.3.zip
+  arch: any
+  source: aur-bin

@@ -13,3 +13,12 @@ evidence:
   found_in: ai-browser-bin
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/Jun-Murakami/AI-Browser/releases/download/v1.7.0/ai-browser-1.7.0_linux_amd64.deb
+  name: ai-browser-1.7.0_linux_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Jun-Murakami/AI-Browser/v1.7.0/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin

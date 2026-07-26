@@ -47,4 +47,17 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://raw.githubusercontent.com/actualbudget/actual/v26.7.0/LICENSE.txt
+  name: LICENSE.txt
+  arch: any
+  source: aur-bin
+- url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-arm64.AppImage
+  name: Actual-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/actualbudget/actual/releases/download/v26.7.0/Actual-linux-x86_64.AppImage
+  name: Actual-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

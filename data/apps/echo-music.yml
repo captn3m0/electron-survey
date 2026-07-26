@@ -53,4 +53,17 @@ downloads:
   url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest-mac.yml
 - name: latest.yml
   url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest.yml
-last_commit: '2026-07-24'
+last_commit: '2026-07-26'
+aur_downloads:
+- url: https://raw.githubusercontent.com/hoowhoami/EchoMusic/v2.2.8/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-aarch64.rpm
+  name: EchoMusic-2.2.8-linux-aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-x86_64.rpm
+  name: EchoMusic-2.2.8-linux-x86_64.rpm
+  arch: x86_64
+  source: aur-bin

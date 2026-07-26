@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/mq3t-bin
   found_in: mq3t-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://github.com/ChxGuillaume/MQ3T/releases/download/v2.0.1/mq3t-2.0.1-arm64.deb
+  name: mq3t-2.0.1-arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/ChxGuillaume/MQ3T/releases/download/v2.0.1/mq3t-2.0.1-armv7l.deb
+  name: mq3t-2.0.1-armv7l.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/ChxGuillaume/MQ3T/releases/download/v2.0.1/mq3t-2.0.1-amd64.deb
+  name: mq3t-2.0.1-amd64.deb
+  arch: x86_64
+  source: aur-bin

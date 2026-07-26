@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/botgem-bin
   found_in: botgem-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+aur_downloads:
+- url: https://github.com/gaodeng/ama-discussions/releases/download/v1.5.1/BotGem.1.5.1.appx
+  name: BotGem.1.5.1.appx
+  arch: any
+  source: aur-bin
+- url: https://github.com/TryGhost/node-sqlite3/releases/download/v5.1.7/sqlite3-v5.1.7-napi-v6-linux-x64.tar.gz
+  name: sqlite3-v5.1.7-napi-v6-linux-x64.tar.gz
+  arch: any
+  source: aur-bin

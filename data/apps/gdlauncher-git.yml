@@ -25,3 +25,12 @@ aur_votes: 10
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+aur_downloads:
+- url: https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.24__linux__x64.AppImage
+  name: GDLauncher__2.0.24__linux__x64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/gorilla-devs/GDLauncher-Carbon/develop/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

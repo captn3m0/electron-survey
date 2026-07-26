@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/chatpad-ai-bin
   found_in: chatpad-ai-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+aur_downloads:
+- url: https://dl.todesktop.com/230313oyppkw40a
+  name: 230313oyppkw40a
+  arch: any
+  source: aur-bin

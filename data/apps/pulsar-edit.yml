@@ -89,4 +89,4 @@ evidence:
   found_in: ARM.Linux.pulsar-1.132.1.aarch64.rpm
   signal: which-electron rg signal
 brew_installs: 1000
-last_commit: '2026-07-21'
+last_commit: '2026-07-25'

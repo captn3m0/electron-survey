@@ -39,3 +39,12 @@ evidence:
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
 aur_votes: 1
 last_commit: '2026-07-12'
+aur_downloads:
+- url: https://github.com/deepnight/ldtk/releases/download/v1.5.3/ubuntu-distribution.zip
+  name: ubuntu-distribution.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/deepnight/ldtk/v1.5.3/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

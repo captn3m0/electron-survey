@@ -2,7 +2,7 @@ id: nuclear
 name: nuclear
 repository: https://github.com/nukeop/nuclear
 website: https://nuclearplayer.com/
-last_commit: '2026-07-25'
+last_commit: '2026-07-26'
 latest: player@1.43.2
 src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.43.2.zip
 downloads:
@@ -44,10 +44,6 @@ downloads:
   url: https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_x64.app.tar.gz
 - name: Nuclear_x64.app.tar.gz.sig
   url: https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_x64.app.tar.gz.sig
-- url: https://github.com/nukeop/nuclear/releases/download/player%401.43.2/Nuclear_1.43.2_aarch64.dmg
-  name: Nuclear_1.43.2_aarch64.dmg
-  source: homebrew
-  version: 1.43.2
 homebrew: nuclear
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check

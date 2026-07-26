@@ -25,3 +25,8 @@ evidence:
   found_in: electron-dam-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 last_commit: '2026-05-19'
+aur_downloads:
+- url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/electron-dam.linux.1.1.1.AppImage
+  name: electron-dam.linux.1.1.1.AppImage
+  arch: any
+  source: aur-bin

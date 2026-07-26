@@ -25,3 +25,20 @@ evidence:
   found_in: electron-pdf-viewer-bin
   signal: depends on electron2; reported as the newest 2.x release (2.1.0-unsupported.20180809)
 last_commit: '2023-06-15'
+aur_downloads:
+- url: https://raw.githubusercontent.com/praharshjain/Electron-PDF-Viewer/v1.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_armv7l.deb
+  name: Electron-PDF-Viewer_1.0.0_armv7l.deb
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_ia32.deb
+  name: Electron-PDF-Viewer_1.0.0_ia32.deb
+  arch: i686
+  source: aur-bin
+- url: https://github.com/praharshjain/Electron-PDF-Viewer/releases/download/v1.0/Electron-PDF-Viewer_1.0.0_amd64.deb
+  name: Electron-PDF-Viewer_1.0.0_amd64.deb
+  arch: x86_64
+  source: aur-bin

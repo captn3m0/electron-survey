@@ -11,3 +11,12 @@ evidence:
   found_in: ecency-surfer-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/ecency/ecency-vision/releases/download/3.0.35/ecency-surfer_3.0.35_amd64.deb
+  name: ecency-surfer_3.0.35_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/ecency/ecency-vision/3.0.35/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

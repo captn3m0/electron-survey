@@ -10,3 +10,12 @@ evidence:
   source: https://aur.archlinux.org/packages/code-notes-bin
   found_in: code-notes-bin
   signal: depends on electron8; reported as the newest 8.x release (8.5.5)
+aur_downloads:
+- url: https://github.com/lauthieb/code-notes/releases/download/1.2.4/code-notes-1.2.4-x86_64.AppImage
+  name: code-notes-1.2.4-x86_64.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/lauthieb/code-notes/1.2.4/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

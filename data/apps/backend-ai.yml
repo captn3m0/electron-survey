@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/backend-ai-desktop-bin
   found_in: backend-ai-desktop-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+aur_downloads:
+- url: https://raw.githubusercontent.com/lablup/backend.ai-webui/v26.7.3/manifest/backend-ai.iconset/icon_512x512%401x.png
+  name: icon_512x512%401x.png
+  arch: any
+  source: aur-bin
+- url: https://github.com/lablup/backend.ai-webui/releases/download/v26.7.3/backend.ai-desktop-26.7.3-linux-arm64.zip
+  name: backend.ai-desktop-26.7.3-linux-arm64.zip
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/lablup/backend.ai-webui/releases/download/v26.7.3/backend.ai-desktop-26.7.3-linux-x64.zip
+  name: backend.ai-desktop-26.7.3-linux-x64.zip
+  arch: x86_64
+  source: aur-bin

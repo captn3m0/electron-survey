@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/apiflow-bin
   found_in: apiflow-bin
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+aur_downloads:
+- url: https://raw.githubusercontent.com/trueleaf/apiflow/v0.9.73/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/trueleaf/apiflow/releases/download/v0.9.73/Apiflow-0.9.73-arm64.deb
+  name: Apiflow-0.9.73-arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/trueleaf/apiflow/releases/download/v0.9.73/Apiflow-0.9.73-amd64.deb
+  name: Apiflow-0.9.73-amd64.deb
+  arch: x86_64
+  source: aur-bin

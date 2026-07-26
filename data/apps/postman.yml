@@ -47,3 +47,32 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 100000
+aur_downloads:
+- url: https://dl.pstmn.io/download/version/12.20.4/linux64
+  name: linux64
+  arch: x86_64
+  source: aur-bin
+- url: https://dl.pstmn.io/download/version/12.20.4/linux_arm64
+  name: linux_arm64
+  arch: aarch64
+  source: aur-bin
+- url: https://dl.pstmn.io/download/version/11.10.0/linux64
+  name: linux64
+  arch: x86_64
+  source: aur-bin
+- url: https://dl.pstmn.io/download/version/11.10.0/linux_arm64
+  name: linux_arm64
+  arch: aarch64
+  source: aur-bin
+- url: https://dl.pstmn.io/download/version/12.7.5/linux64
+  name: linux64
+  arch: x86_64
+  source: aur-bin
+- url: https://dl.pstmn.io/download/version/12.7.5/linux_arm64
+  name: linux_arm64
+  arch: aarch64
+  source: aur-bin
+- url: https://dl.pstmn.io/download/version/9.31.0/linux64
+  name: linux64
+  arch: any
+  source: aur-bin

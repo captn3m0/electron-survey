@@ -30,3 +30,12 @@ evidence:
   reconstructed: true
 aur_votes: 1
 last_commit: '2026-07-24'
+aur_downloads:
+- url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-deb.zip
+  name: encrypt0r-linux-deb.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/kunalnagar/encrypt0r/v3.12.70/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

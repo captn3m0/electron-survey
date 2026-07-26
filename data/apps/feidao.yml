@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/feidao-bin
   found_in: feidao-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+aur_downloads:
+- url: https://oss.fei-dao.com/resources/application/linux/feidao_latest.AppImage
+  name: feidao_latest.AppImage
+  arch: any
+  source: aur-bin

@@ -39,4 +39,4 @@ evidence:
   found_in: chatlab-desktop
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 aur_votes: 1
-last_commit: '2026-07-24'
+last_commit: '2026-07-26'

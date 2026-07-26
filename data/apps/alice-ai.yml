@@ -34,3 +34,12 @@ evidence:
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
 last_commit: '2026-07-03'
+aur_downloads:
+- url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Linux-1.4.4.AppImage
+  name: Alice-AI-App-Linux-1.4.4.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/pmbstyle/Alice/v1.4.4/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

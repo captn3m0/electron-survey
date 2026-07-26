@@ -33,3 +33,16 @@ downloads:
   url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/win-unpacked-x64.zip
 aur_votes: 1
 last_commit: '2026-07-08'
+aur_downloads:
+- url: https://raw.githubusercontent.com/REVENGE977/stremio-enhanced/v1.2.0/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin
+- url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0-arm64.AppImage
+  name: Stremio.Enhanced-1.2.0-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0.AppImage
+  name: Stremio.Enhanced-1.2.0.AppImage
+  arch: x86_64
+  source: aur-bin

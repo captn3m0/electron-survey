@@ -22,3 +22,12 @@ evidence:
   source: https://cdn.wostatic.cn/dist/installers/wolai-1.2.12-arm64.dmg
   found_in: wolai-1.2.12-arm64.dmg
   signal: which-electron rg signal
+aur_downloads:
+- url: https://cdn.wostatic.cn/dist/installers/wolai_1.2.12_arm64.deb
+  name: wolai_1.2.12_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://cdn.wostatic.cn/dist/installers/wolai_1.2.12_amd64.deb
+  name: wolai_1.2.12_amd64.deb
+  arch: x86_64
+  source: aur-bin

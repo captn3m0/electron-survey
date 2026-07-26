@@ -23,3 +23,8 @@ evidence:
   found_in: colony-player-bin
   signal: depends on electron11; reported as the newest 11.x release (11.5.0)
 last_commit: '2026-03-19'
+aur_downloads:
+- url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/colony-player_1.4.0_amd64.deb
+  name: colony-player_1.4.0_amd64.deb
+  arch: any
+  source: aur-bin

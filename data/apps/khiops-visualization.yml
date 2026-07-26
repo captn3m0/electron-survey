@@ -59,3 +59,16 @@ evidence:
   found_in: khiops-visualization-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 last_commit: '2026-02-19'
+aur_downloads:
+- url: https://raw.githubusercontent.com/KhiopsML/kv-electron/v11.5.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.aarch64.rpm
+  name: khiops-visualization-11.5.0.aarch64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/KhiopsML/kv-electron/releases/download/v11.5.0/khiops-visualization-11.5.0.x86_64.rpm
+  name: khiops-visualization-11.5.0.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

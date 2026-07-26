@@ -20,3 +20,12 @@ evidence:
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
 last_commit: '2024-11-01'
+aur_downloads:
+- url: https://github.com/novrain/wavy/releases/download/1.0.1/wavy-1.0.0-1.x86_64.rpm
+  name: wavy-1.0.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/novrain/wavy/1.0.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

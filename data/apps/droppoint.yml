@@ -37,3 +37,8 @@ evidence:
   reconstructed: true
 aur_votes: 1
 last_commit: '2026-07-22'
+aur_downloads:
+- url: https://github.com/GameGodS3/DropPoint/releases/download/v1.2.1/droppoint_1.2.1_amd64.deb
+  name: droppoint_1.2.1_amd64.deb
+  arch: any
+  source: aur-bin

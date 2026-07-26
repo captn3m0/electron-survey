@@ -17,3 +17,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://cdn-2.webcatalog.io/webcatalog/WebCatalog-74.0.2.AppImage
+  name: WebCatalog-74.0.2.AppImage
+  arch: x86_64
+  source: aur-bin
+- url: https://cdn-2.webcatalog.io/webcatalog/WebCatalog-74.0.2-arm64.AppImage
+  name: WebCatalog-74.0.2-arm64.AppImage
+  arch: aarch64
+  source: aur-bin

@@ -73,3 +73,16 @@ last_commit: '2026-07-24'
 aur:
 - electron-fiddle-bin
 - electron-fiddle-git
+aur_downloads:
+- url: https://github.com/electron/fiddle//releases/download/v0.39.0/electron-fiddle-0.39.0-1.arm64.rpm
+  name: electron-fiddle-0.39.0-1.arm64.rpm
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/electron/fiddle//releases/download/v0.39.0/electron-fiddle-0.39.0-1.armv7hl.rpm
+  name: electron-fiddle-0.39.0-1.armv7hl.rpm
+  arch: armv7h
+  source: aur-bin
+- url: https://github.com/electron/fiddle//releases/download/v0.39.0/electron-fiddle-0.39.0-1.x86_64.rpm
+  name: electron-fiddle-0.39.0-1.x86_64.rpm
+  arch: x86_64
+  source: aur-bin

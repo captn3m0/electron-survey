@@ -11,3 +11,16 @@ evidence:
   found_in: amethyst-player-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
 aur_votes: 1
+aur_downloads:
+- url: https://raw.githubusercontent.com/Geoxor/Amethyst/v2.1.8/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://github.com/Geoxor/Amethyst/releases/download/v2.1.8/amethyst_2.1.8_arm64.deb
+  name: amethyst_2.1.8_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/Geoxor/Amethyst/releases/download/v2.1.8/amethyst_2.1.8_amd64.deb
+  name: amethyst_2.1.8_amd64.deb
+  arch: x86_64
+  source: aur-bin

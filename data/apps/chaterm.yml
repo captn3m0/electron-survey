@@ -13,3 +13,8 @@ evidence:
   found_in: chaterm-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/chaterm/Chaterm/releases/download/v0.12.0/chaterm-0.12.0-linux-amd64.deb
+  name: chaterm-0.12.0-linux-amd64.deb
+  arch: any
+  source: aur-bin

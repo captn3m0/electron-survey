@@ -74,4 +74,29 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-07-24'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://wallet.trezor.io/data/bridge/2.0.30/trezor-bridge_2.0.30_i386.deb
+  name: trezor-bridge_2.0.30_i386.deb
+  arch: i686
+  source: aur-bin
+- url: https://wallet.trezor.io/data/bridge/2.0.30/trezor-bridge_2.0.30_amd64.deb
+  name: trezor-bridge_2.0.30_amd64.deb
+  arch: x86_64
+  source: aur-bin
+- url: https://wallet.trezor.io/data/bridge/2.0.30/trezor-bridge_2.0.30_arm64.deb
+  name: trezor-bridge_2.0.30_arm64.deb
+  arch: aarch64
+  source: aur-bin
+- url: https://raw.githubusercontent.com/trezor/trezor-suite/v26.7.2/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin
+- url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-arm64.AppImage
+  name: Trezor-Suite-26.7.2-linux-arm64.AppImage
+  arch: aarch64
+  source: aur-bin
+- url: https://github.com/trezor/trezor-suite/releases/download/v26.7.2/Trezor-Suite-26.7.2-linux-x86_64.AppImage
+  name: Trezor-Suite-26.7.2-linux-x86_64.AppImage
+  arch: x86_64
+  source: aur-bin

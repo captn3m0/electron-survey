@@ -34,3 +34,8 @@ evidence:
   found_in: bookord-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 last_commit: '2025-03-03'
+aur_downloads:
+- url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.3/bookord-0.3.3-1.x86_64.rpm
+  name: bookord-0.3.3-1.x86_64.rpm
+  arch: any
+  source: aur-bin

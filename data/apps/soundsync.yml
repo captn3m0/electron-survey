@@ -11,3 +11,12 @@ evidence:
   found_in: soundsync-bin
   signal: depends on electron15; reported as the newest 15.x release (15.5.7)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/geekuillaume/soundsync/releases/download/v0.4.16/soundsync-x64-0.4.16.pacman
+  name: soundsync-x64-0.4.16.pacman
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/geekuillaume/soundsync/v0.4.16/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

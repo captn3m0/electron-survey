@@ -10,3 +10,8 @@ evidence:
   source: https://aur.archlinux.org/packages/aviutl-package-manager-bin
   found_in: aviutl-package-manager-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+aur_downloads:
+- url: https://github.com/team-apm/apm/releases/download/v3.10.0/apm-3.10.0-1.x86_64.rpm
+  name: apm-3.10.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

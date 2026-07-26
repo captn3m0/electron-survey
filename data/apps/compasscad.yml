@@ -30,3 +30,12 @@ evidence:
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 aur_votes: 1
 last_commit: '2025-10-24'
+aur_downloads:
+- url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/compasscad-2.1.0.x86_64.rpm
+  name: compasscad-2.1.0.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/zeankundev/CompassCAD/2.1.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

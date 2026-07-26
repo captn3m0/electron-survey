@@ -21,3 +21,12 @@ evidence:
   found_in: dragonrealms-phoenix-bin
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 last_commit: '2025-06-05'
+aur_downloads:
+- url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-linux-amd64.deb
+  name: phoenix-v1.35.0-linux-amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/dragonrealms-phoenix/phoenix/v1.35.0/LICENSE.md
+  name: LICENSE.md
+  arch: any
+  source: aur-bin

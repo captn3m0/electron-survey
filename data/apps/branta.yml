@@ -20,3 +20,8 @@ evidence:
   found_in: branta-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 last_commit: '2026-03-02'
+aur_downloads:
+- url: https://github.com/BrantaOps/branta-core/releases/download/0.7.0/branta-0.7.0-1.x86_64.rpm
+  name: branta-0.7.0-1.x86_64.rpm
+  arch: any
+  source: aur-bin

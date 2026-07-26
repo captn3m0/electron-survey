@@ -17,3 +17,12 @@ evidence:
   found_in: mini4wdchrono-bin
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
 last_commit: '2026-05-15'
+aur_downloads:
+- url: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.18.1/Mini4wdChrono-linux-x64.zip
+  name: Mini4wdChrono-linux-x64.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/Pimentoso/mini4wdchrono/v0.18.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

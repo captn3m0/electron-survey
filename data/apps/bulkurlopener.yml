@@ -10,3 +10,16 @@ evidence:
   source: https://aur.archlinux.org/packages/bulkurlopener-bin
   found_in: bulkurlopener-bin
   signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+aur_downloads:
+- url: https://github.com/EuanRiggans/BulkURLOpener/releases/download/1.12.0/bulkurlopener-1.12.0-linux.zip
+  name: bulkurlopener-1.12.0-linux.zip
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/EuanRiggans/BulkURLOpener/1.12.0/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/EuanRiggans/BulkURLOpener/1.12.0/app/icon/128.png
+  name: 128.png
+  arch: any
+  source: aur-bin

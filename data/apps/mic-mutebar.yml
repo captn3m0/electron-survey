@@ -27,3 +27,12 @@ evidence:
   found_in: mic-mutebar-bin
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
 last_commit: '2023-08-11'
+aur_downloads:
+- url: https://github.com/azu/mic-mutebar/releases/download/v1.4.1/mic-mutebar-1.4.1-1.x86_64.rpm
+  name: mic-mutebar-1.4.1-1.x86_64.rpm
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/azu/mic-mutebar/v1.4.1/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

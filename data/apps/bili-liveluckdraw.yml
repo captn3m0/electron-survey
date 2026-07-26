@@ -24,3 +24,12 @@ evidence:
   found_in: bili-liveluckdraw-bin
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 last_commit: '2025-05-31'
+aur_downloads:
+- url: https://github.com/grtsinry43/Bili-LiveLuckDraw/releases/download/v1.0.5/Bili-LiveLuckDraw-Linux-v1.0.5.deb
+  name: Bili-LiveLuckDraw-Linux-v1.0.5.deb
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/grtsinry43/Bili-LiveLuckDraw/v1.0.5/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

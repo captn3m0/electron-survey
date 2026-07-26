@@ -62,4 +62,13 @@ aur_votes: 10
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-06-29'
+last_commit: '2026-07-25'
+aur_downloads:
+- url: https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/cerebro_0.11.0_amd64.deb
+  name: cerebro_0.11.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://github.com/cerebroapp/cerebro/raw/master/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

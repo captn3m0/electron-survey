@@ -28,3 +28,16 @@ aur_votes: 10
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
+aur_downloads:
+- url: https://image.easyeda.com/files/easyeda-linux-x64-6.5.51.zip
+  name: easyeda-linux-x64-6.5.51.zip
+  arch: any
+  source: aur-bin
+- url: https://image.easyeda.com/files/easyeda-pro-linux-x64-3.2.149.zip
+  name: easyeda-pro-linux-x64-3.2.149.zip
+  arch: x86_64
+  source: aur-bin
+- url: https://image.easyeda.com/files/easyeda-pro-linux-arm64-3.2.149.zip
+  name: easyeda-pro-linux-arm64-3.2.149.zip
+  arch: aarch64
+  source: aur-bin

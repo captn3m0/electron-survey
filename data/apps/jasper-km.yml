@@ -31,3 +31,12 @@ evidence:
   found_in: jasper-km-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
 last_commit: '2026-07-23'
+aur_downloads:
+- url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
+  name: Jasper-1.1.16.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/cjmalloy/jasper-app/v1.1.16/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

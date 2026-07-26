@@ -13,3 +13,12 @@ evidence:
   found_in: wora-bin
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 aur_votes: 1
+aur_downloads:
+- url: https://github.com/playwora/wora/releases/download/v0.3.6/Wora.v0.3.6.AppImage
+  name: Wora.v0.3.6.AppImage
+  arch: any
+  source: aur-bin
+- url: https://raw.githubusercontent.com/playwora/wora/v0.3.6/LICENSE
+  name: LICENSE
+  arch: any
+  source: aur-bin

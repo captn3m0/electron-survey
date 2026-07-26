@@ -16,3 +16,8 @@ evidence:
   source: https://github.com/cutls/thedesk-next/releases/download/v25.4.0/TheDesk-25.4.0-universal.dmg
   found_in: TheDesk-25.4.0-universal.dmg
   signal: which-electron rg signal
+aur_downloads:
+- url: https://github.com/cutls/TheDesk/releases/download/v24.2.1/thedesk_24.2.1_amd64.deb
+  name: thedesk_24.2.1_amd64.deb
+  arch: any
+  source: aur-bin

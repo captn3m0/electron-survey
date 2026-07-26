@@ -22,3 +22,12 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
+aur_downloads:
+- url: https://open.u-tools.cn/download/utools_7.8.0_amd64.deb
+  name: utools_7.8.0_amd64.deb
+  arch: any
+  source: aur-bin
+- url: https://u.tools/agreement.html
+  name: agreement.html
+  arch: any
+  source: aur-bin
