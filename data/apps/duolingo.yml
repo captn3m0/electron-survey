@@ -17,7 +17,7 @@ evidence:
   found_in: duolingo-desktop-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
 aur_votes: 1
-last_commit: '2026-06-23'
+last_commit: '2026-07-26'
 aur_downloads:
 - url: https://github.com/hmlendea/dl-desktop/releases/download/v4.2.0/dl-desktop_4.2.0_linux.zip
   name: dl-desktop_4.2.0_linux.zip

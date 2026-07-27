@@ -25,54 +25,54 @@ packages:
   arch: arm64
 homebrew: flyenv
 downloads:
-- name: FlyEnv-4.17.0-arm64-mac.zip
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64-mac.zip
-- name: FlyEnv-4.17.0-arm64-mac.zip.blockmap
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64-mac.zip.blockmap
-- name: FlyEnv-4.17.0-arm64.deb
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.deb
-- name: FlyEnv-4.17.0-arm64.dmg
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.dmg
-- name: FlyEnv-4.17.0-arm64.dmg.blockmap
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.dmg.blockmap
-- name: FlyEnv-4.17.0-arm64.rpm
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.rpm
-- name: FlyEnv-4.17.0-mac.zip
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-mac.zip
-- name: FlyEnv-4.17.0-mac.zip.blockmap
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-mac.zip.blockmap
-- name: FlyEnv-4.17.0-x64.deb
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-x64.deb
-- name: FlyEnv-4.17.0-x64.rpm
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-x64.rpm
-- name: FlyEnv-4.17.0.dmg
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0.dmg
-- name: FlyEnv-4.17.0.dmg.blockmap
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0.dmg.blockmap
-- name: FlyEnv-Portable-4.17.0.exe
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-Portable-4.17.0.exe
-- name: FlyEnv-Setup-4.17.0.exe
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-Setup-4.17.0.exe
-- name: FlyEnv-Setup-4.17.0.exe.blockmap
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-Setup-4.17.0.exe.blockmap
+- name: FlyEnv-4.17.2-arm64-mac.zip
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-arm64-mac.zip
+- name: FlyEnv-4.17.2-arm64-mac.zip.blockmap
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-arm64-mac.zip.blockmap
+- name: FlyEnv-4.17.2-arm64.deb
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-arm64.deb
+- name: FlyEnv-4.17.2-arm64.dmg
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-arm64.dmg
+- name: FlyEnv-4.17.2-arm64.dmg.blockmap
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-arm64.dmg.blockmap
+- name: FlyEnv-4.17.2-arm64.rpm
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-arm64.rpm
+- name: FlyEnv-4.17.2-mac.zip
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-mac.zip
+- name: FlyEnv-4.17.2-mac.zip.blockmap
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-mac.zip.blockmap
+- name: FlyEnv-4.17.2-x64.deb
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-x64.deb
+- name: FlyEnv-4.17.2-x64.rpm
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2-x64.rpm
+- name: FlyEnv-4.17.2.dmg
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2.dmg
+- name: FlyEnv-4.17.2.dmg.blockmap
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-4.17.2.dmg.blockmap
+- name: FlyEnv-Portable-4.17.2.exe
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-Portable-4.17.2.exe
+- name: FlyEnv-Setup-4.17.2.exe
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-Setup-4.17.2.exe
+- name: FlyEnv-Setup-4.17.2.exe.blockmap
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/FlyEnv-Setup-4.17.2.exe.blockmap
 - name: latest-linux-arm64.yml
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/latest-linux-arm64.yml
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/latest-linux.yml
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/latest-linux.yml
 - name: latest-mac-arm64.yml
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/latest-mac-arm64.yml
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/latest-mac-arm64.yml
 - name: latest-mac.yml
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/latest-mac.yml
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/latest.yml
+  url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/latest.yml
 electron: 39.8.7
 method: which-electron-rg
-latest: v4.17.1
-src: https://github.com/xpf0000/FlyEnv/archive/refs/tags/v4.17.1.zip
+latest: v4.17.2
+src: https://github.com/xpf0000/FlyEnv/archive/refs/tags/v4.17.2.zip
 evidence:
   kind: binary
   source: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.rpm
   found_in: FlyEnv-4.17.0-arm64.rpm
   signal: which-electron rg signal
 brew_installs: 1000
-last_commit: '2026-07-26'
+last_commit: '2026-07-27'

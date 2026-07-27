@@ -79,7 +79,7 @@ evidence:
   found_in: fchat-horizon-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
-last_commit: '2026-07-25'
+last_commit: '2026-07-26'
 aur_downloads:
 - url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-x64.tar.gz
   name: F-Chat.Horizon-2.3.3-linux-x64.tar.gz

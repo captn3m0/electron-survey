@@ -62,4 +62,4 @@ evidence:
   found_in: vutronmusic
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
 aur_votes: 1
-last_commit: '2026-07-24'
+last_commit: '2026-07-26'

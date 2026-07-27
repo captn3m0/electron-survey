@@ -19,4 +19,4 @@ downloads:
   url: https://github.com/builder555/PineSAM/releases/download/v2.2.16/PineSAM-Ubuntu-x64-v2.2.16.zip
 - name: PineSAM-Windows-x64-v2.2.16.zip
   url: https://github.com/builder555/PineSAM/releases/download/v2.2.16/PineSAM-Windows-x64-v2.2.16.zip
-last_commit: '2026-07-20'
+last_commit: '2026-07-27'

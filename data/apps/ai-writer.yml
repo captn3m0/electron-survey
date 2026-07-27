@@ -4,8 +4,8 @@ website: https://github.com/Intellicode/writer
 repository: https://github.com/Intellicode/writer
 aur:
 - ai-writer
-electron: 26.6.10
-method: aur-depends
+electron: 26.1.0
+method: which-electron-rg
 latest: v1.2.0
 src: https://github.com/Intellicode/writer/archive/refs/tags/v1.2.0.zip
 downloads:
@@ -13,9 +13,9 @@ downloads:
   url: https://github.com/Intellicode/writer/releases/download/v1.2.0/writer-darwin-x64-1.2.0.zip
 we_tried: we0:v1.2.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ai-writer
-  found_in: ai-writer
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/Intellicode/writer/releases/download/v1.2.0/writer-darwin-x64-1.2.0.zip
+  found_in: writer-darwin-x64-1.2.0.zip
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2024-10-19'

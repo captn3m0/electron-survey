@@ -32,3 +32,4 @@ aur_downloads:
   name: Pencil_3.1.1.ga_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v3.1.1

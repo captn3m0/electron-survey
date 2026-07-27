@@ -13,3 +13,8 @@ homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
 homebrew_disable_reason: unmaintained
+evidence:
+  kind: binary
+  source: https://getcomposercat.com/composercat/Composercat-0.4.0.dmg
+  found_in: Composercat-0.4.0.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

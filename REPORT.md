@@ -11,9 +11,9 @@ Apps with detected Electron version: 1786 / 2090
 | [AFFiNE](https://affine.pro/) [[repo]](https://github.com/toeverything/AFFiNE) | 39.8.6 ⚠️ | 3mo ago | which-electron-rg |
 | [AI Assistant Studio](https://github.com/gabrielborgesdm/ai-assistant-studio) [[repo]](https://github.com/gabrielborgesdm/ai-assistant-studio) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
 | [AI Browser](https://jun-murakami.web.app/apps/ai-browser) | 42.7.0 ⚠️ | 12d ago | aur-depends |
-| [AI Chat](https://www.chatbar.top/) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [AI Chat](https://www.chatbar.top/) | 28.3.1 ⚠️ | 2y 3mo ago | which-electron-rg |
 | [AI Gate](https://aigate.inulute.com/) | 34.5.8 ⚠️ | 1y 1mo ago | aur-depends |
-| [AI Writer](https://github.com/Intellicode/writer) [[repo]](https://github.com/Intellicode/writer) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
+| [AI Writer](https://github.com/Intellicode/writer) [[repo]](https://github.com/Intellicode/writer) | 26.1.0 ⚠️ | 2y 11mo ago | which-electron-rg |
 | [AYA](https://github.com/liriliri/aya) [[repo]](https://github.com/liriliri/aya) | 30.5.1 ⚠️ | 1y 10mo ago | which-electron-rg |
 | [Abird](https://github.com/nsz32/abird) [[repo]](https://github.com/nsz32/abird) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
 | [Abstract](https://www.goabstract.com) | 36.4.0 ⚠️ | 1y 1mo ago | which-electron-asar-manifest |
@@ -21,7 +21,7 @@ Apps with detected Electron version: 1786 / 2090
 | [Adrive](https://www.aliyundrive.com/) | 24.1.3 ⚠️ | 3y 3mo ago | which-electron-rg |
 | [Advanced REST Client](https://install.advancedrestclient.com) [[repo]](https://github.com/advanced-rest-client/arc-electron) | 17.1.0 ⚠️ | 4y 5mo ago | src-package-lock |
 | [Aechoterm](https://ec.nantian.com.cn/) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
-| [Aeon](https://aeon.technology) [[repo]](https://github.com/leinelissen/aeon) | 23.3.13 ⚠️ | 2y 11mo ago | aur-depends |
+| [Aeon](https://aeon.technology) [[repo]](https://github.com/leinelissen/aeon) | 23.2.0 ⚠️ | 3y 4mo ago | which-electron-rg |
 | [Aero Browser](https://aero-mymeiy532-frostbreker.vercel.app/) | 23.3.13 ⚠️ | 2y 11mo ago | aur-depends |
 | [Aesir Wallet](https://kryptokrona.org/) | 30.5.1 ⚠️ | 1y 10mo ago | aur-depends |
 | [Aether](https://getaether.net) [[repo]](https://github.com/aethereans/aether-app) | 5.0.8 ⚠️ | 7y 1mo ago | src-package-lock |
@@ -38,13 +38,13 @@ Apps with detected Electron version: 1786 / 2090
 | [Airi](https://airi.moeru.ai/docs/) | 41.2.1 ⚠️ | 3mo ago | which-electron-rg |
 | [Airtame](https://www.airtame.com) | 29.1.0 ⚠️ | 2y 5mo ago | which-electron-rg |
 | [Akiflow](https://akiflow.com) | 40.4.1 ⚠️ | 5mo ago | which-electron-rg |
-| [Akuse](https://github.com/akuse-app/Akuse) [[repo]](https://github.com/akuse-app/Akuse) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
+| [Akuse](https://github.com/akuse-app/Akuse) [[repo]](https://github.com/akuse-app/Akuse) | 26.6.10 ⚠️ | 2y 5mo ago | which-electron-rg |
 | [Albert Launcher](https://www.producthunt.com/posts/albert-launcher) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [Albumate](https://github.com/wladimiiir/albumate) [[repo]](https://github.com/wladimiiir/albumate) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
-| [Algermusicplayer](http://mc.alger.fun/) | 40.10.6 ⚠️ | 25d ago | aur-depends |
-| [Alice AI](https://github.com/pmbstyle/Alice) [[repo]](https://github.com/pmbstyle/Alice) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [Algermusicplayer](http://mc.alger.fun/) | 40.8.3 ⚠️ | 4mo ago | which-electron-rg |
+| [Alice AI](https://github.com/pmbstyle/Alice) [[repo]](https://github.com/pmbstyle/Alice) | 28.3.3 ⚠️ | 2y 2mo ago | which-electron-rg |
 | [Alicorn](https://alc.pages.dev/) | 40.10.6 ⚠️ | 25d ago | aur-depends |
-| [Aliyunpan Gaozhangmin](https://github.com/gaozhangmin/aliyunpan) [[repo]](https://github.com/gaozhangmin/aliyunpan) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
+| [Aliyunpan Gaozhangmin](https://github.com/gaozhangmin/aliyunpan) [[repo]](https://github.com/gaozhangmin/aliyunpan) | 21.4.4 ⚠️ | 3y 4mo ago | which-electron-rg |
 | [Alpaca](https://github.com/ItsPi3141/alpaca-electron) [[repo]](https://github.com/ItsPi3141/alpaca-electron) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
 | [Alpha Badger](https://github.com/NoamRa/alpha-badger) [[repo]](https://github.com/NoamRa/alpha-badger) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
 | [Alphabiz](https://alpha.biz/) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
@@ -52,7 +52,7 @@ Apps with detected Electron version: 1786 / 2090
 | [Altair GraphQL Client](https://altair.sirmuel.design/) [[repo]](https://github.com/imolorhe/altair) | 38.3.0 ⚠️ | 9mo ago | src-pnpm-lock |
 | [Altarik Launcher](https://altarik.fr/) | 40.10.6 ⚠️ | 25d ago | aur-depends |
 | [Altitude Metrix Wallet](https://github.com/TheLindaProjectInc/Altitude) [[repo]](https://github.com/TheLindaProjectInc/Altitude) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
-| [Altus](https://github.com/amanharwara/altus) [[repo]](https://github.com/amanharwara/altus) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
+| [Altus](https://github.com/amanharwara/altus) [[repo]](https://github.com/amanharwara/altus) | 35.1.5 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Amazing Marvin](https://www.amazingmarvin.com/) | 36.1.0 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Amcrest](https://github.com/mikepruett3/amcrest-desktop) [[repo]](https://github.com/mikepruett3/amcrest-desktop) | 14.2.9 ⚠️ | 4y 4mo ago | aur-depends |
 | [Amethyst Player](https://amethyst.pages.dev/) | 36.9.5 ⚠️ | 9mo ago | aur-depends |
@@ -66,7 +66,7 @@ Apps with detected Electron version: 1786 / 2090
 | [Animathio](https://animathio.com/) | 38.8.6 ⚠️ | 4mo ago | aur-depends |
 | [Animecix](https://animecix.net/) [[repo]](https://github.com/erslly/animecix-linux) | 41.3.0 ⚠️ | 3mo ago | src-package-lock |
 | [Animestream](https://github.com/frostnova721/animestream-electron) [[repo]](https://github.com/frostnova721/animestream-electron) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
-| [Animu](https://github.com/Owca525/animu) [[repo]](https://github.com/Owca525/animu) | 42.7.0 ⚠️ | 12d ago | aur-depends |
+| [Animu](https://github.com/Owca525/animu) [[repo]](https://github.com/Owca525/animu) | 42.3.3 ⚠️ | 1mo ago | which-electron-rg |
 | [Aniparser](https://github.com/Sinedka/aniparser) [[repo]](https://github.com/Sinedka/aniparser) | 35.7.5 ⚠️ | 11mo ago | src-range-guess |
 | [Aniship](https://t.me/aniship) | 16.2.8 ⚠️ | 4y 2mo ago | aur-depends |
 | [Anklang](https://anklang.testbit.eu/) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
@@ -74,7 +74,7 @@ Apps with detected Electron version: 1786 / 2090
 | [Antares](https://antares-sql.app) [[repo]](https://github.com/antares-sql/antares) | 30.0.8 ⚠️ | 2y 2mo ago | src-package-lock |
 | [Antsword](https://www.yuque.com/antswordproject) | 30.5.1 ⚠️ | 1y 10mo ago | which-electron-rg |
 | [Anubias](https://anubias.app) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
-| [Any Listen](https://github.com/any-listen/any-listen-desktop) [[repo]](https://github.com/any-listen/any-listen-desktop) | 41.10.2 ⚠️ | 12d ago | aur-depends |
+| [Any Listen](https://github.com/any-listen/any-listen-desktop) [[repo]](https://github.com/any-listen/any-listen-desktop) | 41.2.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Any Sync](https://github.com/easyhutu/any-sync-gui) [[repo]](https://github.com/easyhutu/any-sync-gui) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
 | [Anythingllm](https://anythingllm.com/) | 31.7.7 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Anytype](https://anytype.io/) | 41.5.0 ⚠️ | 2mo ago | which-electron-rg |
@@ -95,7 +95,7 @@ Apps with detected Electron version: 1786 / 2090
 | [Assessment Disaggregation](https://www.assessmentdisaggregation.org/) [[repo]](https://github.com/tazzben/Assessment-Disaggregation.git) | 40.0.0 ⚠️ | 6mo ago | src-package-lock |
 | [Astrofox](https://astrofox.io) | 16.0.7 ⚠️ | 4y 7mo ago | which-electron-rg |
 | [Athens](https://github.com/athensresearch/athens) [[repo]](https://github.com/athensresearch/athens) | 12.2.3 ⚠️ | 4y 9mo ago | src-yarn-lock |
-| [Atlassify](https://atlassify.io/) | 43.1.1 ⚠️ | 12d ago | aur-depends |
+| [Atlassify](https://atlassify.io/) | 43.0.0 ⚠️ | 26d ago | which-electron-rg |
 | [Atmos Weather](https://atticuscornett.github.io/AtmosWeather/) | 41.10.2 ⚠️ | 12d ago | aur-depends |
 | [Atom Chess](https://github.com/awbridgers/atom-chess) [[repo]](https://github.com/awbridgers/atom-chess) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [Atomic Wallet](https://atomicwallet.io) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
@@ -1714,7 +1714,7 @@ Apps with detected Electron version: 1786 / 2090
 | [Zenvpn](https://zenvpn.net) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
 | [Zeplin](https://zeplin.io) | 38.1.0 ⚠️ | 10mo ago | which-electron-rg |
 | [Zerochess](https://github.com/OscarDavilaSampedro/zerochess) [[repo]](https://github.com/OscarDavilaSampedro/zerochess) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
-| [Zettlr](https://www.zettlr.com/) [[repo]](https://github.com/zettlr/zettlr) | 42.3.3 ⚠️ | 1mo ago | src-yarn-lock |
+| [Zettlr](https://www.zettlr.com/) [[repo]](https://github.com/zettlr/zettlr) | 43.1.0 ⚠️ | 19d ago | src-yarn-lock |
 | [Zhiximind](https://www.zhixi.com) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
 | [Zima Linux Client](https://github.com/chicohaager/zima-linux-client) [[repo]](https://github.com/chicohaager/zima-linux-client) | 28.3.3 ⚠️ | 2y 2mo ago | src-range-guess |
 | [Znote](https://znote.io) [[repo]](https://github.com/alagrede/znote-app) | 36.9.5 ⚠️ | 9mo ago | which-electron-rg |

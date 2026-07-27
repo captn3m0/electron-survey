@@ -6,11 +6,28 @@ aur:
 - ciliterm-git
 electron: 36.9.5
 method: aur-depends
-latest: v1.0.0
-src: https://github.com/ciliverse/ciliterm/archive/refs/tags/v1.0.0.zip
+latest: v2.0.1
+src: https://github.com/ciliverse/ciliterm/archive/refs/tags/v2.0.1.zip
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/ciliterm-git
   found_in: ciliterm-git
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
-last_commit: '2025-06-16'
+last_commit: '2026-07-26'
+downloads:
+- name: CiliTerm-2.0.1-linux-amd64.deb
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-linux-amd64.deb
+- name: CiliTerm-2.0.1-linux-x86_64.AppImage
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-linux-x86_64.AppImage
+- name: CiliTerm-2.0.1-mac-arm64.dmg
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-mac-arm64.dmg
+- name: CiliTerm-2.0.1-mac-arm64.zip
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-mac-arm64.zip
+- name: CiliTerm-2.0.1-mac-x64.dmg
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-mac-x64.dmg
+- name: CiliTerm-2.0.1-mac-x64.zip
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-mac-x64.zip
+- name: CiliTerm-2.0.1-win-x64-portable.exe
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-win-x64-portable.exe
+- name: CiliTerm-2.0.1-win-x64-setup.exe
+  url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-win-x64-setup.exe

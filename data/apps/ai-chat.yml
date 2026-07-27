@@ -3,13 +3,13 @@ name: AI Chat
 website: https://www.chatbar.top/
 aur:
 - ai-chat-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.3.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ai-chat-bin
-  found_in: ai-chat-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/rabrain/ai-chat/releases/download/v1.2.5/AI-Chat-1.2.5-linux-x86_64.AppImage
+  found_in: AI-Chat-1.2.5-linux-x86_64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/rabrain/ai-chat/releases/download/v1.2.5/AI-Chat-1.2.5-linux-x86_64.AppImage

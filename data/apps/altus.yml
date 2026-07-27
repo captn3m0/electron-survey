@@ -21,8 +21,8 @@ packages:
   arch: x64
 aur:
 - altus
-electron: 35.7.5
-method: aur-depends
+electron: 35.1.5
+method: which-electron-rg
 latest: 5.8.1
 src: https://github.com/amanharwara/altus/archive/refs/tags/5.8.1.zip
 downloads:
@@ -36,9 +36,9 @@ downloads:
   url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-Setup-5.8.1.exe
 we_tried: we0:5.8.1
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/altus
-  found_in: altus
-  signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+  kind: binary
+  source: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1.AppImage
+  found_in: Altus-5.8.1.AppImage
+  signal: which-electron rg signal (2 signals agreed)
 aur_votes: 1
 last_commit: '2026-07-18'

@@ -1,39 +1,39 @@
 id: zettlr
 repository: https://github.com/zettlr/zettlr
 website: https://www.zettlr.com/
-latest: v4.6.0
-src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.6.0.zip
+latest: v4.7.0
+src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.7.0.zip
 downloads:
 - name: SHA256SUMS.txt
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/SHA256SUMS.txt
-- name: Zettlr-4.6.0-aarch64.rpm
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-aarch64.rpm
-  checksum: ddb9b31a2c2ee252d5b7b80bd6307b0b28c453f392afed6a1004dea8d0bcec5a
-- name: Zettlr-4.6.0-amd64.deb
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-amd64.deb
-  checksum: 140fec5aaa02f373e8cc02e9d73ac190fb87617f339ba6d95adfc41afc76391a
-- name: Zettlr-4.6.0-arm64.AppImage
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-arm64.AppImage
-  checksum: 45e558ad0b1da0fb2f223258a8a22c94669625afa081773b8094d72c1a83a64b
-- name: Zettlr-4.6.0-arm64.deb
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-arm64.deb
-  checksum: 28bc065e1b782c83808d59c231973c3045b82d6eb8cbcd533c749ab4959b21f2
-- name: Zettlr-4.6.0-arm64.dmg
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-arm64.dmg
-  checksum: c0ff76d9e869eee312d7c131764fe73322344f85127ed2e5fada1076cb88cf32
-- name: Zettlr-4.6.0-x64.dmg
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-x64.dmg
-  checksum: 051a6d34f3df17b7ec02d4b5bc3ea341d6885ee643646657518853f2ed18f730
-- name: Zettlr-4.6.0-x64.exe
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-x64.exe
-  checksum: 79670357c5badcc7bab7ff73ebc7f57d50647bd141ad655b94913010bd707874
-- name: Zettlr-4.6.0-x86_64.AppImage
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-x86_64.AppImage
-  checksum: 0c7eea7263758794e48785cb0660af1d97f531447cb5ac31733864832b6f14e0
-- name: Zettlr-4.6.0-x86_64.rpm
-  url: https://github.com/Zettlr/Zettlr/releases/download/v4.6.0/Zettlr-4.6.0-x86_64.rpm
-  checksum: 30bb9005470a70353eb66640bb1d315b18feec2ecc6cbe08c79bcf6f71da3a43
-electron: 42.3.3
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/SHA256SUMS.txt
+- name: Zettlr-4.7.0-aarch64.rpm
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-aarch64.rpm
+  checksum: e63fd2dfd0db2d85f3147396c35b5d1ad058a95c80f3dab8f1072e6dcbbad796
+- name: Zettlr-4.7.0-amd64.deb
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-amd64.deb
+  checksum: cefe4a0e1f13f75382470f639d9d419d817dc1136d2abe8b60c2730d9c9c32cd
+- name: Zettlr-4.7.0-arm64.AppImage
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-arm64.AppImage
+  checksum: d4aa0b1536f06eba24f2b8b0c4e6aa651068b46f367de407bce65f8dd058e3cf
+- name: Zettlr-4.7.0-arm64.deb
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-arm64.deb
+  checksum: 760a0fbbc135890ea5d6b1479ddd05d2e61a2423c0438cfb7b968610c47cd9f5
+- name: Zettlr-4.7.0-arm64.dmg
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-arm64.dmg
+  checksum: e03e3701557707f6fa50520f4c03f8345cd65206d2810bf5ae433ef40a7ed8f8
+- name: Zettlr-4.7.0-x64.dmg
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-x64.dmg
+  checksum: 9bb4300edafb239bf4c1e383637bfd803012e96b83eccfb59d3418c7f3ffc1a7
+- name: Zettlr-4.7.0-x64.exe
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-x64.exe
+  checksum: 70354eaeeaea7d0592eed91e030a35461cbb3ec73165d96bfde8a9423b43330c
+- name: Zettlr-4.7.0-x86_64.AppImage
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-x86_64.AppImage
+  checksum: 9758e9659eaf02599396ed26d74eb069e55068cd6665be700b54dcbf6212d047
+- name: Zettlr-4.7.0-x86_64.rpm
+  url: https://github.com/Zettlr/Zettlr/releases/download/v4.7.0/Zettlr-4.7.0-x86_64.rpm
+  checksum: 400858c56b851e32d84b65dbb5cd689fcc5c2f262c4b7b5b8273b89b9e63df91
+electron: 43.1.0
 method: src-yarn-lock
 aur:
 - zettlr-git
@@ -59,13 +59,12 @@ packages:
   os: macos
   arch: arm64
 name: Zettlr
-electron_src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.6.0.zip
+electron_src: https://github.com/zettlr/zettlr/archive/refs/tags/v4.7.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Azettlr%2Fzettlr+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
+  found_in: Zettlr-4.7.0/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
+  source: https://github.com/zettlr/zettlr/archive/refs/tags/v4.7.0.zip
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-07-24'
+last_commit: '2026-07-26'

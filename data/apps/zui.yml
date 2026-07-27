@@ -26,3 +26,8 @@ aur_downloads:
   name: LICENSE.txt
   arch: any
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/brimdata/zui/releases/download/v1.18.0/zui-1.18.0.x86_64.rpm
+  found_in: zui-1.18.0.x86_64.rpm
+  signal: which-electron rg signal

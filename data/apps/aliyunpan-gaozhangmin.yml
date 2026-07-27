@@ -4,8 +4,8 @@ website: https://github.com/gaozhangmin/aliyunpan
 repository: https://github.com/gaozhangmin/aliyunpan
 aur:
 - aliyunpan-gaozhangmin-bin
-electron: 22.3.27
-method: aur-depends
+electron: 21.4.4
+method: which-electron-rg
 latest: v5.0.8
 src: https://github.com/gaozhangmin/aliyunpan/archive/refs/tags/v5.0.8.zip
 downloads:
@@ -51,12 +51,12 @@ downloads:
   url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.8/latest.yml
 we_tried: we0:v5.0.5
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/aliyunpan-gaozhangmin-bin
-  found_in: aliyunpan-gaozhangmin-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/gaozhangmin/aliyunpan/releases/download/v3.13.5/XBYDriver-3.13.5-linux-amd64.deb
+  found_in: XBYDriver-3.13.5-linux-amd64.deb
+  signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-23'
+last_commit: '2026-07-27'
 aur_downloads:
 - url: https://github.com/gaozhangmin/aliyunpan/releases/download/v3.13.5/XBYDriver-3.13.5-linux-amd64.deb
   name: XBYDriver-3.13.5-linux-amd64.deb

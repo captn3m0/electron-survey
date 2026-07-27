@@ -22,7 +22,7 @@ aur:
 - fifo-browser-bin
 name: Fifo
 aur_votes: 1
-last_commit: '2026-06-24'
+last_commit: '2026-07-26'
 aur_downloads:
 - url: https://github.com/SnailDOS/Fifo-Browser/releases/download/v1.2.2/Fifo-1.2.2.AppImage
   name: Fifo-1.2.2.AppImage

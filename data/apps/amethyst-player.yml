@@ -24,3 +24,4 @@ aur_downloads:
   name: amethyst_2.1.8_amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:ae2aee4a9ea1
