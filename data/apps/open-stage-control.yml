@@ -9,3 +9,10 @@ aur_downloads:
   name: open-stage-control_1.30.4_linux-x64.zip
   arch: any
   source: aur-bin
+electron: 36.9.5
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://openstagecontrol.ammd.net/packages/open-stage-control_1.30.4_linux-x64.zip
+  found_in: open-stage-control_1.30.4_linux-x64.zip
+  signal: which-electron rg signal (2 signals agreed)

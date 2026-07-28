@@ -18,3 +18,8 @@ brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2023-01-07'
+evidence:
+  kind: binary
+  source: https://github.com/romannurik/MaterialColorsApp/releases/download/v2.0.3/MaterialColors-2.0.3.zip
+  found_in: MaterialColors-2.0.3.zip
+  signal: which-electron rg signal

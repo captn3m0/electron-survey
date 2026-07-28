@@ -5,13 +5,13 @@ aur:
 - elecap-bin
 additionalAUR:
 - elecap-git
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/elecap-bin
-  found_in: elecap-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/steveseguin/electroncapture/releases/download/v2.23.3/elecap-2.23.3-aarch64.rpm
+  found_in: elecap-2.23.3-aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/steveseguin/electroncapture/releases/download/v2.23.3/elecap-2.23.3-aarch64.rpm

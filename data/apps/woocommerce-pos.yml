@@ -34,4 +34,4 @@ evidence:
   source: https://aur.archlinux.org/packages/woocommerce-pos
   found_in: woocommerce-pos
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
-last_commit: '2026-07-24'
+last_commit: '2026-07-27'

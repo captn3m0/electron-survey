@@ -5,7 +5,7 @@ repository: https://github.com/zpaolo11x/mangabox
 aur:
 - mangabox-bin
 electron: 38.8.6
-method: aur-depends
+method: which-electron-rg
 latest: v0.4.6
 src: https://github.com/zpaolo11x/mangabox/archive/refs/tags/v0.4.6.zip
 downloads:
@@ -32,10 +32,10 @@ downloads:
 - name: MangaBox-0.4.6-Windows-x64.exe
   url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.6/MangaBox-0.4.6-Windows-x64.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mangabox-bin
-  found_in: mangabox-bin
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.6/MangaBox-0.4.6-Linux-x86_64.AppImage
+  found_in: MangaBox-0.4.6-Linux-x86_64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-21'
 aur_downloads:

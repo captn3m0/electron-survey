@@ -7,17 +7,17 @@ aur:
 additionalAUR:
 - deepl-linux-electron-bin
 - deepl-linux-electron-git
-electron: 33.4.11
-method: aur-depends
+electron: 33.3.2
+method: which-electron-rg
 latest: v1.6.1
 src: https://github.com/kumakichi/Deepl-linux-electron/archive/refs/tags/v1.6.1.zip
 downloads:
 - name: Deepl-Linux-Electron-1.6.1.AppImage
   url: https://github.com/kumakichi/Deepl-linux-electron/releases/download/v1.6.1/Deepl-Linux-Electron-1.6.1.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/deepl-linux-electron
-  found_in: deepl-linux-electron
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/kumakichi/Deepl-linux-electron/releases/download/v1.6.1/Deepl-Linux-Electron-1.6.1.AppImage
+  found_in: Deepl-Linux-Electron-1.6.1.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2025-07-17'

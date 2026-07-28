@@ -4,8 +4,8 @@ website: https://github.com/agomezgar/masayloBlockly
 repository: https://github.com/agomezgar/masayloBlockly
 aur:
 - masayloblockly-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.3.1
+method: which-electron-rg
 latest: v2.0.0
 src: https://github.com/agomezgar/masayloBlockly/archive/refs/tags/v2.0.0.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: masayloblockly_2.0.0_amd64.deb
   url: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/masayloblockly_2.0.0_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/masayloblockly-bin
-  found_in: masayloblockly-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/agomezgar/masayloBlockly/releases/download/v2.0.0/masayloblockly-2.0.0.AppImage
+  found_in: masayloblockly-2.0.0.AppImage
+  signal: which-electron rg signal (2 signals agreed)
 aur_votes: 1
 last_commit: '2025-01-09'
 aur_downloads:

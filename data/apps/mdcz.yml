@@ -6,22 +6,26 @@ aur:
 - mdcz-desktop
 electron: 39.8.10
 method: aur-depends
-latest: v0.10.0
-src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.10.0.zip
+latest: v0.11.0
+src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.11.0.zip
 downloads:
-- name: MDCz-0.10.0-arm64.dmg
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz-0.10.0-arm64.dmg
-- name: MDCz-0.10.0.AppImage
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz-0.10.0.AppImage
-- name: MDCz-0.10.0.dmg
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz-0.10.0.dmg
-- name: mdcz-0.10.0.tar.gz
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/mdcz-0.10.0.tar.gz
-- name: MDCz.0.10.0.exe
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.10.0/MDCz.0.10.0.exe
+- name: MDCz-0.11.0-arm64.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0-arm64.dmg
+- name: MDCz-0.11.0.AppImage
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.AppImage
+- name: MDCz-0.11.0.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.dmg
+- name: mdcz-0.11.0.tar.gz
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/mdcz-0.11.0.tar.gz
+- name: MDCz.0.11.0.exe
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz.0.11.0.exe
+- name: MDCz.Setup.0.11.0.exe
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz.Setup.0.11.0.exe
+- name: SHA256SUMS.txt
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/SHA256SUMS.txt
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/mdcz-desktop
   found_in: mdcz-desktop
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-07-26'
+last_commit: '2026-07-27'

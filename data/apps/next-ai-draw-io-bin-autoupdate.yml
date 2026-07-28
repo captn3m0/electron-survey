@@ -54,4 +54,4 @@ evidence:
   source: https://aur.archlinux.org/packages/next-ai-draw-io-bin-autoupdate
   found_in: next-ai-draw-io-bin-autoupdate
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-07-26'
+last_commit: '2026-07-27'

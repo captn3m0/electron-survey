@@ -20,10 +20,14 @@ downloads:
   url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-macos-13.1.0.zip
 - name: inso-macos-latest-large-13.1.0.pkg
   url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-macos-latest-large-13.1.0.pkg
+- name: inso-provenance.intoto.jsonl
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-provenance.intoto.jsonl
 - name: inso-windows-13.1.0.zip
   url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-windows-13.1.0.zip
 - name: insomnia-13.1.0-full.nupkg
   url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/insomnia-13.1.0-full.nupkg
+- name: insomnia-provenance.intoto.jsonl
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/insomnia-provenance.intoto.jsonl
 - name: Insomnia.Core-13.1.0.AppImage
   url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.AppImage
 - name: Insomnia.Core-13.1.0.deb
@@ -86,7 +90,7 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
-last_commit: '2026-07-27'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/Kong/insomnia/releases/download/lib@3.16.0/inso-linux-3.16.0.tar.xz
   name: inso-linux-3.16.0.tar.xz

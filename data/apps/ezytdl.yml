@@ -4,8 +4,8 @@ website: https://github.com/sylviiu/ezytdl
 repository: https://github.com/sylviiu/ezytdl
 aur:
 - ezytdl-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.8.7
+method: which-electron-rg
 latest: 3.0.3
 src: https://github.com/sylviiu/ezytdl/archive/refs/tags/3.0.3.zip
 downloads:
@@ -28,10 +28,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ezytdl-bin
-  found_in: ezytdl-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/sylviiu/ezytdl/releases/download/3.0.3/ezytdl-linux.AppImage
+  found_in: ezytdl-linux.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-04-10'
 aur_downloads:

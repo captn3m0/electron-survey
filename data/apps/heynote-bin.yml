@@ -11,8 +11,8 @@ packages:
   arch: arm64
 additionalAUR:
 - heynote-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.3.0
+method: which-electron-rg
 latest: v2.9.1
 src: https://github.com/heyman/heynote/archive/refs/tags/v2.9.1.zip
 downloads:
@@ -55,9 +55,9 @@ downloads:
 - name: latest.yml
   url: https://github.com/heyman/heynote/releases/download/v2.9.1/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/heynote
-  found_in: heynote
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/heyman/heynote/releases/download/v2.9.1/Heynote_2.9.1_x86_64.AppImage
+  found_in: Heynote_2.9.1_x86_64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-06-24'

@@ -16,3 +16,4 @@ evidence:
   found_in: devin-desktop-next
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 1
+we_tried: we1.2.1+p1:urls:a27de8a61ca5

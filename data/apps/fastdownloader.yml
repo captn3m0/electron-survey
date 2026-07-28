@@ -4,8 +4,8 @@ website: https://github.com/BERNARDO31P/FastDownloader
 repository: https://github.com/BERNARDO31P/FastDownloader
 aur:
 - fastdownloader-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.8.8
+method: which-electron-rg
 latest: v0.8.5
 src: https://github.com/BERNARDO31P/FastDownloader/archive/refs/tags/v0.8.5.zip
 downloads:
@@ -36,10 +36,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fastdownloader-bin
-  found_in: fastdownloader-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.x86_64.rpm
+  found_in: fastdownloader-0.8.5.x86_64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-05-14'
 aur_downloads:

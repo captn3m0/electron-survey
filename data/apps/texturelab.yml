@@ -20,7 +20,7 @@ evidence:
   source: https://aur.archlinux.org/packages/texturelab-bin
   found_in: texturelab-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
-last_commit: '2026-07-19'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-linux-v0.3.3.zip
   name: texturelab-linux-v0.3.3.zip

@@ -4,8 +4,8 @@ website: https://github.com/theMK2k/Media-Hoarder
 repository: https://github.com/theMK2k/Media-Hoarder
 aur:
 - media-hoarder-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.8.0
+method: which-electron-rg
 latest: v1.5.4
 src: https://github.com/theMK2k/Media-Hoarder/archive/refs/tags/v1.5.4.zip
 downloads:
@@ -70,10 +70,10 @@ downloads:
 - name: media-hoarder-1.5.4-win-x64-setup.exe.sha256
   url: https://github.com/theMK2k/Media-Hoarder/releases/download/v1.5.4/media-hoarder-1.5.4-win-x64-setup.exe.sha256
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/media-hoarder-bin
-  found_in: media-hoarder-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/theMK2k/Media-Hoarder/releases/download/v1.5.4/media-hoarder-1.5.4-linux-x64.rpm
+  found_in: media-hoarder-1.5.4-linux-x64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-03'
 aur_downloads:

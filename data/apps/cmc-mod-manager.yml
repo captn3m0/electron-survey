@@ -3,13 +3,13 @@ name: Cmc Mod Manager
 website: https://inferno214221.com/cmc-mod-manager
 aur:
 - cmc-mod-manager-bin
-electron: 30.5.1
-method: aur-depends
+electron: 30.0.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cmc-mod-manager-bin
-  found_in: cmc-mod-manager-bin
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/Inferno214221/cmc-mod-manager/releases/download/v3.3.0/cmc-mod-manager-linux.rpm
+  found_in: cmc-mod-manager-linux.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/Inferno214221/cmc-mod-manager/releases/download/v3.3.0/cmc-mod-manager-linux.rpm

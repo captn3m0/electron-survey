@@ -88,3 +88,8 @@ aur_downloads:
   name: muffon-2.4.0-linux-aarch64.pacman
   arch: aarch64
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/staniel359/muffon/releases/download/v2.4.0/muffon-2.4.0-linux-aarch64.rpm
+  found_in: muffon-2.4.0-linux-aarch64.rpm
+  signal: which-electron rg signal

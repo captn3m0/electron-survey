@@ -3,13 +3,13 @@ name: F1mv Lights Integration
 website: https://f1mvli.jstt.me/
 aur:
 - f1mv-lights-integration-bin
-electron: 41.10.2
-method: aur-depends
+electron: 41.2.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/f1mv-lights-integration-bin
-  found_in: f1mv-lights-integration-bin
-  signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+  kind: binary
+  source: https://github.com/JustJoostNL/F1MV-Lights-Integration/releases/download/v3.4.2/F1MV-Lights-Integration-3.4.2.AppImage
+  found_in: F1MV-Lights-Integration-3.4.2.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/JustJoostNL/F1MV-Lights-Integration/releases/download/v3.4.2/F1MV-Lights-Integration-3.4.2.AppImage

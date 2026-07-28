@@ -16,3 +16,4 @@ aur_downloads:
   name: Fotograph_1.0.0_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:b22bbe45efa9

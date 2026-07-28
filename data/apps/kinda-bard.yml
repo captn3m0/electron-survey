@@ -16,3 +16,4 @@ aur_downloads:
   name: kinda-bard_1.0.0_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:b9dd171a81f6

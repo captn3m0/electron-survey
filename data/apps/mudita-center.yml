@@ -3,13 +3,13 @@ name: Mudita Center
 website: https://mudita.com/products/pure/
 aur:
 - mudita-center-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.8.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mudita-center-bin
-  found_in: mudita-center-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/mudita/mudita-center/releases/download/4.0.0/Mudita-Center.AppImage
+  found_in: Mudita-Center.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/mudita/mudita-center/releases/download/4.0.0/Mudita-Center.AppImage

@@ -41,4 +41,4 @@ latest: v2.5.0
 src: https://github.com/rizinorg/cutter/archive/refs/tags/v2.5.0.zip
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-07-21'
+last_commit: '2026-07-27'

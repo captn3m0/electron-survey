@@ -4,8 +4,8 @@ website: https://github.com/NaoTu/DesktopNaotu
 repository: https://github.com/NaoTu/DesktopNaotu
 aur:
 - desktop-naotu
-electron: 4.2.12
-method: aur-depends
+electron: 3.0.10
+method: which-electron-version_file
 latest: v3.2.3
 src: https://github.com/NaoTu/DesktopNaotu/archive/refs/tags/v3.2.3.zip
 downloads:
@@ -18,9 +18,9 @@ downloads:
 - name: DesktopNaotu-win32-x64.zip
   url: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-win32-x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/desktop-naotu
-  found_in: desktop-naotu
-  signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+  kind: binary
+  source: https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-darwin-x64.zip
+  found_in: DesktopNaotu-darwin-x64.zip
+  signal: which-electron version_file signal (3 signals agreed)
 aur_votes: 1
 last_commit: '2026-02-14'

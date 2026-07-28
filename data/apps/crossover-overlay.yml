@@ -79,3 +79,8 @@ aur_downloads:
   name: CrossOver-3.4.1-amd64.deb
   arch: x86_64
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-amd64.deb
+  found_in: CrossOver-3.4.1-amd64.deb
+  signal: which-electron rg signal

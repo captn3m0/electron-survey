@@ -6,24 +6,24 @@ aur:
 - fina
 electron: 38.8.6
 method: aur-depends
-latest: v17.9.7
-src: https://github.com/britors/Fina/archive/refs/tags/v17.9.7.zip
+latest: v17.10.1
+src: https://github.com/britors/Fina/archive/refs/tags/v17.10.1.zip
 downloads:
-- name: fina-17.9.7.x86_64.rpm
-  url: https://github.com/britors/Fina/releases/download/v17.9.7/fina-17.9.7.x86_64.rpm
+- name: fina-17.10.1.x86_64.rpm
+  url: https://github.com/britors/Fina/releases/download/v17.10.1/fina-17.10.1.x86_64.rpm
 - name: fina-latest.x86_64.rpm
-  url: https://github.com/britors/Fina/releases/download/v17.9.7/fina-latest.x86_64.rpm
-- name: Fina-Setup-17.9.7.exe
-  url: https://github.com/britors/Fina/releases/download/v17.9.7/Fina-Setup-17.9.7.exe
-- name: Fina-Setup-17.9.7.exe.blockmap
-  url: https://github.com/britors/Fina/releases/download/v17.9.7/Fina-Setup-17.9.7.exe.blockmap
-- name: fina_17.9.7_amd64.deb
-  url: https://github.com/britors/Fina/releases/download/v17.9.7/fina_17.9.7_amd64.deb
+  url: https://github.com/britors/Fina/releases/download/v17.10.1/fina-latest.x86_64.rpm
+- name: Fina-Setup-17.10.1.exe
+  url: https://github.com/britors/Fina/releases/download/v17.10.1/Fina-Setup-17.10.1.exe
+- name: Fina-Setup-17.10.1.exe.blockmap
+  url: https://github.com/britors/Fina/releases/download/v17.10.1/Fina-Setup-17.10.1.exe.blockmap
+- name: fina_17.10.1_amd64.deb
+  url: https://github.com/britors/Fina/releases/download/v17.10.1/fina_17.10.1_amd64.deb
 - name: latest.yml
-  url: https://github.com/britors/Fina/releases/download/v17.9.7/latest.yml
+  url: https://github.com/britors/Fina/releases/download/v17.10.1/latest.yml
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/fina
   found_in: fina
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
-last_commit: '2026-07-24'
+last_commit: '2026-07-27'

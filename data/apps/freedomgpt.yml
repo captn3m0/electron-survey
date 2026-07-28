@@ -13,8 +13,8 @@ packages:
   arch: x64
 aur:
 - freedomgpt-git
-electron: 25.9.8
-method: aur-depends
+electron: 25.0.1
+method: which-electron-rg
 latest: v3.0.4
 src: https://github.com/ohmplatform/FreedomGPT/archive/refs/tags/v3.0.4.zip
 downloads:
@@ -31,9 +31,9 @@ downloads:
 - name: WriteZipToSetup.exe
   url: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/WriteZipToSetup.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/freedomgpt-git
-  found_in: freedomgpt-git
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/ohmplatform/FreedomGPT/releases/download/v3.0.4/FreedomGPT-3.0.4-full.nupkg
+  found_in: FreedomGPT-3.0.4-full.nupkg
+  signal: which-electron rg signal (2 signals agreed)
 aur_votes: 1
 last_commit: '2024-06-13'

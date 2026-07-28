@@ -18,3 +18,4 @@ aur_downloads:
   name: chaterm-0.12.0-linux-amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:9f85bd529efa

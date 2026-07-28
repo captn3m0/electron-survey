@@ -5,7 +5,7 @@ repository: https://github.com/EmuDeck/emudeck-electron
 aur:
 - emudeck-bin
 electron: 22.3.27
-method: aur-depends
+method: which-electron-rg
 latest: v2.5.0
 src: https://github.com/EmuDeck/emudeck-electron/archive/refs/tags/v2.5.0.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/emudeck-bin
-  found_in: emudeck-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
+  found_in: EmuDeck-2.5.0.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-25'
 aur_downloads:

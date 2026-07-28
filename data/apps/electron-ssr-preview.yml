@@ -6,8 +6,8 @@ aur:
 - electron-ssr
 additionalAUR:
 - electron-ssr-preview
-electron: 4.2.12
-method: aur-depends
+electron: 1.8.8
+method: which-electron-fingerprint
 latest: v0.2.7
 src: https://github.com/shadowsocksrr/electron-ssr/archive/refs/tags/v0.2.7.zip
 downloads:
@@ -40,9 +40,9 @@ downloads:
 - name: null.blockmap
   url: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/null.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/electron-ssr
-  found_in: electron-ssr
-  signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+  kind: binary
+  source: https://github.com/shadowsocksrr/electron-ssr/releases/download/v0.2.7/electron-ssr-0.2.7.AppImage
+  found_in: electron-ssr-0.2.7.AppImage
+  signal: which-electron fingerprint signal (2 signals agreed)
 aur_votes: 1
 last_commit: '2020-06-05'

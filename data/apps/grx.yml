@@ -3,13 +3,13 @@ name: Grx
 website: https://grx.electronicloud.app/
 aur:
 - grx-bin
-electron: 42.7.0
-method: aur-depends
+electron: 41.7.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/grx-bin
-  found_in: grx-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/hpcreery/GRX/releases/download/v4.4.0/grx-arm64.deb
+  found_in: grx-arm64.deb
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://raw.githubusercontent.com/hpcreery/GRX/v4.4.0/LICENSE

@@ -14,3 +14,4 @@ homebrew: lightgallery
 name: lightgallery
 brew_installs: 1
 last_commit: '2020-04-26'
+we_tried: we1.2.1+p1:0.1.1

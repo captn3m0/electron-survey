@@ -7,7 +7,7 @@ aur:
 additionalAUR:
 - gameclock-git
 electron: 29.4.6
-method: aur-depends
+method: which-electron-rg
 latest: v2.7.0
 src: https://github.com/Didiloy/GameClock/archive/refs/tags/v2.7.0.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: GameClock-2.7.0.AppImage
   url: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/gameclock-bin
-  found_in: gameclock-bin
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/Didiloy/GameClock/releases/download/v2.7.0/GameClock-2.7.0.AppImage
+  found_in: GameClock-2.7.0.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-04-14'
 aur_downloads:

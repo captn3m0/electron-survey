@@ -6,8 +6,8 @@ aur:
 - fchat-horizon-bin
 additionalAUR:
 - fchat-horizon-git
-electron: 40.10.6
-method: aur-depends
+electron: 40.10.0
+method: which-electron-rg
 latest: v2.3.3
 src: https://github.com/Fchat-Horizon/Horizon/archive/refs/tags/v2.3.3.zip
 downloads:
@@ -74,10 +74,10 @@ downloads:
 - name: SHASUMS256.txt
   url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/SHASUMS256.txt
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fchat-horizon-bin
-  found_in: fchat-horizon-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-aarch64.rpm
+  found_in: F-Chat.Horizon-2.3.3-linux-aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-26'
 aur_downloads:

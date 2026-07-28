@@ -18,3 +18,4 @@ aur_downloads:
   name: Linux.local-llama.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:a153e0120df7

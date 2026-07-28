@@ -4,12 +4,12 @@ website: https://xbyvideohub.com/
 aur:
 - boxplayer-bin
 electron: 40.10.6
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/boxplayer-bin
-  found_in: boxplayer-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.7/boxplayer-5.0.7-linux-arm64.AppImage
+  found_in: boxplayer-5.0.7-linux-arm64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.7/boxplayer-5.0.7-linux-arm64.AppImage

@@ -3,13 +3,13 @@ name: Numara
 website: https://numara.io/
 aur:
 - numara-bin
-electron: 43.1.1
-method: aur-depends
+electron: 43.2.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/numara-bin
-  found_in: numara-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+  kind: binary
+  source: https://github.com/bornova/numara-calculator/releases/download/v7.4.2/Numara-7.4.2-aarch64.rpm
+  found_in: Numara-7.4.2-aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://raw.githubusercontent.com/bornova/numara-calculator/v7.4.2/LICENSE

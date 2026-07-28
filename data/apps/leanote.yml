@@ -29,3 +29,8 @@ brew_installs: 1
 homebrew_disabled: true
 homebrew_disable_reason: discontinued
 last_commit: '2024-01-12'
+evidence:
+  kind: binary
+  source: https://github.com/leanote/desktop-app/releases/download/v2.7.0/leanote-desktop-linux-ia32-v2.7.0.zip
+  found_in: leanote-desktop-linux-ia32-v2.7.0.zip
+  signal: which-electron rg signal (3 signals agreed)

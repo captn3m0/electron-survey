@@ -16,3 +16,4 @@ aur_downloads:
   name: geekeditor_1.4.9_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:6c51eeb92be5

@@ -3,13 +3,13 @@ name: Exiled Exchange 2
 website: https://kvan7.github.io/Exiled-Exchange-2/download
 aur:
 - exiled-exchange-2-bin
-electron: 31.7.7
-method: aur-depends
+electron: 40.10.2
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/exiled-exchange-2-bin
-  found_in: exiled-exchange-2-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/Kvan7/Exiled-Exchange-2/releases/download/v0.15.8/Exiled-Exchange-2-0.15.8.AppImage
+  found_in: Exiled-Exchange-2-0.15.8.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/Kvan7/Exiled-Exchange-2/releases/download/v0.15.8/Exiled-Exchange-2-0.15.8.AppImage

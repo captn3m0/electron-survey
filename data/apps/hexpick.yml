@@ -25,3 +25,4 @@ aur_downloads:
   name: hexpick-1.0.1.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v1.0.1

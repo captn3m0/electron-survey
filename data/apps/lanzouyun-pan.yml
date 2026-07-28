@@ -4,8 +4,8 @@ website: https://github.com/chenhb23/lanzouyun-disk
 repository: https://github.com/chenhb23/lanzouyun-disk
 aur:
 - lanzouyun-pan
-electron: 18.3.15
-method: aur-depends
+electron: 18.2.0
+method: which-electron-rg
 latest: v3.5.3
 src: https://github.com/chenhb23/lanzouyun-disk/archive/refs/tags/v3.5.3.zip
 downloads:
@@ -16,9 +16,9 @@ downloads:
 - name: lanzouyun-3.5.3-x64-win.zip
   url: https://github.com/chenhb23/lanzouyun-disk/releases/download/v3.5.3/lanzouyun-3.5.3-x64-win.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lanzouyun-pan
-  found_in: lanzouyun-pan
-  signal: depends on electron18; reported as the newest 18.x release (18.3.15)
+  kind: binary
+  source: https://github.com/chenhb23/lanzouyun-disk/releases/download/v3.5.3/lanzouyun-3.5.3-x64-win.zip
+  found_in: lanzouyun-3.5.3-x64-win.zip
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-05-21'

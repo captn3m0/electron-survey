@@ -17,7 +17,7 @@ packages:
   arch: x64
 aur:
 - gerbil
-electron: 41.3.0
+electron: 43.1.1
 method: which-electron-rg
 latest: v1.27.0
 src: https://github.com/lone-cloud/gerbil/archive/refs/tags/v1.27.0.zip
@@ -38,3 +38,8 @@ downloads:
   url: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/latest.yml
 aur_votes: 1
 last_commit: '2026-07-25'
+evidence:
+  kind: binary
+  source: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/Gerbil-1.27.0.AppImage
+  found_in: Gerbil-1.27.0.AppImage
+  signal: which-electron rg signal

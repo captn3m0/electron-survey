@@ -4,8 +4,8 @@ website: https://github.com/liuhq/moyurd
 repository: https://github.com/liuhq/moyurd
 aur:
 - moyurd
-electron: 38.8.6
-method: aur-depends
+electron: 38.1.2
+method: which-electron-asar-manifest
 latest: v1.1.1
 src: https://github.com/liuhq/moyurd/archive/refs/tags/v1.1.1.zip
 downloads:
@@ -35,9 +35,9 @@ downloads:
 - name: moyurd_1.1.1_amd64.deb.sha256
   url: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd_1.1.1_amd64.deb.sha256
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/moyurd
-  found_in: moyurd
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: manifest
+  source: https://github.com/liuhq/moyurd/releases/download/v1.1.1/moyurd-asar-linux-x64-1.1.1.zip
+  found_in: app.asar (packed package.json)
+  signal: electron version read from a package.json packed inside the app's asar archive
 aur_votes: 1
 last_commit: '2025-11-17'

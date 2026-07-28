@@ -43,4 +43,4 @@ evidence:
   found_in: Amical-1.11.3-full.nupkg
   signal: which-electron rg signal
 brew_installs: 1000
-last_commit: '2026-07-26'
+last_commit: '2026-07-27'

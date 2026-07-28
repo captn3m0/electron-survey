@@ -16,3 +16,8 @@ latest: v0.3.35
 src: https://github.com/kactus-io/kactus/archive/refs/tags/v0.3.35.zip
 brew_installs: 1
 last_commit: '2022-07-22'
+evidence:
+  kind: binary
+  source: https://github.com/kactus-io/kactus/releases/download/v0.3.35/Kactus-macos.zip
+  found_in: Kactus-macos.zip
+  signal: which-electron rg signal

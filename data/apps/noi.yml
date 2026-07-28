@@ -3,13 +3,13 @@ name: Noi
 website: https://noi.nofwl.com/
 aur:
 - noi-desktop-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/noi-desktop-bin
-  found_in: noi-desktop-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/lencx/Noi/releases/download/v1.1.0/noi-1.1.0-1.x86_64.rpm
+  found_in: noi-1.1.0-1.x86_64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/lencx/Noi/releases/download/v1.1.0/noi-1.1.0-1.x86_64.rpm

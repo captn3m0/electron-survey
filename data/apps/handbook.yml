@@ -6,8 +6,8 @@ aur:
 - handbook-bin
 additionalAUR:
 - handbook-git
-electron: 43.1.1
-method: aur-depends
+electron: 43.0.0
+method: which-electron-rg
 latest: 1.5.0
 src: https://github.com/ECRomaneli/Handbook/archive/refs/tags/1.5.0.zip
 downloads:
@@ -34,10 +34,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/handbook-bin
-  found_in: handbook-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+  kind: binary
+  source: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/handbook-1.5.0.x86_64.rpm
+  found_in: handbook-1.5.0.x86_64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-02'
 aur_downloads:

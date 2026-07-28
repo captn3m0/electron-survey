@@ -37,3 +37,8 @@ homebrew_deprecation_reason: discontinued
 homebrew_disabled: true
 homebrew_disable_reason: discontinued
 last_commit: '2023-07-21'
+evidence:
+  kind: binary
+  source: https://github.com/theodi/comma-chameleon/releases/download/0.5.2/Comma.Chameleon-darwin-x64.zip
+  found_in: Comma.Chameleon-darwin-x64.zip
+  signal: which-electron version_file signal (3 signals agreed)

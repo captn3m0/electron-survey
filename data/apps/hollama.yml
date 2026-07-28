@@ -4,12 +4,12 @@ website: https://hollama.fernando.is/
 aur:
 - hollama-bin
 electron: 31.7.7
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/hollama-bin
-  found_in: hollama-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/fmaclen/hollama/releases/download/0.35.1/Hollama_0.35.1-linux-x64.tar.gz
+  found_in: Hollama_0.35.1-linux-x64.tar.gz
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/fmaclen/hollama/releases/download/0.35.1/Hollama_0.35.1-linux-x64.tar.gz

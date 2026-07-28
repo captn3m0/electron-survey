@@ -39,7 +39,7 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
-last_commit: '2026-07-22'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/project-slippi/slippi-launcher/releases/download/v2.11.10/Slippi-Launcher-2.11.10-x86_64.AppImage
   name: Slippi-Launcher-2.11.10-x86_64.AppImage

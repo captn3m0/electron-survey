@@ -28,3 +28,4 @@ evidence:
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 aur_votes: 1
 last_commit: '2026-05-15'
+we_tried: we1.2.1+p1:1.1.3

@@ -4,8 +4,8 @@ website: https://github.com/manusa/electronim
 repository: https://github.com/manusa/electronim
 aur:
 - electronim-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.1.2
+method: which-electron-rg
 latest: v0.0.122
 src: https://github.com/manusa/electronim/archive/refs/tags/v0.0.122.zip
 downloads:
@@ -28,10 +28,10 @@ downloads:
 - name: electronim-win-x64.zip
   url: https://github.com/manusa/electronim/releases/download/v0.0.122/electronim-win-x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/electronim-bin
-  found_in: electronim-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/manusa/electronim/releases/download/v0.0.122/electronim-linux-x64.tar.gz
+  found_in: electronim-linux-x64.tar.gz
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-02-13'
 aur_downloads:

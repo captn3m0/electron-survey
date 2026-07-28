@@ -4,8 +4,8 @@ website: https://github.com/onset/lameta
 repository: https://github.com/onset/lameta
 aur:
 - lameta
-electron: 39.8.10
-method: aur-depends
+electron: 21.3.1
+method: which-electron-rg
 latest: v2.3.17
 src: https://github.com/onset/lameta/archive/refs/tags/v2.3.17.zip
 downloads:
@@ -14,9 +14,9 @@ downloads:
 - name: lameta-Windows-Setup-2.3.17.exe
   url: https://github.com/onset/lameta/releases/download/v2.3.17/lameta-Windows-Setup-2.3.17.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lameta
-  found_in: lameta
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/onset/lameta/releases/download/v2.3.17/lameta-mac-2.3.17.dmg
+  found_in: lameta-mac-2.3.17.dmg
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-16'

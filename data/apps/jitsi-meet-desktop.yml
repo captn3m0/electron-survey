@@ -59,3 +59,8 @@ last_commit: '2026-07-25'
 aur:
 - jitsi-nightly
 aur_votes: 1
+evidence:
+  kind: binary
+  source: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.4.0/jitsi-meet-x86_64.AppImage
+  found_in: jitsi-meet-x86_64.AppImage
+  signal: which-electron rg signal

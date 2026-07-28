@@ -5,13 +5,13 @@ aur:
 - nora-bin
 additionalAUR:
 - nora-git
-electron: 35.7.5
-method: aur-depends
+electron: 35.0.3
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/nora-bin
-  found_in: nora-bin
-  signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+  kind: binary
+  source: https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.rpm
+  found_in: Nora.v3.1.0-stable-linux-x86_64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.rpm
