@@ -59,7 +59,7 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 100
-last_commit: '2026-07-27'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-0.1.x86_64.rpm
   name: mailspring-1.23.0-0.1.x86_64.rpm

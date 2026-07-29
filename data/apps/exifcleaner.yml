@@ -1,45 +1,41 @@
 id: exifcleaner
 repository: https://github.com/szTheory/exifcleaner
 website: https://exifcleaner.com
-latest: v3.6.0
-src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v3.6.0.zip
+latest: v4.0.0
+src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.0.0.zip
 downloads:
-- name: ExifCleaner-3.6.0-mac.zip
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0-mac.zip
-- name: ExifCleaner-3.6.0.AppImage
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.AppImage
-- name: ExifCleaner-3.6.0.dmg
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.dmg
-- name: ExifCleaner-3.6.0.dmg.blockmap
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.dmg.blockmap
-- name: ExifCleaner-3.6.0.exe
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-3.6.0.exe
-- name: exifcleaner-3.6.0.x86_64.rpm
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner-3.6.0.x86_64.rpm
-- name: ExifCleaner-Setup-3.6.0.exe
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-Setup-3.6.0.exe
-- name: ExifCleaner-Setup-3.6.0.exe.blockmap
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/ExifCleaner-Setup-3.6.0.exe.blockmap
-- name: exifcleaner_3.6.0_amd64.deb
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/exifcleaner_3.6.0_amd64.deb
-- name: latest-linux.yml
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/latest-linux.yml
-- name: latest-mac.yml
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/latest-mac.yml
-- name: latest.yml
-  url: https://github.com/szTheory/exifcleaner/releases/download/v3.6.0/latest.yml
-electron: 11.4.4
+- name: ExifCleaner-4.0.0-arm64.dmg
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0-arm64.dmg
+  checksum: f8837c155fe3cd826ef9f82b87d3936780bbafbcfc2b1902cc2a594a26037c1d
+- name: ExifCleaner-4.0.0.AppImage
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0.AppImage
+  checksum: ca2333c930ea2e0b69d982ce1b5f1c64eb770ac5b3e3e89149aaa24a404084e2
+- name: ExifCleaner-4.0.0.dmg
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner-4.0.0.dmg
+  checksum: 307ec159d9faa41cc4d7c45523130f92821a2ccf30d9b3faf2a35ae10db34666
+- name: exifcleaner-4.0.0.x86_64.rpm
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/exifcleaner-4.0.0.x86_64.rpm
+  checksum: c34b41b8434185d027098c18b9f529c6b5448216efb5573c917468ebdf18d134
+- name: ExifCleaner.4.0.0.exe
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner.4.0.0.exe
+- name: ExifCleaner.Setup.4.0.0.exe
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/ExifCleaner.Setup.4.0.0.exe
+- name: exifcleaner_4.0.0_amd64.deb
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/exifcleaner_4.0.0_amd64.deb
+  checksum: 5bc979c30a8d19a163659d4bee13518b45bf7d535ac71a976236bd545a183359
+- name: SHASUMS256.txt
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.0.0/SHASUMS256.txt
+electron: 35.7.5
 method: src-yarn-lock
 homebrew: exifcleaner
 name: ExifCleaner
-electron_src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v3.6.0.zip
+electron_src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3AszTheory%2Fexifcleaner+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
+  found_in: exifcleaner-4.0.0/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
+  source: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.0.0.zip
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-04-03'
+last_commit: '2026-07-29'

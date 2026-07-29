@@ -51,7 +51,7 @@ evidence:
   source: https://aur.archlinux.org/packages/mdview-bin
   found_in: mdview-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
-last_commit: '2026-07-19'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage
   name: mdview-4.0.1-x86_64.AppImage

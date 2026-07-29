@@ -16,7 +16,7 @@ evidence:
   source: https://aur.archlinux.org/packages/mawejs-bin
   found_in: mawejs-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
-last_commit: '2026-07-25'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   name: mawejs-0.25.0.AppImage

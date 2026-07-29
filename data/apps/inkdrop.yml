@@ -18,3 +18,8 @@ electron: 39.4.0
 method: which-electron-rg
 aur_votes: 10
 brew_installs: 100
+evidence:
+  kind: binary
+  source: https://d3ip0rje8grhnl.cloudfront.net/v5.11.8/Inkdrop-5.11.8-arm64-Mac.zip
+  found_in: Inkdrop-5.11.8-arm64-Mac.zip
+  signal: which-electron rg signal

@@ -1,4 +1,4 @@
-generated: '2026-07-28'
+generated: '2026-07-29'
 source: NVD CVE API 2.0, cpe:2.3:a:google:chrome
 total_cves: 5475
 scored_cves: 5448
@@ -9707,6 +9707,13 @@ by_electron:
     low: 21
     total: 1081
   42.7.1:
+    chromium: 148.0.7778.280
+    critical: 127
+    high: 448
+    medium: 485
+    low: 21
+    total: 1081
+  42.8.0:
     chromium: 148.0.7778.280
     critical: 127
     high: 448

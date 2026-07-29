@@ -11,7 +11,7 @@ evidence:
   source: https://aur.archlinux.org/packages/klive-ide-bin
   found_in: klive-ide-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-07-27'
+last_commit: '2026-07-28'
 src: https://github.com/Dotneteer/kliveide/archive/refs/heads/master.zip
 aur_downloads:
 - url: https://raw.githubusercontent.com/Dotneteer/kliveide/v0.57.0/LICENSE

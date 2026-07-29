@@ -47,4 +47,4 @@ we_tried: we1.2.1:v1.7.1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-07-20'
+last_commit: '2026-07-28'

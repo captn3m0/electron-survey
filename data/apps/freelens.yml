@@ -166,9 +166,9 @@ evidence:
   found_in: Freelens-1.10.3-linux-amd64.rpm
   signal: which-electron rg signal
 homepage: true
-aur_votes: 1
+aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-07-27'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-linux-amd64.AppImage
   name: Freelens-1.10.3-linux-amd64.AppImage

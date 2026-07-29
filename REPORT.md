@@ -475,7 +475,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Evernote For Linux](https://github.com/search5/Evernote-for-Linux) [[repo]](https://github.com/search5/Evernote-for-Linux) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
 | [Everytime](https://github.com/kiprobinson/everytime) [[repo]](https://github.com/kiprobinson/everytime) | 42.7.0 ⚠️ | 14d ago | aur-depends |
 | [Excel Parser Processor](https://github.com/btargac/excel-parser-processor) [[repo]](https://github.com/btargac/excel-parser-processor) | 17.0.0 ⚠️ | 4y 6mo ago | src-package-lock |
-| [ExifCleaner](https://exifcleaner.com) [[repo]](https://github.com/szTheory/exifcleaner) | 11.4.4 ⚠️ | 5y 3mo ago | src-yarn-lock |
+| [ExifCleaner](https://exifcleaner.com) [[repo]](https://github.com/szTheory/exifcleaner) | 35.7.5 ⚠️ | 11mo ago | src-yarn-lock |
 | [Exiled Exchange 2](https://kvan7.github.io/Exiled-Exchange-2/download) | 40.10.2 ⚠️ | 2mo ago | which-electron-rg |
 | [Exodus](https://www.exodus.com) | 41.0.3 ⚠️ | 4mo ago | which-electron-rg |
 | [Expertisex](https://expertisex.vercel.app/) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
@@ -1736,7 +1736,7 @@ Apps with detected Electron version: 1787 / 2090
 | [domodel-diary](https://github.com/thoughtsunificator/domodel-diary-electron) [[repo]](https://github.com/thoughtsunificator/domodel-diary-electron) | 15.1.1 ⚠️ | 4y 10mo ago | src-package-lock |
 | [draw.io Desktop](https://github.com/jgraph/drawio-desktop/releases) [[repo]](https://github.com/jgraph/drawio-desktop) | 42.7.1 ⚠️ | 7d ago | which-electron-rg |
 | [eSearch](https://esearch.vercel.app/) [[repo]](https://github.com/xushengfeng/eSearch) | 40.8.5 ⚠️ | 4mo ago | src-pnpm-lock |
-| [eagluet](https://github.com/surajrathod/eagluet) [[repo]](https://github.com/surajrathod/eagluet) | 9.3.1 ⚠️ | 5y 11mo ago | src-package-lock |
+| [eagluet](https://github.com/surajrathod/eagluet) [[repo]](https://github.com/surajrathod/eagluet) | 18.0.4 ⚠️ | 4y 4mo ago | src-package-lock |
 | [elcalc](https://github.com/elcalc/elcalc) [[repo]](https://github.com/elcalc/elcalc) | 6.0.7 ⚠️ | 7y ago |  |
 | [email-securely-app](https://github.com/vladimiry/email-securely-app) | 40.4.1 ⚠️ | 5mo ago | src-pnpm-lock |
 | [encrypt0r](https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/) [[repo]](https://github.com/kunalnagar/encrypt0r) | 39.8.5 ⚠️ | 4mo ago | src-yarn-lock |

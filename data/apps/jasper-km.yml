@@ -6,31 +6,33 @@ aur:
 - jasper-km-bin
 electron: 43.1.1
 method: aur-depends
-latest: v1.1.16
-src: https://github.com/cjmalloy/jasper-app/archive/refs/tags/v1.1.16.zip
+latest: v1.1.17
+src: https://github.com/cjmalloy/jasper-app/archive/refs/tags/v1.1.17.zip
 downloads:
-- name: Jasper-1.1.16-universal.dmg
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16-universal.dmg
-- name: Jasper-1.1.16-universal.dmg.blockmap
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16-universal.dmg.blockmap
-- name: Jasper-1.1.16.AppImage
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
-- name: Jasper-Setup-1.1.16.exe
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-Setup-1.1.16.exe
-- name: Jasper-Setup-1.1.16.exe.blockmap
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-Setup-1.1.16.exe.blockmap
+- name: builder-debug.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/builder-debug.yml
+- name: Jasper-1.1.17-universal.dmg
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/Jasper-1.1.17-universal.dmg
+- name: Jasper-1.1.17-universal.dmg.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/Jasper-1.1.17-universal.dmg.blockmap
+- name: Jasper-1.1.17.AppImage
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/Jasper-1.1.17.AppImage
+- name: Jasper.Setup.1.1.17.exe
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/Jasper.Setup.1.1.17.exe
+- name: Jasper.Setup.1.1.17.exe.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/Jasper.Setup.1.1.17.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/latest-linux.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/latest-mac.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/latest.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.17/latest.yml
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/jasper-km-bin
   found_in: jasper-km-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
-last_commit: '2026-07-23'
+last_commit: '2026-07-29'
 aur_downloads:
 - url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
   name: Jasper-1.1.16.AppImage

@@ -51,7 +51,7 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
 aur_votes: 1
-last_commit: '2026-06-30'
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://raw.githubusercontent.com/Venipa/ytmdesktop2/v0.18.9/LICENSE
   name: LICENSE

@@ -1,52 +1,51 @@
 id: mediachips
 repository: https://github.com/fupdec/mediaChips
 website: https://mediachips.app
-latest: v1.3.4
-src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.3.4.zip
+latest: v1.4.0
+src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.4.0.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest-linux.yml
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest-mac.yml
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/latest.yml
-- name: MediaChips.v1.3.4.Linux.AppImage
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Linux.AppImage
-- name: MediaChips.v1.3.4.Mac.arm64.dmg
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.dmg
-- name: MediaChips.v1.3.4.Mac.arm64.dmg.blockmap
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.dmg.blockmap
-- name: MediaChips.v1.3.4.Mac.arm64.zip
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.zip
-- name: MediaChips.v1.3.4.Mac.arm64.zip.blockmap
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.arm64.zip.blockmap
-- name: MediaChips.v1.3.4.Mac.x64.dmg
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.dmg
-- name: MediaChips.v1.3.4.Mac.x64.dmg.blockmap
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.dmg.blockmap
-- name: MediaChips.v1.3.4.Mac.x64.zip
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.zip
-- name: MediaChips.v1.3.4.Mac.x64.zip.blockmap
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Mac.x64.zip.blockmap
-- name: MediaChips.v1.3.4.Windows.Installer.exe
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Windows.Installer.exe
-- name: MediaChips.v1.3.4.Windows.Installer.exe.blockmap
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Windows.Installer.exe.blockmap
-- name: MediaChips.v1.3.4.Windows.Portable.exe
-  url: https://github.com/fupdec/MediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Windows.Portable.exe
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/latest.yml
+- name: MediaChips.v1.4.0.Linux.AppImage
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Linux.AppImage
+- name: MediaChips.v1.4.0.Mac.arm64.dmg
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.arm64.dmg
+- name: MediaChips.v1.4.0.Mac.arm64.dmg.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.arm64.dmg.blockmap
+- name: MediaChips.v1.4.0.Mac.arm64.zip
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.arm64.zip
+- name: MediaChips.v1.4.0.Mac.arm64.zip.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.arm64.zip.blockmap
+- name: MediaChips.v1.4.0.Mac.x64.dmg
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.x64.dmg
+- name: MediaChips.v1.4.0.Mac.x64.dmg.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.x64.dmg.blockmap
+- name: MediaChips.v1.4.0.Mac.x64.zip
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.x64.zip
+- name: MediaChips.v1.4.0.Mac.x64.zip.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Mac.x64.zip.blockmap
+- name: MediaChips.v1.4.0.Windows.Installer.exe
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Windows.Installer.exe
+- name: MediaChips.v1.4.0.Windows.Installer.exe.blockmap
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Windows.Installer.exe.blockmap
+- name: MediaChips.v1.4.0.Windows.Portable.exe
+  url: https://github.com/fupdec/MediaChips/releases/download/v1.4.0/MediaChips.v1.4.0.Windows.Portable.exe
 electron: 42.5.0
 method: src-package-lock
 aur:
 - mediachips-bin
 name: mediaChips
-electron_src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.3.4.zip
+electron_src: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.4.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Afupdec%2FmediaChips+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: MediaChips-1.4.0/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
-last_commit: '2026-07-25'
+  source: https://github.com/fupdec/mediaChips/archive/refs/tags/v1.4.0.zip
+last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/fupdec/mediaChips/releases/download/v1.3.4/MediaChips.v1.3.4.Linux.AppImage
   name: MediaChips.v1.3.4.Linux.AppImage
