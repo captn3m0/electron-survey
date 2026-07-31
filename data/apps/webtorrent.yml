@@ -58,7 +58,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-07-28'
+last_commit: '2026-07-30'
 aur_downloads:
 - url: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.24.0/WebTorrent-v0.24.0-linux-x64.zip
   name: WebTorrent-v0.24.0-linux-x64.zip

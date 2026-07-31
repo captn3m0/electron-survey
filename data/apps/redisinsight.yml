@@ -41,11 +41,11 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
-last_commit: '2026-07-28'
+last_commit: '2026-07-30'
 aur:
 - redisinsight-bin
 - redisinsight-git
-aur_votes: 1
+aur_votes: 10
 aur_downloads:
 - url: https://download.redisinsight.redis.com/releases/3.6.0/Redis-Insight-linux-x86_64.AppImage
   name: Redis-Insight-linux-x86_64.AppImage

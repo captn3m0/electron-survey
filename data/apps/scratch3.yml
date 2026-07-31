@@ -12,5 +12,5 @@ evidence:
   found_in: scratch3
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
 aur_votes: 10
-last_commit: '2026-07-28'
+last_commit: '2026-07-31'
 src: https://github.com/scratchfoundation/scratch-desktop/archive/refs/heads/develop.zip

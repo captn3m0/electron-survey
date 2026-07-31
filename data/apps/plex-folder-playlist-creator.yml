@@ -30,7 +30,7 @@ evidence:
   source: https://aur.archlinux.org/packages/plex-folder-playlist-creator-bin
   found_in: plex-folder-playlist-creator-bin
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
-last_commit: '2026-03-09'
+last_commit: '2026-07-29'
 aur_downloads:
 - url: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-1.0.4-x86_64.AppImage
   name: PlexFolderPlaylistCreator-1.0.4-x86_64.AppImage

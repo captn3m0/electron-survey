@@ -69,4 +69,4 @@ evidence:
   found_in: DeepChat-1.0.9-linux-x64.tar.gz
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-07-29'
+last_commit: '2026-07-31'

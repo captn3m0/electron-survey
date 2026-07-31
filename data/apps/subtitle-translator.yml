@@ -20,7 +20,7 @@ evidence:
   source: https://aur.archlinux.org/packages/subtitle-translator-electron-bin
   found_in: subtitle-translator-electron-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
-last_commit: '2026-07-28'
+last_commit: '2026-07-29'
 aur_downloads:
 - url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.2/Subtitle.Translator-2.0.2.AppImage
   name: Subtitle.Translator-2.0.2.AppImage

@@ -4,18 +4,17 @@ website: https://github.com/H33aven/kute
 repository: https://github.com/H33aven/kute
 aur:
 - kute-bin
-latest: v1.9.1
-src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
-electron: 39.8.10
+latest: v2.0.0
+src: https://github.com/H33aven/kute/archive/refs/tags/v2.0.0.zip
+electron: 43.2.0
 method: src-range-guess
-electron_src: https://github.com/H33aven/kute/archive/refs/tags/v1.9.1.zip
+electron_src: https://github.com/H33aven/kute/archive/refs/tags/v2.0.0.zip
 evidence:
   kind: manifest
-  source: https://github.com/search?q=repo%3AH33aven%2Fkute+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
-last_commit: '2026-06-06'
+  found_in: kute-2.0.0/package.json
+  signal: no lockfile; range "^43.2.0" resolved to its highest known match
+  source: https://github.com/H33aven/kute/archive/refs/tags/v2.0.0.zip
+last_commit: '2026-07-31'
 aur_downloads:
 - url: https://github.com/H33aven/kute/archive/v1.9.1.tar.gz
   name: v1.9.1.tar.gz

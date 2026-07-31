@@ -46,7 +46,7 @@ evidence:
   source: https://aur.archlinux.org/packages/lexicanter-bin
   found_in: lexicanter-bin
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
-last_commit: '2026-06-10'
+last_commit: '2026-07-30'
 aur_downloads:
 - url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64.AppImage
   name: Lexicanter-2.3.0-arm64.AppImage

@@ -153,7 +153,7 @@ evidence:
   reconstructed: true
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-07-27'
+last_commit: '2026-07-30'
 aur_downloads:
 - url: https://raw.githubusercontent.com/dbgate/dbgate/v5.2.10-beta.4/LICENSE
   name: LICENSE

@@ -9,22 +9,30 @@ method: aur-depends
 latest: v1.5.0
 src: https://github.com/shaunabanana/intrigue/archive/refs/tags/v1.5.0.zip
 downloads:
-- name: Intrigue-1.5.0-arm64-mac.zip
-  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0-arm64-mac.zip
-- name: Intrigue-1.5.0-arm64.dmg
-  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0-arm64.dmg
-- name: Intrigue-1.5.0.AppImage
-  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0.AppImage
-- name: Intrigue.Setup.1.5.0.exe
-  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue.Setup.1.5.0.exe
-- name: intrigue_1.5.0_amd64.snap
-  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/intrigue_1.5.0_amd64.snap
+- name: Intrigue-Linux-amd64-1.5.0.snap
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-Linux-amd64-1.5.0.snap
+- name: Intrigue-Linux-arm64-1.5.0.AppImage
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-Linux-arm64-1.5.0.AppImage
+- name: Intrigue-Linux-x86_64-1.5.0.AppImage
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-Linux-x86_64-1.5.0.AppImage
+- name: Intrigue-macOS-arm64-1.5.0.dmg
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-macOS-arm64-1.5.0.dmg
+- name: Intrigue-macOS-arm64-1.5.0.zip
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-macOS-arm64-1.5.0.zip
+- name: Intrigue-macOS-x64-1.5.0.dmg
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-macOS-x64-1.5.0.dmg
+- name: Intrigue-macOS-x64-1.5.0.zip
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-macOS-x64-1.5.0.zip
+- name: Intrigue-Windows-arm64-1.5.0.exe
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-Windows-arm64-1.5.0.exe
+- name: Intrigue-Windows-x64-1.5.0.exe
+  url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-Windows-x64-1.5.0.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/intrigue-bin
   found_in: intrigue-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
-last_commit: '2026-07-19'
+last_commit: '2026-07-30'
 aur_downloads:
 - url: https://github.com/shaunabanana/intrigue/releases/download/v1.5.0/Intrigue-1.5.0.AppImage
   name: Intrigue-1.5.0.AppImage

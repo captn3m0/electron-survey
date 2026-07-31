@@ -34,7 +34,7 @@ method: which-electron-rg
 latest: v0.11.0
 src: https://github.com/cables-gl/cables_electron/archive/refs/tags/v0.11.0.zip
 brew_installs: 10
-last_commit: '2026-07-21'
+last_commit: '2026-07-29'
 evidence:
   kind: binary
   source: https://github.com/cables-gl/cables_electron/releases/download/v0.11.0/cables-0.11.0-win-x64.zip

@@ -16,3 +16,8 @@ downloads:
   name: SimpleTex-0.2.12-arm64.dmg
   version: 0.2.12
 brew_installs: 10
+evidence:
+  kind: binary
+  source: https://update.simpletex.net/publish/electron/darwin/SimpleTex-0.2.12-arm64.dmg
+  found_in: SimpleTex-0.2.12-arm64.dmg
+  signal: which-electron rg signal

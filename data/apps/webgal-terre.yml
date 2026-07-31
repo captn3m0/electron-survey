@@ -49,7 +49,7 @@ evidence:
   source: https://aur.archlinux.org/packages/webgal-terre-bin
   found_in: webgal-terre-bin
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
-last_commit: '2026-07-25'
+last_commit: '2026-07-29'
 aur_downloads:
 - url: https://raw.githubusercontent.com/MakinoharaShoko/WebGAL_Terre/4.6.2/LICENSE
   name: LICENSE
