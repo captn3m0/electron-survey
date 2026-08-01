@@ -24,7 +24,7 @@ evidence:
   source: https://aur.archlinux.org/packages/notes-nc-bin
   found_in: notes-nc-bin
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
-last_commit: '2026-07-12'
+last_commit: '2026-07-31'
 aur_downloads:
 - url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-0.8.0.AppImage
   name: Notes-0.8.0.AppImage

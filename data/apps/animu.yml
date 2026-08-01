@@ -30,7 +30,7 @@ evidence:
   found_in: animu-0.7.16.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-30'
+last_commit: '2026-07-31'
 aur_downloads:
 - url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.deb
   name: animu-0.7.16.deb

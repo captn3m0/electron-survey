@@ -15,7 +15,7 @@ src: https://github.com/datazenit/datazenit-releases/archive/refs/tags/v1.1.0.zi
 name: Datazenit
 electron: 0.37.8
 method: which-electron-version_file
-brew_installs: 10
+brew_installs: 1
 evidence:
   kind: binary
   source: https://github.com/datazenit/datazenit-releases/releases/download/v1.1.0/linux32.tar.gz

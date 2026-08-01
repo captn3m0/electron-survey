@@ -15,7 +15,6 @@ method: which-electron-rg
 brew_installs: 10
 aur:
 - jetbrains-space
-aur_votes: 1
 evidence:
   kind: binary
   source: https://download-cdn.jetbrains.com/space/jetbrains-space-2023.1.7.zip

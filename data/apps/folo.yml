@@ -28,32 +28,32 @@ electron: 43.1.0
 method: which-electron-rg
 homebrew: folo
 downloads:
-- name: Folo-1.11.0-linux-x64.AppImage
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-linux-x64.AppImage
-- name: Folo-1.11.0-macos-arm64.dmg
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-macos-arm64.dmg
-- name: Folo-1.11.0-macos-arm64.zip
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-macos-arm64.zip
-- name: Folo-1.11.0-macos-x64.dmg
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-macos-x64.dmg
-- name: Folo-1.11.0-macos-x64.zip
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-macos-x64.zip
-- name: Folo-1.11.0-windows-x64.exe
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-windows-x64.exe
+- name: Folo-1.12.0-linux-x64.AppImage
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/Folo-1.12.0-linux-x64.AppImage
+- name: Folo-1.12.0-macos-arm64.dmg
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/Folo-1.12.0-macos-arm64.dmg
+- name: Folo-1.12.0-macos-arm64.zip
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/Folo-1.12.0-macos-arm64.zip
+- name: Folo-1.12.0-macos-x64.dmg
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/Folo-1.12.0-macos-x64.dmg
+- name: Folo-1.12.0-macos-x64.zip
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/Folo-1.12.0-macos-x64.zip
+- name: Folo-1.12.0-windows-x64.exe
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/Folo-1.12.0-windows-x64.exe
 - name: latest-linux.yml
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/latest-linux.yml
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/latest-mac.yml
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/latest.yml
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/latest.yml
 - name: manifest.yml
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/manifest.yml
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/manifest.yml
 - name: ota-release.json
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/ota-release.json
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/ota-release.json
 - name: render-asset.tar.gz
-  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/render-asset.tar.gz
-latest: desktop/v1.11.0
-src: https://github.com/RSSNext/Folo/archive/refs/tags/desktop/v1.11.0.zip
+  url: https://github.com/RSSNext/Folo/releases/download/desktop/v1.12.0/render-asset.tar.gz
+latest: desktop/v1.12.0
+src: https://github.com/RSSNext/Folo/archive/refs/tags/desktop/v1.12.0.zip
 evidence:
   kind: binary
   source: https://github.com/RSSNext/Folo/releases/download/desktop/v1.11.0/Folo-1.11.0-linux-x64.AppImage
@@ -61,7 +61,7 @@ evidence:
   signal: which-electron rg signal (2 signals agreed)
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-07-30'
+last_commit: '2026-07-31'
 aur_downloads:
 - url: https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.11.0/Folo-1.11.0-linux-x64.AppImage
   name: Folo-1.11.0-linux-x64.AppImage

@@ -83,7 +83,7 @@ evidence:
 homepage: true
 aur_votes: 1
 brew_installs: 10000
-last_commit: '2026-07-29'
+last_commit: '2026-07-31'
 aur_downloads:
 - url: https://github.com/wavetermdev/waveterm/releases/download/v0.14.5/waveterm-linux-aarch64-0.14.5.pacman
   name: waveterm-linux-aarch64-0.14.5.pacman

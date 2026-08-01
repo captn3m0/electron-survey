@@ -94,4 +94,4 @@ evidence:
   found_in: opencode-desktop
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
 aur_votes: 1
-last_commit: '2026-07-31'
+last_commit: '2026-08-01'
