@@ -43,4 +43,4 @@ evidence:
   source: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.0.zip
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-07-31'
+last_commit: '2026-08-01'

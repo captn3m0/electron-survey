@@ -31,3 +31,4 @@ aur_downloads:
   name: Redis.Viewer-2.4.9-linux.pacman
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v3.2.2

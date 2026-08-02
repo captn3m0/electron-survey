@@ -4,12 +4,12 @@ website: https://transformerlab.ai/
 aur:
 - transformerlab-bin
 electron: 26.6.10
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/transformerlab-bin
-  found_in: transformerlab-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/transformerlab/transformerlab-app/releases/download/v0.27.8/Transformer-Lab-0.27.8-arm64.AppImage
+  found_in: Transformer-Lab-0.27.8-arm64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://raw.githubusercontent.com/transformerlab/transformerlab-app/v0.27.8/LICENSE

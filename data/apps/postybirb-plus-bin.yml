@@ -7,7 +7,7 @@ aur:
 additionalAUR:
 - postybirb-plus-bin
 electron: 19.1.9
-method: aur-depends
+method: which-electron-rg
 latest: v3.1.73
 src: https://github.com/mvdicarlo/postybirb-plus/archive/refs/tags/v3.1.73.zip
 downloads:
@@ -34,9 +34,9 @@ downloads:
 - name: postybirb-plus-setup-3.1.73.exe.blockmap
   url: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/postybirb-plus-setup-3.1.73.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/postybirb-plus
-  found_in: postybirb-plus
-  signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+  kind: binary
+  source: https://github.com/mvdicarlo/postybirb-plus/releases/download/v3.1.73/postybirb-plus-3.1.73-x86_64.AppImage
+  found_in: postybirb-plus-3.1.73-x86_64.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-17'

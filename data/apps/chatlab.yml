@@ -6,33 +6,25 @@ aur:
 - chatlab-desktop
 electron: 35.7.5
 method: which-electron-rg
-latest: v0.34.1
-src: https://github.com/ChatLab/ChatLab/archive/refs/tags/v0.34.1.zip
+latest: v0.34.2
+src: https://github.com/ChatLab/ChatLab/archive/refs/tags/v0.34.2.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/builder-debug.yml
-- name: ChatLab-0.34.1-arm64.dmg
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.dmg
-- name: ChatLab-0.34.1-arm64.dmg.blockmap
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.dmg.blockmap
-- name: ChatLab-0.34.1-arm64.zip
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.zip
-- name: ChatLab-0.34.1-arm64.zip.blockmap
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.zip.blockmap
-- name: ChatLab-0.34.1-setup.exe
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-setup.exe
-- name: ChatLab-0.34.1-x64.dmg
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-x64.dmg
-- name: ChatLab-0.34.1-x64.dmg.blockmap
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-x64.dmg.blockmap
-- name: ChatLab-0.34.1-x64.zip
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-x64.zip
-- name: ChatLab-0.34.1-x64.zip.blockmap
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-x64.zip.blockmap
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/builder-debug.yml
+- name: ChatLab-0.34.2-arm64.dmg
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/ChatLab-0.34.2-arm64.dmg
+- name: ChatLab-0.34.2-arm64.dmg.blockmap
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/ChatLab-0.34.2-arm64.dmg.blockmap
+- name: ChatLab-0.34.2-arm64.zip
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/ChatLab-0.34.2-arm64.zip
+- name: ChatLab-0.34.2-arm64.zip.blockmap
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/ChatLab-0.34.2-arm64.zip.blockmap
+- name: ChatLab-0.34.2-setup.exe
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/ChatLab-0.34.2-setup.exe
 - name: latest-mac.yml
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/latest-mac.yml
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/latest.yml
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.34.2/latest.yml
 evidence:
   kind: binary
   source: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.zip

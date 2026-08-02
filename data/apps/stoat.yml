@@ -5,13 +5,13 @@ aur:
 - stoat-desktop-bin
 additionalAUR:
 - stoat-desktop-git
-electron: 40.10.6
-method: aur-depends
+electron: 40.8.3
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/stoat-desktop-bin
-  found_in: stoat-desktop-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/stoatchat/for-desktop/releases/download/v1.4.2/Stoat-linux-arm64-1.4.2.zip
+  found_in: Stoat-linux-arm64-1.4.2.zip
+  signal: which-electron rg signal (2 signals agreed)
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/stoatchat/for-desktop/releases/download/v1.4.2/Stoat-linux-arm64-1.4.2.zip

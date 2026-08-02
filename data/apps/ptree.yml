@@ -4,12 +4,12 @@ website: https://smariel.github.io/PTree
 aur:
 - ptree-bin
 electron: 11.5.0
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ptree-bin
-  found_in: ptree-bin
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/smariel/PTree/releases/download/v2.3.1/PTree-linux.zip
+  found_in: PTree-linux.zip
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/smariel/PTree/releases/download/v2.3.1/PTree-linux.zip

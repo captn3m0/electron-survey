@@ -4,8 +4,8 @@ website: https://github.com/solidtime-io/solidtime-desktop
 repository: https://github.com/solidtime-io/solidtime-desktop
 aur:
 - solidtime-bin
-electron: 41.10.2
-method: aur-depends
+electron: 41.2.0
+method: which-electron-rg
 latest: v0.2.7
 src: https://github.com/solidtime-io/solidtime-desktop/archive/refs/tags/v0.2.7.zip
 downloads:
@@ -62,10 +62,10 @@ downloads:
 - name: solidtime-x86_64.rpm
   url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-x86_64.rpm
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/solidtime-bin
-  found_in: solidtime-bin
-  signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+  kind: binary
+  source: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-aarch64.rpm
+  found_in: solidtime-aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-30'
 aur_downloads:

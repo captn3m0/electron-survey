@@ -20,3 +20,4 @@ aur_downloads:
   name: tomato-client-v0.13.0-linux_amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:22087fd26195

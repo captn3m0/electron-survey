@@ -80,7 +80,7 @@ method: which-electron-rg
 electron_src: https://github.com/bbg-contributors/bbg/archive/refs/tags/20260608.zip
 we_tried: we0:20260608
 aur_votes: 1
-last_commit: '2026-07-01'
+last_commit: '2026-08-01'
 evidence:
   kind: binary
   source: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-amd64.deb

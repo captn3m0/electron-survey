@@ -80,4 +80,4 @@ evidence:
   source: https://aur.archlinux.org/packages/dev-sidecar-git
   found_in: dev-sidecar-git
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
-last_commit: '2026-07-26'
+last_commit: '2026-08-01'

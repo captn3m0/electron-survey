@@ -46,3 +46,8 @@ aur_downloads:
   name: Stremio.Enhanced-1.2.0.AppImage
   arch: x86_64
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0-arm64.AppImage
+  found_in: Stremio.Enhanced-1.2.0-arm64.AppImage
+  signal: which-electron rg signal

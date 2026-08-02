@@ -8,7 +8,7 @@ additionalAUR:
 - openbuilds-control-bin
 - openbuilds-control-git
 electron: 23.3.13
-method: aur-depends
+method: which-electron-rg
 latest: v1.0.390
 src: https://github.com/OpenBuilds/OpenBuilds-CONTROL/archive/refs/tags/v1.0.390.zip
 downloads:
@@ -43,9 +43,9 @@ downloads:
 - name: OpenBuildsCONTROL_1.0.390_amd64.deb
   url: https://github.com/OpenBuilds/OpenBuilds-CONTROL/releases/download/v1.0.390/OpenBuildsCONTROL_1.0.390_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/openbuilds-control
-  found_in: openbuilds-control
-  signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+  kind: binary
+  source: https://github.com/OpenBuilds/OpenBuilds-CONTROL/releases/download/v1.0.390/OpenBuildsCONTROL-1.0.390.AppImage
+  found_in: OpenBuildsCONTROL-1.0.390.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2025-06-02'

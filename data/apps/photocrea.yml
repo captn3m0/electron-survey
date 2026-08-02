@@ -9,14 +9,13 @@ src: https://github.com/vikdevelop/photopea_app/archive/refs/tags/2.4.1.zip
 downloads:
 - name: photopea-build_electron_v241.tar.xz
   url: https://github.com/vikdevelop/photopea_app/releases/download/2.4.1/photopea-build_electron_v241.tar.xz
-electron: 39.8.10
-method: src-range-guess
+electron: 40.4.0
+method: which-electron-rg
 electron_src: https://github.com/vikdevelop/photopea_app/archive/refs/tags/2.4.1.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Avikdevelop%2Fphotopea_app+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/vikdevelop/photopea_app/releases/download/2.4.1/photopea-build_electron_v241.tar.xz
+  found_in: photopea-build_electron_v241.tar.xz
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-02-13'

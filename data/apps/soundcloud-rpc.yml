@@ -6,8 +6,8 @@ aur:
 - soundcloud-rpc-bin
 additionalAUR:
 - soundcloud-rpc-git
-electron: 37.10.3
-method: aur-depends
+electron: 37.2.6
+method: which-electron-rg
 latest: v0.2.0
 src: https://github.com/richardhbtz/soundcloud-rpc/archive/refs/tags/v0.2.0.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: soundcloud-0.2.0-mac.dmg.blockmap
   url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.2.0/soundcloud-0.2.0-mac.dmg.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/soundcloud-rpc-bin
-  found_in: soundcloud-rpc-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.1.9/soundcloud-0.1.9-installer-linux.AppImage
+  found_in: soundcloud-0.1.9-installer-linux.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-19'
 aur_downloads:

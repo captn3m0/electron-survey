@@ -4,8 +4,8 @@ website: https://github.com/author-more/penpot-desktop
 repository: https://github.com/author-more/penpot-desktop
 aur:
 - penpot-desktop-bin
-electron: 42.7.0
-method: aur-depends
+electron: 42.4.0
+method: which-electron-rg
 latest: v0.23.2
 src: https://github.com/author-more/penpot-desktop/archive/refs/tags/v0.23.2.zip
 downloads:
@@ -58,10 +58,10 @@ downloads:
 - name: penpot-desktop.exe.blockmap
   url: https://github.com/author-more/penpot-desktop/releases/download/v0.23.2/penpot-desktop.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/penpot-desktop-bin
-  found_in: penpot-desktop-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/author-more/penpot-desktop/releases/download/v0.23.2/penpot-desktop-aarch64.rpm
+  found_in: penpot-desktop-aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-27'
 aur_downloads:

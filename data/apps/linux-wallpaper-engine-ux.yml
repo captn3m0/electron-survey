@@ -23,4 +23,4 @@ evidence:
   found_in: linux-wallpaper-engine-0.4.9-1.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-31'
+last_commit: '2026-08-01'

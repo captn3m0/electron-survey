@@ -44,19 +44,18 @@ downloads:
   url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui_2026.4.3014_amd64.deb
 - name: p3x-redis-ui_2026.4.3014_arm64.deb
   url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui_2026.4.3014_arm64.deb
-electron: 42.5.1
-method: src-yarn-lock
+electron: 41.1.1
+method: which-electron-rg
 aur:
 - p3x-onenote-bin
 - p3x-redis-ui-bin
 name: P3X Redis UI
 electron_src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.3014.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Apatrikx3%2Fredis-ui+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
-  signal: electron pinned in yarn.lock
-  reconstructed: true
+  kind: binary
+  source: https://github.com/patrikx3/onenote/releases/download/v2026.4.132/p3x-onenote-2026.4.132.aarch64.rpm
+  found_in: p3x-onenote-2026.4.132.aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-06-29'
 aur_downloads:

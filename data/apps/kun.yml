@@ -78,4 +78,4 @@ evidence:
   source: https://aur.archlinux.org/packages/kun
   found_in: kun
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
-last_commit: '2026-07-31'
+last_commit: '2026-08-02'

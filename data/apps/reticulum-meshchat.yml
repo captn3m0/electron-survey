@@ -3,13 +3,13 @@ name: Reticulum Meshchat
 website: https://meshchat.app/
 aur:
 - reticulum-meshchat-bin
-electron: 30.5.1
-method: aur-depends
+electron: 30.3.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/reticulum-meshchat-bin
-  found_in: reticulum-meshchat-bin
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/liamcottle/reticulum-meshchat/releases/download/v2.4.0/ReticulumMeshChat-v2.4.0-linux.AppImage
+  found_in: ReticulumMeshChat-v2.4.0-linux.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/liamcottle/reticulum-meshchat/releases/download/v2.4.0/ReticulumMeshChat-v2.4.0-linux.AppImage

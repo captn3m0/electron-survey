@@ -19,3 +19,8 @@ downloads:
   url: https://github.com/ssbc/patchbay/releases/download/v8.1.0/patchbay-Windows-8.1.0.exe
 aur_votes: 1
 last_commit: '2023-01-06'
+evidence:
+  kind: binary
+  source: https://github.com/ssbc/patchbay/releases/download/v8.1.0/patchbay-Linux-8.1.0-x86_64.AppImage
+  found_in: patchbay-Linux-8.1.0-x86_64.AppImage
+  signal: which-electron version_file signal (4 signals agreed)

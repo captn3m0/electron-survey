@@ -4,8 +4,8 @@ website: https://github.com/ssisaias/rotion
 repository: https://github.com/ssisaias/rotion
 aur:
 - rotion-bin
-electron: 25.9.8
-method: aur-depends
+electron: 25.9.0
+method: which-electron-rg
 latest: v1.0.10
 src: https://github.com/ssisaias/rotion/archive/refs/tags/v1.0.10.zip
 downloads:
@@ -32,10 +32,10 @@ downloads:
 - name: rotion_1.0.10_amd64.deb
   url: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion_1.0.10_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/rotion-bin
-  found_in: rotion-bin
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/ssisaias/rotion/releases/download/v1.0.10/rotion-1.0.10.AppImage
+  found_in: rotion-1.0.10.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2024-06-01'
 aur_downloads:

@@ -57,7 +57,7 @@ aur_votes: 1
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-07-01'
+last_commit: '2026-08-01'
 evidence:
   kind: binary
   source: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux.aarch64.rpm
