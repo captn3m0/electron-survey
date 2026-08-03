@@ -5,13 +5,13 @@ aur:
 - bar-lobby-bin
 additionalAUR:
 - bar-lobby-git
-electron: 37.10.3
-method: aur-depends
+electron: 37.3.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/bar-lobby-bin
-  found_in: bar-lobby-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/beyond-all-reason/bar-lobby/releases/download/v0.15.2/BeyondAllReason-0.15.2.AppImage
+  found_in: BeyondAllReason-0.15.2.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/beyond-all-reason/bar-lobby/releases/download/v0.15.2/BeyondAllReason-0.15.2.AppImage
   name: BeyondAllReason-0.15.2.AppImage

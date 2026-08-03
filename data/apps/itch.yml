@@ -1,17 +1,17 @@
 id: itch
 repository: https://github.com/itchio/itch
 website: https://itch.io/app
-latest: v26.17.0
-src: https://github.com/itchio/itch/archive/refs/tags/v26.17.0.zip
+latest: v26.18.0
+src: https://github.com/itchio/itch/archive/refs/tags/v26.18.0.zip
 downloads:
-- name: itch-v26.17.0-darwin-amd64.tar.gz
-  url: https://github.com/itchio/itch/releases/download/v26.17.0/itch-v26.17.0-darwin-amd64.tar.gz
-- name: itch-v26.17.0-darwin-arm64.tar.gz
-  url: https://github.com/itchio/itch/releases/download/v26.17.0/itch-v26.17.0-darwin-arm64.tar.gz
-- name: itch-v26.17.0-linux-amd64.tar.gz
-  url: https://github.com/itchio/itch/releases/download/v26.17.0/itch-v26.17.0-linux-amd64.tar.gz
-- name: itch-v26.17.0-windows-amd64.tar.gz
-  url: https://github.com/itchio/itch/releases/download/v26.17.0/itch-v26.17.0-windows-amd64.tar.gz
+- name: itch-v26.18.0-darwin-amd64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.18.0/itch-v26.18.0-darwin-amd64.tar.gz
+- name: itch-v26.18.0-darwin-arm64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.18.0/itch-v26.18.0-darwin-arm64.tar.gz
+- name: itch-v26.18.0-linux-amd64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.18.0/itch-v26.18.0-linux-amd64.tar.gz
+- name: itch-v26.18.0-windows-amd64.tar.gz
+  url: https://github.com/itchio/itch/releases/download/v26.18.0/itch-v26.18.0-windows-amd64.tar.gz
 electron: 43.0.0
 method: src-package-lock
 homebrew: itch
@@ -20,16 +20,16 @@ aur:
 - itch-setup-bin
 - itch-setup-git
 - kitch-setup-bin
-electron_src: https://github.com/itchio/itch/archive/refs/tags/v26.17.0.zip
+electron_src: https://github.com/itchio/itch/archive/refs/tags/v26.18.0.zip
 evidence:
   kind: lockfile
-  found_in: itch-26.17.0/package-lock.json
+  found_in: itch-26.18.0/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/itchio/itch/archive/refs/tags/v26.17.0.zip
+  source: https://github.com/itchio/itch/archive/refs/tags/v26.18.0.zip
 homepage: true
 aur_votes: 100
 brew_installs: 100
-last_commit: '2026-07-31'
+last_commit: '2026-08-03'
 aur_downloads:
 - url: https://github.com/itchio/itch/archive/refs/tags/v26.13.0.tar.gz
   name: v26.13.0.tar.gz
@@ -51,4 +51,4 @@ aur_downloads:
   name: default
   arch: x86_64
   source: aur-bin
-we_tried: we1.2.1+p1:v26.17.0
+we_tried: we1.2.1+p1:v26.18.0

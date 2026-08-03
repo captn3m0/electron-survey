@@ -20,3 +20,8 @@ downloads:
 name: DarkJ
 electron: 2.0.5
 method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://github.com/Yamazaki93/DarkJ-Release/releases/download/v0.1.1/DarkJ-0.1.1-mac.zip
+  found_in: DarkJ-0.1.1-mac.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

@@ -36,3 +36,4 @@ aur_downloads:
   name: DeezerDiscordRPC-linux-amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:1.3.9

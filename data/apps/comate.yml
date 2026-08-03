@@ -3,13 +3,13 @@ name: Comate
 website: https://comate.baidu.com
 aur:
 - comate-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/comate-bin
-  found_in: comate-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://comate-ide.cdn.bcebos.com/download/stable/c948bd9dc56221a6f21c345f8c3f77f7574d0cfc-257651054/Comate-linux-x64.tar.gz
+  found_in: Comate-linux-x64.tar.gz
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://cloud.baidu.com/doc/COMATE/s/glxiygwdx
   name: glxiygwdx

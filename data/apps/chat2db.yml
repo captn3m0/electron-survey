@@ -4,12 +4,12 @@ website: https://chat2db.ai/
 aur:
 - chat2db-bin
 electron: 22.3.27
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chat2db-bin
-  found_in: chat2db-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/CodePhiliaX/Chat2DB/releases/download/v0.3.7/Chat2DB-0.3.7.AppImage
+  found_in: Chat2DB-0.3.7.AppImage
+  signal: which-electron rg signal (2 signals agreed)
 aur_downloads:
 - url: https://github.com/CodePhiliaX/Chat2DB/releases/download/v0.3.7/Chat2DB-0.3.7.AppImage
   name: Chat2DB-0.3.7.AppImage

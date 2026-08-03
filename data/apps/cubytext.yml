@@ -4,8 +4,8 @@ website: https://github.com/vincentdchan/CubyText
 repository: https://github.com/vincentdchan/CubyText
 aur:
 - cubytext-bin
-electron: 19.1.9
-method: aur-depends
+electron: 19.0.10
+method: which-electron-rg
 latest: 0.0.4
 src: https://github.com/vincentdchan/CubyText/archive/refs/tags/0.0.4.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: cubytext_0.0.4_amd64.deb
   url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/cubytext_0.0.4_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cubytext-bin
-  found_in: cubytext-bin
-  signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+  kind: binary
+  source: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/CubyText-0.0.4-darwin-arm64.zip
+  found_in: CubyText-0.0.4-darwin-arm64.zip
+  signal: which-electron rg signal
 last_commit: '2022-10-11'
 aur_downloads:
 - url: https://github.com/vincentdchan/CubyText/releases/download/0.0.4/cubytext_0.0.4_amd64.deb

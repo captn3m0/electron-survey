@@ -4,8 +4,8 @@ website: https://github.com/COS301-SE-2023/AI-Photo-Editor
 repository: https://github.com/COS301-SE-2023/AI-Photo-Editor
 aur:
 - blix-bin
-electron: 24.8.8
-method: aur-depends
+electron: 24.6.0
+method: which-electron-rg
 latest: v1.3.0
 src: https://github.com/COS301-SE-2023/AI-Photo-Editor/archive/refs/tags/v1.3.0.zip
 downloads:
@@ -35,10 +35,10 @@ downloads:
   url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/latest.yml
 we_tried: we0:v1.3.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/blix-bin
-  found_in: blix-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/Blix-1.3.0-arm64.AppImage
+  found_in: Blix-1.3.0-arm64.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-11-23'
 aur_downloads:
 - url: https://github.com/COS301-SE-2023/AI-Photo-Editor/releases/download/v1.3.0/blix_1.3.0_arm64.deb

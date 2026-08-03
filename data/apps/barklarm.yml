@@ -23,17 +23,16 @@ downloads:
 - name: RELEASES
   url: https://github.com/alvarolorentedev/barklarm-app/releases/download/v2.4.8/RELEASES
 electron: 31.3.1
-method: src-package-lock
+method: which-electron-rg
 aur:
 - barklarm-bin
 name: Barklarm
 electron_src: https://github.com/kanekotic/barklarm/archive/refs/tags/v2.4.8.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Akanekotic%2Fbarklarm+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  kind: binary
+  source: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8-1.x86_64.rpm
+  found_in: barklarm-2.4.8-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-23'
 aur_downloads:
 - url: https://github.com/Barklarm/barklarm-app/releases/download/v2.4.8/barklarm-2.4.8-1.x86_64.rpm

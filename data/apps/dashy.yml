@@ -9,3 +9,10 @@ downloads:
   name: DashySetup.exe
 - url: https://buildserver.futureglobe.de/Dashy/DashySetup.dmg
   name: DashySetup.dmg
+electron: 5.0.1
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://buildserver.futureglobe.de/Dashy/DashySetup.dmg
+  found_in: DashySetup.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

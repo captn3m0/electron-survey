@@ -4,8 +4,8 @@ website: https://github.com/dumbasPL/csgo-checker
 repository: https://github.com/dumbasPL/csgo-checker
 aur:
 - csgo-checker-electron
-electron: 25.9.8
-method: aur-depends
+electron: 25.5.0
+method: which-electron-rg
 latest: v1.4.4
 src: https://github.com/dumbasPL/csgo-checker/archive/refs/tags/v1.4.4.zip
 downloads:
@@ -28,8 +28,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/dumbasPL/csgo-checker/releases/download/v1.4.4/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/csgo-checker-electron
-  found_in: csgo-checker-electron
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/dumbasPL/csgo-checker/releases/download/v1.4.4/csgo-checker_x64-1.4.4.tar.gz
+  found_in: csgo-checker_x64-1.4.4.tar.gz
+  signal: which-electron rg signal
 last_commit: '2025-07-23'

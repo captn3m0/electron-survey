@@ -92,3 +92,8 @@ aur_downloads:
   name: TurboWarp-linux-armv7l-1.16.0.tar.gz
   arch: armv7h
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/TurboWarp/desktop/releases/download/v1.16.0/TurboWarp-linux-arm64-1.16.0.AppImage
+  found_in: TurboWarp-linux-arm64-1.16.0.AppImage
+  signal: which-electron rg signal

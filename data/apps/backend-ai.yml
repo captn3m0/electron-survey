@@ -4,12 +4,12 @@ website: https://www.backend.ai/
 aur:
 - backend-ai-desktop-bin
 electron: 39.8.10
-method: aur-depends
+method: which-electron-version_file
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/backend-ai-desktop-bin
-  found_in: backend-ai-desktop-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/lablup/backend.ai-webui/releases/download/v26.7.3/backend.ai-desktop-26.7.3-linux-arm64.zip
+  found_in: backend.ai-desktop-26.7.3-linux-arm64.zip
+  signal: which-electron version_file signal
 aur_downloads:
 - url: https://raw.githubusercontent.com/lablup/backend.ai-webui/v26.7.3/manifest/backend-ai.iconset/icon_512x512%401x.png
   name: icon_512x512%401x.png

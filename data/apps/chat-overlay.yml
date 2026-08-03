@@ -4,8 +4,8 @@ website: https://github.com/laplace-live/chat-overlay
 repository: https://github.com/laplace-live/chat-overlay
 aur:
 - chat-overlay-bin
-electron: 42.7.0
-method: aur-depends
+electron: 42.3.0
+method: which-electron-rg
 latest: v1.1.0
 src: https://github.com/laplace-live/chat-overlay/archive/refs/tags/v1.1.0.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: RELEASES.json
   url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/RELEASES.json
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chat-overlay-bin
-  found_in: chat-overlay-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
+  found_in: chat-overlay-1.1.0-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-14'
 aur_downloads:
 - url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm

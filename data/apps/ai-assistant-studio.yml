@@ -22,3 +22,4 @@ aur_downloads:
   name: ai-assistant-studio_1.3.1_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v2.1.0

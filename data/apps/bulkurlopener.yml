@@ -3,13 +3,13 @@ name: Bulkurlopener
 website: https://bulkurlopener.com/
 aur:
 - bulkurlopener-bin
-electron: 19.1.9
-method: aur-depends
+electron: 19.0.4
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/bulkurlopener-bin
-  found_in: bulkurlopener-bin
-  signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+  kind: binary
+  source: https://github.com/EuanRiggans/BulkURLOpener/releases/download/1.12.0/bulkurlopener-1.12.0-linux.zip
+  found_in: bulkurlopener-1.12.0-linux.zip
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/EuanRiggans/BulkURLOpener/releases/download/1.12.0/bulkurlopener-1.12.0-linux.zip
   name: bulkurlopener-1.12.0-linux.zip

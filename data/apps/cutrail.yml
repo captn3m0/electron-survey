@@ -7,7 +7,7 @@ aur:
 additionalAUR:
 - cutrail-git
 electron: 37.10.3
-method: aur-depends
+method: which-electron-rg
 latest: v0.13.0
 src: https://github.com/sabinmarcu/cutrail/archive/refs/tags/v0.13.0.zip
 downloads:
@@ -32,8 +32,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/sabinmarcu/cutrail/releases/download/v0.13.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cutrail
-  found_in: cutrail
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/sabinmarcu/cutrail/releases/download/v0.13.0/cutrail-0.13.0.x86_64.rpm
+  found_in: cutrail-0.13.0.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-21'

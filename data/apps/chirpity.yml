@@ -4,12 +4,12 @@ website: https://chirpity.mattkirkland.co.uk/
 aur:
 - chirpity-bin
 electron: 39.8.10
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chirpity-bin
-  found_in: chirpity-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/Mattk70/Chirpity-Electron/releases/download/v5.15.0/Chirpity-x86_64.AppImage
+  found_in: Chirpity-x86_64.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/Mattk70/Chirpity-Electron/releases/download/v5.15.0/Chirpity-x86_64.AppImage
   name: Chirpity-x86_64.AppImage

@@ -4,12 +4,12 @@ website: https://bobuxstation.github.io/Coal-Web/launcher.html
 aur:
 - coal-launcher-bin
 electron: 22.3.27
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/coal-launcher-bin
-  found_in: coal-launcher-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/Bobuxstation/Coal-Launcher/releases/download/v1.3.6/coal-launcher-1.3.6.x86_64.rpm
+  found_in: coal-launcher-1.3.6.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/Bobuxstation/Coal-Launcher/releases/download/v1.3.6/coal-launcher-1.3.6.x86_64.rpm
   name: coal-launcher-1.3.6.x86_64.rpm

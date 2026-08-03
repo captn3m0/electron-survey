@@ -3,13 +3,13 @@ name: Defi Wallet
 website: https://defichain.com/
 aur:
 - defi-wallet-bin
-electron: 27.3.11
-method: aur-depends
+electron: 27.3.8
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/defi-wallet-bin
-  found_in: defi-wallet-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/DeFiCh/defichain-app/releases/download/v4.2.5/DeFi-Wallet-4.2.5.AppImage
+  found_in: DeFi-Wallet-4.2.5.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/DeFiCh/defichain-app/releases/download/v4.2.5/DeFi-Wallet-4.2.5.AppImage
   name: DeFi-Wallet-4.2.5.AppImage

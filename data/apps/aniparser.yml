@@ -18,13 +18,12 @@ downloads:
 - name: dist-full.tar.gz
   url: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/dist-full.tar.gz
 electron: 35.7.5
-method: src-range-guess
+method: which-electron-rg
 electron_src: https://github.com/Sinedka/aniparser/archive/refs/tags/v0.4.1.zip
 we_tried: we0:v0.4.1
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3ASinedka%2Faniparser+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/aniparser-0.4.1.AppImage
+  found_in: aniparser-0.4.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-21'

@@ -51,7 +51,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-02'
+last_commit: '2026-08-03'
 aur_downloads:
 - url: https://github.com/gitify-app/gitify/releases/download/v7.0.0/gitify-7.0.0.x86_64.rpm
   name: gitify-7.0.0.x86_64.rpm

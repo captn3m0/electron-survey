@@ -4,8 +4,8 @@ website: https://github.com/murilopereirame/Whatstron
 repository: https://github.com/murilopereirame/Whatstron
 aur:
 - whatstron-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.1.4
+method: which-electron-rg
 latest: v1.0.1
 src: https://github.com/murilopereirame/Whatstron/archive/refs/tags/v1.0.1.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: Whatstron.exe
   url: https://github.com/murilopereirame/Whatstron/releases/download/v1.0.1/Whatstron.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/whatstron-bin
-  found_in: whatstron-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/murilopereirame/Whatstron/releases/download/v1.0.1/Whatstron.AppImage
+  found_in: Whatstron.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2024-03-03'
 aur_downloads:

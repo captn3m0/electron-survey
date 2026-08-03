@@ -4,8 +4,8 @@ website: https://github.com/BrantaOps/branta-core
 repository: https://github.com/BrantaOps/branta-core
 aur:
 - branta-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.7.5
+method: which-electron-rg
 latest: 0.10.2
 src: https://github.com/BrantaOps/branta-core/archive/refs/tags/0.10.2.zip
 downloads:
@@ -15,10 +15,10 @@ downloads:
   url: https://github.com/BrantaOps/core/releases/download/0.10.2/Branta-0.10.2.msi
 we_tried: we0:0.10.2
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/branta-bin
-  found_in: branta-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/BrantaOps/branta-core/releases/download/0.7.0/branta-0.7.0-1.x86_64.rpm
+  found_in: branta-0.7.0-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-03-02'
 aur_downloads:
 - url: https://github.com/BrantaOps/branta-core/releases/download/0.7.0/branta-0.7.0-1.x86_64.rpm

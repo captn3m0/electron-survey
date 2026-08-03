@@ -4,8 +4,8 @@ website: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon
 repository: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon
 aur:
 - binggpt-ee-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.6.2
+method: which-electron-rg
 latest: v0.4.8
 src: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/archive/refs/tags/v0.4.8.zip
 downloads:
@@ -51,10 +51,10 @@ downloads:
   url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/latest.yml
 we_tried: we0:v0.4.8
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/binggpt-ee-bin
-  found_in: binggpt-ee-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-aarch64-0.4.8.rpm
+  found_in: BingGPT-Linux-aarch64-0.4.8.rpm
+  signal: which-electron rg signal
 last_commit: '2024-07-07'
 aur_downloads:
 - url: https://github.com/fangkehou-team/BingGPT_Enhanced_Editon/releases/download/v0.4.8/BingGPT-Linux-aarch64-0.4.8.rpm

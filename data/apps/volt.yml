@@ -9,3 +9,4 @@ packages:
   os: macos
   arch: arm64
 aur_votes: 1
+we_tried: we1.2.1+p1:urls:3a08fc801130

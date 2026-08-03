@@ -4,8 +4,8 @@ website: https://github.com/straightcurve/better-osuskills
 repository: https://github.com/straightcurve/better-osuskills
 aur:
 - better-osu-skills-bin
-electron: 11.5.0
-method: aur-depends
+electron: 11.2.2
+method: which-electron-rg
 latest: v1.0.6
 src: https://github.com/straightcurve/better-osuskills/archive/refs/tags/v1.0.6.zip
 downloads:
@@ -19,10 +19,10 @@ downloads:
   url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/latest.yml
 we_tried: we0:v1.0.6
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/better-osu-skills-bin
-  found_in: better-osu-skills-bin
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/better-osu-skills-1.0.6.AppImage
+  found_in: better-osu-skills-1.0.6.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-05-21'
 aur_downloads:
 - url: https://github.com/straightcurve/better-osuskills/releases/download/v1.0.6/better-osu-skills-1.0.6.AppImage

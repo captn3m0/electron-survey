@@ -37,3 +37,8 @@ downloads:
 - name: AriaNg_Native-1.3.14-Windows-x86.exe
   url: https://github.com/mayswind/AriaNg-Native/releases/download/1.3.14/AriaNg_Native-1.3.14-Windows-x86.exe
 last_commit: '2026-06-21'
+evidence:
+  kind: binary
+  source: https://github.com/mayswind/AriaNg-Native/releases/download/1.3.14/AriaNg_Native-1.3.14-Windows-x64.7z
+  found_in: AriaNg_Native-1.3.14-Windows-x64.7z
+  signal: which-electron rg signal

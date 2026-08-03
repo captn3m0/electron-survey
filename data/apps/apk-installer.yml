@@ -4,8 +4,8 @@ website: https://github.com/zhujiaming/apk-installer
 repository: https://github.com/zhujiaming/apk-installer
 aur:
 - apk-installer
-electron: 10.4.7
-method: aur-depends
+electron: 10.0.0
+method: which-electron-fingerprint
 latest: 1.6.0
 src: https://github.com/zhujiaming/apk-installer/archive/refs/tags/1.6.0.zip
 downloads:
@@ -15,8 +15,8 @@ downloads:
   url: https://github.com/zhujiaming/apk-installer/releases/download/1.6.0/Apk.Installer.Setup.1.6.0.exe
 we_tried: we0:1.6.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/apk-installer
-  found_in: apk-installer
-  signal: depends on electron10; reported as the newest 10.x release (10.4.7)
+  kind: binary
+  source: https://github.com/zhujiaming/apk-installer/releases/download/1.6.0/Apk.Installer-1.6.0.dmg
+  found_in: Apk.Installer-1.6.0.dmg
+  signal: which-electron fingerprint signal
 last_commit: '2023-06-06'

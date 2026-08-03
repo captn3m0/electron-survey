@@ -4,16 +4,16 @@ website: https://github.com/Cuby-Project/Cuby-Client
 repository: https://github.com/Cuby-Project/Cuby-Client
 aur:
 - cuby-git
-electron: 26.6.10
-method: aur-depends
+electron: 26.3.0
+method: which-electron-rg
 latest: release
 src: https://github.com/Cuby-Project/Cuby-Client/archive/refs/tags/release.zip
 downloads:
 - name: cuby-win32-x64.zip
   url: https://github.com/Cuby-Project/Cuby-Client/releases/download/release/cuby-win32-x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cuby-git
-  found_in: cuby-git
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/Cuby-Project/Cuby-Client/releases/download/release/cuby-win32-x64.zip
+  found_in: cuby-win32-x64.zip
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2025-05-20'

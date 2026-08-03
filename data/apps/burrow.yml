@@ -3,13 +3,13 @@ name: Burrow
 website: https://www.brandonfowler.me/burrow/
 aur:
 - burrow-bin
-electron: 36.9.5
-method: aur-depends
+electron: 36.2.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/burrow-bin
-  found_in: burrow-bin
-  signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+  kind: binary
+  source: https://github.com/BrandonXLF/burrow/releases/download/v1.9.0/burrow-1.9.0.x86_64.rpm
+  found_in: burrow-1.9.0.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/BrandonXLF/burrow/releases/download/v1.9.0/burrow-1.9.0.x86_64.rpm
   name: burrow-1.9.0.x86_64.rpm

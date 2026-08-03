@@ -4,8 +4,8 @@ website: https://github.com/puff-dayo/cozydeco-overlay
 repository: https://github.com/puff-dayo/cozydeco-overlay
 aur:
 - cozy-overlay-desktop-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.2.1
+method: which-electron-rg
 latest: v0.1
 src: https://github.com/puff-dayo/cozydeco-overlay/archive/refs/tags/v0.1.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: cozy_overlay_desktop-win32-x64-v0.1-setup.exe
   url: https://github.com/puff-dayo/cozydeco-overlay/releases/download/v0.1/cozy_overlay_desktop-win32-x64-v0.1-setup.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cozy-overlay-desktop-bin
-  found_in: cozy-overlay-desktop-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/puff-dayo/cozydeco-overlay/releases/download/v0.1/cozy_overlay_desktop-linux-x64-v0.1.tar.gz
+  found_in: cozy_overlay_desktop-linux-x64-v0.1.tar.gz
+  signal: which-electron rg signal
 last_commit: '2025-10-10'
 aur_downloads:
 - url: https://github.com/puff-dayo/cozydeco-overlay/releases/download/v0.1/cozy_overlay_desktop-linux-x64-v0.1.tar.gz

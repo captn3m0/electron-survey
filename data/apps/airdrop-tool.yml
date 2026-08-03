@@ -4,8 +4,8 @@ website: https://github.com/BTS-CM/airdrop_tool
 repository: https://github.com/BTS-CM/airdrop_tool
 aur:
 - airdrop-tool-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.6.3
+method: which-electron-rg
 latest: v0.3.31
 src: https://github.com/BTS-CM/airdrop_tool/archive/refs/tags/v0.3.31.zip
 downloads:
@@ -17,10 +17,10 @@ downloads:
   url: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.exe
 we_tried: we0:v0.3.31
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/airdrop-tool-bin
-  found_in: airdrop-tool-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.dmg
+  found_in: airdrop_tool.dmg
+  signal: which-electron rg signal
 last_commit: '2025-10-20'
 aur_downloads:
 - url: https://github.com/BTS-CM/airdrop_tool/releases/download/v0.3.31/airdrop_tool.deb

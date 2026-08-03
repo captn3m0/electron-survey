@@ -6,52 +6,52 @@ aur:
 - mdview-bin
 electron: 40.10.6
 method: aur-depends
-latest: v4.0.1
-src: https://github.com/c3er/mdview/archive/refs/tags/v4.0.1.zip
+latest: v4.0.2
+src: https://github.com/c3er/mdview/archive/refs/tags/v4.0.2.zip
 downloads:
-- name: mdview-4.0.1-arm64.dmg
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-arm64.dmg
-  checksum: e7ee9e977439eec4bbf66518386d9b85b3bdbefd9c223b5bed920706ffd300f5
-- name: mdview-4.0.1-arm64.dmg.sha1
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-arm64.dmg.sha1
-- name: mdview-4.0.1-arm64.dmg.sha256
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-arm64.dmg.sha256
-- name: mdview-4.0.1-x64.exe
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.exe
-  checksum: f890cf5f6efc10b0af49c08bed4c864b47fafc4576279f376f3924f66112afb9
-- name: mdview-4.0.1-x64.exe.sha1
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.exe.sha1
-- name: mdview-4.0.1-x64.exe.sha256
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.exe.sha256
-- name: mdview-4.0.1-x64.msi
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.msi
-  checksum: 1c6fdc4442f4a44b210af77f69a7ce44cfb4bd4260d7244bfd46bd5bec7258f5
-- name: mdview-4.0.1-x64.msi.sha1
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.msi.sha1
-- name: mdview-4.0.1-x64.msi.sha256
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.msi.sha256
-- name: mdview-4.0.1-x64.zip
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.zip
-  checksum: b42f16406742b3334a5f23e495d3b5536c056a64b3d94997437644324ecb55a4
-- name: mdview-4.0.1-x64.zip.sha1
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.zip.sha1
-- name: mdview-4.0.1-x64.zip.sha256
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x64.zip.sha256
-- name: mdview-4.0.1-x86_64.AppImage
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage
-  checksum: e1afc9beb317f1ca8b63cede40355be5e2f933919c53d307617570990223265b
-- name: mdview-4.0.1-x86_64.AppImage.sha1
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage.sha1
-- name: mdview-4.0.1-x86_64.AppImage.sha256
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage.sha256
+- name: mdview-4.0.2-arm64.dmg
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-arm64.dmg
+  checksum: 5759ccd147be45f4afc437b642ae689f4205c27fb5a540dbdaf2dc82010df122
+- name: mdview-4.0.2-arm64.dmg.sha1
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-arm64.dmg.sha1
+- name: mdview-4.0.2-arm64.dmg.sha256
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-arm64.dmg.sha256
+- name: mdview-4.0.2-x64.exe
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.exe
+  checksum: 9569a1c3b9238a49675514176ca7d0e0fd8d2c02c6a8e7b28e6ea4a012e579bd
+- name: mdview-4.0.2-x64.exe.sha1
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.exe.sha1
+- name: mdview-4.0.2-x64.exe.sha256
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.exe.sha256
+- name: mdview-4.0.2-x64.msi
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.msi
+  checksum: 31c88a09f1d466b185db4027f45cbfee171e26290b43f902027355e5256c46a9
+- name: mdview-4.0.2-x64.msi.sha1
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.msi.sha1
+- name: mdview-4.0.2-x64.msi.sha256
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.msi.sha256
+- name: mdview-4.0.2-x64.zip
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.zip
+  checksum: 5a34ef34b2077b2368e018f4e8f6f01aaab583aacc44dea1ec710e9bee389ed0
+- name: mdview-4.0.2-x64.zip.sha1
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.zip.sha1
+- name: mdview-4.0.2-x64.zip.sha256
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x64.zip.sha256
+- name: mdview-4.0.2-x86_64.AppImage
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x86_64.AppImage
+  checksum: 1495e6a3e0e1fbb535e8ae8925de7b8c4e08c1c4d756b8c971579cad2a358c6e
+- name: mdview-4.0.2-x86_64.AppImage.sha1
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x86_64.AppImage.sha1
+- name: mdview-4.0.2-x86_64.AppImage.sha256
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview-4.0.2-x86_64.AppImage.sha256
 - name: mdview.json
-  url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview.json
+  url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview.json
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/mdview-bin
   found_in: mdview-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
-last_commit: '2026-07-30'
+last_commit: '2026-08-02'
 aur_downloads:
 - url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage
   name: mdview-4.0.1-x86_64.AppImage

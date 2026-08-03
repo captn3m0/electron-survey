@@ -5,7 +5,7 @@ repository: https://github.com/Alex313031/caprine-ng
 aur:
 - caprine-ng-git
 electron: 22.3.27
-method: aur-depends
+method: which-electron-rg
 latest: v2.60.3
 src: https://github.com/Alex313031/caprine-ng/archive/refs/tags/v2.60.3.zip
 downloads:
@@ -30,8 +30,8 @@ downloads:
 - name: Caprine_Setup_2.60.3_win64.exe
   url: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/Caprine_Setup_2.60.3_win64.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/caprine-ng-git
-  found_in: caprine-ng-git
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/caprine_2.60.3_x64.rpm
+  found_in: caprine_2.60.3_x64.rpm
+  signal: which-electron rg signal
 last_commit: '2025-06-30'

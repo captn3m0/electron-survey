@@ -4,8 +4,8 @@ website: https://github.com/johan-perso/agendapp
 repository: https://github.com/johan-perso/agendapp
 aur:
 - agendapp
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 latest: 1.5.0
 src: https://github.com/johan-perso/agendapp/archive/refs/tags/1.5.0.zip
 downloads:
@@ -21,8 +21,8 @@ downloads:
   url: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-win32-x64.zip
 we_tried: we0:1.5.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/agendapp
-  found_in: agendapp
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/johan-perso/agendapp/releases/download/1.5.0/agendapp-1.5.0-macos-arm64.zip
+  found_in: agendapp-1.5.0-macos-arm64.zip
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2026-04-03'

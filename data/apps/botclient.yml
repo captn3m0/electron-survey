@@ -4,8 +4,8 @@ website: https://github.com/DarkGuy10/BotClient
 repository: https://github.com/DarkGuy10/BotClient
 aur:
 - botclient-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.1.4
+method: which-electron-rg
 latest: v0.12.1-alpha
 src: https://github.com/DarkGuy10/BotClient/archive/refs/tags/v0.12.1-alpha.zip
 downloads:
@@ -27,10 +27,10 @@ downloads:
   url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/latest.yml
 we_tried: we0:v0.12.1-alpha
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/botclient-bin
-  found_in: botclient-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-linux-x86_64.AppImage
+  found_in: BotClient-linux-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-01-24'
 aur_downloads:
 - url: https://github.com/DarkGuy10/BotClient/releases/download/v0.12.1-alpha/BotClient-linux-x86_64.AppImage

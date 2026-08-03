@@ -5,7 +5,7 @@ repository: https://github.com/MOMOYATW/bilibili_manga_downloader
 aur:
 - bilibili-manga-downloader-bin
 electron: 21.4.4
-method: aur-depends
+method: which-electron-rg
 latest: v3.2.2
 src: https://github.com/MOMOYATW/bilibili_manga_downloader/archive/refs/tags/v3.2.2.zip
 downloads:
@@ -21,10 +21,10 @@ downloads:
   url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/latest.yml
 we_tried: we0:v3.2.2
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/bilibili-manga-downloader-bin
-  found_in: bilibili-manga-downloader-bin
-  signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+  kind: binary
+  source: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz
+  found_in: bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz
+  signal: which-electron rg signal
 last_commit: '2024-01-11'
 aur_downloads:
 - url: https://github.com/MOMOYATW/bilibili_manga_downloader/releases/download/v3.2.2/bilibili-manga-downloader_3.2.2_linux_amd64.tar.gz

@@ -3,13 +3,13 @@ name: Animathio
 website: https://animathio.com/
 aur:
 - animathio-bin
-electron: 38.8.6
-method: aur-depends
+electron: 38.1.2
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/animathio-bin
-  found_in: animathio-bin
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/AniMathIO/AniMathIO/releases/download/animathio-v1.6.3/AniMathIO-1.6.3.AppImage
+  found_in: AniMathIO-1.6.3.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/AniMathIO/AniMathIO/releases/download/animathio-v1.6.3/AniMathIO-1.6.3.AppImage
   name: AniMathIO-1.6.3.AppImage

@@ -12,3 +12,10 @@ downloads:
   name: AstroPrint-0.3.1.dmg
 - url: https://releases.astroprint.com/astroprint-0.3.1-x86_64.AppImage
   name: astroprint-0.3.1-x86_64.AppImage
+electron: 5.0.1
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://releases.astroprint.com/astroprint-0.3.1-x86_64.AppImage
+  found_in: astroprint-0.3.1-x86_64.AppImage
+  signal: which-electron fingerprint signal (2 signals agreed)

@@ -12,3 +12,10 @@ downloads:
   name: Caption-Pro-arm64-9.0.3.dmg
 - url: https://caption-pro-releases.s3-eu-west-1.amazonaws.com/Caption-Pro-x64-9.0.3.dmg
   name: Caption-Pro-x64-9.0.3.dmg
+electron: 37.7.1
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://caption-pro-releases.s3-eu-west-1.amazonaws.com/Caption-Pro-arm64-9.0.3.dmg
+  found_in: Caption-Pro-arm64-9.0.3.dmg
+  signal: which-electron rg signal

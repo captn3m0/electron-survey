@@ -21,3 +21,4 @@ evidence:
   found_in: comty-desktop
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
 last_commit: '2026-07-31'
+we_tried: we1.2.1+p1:rel-260731_1

@@ -6,8 +6,8 @@ aur:
 - zyfun-bin
 additionalAUR:
 - zyfun-git
-electron: 41.10.2
-method: aur-depends
+electron: 41.4.0
+method: which-electron-rg
 latest: v3.4.7
 src: https://github.com/Hiram-Wong/ZyPlayer/archive/refs/tags/v3.4.7.zip
 downloads:
@@ -40,10 +40,10 @@ downloads:
 - name: zyfun-win-3.4.7-x64-setup.exe
   url: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-win-3.4.7-x64-setup.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/zyfun-bin
-  found_in: zyfun-bin
-  signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+  kind: binary
+  source: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.7/zyfun-linux-3.4.7-aarch64.rpm
+  found_in: zyfun-linux-3.4.7-aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-06-25'
 aur_downloads:

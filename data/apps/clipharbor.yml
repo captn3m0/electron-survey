@@ -4,8 +4,8 @@ website: https://github.com/yurentle/ClipHarbor
 repository: https://github.com/yurentle/ClipHarbor
 aur:
 - clipharbor-bin
-electron: 35.7.5
-method: aur-depends
+electron: 35.0.3
+method: which-electron-rg
 latest: v0.4.1
 src: https://github.com/yurentle/ClipHarbor/archive/refs/tags/v0.4.1.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: ClipHarbor_0.4.1_amd64.deb
   url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor_0.4.1_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/clipharbor-bin
-  found_in: clipharbor-bin
-  signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+  kind: binary
+  source: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor-0.4.1.AppImage
+  found_in: ClipHarbor-0.4.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-03-28'
 aur_downloads:
 - url: https://github.com/yurentle/ClipHarbor/releases/download/v0.4.1/ClipHarbor_0.4.1_amd64.deb

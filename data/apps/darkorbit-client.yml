@@ -5,7 +5,7 @@ repository: https://github.com/kaiserdj/Darkorbit-client
 aur:
 - darkorbit-client-bin
 electron: 11.5.0
-method: aur-depends
+method: which-electron-rg
 latest: v2.8.0
 src: https://github.com/kaiserdj/Darkorbit-client/archive/refs/tags/v2.8.0.zip
 downloads:
@@ -30,10 +30,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/darkorbit-client-bin
-  found_in: darkorbit-client-bin
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-2.8.0.AppImage
+  found_in: DarkOrbit-Client-2.8.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-07-13'
 aur_downloads:
 - url: https://github.com/kaiserdj/Darkorbit-client/releases/download/v2.8.0/DarkOrbit-Client-2.8.0.AppImage

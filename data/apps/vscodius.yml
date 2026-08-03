@@ -4,8 +4,8 @@ website: https://github.com/RubisetCie/vscodius
 repository: https://github.com/RubisetCie/vscodius
 aur:
 - vscodius-bin
-electron: 34.5.8
-method: aur-depends
+electron: 34.2.0
+method: which-electron-rg
 latest: v1.98.2
 src: https://github.com/RubisetCie/vscodius/archive/refs/tags/v1.98.2.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: VSCodius-Win32-x64-1.98.2.zip
   url: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/VSCodius-Win32-x64-1.98.2.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/vscodius-bin
-  found_in: vscodius-bin
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+  kind: binary
+  source: https://github.com/RubisetCie/vscodius/releases/download/v1.98.2/codius-1.98.2-amd64.deb
+  found_in: codius-1.98.2-amd64.deb
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2025-04-09'
 aur_downloads:

@@ -4,8 +4,8 @@ website: https://github.com/Hunlongyu/bookmarks-manager
 repository: https://github.com/Hunlongyu/bookmarks-manager
 aur:
 - bookmarks-manager-bin
-electron: 15.5.7
-method: aur-depends
+electron: 15.3.0
+method: which-electron-rg
 latest: v0.1.2
 src: https://github.com/Hunlongyu/bookmarks-manager/archive/refs/tags/v0.1.2.zip
 downloads:
@@ -33,10 +33,10 @@ downloads:
   url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/latest.yml
 we_tried: we0:v0.1.2
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/bookmarks-manager-bin
-  found_in: bookmarks-manager-bin
-  signal: depends on electron15; reported as the newest 15.x release (15.5.7)
+  kind: binary
+  source: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.AppImage
+  found_in: Bookmark-Manager-0.1.2.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-03-06'
 aur_downloads:
 - url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.AppImage

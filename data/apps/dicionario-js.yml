@@ -4,8 +4,8 @@ website: https://github.com/ArthurLobopro/dicionario.js
 repository: https://github.com/ArthurLobopro/dicionario.js
 aur:
 - dicionario.js-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.0.0
+method: which-electron-rg
 latest: v2.7.5
 src: https://github.com/ArthurLobopro/dicionario.js/archive/refs/tags/v2.7.5.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: RELEASES
   url: https://github.com/ArthurLobopro/dicionario.js/releases/download/v2.7.5/RELEASES
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/dicionario.js-bin
-  found_in: dicionario.js-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/ArthurLobopro/dicionario.js/releases/download/v2.7.5/dicionario-2.7.5-full.nupkg
+  found_in: dicionario-2.7.5-full.nupkg
+  signal: which-electron rg signal
 last_commit: '2024-10-27'
 aur_downloads:
 - url: https://github.com/ArthurLobopro/dicionario.js/releases/download/v2.7.5/dicionario.js_2.7.5_amd64.deb

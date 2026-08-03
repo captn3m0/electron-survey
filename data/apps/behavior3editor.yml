@@ -4,8 +4,8 @@ website: https://github.com/zhandouxiaojiji/behavior3editor
 repository: https://github.com/zhandouxiaojiji/behavior3editor
 aur:
 - behavior3editor-git
-electron: 33.4.11
-method: aur-depends
+electron: 33.4.2
+method: which-electron-rg
 latest: v1.8.2
 src: https://github.com/zhandouxiaojiji/behavior3editor/archive/refs/tags/v1.8.2.zip
 downloads:
@@ -15,8 +15,8 @@ downloads:
   url: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.exe
 we_tried: we0:v1.8.2
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/behavior3editor-git
-  found_in: behavior3editor-git
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.dmg
+  found_in: behavior3editor_1.8.2.dmg
+  signal: which-electron rg signal
 last_commit: '2026-04-08'

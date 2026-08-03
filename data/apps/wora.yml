@@ -5,13 +5,13 @@ aur:
 - wora-bin
 additionalAUR:
 - wora-git
-electron: 31.7.7
-method: aur-depends
+electron: 31.2.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/wora-bin
-  found_in: wora-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/playwora/wora/releases/download/v0.3.6/Wora.v0.3.6.AppImage
+  found_in: Wora.v0.3.6.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 aur_downloads:
 - url: https://github.com/playwora/wora/releases/download/v0.3.6/Wora.v0.3.6.AppImage

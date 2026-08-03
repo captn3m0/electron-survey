@@ -6,8 +6,8 @@ aur:
 - clippy-bin
 additionalAUR:
 - clippy-git
-electron: 35.7.5
-method: aur-depends
+electron: 35.1.4
+method: which-electron-rg
 latest: v0.4.3
 src: https://github.com/felixrieseberg/clippy/archive/refs/tags/v0.4.3.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: clippy_0.4.3_amd64.deb
   url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/clippy_0.4.3_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/clippy-bin
-  found_in: clippy-bin
-  signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+  kind: binary
+  source: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-0.4.3-1.x86_64.rpm
+  found_in: Clippy-0.4.3-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2025-11-15'
 aur_downloads:
 - url: https://github.com/felixrieseberg/clippy/releases/download/v0.4.3/Clippy-0.4.3-1.x86_64.rpm

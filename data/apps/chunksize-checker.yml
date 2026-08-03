@@ -5,7 +5,7 @@ repository: https://github.com/yuma-shintani/chunksize-checker
 aur:
 - chunksize-checker-git
 electron: 31.7.7
-method: aur-depends
+method: which-electron-rg
 latest: v0.0.4
 src: https://github.com/yuma-shintani/chunksize-checker/archive/refs/tags/v0.0.4.zip
 downloads:
@@ -24,8 +24,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chunksize-checker-git
-  found_in: chunksize-checker-git
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/Chunk-Size-Checker-0.0.4-win.zip
+  found_in: Chunk-Size-Checker-0.0.4-win.zip
+  signal: which-electron rg signal
 last_commit: '2026-05-07'

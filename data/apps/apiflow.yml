@@ -23,3 +23,4 @@ aur_downloads:
   name: Apiflow-0.9.73-amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:fa0f664ff7e3

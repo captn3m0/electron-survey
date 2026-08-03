@@ -5,7 +5,7 @@ repository: https://github.com/SynthKittenDev/Colony-Player
 aur:
 - colony-player-bin
 electron: 11.5.0
-method: aur-depends
+method: which-electron-rg
 latest: v1.4.0
 src: https://github.com/SynthKittenDev/Colony-Player/archive/refs/tags/v1.4.0.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: Colony.Player.Setup.1.4.0.exe
   url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player.Setup.1.4.0.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/colony-player-bin
-  found_in: colony-player-bin
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/Colony.Player-1.4.0.AppImage
+  found_in: Colony.Player-1.4.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-03-19'
 aur_downloads:
 - url: https://github.com/SynthKittenDev/Colony-Player/releases/download/v1.4.0/colony-player_1.4.0_amd64.deb

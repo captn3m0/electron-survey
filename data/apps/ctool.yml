@@ -3,13 +3,13 @@ name: Ctool
 website: https://ctool.dev
 aur:
 - ctool-electron-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.1.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ctool-electron-bin
-  found_in: ctool-electron-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/baiy/Ctool/releases/download/v2.3.0/ctool_electron_linux_x64.tar.gz
+  found_in: ctool_electron_linux_x64.tar.gz
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/baiy/Ctool/releases/download/v2.3.0/ctool_electron_linux_x64.tar.gz
   name: ctool_electron_linux_x64.tar.gz

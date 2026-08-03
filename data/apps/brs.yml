@@ -27,13 +27,13 @@ downloads:
   url: https://github.com/lvcabral/brs-desktop/releases/download/v2.3.0/brs-desktop-2.3.0-windows.exe.blockmap
 - name: latest.yml
   url: https://github.com/lvcabral/brs-desktop/releases/download/v2.3.0/latest.yml
-we_tried: we0:v2.2.0
+we_tried: we1.2.1+p1:v2.3.0
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/brs-desktop-bin
   found_in: brs-desktop-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-07-31'
+last_commit: '2026-08-02'
 aur_downloads:
 - url: https://raw.githubusercontent.com/lvcabral/brs-desktop/v2.2.0/LICENSE
   name: LICENSE

@@ -4,12 +4,12 @@ website: https://crypto.com/defi-wallet
 aur:
 - chain-desktop-wallet-bin
 electron: 19.1.9
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chain-desktop-wallet-bin
-  found_in: chain-desktop-wallet-bin
-  signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+  kind: binary
+  source: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage
+  found_in: Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage
   name: Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage

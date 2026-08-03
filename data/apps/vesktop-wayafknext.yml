@@ -12,8 +12,8 @@ additionalAUR:
 - vesktop-bin
 - vesktop-electron
 - vesktop-electron-git
-electron: 40.10.6
-method: aur-depends
+electron: 40.4.0
+method: which-electron-rg
 latest: v1.6.5
 src: https://github.com/Vencord/Vesktop/archive/refs/tags/v1.6.5.zip
 downloads:
@@ -60,10 +60,10 @@ downloads:
 - name: vesktop_1.6.5_arm64.deb
   url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop_1.6.5_arm64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/vesktop-wayafknext-bin
-  found_in: vesktop-wayafknext-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.aarch64.rpm
+  found_in: vesktop-1.6.5.aarch64.rpm
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-23'
 aur_downloads:

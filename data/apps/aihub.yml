@@ -7,8 +7,8 @@ aur:
 additionalAUR:
 - aihub-bin
 - aihub-git
-electron: 30.5.1
-method: aur-depends
+electron: 30.0.9
+method: which-electron-rg
 latest: v1.8.9
 src: https://github.com/classfang/AIHub/archive/refs/tags/v1.8.9.zip
 downloads:
@@ -32,8 +32,8 @@ downloads:
   url: https://github.com/classfang/AIHub/releases/download/v1.8.9/latest.yml
 we_tried: we0:v1.8.9
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/aihub
-  found_in: aihub
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/classfang/AIHub/releases/download/v1.8.9/aihub-1.8.9.AppImage
+  found_in: aihub-1.8.9.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-02-07'

@@ -1,41 +1,41 @@
 id: znote
 repository: https://github.com/alagrede/znote-app
 website: https://znote.io
-latest: v4.5.2
-src: https://github.com/alagrede/znote-app/archive/refs/tags/v4.5.2.zip
+latest: v4.5.3
+src: https://github.com/alagrede/znote-app/archive/refs/tags/v4.5.3.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/latest-linux-arm64.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/latest-linux.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/latest-mac.yml
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/latest.yml
-- name: znote-4.5.2-arm64-mac.zip
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-arm64-mac.zip
-- name: znote-4.5.2-arm64-mac.zip.blockmap
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-arm64-mac.zip.blockmap
-- name: znote-4.5.2-arm64.AppImage
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-arm64.AppImage
-- name: znote-4.5.2-arm64.dmg
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-arm64.dmg
-- name: znote-4.5.2-arm64.dmg.blockmap
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-arm64.dmg.blockmap
-- name: znote-4.5.2-mac.zip
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-mac.zip
-- name: znote-4.5.2-mac.zip.blockmap
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2-mac.zip.blockmap
-- name: znote-4.5.2.AppImage
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2.AppImage
-- name: znote-4.5.2.dmg
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2.dmg
-- name: znote-4.5.2.dmg.blockmap
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-4.5.2.dmg.blockmap
-- name: znote-Setup-4.5.2.exe
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-Setup-4.5.2.exe
-- name: znote-Setup-4.5.2.exe.blockmap
-  url: https://github.com/alagrede/znote-app/releases/download/v4.5.2/znote-Setup-4.5.2.exe.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/latest.yml
+- name: znote-4.5.3-arm64-mac.zip
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-arm64-mac.zip
+- name: znote-4.5.3-arm64-mac.zip.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-arm64-mac.zip.blockmap
+- name: znote-4.5.3-arm64.AppImage
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-arm64.AppImage
+- name: znote-4.5.3-arm64.dmg
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-arm64.dmg
+- name: znote-4.5.3-arm64.dmg.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-arm64.dmg.blockmap
+- name: znote-4.5.3-mac.zip
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-mac.zip
+- name: znote-4.5.3-mac.zip.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3-mac.zip.blockmap
+- name: znote-4.5.3.AppImage
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3.AppImage
+- name: znote-4.5.3.dmg
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3.dmg
+- name: znote-4.5.3.dmg.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-4.5.3.dmg.blockmap
+- name: znote-Setup-4.5.3.exe
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-Setup-4.5.3.exe
+- name: znote-Setup-4.5.3.exe.blockmap
+  url: https://github.com/alagrede/znote-app/releases/download/v4.5.3/znote-Setup-4.5.3.exe.blockmap
 aur:
 - znote-bin
 electron: 36.9.5
@@ -49,7 +49,7 @@ packages:
   arch: arm64
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-07-31'
+last_commit: '2026-08-02'
 evidence:
   kind: binary
   source: https://github.com/alagrede/znote-app/releases/download/v4.3.2/znote-4.3.2-arm64.AppImage

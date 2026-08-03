@@ -9,10 +9,16 @@ method: aur-depends
 latest: v0.2.11
 src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.2.11.zip
 downloads:
+- name: FusionKit_0.2.11.dmg
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg
+- name: FusionKit_0.2.11.dmg.blockmap
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg.blockmap
 - name: FusionKit_0.2.11.exe
   url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.exe
 - name: FusionKit_0.2.11.exe.blockmap
   url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/latest-mac.yml
 - name: latest.yml
   url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/latest.yml
 evidence:
@@ -20,4 +26,4 @@ evidence:
   source: https://aur.archlinux.org/packages/fusionkit-git
   found_in: fusionkit-git
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
-last_commit: '2026-08-01'
+last_commit: '2026-08-03'

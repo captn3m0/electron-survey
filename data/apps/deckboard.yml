@@ -32,3 +32,8 @@ name: Deckboard
 electron: 29.1.6
 method: which-electron-rg
 last_commit: '2026-06-06'
+evidence:
+  kind: binary
+  source: https://github.com/rivafarabi/deckboard/releases/download/v3.2.0/Deckboard-3.2.0.AppImage
+  found_in: Deckboard-3.2.0.AppImage
+  signal: which-electron rg signal

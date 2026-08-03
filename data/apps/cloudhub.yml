@@ -4,12 +4,12 @@ website: https://www.yunzhijia.com
 aur:
 - cloudhub-bin
 electron: 12.2.3
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/cloudhub-bin
-  found_in: cloudhub-bin
-  signal: depends on electron12; reported as the newest 12.x release (12.2.3)
+  kind: binary
+  source: https://res.yunzhijia.com/mixed/cloudhubx/linux_arm64/CloudHub_arm64_5.0.5_2601301023.rpm
+  found_in: CloudHub_arm64_5.0.5_2601301023.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://www.yunzhijia.com/public/agreement/client-agreement.html
   name: client-agreement.html

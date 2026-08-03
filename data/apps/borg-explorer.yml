@@ -4,13 +4,13 @@ website: https://github.com/Netruk44/borg-repository-explorer
 repository: https://github.com/Netruk44/borg-repository-explorer
 aur:
 - borg-explorer-bin
-electron: 22.3.27
-method: aur-depends
+electron: 22.0.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/borg-explorer-bin
-  found_in: borg-explorer-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/Netruk44/borg-repository-explorer/releases/download/v0.0.9/Borg.Explorer-linux-x64-0.0.9.zip
+  found_in: Borg.Explorer-linux-x64-0.0.9.zip
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2025-04-21'
 src: https://github.com/Netruk44/borg-repository-explorer/archive/refs/heads/main.zip
 aur_downloads:

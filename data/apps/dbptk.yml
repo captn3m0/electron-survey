@@ -5,7 +5,7 @@ repository: https://github.com/keeps/dbptk-desktop
 aur:
 - dbptk-desktop-bin
 electron: 34.5.8
-method: aur-depends
+method: which-electron-rg
 latest: v4.1.2
 src: https://github.com/keeps/dbptk-desktop/archive/refs/tags/v4.1.2.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/keeps/dbptk-desktop/releases/download/v4.1.2/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/dbptk-desktop-bin
-  found_in: dbptk-desktop-bin
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+  kind: binary
+  source: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-linux-x86_64.AppImage
+  found_in: dbptk-desktop-4.0.0-linux-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-29'
 aur_downloads:
 - url: https://github.com/keeps/dbptk-desktop/releases/download/v4.0.0/dbptk-desktop-4.0.0-linux-x86_64.AppImage

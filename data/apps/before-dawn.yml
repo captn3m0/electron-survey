@@ -17,8 +17,8 @@ packages:
   arch: x64
 aur:
 - before-dawn
-electron: 37.10.3
-method: aur-depends
+electron: 37.2.3
+method: which-electron-rg
 latest: v0.37.0
 src: https://github.com/muffinista/before-dawn/archive/refs/tags/v0.37.0.zip
 downloads:
@@ -44,8 +44,8 @@ downloads:
   url: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/latest.yml
 we_tried: we0:v0.37.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/before-dawn
-  found_in: before-dawn
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/muffinista/before-dawn/releases/download/v0.37.0/Before-Dawn-0.37.0-mac.zip
+  found_in: Before-Dawn-0.37.0-mac.zip
+  signal: which-electron rg signal
 last_commit: '2026-07-27'

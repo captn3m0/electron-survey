@@ -4,12 +4,12 @@ website: https://clashr-auto.gitbook.io/
 aur:
 - clash-auto-bin
 electron: 24.8.8
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/clash-auto-bin
-  found_in: clash-auto-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v2.5.7/clash-auto-amd64-2.5.7.x86_64.rpm
+  found_in: clash-auto-amd64-2.5.7.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/download/v2.5.7/clash-auto-amd64-2.5.7.x86_64.rpm
   name: clash-auto-amd64-2.5.7.x86_64.rpm

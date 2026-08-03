@@ -10,3 +10,8 @@ name: clippo
 electron: 2.0.8
 method: which-electron-fingerprint
 last_commit: '2021-12-24'
+evidence:
+  kind: binary
+  source: https://github.com/monsterkodi/clippo/releases/download/v1.40.0/clippo-1.40.0.dmg
+  found_in: clippo-1.40.0.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

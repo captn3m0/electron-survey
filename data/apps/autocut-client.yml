@@ -5,7 +5,7 @@ repository: https://github.com/zcf0508/autocut-client
 aur:
 - autocut-client
 electron: 21.4.4
-method: aur-depends
+method: which-electron-rg
 latest: v0.1.12
 src: https://github.com/zcf0508/autocut-client/archive/refs/tags/v0.1.12.zip
 downloads:
@@ -15,8 +15,8 @@ downloads:
   url: https://github.com/zcf0508/autocut-client/releases/download/v0.1.12/autocut-client_v0.1.12.exe
 we_tried: we0:v0.1.12
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/autocut-client
-  found_in: autocut-client
-  signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+  kind: binary
+  source: https://github.com/zcf0508/autocut-client/releases/download/v0.1.12/autocut-client_v0.1.12.dmg
+  found_in: autocut-client_v0.1.12.dmg
+  signal: which-electron rg signal
 last_commit: '2024-10-23'

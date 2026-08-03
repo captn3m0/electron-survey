@@ -4,8 +4,8 @@ website: https://github.com/Jiahui-Gu/ccsm
 repository: https://github.com/Jiahui-Gu/ccsm
 aur:
 - ccsm-bin
-electron: 41.10.2
-method: aur-depends
+electron: 41.3.0
+method: which-electron-rg
 latest: v0.2.20
 src: https://github.com/Jiahui-Gu/ccsm/archive/refs/tags/v0.2.20.zip
 downloads:
@@ -38,10 +38,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ccsm-bin
-  found_in: ccsm-bin
-  signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+  kind: binary
+  source: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.rpm
+  found_in: CCSM-0.2.20-x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-28'
 aur_downloads:
 - url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.rpm

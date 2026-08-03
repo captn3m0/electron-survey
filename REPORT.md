@@ -1,6 +1,6 @@
 # Electron version report
 
-Apps with detected Electron version: 1787 / 2090
+Apps with detected Electron version: 1791 / 2090
 
 | App | Electron | Age | Method |
 | --- | -------- | --- | ------ |
@@ -15,7 +15,7 @@ Apps with detected Electron version: 1787 / 2090
 | [AI Gate](https://aigate.inulute.com/) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
 | [AI Writer](https://github.com/Intellicode/writer) [[repo]](https://github.com/Intellicode/writer) | 26.1.0 ⚠️ | 2y 11mo ago | which-electron-rg |
 | [AYA](https://github.com/liriliri/aya) [[repo]](https://github.com/liriliri/aya) | 30.5.1 ⚠️ | 1y 10mo ago | which-electron-rg |
-| [Abird](https://github.com/nsz32/abird) [[repo]](https://github.com/nsz32/abird) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Abird](https://github.com/nsz32/abird) [[repo]](https://github.com/nsz32/abird) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
 | [Abstract](https://www.goabstract.com) | 36.4.0 ⚠️ | 1y 2mo ago | which-electron-asar-manifest |
 | [Actual Budget](https://actualbudget.org) [[repo]](https://github.com/actualbudget/actual) | 41.7.1 ⚠️ | 2mo ago | which-electron-rg |
 | [Adrive](https://www.aliyundrive.com/) | 24.1.3 ⚠️ | 3y 3mo ago | which-electron-rg |
@@ -25,74 +25,75 @@ Apps with detected Electron version: 1787 / 2090
 | [Aero Browser](https://aero-mymeiy532-frostbreker.vercel.app/) | 23.3.13 ⚠️ | 3y ago | aur-depends |
 | [Aesir Wallet](https://kryptokrona.org/) | 30.5.1 ⚠️ | 1y 10mo ago | aur-depends |
 | [Aether](https://getaether.net) [[repo]](https://github.com/aethereans/aether-app) | 5.0.8 ⚠️ | 7y 1mo ago | src-package-lock |
-| [Agendapp](https://github.com/johan-perso/agendapp) [[repo]](https://github.com/johan-perso/agendapp) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Agendapp](https://github.com/johan-perso/agendapp) [[repo]](https://github.com/johan-perso/agendapp) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
 | [Agent Tars](https://agent-tars.com/) | 34.1.1 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Agora Flat](https://flat.whiteboard.agora.io/) [[repo]](https://github.com/netless-io/flat) | 12.0.15 ⚠️ | 5y 1mo ago | src-pnpm-lock |
 | [AiderDesk](https://github.com/hotovo/aider-desk) [[repo]](https://github.com/hotovo/aider-desk) | 39.8.5 ⚠️ | 4mo ago | which-electron-rg |
 | [Aigcpanel](https://aigcpanel.com/) | 29.4.6 ⚠️ | 1y 11mo ago | which-electron-rg |
-| [Aihub](https://github.com/classfang/AIHub) [[repo]](https://github.com/classfang/AIHub) | 30.5.1 ⚠️ | 1y 10mo ago | aur-depends |
-| [AingDesk](https://github.com/aingdesk/AingDesk) [[repo]](https://github.com/aingdesk/AingDesk) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Aihub](https://github.com/classfang/AIHub) [[repo]](https://github.com/classfang/AIHub) | 30.0.9 ⚠️ | 2y 2mo ago | which-electron-rg |
+| [AingDesk](https://github.com/aingdesk/AingDesk) [[repo]](https://github.com/aingdesk/AingDesk) | 31.7.7 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Aione](https://sumexxx.github.io/AIOne/) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
 | [Aionui](https://www.aionui.com/) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
-| [Airdrop Tool](https://github.com/BTS-CM/airdrop_tool) [[repo]](https://github.com/BTS-CM/airdrop_tool) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
+| [Airdrop Tool](https://github.com/BTS-CM/airdrop_tool) [[repo]](https://github.com/BTS-CM/airdrop_tool) | 26.6.3 ⚠️ | 2y 7mo ago | which-electron-rg |
 | [Airi](https://airi.moeru.ai/docs/) | 41.2.1 ⚠️ | 3mo ago | which-electron-rg |
 | [Airtame](https://www.airtame.com) | 29.1.0 ⚠️ | 2y 5mo ago | which-electron-rg |
 | [Akiflow](https://akiflow.com) | 40.4.1 ⚠️ | 5mo ago | which-electron-rg |
 | [Akuse](https://github.com/akuse-app/Akuse) [[repo]](https://github.com/akuse-app/Akuse) | 26.6.10 ⚠️ | 2y 5mo ago | which-electron-rg |
 | [Albert Launcher](https://www.producthunt.com/posts/albert-launcher) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
-| [Albumate](https://github.com/wladimiiir/albumate) [[repo]](https://github.com/wladimiiir/albumate) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Albumate](https://github.com/wladimiiir/albumate) [[repo]](https://github.com/wladimiiir/albumate) | 31.7.0 ⚠️ | 1y 10mo ago | which-electron-rg |
 | [Algermusicplayer](http://mc.alger.fun/) | 40.8.3 ⚠️ | 4mo ago | which-electron-rg |
 | [Alice AI](https://github.com/pmbstyle/Alice) [[repo]](https://github.com/pmbstyle/Alice) | 28.3.3 ⚠️ | 2y 2mo ago | which-electron-rg |
 | [Alicorn](https://alc.pages.dev/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
 | [Aliyunpan Gaozhangmin](https://github.com/gaozhangmin/aliyunpan) [[repo]](https://github.com/gaozhangmin/aliyunpan) | 21.4.4 ⚠️ | 3y 4mo ago | which-electron-rg |
-| [Alpaca](https://github.com/ItsPi3141/alpaca-electron) [[repo]](https://github.com/ItsPi3141/alpaca-electron) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
+| [Alpaca](https://github.com/ItsPi3141/alpaca-electron) [[repo]](https://github.com/ItsPi3141/alpaca-electron) | 13.6.9 ⚠️ | 4y 6mo ago | which-electron-rg |
 | [Alpha Badger](https://github.com/NoamRa/alpha-badger) [[repo]](https://github.com/NoamRa/alpha-badger) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
 | [Alphabiz](https://alpha.biz/) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
 | [Altair GraphQL Client](https://altairgraphql.dev/) [[repo]](https://github.com/altair-graphql/altair) | 33.2.1 ⚠️ | 1y 8mo ago | which-electron-rg |
 | [Altair GraphQL Client](https://altair.sirmuel.design/) [[repo]](https://github.com/imolorhe/altair) | 38.3.0 ⚠️ | 9mo ago | src-pnpm-lock |
-| [Altarik Launcher](https://altarik.fr/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
-| [Altitude Metrix Wallet](https://github.com/TheLindaProjectInc/Altitude) [[repo]](https://github.com/TheLindaProjectInc/Altitude) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
+| [Altarik Launcher](https://altarik.fr/) | 40.8.0 ⚠️ | 5mo ago | which-electron-rg |
+| [Altitude Metrix Wallet](https://github.com/TheLindaProjectInc/Altitude) [[repo]](https://github.com/TheLindaProjectInc/Altitude) | 33.0.2 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Altus](https://github.com/amanharwara/altus) [[repo]](https://github.com/amanharwara/altus) | 35.1.5 ⚠️ | 1y 4mo ago | which-electron-rg |
 | [Amazing Marvin](https://www.amazingmarvin.com/) | 36.1.0 ⚠️ | 1y 3mo ago | which-electron-rg |
-| [Amcrest](https://github.com/mikepruett3/amcrest-desktop) [[repo]](https://github.com/mikepruett3/amcrest-desktop) | 14.2.9 ⚠️ | 4y 4mo ago | aur-depends |
+| [Amcrest](https://github.com/mikepruett3/amcrest-desktop) [[repo]](https://github.com/mikepruett3/amcrest-desktop) | 14.2.9 ⚠️ | 4y 4mo ago | which-electron-rg |
 | [Amethyst Player](https://amethyst.pages.dev/) | 36.9.5 ⚠️ | 9mo ago | aur-depends |
 | [Amical](https://amical.ai/) [[repo]](https://github.com/amicalhq/amical) | 38.1.0 ⚠️ | 10mo ago | which-electron-rg |
 | [Amie](https://amie.so/) [[repo]](https://github.com/amieso/electron-releases) | 38.7.1 ⚠️ | 8mo ago | which-electron-rg |
 | [Android Messages](https://github.com/OrangeDrangon/android-messages-desktop) [[repo]](https://github.com/OrangeDrangon/android-messages-desktop) | 41.10.1 ⚠️ | 26d ago | which-electron-rg |
-| [Android Toolkit](https://github.com/AnthonyGress/Android-Toolkit) [[repo]](https://github.com/AnthonyGress/Android-Toolkit) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
-| [Angular](https://github.com/malacration/sap-front) [[repo]](https://github.com/malacration/sap-front) | 23.3.13 ⚠️ | 3y ago | aur-depends |
+| [Android Toolkit](https://github.com/AnthonyGress/Android-Toolkit) [[repo]](https://github.com/AnthonyGress/Android-Toolkit) | 25.9.8 ⚠️ | 2y 8mo ago | which-electron-rg |
+| [Angular](https://github.com/malacration/sap-front) [[repo]](https://github.com/malacration/sap-front) | 23.3.13 ⚠️ | 3y ago | which-electron-rg |
 | [Anidesk](https://anidesk.ds1nc.ru/) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
 | [Aniflix](https://aniflix.lamaau.space/) | 23.3.13 ⚠️ | 3y ago | aur-depends |
-| [Animathio](https://animathio.com/) | 38.8.6 ⚠️ | 4mo ago | aur-depends |
+| [Animathio](https://animathio.com/) | 38.1.2 ⚠️ | 10mo ago | which-electron-rg |
 | [Animecix](https://animecix.net/) [[repo]](https://github.com/erslly/animecix-linux) | 41.3.0 ⚠️ | 3mo ago | src-package-lock |
 | [Animestream](https://github.com/frostnova721/animestream-electron) [[repo]](https://github.com/frostnova721/animestream-electron) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
 | [Animu](https://github.com/Owca525/animu) [[repo]](https://github.com/Owca525/animu) | 42.3.3 ⚠️ | 2mo ago | which-electron-rg |
-| [Aniparser](https://github.com/Sinedka/aniparser) [[repo]](https://github.com/Sinedka/aniparser) | 35.7.5 ⚠️ | 11mo ago | src-range-guess |
-| [Aniship](https://t.me/aniship) | 16.2.8 ⚠️ | 4y 3mo ago | aur-depends |
+| [Aniparser](https://github.com/Sinedka/aniparser) [[repo]](https://github.com/Sinedka/aniparser) | 35.7.5 ⚠️ | 11mo ago | which-electron-rg |
+| [Aniship](https://t.me/aniship) | 16.2.8 ⚠️ | 4y 3mo ago | which-electron-rg |
 | [Anklang](https://anklang.testbit.eu/) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) [[repo]](https://github.com/qishibo/AnotherRedisDesktopManager) | 12.2.3 ⚠️ | 4y 9mo ago | src-package-lock |
 | [Antares](https://antares-sql.app) [[repo]](https://github.com/antares-sql/antares) | 30.0.8 ⚠️ | 2y 2mo ago | src-package-lock |
 | [Antsword](https://www.yuque.com/antswordproject) | 30.5.1 ⚠️ | 1y 10mo ago | which-electron-rg |
-| [Anubias](https://anubias.app) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
+| [Anubias](https://anubias.app) | 13.1.9 ⚠️ | 5y ago | which-electron-rg |
 | [Any Listen](https://github.com/any-listen/any-listen-desktop) [[repo]](https://github.com/any-listen/any-listen-desktop) | 41.2.0 ⚠️ | 3mo ago | which-electron-rg |
-| [Any Sync](https://github.com/easyhutu/any-sync-gui) [[repo]](https://github.com/easyhutu/any-sync-gui) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
+| [Any Sync](https://github.com/easyhutu/any-sync-gui) [[repo]](https://github.com/easyhutu/any-sync-gui) | 25.3.2 ⚠️ | 3y ago | which-electron-rg |
 | [Anythingllm](https://anythingllm.com/) | 31.7.7 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Anytype](https://anytype.io/) | 41.5.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Ao](https://klaussinani.github.io/ao) | 4.2.2 ⚠️ | 7y 3mo ago | which-electron-fingerprint |
 | [Apiflow](https://apiflow.cn/) | 32.3.3 ⚠️ | 1y 5mo ago | aur-depends |
 | [Apifox](https://apifox.com/) | 37.7.0 ⚠️ | 9mo ago | which-electron-rg |
-| [Apk Installer](https://github.com/zhujiaming/apk-installer) [[repo]](https://github.com/zhujiaming/apk-installer) | 10.4.7 ⚠️ | 5y 3mo ago | aur-depends |
+| [Apk Installer](https://github.com/zhujiaming/apk-installer) [[repo]](https://github.com/zhujiaming/apk-installer) | 10.0.0 ⚠️ | 6y ago | which-electron-fingerprint |
 | [Appium Inspector GUI](https://github.com/appium/appium-inspector/) [[repo]](https://github.com/appium/appium-inspector) | 41.3.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Apple Music](https://github.com/Alex313031/Apple-Music-Electron) [[repo]](https://github.com/Alex313031/Apple-Music-Electron) | 19.1.9+wvcus ⚠️ |  | src-package-lock |
 | [Aqua Voice](https://aquavoice.com/) | 32.3.3 ⚠️ | 1y 5mo ago | which-electron-rg |
 | [Aquaquill](https://github.com/Rujuu-prog/AquaQuill) [[repo]](https://github.com/Rujuu-prog/AquaQuill) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [Arch App Center](https://github.com/Artym227/Arch-App-Center) [[repo]](https://github.com/Artym227/Arch-App-Center) | 28.3.3 ⚠️ | 2y 2mo ago | src-package-lock |
 | [Archiver](https://archiverapp.com/) [[repo]](https://github.com/incbee/archiver-5-releases) | 38.4.0 ⚠️ | 9mo ago | which-electron-rg |
-| [Arctis Monitor](https://github.com/richrace/arctis-monitor) [[repo]](https://github.com/richrace/arctis-monitor) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Arctis Monitor](https://github.com/richrace/arctis-monitor) [[repo]](https://github.com/richrace/arctis-monitor) | 31.2.1 ⚠️ | 2y ago | which-electron-rg |
 | [Arduino IDE](https://github.com/arduino/arduino-ide) [[repo]](https://github.com/arduino/arduino-ide) | 30.1.2 ⚠️ | 2y 1mo ago | which-electron-rg |
 | [AriaNg Native](https://github.com/mayswind/AriaNg-Native) [[repo]](https://github.com/mayswind/AriaNg-Native) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Asana](https://asana.com/) | 37.7.0 ⚠️ | 9mo ago | which-electron-rg |
 | [Assessment Disaggregation](https://www.assessmentdisaggregation.org/) [[repo]](https://github.com/tazzben/Assessment-Disaggregation.git) | 40.0.0 ⚠️ | 6mo ago | src-package-lock |
+| [AstroPrint Desktop](https://www.astroprint.com/products/p/astroprint-desktop) | 5.0.1 ⚠️ | 7y 4mo ago | which-electron-fingerprint |
 | [Astrofox](https://astrofox.io) | 16.0.7 ⚠️ | 4y 7mo ago | which-electron-rg |
 | [Athens](https://github.com/athensresearch/athens) [[repo]](https://github.com/athensresearch/athens) | 12.2.3 ⚠️ | 4y 9mo ago | src-yarn-lock |
 | [Atlassify](https://atlassify.io/) | 43.0.0 ⚠️ | 1mo ago | which-electron-rg |
@@ -104,15 +105,15 @@ Apps with detected Electron version: 1787 / 2090
 | [Audius Client](https://github.com/AudiusProject/audius-protocol/tree/main/packages/web) [[repo]](https://github.com/AudiusProject/audius-protocol) | 27.3.2 ⚠️ | 2y 6mo ago | src-package-lock |
 | [Augur](https://github.com/AugurProject/augur-app) [[repo]](https://github.com/AugurProject/augur-app) | 3.1.0 ⚠️ | 7y 8mo ago | src-package-lock |
 | [Autho Iptv](https://glitport.github.io/AuthoIPTV/) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
-| [Autocut Client](https://github.com/zcf0508/autocut-client) [[repo]](https://github.com/zcf0508/autocut-client) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
-| [Autographa](https://github.com/friendsofagape/autographa) [[repo]](https://github.com/friendsofagape/autographa) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
-| [Autorecord Manager](https://github.com/WhiteMinds/LiveAutoRecord) [[repo]](https://github.com/WhiteMinds/LiveAutoRecord) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
-| [Aviutl Package Manager](https://team-apm.github.io/apm/) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
-| [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) [[repo]](https://github.com/SnosMe/awakened-poe-trade) | 40.8.0 ⚠️ | 5mo ago | which-electron-rg |
-| [Axonops Workbench](https://axonops.com/) | 41.10.2 ⚠️ | 19d ago | aur-depends |
+| [Autocut Client](https://github.com/zcf0508/autocut-client) [[repo]](https://github.com/zcf0508/autocut-client) | 21.4.4 ⚠️ | 3y 4mo ago | which-electron-rg |
+| [Autographa](https://github.com/friendsofagape/autographa) [[repo]](https://github.com/friendsofagape/autographa) | 21.0.1 ⚠️ | 3y 10mo ago | which-electron-rg |
+| [Autorecord Manager](https://github.com/WhiteMinds/LiveAutoRecord) [[repo]](https://github.com/WhiteMinds/LiveAutoRecord) | 40.4.1 ⚠️ | 5mo ago | which-electron-rg |
+| [Aviutl Package Manager](https://team-apm.github.io/apm/) | 34.5.8 ⚠️ | 1y 2mo ago | which-electron-rg |
+| [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) [[repo]](https://github.com/SnosMe/awakened-poe-trade) | 40.10.6 ⚠️ | 1mo ago | which-electron-rg |
+| [Axonops Workbench](https://axonops.com/) | 41.7.1 ⚠️ | 2mo ago | which-electron-rg |
 | [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) | 30.5.1 ⚠️ | 1y 10mo ago | which-electron-rg |
 | [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/) [[repo]](https://github.com/microsoft/AzureStorageExplorer) | 41.1.0 ⚠️ | 4mo ago | which-electron-rg |
-| [Backend AI](https://www.backend.ai/) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Backend AI](https://www.backend.ai/) | 39.8.10 ⚠️ | 2mo ago | which-electron-version_file |
 | [Backlog](https://github.com/czytelny/backlog) [[repo]](https://github.com/czytelny/backlog) | 2.0.6 ⚠️ | 8y 1mo ago | which-electron-version_file |
 | [Backslash](https://github.com/backslash-app/backslash) [[repo]](https://github.com/backslash-app/backslash) | 33.4.11 ⚠️ | 1y 3mo ago | src-yarn-lock |
 | [Baidu Translate Client](https://fanyi.baidu.com/) | 11.5.0 ⚠️ | 4y 11mo ago | aur-depends |
@@ -120,81 +121,81 @@ Apps with detected Electron version: 1787 / 2090
 | [Baiduwenku](https://wenku.baidu.com) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
 | [Baize Toolbox](https://baize.plume.vip/) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [Bananas](https://getbananas.net/) | 31.7.6 ⚠️ | 1y 8mo ago | which-electron-rg |
-| [Bar Lobby](https://beyond-all-reason.github.io/bar-lobby/) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
-| [Barklarm](https://www.barklarm.com/) [[repo]](https://github.com/kanekotic/barklarm) | 31.3.1 ⚠️ | 2y ago | src-package-lock |
+| [Bar Lobby](https://beyond-all-reason.github.io/bar-lobby/) | 37.3.1 ⚠️ | 11mo ago | which-electron-rg |
+| [Barklarm](https://www.barklarm.com/) [[repo]](https://github.com/kanekotic/barklarm) | 31.3.1 ⚠️ | 2y ago | which-electron-rg |
 | [Basecamp](https://3.basecamp-help.com/) | 42.1.0 ⚠️ | 2mo ago | which-electron-rg |
 | [Basic Blackjack](https://devklick.github.io/basic-blackjack/) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
-| [Batch Explorer](https://azure.github.io/BatchExplorer/) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
+| [Batch Explorer](https://azure.github.io/BatchExplorer/) | 29.4.6 ⚠️ | 1y 11mo ago | which-electron-rg |
 | [Battery](https://github.com/actuallymentor/battery/) [[repo]](https://github.com/actuallymentor/battery) | 29.2.0 ⚠️ | 2y 4mo ago | which-electron-rg |
 | [Bbg](https://bbg.nekomoe.xyz/) [[repo]](https://github.com/bbg-contributors/bbg) | 40.10.2 ⚠️ | 2mo ago | which-electron-rg |
 | [Bdash](https://github.com/bdash-app/bdash) [[repo]](https://github.com/bdash-app/bdash) | 40.6.0 ⚠️ | 5mo ago | src-yarn-lock |
 | [Beaker Browser](https://beakerbrowser.com) [[repo]](https://github.com/beakerbrowser/beaker) | 11.0.0 ⚠️ | 5y 9mo ago | which-electron-rg |
 | [Beaker Ng](https://github.com/Alex313031/beaker-ng) [[repo]](https://github.com/Alex313031/beaker-ng) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
-| [Bear Graph](https://github.com/Chuckleroot/bear-graph) [[repo]](https://github.com/Chuckleroot/bear-graph) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
+| [Bear Graph](https://github.com/Chuckleroot/bear-graph) [[repo]](https://github.com/Chuckleroot/bear-graph) | 25.3.2 ⚠️ | 3y ago | which-electron-rg |
 | [Beaver Notes](https://www.beavernotes.com/) | 40.8.5 ⚠️ | 4mo ago | which-electron-rg |
 | [Beekeeper Studio](https://www.beekeeperstudio.io) [[repo]](https://github.com/beekeeper-studio/beekeeper-studio) | 39.8.5 ⚠️ | 4mo ago | src-yarn-lock |
 | [Beeper](https://www.beeper.com/download) | 41.2.0 ⚠️ | 3mo ago | which-electron-rg |
-| [Before Dawn](https://github.com/muffinista/before-dawn) [[repo]](https://github.com/muffinista/before-dawn) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
-| [Behavior3editor](https://github.com/zhandouxiaojiji/behavior3editor) [[repo]](https://github.com/zhandouxiaojiji/behavior3editor) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
+| [Before Dawn](https://github.com/muffinista/before-dawn) [[repo]](https://github.com/muffinista/before-dawn) | 37.2.3 ⚠️ | 1y ago | which-electron-rg |
+| [Behavior3editor](https://github.com/zhandouxiaojiji/behavior3editor) [[repo]](https://github.com/zhandouxiaojiji/behavior3editor) | 33.4.2 ⚠️ | 1y 5mo ago | which-electron-rg |
 | [Benchworx](https://github.com/simonireilly/dynamoDB-benchworx) [[repo]](https://github.com/simonireilly/dynamoDB-benchworx) | 12.2.3 ⚠️ | 4y 9mo ago | aur-depends |
 | [Beryl](https://github.com/BrenekH/beryl) [[repo]](https://github.com/BrenekH/beryl) | 18.2.3 ⚠️ | 4y 3mo ago | src-package-lock |
-| [Better Osu Skills](https://github.com/straightcurve/better-osuskills) [[repo]](https://github.com/straightcurve/better-osuskills) | 11.5.0 ⚠️ | 4y 11mo ago | aur-depends |
+| [Better Osu Skills](https://github.com/straightcurve/better-osuskills) [[repo]](https://github.com/straightcurve/better-osuskills) | 11.2.2 ⚠️ | 5y 6mo ago | which-electron-rg |
 | [BetterDiscord](https://betterdiscord.app/) [[repo]](https://github.com/BetterDiscord/Installer) | 13.6.9 ⚠️ | 4y 6mo ago | which-electron-rg |
-| [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud) [[repo]](https://github.com/AlirezaKJ/BetterSoundCloud) | 32.3.3 ⚠️ | 1y 5mo ago | aur-depends |
+| [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud) [[repo]](https://github.com/AlirezaKJ/BetterSoundCloud) | 42.0.0 ⚠️ | 2mo ago | which-electron-rg |
 | [Betterx](https://github.com/Feur-Inc/BetterX-Desktop) [[repo]](https://github.com/Feur-Inc/BetterX-Desktop) | 34.1.1 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Betwixt](https://github.com/kdzwinel/betwixt) [[repo]](https://github.com/kdzwinel/betwixt) | 0.36.12 ⚠️ |  | which-electron-version_file |
 | [Beyondallreason](https://beyondallreason.info) | 42.7.0 ⚠️ | 19d ago | aur-depends |
-| [Bili Liveluckdraw](https://github.com/grtsinry43/Bili-LiveLuckDraw) [[repo]](https://github.com/grtsinry43/Bili-LiveLuckDraw) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
+| [Bili Liveluckdraw](https://github.com/grtsinry43/Bili-LiveLuckDraw) [[repo]](https://github.com/grtsinry43/Bili-LiveLuckDraw) | 35.5.0 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Bilibili Deb](https://github.com/msojocs/bilibili-linux/) [[repo]](https://github.com/msojocs/bilibili-linux) | 43.1.1 ⚠️ | 19d ago | which-electron-rg |
-| [Bilibili Manga Downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) [[repo]](https://github.com/MOMOYATW/bilibili_manga_downloader) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
+| [Bilibili Manga Downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) [[repo]](https://github.com/MOMOYATW/bilibili_manga_downloader) | 21.4.4 ⚠️ | 3y 4mo ago | which-electron-rg |
 | [Bilibili Video Download](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) [[repo]](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) | 16.2.8 ⚠️ | 4y 3mo ago | which-electron-rg |
-| [Bilive Danmaku](https://github.com/Beats0/bilive-danmaku) [[repo]](https://github.com/Beats0/bilive-danmaku) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
-| [Bimbala](https://bimbala.com/) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
+| [Bilive Danmaku](https://github.com/Beats0/bilive-danmaku) [[repo]](https://github.com/Beats0/bilive-danmaku) | 26.6.10 ⚠️ | 2y 5mo ago | which-electron-rg |
+| [Bimbala](https://bimbala.com/) | 30.0.3 ⚠️ | 2y 3mo ago | which-electron-rg |
 | [BingGPT](https://github.com/dice2o/BingGPT) [[repo]](https://github.com/dice2o/BingGPT) | 24.4.0 ⚠️ | 3y 2mo ago | which-electron-rg |
-| [Binggpt Ee](https://github.com/fangkehou-team/BingGPT_Enhanced_Editon) [[repo]](https://github.com/fangkehou-team/BingGPT_Enhanced_Editon) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
-| [Bintelai Ssh Assistant](https://github.com/bintelAI/aissh) [[repo]](https://github.com/bintelAI/aissh) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Binggpt Ee](https://github.com/fangkehou-team/BingGPT_Enhanced_Editon) [[repo]](https://github.com/fangkehou-team/BingGPT_Enhanced_Editon) | 26.6.2 ⚠️ | 2y 8mo ago | which-electron-rg |
+| [Bintelai Ssh Assistant](https://github.com/bintelAI/aissh) [[repo]](https://github.com/bintelAI/aissh) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
 | [Biscuit](https://eatbiscuit.com/) | 39.2.5 ⚠️ | 8mo ago | which-electron-rg |
 | [Bitburner](https://github.com/bitburner-official/bitburner-src) [[repo]](https://github.com/bitburner-official/bitburner-src) | 41.4.0 ⚠️ | 3mo ago | src-package-lock |
-| [Bitclient](https://github.com/sgolub/bitclient) [[repo]](https://github.com/sgolub/bitclient) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Bitclient](https://github.com/sgolub/bitclient) [[repo]](https://github.com/sgolub/bitclient) | 31.7.6 ⚠️ | 1y 8mo ago | which-electron-rg |
 | [Bitshares Astro UI](https://github.com/BTS-CM/astro-ui) [[repo]](https://github.com/BTS-CM/astro-ui) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
 | [Bitwarden](https://bitwarden.com/download/) [[repo]](https://github.com/bitwarden/clients) | 41.7.2 ⚠️ | 1mo ago | which-electron-rg |
 | [Blinker](https://github.com/mrkpatchaa/blinker) [[repo]](https://github.com/mrkpatchaa/blinker) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
-| [Blix](https://github.com/COS301-SE-2023/AI-Photo-Editor) [[repo]](https://github.com/COS301-SE-2023/AI-Photo-Editor) | 24.8.8 ⚠️ | 2y 10mo ago | aur-depends |
+| [Blix](https://github.com/COS301-SE-2023/AI-Photo-Editor) [[repo]](https://github.com/COS301-SE-2023/AI-Photo-Editor) | 24.6.0 ⚠️ | 3y 1mo ago | which-electron-rg |
 | [Blockbench](https://blockbench.net/) [[repo]](https://github.com/JannisX11/blockbench) | 40.10.6 ⚠️ | 1mo ago | src-package-lock |
 | [BloodHound](https://github.com/SpecterOps/BloodHound-Legacy) [[repo]](https://github.com/SpecterOps/BloodHound-Legacy) | 11.5.0 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [Blot](https://www.useblot.com/) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [Blueknight](https://github.com/KartoffelChipss/blueknight) [[repo]](https://github.com/KartoffelChipss/blueknight) | 30.5.1 ⚠️ | 1y 10mo ago | aur-depends |
-| [Board4you](https://github.com/GachiLord/board4you) [[repo]](https://github.com/GachiLord/board4you) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
+| [Board4you](https://github.com/GachiLord/board4you) [[repo]](https://github.com/GachiLord/board4you) | 26.4.1 ⚠️ | 2y 9mo ago | which-electron-rg |
 | [Boats Animator](http://charlielee.uk/boats-animator) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
 | [Bonbon Browser](https://bonbon.exchange/) | 32.3.3 ⚠️ | 1y 5mo ago | aur-depends |
-| [Bookmarks Manager](https://github.com/Hunlongyu/bookmarks-manager) [[repo]](https://github.com/Hunlongyu/bookmarks-manager) | 15.5.7 ⚠️ | 4y 3mo ago | aur-depends |
-| [Bookord](https://github.com/LiprikON2/Bookord) [[repo]](https://github.com/LiprikON2/Bookord) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
+| [Bookmarks Manager](https://github.com/Hunlongyu/bookmarks-manager) [[repo]](https://github.com/Hunlongyu/bookmarks-manager) | 15.3.0 ⚠️ | 4y 10mo ago | which-electron-rg |
+| [Bookord](https://github.com/LiprikON2/Bookord) [[repo]](https://github.com/LiprikON2/Bookord) | 29.3.0 ⚠️ | 2y 4mo ago | which-electron-rg |
 | [Boost Changer](https://github.com/nbebaw/boostchanger) [[repo]](https://github.com/nbebaw/boostchanger) | 40.8.0 ⚠️ | 5mo ago | src-package-lock |
 | [Boostnote.Next](https://boostnote.io/) [[repo]](https://github.com/BoostIO/BoostNote-App) | 12.2.3 ⚠️ | 4y 9mo ago | which-electron-rg |
 | [Bootstrap Studio](https://bootstrapstudio.io/) | 37.10.3 ⚠️ | 8mo ago | which-electron-rg |
-| [Borg Explorer](https://github.com/Netruk44/borg-repository-explorer) [[repo]](https://github.com/Netruk44/borg-repository-explorer) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
+| [Borg Explorer](https://github.com/Netruk44/borg-repository-explorer) [[repo]](https://github.com/Netruk44/borg-repository-explorer) | 22.0.0 ⚠️ | 3y 8mo ago | which-electron-rg |
 | [Boson](https://albireox.github.io/boson/) | 41.10.2 ⚠️ | 19d ago | aur-depends |
-| [Bot.dev](https://github.com/juaneth/bot.dev) [[repo]](https://github.com/juaneth/bot.dev) | 23.3.13 ⚠️ | 3y ago | aur-depends |
-| [Botclient](https://github.com/DarkGuy10/BotClient) [[repo]](https://github.com/DarkGuy10/BotClient) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [Bot.dev](https://github.com/juaneth/bot.dev) [[repo]](https://github.com/juaneth/bot.dev) | 23.1.4 ⚠️ | 3y 5mo ago | which-electron-rg |
+| [Botclient](https://github.com/DarkGuy10/BotClient) [[repo]](https://github.com/DarkGuy10/BotClient) | 28.1.4 ⚠️ | 2y 6mo ago | which-electron-rg |
 | [Botframework Emulator](https://aka.ms/botemulator) | 13.6.1 ⚠️ | 4y 10mo ago | which-electron-rg |
 | [Botgem](https://botgem.com/) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
 | [BoxHero](https://www.boxhero-app.com) [[repo]](https://github.com/bgpworks/boxhero-electron) | 40.1.0 ⚠️ | 6mo ago | src-package-lock |
 | [Boxplayer](https://xbyvideohub.com/) | 40.10.6 ⚠️ | 1mo ago | which-electron-rg |
 | [Bradtunes](https://itsbrad.dev/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
-| [Branta](https://github.com/BrantaOps/branta-core) [[repo]](https://github.com/BrantaOps/branta-core) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
-| [Brim](https://www.brimsecurity.com) [[repo]](https://github.com/brimsec/brim) | 30.0.5 ⚠️ | 2y 2mo ago | src-yarn-lock |
+| [Branta](https://github.com/BrantaOps/branta-core) [[repo]](https://github.com/BrantaOps/branta-core) | 31.7.5 ⚠️ | 1y 8mo ago | which-electron-rg |
+| [Brim](https://www.brimsecurity.com) [[repo]](https://github.com/brimsec/brim) | 30.0.5 ⚠️ | 2y 3mo ago | src-yarn-lock |
 | [Brisqi](https://brisqi.com) | 40.8.3 ⚠️ | 4mo ago | aur-depends |
-| [Broadcast](https://github.com/Mobiz-Advanced-Technologies/Broadcast) [[repo]](https://github.com/Mobiz-Advanced-Technologies/Broadcast) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
+| [Broadcast](https://github.com/Mobiz-Advanced-Technologies/Broadcast) [[repo]](https://github.com/Mobiz-Advanced-Technologies/Broadcast) | 25.7.0 ⚠️ | 2y 11mo ago | which-electron-rg |
 | [Browser Manager](https://github.com/chenyk2016/Browser-Manager) [[repo]](https://github.com/chenyk2016/Browser-Manager) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
 | [Browserosaurus](https://github.com/will-stone/browserosaurus) [[repo]](https://github.com/will-stone/browserosaurus) | 33.0.1 ⚠️ | 1y 9mo ago | src-package-lock |
 | [Brs](https://github.com/lvcabral/brs-desktop) [[repo]](https://github.com/lvcabral/brs-desktop) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
 | [Bruno](https://www.usebruno.com/downloads) [[repo]](https://github.com/usebruno/bruno) | 37.6.1 ⚠️ | 9mo ago | which-electron-rg |
-| [Bsky](https://github.com/CaffeeLake/bsky-electron) [[repo]](https://github.com/CaffeeLake/bsky-electron) | 42.7.0 ⚠️ | 19d ago | aur-depends |
+| [Bsky](https://github.com/CaffeeLake/bsky-electron) [[repo]](https://github.com/CaffeeLake/bsky-electron) | 42.4.1 ⚠️ | 1mo ago | which-electron-rg |
 | [Buckets](https://www.budgetwithbuckets.com) | 26.6.7 ⚠️ | 2y 6mo ago | which-electron-rg |
 | [Budgeted UI](https://github.com/politicker/budgeted) [[repo]](https://github.com/politicker/budgeted) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
 | [Buka](https://github.com/oguzhaninan/Buka) [[repo]](https://github.com/oguzhaninan/Buka.git) | 1.6.3 ⚠️ | 9y 6mo ago | src-yarn-lock |
-| [Bulkurlopener](https://bulkurlopener.com/) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
-| [Burrow](https://www.brandonfowler.me/burrow/) | 36.9.5 ⚠️ | 9mo ago | aur-depends |
+| [Bulkurlopener](https://bulkurlopener.com/) | 19.0.4 ⚠️ | 4y 2mo ago | which-electron-rg |
+| [Burrow](https://www.brandonfowler.me/burrow/) | 36.2.0 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Buttercup](https://buttercup.pw) [[repo]](https://github.com/buttercup/buttercup-desktop) | 22.3.27 ⚠️ | 2y 10mo ago | src-package-lock |
 | [CBETA Reader 2 (Unofficial)](https://github.com/MrMYHuang/cbetar2) [[repo]](https://github.com/MrMYHuang/cbetar2) | 40.6.1 ⚠️ | 5mo ago | which-electron-rg |
 | [CNCjs](https://cnc.js.org/) [[repo]](https://github.com/cncjs/cncjs) | 22.0.3 ⚠️ | 3y 7mo ago | which-electron-rg |
@@ -202,26 +203,28 @@ Apps with detected Electron version: 1787 / 2090
 | [Cables](https://cables.gl/) [[repo]](https://github.com/cables-gl/cables_electron) | 31.7.3 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Cacher](https://www.cacher.io/) | 17.2.0 ⚠️ | 4y 5mo ago | which-electron-rg |
 | [Calmly Writer](https://www.calmlywriter.com) | 34.1.1 ⚠️ | 1y 6mo ago | which-electron-rg |
-| [Calt](https://github.com/CyrusCKF/translator) [[repo]](https://github.com/CyrusCKF/translator) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Calt](https://github.com/CyrusCKF/translator) [[repo]](https://github.com/CyrusCKF/translator) | 31.6.0 ⚠️ | 1y 11mo ago | which-electron-rg |
 | [Camunda Modeler](https://camunda.com/products/modeler/) [[repo]](https://github.com/camunda/camunda-modeler/) | 43.0.0 ⚠️ | 1mo ago | src-package-lock |
 | [Caprine](https://sindresorhus.com/caprine) [[repo]](https://github.com/sindresorhus/caprine) | 29.0.1 ⚠️ | 2y 5mo ago | which-electron-rg |
-| [Caprine Ng](https://github.com/Alex313031/caprine-ng) [[repo]](https://github.com/Alex313031/caprine-ng) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
+| [Caprine Ng](https://github.com/Alex313031/caprine-ng) [[repo]](https://github.com/Alex313031/caprine-ng) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Caption](https://getcaption.co/) [[repo]](https://github.com/gielcobben/caption) | 1.7.12 ⚠️ | 8y 7mo ago | which-electron-fingerprint |
+| [Caption Pro](https://caption-pro.com/) | 37.7.1 ⚠️ | 9mo ago | which-electron-rg |
+| [Cargo Messenger](https://www.cargo.lt/asp/software.asp) | 11.5.0 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [CashNotify](https://cashnotify.com) | 14.2.9 ⚠️ | 4y 4mo ago | which-electron-rg |
-| [Casterr](https://casterr.sbond.co/) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [Casterr](https://casterr.sbond.co/) | 28.0.0 ⚠️ | 2y 8mo ago | which-electron-rg |
 | [CatLight](https://catlight.io) | 19.0.8 ⚠️ | 4y 1mo ago | which-electron-rg |
-| [Catalystplus](https://www.researchercosmos.com/) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
-| [Catcat Dm React](https://github.com/kokolokksk/catcat-dm-react) [[repo]](https://github.com/kokolokksk/catcat-dm-react) | 23.3.13 ⚠️ | 3y ago | aur-depends |
+| [Catalystplus](https://www.researchercosmos.com/) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
+| [Catcat Dm React](https://github.com/kokolokksk/catcat-dm-react) [[repo]](https://github.com/kokolokksk/catcat-dm-react) | 23.3.11 ⚠️ | 3y ago | which-electron-rg |
 | [Cc Map Editor](https://github.com/CCDirectLink/crosscode-map-editor) [[repo]](https://github.com/CCDirectLink/crosscode-map-editor) | 38.2.0 ⚠️ | 10mo ago | src-package-lock |
 | [Ccae](https://developer.paciellogroup.com/color-contrast-checker/) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
-| [Ccsm](https://github.com/Jiahui-Gu/ccsm) [[repo]](https://github.com/Jiahui-Gu/ccsm) | 41.10.2 ⚠️ | 19d ago | aur-depends |
+| [Ccsm](https://github.com/Jiahui-Gu/ccsm) [[repo]](https://github.com/Jiahui-Gu/ccsm) | 41.3.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Cerebro](https://cerebroapp.com/) [[repo]](https://github.com/cerebroapp/cerebro) | 20.2.0 ⚠️ | 3y 11mo ago | which-electron-rg |
-| [Certbox](https://certbox.io/) | 36.9.5 ⚠️ | 9mo ago | aur-depends |
+| [Certbox](https://certbox.io/) | 36.2.1 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Cgdi](https://github.com/nullfuzz-pentest/CGDI) [[repo]](https://github.com/nullfuzz-pentest/CGDI) | 23.3.13 ⚠️ | 3y ago | aur-depends |
-| [Chain Desktop Wallet](https://crypto.com/defi-wallet) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
+| [Chain Desktop Wallet](https://crypto.com/defi-wallet) | 19.1.9 ⚠️ | 3y 8mo ago | which-electron-rg |
 | [Charta](https://lewixlabs.github.io/Charta) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
-| [Chat Overlay](https://github.com/laplace-live/chat-overlay) [[repo]](https://github.com/laplace-live/chat-overlay) | 42.7.0 ⚠️ | 19d ago | aur-depends |
-| [Chat2db](https://chat2db.ai/) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
+| [Chat Overlay](https://github.com/laplace-live/chat-overlay) [[repo]](https://github.com/laplace-live/chat-overlay) | 42.3.0 ⚠️ | 2mo ago | which-electron-rg |
+| [Chat2db](https://chat2db.ai/) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [ChatALL](https://github.com/ai-shifu/ChatALL) [[repo]](https://github.com/ai-shifu/ChatALL) | 33.4.11 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [ChatGPT](https://openai.com/chatgpt/desktop/) | 42.3.0 ⚠️ | 2mo ago | which-electron-asar-manifest |
 | [ChatGPT Atlas](https://chatgpt.com/atlas) | 42.3.0 ⚠️ | 2mo ago | which-electron-asar-manifest |
@@ -232,43 +235,43 @@ Apps with detected Electron version: 1787 / 2090
 | [Chatgptx](https://github.com/florindumitru/chatgpt-desktop-tray) [[repo]](https://github.com/florindumitru/chatgpt-desktop-tray) | 13.6.9 ⚠️ | 4y 6mo ago | which-electron-rg |
 | [Chatlab](https://github.com/ChatLab/ChatLab) [[repo]](https://github.com/ChatLab/ChatLab) | 35.7.5 ⚠️ | 11mo ago | which-electron-rg |
 | [Chatpad AI](https://chatpad.ai/) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
-| [Chatspot](https://github.com/gusye1234/chat-spot) [[repo]](https://github.com/gusye1234/chat-spot) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
-| [Chatterbox](https://github.com/ashtonrbox/Chatterbox) [[repo]](https://github.com/ashtonrbox/Chatterbox) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
+| [Chatspot](https://github.com/gusye1234/chat-spot) [[repo]](https://github.com/gusye1234/chat-spot) | 26.6.1 ⚠️ | 2y 8mo ago | which-electron-rg |
+| [Chatterbox](https://github.com/ashtonrbox/Chatterbox) [[repo]](https://github.com/ashtonrbox/Chatterbox) | 35.1.5 ⚠️ | 1y 4mo ago | which-electron-rg |
 | [Cheating Daddy](https://github.com/sohzm/cheating-daddy) [[repo]](https://github.com/sohzm/cheating-daddy) | 30.5.1 ⚠️ | 1y 10mo ago | src-package-lock |
-| [Chengla Linux Unofficial](https://github.com/pokon548/chengla-for-linux) [[repo]](https://github.com/pokon548/chengla-for-linux) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
+| [Chengla Linux Unofficial](https://github.com/pokon548/chengla-for-linux) [[repo]](https://github.com/pokon548/chengla-for-linux) | 27.0.0 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Cherry Studio](https://cherry-ai.com/) | 41.2.1 ⚠️ | 3mo ago | which-electron-rg |
 | [Chess](https://github.com/tkmxqrdxddd/chess-electron) [[repo]](https://github.com/tkmxqrdxddd/chess-electron) | 35.7.5 ⚠️ | 11mo ago | src-package-lock |
 | [Chia](https://www.chia.net/) | 39.8.5 ⚠️ | 4mo ago | which-electron-rg |
-| [Chirpity](https://chirpity.mattkirkland.co.uk/) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
-| [Chrolog](https://github.com/Lukylix/Chrolog-Legacy) [[repo]](https://github.com/Lukylix/Chrolog-Legacy) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
-| [Chrome Remote](https://github.com/mikepruett3/chrome-remote-desktop) [[repo]](https://github.com/mikepruett3/chrome-remote-desktop) | 23.3.13 ⚠️ | 3y ago | aur-depends |
+| [Chirpity](https://chirpity.mattkirkland.co.uk/) | 39.8.10 ⚠️ | 2mo ago | which-electron-rg |
+| [Chrolog](https://github.com/Lukylix/Chrolog-Legacy) [[repo]](https://github.com/Lukylix/Chrolog-Legacy) | 28.2.1 ⚠️ | 2y 6mo ago | which-electron-rg |
+| [Chrome Remote](https://github.com/mikepruett3/chrome-remote-desktop) [[repo]](https://github.com/mikepruett3/chrome-remote-desktop) | 23.3.12 ⚠️ | 3y ago | which-electron-rg |
 | [Chronos Timetracker](https://github.com/web-pal/chronos-timetracker) [[repo]](https://github.com/web-pal/chronos-timetracker) | 27.0.0 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Chrysalis](https://github.com/keyboardio/Chrysalis) [[repo]](https://github.com/keyboardio/Chrysalis) | 23.1.1 ⚠️ | 3y 5mo ago | which-electron-rg |
-| [Chunksize Checker](https://github.com/yuma-shintani/chunksize-checker) [[repo]](https://github.com/yuma-shintani/chunksize-checker) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Chunksize Checker](https://github.com/yuma-shintani/chunksize-checker) [[repo]](https://github.com/yuma-shintani/chunksize-checker) | 31.7.7 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Cider](https://cider.sh) [[repo]](https://github.com/ciderapp/Cider) | 32.2.6 ⚠️ | 1y 8mo ago | src-package-json |
-| [Ciliterm](https://github.com/ciliverse/ciliterm) [[repo]](https://github.com/ciliverse/ciliterm) | 36.9.5 ⚠️ | 9mo ago | aur-depends |
+| [Ciliterm](https://github.com/ciliverse/ciliterm) [[repo]](https://github.com/ciliverse/ciliterm) | 43.2.0 | 12d ago | which-electron-rg |
 | [Cinematic](http://gh.lacymorrow.com/cinematic/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
 | [Circle Chain](https://github.com/lidh04/circle-chain-desktop) [[repo]](https://github.com/lidh04/circle-chain-desktop) | 20.3.12 ⚠️ | 3y 6mo ago | aur-depends |
 | [Circuitjs](https://www.falstad.com/circuit/) | 27.0.0 ⚠️ | 2y 10mo ago | which-electron-rg |
-| [Clash Auto](https://clashr-auto.gitbook.io/) | 24.8.8 ⚠️ | 2y 10mo ago | aur-depends |
+| [Clash Auto](https://clashr-auto.gitbook.io/) | 24.8.8 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Claude](https://claude.ai/download) | 41.3.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Claude](https://claude.com/download) | 42.5.1 ⚠️ | 1mo ago | which-electron-rg |
 | [Clawd On Desk](https://github.com/rullerzhou-afk/clawd-on-desk) [[repo]](https://github.com/rullerzhou-afk/clawd-on-desk) | 41.10.2 ⚠️ | 19d ago | aur-depends |
 | [Clawx](https://clawx.com.cn/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
 | [ClickUp](https://clickup.com) | 41.2.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Clip Editor](https://github.com/sn0w12/clip-editor) [[repo]](https://github.com/sn0w12/clip-editor) | 36.2.1 ⚠️ | 1y 2mo ago | which-electron-rg |
-| [Clipharbor](https://github.com/yurentle/ClipHarbor) [[repo]](https://github.com/yurentle/ClipHarbor) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
+| [Clipharbor](https://github.com/yurentle/ClipHarbor) [[repo]](https://github.com/yurentle/ClipHarbor) | 35.0.3 ⚠️ | 1y 4mo ago | which-electron-rg |
 | [Clipper](https://github.com/AkashRajpurohit/clipper) [[repo]](https://github.com/AkashRajpurohit/clipper) | 8.5.2 ⚠️ | 5y 11mo ago | src-package-lock |
-| [Clippy](https://github.com/felixrieseberg/clippy) [[repo]](https://github.com/felixrieseberg/clippy) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
+| [Clippy](https://github.com/felixrieseberg/clippy) [[repo]](https://github.com/felixrieseberg/clippy) | 35.1.4 ⚠️ | 1y 4mo ago | which-electron-rg |
 | [Clippy Gemini](https://github.com/daedaevibin/clippy) [[repo]](https://github.com/daedaevibin/clippy) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
 | [CloudPouch](https://cloudpouch.dev/) [[repo]](https://github.com/CloudPouch/CloudPouch.dev) | 43.0.0 ⚠️ | 1mo ago | which-electron-rg |
-| [Cloudhub](https://www.yunzhijia.com) | 12.2.3 ⚠️ | 4y 9mo ago | aur-depends |
+| [Cloudhub](https://www.yunzhijia.com) | 12.2.3 ⚠️ | 4y 9mo ago | which-electron-rg |
 | [Clues](https://github.com/mucahit-sahin/CluesApp) [[repo]](https://github.com/mucahit-sahin/CluesApp) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
 | [Cmc Mod Manager](https://inferno214221.com/cmc-mod-manager) | 30.0.0 ⚠️ | 2y 3mo ago | which-electron-rg |
-| [Coal Launcher](https://bobuxstation.github.io/Coal-Web/launcher.html) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
+| [Coal Launcher](https://bobuxstation.github.io/Coal-Web/launcher.html) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Cocomusic](https://github.com/xtuJSer/CoCoMusic) [[repo]](https://github.com/xtuJSer/CoCoMusic) | 4.2.12 ⚠️ | 6y 10mo ago | aur-depends |
 | [Code](https://github.com/microsoft/vscode) [[repo]](https://github.com/microsoft/vscode) | 42.7.0 ⚠️ | 19d ago | src-package-lock |
-| [Code Notes](https://lauthieb.github.io/code-notes) | 8.5.5 ⚠️ | 5y 9mo ago | aur-depends |
+| [Code Notes](https://lauthieb.github.io/code-notes) | 8.2.5 ⚠️ | 6y 4mo ago | which-electron-fingerprint |
 | [CodeBuddy](https://www.codebuddy.ai/ide/) | 37.7.0 ⚠️ | 9mo ago | which-electron-rg |
 | [CodeBuddy CN](https://copilot.tencent.com/ide/) | 37.7.0 ⚠️ | 9mo ago | which-electron-rg |
 | [Codefuse IDE](https://codefuse.ai/) | 30.5.1 ⚠️ | 1y 10mo ago | aur-depends |
@@ -276,15 +279,15 @@ Apps with detected Electron version: 1787 / 2090
 | [Codex](https://openai.com/codex) | 42.1.0 ⚠️ | 2mo ago | which-electron-asar-manifest |
 | [Codex](https://www.codexnotes.com/) [[repo]](https://github.com/jcv8000/Codex) | 32.3.1 ⚠️ | 1y 5mo ago | src-pnpm-lock |
 | [Cohesion](https://github.com/brunofin/cohesion) [[repo]](https://github.com/brunofin/cohesion) | 42.5.0 ⚠️ | 1mo ago | src-package-lock |
-| [Coinstac](https://github.com/trendscenter/coinstac) [[repo]](https://github.com/trendscenter/coinstac) | 18.3.15 ⚠️ | 3y 10mo ago | aur-depends |
-| [Colanode](https://colanode.com/) [[repo]](https://github.com/colanode/colanode) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
-| [Colony Player](https://github.com/SynthKittenDev/Colony-Player) [[repo]](https://github.com/SynthKittenDev/Colony-Player) | 11.5.0 ⚠️ | 4y 11mo ago | aur-depends |
+| [Coinstac](https://github.com/trendscenter/coinstac) [[repo]](https://github.com/trendscenter/coinstac) | 18.3.15 ⚠️ | 3y 10mo ago | which-electron-rg |
+| [Colanode](https://colanode.com/) [[repo]](https://github.com/colanode/colanode) | 40.8.5 ⚠️ | 4mo ago | which-electron-rg |
+| [Colony Player](https://github.com/SynthKittenDev/Colony-Player) [[repo]](https://github.com/SynthKittenDev/Colony-Player) | 11.5.0 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [Colorpicker](https://colorpicker.fr) [[repo]](https://github.com/Toinane/colorpicker) | 38.2.0 ⚠️ | 10mo ago | src-package-lock |
 | [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) [[repo]](https://github.com/ThePacielloGroup/CCAe) | 35.7.5 ⚠️ | 11mo ago | which-electron-rg |
-| [Comate](https://comate.baidu.com) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Comate](https://comate.baidu.com) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
 | [Comet](https://comet.thavarshan.com/) | 32.0.1 ⚠️ | 1y 11mo ago | which-electron-rg |
 | [Comma Chameleon](https://comma-chameleon.io/) [[repo]](https://github.com/theodi/comma-chameleon) | 1.0.1 ⚠️ |  | which-electron-version_file |
-| [Commas](https://github.com/CyanSalt/commas) [[repo]](https://github.com/CyanSalt/commas) | 38.8.6 ⚠️ | 4mo ago | aur-depends |
+| [Commas](https://github.com/CyanSalt/commas) [[repo]](https://github.com/CyanSalt/commas) | 38.1.1 ⚠️ | 10mo ago | which-electron-rg |
 | [Compact Log Viewer](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) [[repo]](https://github.com/warrenbuckley/Compact-Log-Format-Viewer) | 22.0.0 ⚠️ | 3y 8mo ago | src-package-lock |
 | [Companion](https://github.com/brunurd/companion) [[repo]](https://github.com/brunurd/companion) | 11.5.0 ⚠️ | 4y 11mo ago | src-package-lock |
 | [Compasscad](https://github.com/zeankundev/CompassCAD) [[repo]](https://github.com/zeankundev/CompassCAD) | 35.7.0 ⚠️ | 1y 1mo ago | which-electron-rg |
@@ -292,51 +295,52 @@ Apps with detected Electron version: 1787 / 2090
 | [Comty](https://github.com/ragestudio/comty) [[repo]](https://github.com/ragestudio/comty) | 43.1.1 ⚠️ | 19d ago | aur-depends |
 | [Constl](https://appli.réseau-constellation.ca/) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
 | [Container PS](https://github.com/Toinane/container-ps) [[repo]](https://github.com/Toinane/container-ps) | 12.0.1 ⚠️ | 5y 5mo ago | src-package-lock |
-| [Converse](https://github.com/louisdecharson/converse) [[repo]](https://github.com/louisdecharson/converse) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
-| [Copicseal](https://github.com/copicseal/copicseal) [[repo]](https://github.com/copicseal/copicseal) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Converse](https://github.com/louisdecharson/converse) [[repo]](https://github.com/louisdecharson/converse) | 33.2.1 ⚠️ | 1y 8mo ago | which-electron-rg |
+| [Copicseal](https://github.com/copicseal/copicseal) [[repo]](https://github.com/copicseal/copicseal) | 31.7.3 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Copyman](http://www.atlantide-design.it/copyman) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
 | [Copytranslator](https://copytranslator.gitee.io/) | 4.0.4 ⚠️ | 7y 7mo ago | which-electron-rg |
 | [Cosbrowser](https://cloud.tencent.com) | 11.5.0 ⚠️ | 4y 11mo ago | aur-depends |
 | [Cozy Desktop](https://cozy.io/) [[repo]](https://github.com/cozy-labs/cozy-desktop) | 31.7.3 ⚠️ | 1y 9mo ago | src-yarn-lock |
-| [Cozy Overlay](https://github.com/puff-dayo/cozydeco-overlay) [[repo]](https://github.com/puff-dayo/cozydeco-overlay) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
-| [Crankshaft Client](https://github.com/KraXen72/crankshaft) [[repo]](https://github.com/KraXen72/crankshaft) | 12.0.0 ⚠️ | 5y 5mo ago | which-electron-rg |
+| [Cozy Overlay](https://github.com/puff-dayo/cozydeco-overlay) [[repo]](https://github.com/puff-dayo/cozydeco-overlay) | 33.2.1 ⚠️ | 1y 8mo ago | which-electron-rg |
+| [Crankshaft Client](https://github.com/KraXen72/crankshaft) [[repo]](https://github.com/KraXen72/crankshaft) | 12.0.0 ⚠️ | 5y 6mo ago | which-electron-rg |
 | [Craze](https://github.com/craze-app/craze) [[repo]](https://github.com/craze-app/craze) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
-| [Creamplayer](https://github.com/Beadd/Creamplayer) [[repo]](https://github.com/Beadd/Creamplayer) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
+| [Creamplayer](https://github.com/Beadd/Creamplayer) [[repo]](https://github.com/Beadd/Creamplayer) | 33.2.1 ⚠️ | 1y 8mo ago | which-electron-rg |
 | [Cribarth Music Player](https://github.com/glanyrafon01/cribarth-music-player) [[repo]](https://github.com/glanyrafon01/cribarth-music-player) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
-| [Cro Chain](https://github.com/crypto-com/chain-desktop-wallet) [[repo]](https://github.com/crypto-com/chain-desktop-wallet) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
+| [Cro Chain](https://github.com/crypto-com/chain-desktop-wallet) [[repo]](https://github.com/crypto-com/chain-desktop-wallet) | 19.1.9 ⚠️ | 3y 8mo ago | which-electron-rg |
 | [Crossover Overlay](https://github.com/lacymorrow/crossover) [[repo]](https://github.com/lacymorrow/crossover) | 14.2.9 ⚠️ | 4y 4mo ago | which-electron-rg |
 | [Cryptique](https://github.com/truethari/Cryptique) [[repo]](https://github.com/truethari/Cryptique) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
 | [CryptoARM GOST](https://cryptoarm.ru/cryptoarm-gost/) [[repo]](https://github.com/TrustedRu/CryptoARMGOST) | 7.1.13 ⚠️ | 6y 6mo ago | src-package-lock |
-| [Csgo Checker](https://github.com/dumbasPL/csgo-checker) [[repo]](https://github.com/dumbasPL/csgo-checker) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
-| [Ctool](https://ctool.dev) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
-| [Cuby](https://github.com/Cuby-Project/Cuby-Client) [[repo]](https://github.com/Cuby-Project/Cuby-Client) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
-| [Cubytext](https://github.com/vincentdchan/CubyText) [[repo]](https://github.com/vincentdchan/CubyText) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
+| [Csgo Checker](https://github.com/dumbasPL/csgo-checker) [[repo]](https://github.com/dumbasPL/csgo-checker) | 25.5.0 ⚠️ | 3y ago | which-electron-rg |
+| [Ctool](https://ctool.dev) | 26.1.0 ⚠️ | 2y 11mo ago | which-electron-rg |
+| [Cuby](https://github.com/Cuby-Project/Cuby-Client) [[repo]](https://github.com/Cuby-Project/Cuby-Client) | 26.3.0 ⚠️ | 2y 10mo ago | which-electron-rg |
+| [Cubytext](https://github.com/vincentdchan/CubyText) [[repo]](https://github.com/vincentdchan/CubyText) | 19.0.10 ⚠️ | 4y ago | which-electron-rg |
 | [Currency Converter](https://github.com/manxlr/currency-converter) [[repo]](https://github.com/manxlr/currency-converter) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
 | [CurseForge](https://curseforge.overwolf.com/) | 39.6.1 ⚠️ | 5mo ago | which-electron-rg |
 | [Cursor](https://cursor.com/downloads) | 40.10.3 ⚠️ | 1mo ago | which-electron-rg |
-| [Cutrail](https://github.com/sabinmarcu/cutrail) [[repo]](https://github.com/sabinmarcu/cutrail) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
-| [Cuttletron](https://github.com/mantzaris/cuttleTron) [[repo]](https://github.com/mantzaris/cuttleTron) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
+| [Cutrail](https://github.com/sabinmarcu/cutrail) [[repo]](https://github.com/sabinmarcu/cutrail) | 37.10.3 ⚠️ | 8mo ago | which-electron-rg |
+| [Cuttletron](https://github.com/mantzaris/cuttleTron) [[repo]](https://github.com/mantzaris/cuttleTron) | 27.3.11 ⚠️ | 2y 3mo ago | which-electron-rg |
 | [Cycode](https://github.com/magayagalabs/CyCode) [[repo]](https://github.com/magayagalabs/CyCode) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [D0phamine Music Player](https://github.com/d0phamine/d0phamine-music-player) [[repo]](https://github.com/d0phamine/d0phamine-music-player) | 34.0.2 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [DBGlass](http://dbglass.web-pal.com) [[repo]](https://github.com/web-pal/DBGlass) | 1.4.4 ⚠️ | 9y 11mo ago | which-electron-version_file |
 | [DarkJ](https://github.com/Yamazaki93/DarkJ-Release) | 2.0.5 ⚠️ | 8y 2mo ago | which-electron-fingerprint |
-| [Darkorbit Client](https://github.com/kaiserdj/Darkorbit-client) [[repo]](https://github.com/kaiserdj/Darkorbit-client) | 11.5.0 ⚠️ | 4y 11mo ago | aur-depends |
+| [Darkorbit Client](https://github.com/kaiserdj/Darkorbit-client) [[repo]](https://github.com/kaiserdj/Darkorbit-client) | 11.5.0 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [Darkwrite](https://github.com/astudentinearth/darkwrite) [[repo]](https://github.com/astudentinearth/darkwrite) | 42.7.0 ⚠️ | 19d ago | aur-depends |
 | [Dartsmate](https://github.com/derechtenap/dartsmate) [[repo]](https://github.com/derechtenap/dartsmate) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
-| [Dash Player](https://dash-player.solidspoon.xyz/) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Dash Player](https://dash-player.solidspoon.xyz/) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
+| [Dashy](https://dashy.futureglobe.de/) | 5.0.1 ⚠️ | 7y 4mo ago | which-electron-fingerprint |
 | [Dat](https://datproject.org) [[repo]](https://github.com/datproject/dat-desktop) | 8.0.1 ⚠️ | 6y 6mo ago | src-package-lock |
 | [Data Peek](https://www.datapeek.dev/) | 38.8.6 ⚠️ | 4mo ago | aur-depends |
 | [Data Pixels Playground](https://github.com/gmattie/Data-Pixels) [[repo]](https://github.com/gmattie/Data-Pixels) | 3.0.10 ⚠️ | 7y 9mo ago | src-package-lock |
-| [Data Works](https://github.com/alexaib2002/project-dataworks_base) [[repo]](https://github.com/alexaib2002/project-dataworks_base) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
+| [Data Works](https://github.com/alexaib2002/project-dataworks_base) [[repo]](https://github.com/alexaib2002/project-dataworks_base) | 21.4.4 ⚠️ | 3y 4mo ago | which-electron-rg |
 | [Data-Forge Notebook](https://www.data-forge-notebook.com/) | 27.1.2 ⚠️ | 2y 8mo ago | which-electron-rg |
-| [Database Kit](https://github.com/zhuyongqi-master/database-kit) [[repo]](https://github.com/zhuyongqi-master/database-kit) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Database Kit](https://github.com/zhuyongqi-master/database-kit) [[repo]](https://github.com/zhuyongqi-master/database-kit) | 31.7.6 ⚠️ | 1y 8mo ago | which-electron-rg |
 | [Dataiku Data Science Studio](https://www.dataiku.com/) | 36.1.0 ⚠️ | 1y 3mo ago | which-electron-rg |
-| [Dataset Editor](https://github.com/Jelosus2/DatasetEditor) [[repo]](https://github.com/Jelosus2/DatasetEditor) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Dataset Editor](https://github.com/Jelosus2/DatasetEditor) [[repo]](https://github.com/Jelosus2/DatasetEditor) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
 | [Datasette](https://datasette.io/desktop) [[repo]](https://github.com/simonw/datasette-app) | 20.1.3 ⚠️ | 3y 11mo ago | which-electron-rg |
 | [Datazenit](https://datazenit.com) | 0.37.8 ⚠️ |  | which-electron-version_file |
-| [Datefile](https://github.com/kna40/DateFile) [[repo]](https://github.com/kna40/DateFile) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
+| [Datefile](https://github.com/kna40/DateFile) [[repo]](https://github.com/kna40/DateFile) | 25.0.1 ⚠️ | 3y 2mo ago | which-electron-rg |
 | [DbGate](https://dbgate.org) [[repo]](https://github.com/dbgate/dbgate) | 38.6.0 ⚠️ | 8mo ago | src-yarn-lock |
-| [Dbptk](https://github.com/keeps/dbptk-desktop) [[repo]](https://github.com/keeps/dbptk-desktop) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
+| [Dbptk](https://github.com/keeps/dbptk-desktop) [[repo]](https://github.com/keeps/dbptk-desktop) | 34.5.8 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Deadbolt](https://github.com/alichtman/deadbolt) [[repo]](https://github.com/alichtman/deadbolt) | 31.7.7 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Debugtron](https://github.com/bytedance/debugtron) [[repo]](https://github.com/bytedance/debugtron) | 31.2.0 ⚠️ | 2y 1mo ago | src-yarn-lock |
 | [DeckMaster](https://theotterlord.github.io/deckmaster) [[repo]](https://github.com/TheOtterlord/deckmaster) | 11.2.3 ⚠️ | 5y 6mo ago | src-package-lock |
@@ -351,24 +355,24 @@ Apps with detected Electron version: 1787 / 2090
 | [Deezer](https://www.deezer.com/) | 41.10.2 ⚠️ | 19d ago | aur-depends |
 | [Deezer Discord Rpc](https://github.com/JustYuuto/deezer-discord-rpc) [[repo]](https://github.com/JustYuuto/deezer-discord-rpc) | 42.7.0 ⚠️ | 19d ago | src-range-guess |
 | [Deezer Enhanced](https://github.com/duzda/deezer-enhanced) [[repo]](https://github.com/duzda/deezer-enhanced) | 37.10.3 ⚠️ | 8mo ago | which-electron-rg |
-| [Defi Wallet](https://defichain.com/) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
+| [Defi Wallet](https://defichain.com/) | 27.3.8 ⚠️ | 2y 4mo ago | which-electron-rg |
 | [Descript](https://www.descript.com) | 20.0.2 ⚠️ | 4y ago | which-electron-rg |
 | [Deskaide](https://github.com/deskaide/deskaide) [[repo]](https://github.com/deskaide/deskaide) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
-| [Deskcal](https://github.com/cognophile/Deskcal) [[repo]](https://github.com/cognophile/Deskcal) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
-| [Deskgpt](https://github.com/0x11c11e/DeskGPT) [[repo]](https://github.com/0x11c11e/DeskGPT) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
+| [Deskcal](https://github.com/cognophile/Deskcal) [[repo]](https://github.com/cognophile/Deskcal) | 13.6.6 ⚠️ | 4y 7mo ago | which-electron-rg |
+| [Deskgpt](https://github.com/0x11c11e/DeskGPT) [[repo]](https://github.com/0x11c11e/DeskGPT) | 26.1.0 ⚠️ | 2y 11mo ago | which-electron-rg |
 | [Desktop Naotu](https://github.com/NaoTu/DesktopNaotu) [[repo]](https://github.com/NaoTu/DesktopNaotu) | 3.0.10 ⚠️ | 7y 9mo ago | which-electron-version_file |
-| [Desktop Notifier](https://github.com/maxgfr/desktop-notifier) [[repo]](https://github.com/maxgfr/desktop-notifier) | 23.3.13 ⚠️ | 3y ago | aur-depends |
+| [Desktop Notifier](https://github.com/maxgfr/desktop-notifier) [[repo]](https://github.com/maxgfr/desktop-notifier) | 23.3.3 ⚠️ | 3y 3mo ago | which-electron-rg |
 | [Desktop Schedule](https://github.com/TimFang4162/desktop-schedule) [[repo]](https://github.com/TimFang4162/desktop-schedule) | 16.2.8 ⚠️ | 4y 3mo ago | aur-depends |
 | [Desktop Wakatime](https://wakatime.com/windows) | 32.0.0 ⚠️ | 1y 11mo ago | which-electron-rg |
-| [Dev Sidecar](https://github.com/docmirror/dev-sidecar) [[repo]](https://github.com/docmirror/dev-sidecar) | 41.10.2 ⚠️ | 19d ago | aur-depends |
+| [Dev Sidecar](https://github.com/docmirror/dev-sidecar) [[repo]](https://github.com/docmirror/dev-sidecar) | 41.3.0 ⚠️ | 3mo ago | which-electron-rg |
 | [DevHub](https://github.com/devhubapp/devhub) [[repo]](https://github.com/devhubapp/devhub) | 11.0.3 ⚠️ | 5y 9mo ago | src-yarn-lock |
 | [DevKinsta](https://devkinsta.com/) | 26.6.1 ⚠️ | 2y 8mo ago | which-electron-rg |
 | [Devin Desktop Next](https://docs.devin.ai) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
 | [Devkitty](https://devkitty.app/) | 41.10.2 ⚠️ | 19d ago | aur-depends |
-| [Dhis2 Downloader](https://github.com/worldbank/DHIS2-Downloader) [[repo]](https://github.com/worldbank/DHIS2-Downloader) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
+| [Dhis2 Downloader](https://github.com/worldbank/DHIS2-Downloader) [[repo]](https://github.com/worldbank/DHIS2-Downloader) | 40.6.1 ⚠️ | 5mo ago | which-electron-rg |
 | [Dialogcraft](https://github.com/Hayden2018/dialogcraft) [[repo]](https://github.com/Hayden2018/dialogcraft) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
 | [Dialpad](https://dialpad.com/download) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
-| [Dicionario.js](https://github.com/ArthurLobopro/dicionario.js) [[repo]](https://github.com/ArthurLobopro/dicionario.js) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [Dicionario.js](https://github.com/ArthurLobopro/dicionario.js) [[repo]](https://github.com/ArthurLobopro/dicionario.js) | 28.0.0 ⚠️ | 2y 8mo ago | which-electron-rg |
 | [Dict](https://goo.gl/tVdhAB) [[repo]](https://github.com/bryht/Dict) | 33.4.11 ⚠️ | 1y 3mo ago | src-package-lock |
 | [Dida](https://dida365.com/home) [[repo]](https://github.com/jialeens/dida) | 9.4.4 ⚠️ | 5y 5mo ago | src-range-guess |
 | [Differon](https://github.com/wolfdenpublishing/differon) [[repo]](https://github.com/wolfdenpublishing/differon) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
@@ -475,7 +479,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Evernote For Linux](https://github.com/search5/Evernote-for-Linux) [[repo]](https://github.com/search5/Evernote-for-Linux) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
 | [Everytime](https://github.com/kiprobinson/everytime) [[repo]](https://github.com/kiprobinson/everytime) | 42.7.0 ⚠️ | 19d ago | aur-depends |
 | [Excel Parser Processor](https://github.com/btargac/excel-parser-processor) [[repo]](https://github.com/btargac/excel-parser-processor) | 17.0.0 ⚠️ | 4y 6mo ago | src-package-lock |
-| [ExifCleaner](https://exifcleaner.com) [[repo]](https://github.com/szTheory/exifcleaner) | 35.7.5 ⚠️ | 11mo ago | src-yarn-lock |
+| [ExifCleaner](https://exifcleaner.com) [[repo]](https://github.com/szTheory/exifcleaner) | 43.2.0 | 12d ago | src-yarn-lock |
 | [Exiled Exchange 2](https://kvan7.github.io/Exiled-Exchange-2/download) | 40.10.2 ⚠️ | 2mo ago | which-electron-rg |
 | [Exodus](https://www.exodus.com) | 41.0.3 ⚠️ | 4mo ago | which-electron-rg |
 | [Expertisex](https://expertisex.vercel.app/) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
@@ -511,7 +515,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Final2x](https://github.com/Chaoses-Ib/Final2x) [[repo]](https://github.com/Chaoses-Ib/Final2x) | 27.3.11 ⚠️ | 2y 3mo ago | which-electron-rg |
 | [Finance Manager](https://github.com/programmingKyle/finance-manager) [[repo]](https://github.com/programmingKyle/finance-manager) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
 | [Fireblocks Recovery Utility](https://www.fireblocks.com/) | 21.4.4 ⚠️ | 3y 4mo ago | aur-depends |
-| [Firecamp](https://firecamp.io/download) | 12.0.0 ⚠️ | 5y 5mo ago | which-electron-rg |
+| [Firecamp](https://firecamp.io/download) | 12.0.0 ⚠️ | 5y 6mo ago | which-electron-rg |
 | [Firefly (IOTA)](https://firefly.iota.org/) [[repo]](https://github.com/iotaledger/firefly) | 27.0.2 ⚠️ | 2y 9mo ago | which-electron-rg |
 | [Firetail](https://github.com/kawuchuu/firetail) [[repo]](https://github.com/kawuchuu/firetail) | 41.10.2 ⚠️ | 19d ago | aur-depends |
 | [Fishing Funds](https://ff.1zilc.top) [[repo]](https://github.com/1zilc/fishing-funds) | 40.0.0 ⚠️ | 6mo ago | src-pnpm-lock |
@@ -1372,7 +1376,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Smpl](https://github.com/ElianGroff/smpl) [[repo]](https://github.com/ElianGroff/smpl) | 32.3.3 ⚠️ | 1y 5mo ago | aur-depends |
 | [SnailFM](https://snaildos.com/snailfm) [[repo]](https://github.com/snaildos/SnailFM-Application) | 25.2.0 ⚠️ | 3y 1mo ago |  |
 | [Snapmail](https://github.com/glassbeadsoftware/snapmail) [[repo]](https://github.com/glassbeadsoftware/snapmail) | 19.1.9 ⚠️ | 3y 8mo ago | aur-depends |
-| [SnipCommand](https://github.com/gurayyarar/SnipCommand) [[repo]](https://github.com/gurayyarar/SnipCommand) | 9.3.0 ⚠️ | 5y 11mo ago | src-yarn-lock |
+| [SnipCommand](https://github.com/gurayyarar/SnipCommand) [[repo]](https://github.com/gurayyarar/SnipCommand) | 9.3.0 ⚠️ | 6y ago | src-yarn-lock |
 | [Snippai](https://sn.lovable.app/) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
 | [Snippet Notes](https://github.com/xunxun10/snippet-notes) [[repo]](https://github.com/xunxun10/snippet-notes) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
 | [Snippet Store](https://zerox-dg.github.io/SnippetStoreWeb/) [[repo]](https://github.com/ZeroX-DG/SnippetStore) | 1.8.8 ⚠️ | 8y ago | src-package-lock |
@@ -1479,7 +1483,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Tasker Permissions](https://github.com/joaomgcd/Tasker-Permissions) [[repo]](https://github.com/joaomgcd/Tasker-Permissions) | 13.6.9 ⚠️ | 4y 6mo ago | which-electron-fingerprint |
 | [Tcgtools](https://github.com/Kazbonfim/tcgtools) [[repo]](https://github.com/Kazbonfim/tcgtools) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
 | [Teamide](https://github.com/team-ide/teamide) [[repo]](https://github.com/team-ide/teamide) | 22.0.1 ⚠️ | 3y 7mo ago | which-electron-rg |
-| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) [[repo]](https://github.com/IsmaelMartinez/teams-for-linux) | 42.5.0 ⚠️ | 1mo ago | src-package-lock |
+| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) [[repo]](https://github.com/IsmaelMartinez/teams-for-linux) | 42.7.0 ⚠️ | 19d ago | src-package-lock |
 | [Teamwork](https://integrations.teamwork.com/integrations/teamwork-projects-desktop/) | 26.6.10 ⚠️ | 2y 5mo ago | aur-depends |
 | [Telegram A](https://web.telegram.org/a/get/) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Ten Hands](https://tenhands.app) [[repo]](https://github.com/saisandeepvaddi/ten-hands) | 11.2.0 ⚠️ | 5y 7mo ago | src-yarn-lock |
@@ -1536,7 +1540,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Transee](https://alessioforte.github.io/transee/) [[repo]](https://github.com/alessioforte/transee) | 18.2.0 ⚠️ | 4y 3mo ago | src-package-lock |
 | [Transformerlab](https://transformerlab.ai/) | 26.6.10 ⚠️ | 2y 5mo ago | which-electron-rg |
 | [Translationcore](https://www.translationcore.com/) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
-| [Transmissionic](https://github.com/6c65726f79/Transmissionic) [[repo]](https://github.com/6c65726f79/Transmissionic) | 23.3.13 ⚠️ | 3y ago | aur-depends |
+| [Transmissionic](https://github.com/6c65726f79/Transmissionic) [[repo]](https://github.com/6c65726f79/Transmissionic) | 23.1.3 ⚠️ | 3y 5mo ago | which-electron-rg |
 | [Tray Link](https://github.com/thejoaov/tray-link) [[repo]](https://github.com/thejoaov/tray-link) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
 | [Trello](https://trello.com) | 17.4.11 ⚠️ | 4y ago | aur-depends |
 | [Treo](https://github.com/Your-Ehsan/Treo) [[repo]](https://github.com/Your-Ehsan/Treo) | 35.7.5 ⚠️ | 11mo ago | aur-depends |
@@ -1560,7 +1564,7 @@ Apps with detected Electron version: 1787 / 2090
 | [UBports Installer](https://ubports.com/) [[repo]](https://github.com/ubports/ubports-installer) | 33.4.11 ⚠️ | 1y 3mo ago | src-package-lock |
 | [UI Tars](https://github.com/bytedance/UI-TARS-desktop) [[repo]](https://github.com/bytedance/UI-TARS-desktop) | 34.1.1 ⚠️ | 1y 6mo ago | which-electron-rg |
 | [Udeler](https://github.com/heliomarpm/udemy-downloader-gui) [[repo]](https://github.com/heliomarpm/udemy-downloader-gui) | 11.5.0 ⚠️ | 4y 11mo ago | aur-depends |
-| [Udeler Pro](https://github.com/rsathishtechit/udeler-pro) [[repo]](https://github.com/rsathishtechit/udeler-pro) | 24.8.8 ⚠️ | 2y 10mo ago | aur-depends |
+| [Udeler Pro](https://github.com/rsathishtechit/udeler-pro) [[repo]](https://github.com/rsathishtechit/udeler-pro) | 24.1.2 ⚠️ | 3y 4mo ago | which-electron-rg |
 | [Ugonlinemusicplayer](https://github.com/uguang2003/UGOnlineMusicPlayer) [[repo]](https://github.com/uguang2003/UGOnlineMusicPlayer) | 29.4.6 ⚠️ | 1y 11mo ago | aur-depends |
 | [Uivonim](https://github.com/smolck/uivonim) [[repo]](https://github.com/smolck/uivonim) | 15.3.0 ⚠️ | 4y 10mo ago | src-package-lock |
 | [Ultra Tracker](https://github.com/barcradio/ultra-tracker) [[repo]](https://github.com/barcradio/ultra-tracker) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
@@ -1569,7 +1573,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Unofficial Google Chat App](https://github.com/ankurk91/google-chat-electron) [[repo]](https://github.com/ankurk91/google-chat-electron) | 21.3.1 ⚠️ | 3y 8mo ago | src-pnpm-lock |
 | [Unofficial Zalo](https://github.com/SafeStudio/unofficial-zalo) [[repo]](https://github.com/SafeStudio/unofficial-zalo) | 5.0.13 ⚠️ | 6y 8mo ago | src-range-guess |
 | [Unreallauncher](https://github.com/unh0lyalexzero/Unreal-Launcher) [[repo]](https://github.com/unh0lyalexzero/Unreal-Launcher) | 43.1.1 ⚠️ | 19d ago | aur-depends |
-| [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) [[repo]](https://github.com/soroushchehresa/unsplash-wallpapers) | 8.5.5 ⚠️ | 5y 9mo ago | aur-depends |
+| [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) [[repo]](https://github.com/soroushchehresa/unsplash-wallpapers) | 8.5.5 ⚠️ | 5y 9mo ago | which-electron-fingerprint |
 | [Up2share](https://up2sha.re/desktop) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [Upscayl](https://upscayl.org/) [[repo]](https://github.com/upscayl/upscayl) | 27.3.10 ⚠️ | 2y 4mo ago | src-package-lock |
 | [Upupup](https://github.com/unclemcz/upupup) [[repo]](https://github.com/unclemcz/upupup) | 32.3.3 ⚠️ | 1y 5mo ago | aur-depends |
@@ -1584,7 +1588,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Valhalla](https://akrck02.github.io/#/software/valhalla) | 18.3.15 ⚠️ | 3y 10mo ago | aur-depends |
 | [Vega Video Editor](https://github.com/toshusai/Vega) [[repo]](https://github.com/toshusai/Vega) | 13.6.9 ⚠️ | 4y 6mo ago | aur-depends |
 | [Venom86](https://github.com/Qrodex/venom86) [[repo]](https://github.com/Qrodex/venom86) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
-| [Vesktop Wayafknext](https://github.com/Vencord/Vesktop) [[repo]](https://github.com/Vencord/Vesktop) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
+| [Vesktop Wayafknext](https://github.com/Vencord/Vesktop) [[repo]](https://github.com/Vencord/Vesktop) | 40.4.0 ⚠️ | 5mo ago | which-electron-rg |
 | [Via](https://github.com/cebby2420/via-desktop) [[repo]](https://github.com/cebby2420/via-desktop) | 33.0.1 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Vibeyard](https://github.com/elirantutia/vibeyard) [[repo]](https://github.com/elirantutia/vibeyard) | 41.10.2 ⚠️ | 19d ago | aur-depends |
 | [Vic Diary](https://vic-diary.netlify.app/) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
@@ -1610,13 +1614,13 @@ Apps with detected Electron version: 1787 / 2090
 | [Vrc Photo Viewer](https://github.com/vayacico/vrc-photo-viewer) [[repo]](https://github.com/vayacico/vrc-photo-viewer) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
 | [Vrcx](https://vrcx.app/) [[repo]](https://github.com/vrcx-team/VRCX) | 40.4.1 ⚠️ | 5mo ago | src-package-lock |
 | [Vscode Bookmark](https://github.com/ailtonloures/vscode-bookmark) [[repo]](https://github.com/ailtonloures/vscode-bookmark) | 41.10.2 ⚠️ | 19d ago | aur-depends |
-| [Vscodius](https://github.com/RubisetCie/vscodius) [[repo]](https://github.com/RubisetCie/vscodius) | 34.5.8 ⚠️ | 1y 2mo ago | aur-depends |
+| [Vscodius](https://github.com/RubisetCie/vscodius) [[repo]](https://github.com/RubisetCie/vscodius) | 34.2.0 ⚠️ | 1y 5mo ago | which-electron-rg |
 | [VuPC](https://github.com/machester4/vupc) [[repo]](https://github.com/machester4/vupc) | 9.2.1 ⚠️ | 6y ago | src-yarn-lock |
 | [Vudit](https://github.com/praharshjain/Vudit-Desktop) [[repo]](https://github.com/praharshjain/Vudit-Desktop) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
 | [Vue Calc](https://github.com/el3um4s/vue-calc) [[repo]](https://github.com/el3um4s/vue-calc) | 1.8.3 ⚠️ | 8y 6mo ago | src-package-lock |
 | [Vulpecula Loom](https://ejfox.github.io/vulpecula-loom/) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
 | [Vulpidl](https://github.com/d-ord/vulpidl) [[repo]](https://github.com/d-ord/vulpidl) | 35.7.5 ⚠️ | 11mo ago | src-package-lock |
-| [Vutronmusic](https://github.com/stark81/VutronMusic) [[repo]](https://github.com/stark81/VutronMusic) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
+| [Vutronmusic](https://github.com/stark81/VutronMusic) [[repo]](https://github.com/stark81/VutronMusic) | 37.10.3 ⚠️ | 8mo ago | which-electron-rg |
 | [Vysor](https://www.vysor.io/) [[repo]](https://github.com/koush/vysor.io) | 24.3.0 ⚠️ | 3y 3mo ago | which-electron-rg |
 | [WAIL](https://github.com/N0taN3rd/wail) [[repo]](https://github.com/N0taN3rd/wail) | 1.7.3 ⚠️ | 9y 3mo ago | src-yarn-lock |
 | [Wai Chat](https://github.com/ptp-build/wai-chat-desktop) [[repo]](https://github.com/ptp-build/wai-chat-desktop) | 24.8.8 ⚠️ | 2y 10mo ago | aur-depends |
@@ -1624,7 +1628,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Wallet Recovery Wizard](https://github.com/BitGo/wallet-recovery-wizard) [[repo]](https://github.com/BitGo/wallet-recovery-wizard) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
 | [Wanna Class](https://github.com/MissterHao/WannaClass) [[repo]](https://github.com/MissterHao/WannaClass) | 12.2.3 ⚠️ | 4y 9mo ago | src-range-guess |
 | [Wave Terminal](https://www.waveterm.dev/) [[repo]](https://github.com/wavetermdev/waveterm) | 41.1.0 ⚠️ | 4mo ago | which-electron-rg |
-| [Wavy](https://github.com/novrain/wavy) [[repo]](https://github.com/novrain/wavy) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [Wavy](https://github.com/novrain/wavy) [[repo]](https://github.com/novrain/wavy) | 28.0.0 ⚠️ | 2y 8mo ago | which-electron-rg |
 | [Weakauras Companion](https://weakauras.wtf/) | 40.1.0 ⚠️ | 6mo ago | which-electron-rg |
 | [WebCatalog](https://webcatalog.io) | 41.0.4 ⚠️ | 4mo ago | which-electron-rg |
 | [WebCord](https://github.com/SpacingBat3/WebCord) [[repo]](https://github.com/SpacingBat3/WebCord) | 43.1.0 ⚠️ | 26d ago | which-electron-rg |
@@ -1632,7 +1636,7 @@ Apps with detected Electron version: 1787 / 2090
 | [WebKitty](https://yikuansun.github.io/dartfling/product.html?pid=3) [[repo]](https://github.com/yikuansun/webkitty) | 17.4.11 ⚠️ | 4y ago | src-range-guess |
 | [WebTorrent](https://webtorrent.io/) [[repo]](https://github.com/webtorrent/webtorrent-desktop) | 10.1.0 ⚠️ | 6y ago | src-package-lock |
 | [Webcam Glass](https://github.com/jersonlatorre/webcam-glass-app) [[repo]](https://github.com/jersonlatorre/webcam-glass-app) | 9.4.4 ⚠️ | 5y 5mo ago | aur-depends |
-| [Webeep Sync](https://github.com/toto04/webeep-sync) [[repo]](https://github.com/toto04/webeep-sync) | 22.3.27 ⚠️ | 2y 10mo ago | aur-depends |
+| [Webeep Sync](https://github.com/toto04/webeep-sync) [[repo]](https://github.com/toto04/webeep-sync) | 22.3.21 ⚠️ | 3y ago | which-electron-rg |
 | [Webkiosk-Wrapper](https://github.com/ngudbhav/Webkiosk-Wrapper) | 5.0.2 ⚠️ | 7y 3mo ago | src-package-lock |
 | [Webp Converter](https://github.com/HarrisonWang/webp-converter) [[repo]](https://github.com/HarrisonWang/webp-converter) | 33.4.11 ⚠️ | 1y 3mo ago | aur-depends |
 | [Webs Tray](https://github.com/symant233/WebsTray) [[repo]](https://github.com/symant233/WebsTray) | 41.10.2 ⚠️ | 19d ago | aur-depends |
@@ -1643,7 +1647,7 @@ Apps with detected Electron version: 1787 / 2090
 | Wexond [[repo]](https://github.com/wexond/wexond) | 11.2.3 ⚠️ | 5y 6mo ago | src-yarn-lock |
 | [Whale](https://github.com/1000ch/whale) [[repo]](https://github.com/1000ch/whale) | 42.0.1 ⚠️ | 2mo ago | src-package-lock |
 | [Whalebird](https://whalebird.social/) | 39.8.7 ⚠️ | 3mo ago | which-electron-rg |
-| [Whatstron](https://github.com/murilopereirame/Whatstron) [[repo]](https://github.com/murilopereirame/Whatstron) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
+| [Whatstron](https://github.com/murilopereirame/Whatstron) [[repo]](https://github.com/murilopereirame/Whatstron) | 28.1.4 ⚠️ | 2y 6mo ago | which-electron-rg |
 | [Whisperpix](https://github.com/graham-walker/WhisperPix) [[repo]](https://github.com/graham-walker/WhisperPix) | 23.3.13 ⚠️ | 3y ago | aur-depends |
 | [Windows 95](https://github.com/felixrieseberg/windows95) [[repo]](https://github.com/felixrieseberg/windows95) | 41.2.0 ⚠️ | 3mo ago | src-package-lock |
 | [Winkey](https://github.com/BeastCodZ/WinKey) [[repo]](https://github.com/BeastCodZ/WinKey) | 32.3.3 ⚠️ | 1y 5mo ago | aur-depends |
@@ -1657,11 +1661,11 @@ Apps with detected Electron version: 1787 / 2090
 | [Wolai](https://www.wolai.com) | 22.3.7 ⚠️ | 3y 3mo ago | which-electron-rg |
 | [Woocommerce Pos](https://github.com/wcpos/electron) [[repo]](https://github.com/wcpos/electron) | 30.5.1 ⚠️ | 1y 10mo ago | aur-depends |
 | [Woodfish](https://github.com/silenceboychen/woodfish) [[repo]](https://github.com/silenceboychen/woodfish) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
-| [Wora](https://wora.app/) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
+| [Wora](https://wora.app/) | 31.2.1 ⚠️ | 2y ago | which-electron-rg |
 | [Wordpress Studio](https://developer.wordpress.com/studio/) | 41.4.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Work Log Ify](https://github.com/dmitrijs/WorkLogIfy) [[repo]](https://github.com/dmitrijs/WorkLogIfy) | 42.7.0 ⚠️ | 19d ago | aur-depends |
 | [WorkFlowy](https://workflowy.com/downloads/mac/) [[repo]](https://github.com/workflowy/desktop) | 38.8.6 ⚠️ | 4mo ago | which-electron-rg |
-| [Wowup Native](https://github.com/WowUp/WowUp) [[repo]](https://github.com/WowUp/WowUp) | 39.8.10 ⚠️ | 2mo ago | aur-depends |
+| [Wowup Native](https://github.com/WowUp/WowUp) [[repo]](https://github.com/WowUp/WowUp) | 43.1.1 ⚠️ | 19d ago | which-electron-rg |
 | [Wp](https://apps.wordpress.com/desktop/) | 39.8.5 ⚠️ | 4mo ago | which-electron-rg |
 | [Wpspaster](http://xoobom.com/#/wpspaster) | 25.9.8 ⚠️ | 2y 8mo ago | aur-depends |
 | [Wubi Dict Editor](https://github.com/KyleBing/wubi-dict-editor) [[repo]](https://github.com/KyleBing/wubi-dict-editor) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
@@ -1672,7 +1676,7 @@ Apps with detected Electron version: 1787 / 2090
 | [Xilinota](https://github.com/XilinJia/Xilinota) [[repo]](https://github.com/XilinJia/Xilinota) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
 | [Xmcl](https://xmcl.app/) | 41.10.2 ⚠️ | 19d ago | aur-depends |
 | [Xresconv](https://github.com/xresloader/xresconv-gui) [[repo]](https://github.com/xresloader/xresconv-gui) | 41.10.2 ⚠️ | 19d ago | aur-depends |
-| [Xterminal](https://www.xterminal.cn/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
+| [Xterminal](https://www.xterminal.cn/) | 40.6.0 ⚠️ | 5mo ago | which-electron-rg |
 | [Xtool Creative Space](https://www.xtool.com/pages/software) | 36.2.0 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Xuanxuan IM](https://xuanim.com/) | 31.7.7 ⚠️ | 1y 6mo ago | aur-depends |
 | [YTDownloader](https://github.com/aandrew-me/ytDownloader) [[repo]](https://github.com/aandrew-me/ytDownloader) | 30.5.1 ⚠️ | 1y 10mo ago | src-package-lock |
@@ -1720,10 +1724,10 @@ Apps with detected Electron version: 1787 / 2090
 | [Zima Linux Client](https://github.com/chicohaager/zima-linux-client) [[repo]](https://github.com/chicohaager/zima-linux-client) | 28.3.3 ⚠️ | 2y 2mo ago | src-range-guess |
 | [Znote](https://znote.io) [[repo]](https://github.com/alagrede/znote-app) | 36.9.5 ⚠️ | 9mo ago | which-electron-rg |
 | [Zo](https://www.zo.computer/) [[repo]](https://github.com/zocomputer/Zo) | 43.0.0 ⚠️ | 1mo ago | which-electron-rg |
-| [Zui](https://www.brimdata.io/) | 30.0.5 ⚠️ | 2y 2mo ago | which-electron-rg |
+| [Zui](https://www.brimdata.io/) | 30.0.5 ⚠️ | 2y 3mo ago | which-electron-rg |
 | [Zulip](https://zulip.com/) [[repo]](https://github.com/zulip/zulip-desktop) | 42.5.0 ⚠️ | 1mo ago | src-pnpm-lock |
 | [Zxinfo File Browser](https://github.com/thomasheckmann/zxinfo-file-browser) [[repo]](https://github.com/thomasheckmann/zxinfo-file-browser) | 27.3.11 ⚠️ | 2y 3mo ago | aur-depends |
-| [Zyfun](https://github.com/Hiram-Wong/ZyPlayer) [[repo]](https://github.com/Hiram-Wong/ZyPlayer) | 41.10.2 ⚠️ | 19d ago | aur-depends |
+| [Zyfun](https://github.com/Hiram-Wong/ZyPlayer) [[repo]](https://github.com/Hiram-Wong/ZyPlayer) | 41.4.0 ⚠️ | 3mo ago | which-electron-rg |
 | [balenaEtcher](https://etcher.balena.io/) [[repo]](https://github.com/balena-io/etcher) | 37.2.4 ⚠️ | 1y ago | which-electron-rg |
 | [bibisco](https://bibisco.com/) [[repo]](https://github.com/andreafeccomandi/bibisco/) | 4.2.12 ⚠️ | 6y 10mo ago | src-package-lock |
 | [clipboard-manager-electron](https://github.com/morozovsk/unlimited-clipboard) [[repo]](https://github.com/morozovsk/unlimited-clipboard.git) | 8.5.5 ⚠️ | 5y 9mo ago | src-range-guess |
@@ -1788,6 +1792,6 @@ Apps with detected Electron version: 1787 / 2090
 | [ttth](https://github.com/yafp/ttth) [[repo]](https://github.com/yafp/ttth) | 7.1.6 ⚠️ | 6y 8mo ago | src-package-lock |
 | [ueli](https://ueli.app) [[repo]](https://github.com/oliverschwendener/ueli) | 41.3.0 ⚠️ | 3mo ago | src-package-lock |
 | [wdOS](https://www.webdesk.me/) [[repo]](https://github.com/Webdeskme/wdOS/releases) | 5.0.11 ⚠️ | 6y 11mo ago | src-package-lock |
-| [wnr](https://getwnr.com/) [[repo]](https://github.com/RoderickQiu/wnr) | 22.3.27 ⚠️ | 2y 10mo ago | src-yarn-lock |
+| [wnr](https://getwnr.com/) [[repo]](https://github.com/RoderickQiu/wnr) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [y2mp3](https://github.com/moshfeu/y2mp3) [[repo]](https://github.com/moshfeu/y2mp3) | 17.4.11 ⚠️ | 4y ago | src-yarn-lock |
 | [zonote](https://github.com/zonetti/zonote) [[repo]](https://github.com/zonetti/zonote) | 9.4.4 ⚠️ | 5y 5mo ago | src-package-lock |

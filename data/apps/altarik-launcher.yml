@@ -3,13 +3,13 @@ name: Altarik Launcher
 website: https://altarik.fr/
 aur:
 - altarik-launcher-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.8.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/altarik-launcher-bin
-  found_in: altarik-launcher-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/AltarikMC/Launcher/releases/download/2.3.3/Altarik.Launcher-linux-x64-2.3.3.zip
+  found_in: Altarik.Launcher-linux-x64-2.3.3.zip
+  signal: which-electron rg signal (2 signals agreed)
 aur_downloads:
 - url: https://github.com/AltarikMC/Launcher/releases/download/2.3.3/Altarik.Launcher-linux-x64-2.3.3.zip
   name: Altarik.Launcher-linux-x64-2.3.3.zip

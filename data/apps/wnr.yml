@@ -19,16 +19,16 @@ downloads:
 - name: wnr-1.33.0-Win-x64.7z
   url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-Win-x64.7z
 electron: 22.3.27
-method: src-yarn-lock
+method: which-electron-rg
 aur:
 - wnr-bin
 name: wnr
 electron_src: https://github.com/RoderickQiu/wnr/archive/refs/tags/v1.33.0.zip
 evidence:
-  kind: lockfile
-  found_in: wnr-1.33.0/yarn.lock
-  signal: electron pinned in yarn.lock
-  source: https://github.com/RoderickQiu/wnr/archive/refs/tags/v1.33.0.zip
+  kind: binary
+  source: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Linux.AppImage
+  found_in: wnr-1.32.0-Linux.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2026-07-28'
 aur_downloads:

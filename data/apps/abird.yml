@@ -4,8 +4,8 @@ website: https://github.com/nsz32/abird
 repository: https://github.com/nsz32/abird
 aur:
 - abird-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 latest: v0.1.6
 src: https://github.com/nsz32/abird/archive/refs/tags/v0.1.6.zip
 downloads:
@@ -17,10 +17,10 @@ downloads:
   url: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6.AppImage
 we_tried: we0:v0.1.6
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/abird-bin
-  found_in: abird-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6.AppImage
+  found_in: ABird-0.1.6.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-03-07'
 aur_downloads:
 - url: https://github.com/nsz32/abird/releases/download/v0.1.6/ABird-0.1.6-asar-linux-x64.tar.zst

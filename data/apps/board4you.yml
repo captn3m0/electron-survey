@@ -4,8 +4,8 @@ website: https://github.com/GachiLord/board4you
 repository: https://github.com/GachiLord/board4you
 aur:
 - board4you-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.4.1
+method: which-electron-rg
 latest: v1.0.9
 src: https://github.com/GachiLord/board4you/archive/refs/tags/v1.0.9.zip
 downloads:
@@ -21,10 +21,10 @@ downloads:
   url: https://github.com/GachiLord/board4you/releases/download/v1.0.9/latest.yml
 we_tried: we0:v1.0.9
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/board4you-bin
-  found_in: board4you-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/GachiLord/board4you/releases/download/v1.0.9/board4you-1.0.9.AppImage
+  found_in: board4you-1.0.9.AppImage
+  signal: which-electron rg signal (3 signals agreed)
 last_commit: '2025-01-24'
 aur_downloads:
 - url: https://github.com/GachiLord/board4you/releases/download/v1.0.9/board4you-1.0.9.AppImage

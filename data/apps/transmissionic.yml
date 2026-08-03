@@ -4,8 +4,8 @@ website: https://github.com/6c65726f79/Transmissionic
 repository: https://github.com/6c65726f79/Transmissionic
 aur:
 - transmissionic-bin
-electron: 23.3.13
-method: aur-depends
+electron: 23.1.3
+method: which-electron-rg
 latest: v1.8.0
 src: https://github.com/6c65726f79/Transmissionic/archive/refs/tags/v1.8.0.zip
 downloads:
@@ -36,10 +36,10 @@ downloads:
 - name: Transmissionic-win-v1.8.0.exe.blockmap
   url: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-win-v1.8.0.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/transmissionic-bin
-  found_in: transmissionic-bin
-  signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+  kind: binary
+  source: https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-linux-x86_64-v1.8.0.AppImage
+  found_in: Transmissionic-linux-x86_64-v1.8.0.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
 last_commit: '2024-07-28'
 aur_downloads:

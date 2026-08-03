@@ -4,8 +4,8 @@ website: https://github.com/TheLindaProjectInc/Altitude
 repository: https://github.com/TheLindaProjectInc/Altitude
 aur:
 - altitude-metrix-wallet-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.0.2
+method: which-electron-rg
 latest: 3.4.2
 src: https://github.com/TheLindaProjectInc/Altitude/archive/refs/tags/3.4.2.zip
 downloads:
@@ -19,10 +19,10 @@ downloads:
   url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-win32-x86.exe
 we_tried: we0:3.4.2
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/altitude-metrix-wallet-bin
-  found_in: altitude-metrix-wallet-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-linux-x64.AppImage
+  found_in: Altitude-Metrix-Wallet-linux-x64.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-01-27'
 aur_downloads:
 - url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-linux-x64.AppImage

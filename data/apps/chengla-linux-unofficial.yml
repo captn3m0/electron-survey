@@ -4,8 +4,8 @@ website: https://github.com/pokon548/chengla-for-linux
 repository: https://github.com/pokon548/chengla-for-linux
 aur:
 - chengla-linux-unofficial-bin
-electron: 27.3.11
-method: aur-depends
+electron: 27.0.0
+method: which-electron-rg
 latest: v1.0.8
 src: https://github.com/pokon548/chengla-for-linux/archive/refs/tags/v1.0.8.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: chengla-linux-unofficial_1.0.8_amd64.snap
   url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial_1.0.8_amd64.snap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/chengla-linux-unofficial-bin
-  found_in: chengla-linux-unofficial-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial-1.0.8.x86_64.rpm
+  found_in: chengla-linux-unofficial-1.0.8.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2024-05-02'
 aur_downloads:
 - url: https://github.com/pokon548/chengla-for-linux/releases/download/v1.0.8/chengla-linux-unofficial-1.0.8.x86_64.rpm

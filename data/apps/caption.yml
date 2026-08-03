@@ -26,3 +26,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/gielcobben/caption/releases/download/v2.0.1/latest.yml
 last_commit: '2023-01-25'
+evidence:
+  kind: binary
+  source: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-2.0.1-mac.zip
+  found_in: caption-2.0.1-mac.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

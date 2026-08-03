@@ -6,8 +6,8 @@ aur:
 - bookord-bin
 additionalAUR:
 - bookord-git
-electron: 29.4.6
-method: aur-depends
+electron: 29.3.0
+method: which-electron-rg
 latest: v0.3.2
 src: https://github.com/LiprikON2/Bookord/archive/refs/tags/v0.3.2.zip
 downloads:
@@ -29,10 +29,10 @@ downloads:
   url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.2/RELEASES
 we_tried: we0:v0.3.2
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/bookord-bin
-  found_in: bookord-bin
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/LiprikON2/Bookord/releases/download/v0.3.3/bookord-0.3.3-1.x86_64.rpm
+  found_in: bookord-0.3.3-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2025-03-03'
 aur_downloads:
 - url: https://github.com/LiprikON2/Bookord/releases/download/v0.3.3/bookord-0.3.3-1.x86_64.rpm

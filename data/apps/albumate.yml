@@ -4,8 +4,8 @@ website: https://github.com/wladimiiir/albumate
 repository: https://github.com/wladimiiir/albumate
 aur:
 - albumate-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.7.0
+method: which-electron-rg
 latest: 0.1.0
 src: https://github.com/wladimiiir/albumate/archive/refs/tags/0.1.0.zip
 downloads:
@@ -15,10 +15,10 @@ downloads:
   url: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0.AppImage
 we_tried: we0:0.1.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/albumate-bin
-  found_in: albumate-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0.AppImage
+  found_in: albumate-0.1.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-11-04'
 aur_downloads:
 - url: https://github.com/wladimiiir/albumate/releases/download/0.1.0/albumate-0.1.0.AppImage

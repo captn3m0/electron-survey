@@ -9,3 +9,10 @@ downloads:
   name: CargoMessenger%20Web%20Setup%201.0.22.exe
 - url: https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger-1.0.22.dmg
   name: CargoMessenger-1.0.22.dmg
+electron: 11.5.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cargo-messenger-desktop-app-releases.ams3.digitaloceanspaces.com/CargoMessenger-1.0.22.dmg
+  found_in: CargoMessenger-1.0.22.dmg
+  signal: which-electron rg signal

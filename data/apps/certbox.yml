@@ -3,13 +3,13 @@ name: Certbox
 website: https://certbox.io/
 aur:
 - certbox-bin
-electron: 36.9.5
-method: aur-depends
+electron: 36.2.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/certbox-bin
-  found_in: certbox-bin
-  signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+  kind: binary
+  source: https://github.com/tls-inspector/certbox/releases/download/1.9.3/certbox-1.9.3-1.aarch64.rpm
+  found_in: certbox-1.9.3-1.aarch64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://raw.githubusercontent.com/tls-inspector/certbox/1.9.3/LICENSE
   name: LICENSE

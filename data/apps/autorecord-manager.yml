@@ -4,8 +4,8 @@ website: https://github.com/WhiteMinds/LiveAutoRecord
 repository: https://github.com/WhiteMinds/LiveAutoRecord
 aur:
 - autorecord-manager
-electron: 40.10.6
-method: aur-depends
+electron: 40.4.1
+method: which-electron-rg
 latest: v4.11.0
 src: https://github.com/WhiteMinds/LiveAutoRecord/archive/refs/tags/v4.11.0.zip
 downloads:
@@ -23,8 +23,8 @@ downloads:
   url: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/latest.yml
 we_tried: we0:v4.11.0
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/autorecord-manager
-  found_in: autorecord-manager
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/WhiteMinds/LiveAutoRecord/releases/download/v4.11.0/%40autorecord.electron-4.11.0.dmg
+  found_in: '%40autorecord.electron-4.11.0.dmg'
+  signal: which-electron rg signal
 last_commit: '2026-05-14'
