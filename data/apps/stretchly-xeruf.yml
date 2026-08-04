@@ -5,7 +5,7 @@ repository: https://github.com/xeruf/stretchly
 aur:
 - stretchly-xeruf-git
 aur_votes: 1
-last_commit: '2026-07-01'
+last_commit: '2026-08-03'
 src: https://github.com/xeruf/stretchly/archive/refs/heads/trunk.zip
 electron: 41.3.0
 method: src-package-lock
@@ -15,4 +15,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/xeruf/stretchly/archive/refs/heads/trunk.zip
 electron_src: https://github.com/xeruf/stretchly/archive/refs/heads/trunk.zip
-electron_src_commit: '2026-07-01'
+electron_src_commit: '2026-08-03'

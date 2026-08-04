@@ -4,8 +4,8 @@ website: https://github.com/Jasonizl/dnd-overlay-tool
 repository: https://github.com/Jasonizl/dnd-overlay-tool
 aur:
 - dnd-overlay-tool-git
-electron: 30.5.1
-method: aur-depends
+electron: 30.1.0
+method: which-electron-rg
 latest: v0.5.2
 src: https://github.com/Jasonizl/dnd-overlay-tool/archive/refs/tags/v0.5.2.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: dnd-overlay-tool-win32-x64.bundled.7z
   url: https://github.com/Jasonizl/dnd-overlay-tool/releases/download/v0.5.2/dnd-overlay-tool-win32-x64.bundled.7z
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/dnd-overlay-tool-git
-  found_in: dnd-overlay-tool-git
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/Jasonizl/dnd-overlay-tool/releases/download/v0.5.2/dnd-overlay-tool-win32-x64.7z
+  found_in: dnd-overlay-tool-win32-x64.7z
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2024-11-03'

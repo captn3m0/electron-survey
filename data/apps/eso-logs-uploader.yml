@@ -33,3 +33,10 @@ aur_downloads:
   name: ESO-Logs-Uploader-6.0.2.AppImage
   arch: any
   source: aur-bin
+electron: 15.5.7
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/RPGLogs/Uploaders-esologs/releases/download/v6.0.2/ESO-Logs-Uploader-6.0.2.AppImage
+  found_in: ESO-Logs-Uploader-6.0.2.AppImage
+  signal: which-electron rg signal

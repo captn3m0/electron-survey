@@ -41,3 +41,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/latest.yml
 last_commit: '2026-07-23'
+evidence:
+  kind: binary
+  source: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-5.5.0-arm64-win.zip
+  found_in: EServer-5.5.0-arm64-win.zip
+  signal: which-electron rg signal

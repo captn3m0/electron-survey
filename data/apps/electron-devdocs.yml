@@ -4,8 +4,8 @@ website: https://github.com/gengjiawen/electron-devdocs
 repository: https://github.com/gengjiawen/electron-devdocs
 aur:
 - electron-devdocs-git
-electron: 29.4.6
-method: aur-depends
+electron: 11.1.1
+method: which-electron-rg
 latest: v5.2.0
 src: https://github.com/gengjiawen/electron-devdocs/archive/refs/tags/v5.2.0.zip
 downloads:
@@ -30,8 +30,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/gengjiawen/electron-devdocs/releases/download/v5.2.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/electron-devdocs-git
-  found_in: electron-devdocs-git
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/gengjiawen/electron-devdocs/releases/download/v5.2.0/Devdocs-5.2.0.AppImage
+  found_in: Devdocs-5.2.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-06-03'

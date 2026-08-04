@@ -4,8 +4,8 @@ website: https://github.com/dragonrealms-phoenix/phoenix
 repository: https://github.com/dragonrealms-phoenix/phoenix
 aur:
 - dragonrealms-phoenix-bin
-electron: 34.5.8
-method: aur-depends
+electron: 34.2.0
+method: which-electron-rg
 latest: v1.35.0
 src: https://github.com/dragonrealms-phoenix/phoenix/archive/refs/tags/v1.35.0.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: phoenix-v1.35.0-win-x64.exe
   url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-win-x64.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/dragonrealms-phoenix-bin
-  found_in: dragonrealms-phoenix-bin
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+  kind: binary
+  source: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-mac-x64.dmg
+  found_in: phoenix-v1.35.0-mac-x64.dmg
+  signal: which-electron rg signal
 last_commit: '2025-06-05'
 aur_downloads:
 - url: https://github.com/dragonrealms-phoenix/phoenix/releases/download/v1.35.0/phoenix-v1.35.0-linux-amd64.deb

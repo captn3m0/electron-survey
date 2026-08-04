@@ -4,8 +4,8 @@ website: https://github.com/TheDome/DistributionZ
 repository: https://github.com/TheDome/DistributionZ
 aur:
 - distributionz-bin
-electron: 22.3.27
-method: aur-depends
+electron: 21.2.0
+method: which-electron-rg
 latest: 1.1.4
 src: https://github.com/TheDome/DistributionZ/archive/refs/tags/1.1.4.zip
 downloads:
@@ -32,10 +32,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/distributionz-bin
-  found_in: distributionz-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4.AppImage
+  found_in: DistributionZ-1.1.4.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-04-05'
 aur_downloads:
 - url: https://github.com/TheDome/DistributionZ/releases/download/1.1.4/DistributionZ-1.1.4.AppImage

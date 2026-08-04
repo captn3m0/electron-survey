@@ -4,19 +4,27 @@ website: https://github.com/tashfeenahmed/freellmapi
 repository: https://github.com/tashfeenahmed/freellmapi
 aur:
 - freellmapi-desktop-git
-latest: v0.6.6
-src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.6.6.zip
+latest: v0.6.7
+src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.6.7.zip
 downloads:
-- name: FreeLLMAPI-0.6.6-arm64.dmg
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.6/FreeLLMAPI-0.6.6-arm64.dmg
-- name: FreeLLMAPI.Setup.0.6.6.exe
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.6/FreeLLMAPI.Setup.0.6.6.exe
+- name: FreeLLMAPI-0.6.7-arm64.dmg
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.7/FreeLLMAPI-0.6.7-arm64.dmg
+- name: FreeLLMAPI-0.6.7-arm64.dmg.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.7/FreeLLMAPI-0.6.7-arm64.dmg.blockmap
+- name: FreeLLMAPI.Setup.0.6.7.exe
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.7/FreeLLMAPI.Setup.0.6.7.exe
+- name: FreeLLMAPI.Setup.0.6.7.exe.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.7/FreeLLMAPI.Setup.0.6.7.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.7/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.6.7/latest.yml
 electron: 33.4.11
 method: src-package-lock
-electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.6.6.zip
+electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.6.7.zip
 evidence:
   kind: lockfile
-  found_in: freellmapi-0.6.6/desktop/package-lock.json
+  found_in: freellmapi-0.6.7/desktop/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.6.6.zip
-last_commit: '2026-08-02'
+  source: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.6.7.zip
+last_commit: '2026-08-03'

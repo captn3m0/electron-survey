@@ -4,8 +4,8 @@ website: https://github.com/Saturnine-Softworks/Lexicanter
 repository: https://github.com/Saturnine-Softworks/Lexicanter
 aur:
 - lexicanter-bin
-electron: 38.8.6
-method: aur-depends
+electron: 38.3.0
+method: which-electron-rg
 latest: 2.3.0
 src: https://github.com/Saturnine-Softworks/Lexicanter/archive/refs/tags/2.3.0.zip
 downloads:
@@ -42,10 +42,10 @@ downloads:
 - name: Lexicanter-Setup-2.3.0.exe.blockmap
   url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-Setup-2.3.0.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lexicanter-bin
-  found_in: lexicanter-bin
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64.AppImage
+  found_in: Lexicanter-2.3.0-arm64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-30'
 aur_downloads:
 - url: https://github.com/Saturnine-Softworks/Lexicanter/releases/download/2.3.0/Lexicanter-2.3.0-arm64.AppImage

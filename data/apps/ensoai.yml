@@ -4,8 +4,8 @@ website: https://github.com/J3n5en/EnsoAI
 repository: https://github.com/J3n5en/EnsoAI
 aur:
 - ensoai
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 latest: v0.2.44
 src: https://github.com/J3n5en/EnsoAI/archive/refs/tags/v0.2.44.zip
 downloads:
@@ -42,8 +42,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ensoai
-  found_in: ensoai
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/J3n5en/EnsoAI/releases/download/v0.2.44/EnsoAI-0.2.44.AppImage
+  found_in: EnsoAI-0.2.44.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-08-02'

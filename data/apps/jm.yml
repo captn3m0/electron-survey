@@ -4,8 +4,8 @@ website: https://github.com/Dedicatus546/jm-desktop
 repository: https://github.com/Dedicatus546/jm-desktop
 aur:
 - jm-desktop-bin
-electron: 42.7.0
-method: aur-depends
+electron: 42.5.0
+method: which-electron-rg
 latest: v2.2.1
 src: https://github.com/Dedicatus546/jm-desktop/archive/refs/tags/v2.2.1.zip
 downloads:
@@ -14,10 +14,10 @@ downloads:
 - name: jm-desktop-win32-x64-2.2.1.zip
   url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-win32-x64-2.2.1.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/jm-desktop-bin
-  found_in: jm-desktop-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-Linux-x64-2.2.1.zip
+  found_in: jm-desktop-Linux-x64-2.2.1.zip
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2026-07-06'
 aur_downloads:
 - url: https://github.com/Dedicatus546/jm-desktop/releases/download/v2.2.1/jm-desktop-Linux-x64-2.2.1.zip

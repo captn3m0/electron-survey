@@ -42,3 +42,4 @@ aur_downloads:
   name: Electron-PDF-Viewer_1.0.0_amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:v1.0

@@ -73,3 +73,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/latest.yml
 last_commit: '2026-05-21'
+evidence:
+  kind: binary
+  source: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop-1.2.6.x86_64.rpm
+  found_in: Frpc-Desktop-1.2.6.x86_64.rpm
+  signal: which-electron rg signal

@@ -4,12 +4,12 @@ website: https://juice.irrvlo.xyz/
 aur:
 - juice-client-bin
 electron: 10.4.7
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/juice-client-bin
-  found_in: juice-client-bin
-  signal: depends on electron10; reported as the newest 10.x release (10.4.7)
+  kind: binary
+  source: https://github.com/irrvlo/juice-client/releases/download/v1.1.18/juice-client-1.1.18-linux-x86_64.AppImage
+  found_in: juice-client-1.1.18-linux-x86_64.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/irrvlo/juice-client/releases/download/v1.1.18/juice-client-1.1.18-linux-x86_64.AppImage
   name: juice-client-1.1.18-linux-x86_64.AppImage

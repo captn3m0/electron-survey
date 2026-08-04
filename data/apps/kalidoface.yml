@@ -3,13 +3,13 @@ name: Kalidoface
 website: https://lab.kalidoface.com/
 aur:
 - kalidoface-bin
-electron: 24.8.8
-method: aur-depends
+electron: 24.0.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/kalidoface-bin
-  found_in: kalidoface-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/yeemachine/kalidoface/releases/download/v0.1.0/kalidoface_0.1.0_amd64.deb
+  found_in: kalidoface_0.1.0_amd64.deb
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/yeemachine/kalidoface/releases/download/v0.1.0/kalidoface_0.1.0_amd64.deb
   name: kalidoface_0.1.0_amd64.deb

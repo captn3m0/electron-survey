@@ -48,7 +48,7 @@ evidence:
   source: https://aur.archlinux.org/packages/lyrs-bin
   found_in: lyrs-bin
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
-last_commit: '2026-08-03'
+last_commit: '2026-08-04'
 aur_downloads:
 - url: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs-0.26.4.x86_64.rpm
   name: lyrs-0.26.4.x86_64.rpm

@@ -3,8 +3,8 @@ name: Kiwix JS
 website: https://pwa.kiwix.org/
 aur:
 - kiwix-js-electron-bin
-electron: 38.8.6
-method: aur-depends
+electron: 43.1.1
+method: which-electron-rg
 aur_downloads:
 - url: https://github.com/kiwix/kiwix-js-pwa/releases/download/v3.8.6/Kiwix-JS-Electron-3.8.6-E-arm64.AppImage
   name: Kiwix-JS-Electron-3.8.6-E-arm64.AppImage
@@ -18,3 +18,8 @@ aur_downloads:
   name: Kiwix-JS-Electron-3.8.6-E.AppImage
   arch: x86_64
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/kiwix/kiwix-js-pwa/releases/download/v3.8.6/Kiwix-JS-Electron-3.8.6-E-arm64.AppImage
+  found_in: Kiwix-JS-Electron-3.8.6-E-arm64.AppImage
+  signal: which-electron rg signal

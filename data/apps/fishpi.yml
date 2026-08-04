@@ -4,12 +4,12 @@ website: https://fishpi.cn
 aur:
 - fishpi-bin
 electron: 16.2.8
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fishpi-bin
-  found_in: fishpi-bin
-  signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+  kind: binary
+  source: https://github.com/imlinhanchao/fishpi-desktop/releases/download/1.3.9/fishpi-1.3.9-linux.tar.gz
+  found_in: fishpi-1.3.9-linux.tar.gz
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/imlinhanchao/fishpi-desktop/releases/download/1.3.9/fishpi-1.3.9-linux.tar.gz
   name: fishpi-1.3.9-linux.tar.gz

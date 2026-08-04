@@ -12,3 +12,8 @@ downloads:
 name: EVE Trade
 electron: 5.1.0
 method: which-electron-version_file
+evidence:
+  kind: binary
+  source: https://github.com/awhipp/evetrade/releases/download/1.0b/EVE-Trade-Standalone-win32-x64.zip
+  found_in: EVE-Trade-Standalone-win32-x64.zip
+  signal: which-electron version_file signal (3 signals agreed)

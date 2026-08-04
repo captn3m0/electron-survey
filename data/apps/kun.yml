@@ -4,8 +4,8 @@ website: https://github.com/KunAgent/Kun
 repository: https://github.com/KunAgent/Kun
 aur:
 - kun
-electron: 34.5.8
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 latest: v0.2.34
 src: https://github.com/KunAgent/Kun/archive/refs/tags/v0.2.34.zip
 downloads:
@@ -74,8 +74,8 @@ downloads:
 - name: SHA256SUMS-tui.txt
   url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/SHA256SUMS-tui.txt
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/kun
-  found_in: kun
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
-last_commit: '2026-08-02'
+  kind: binary
+  source: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.zip
+  found_in: Kun-0.2.34-mac-arm64.zip
+  signal: which-electron rg signal
+last_commit: '2026-08-04'

@@ -4,8 +4,8 @@ website: https://github.com/simeonradivoev/electron-dam
 repository: https://github.com/simeonradivoev/electron-dam
 aur:
 - electron-dam-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 latest: 1.1.1
 src: https://github.com/simeonradivoev/electron-dam/archive/refs/tags/1.1.1.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/electron-dam-bin
-  found_in: electron-dam-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/electron-dam.linux.1.1.1.AppImage
+  found_in: electron-dam.linux.1.1.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-05-19'
 aur_downloads:
 - url: https://github.com/simeonradivoev/electron-dam/releases/download/1.1.1/electron-dam.linux.1.1.1.AppImage

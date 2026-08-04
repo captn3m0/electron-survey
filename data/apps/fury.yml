@@ -5,7 +5,7 @@ repository: https://github.com/naveen-devang/Fury
 aur:
 - fury-git
 electron: 28.3.3
-method: aur-depends
+method: which-electron-rg
 latest: v0.1.18
 src: https://github.com/naveen-devang/Fury/archive/refs/tags/v0.1.18.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: latest-mac.yml
   url: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/latest-mac.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fury-git
-  found_in: fury-git
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/naveen-devang/Fury/releases/download/v0.1.18/Fury-0.1.18-arm64.dmg
+  found_in: Fury-0.1.18-arm64.dmg
+  signal: which-electron rg signal
 last_commit: '2026-04-30'

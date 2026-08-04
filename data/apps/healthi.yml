@@ -8,14 +8,13 @@ downloads:
   url: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi-4.0.1-mac.zip
 - name: Healthi_4.0.1_amd64.deb
   url: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi_4.0.1_amd64.deb
-electron: 4.2.12
-method: src-range-guess
+electron: 4.0.1
+method: which-electron-fingerprint
 name: healthi
 electron_src: https://github.com/pablopunk/healthi-app/archive/refs/tags/4.0.1.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Apablopunk%2Fhealthi-app+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/pablopunk/healthi-app/releases/download/4.0.1/Healthi-4.0.1-mac.zip
+  found_in: Healthi-4.0.1-mac.zip
+  signal: which-electron fingerprint signal (2 signals agreed)
 last_commit: '2026-07-07'

@@ -23,3 +23,4 @@ aur_downloads:
   name: kiwiirc-desktop_v1.7.1-2_linux_amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:2b07d3cb63cd

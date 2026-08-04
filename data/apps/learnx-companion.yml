@@ -4,8 +4,8 @@ website: https://github.com/robertying/learnX-companion
 repository: https://github.com/robertying/learnX-companion
 aur:
 - learnx-companion-electron-git
-electron: 23.3.13
-method: aur-depends
+electron: 27.0.1
+method: which-electron-rg
 latest: v2.5.0
 src: https://github.com/robertying/learnX-companion/archive/refs/tags/v2.5.0.zip
 downloads:
@@ -30,8 +30,8 @@ downloads:
 - name: learnX-companion-win-x64-v2.5.0.exe.blockmap
   url: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-win-x64-v2.5.0.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/learnx-companion-electron-git
-  found_in: learnx-companion-electron-git
-  signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+  kind: binary
+  source: https://github.com/robertying/learnX-companion/releases/download/v2.5.0/learnX-companion-linux-x86_64-v2.5.0.AppImage
+  found_in: learnX-companion-linux-x86_64-v2.5.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-04-30'

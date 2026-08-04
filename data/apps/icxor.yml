@@ -4,8 +4,8 @@ website: https://github.com/MarkPoloChina/ICXOR
 repository: https://github.com/MarkPoloChina/ICXOR
 aur:
 - icxor-git
-electron: 26.6.10
-method: aur-depends
+electron: 26.2.0
+method: which-electron-rg
 latest: v1.1.1
 src: https://github.com/MarkPoloChina/ICXOR/archive/refs/tags/v1.1.1.zip
 downloads:
@@ -26,8 +26,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/icxor-git
-  found_in: icxor-git
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/MarkPoloChina/ICXOR/releases/download/v1.1.1/ICXOR-1.1.1-universal-mac.zip
+  found_in: ICXOR-1.1.1-universal-mac.zip
+  signal: which-electron rg signal
 last_commit: '2025-08-22'

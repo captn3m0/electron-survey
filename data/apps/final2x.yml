@@ -17,3 +17,8 @@ packages:
   arch: x64
 electron: 27.3.11
 method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/EutropicAI/Final2x/releases/download/v4.0.0/Final2x-linux-pip-x64-AppImage.AppImage
+  found_in: Final2x-linux-pip-x64-AppImage.AppImage
+  signal: which-electron rg signal

@@ -5,7 +5,7 @@ repository: https://github.com/tengfone/forgetools
 aur:
 - forgetools-bin
 electron: 27.3.11
-method: aur-depends
+method: which-electron-rg
 latest: v2.0.2
 src: https://github.com/tengfone/forgetools/archive/refs/tags/v2.0.2.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: ForgeTools-v2.0.2-mac-x64.zip
   url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-v2.0.2-mac-x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/forgetools-bin
-  found_in: forgetools-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2.AppImage
+  found_in: ForgeTools-2.0.2.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-11-23'
 aur_downloads:
 - url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2.AppImage

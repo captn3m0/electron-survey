@@ -3,13 +3,13 @@ name: Lightrail Core
 website: https://lightrail.ai/
 aur:
 - lightrail-core-bin
-electron: 24.8.8
-method: aur-depends
+electron: 24.8.3
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lightrail-core-bin
-  found_in: lightrail-core-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/lightrail-ai/lightrail/releases/download/v0.3.9/lightrail-core.rpm
+  found_in: lightrail-core.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/lightrail-ai/lightrail/releases/download/v0.3.9/lightrail-core.rpm
   name: lightrail-core.rpm

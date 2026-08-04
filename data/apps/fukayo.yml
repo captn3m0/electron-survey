@@ -4,8 +4,8 @@ website: https://github.com/JiPaix/Fukayo
 repository: https://github.com/JiPaix/Fukayo
 aur:
 - fukayo-bin
-electron: 24.8.8
-method: aur-depends
+electron: 22.0.0
+method: which-electron-rg
 latest: v0.13.0
 src: https://github.com/JiPaix/Fukayo/archive/refs/tags/v0.13.0.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fukayo-bin
-  found_in: fukayo-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/JiPaix/Fukayo/releases/download/v0.13.0/Fukayo-0.13.0.AppImage
+  found_in: Fukayo-0.13.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-06-16'
 aur_downloads:
 - url: https://raw.githubusercontent.com/JiPaix/fukayo/v0.20.7-beta/LICENSE

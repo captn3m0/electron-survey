@@ -5,7 +5,7 @@ repository: https://github.com/JohnTimmermann/JTs-Hud-Manager
 aur:
 - jts-hud-manager-git
 electron: 39.8.10
-method: aur-depends
+method: which-electron-rg
 latest: v7.13.26
 src: https://github.com/JohnTimmermann/JTs-Hud-Manager/archive/refs/tags/v7.13.26.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/jts-hud-manager-git
-  found_in: jts-hud-manager-git
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/JohnTimmermann/JTs-Hud/releases/download/v7.13.26/jts-hud-7.13.26-unpacked.zip
+  found_in: jts-hud-7.13.26-unpacked.zip
+  signal: which-electron rg signal
 last_commit: '2026-07-14'

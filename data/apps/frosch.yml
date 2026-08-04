@@ -5,7 +5,7 @@ repository: https://github.com/ivanrey/Frosch
 aur:
 - frosch-bin
 electron: 11.5.0
-method: aur-depends
+method: which-electron-rg
 latest: v2.0.2
 src: https://github.com/ivanrey/Frosch/archive/refs/tags/v2.0.2.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/frosch-bin
-  found_in: frosch-bin
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/ivanrey/Frosch/releases/download/v2.0.2/Frosch-linux-ia32.zip
+  found_in: Frosch-linux-ia32.zip
+  signal: which-electron rg signal
 last_commit: '2023-04-23'
 aur_downloads:
 - url: https://raw.githubusercontent.com/ivanrey/Frosch/v2.0.2/LICENSE

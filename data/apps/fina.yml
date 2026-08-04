@@ -4,8 +4,8 @@ website: https://github.com/britors/Fina
 repository: https://github.com/britors/Fina
 aur:
 - fina
-electron: 38.8.6
-method: aur-depends
+electron: 34.5.8
+method: which-electron-rg
 latest: v18.0.1
 src: https://github.com/britors/Fina/archive/refs/tags/v18.0.1.zip
 downloads:
@@ -22,8 +22,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/britors/Fina/releases/download/v18.0.1/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fina
-  found_in: fina
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/britors/Fina/releases/download/v18.0.1/fina-18.0.1.x86_64.rpm
+  found_in: fina-18.0.1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-08-02'

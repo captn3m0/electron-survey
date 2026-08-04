@@ -9,3 +9,10 @@ downloads:
   name: Kerlig-2.5.3-arm64.dmg
 - url: https://assets.kerlig.com/download/Kerlig-2.5.3-x64.dmg
   name: Kerlig-2.5.3-x64.dmg
+electron: 39.2.7
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://assets.kerlig.com/download/Kerlig-2.5.3-arm64.dmg
+  found_in: Kerlig-2.5.3-arm64.dmg
+  signal: which-electron rg signal

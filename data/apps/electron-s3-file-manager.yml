@@ -4,8 +4,8 @@ website: https://github.com/kelp404/electron-s3-file-manager
 repository: https://github.com/kelp404/electron-s3-file-manager
 aur:
 - electron-s3-file-manager
-electron: 20.3.12
-method: aur-depends
+electron: 20.3.8
+method: which-electron-rg
 latest: v0.2.0
 src: https://github.com/kelp404/electron-s3-file-manager/archive/refs/tags/v0.2.0.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: Electron.S3.File.Manager.0.2.0.exe
   url: https://github.com/kelp404/electron-s3-file-manager/releases/download/v0.2.0/Electron.S3.File.Manager.0.2.0.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/electron-s3-file-manager
-  found_in: electron-s3-file-manager
-  signal: depends on electron20; reported as the newest 20.x release (20.3.12)
+  kind: binary
+  source: https://github.com/kelp404/electron-s3-file-manager/releases/download/v0.2.0/Electron.S3.File.Manager-0.2.0.dmg
+  found_in: Electron.S3.File.Manager-0.2.0.dmg
+  signal: which-electron rg signal
 last_commit: '2025-03-04'

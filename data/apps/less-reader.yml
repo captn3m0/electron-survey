@@ -17,3 +17,4 @@ evidence:
   found_in: less-reader-git
   signal: depends on electron35; reported as the newest 35.x release (35.7.5)
 last_commit: '2025-06-06'
+we_tried: we1.2.1+p1:v0.0.8

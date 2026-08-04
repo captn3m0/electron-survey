@@ -29,3 +29,4 @@ downloads:
   url: https://github.com/jaso-gentoo/kute/releases/download/v2.2.0/Kute-2.2.0.AppImage
 - name: Kute.2.2.0.exe
   url: https://github.com/jaso-gentoo/kute/releases/download/v2.2.0/Kute.2.2.0.exe
+we_tried: we1.2.1+p1:v2.2.0

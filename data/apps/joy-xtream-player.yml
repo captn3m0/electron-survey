@@ -19,3 +19,4 @@ evidence:
   found_in: joy-xtream-player-git
   signal: depends on electron30; reported as the newest 30.x release (30.5.1)
 last_commit: '2026-04-10'
+we_tried: we1.2.1+p1:v0.8.3

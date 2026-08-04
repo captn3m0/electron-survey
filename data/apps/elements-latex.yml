@@ -4,16 +4,16 @@ website: https://github.com/Red-Rapious/Elements-LaTeX
 repository: https://github.com/Red-Rapious/Elements-LaTeX
 aur:
 - elements-latex
-electron: 18.3.15
-method: aur-depends
+electron: 18.2.3
+method: which-electron-rg
 latest: v0.0.3-stable
 src: https://github.com/Red-Rapious/Elements-LaTeX/archive/refs/tags/v0.0.3-stable.zip
 downloads:
 - name: elements-latex-0.0.3-mac.zip.dmg
   url: https://github.com/agroudiev/Elements-LaTeX/releases/download/v0.0.3-stable/elements-latex-0.0.3-mac.zip.dmg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/elements-latex
-  found_in: elements-latex
-  signal: depends on electron18; reported as the newest 18.x release (18.3.15)
+  kind: binary
+  source: https://github.com/agroudiev/Elements-LaTeX/releases/download/v0.0.3-stable/elements-latex-0.0.3-mac.zip.dmg
+  found_in: elements-latex-0.0.3-mac.zip.dmg
+  signal: which-electron rg signal
 last_commit: '2023-06-30'

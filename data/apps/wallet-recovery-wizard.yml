@@ -30,7 +30,7 @@ evidence:
   source: https://aur.archlinux.org/packages/wallet-recovery-wizard-bin
   found_in: wallet-recovery-wizard-bin
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
-last_commit: '2026-07-31'
+last_commit: '2026-08-03'
 aur_downloads:
 - url: https://github.com/BitGo/wallet-recovery-wizard/releases/download/v5.11.0/Wallet.Recovery.Wizard-Linux-5.11.0.deb
   name: Wallet.Recovery.Wizard-Linux-5.11.0.deb

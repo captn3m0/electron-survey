@@ -56,4 +56,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/shy1132/VacuumTube/archive/refs/tags/v1.8.2.zip
 aur_votes: 1
-last_commit: '2026-07-30'
+last_commit: '2026-08-04'

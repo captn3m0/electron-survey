@@ -5,7 +5,7 @@ repository: https://github.com/scriptkavi/lantalk
 aur:
 - lantalk-bin
 electron: 28.3.3
-method: aur-depends
+method: which-electron-rg
 latest: v1.0.4
 src: https://github.com/scriptkavi/lantalk/archive/refs/tags/v1.0.4.zip
 downloads:
@@ -36,10 +36,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lantalk-bin
-  found_in: lantalk-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk-1.0.4.AppImage
+  found_in: lantalk-1.0.4.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-06-25'
 aur_downloads:
 - url: https://github.com/scriptkavi/lantalk/releases/download/v1.0.4/lantalk_1.0.4_amd64.deb

@@ -4,8 +4,8 @@ website: https://github.com/vti/elemntary
 repository: https://github.com/vti/elemntary
 aur:
 - elemntary-bin
-electron: 24.8.8
-method: aur-depends
+electron: 24.0.0
+method: which-electron-rg
 latest: v0.5.6
 src: https://github.com/vti/elemntary/archive/refs/tags/v0.5.6.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: elemntary-win32-x64-0.5.6.zip
   url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-win32-x64-0.5.6.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/elemntary-bin
-  found_in: elemntary-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-darwin-x64-0.5.6.zip
+  found_in: elemntary-darwin-x64-0.5.6.zip
+  signal: which-electron rg signal
 last_commit: '2024-08-20'
 aur_downloads:
 - url: https://github.com/vti/elemntary/releases/download/v0.5.6/elemntary-linux-x64-0.5.6.zip

@@ -3,13 +3,13 @@ name: Flb Music Player
 website: https://flbmusic.xyz/
 aur:
 - flb-music-player-bin
-electron: 13.6.9
-method: aur-depends
+electron: 13.5.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/flb-music-player-bin
-  found_in: flb-music-player-bin
-  signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+  kind: binary
+  source: https://github.com/FLB-Music/FLB-Music-Player/releases/download/v1.2.1/FLB-Music-1.2.1.AppImage
+  found_in: FLB-Music-1.2.1.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/FLB-Music/FLB-Music-Player/releases/download/v1.2.1/FLB-Music-1.2.1.AppImage
   name: FLB-Music-1.2.1.AppImage

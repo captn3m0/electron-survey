@@ -4,8 +4,8 @@ website: https://github.com/frodal/GUIwrapper
 repository: https://github.com/frodal/GUIwrapper
 aur:
 - guiwrapper-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.0.1
+method: which-electron-rg
 latest: v0.7.4
 src: https://github.com/frodal/GUIwrapper/archive/refs/tags/v0.7.4.zip
 downloads:
@@ -28,10 +28,10 @@ downloads:
 - name: RELEASES
   url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/RELEASES
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/guiwrapper-bin
-  found_in: guiwrapper-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/guiwrapper-0.7.4-full.nupkg
+  found_in: guiwrapper-0.7.4-full.nupkg
+  signal: which-electron rg signal
 last_commit: '2024-11-01'
 aur_downloads:
 - url: https://github.com/frodal/GUIwrapper/releases/download/v0.7.4/GUIwrapper-linux-x64.zip

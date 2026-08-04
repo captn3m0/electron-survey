@@ -18,3 +18,8 @@ downloads:
 - name: KakapoSetup-1.3.0-Win.exe
   url: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/KakapoSetup-1.3.0-Win.exe
 last_commit: '2018-12-03'
+evidence:
+  kind: binary
+  source: https://github.com/bluedaniel/Kakapo-app/releases/download/v1.3.0/Kakapo-1.3.0-Mac.zip
+  found_in: Kakapo-1.3.0-Mac.zip
+  signal: which-electron fingerprint signal

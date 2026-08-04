@@ -36,3 +36,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/LapsTimeOFF/DigiFlag_F1MV/releases/download/v2.8.4/latest.yml
 last_commit: '2026-03-02'
+electron: 38.4.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/LapsTimeOFF/DigiFlag_F1MV/releases/download/v2.8.4/DigiFlag-F1MV-2.8.4-linux-x86_64.AppImage
+  found_in: DigiFlag-F1MV-2.8.4-linux-x86_64.AppImage
+  signal: which-electron rg signal

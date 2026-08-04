@@ -4,8 +4,8 @@ website: https://github.com/hoowhoami/EchoMusic
 repository: https://github.com/hoowhoami/EchoMusic
 aur:
 - echo-music-bin
-electron: 42.7.0
-method: aur-depends
+electron: 43.1.1
+method: which-electron-rg
 latest: v2.2.8
 src: https://github.com/hoowhoami/EchoMusic/archive/refs/tags/v2.2.8.zip
 downloads:
@@ -53,7 +53,7 @@ downloads:
   url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest-mac.yml
 - name: latest.yml
   url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest.yml
-last_commit: '2026-08-03'
+last_commit: '2026-08-04'
 aur_downloads:
 - url: https://raw.githubusercontent.com/hoowhoami/EchoMusic/v2.2.8/LICENSE
   name: LICENSE
@@ -67,3 +67,8 @@ aur_downloads:
   name: EchoMusic-2.2.8-linux-x86_64.rpm
   arch: x86_64
   source: aur-bin
+evidence:
+  kind: binary
+  source: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/EchoMusic-2.2.8-linux-aarch64.rpm
+  found_in: EchoMusic-2.2.8-linux-aarch64.rpm
+  signal: which-electron rg signal

@@ -4,8 +4,8 @@ website: https://github.com/littlebutt/github-panel
 repository: https://github.com/littlebutt/github-panel
 aur:
 - github-panel-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.2.1
+method: which-electron-rg
 latest: v0.1.0
 src: https://github.com/littlebutt/github-panel/archive/refs/tags/v0.1.0.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: github-panel_0.1.0_amd64.deb
   url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel_0.1.0_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/github-panel-bin
-  found_in: github-panel-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel-darwin-arm64-0.1.0.zip
+  found_in: github-panel-darwin-arm64-0.1.0.zip
+  signal: which-electron rg signal
 last_commit: '2025-01-13'
 aur_downloads:
 - url: https://github.com/littlebutt/github-panel/releases/download/v0.1.0/github-panel_0.1.0_amd64.deb

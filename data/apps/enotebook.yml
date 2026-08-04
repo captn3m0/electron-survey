@@ -15,3 +15,4 @@ aur_downloads:
   name: eNotebook@1.0.0-linux.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:b559295cdd7c

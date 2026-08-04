@@ -1,80 +1,80 @@
 id: sleek
 repository: https://github.com/ransome1/sleek
 website: https://github.com/ransome1/sleek
-latest: v2.0.26
-src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.26.zip
+latest: v2.0.27
+src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.27.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/latest-linux-arm64.yml
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/latest-linux.yml
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/latest-mac.yml
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/latest.yml
-- name: sleek-2.0.26-linux-aarch64.rpm
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-aarch64.rpm
-- name: sleek-2.0.26-linux-amd64.deb
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-amd64.deb
-- name: sleek-2.0.26-linux-arm64.AppImage
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-arm64.AppImage
-- name: sleek-2.0.26-linux-arm64.deb
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-arm64.deb
-- name: sleek-2.0.26-linux-arm64.freebsd
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-arm64.freebsd
-- name: sleek-2.0.26-linux-x64.freebsd
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-x64.freebsd
-- name: sleek-2.0.26-linux-x86_64.AppImage
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-x86_64.AppImage
-- name: sleek-2.0.26-linux-x86_64.rpm
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-linux-x86_64.rpm
-- name: sleek-2.0.26-mac-arm64.dmg
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-arm64.dmg
-- name: sleek-2.0.26-mac-arm64.dmg.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-arm64.dmg.blockmap
-- name: sleek-2.0.26-mac-arm64.zip
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-arm64.zip
-- name: sleek-2.0.26-mac-arm64.zip.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-arm64.zip.blockmap
-- name: sleek-2.0.26-mac-x64.dmg
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-x64.dmg
-- name: sleek-2.0.26-mac-x64.dmg.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-x64.dmg.blockmap
-- name: sleek-2.0.26-mac-x64.zip
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-x64.zip
-- name: sleek-2.0.26-mac-x64.zip.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-mac-x64.zip.blockmap
-- name: sleek-2.0.26-win-arm64-Setup.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-arm64-Setup.exe
-- name: sleek-2.0.26-win-arm64-Setup.exe.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-arm64-Setup.exe.blockmap
-- name: sleek-2.0.26-win-arm64.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-arm64.exe
-- name: sleek-2.0.26-win-arm64.zip
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-arm64.zip
-- name: sleek-2.0.26-win-ia32-Setup.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-ia32-Setup.exe
-- name: sleek-2.0.26-win-ia32-Setup.exe.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-ia32-Setup.exe.blockmap
-- name: sleek-2.0.26-win-ia32.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-ia32.exe
-- name: sleek-2.0.26-win-ia32.zip
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-ia32.zip
-- name: sleek-2.0.26-win-Setup.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-Setup.exe
-- name: sleek-2.0.26-win-Setup.exe.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-Setup.exe.blockmap
-- name: sleek-2.0.26-win-x64-Setup.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-x64-Setup.exe
-- name: sleek-2.0.26-win-x64-Setup.exe.blockmap
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-x64-Setup.exe.blockmap
-- name: sleek-2.0.26-win-x64.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-x64.exe
-- name: sleek-2.0.26-win-x64.zip
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win-x64.zip
-- name: sleek-2.0.26-win.exe
-  url: https://github.com/ransome1/sleek/releases/download/v2.0.26/sleek-2.0.26-win.exe
-electron: 43.1.1
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/latest.yml
+- name: sleek-2.0.27-linux-aarch64.rpm
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-aarch64.rpm
+- name: sleek-2.0.27-linux-amd64.deb
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-amd64.deb
+- name: sleek-2.0.27-linux-arm64.AppImage
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-arm64.AppImage
+- name: sleek-2.0.27-linux-arm64.deb
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-arm64.deb
+- name: sleek-2.0.27-linux-arm64.freebsd
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-arm64.freebsd
+- name: sleek-2.0.27-linux-x64.freebsd
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-x64.freebsd
+- name: sleek-2.0.27-linux-x86_64.AppImage
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-x86_64.AppImage
+- name: sleek-2.0.27-linux-x86_64.rpm
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-linux-x86_64.rpm
+- name: sleek-2.0.27-mac-arm64.dmg
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-arm64.dmg
+- name: sleek-2.0.27-mac-arm64.dmg.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-arm64.dmg.blockmap
+- name: sleek-2.0.27-mac-arm64.zip
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-arm64.zip
+- name: sleek-2.0.27-mac-arm64.zip.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-arm64.zip.blockmap
+- name: sleek-2.0.27-mac-x64.dmg
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-x64.dmg
+- name: sleek-2.0.27-mac-x64.dmg.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-x64.dmg.blockmap
+- name: sleek-2.0.27-mac-x64.zip
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-x64.zip
+- name: sleek-2.0.27-mac-x64.zip.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-mac-x64.zip.blockmap
+- name: sleek-2.0.27-win-arm64-Setup.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-arm64-Setup.exe
+- name: sleek-2.0.27-win-arm64-Setup.exe.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-arm64-Setup.exe.blockmap
+- name: sleek-2.0.27-win-arm64.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-arm64.exe
+- name: sleek-2.0.27-win-arm64.zip
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-arm64.zip
+- name: sleek-2.0.27-win-ia32-Setup.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-ia32-Setup.exe
+- name: sleek-2.0.27-win-ia32-Setup.exe.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-ia32-Setup.exe.blockmap
+- name: sleek-2.0.27-win-ia32.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-ia32.exe
+- name: sleek-2.0.27-win-ia32.zip
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-ia32.zip
+- name: sleek-2.0.27-win-Setup.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-Setup.exe
+- name: sleek-2.0.27-win-Setup.exe.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-Setup.exe.blockmap
+- name: sleek-2.0.27-win-x64-Setup.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-x64-Setup.exe
+- name: sleek-2.0.27-win-x64-Setup.exe.blockmap
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-x64-Setup.exe.blockmap
+- name: sleek-2.0.27-win-x64.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-x64.exe
+- name: sleek-2.0.27-win-x64.zip
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win-x64.zip
+- name: sleek-2.0.27-win.exe
+  url: https://github.com/ransome1/sleek/releases/download/v2.0.27/sleek-2.0.27-win.exe
+electron: 43.2.0
 method: src-package-lock
 aur:
 - sleek
@@ -84,12 +84,11 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.26.zip
+electron_src: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.27.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Aransome1%2Fsleek+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: sleek-2.0.27/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.27.zip
 aur_votes: 10
-last_commit: '2026-08-02'
+last_commit: '2026-08-03'

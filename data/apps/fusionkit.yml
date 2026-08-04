@@ -5,7 +5,7 @@ repository: https://github.com/QiuYeDx/FusionKit
 aur:
 - fusionkit-git
 electron: 33.4.11
-method: aur-depends
+method: which-electron-rg
 latest: v0.2.11
 src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.2.11.zip
 downloads:
@@ -22,8 +22,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/fusionkit-git
-  found_in: fusionkit-git
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
-last_commit: '2026-08-03'
+  kind: binary
+  source: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg
+  found_in: FusionKit_0.2.11.dmg
+  signal: which-electron rg signal
+last_commit: '2026-08-04'

@@ -23,3 +23,4 @@ evidence:
   found_in: image-stitching-git
   signal: depends on electron27; reported as the newest 27.x release (27.3.11)
 last_commit: '2024-05-06'
+we_tried: we1.2.1+p1:v1-v4

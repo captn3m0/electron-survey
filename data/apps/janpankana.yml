@@ -24,14 +24,13 @@ downloads:
   url: https://github.com/huyunan/japankana/releases/download/v1.0.2/japankana-mac.zip
 - name: japankana_1.0.2_amd64.deb
   url: https://github.com/huyunan/japankana/releases/download/v1.0.2/japankana_1.0.2_amd64.deb
-electron: 12.2.3
-method: src-range-guess
+electron: 12.0.10
+method: which-electron-rg
 name: Janpankana
 electron_src: https://github.com/styunan/japankana/archive/refs/tags/v1.0.2.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Astyunan%2Fjapankana+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/huyunan/japankana/releases/download/v1.0.2/japankana-1.0.2.AppImage
+  found_in: japankana-1.0.2.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-08-15'

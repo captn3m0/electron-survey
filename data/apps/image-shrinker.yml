@@ -12,14 +12,13 @@ downloads:
   url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/Image-Shrinker-1.6.4.dmg.blockmap
 - name: latest-mac.yml
   url: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/latest-mac.yml
-electron: 10.4.7
-method: src-range-guess
+electron: 10.1.5
+method: which-electron-fingerprint
 name: ImageShrinker
 electron_src: https://github.com/stefansl/image-shrinker/archive/refs/tags/v1.6.4.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Astefansl%2Fimage-shrinker+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/stefansl/image-shrinker/releases/download/v1.6.4/Image-Shrinker-1.6.4-mac.zip
+  found_in: Image-Shrinker-1.6.4-mac.zip
+  signal: which-electron fingerprint signal
 last_commit: '2026-07-07'

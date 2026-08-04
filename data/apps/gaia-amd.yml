@@ -4,8 +4,8 @@ website: https://github.com/amd/gaia
 repository: https://github.com/amd/gaia
 aur:
 - gaia-amd-webui
-electron: 40.10.6
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 latest: v0.22.0
 src: https://github.com/amd/gaia/archive/refs/tags/v0.22.0.zip
 downloads:
@@ -36,8 +36,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/amd/gaia/releases/download/v0.22.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/gaia-amd-webui
-  found_in: gaia-amd-webui
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
-last_commit: '2026-08-03'
+  kind: binary
+  source: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-arm64.dmg
+  found_in: gaia-agent-ui-0.22.0-arm64.dmg
+  signal: which-electron rg signal
+last_commit: '2026-08-04'

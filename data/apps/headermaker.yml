@@ -4,8 +4,8 @@ website: https://github.com/NewBumpEr/HeaderMaker
 repository: https://github.com/NewBumpEr/HeaderMaker
 aur:
 - headermaker-git
-electron: 31.7.7
-method: aur-depends
+electron: 31.3.0
+method: which-electron-rg
 latest: v1.0.3
 src: https://github.com/NewBumpEr/HeaderMaker/archive/refs/tags/v1.0.3.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: HeaderMaker.exe
   url: https://github.com/NewBumpEr/HeaderMaker/releases/download/v1.0.3/HeaderMaker.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/headermaker-git
-  found_in: headermaker-git
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/NewBumpEr/HeaderMaker/releases/download/v1.0.3/HeaderMaker.dmg
+  found_in: HeaderMaker.dmg
+  signal: which-electron rg signal
 last_commit: '2024-09-18'

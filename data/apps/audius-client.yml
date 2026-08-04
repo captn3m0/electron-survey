@@ -4,18 +4,17 @@ website: https://github.com/AudiusProject/audius-protocol/tree/main/packages/web
 repository: https://github.com/AudiusProject/audius-protocol
 aur:
 - audius-client-bin
-latest: '@audius/sdk@15.3.1'
-src: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk@15.3.1.zip
+latest: '@audius/sdk-legacy@6.0.29'
+src: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk-legacy@6.0.29.zip
 electron: 27.3.2
 method: src-package-lock
-electron_src: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk@15.3.1.zip
+electron_src: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk-legacy@6.0.29.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3AAudiusProject%2Faudius-protocol+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: apps--audius-sdk-legacy-6.0.29/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
-last_commit: '2026-07-28'
+  source: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk-legacy@6.0.29.zip
+last_commit: '2026-08-04'
 aur_downloads:
 - url: https://download.audius.co/Audius-1.5.55.AppImage
   name: Audius-1.5.55.AppImage

@@ -28,7 +28,7 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
-last_commit: '2026-08-01'
+last_commit: '2026-08-03'
 aur_downloads:
 - url: https://github.com/AiursoftWeb/Kahla.App/releases/download/v4.5.0/kahla_4.5.0_amd64.deb
   name: kahla_4.5.0_amd64.deb
@@ -38,3 +38,4 @@ aur_downloads:
   name: LICENSE
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v4.5.0

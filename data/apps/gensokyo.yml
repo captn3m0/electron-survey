@@ -4,8 +4,8 @@ website: https://github.com/Prince527GitHub/Gensokyo-Radio
 repository: https://github.com/Prince527GitHub/Gensokyo-Radio
 aur:
 - gensokyo-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.0.2
+method: which-electron-rg
 latest: 1.0.0
 src: https://github.com/Prince527GitHub/Gensokyo-Radio/archive/refs/tags/1.0.0.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: Windows.zip
   url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Windows.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/gensokyo-bin
-  found_in: gensokyo-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Linux.zip
+  found_in: Linux.zip
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2024-07-21'
 aur_downloads:
 - url: https://github.com/Prince527GitHub/Gensokyo-Radio/releases/download/1.0.0/Debian.zip

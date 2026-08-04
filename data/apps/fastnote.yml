@@ -19,3 +19,4 @@ evidence:
   found_in: fastnote-git
   signal: depends on electron33; reported as the newest 33.x release (33.4.11)
 last_commit: '2025-06-16'
+we_tried: we1.2.1+p1:v1.0.1

@@ -6,3 +6,10 @@ name: Getränkeliste App
 downloads:
 - url: https://iqmeta.com/gliste_desktop_1.0.0.zip
   name: gliste_desktop_1.0.0.zip
+electron: 4.0.7
+method: which-electron-version_file
+evidence:
+  kind: binary
+  source: https://iqmeta.com/gliste_desktop_1.0.0.zip
+  found_in: gliste_desktop_1.0.0.zip
+  signal: which-electron version_file signal (3 signals agreed)

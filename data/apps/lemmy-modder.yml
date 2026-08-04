@@ -4,8 +4,8 @@ website: https://github.com/tgxn/lemmy-modder
 repository: https://github.com/tgxn/lemmy-modder
 aur:
 - lemmy-modder-app-bin
-electron: 25.9.8
-method: aur-depends
+electron: 25.3.0
+method: which-electron-rg
 latest: v0.4.0
 src: https://github.com/tgxn/lemmy-modder/archive/refs/tags/v0.4.0.zip
 downloads:
@@ -36,10 +36,10 @@ downloads:
 - name: LemmyModder-0.4.0-Windows-Setup.exe.blockmap
   url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-Windows-Setup.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lemmy-modder-app-bin
-  found_in: lemmy-modder-app-bin
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-linux-x86_64.rpm
+  found_in: LemmyModder-0.4.0-linux-x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2024-02-02'
 aur_downloads:
 - url: https://github.com/tgxn/lemmy-modder/releases/download/v0.4.0/LemmyModder-0.4.0-linux-amd64.deb

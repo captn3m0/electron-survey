@@ -5,7 +5,7 @@ repository: https://github.com/anthonypauwels/favicon-generator
 aur:
 - favicon-generator
 electron: 14.2.9
-method: aur-depends
+method: which-electron-rg
 latest: 0.1.1
 src: https://github.com/anthonypauwels/favicon-generator/archive/refs/tags/0.1.1.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: favicon-generator-windows-0.1.1.exe
   url: https://github.com/anthonypauwels/favicon-generator/releases/download/0.1.1/favicon-generator-windows-0.1.1.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/favicon-generator
-  found_in: favicon-generator
-  signal: depends on electron14; reported as the newest 14.x release (14.2.9)
+  kind: binary
+  source: https://github.com/anthonypauwels/favicon-generator/releases/download/0.1.1/favicon-generator-macos-0.1.1.dmg
+  found_in: favicon-generator-macos-0.1.1.dmg
+  signal: which-electron rg signal
 last_commit: '2023-06-21'

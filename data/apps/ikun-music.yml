@@ -4,8 +4,8 @@ website: https://github.com/ikunshare/ikun-music-desktop
 repository: https://github.com/ikunshare/ikun-music-desktop
 aur:
 - ikun-music-desktop-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.6.1
+method: which-electron-rg
 latest: v3.3.0-fix.7
 src: https://github.com/ikunshare/ikun-music-desktop/archive/refs/tags/v3.3.0-fix.7.zip
 downloads:
@@ -60,10 +60,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ikun-music-desktop-bin
-  found_in: ikun-music-desktop-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop-3.3.0-fix.7.x64.rpm
+  found_in: ikun-music-desktop-3.3.0-fix.7.x64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-04-06'
 aur_downloads:
 - url: https://github.com/ikunshare/ikun-music-desktop/releases/download/v3.3.0-fix.7/ikun-music-desktop_3.3.0-fix.7_arm64.deb

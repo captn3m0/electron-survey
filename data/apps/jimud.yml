@@ -3,13 +3,13 @@ name: Jimud
 website: http://www.shadowmud.com/
 aur:
 - jimud-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.2.3
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/jimud-bin
-  found_in: jimud-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/icewolfz/jiMUD/releases/download/v1.7.0/jimud-1.7.0.x86_64.rpm
+  found_in: jimud-1.7.0.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/icewolfz/jiMUD/releases/download/v1.7.0/jimud-1.7.0.x86_64.rpm
   name: jimud-1.7.0.x86_64.rpm

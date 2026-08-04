@@ -21,3 +21,4 @@ evidence:
   found_in: finance-manager-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 last_commit: '2024-05-04'
+we_tried: we1.2.1+p1:1.0.1

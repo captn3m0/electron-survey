@@ -14,3 +14,8 @@ downloads:
 - name: GraphQL.IDE.zip
   url: https://github.com/andev-software/graphql-ide/releases/download/v1.1.1/GraphQL.IDE.zip
 last_commit: '2018-07-24'
+evidence:
+  kind: binary
+  source: https://github.com/andev-software/graphql-ide/releases/download/v1.1.1/GraphQL.IDE.zip
+  found_in: GraphQL.IDE.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

@@ -15,3 +15,10 @@ downloads:
   name: FlowPaper_Desktop_Publisher-arm64.dmg
 - url: https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher.dmg
   name: FlowPaper_Desktop_Publisher.dmg
+electron: 36.9.3
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://flowpaper.com/publisher_builds/FlowPaper_Desktop_Publisher-arm64.dmg
+  found_in: FlowPaper_Desktop_Publisher-arm64.dmg
+  signal: which-electron rg signal

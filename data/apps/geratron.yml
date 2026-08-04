@@ -17,3 +17,4 @@ evidence:
   found_in: geratron-git
   signal: depends on electron32; reported as the newest 32.x release (32.3.3)
 last_commit: '2024-09-06'
+we_tried: we1.2.1+p1:v1.0.1

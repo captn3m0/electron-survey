@@ -5,7 +5,7 @@ repository: https://github.com/Alex313031/electron-calculator
 aur:
 - electron-calculator-bin
 electron: 22.3.27
-method: aur-depends
+method: which-electron-rg
 latest: 1.1.2
 src: https://github.com/Alex313031/electron-calculator/archive/refs/tags/1.1.2.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: electron_calculator_win64_1.1.2_x64.zip
   url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron_calculator_win64_1.1.2_x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/electron-calculator-bin
-  found_in: electron-calculator-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron-calculator_1.1.2_x64.AppImage
+  found_in: electron-calculator_1.1.2_x64.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-02-10'
 aur_downloads:
 - url: https://github.com/Alex313031/electron-calculator/releases/download/1.1.2/electron-calculator_1.1.2_amd64.deb

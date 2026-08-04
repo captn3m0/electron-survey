@@ -5,7 +5,7 @@ repository: https://github.com/cjmalloy/jasper-app
 aur:
 - jasper-km-bin
 electron: 43.1.1
-method: aur-depends
+method: which-electron-rg
 latest: v1.1.20
 src: https://github.com/cjmalloy/jasper-app/archive/refs/tags/v1.1.20.zip
 downloads:
@@ -32,10 +32,10 @@ downloads:
 - name: latest.yml
   url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.20/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/jasper-km-bin
-  found_in: jasper-km-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+  kind: binary
+  source: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
+  found_in: Jasper-1.1.16.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-08-01'
 aur_downloads:
 - url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage

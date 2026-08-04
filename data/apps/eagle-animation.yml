@@ -4,12 +4,12 @@ website: https://brickfilms.com/
 aur:
 - eagle-animation-bin
 electron: 43.1.1
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/eagle-animation-bin
-  found_in: eagle-animation-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+  kind: binary
+  source: https://github.com/brick-a-brack/eagle-animation/releases/download/v2.17.2/eagle-animation-2.17.2-linux.rpm
+  found_in: eagle-animation-2.17.2-linux.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/brick-a-brack/eagle-animation/releases/download/v2.17.2/eagle-animation-2.17.2-linux.rpm
   name: eagle-animation-2.17.2-linux.rpm

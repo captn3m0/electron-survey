@@ -4,8 +4,8 @@ website: https://github.com/iceyear/iipython-feishin-electron-bin
 repository: https://github.com/iceyear/iipython-feishin-electron-bin
 aur:
 - iipython-feishin-electron-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.4.0
+method: which-electron-rg
 latest: 26.05.10-1.0
 src: https://github.com/iceyear/iipython-feishin-electron-bin/archive/refs/tags/26.05.10-1.0.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: latest-linux.yml
   url: https://github.com/iceyear/iipython-feishin-electron-bin/releases/download/26.05.10-1.0/latest-linux.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/iipython-feishin-electron-bin
-  found_in: iipython-feishin-electron-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/iceyear/iipython-feishin-electron-bin/releases/download/26.05.10-1.0/Feishin-linux-x64.tar.xz
+  found_in: Feishin-linux-x64.tar.xz
+  signal: which-electron rg signal
 last_commit: '2026-05-17'
 aur_downloads:
 - url: https://github.com/iceyear/iipython-feishin-electron-bin/releases/download/26.05.10-1.0/Feishin-linux-amd64.deb

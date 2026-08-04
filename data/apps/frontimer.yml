@@ -6,8 +6,8 @@ aur:
 - frontimer
 additionalAUR:
 - frontimer-bin
-electron: 25.9.8
-method: aur-depends
+electron: 25.0.1
+method: which-electron-rg
 latest: v0.1.17
 src: https://github.com/seita1996/frontimer/archive/refs/tags/v0.1.17.zip
 downloads:
@@ -22,8 +22,8 @@ downloads:
 - name: latest.yml
   url: https://github.com/seita1996/frontimer/releases/download/v0.1.17/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/frontimer
-  found_in: frontimer
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/seita1996/frontimer/releases/download/v0.1.17/frontimer-0.1.17.AppImage
+  found_in: frontimer-0.1.17.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-11-01'
