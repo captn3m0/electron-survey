@@ -19,3 +19,4 @@ aur_downloads:
   name: PDMaas-Pro-linux_amd64_v2.3.3.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:f6b05656f066

@@ -6,8 +6,8 @@ aur:
 - mu-epub-viewer-bin
 additionalAUR:
 - mu-epub-viewer-git
-electron: 16.2.8
-method: aur-depends
+electron: 16.0.4
+method: which-electron-rg
 latest: v1.1.4
 src: https://github.com/azu/mu-epub-reader/archive/refs/tags/v1.1.4.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: mu-epub-viewer.exe
   url: https://github.com/azu/mu-epub-reader/releases/download/v1.1.4/mu-epub-viewer.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mu-epub-viewer-bin
-  found_in: mu-epub-viewer-bin
-  signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+  kind: binary
+  source: https://github.com/azu/mu-epub-reader/releases/download/v1.1.4/mu-epub-viewer-1.1.4.AppImage
+  found_in: mu-epub-viewer-1.1.4.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-10-09'
 aur_downloads:
 - url: https://github.com/azu/mu-epub-reader/releases/download/v1.1.4/mu-epub-viewer-1.1.4.AppImage

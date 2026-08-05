@@ -17,3 +17,4 @@ evidence:
   found_in: net-player
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
 last_commit: '2024-10-08'
+we_tried: we1.2.1+p1:v3.0.1

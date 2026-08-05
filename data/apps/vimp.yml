@@ -16,4 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/vimp-git
   found_in: vimp-git
   signal: depends on electron37; reported as the newest 37.x release (37.10.3)
-last_commit: '2026-08-01'
+last_commit: '2026-08-05'

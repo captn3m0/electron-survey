@@ -15,3 +15,4 @@ aur_downloads:
   name: neoplayer-linux-v1.5.5.zip
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:fa619f6a152f

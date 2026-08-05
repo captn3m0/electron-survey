@@ -4,8 +4,8 @@ website: https://github.com/ytakahashi/miru
 repository: https://github.com/ytakahashi/miru
 aur:
 - miru-viewer-git
-electron: 40.10.6
-method: aur-depends
+electron: 40.8.0
+method: which-electron-rg
 latest: v1.5.0
 src: https://github.com/ytakahashi/miru/archive/refs/tags/v1.5.0.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: miru-1.5.0-arm64.dmg.blockmap
   url: https://github.com/ytakahashi/miru/releases/download/v1.5.0/miru-1.5.0-arm64.dmg.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/miru-viewer-git
-  found_in: miru-viewer-git
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/ytakahashi/miru/releases/download/v1.5.0/miru-1.5.0-arm64.dmg
+  found_in: miru-1.5.0-arm64.dmg
+  signal: which-electron rg signal
 last_commit: '2026-08-03'

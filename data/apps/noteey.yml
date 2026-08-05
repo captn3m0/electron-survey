@@ -23,3 +23,10 @@ aur_downloads:
   name: Noteey-Setup-1.53.0.exe
   arch: any
   source: aur-bin
+electron: 31.1.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/andyyoungm/muenzo/releases/download/v1.60.1/Noteey-1.60.1.universal.zip
+  found_in: Noteey-1.60.1.universal.zip
+  signal: which-electron rg signal

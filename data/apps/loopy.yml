@@ -17,3 +17,4 @@ evidence:
   found_in: loopy-desktop
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
 last_commit: '2023-07-21'
+we_tried: we1.2.1+p1:v1.2.1

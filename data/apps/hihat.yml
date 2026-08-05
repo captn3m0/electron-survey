@@ -24,4 +24,4 @@ evidence:
   source: https://github.com/johnnyshankman/hihat/releases/download/2.3.6/hihat-2.3.6-arm64-mac.zip
   found_in: hihat-2.3.6-arm64-mac.zip
   signal: which-electron rg signal
-last_commit: '2026-08-02'
+last_commit: '2026-08-04'

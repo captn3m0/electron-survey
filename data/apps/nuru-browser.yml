@@ -4,18 +4,18 @@ website: https://github.com/ackimcu/Nuru-Browser
 repository: https://github.com/ackimcu/Nuru-Browser
 aur:
 - nuru-browser-bin
-electron: 38.8.6
-method: aur-depends
+electron: 38.1.0
+method: which-electron-rg
 latest: v1.0.2
 src: https://github.com/ackimcu/Nuru-Browser/archive/refs/tags/v1.0.2.zip
 downloads:
 - name: NuruBrowser-1.0.2.AppImage
   url: https://github.com/ackimcu/Nuru-Browser/releases/download/v1.0.2/NuruBrowser-1.0.2.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/nuru-browser-bin
-  found_in: nuru-browser-bin
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/ackimcu/Nuru-Browser/releases/download/v1.0.2/NuruBrowser-1.0.2.AppImage
+  found_in: NuruBrowser-1.0.2.AppImage
+  signal: which-electron rg signal (3 signals agreed)
 last_commit: '2025-09-21'
 aur_downloads:
 - url: https://github.com/ackimcu/Nuru-Browser/releases/download/v1.0.2/NuruBrowser-1.0.2.AppImage

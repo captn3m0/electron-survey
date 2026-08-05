@@ -19,13 +19,12 @@ downloads:
   url: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor-6.1.0.dmg.blockmap
 - name: MarkdownEditor.6.1.0.exe
   url: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor.6.1.0.exe
-electron: 6.1.12
-method: src-range-guess
+electron: 6.0.11
+method: which-electron-fingerprint
 electron_src: https://github.com/JP1016/Markdown-Electron/archive/refs/tags/1.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3AJP1016%2FMarkdown-Electron+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/JP1016/Markdown-Electron/releases/download/1/MarkdownEditor-6.1.0.AppImage
+  found_in: MarkdownEditor-6.1.0.AppImage
+  signal: which-electron fingerprint signal (2 signals agreed)
 last_commit: '2020-07-07'

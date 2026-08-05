@@ -1,30 +1,52 @@
 id: tidgi
 repository: https://github.com/tiddly-gittly/TidGi-Desktop
 website: https://github.com/tiddly-gittly/TidGi-Desktop
-latest: v0.14.1
-src: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.14.1.zip
+latest: v0.14.2
+src: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.14.2.zip
 downloads:
 - name: Install-TidGi-Windows-arm64.exe
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/Install-TidGi-Windows-arm64.exe
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/Install-TidGi-Windows-arm64.exe
+  checksum: 35871bcf8bf9bb3ca8c126fbaa6e9b1a0e82111b6999b93ac192f39b0be8ea87
 - name: Install-TidGi-Windows-x64.exe
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/Install-TidGi-Windows-x64.exe
-- name: tidgi-0.14.1-1.arm64.rpm
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/tidgi-0.14.1-1.arm64.rpm
-- name: tidgi-0.14.1-1.x86_64.rpm
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/tidgi-0.14.1-1.x86_64.rpm
-- name: TidGi-darwin-arm64-0.14.1.zip
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/TidGi-darwin-arm64-0.14.1.zip
-- name: TidGi-darwin-x64-0.14.1.zip
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/TidGi-darwin-x64-0.14.1.zip
-- name: TidGi-win32-arm64-0.14.1.msix
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/TidGi-win32-arm64-0.14.1.msix
-- name: TidGi-win32-x64-0.14.1.msix
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/TidGi-win32-x64-0.14.1.msix
-- name: tidgi_0.14.1_amd64.deb
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/tidgi_0.14.1_amd64.deb
-- name: tidgi_0.14.1_arm64.deb
-  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.1/tidgi_0.14.1_arm64.deb
-electron: 41.7.1
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/Install-TidGi-Windows-x64.exe
+  checksum: 1e6d3d5a4c18dd12800bdef6998e9ce65bcba0df7d93dcfdf4dc5fdf51b645cb
+- name: SHA256SUMS-linux-arm64.txt
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/SHA256SUMS-linux-arm64.txt
+- name: SHA256SUMS-linux-x64.txt
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/SHA256SUMS-linux-x64.txt
+- name: SHA256SUMS-mac-arm64.txt
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/SHA256SUMS-mac-arm64.txt
+- name: SHA256SUMS-mac-x64.txt
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/SHA256SUMS-mac-x64.txt
+- name: SHA256SUMS-win-arm64.txt
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/SHA256SUMS-win-arm64.txt
+- name: SHA256SUMS-win-x64.txt
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/SHA256SUMS-win-x64.txt
+- name: tidgi-0.14.2-1.arm64.rpm
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/tidgi-0.14.2-1.arm64.rpm
+  checksum: a6e57c8ff7628eae7ae3a3e35f721197e5fb22dabe4727bae035c3bdcc364dee
+- name: tidgi-0.14.2-1.x86_64.rpm
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/tidgi-0.14.2-1.x86_64.rpm
+  checksum: 385bd3915d595be742376062f67a60ed96ac89086a4354885f1d6cd0c6a58e27
+- name: TidGi-darwin-arm64-0.14.2.zip
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/TidGi-darwin-arm64-0.14.2.zip
+  checksum: deb71923dfe95b0ab43434705a87d95a5b92cd8ed188653f6da7a18cd7c37d86
+- name: TidGi-darwin-x64-0.14.2.zip
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/TidGi-darwin-x64-0.14.2.zip
+  checksum: 1be87322ed9925b60f5ea12f124675898845416160e6b3ec42b971d1f9c736ca
+- name: TidGi-win32-arm64-0.14.2.msix
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/TidGi-win32-arm64-0.14.2.msix
+  checksum: 70957c2c9dae2b585c91d4ef92ca3b24658c64e015be1c28ac191f5873dc041d
+- name: TidGi-win32-x64-0.14.2.msix
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/TidGi-win32-x64-0.14.2.msix
+  checksum: c18e0201b7a2b412a05ee268dbfc9751900ca722d9685a2c36d1ee73c48136e5
+- name: tidgi_0.14.2_amd64.deb
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/tidgi_0.14.2_amd64.deb
+  checksum: 836560bb4baf7fdbaaf220e3e6a486e0d85a5ae503744713be9dddad78d8b52c
+- name: tidgi_0.14.2_arm64.deb
+  url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/tidgi_0.14.2_arm64.deb
+  checksum: e2d15abb9dd44ebdc569669b06722afd58d9da4aa795b72101557fad7c43709a
+electron: 43.2.0
 method: src-pnpm-lock
 homebrew: tidgi
 packages:
@@ -57,14 +79,13 @@ packages:
   os: macos
   arch: arm64
 name: TidGi
-electron_src: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.14.1.zip
+electron_src: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.14.2.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Atiddly-gittly%2FTidGi-Desktop+path%3Apnpm-lock.yaml+electron&type=code
-  found_in: pnpm-lock.yaml
+  found_in: TidGi-Desktop-0.14.2/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  reconstructed: true
+  source: https://github.com/tiddly-gittly/TidGi-Desktop/archive/refs/tags/v0.14.2.zip
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-03'
+last_commit: '2026-08-04'

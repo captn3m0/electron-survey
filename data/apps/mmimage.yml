@@ -4,8 +4,8 @@ website: https://github.com/gaspardruan/MMImage
 repository: https://github.com/gaspardruan/MMImage
 aur:
 - mmimage-git
-electron: 33.4.11
-method: aur-depends
+electron: 33.0.2
+method: which-electron-rg
 latest: v0.0.7
 src: https://github.com/gaspardruan/MMImage/archive/refs/tags/v0.0.7.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: MMImage-Windows-0.0.7-Setup.exe.blockmap
   url: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Windows-0.0.7-Setup.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mmimage-git
-  found_in: mmimage-git
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/gaspardruan/MMImage/releases/download/v0.0.7/MMImage-Mac-0.0.7-Installer.dmg
+  found_in: MMImage-Mac-0.0.7-Installer.dmg
+  signal: which-electron rg signal
 last_commit: '2026-04-14'

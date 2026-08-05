@@ -6,8 +6,8 @@ aur:
 - lyrs-bin
 additionalAUR:
 - lyrs-git
-electron: 43.1.1
-method: aur-depends
+electron: 43.0.0
+method: which-electron-rg
 latest: v0.26.4
 src: https://github.com/organization/lyrs/archive/refs/tags/v0.26.4.zip
 downloads:
@@ -44,11 +44,11 @@ downloads:
 - name: lyrs_0.26.4_amd64.deb
   url: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs_0.26.4_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lyrs-bin
-  found_in: lyrs-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
-last_commit: '2026-08-04'
+  kind: binary
+  source: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs-0.26.4.x86_64.rpm
+  found_in: lyrs-0.26.4.x86_64.rpm
+  signal: which-electron rg signal
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs-0.26.4.x86_64.rpm
   name: lyrs-0.26.4.x86_64.rpm

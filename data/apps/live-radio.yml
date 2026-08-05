@@ -4,8 +4,8 @@ website: https://github.com/JesperBry/live-radio-app
 repository: https://github.com/JesperBry/live-radio-app
 aur:
 - live-radio-app-bin
-electron: 23.3.13
-method: aur-depends
+electron: 23.1.3
+method: which-electron-rg
 latest: v1.2.1
 src: https://github.com/JesperBry/live-radio-app/archive/refs/tags/v1.2.1.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: radio-app_1.2.1_amd64.snap
   url: https://github.com/JesperBry/live-radio-app/releases/download/v1.2.1/radio-app_1.2.1_amd64.snap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/live-radio-app-bin
-  found_in: live-radio-app-bin
-  signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+  kind: binary
+  source: https://github.com/JesperBry/live-radio-app/releases/download/v1.2.1/radio-app_1.2.1_amd64.deb
+  found_in: radio-app_1.2.1_amd64.deb
+  signal: which-electron rg signal
 last_commit: '2025-01-31'
 aur_downloads:
 - url: https://github.com/JesperBry/live-radio-app/releases/download/v1.2.1/radio-app_1.2.1_amd64.deb

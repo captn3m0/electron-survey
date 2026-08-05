@@ -7,8 +7,8 @@ aur:
 additionalAUR:
 - lynxhub-bin
 - lynxhub-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.5.0
+method: which-electron-rg
 latest: V3.5.5
 src: https://github.com/KindaBrazy/LynxHub/archive/refs/tags/V3.5.5.zip
 downloads:
@@ -65,8 +65,8 @@ downloads:
 - name: LynxHub-V3.5.5-win_x64-Setup.exe.blockmap
   url: https://github.com/TheLynxHub/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-win_x64-Setup.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lynxhub
-  found_in: lynxhub
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/TheLynxHub/LynxHub/releases/download/V3.5.5/LynxHub-V3.5.5-linux_aarch64.rpm
+  found_in: LynxHub-V3.5.5-linux_aarch64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-25'

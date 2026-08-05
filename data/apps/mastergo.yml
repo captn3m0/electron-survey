@@ -3,13 +3,13 @@ name: Mastergo
 website: https://mastergo.com/resource
 aur:
 - mastergo-desktop-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.7.6
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mastergo-desktop-bin
-  found_in: mastergo-desktop-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://static.mastergo.com/plugins/desktop/macos-arm/MasterGo-1.10.11.dmg
+  found_in: MasterGo-1.10.11.dmg
+  signal: which-electron rg signal (2 signals agreed)
 aur_downloads:
 - url: https://static.mastergo.com/plugins/desktop/macos-arm/MasterGo-1.10.11.dmg
   name: MasterGo-1.10.11.dmg

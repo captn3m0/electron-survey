@@ -3,13 +3,13 @@ name: Localchat
 website: https://nathanlesage.github.io/local-chat/
 aur:
 - localchat-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.2.6
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/localchat-bin
-  found_in: localchat-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/nathanlesage/local-chat/releases/download/v0.11.0/localchat_0.11.0_arm64.deb
+  found_in: localchat_0.11.0_arm64.deb
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/nathanlesage/local-chat/releases/download/v0.11.0/localchat_0.11.0_arm64.deb
   name: localchat_0.11.0_arm64.deb

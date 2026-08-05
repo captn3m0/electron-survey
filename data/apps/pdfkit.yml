@@ -4,8 +4,8 @@ website: https://github.com/gianlu15/PDFkit
 repository: https://github.com/gianlu15/PDFkit
 aur:
 - pdfkit-git
-electron: 35.7.5
-method: aur-depends
+electron: 35.4.0
+method: which-electron-rg
 latest: v1.0.0
 src: https://github.com/gianlu15/PDFkit/archive/refs/tags/v1.0.0.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: PDFkit.Setup.1.0.0.exe
   url: https://github.com/gianlu15/PDFkit/releases/download/v1.0.0/PDFkit.Setup.1.0.0.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/pdfkit-git
-  found_in: pdfkit-git
-  signal: depends on electron35; reported as the newest 35.x release (35.7.5)
+  kind: binary
+  source: https://github.com/gianlu15/PDFkit/releases/download/v1.0.0/PDFkit-1.0.0-arm64.AppImage
+  found_in: PDFkit-1.0.0-arm64.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-05-28'

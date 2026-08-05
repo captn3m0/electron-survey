@@ -67,3 +67,4 @@ aur_downloads:
   name: Onlook-amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:v0.2.32

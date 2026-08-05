@@ -7,3 +7,10 @@ name: MyLottery
 downloads:
 - url: https://gitee.com/gemron/myLottery/releases/download/v0.1/myLottery-win32-ia32.7z
   name: myLottery-win32-ia32.7z
+electron: 1.8.2
+method: which-electron-version_file
+evidence:
+  kind: binary
+  source: https://gitee.com/gemron/myLottery/releases/download/v0.1/myLottery-win32-ia32.7z
+  found_in: myLottery-win32-ia32.7z
+  signal: which-electron version_file signal (2 signals agreed)

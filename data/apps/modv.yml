@@ -13,8 +13,8 @@ packages:
   arch: x64
 aur:
 - modv-bin
-electron: 25.9.8
-method: aur-depends
+electron: 31.3.1
+method: which-electron-rg
 latest: 3.30.0
 src: https://github.com/vcync/modV/archive/refs/tags/3.30.0.zip
 downloads:
@@ -29,10 +29,10 @@ downloads:
 - name: modV.Setup.3.30.0.exe.blockmap
   url: https://github.com/vcync/modV/releases/download/3.30.0/modV.Setup.3.30.0.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/modv-bin
-  found_in: modv-bin
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/vcync/modV/releases/download/3.30.0/modV-3.30.0.AppImage
+  found_in: modV-3.30.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-02-17'
 aur_downloads:
 - url: https://github.com/vcync/modV/releases/download/3.30.0/modV-3.30.0.AppImage

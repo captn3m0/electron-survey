@@ -4,8 +4,8 @@ website: https://github.com/S-404/nats-client-gui
 repository: https://github.com/S-404/nats-client-gui
 aur:
 - nats-js-client-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.6.7
+method: which-electron-rg
 latest: v0.1.5
 src: https://github.com/S-404/nats-client-gui/archive/refs/tags/v0.1.5.zip
 downloads:
@@ -26,10 +26,10 @@ downloads:
 - name: nats-js-client-Windows-0.1.5-Setup.exe.blockmap
   url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Windows-0.1.5-Setup.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/nats-js-client-bin
-  found_in: nats-js-client-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Linux-0.1.5.AppImage
+  found_in: nats-js-client-Linux-0.1.5.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-01-13'
 aur_downloads:
 - url: https://github.com/S-404/nats-client-gui/releases/download/v0.1.5/nats-js-client-Linux-0.1.5.AppImage

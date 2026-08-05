@@ -17,3 +17,4 @@ evidence:
   found_in: node-toolkit-git
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
 last_commit: '2025-03-12'
+we_tried: we1.2.1+p1:v2.2.2

@@ -4,8 +4,8 @@ website: https://github.com/liumingye/my-ocr
 repository: https://github.com/liumingye/my-ocr
 aur:
 - my-ocr-bin
-electron: 32.3.3
-method: aur-depends
+electron: 32.0.1
+method: which-electron-rg
 latest: v1.0.3
 src: https://github.com/liumingye/my-ocr/archive/refs/tags/v1.0.3.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: MY-OCR_1.0.4_arm64.deb
   url: https://github.com/liumingye/my-ocr/releases/download/v1.0.3/MY-OCR_1.0.4_arm64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/my-ocr-bin
-  found_in: my-ocr-bin
-  signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+  kind: binary
+  source: https://github.com/liumingye/my-ocr/releases/download/v1.0.3/MY-OCR_1.0.3_x64.dmg
+  found_in: MY-OCR_1.0.3_x64.dmg
+  signal: which-electron rg signal
 last_commit: '2024-12-09'
 aur_downloads:
 - url: https://raw.githubusercontent.com/liumingye/my-ocr/v1.0.3/LICENSE

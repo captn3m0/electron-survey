@@ -39,3 +39,8 @@ downloads:
 - name: MusicFree-0.0.8-win32-x64-setup.exe
   url: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe
 last_commit: '2026-06-25'
+evidence:
+  kind: binary
+  source: https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-arm64.dmg
+  found_in: MusicFree-0.0.8-darwin-arm64.dmg
+  signal: which-electron rg signal

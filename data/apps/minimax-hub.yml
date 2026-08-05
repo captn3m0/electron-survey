@@ -3,13 +3,13 @@ name: Minimax Hub
 website: https://hub.minimaxi.com/
 aur:
 - minimax-hub-bin
-electron: 39.8.10
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/minimax-hub-bin
-  found_in: minimax-hub-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://filecdn.minimax.chat/public/minimax-hub/release/domestic/builds/2.0.2/hilo-desktop-714/MiniMax%20Hub-2.0.2-mac.zip
+  found_in: MiniMax%20Hub-2.0.2-mac.zip
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://filecdn.minimax.chat/public/minimax-hub/release/domestic/builds/2.0.2/hilo-desktop-714/MiniMax%20Hub-2.0.2-mac.zip
   name: MiniMax%20Hub-2.0.2-mac.zip

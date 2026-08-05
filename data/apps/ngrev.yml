@@ -4,8 +4,8 @@ website: https://github.com/mgechev/ngrev
 repository: https://github.com/mgechev/ngrev
 aur:
 - ngrev-bin
-electron: 11.5.0
-method: aur-depends
+electron: 11.0.3
+method: which-electron-rg
 latest: v0.0.35
 src: https://github.com/mgechev/ngrev/archive/refs/tags/v0.0.35.zip
 downloads:
@@ -28,10 +28,10 @@ downloads:
 - name: ngrev-0.0.35.zip
   url: https://github.com/mgechev/ngrev/releases/download/v0.0.35/ngrev-0.0.35.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ngrev-bin
-  found_in: ngrev-bin
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/mgechev/ngrev/releases/download/v0.0.35/ngrev-0.0.35.AppImage
+  found_in: ngrev-0.0.35.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-01-07'
 aur_downloads:
 - url: https://github.com/mgechev/ngrev/releases/download/v0.0.35/ngrev-0.0.35.AppImage

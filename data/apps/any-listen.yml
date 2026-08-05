@@ -114,4 +114,4 @@ evidence:
   found_in: any-listen-0.7.1.aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-03'
+last_commit: '2026-08-04'

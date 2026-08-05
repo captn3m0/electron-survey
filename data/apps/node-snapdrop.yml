@@ -4,8 +4,8 @@ website: https://github.com/JustSch/node-snapdrop-electron
 repository: https://github.com/JustSch/node-snapdrop-electron
 aur:
 - node-snapdrop-electron-bin
-electron: 21.4.4
-method: aur-depends
+electron: 21.2.0
+method: which-electron-rg
 latest: v1.0.4
 src: https://github.com/JustSch/node-snapdrop-electron/archive/refs/tags/v1.0.4.zip
 downloads:
@@ -26,10 +26,10 @@ downloads:
 - name: snapdrop_1.0.4_amd64.deb
   url: https://github.com/JustSch/node-snapdrop-electron/releases/download/v1.0.4/snapdrop_1.0.4_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/node-snapdrop-electron-bin
-  found_in: node-snapdrop-electron-bin
-  signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+  kind: binary
+  source: https://github.com/JustSch/node-snapdrop-electron/releases/download/v1.0.4/snapdrop-1.0.4-1.x86_64.rpm
+  found_in: snapdrop-1.0.4-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2023-09-19'
 aur_downloads:
 - url: https://github.com/JustSch/node-snapdrop-electron/releases/download/v1.0.4/snapdrop_1.0.4_amd64.deb

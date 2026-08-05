@@ -6,12 +6,12 @@ aur:
 additionalAUR:
 - own3d-desktop-git
 electron: 29.4.6
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/own3d-desktop-bin
-  found_in: own3d-desktop-bin
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/own3d/desktop/releases/download/2.6.0/own3d-desktop-2.6.0-1.x86_64.rpm
+  found_in: own3d-desktop-2.6.0-1.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/own3d/desktop/releases/download/2.6.0/own3d-desktop-2.6.0-1.x86_64.rpm
   name: own3d-desktop-2.6.0-1.x86_64.rpm

@@ -13,7 +13,7 @@ evidence:
   source: https://aur.archlinux.org/packages/kanbanflow-app-bin
   found_in: kanbanflow-app-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
-last_commit: '2026-07-30'
+last_commit: '2026-08-04'
 src: https://github.com/metawave/kanbanflow-app/archive/refs/heads/main.zip
 aur_downloads:
 - url: https://raw.githubusercontent.com/metawave/kanbanflow-app/v1.0.0-beta.4/LICENSE.md

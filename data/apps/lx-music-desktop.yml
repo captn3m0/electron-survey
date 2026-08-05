@@ -31,7 +31,7 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron: 37.6.1
+electron: 40.9.2
 method: which-electron-rg
 latest: v2.12.2
 src: https://github.com/lyswhut/lx-music-desktop/archive/refs/tags/v2.12.2.zip
@@ -86,4 +86,9 @@ downloads:
   url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_x64.AppImage
 - name: lx-music-desktop_2.12.2_x64.pacman
   url: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop_2.12.2_x64.pacman
-last_commit: '2026-07-15'
+last_commit: '2026-08-04'
+evidence:
+  kind: binary
+  source: https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.2/lx-music-desktop-2.12.2.x64.rpm
+  found_in: lx-music-desktop-2.12.2.x64.rpm
+  signal: which-electron rg signal

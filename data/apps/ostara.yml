@@ -53,3 +53,8 @@ downloads:
 - name: Ostara-Setup-0.12.0.exe.blockmap
   url: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-Setup-0.12.0.exe.blockmap
 last_commit: '2026-06-25'
+evidence:
+  kind: binary
+  source: https://github.com/krud-dev/ostara/releases/download/v0.12.0/Ostara-0.12.0-arm64-mac.zip
+  found_in: Ostara-0.12.0-arm64-mac.zip
+  signal: which-electron rg signal

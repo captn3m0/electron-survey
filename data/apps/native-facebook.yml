@@ -3,13 +3,13 @@ name: Native Facebook
 website: https://yuhapps.dev/
 aur:
 - native-facebook-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.8.2
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/native-facebook-bin
-  found_in: native-facebook-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/YuhApps/NativeFacebook/releases/download/v1.4.0/Facebook-1.4.0-linux-amd64.deb
+  found_in: Facebook-1.4.0-linux-amd64.deb
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/YuhApps/NativeFacebook/releases/download/v1.4.0/Facebook-1.4.0-linux-amd64.deb
   name: Facebook-1.4.0-linux-amd64.deb

@@ -5,7 +5,7 @@ repository: https://github.com/hypn05/NoteMinder
 aur:
 - noteminder-bin
 electron: 27.3.11
-method: aur-depends
+method: which-electron-rg
 latest: v1.4.0
 src: https://github.com/hypn05/NoteMinder/archive/refs/tags/v1.4.0.zip
 downloads:
@@ -38,10 +38,10 @@ downloads:
 - name: noteminder_1.4.0_amd64.deb
   url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/noteminder_1.4.0_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/noteminder-bin
-  found_in: noteminder-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6-arm64.AppImage
+  found_in: NoteMinder-1.1.6-arm64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-26'
 aur_downloads:
 - url: https://raw.githubusercontent.com/hypn05/NoteMinder/v1.1.6/LICENSE

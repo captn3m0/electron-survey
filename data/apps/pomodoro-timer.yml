@@ -4,8 +4,8 @@ website: https://github.com/pauchiner/pomodoro-timer
 repository: https://github.com/pauchiner/pomodoro-timer
 aur:
 - pomodoro-timer
-electron: 26.6.10
-method: aur-depends
+electron: 26.2.1
+method: which-electron-rg
 latest: v1.1.0
 src: https://github.com/pauchiner/pomodoro-timer/archive/refs/tags/v1.1.0.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: macos-intel.dmg
   url: https://github.com/pauchiner/pomodoro-timer/releases/download/v1.1.0/macos-intel.dmg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/pomodoro-timer
-  found_in: pomodoro-timer
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/pauchiner/pomodoro-timer/releases/download/v1.1.0/macos-apple-silicon.dmg
+  found_in: macos-apple-silicon.dmg
+  signal: which-electron rg signal
 last_commit: '2024-12-14'

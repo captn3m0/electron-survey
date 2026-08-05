@@ -37,7 +37,7 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
-brew_installs: 100
+brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2026-03-23'

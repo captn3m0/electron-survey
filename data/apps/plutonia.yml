@@ -4,8 +4,8 @@ website: https://github.com/Plutonia-Games/Plutonia-Launcher
 repository: https://github.com/Plutonia-Games/Plutonia-Launcher
 aur:
 - plutonia-bin
-electron: 38.8.6
-method: aur-depends
+electron: 38.3.0
+method: which-electron-rg
 latest: 1.1.19
 src: https://github.com/Plutonia-Games/Plutonia-Launcher/archive/refs/tags/1.1.19.zip
 downloads:
@@ -32,10 +32,10 @@ downloads:
 - name: Plutonia-win-x64.exe.blockmap
   url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-win-x64.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/plutonia-bin
-  found_in: plutonia-bin
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-linux-x86_64.AppImage
+  found_in: Plutonia-linux-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-10-21'
 aur_downloads:
 - url: https://github.com/Plutonia-Games/Plutonia-Launcher/releases/download/1.1.19/Plutonia-linux-x86_64.AppImage

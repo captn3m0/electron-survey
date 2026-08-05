@@ -5,7 +5,7 @@ repository: https://github.com/dresden196/openvpn-connect-linux
 aur:
 - openvpn-connect-linux
 electron: 37.10.3
-method: aur-depends
+method: which-electron-rg
 latest: v3.8.0
 src: https://github.com/dresden196/openvpn-connect-linux/archive/refs/tags/v3.8.0.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: openvpn-connect-linux-3.8.0-x86_64.AppImage
   url: https://github.com/dresden196/openvpn-connect-linux/releases/download/v3.8.0/openvpn-connect-linux-3.8.0-x86_64.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/openvpn-connect-linux
-  found_in: openvpn-connect-linux
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/dresden196/openvpn-connect-linux/releases/download/v3.8.0/openvpn-connect-linux-3.8.0-x86_64.AppImage
+  found_in: openvpn-connect-linux-3.8.0-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-03-24'

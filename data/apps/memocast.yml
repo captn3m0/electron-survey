@@ -4,8 +4,8 @@ website: https://github.com/TankNee/Memocast
 repository: https://github.com/TankNee/Memocast
 aur:
 - memocast-bin
-electron: 16.2.8
-method: aur-depends
+electron: 9.4.4
+method: which-electron-fingerprint
 latest: v2.2.3
 src: https://github.com/TankNee/Memocast/archive/refs/tags/v2.2.3.zip
 downloads:
@@ -38,10 +38,10 @@ downloads:
 - name: Memocast-2.2.3-x86_64-linux.rpm
   url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-x86_64-linux.rpm
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/memocast-bin
-  found_in: memocast-bin
-  signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+  kind: binary
+  source: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-x86_64-linux.AppImage
+  found_in: Memocast-2.2.3-x86_64-linux.AppImage
+  signal: which-electron fingerprint signal
 last_commit: '2023-03-05'
 aur_downloads:
 - url: https://github.com/TankNee/Memocast/releases/download/v2.2.3/Memocast-2.2.3-amd64-linux.deb

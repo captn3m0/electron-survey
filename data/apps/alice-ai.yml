@@ -33,7 +33,7 @@ evidence:
   found_in: Alice-AI-App-Linux-1.4.4.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-03'
+last_commit: '2026-08-04'
 aur_downloads:
 - url: https://github.com/pmbstyle/Alice/releases/download/v1.4.4/Alice-AI-App-Linux-1.4.4.AppImage
   name: Alice-AI-App-Linux-1.4.4.AppImage

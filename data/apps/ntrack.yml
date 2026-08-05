@@ -52,3 +52,4 @@ aur_downloads:
   name: ntrack_1.5.0_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:1.5.1

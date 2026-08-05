@@ -4,8 +4,8 @@ website: https://github.com/soapdog/patchwork
 repository: https://github.com/soapdog/patchwork
 aur:
 - poncho-wonky
-electron: 39.8.10
-method: aur-depends
+electron: 41.2.0
+method: which-electron-rg
 latest: v5.4.0
 src: https://github.com/soapdog/patchwork/archive/refs/tags/v5.4.0.zip
 downloads:
@@ -42,8 +42,8 @@ downloads:
 - name: ponchowonky_5.4.0_arm64.deb
   url: https://github.com/soapdog/patchwork/releases/download/v5.4.0/ponchowonky_5.4.0_arm64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/poncho-wonky
-  found_in: poncho-wonky
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/soapdog/patchwork/releases/download/v5.4.0/ponchowonky-5.4.0-arm64.tar.gz
+  found_in: ponchowonky-5.4.0-arm64.tar.gz
+  signal: which-electron rg signal
 last_commit: '2026-07-30'

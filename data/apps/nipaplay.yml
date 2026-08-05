@@ -4,8 +4,8 @@ website: https://github.com/MCDFsteve/NipaPlay
 repository: https://github.com/MCDFsteve/NipaPlay
 aur:
 - nipaplay-bin
-electron: 29.4.6
-method: aur-depends
+electron: 29.3.0
+method: which-electron-rg
 latest: 1.7.0
 src: https://github.com/MCDFsteve/NipaPlay/archive/refs/tags/1.7.0.zip
 downloads:
@@ -34,10 +34,10 @@ downloads:
 - name: NipaPlay-1.7.0-win-x64.exe.blockmap
   url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-win-x64.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/nipaplay-bin
-  found_in: nipaplay-bin
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-linux-arm64.zip
+  found_in: NipaPlay-1.7.0-linux-arm64.zip
+  signal: which-electron rg signal
 last_commit: '2026-02-02'
 aur_downloads:
 - url: https://github.com/MCDFsteve/NipaPlay/releases/download/1.7.0/NipaPlay-1.7.0-linux-arm64.zip

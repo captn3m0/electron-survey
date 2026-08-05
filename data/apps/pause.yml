@@ -4,8 +4,8 @@ website: https://github.com/Thomsch/pause
 repository: https://github.com/Thomsch/pause
 aur:
 - pause-desktop-bin
-electron: 27.3.11
-method: aur-depends
+electron: 27.1.0
+method: which-electron-rg
 latest: v0.9.2
 src: https://github.com/Thomsch/pause/archive/refs/tags/v0.9.2.zip
 downloads:
@@ -30,10 +30,10 @@ downloads:
 - name: pause-Setup-0.9.2.exe.blockmap
   url: https://github.com/Thomsch/pause/releases/download/v0.9.2/pause-Setup-0.9.2.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/pause-desktop-bin
-  found_in: pause-desktop-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/Thomsch/pause/releases/download/v0.9.2/Pause-0.9.2.AppImage
+  found_in: Pause-0.9.2.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-02-18'
 aur_downloads:
 - url: https://github.com/Thomsch/pause/releases/download/v0.9.2/Pause-0.9.2.AppImage

@@ -31,4 +31,4 @@ evidence:
   found_in: ChatLab-0.34.1-arm64.zip
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'

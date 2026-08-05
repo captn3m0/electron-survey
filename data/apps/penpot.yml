@@ -63,7 +63,7 @@ evidence:
   found_in: penpot-desktop-aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-27'
+last_commit: '2026-08-04'
 aur_downloads:
 - url: https://github.com/author-more/penpot-desktop/releases/download/v0.23.2/penpot-desktop-aarch64.rpm
   name: penpot-desktop-aarch64.rpm

@@ -3,13 +3,13 @@ name: Moonfm
 website: https://moon.fm/
 aur:
 - moonfm-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.4.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/moonfm-bin
-  found_in: moonfm-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://moon.fm/dist/MoonFM-5.0.3-x86_64.AppImage
+  found_in: MoonFM-5.0.3-x86_64.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://moon.fm/dist/MoonFM-5.0.3-x86_64.AppImage
   name: MoonFM-5.0.3-x86_64.AppImage

@@ -4,8 +4,8 @@ website: https://github.com/mikepruett3/owa-desktop
 repository: https://github.com/mikepruett3/owa-desktop
 aur:
 - owa-desktop-bin
-electron: 25.9.8
-method: aur-depends
+electron: 25.3.1
+method: which-electron-rg
 latest: v1.0.1
 src: https://github.com/mikepruett3/owa-desktop/archive/refs/tags/v1.0.1.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: RELEASES
   url: https://github.com/mikepruett3/owa-desktop/releases/download/v1.0.1/RELEASES
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/owa-desktop-bin
-  found_in: owa-desktop-bin
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/mikepruett3/owa-desktop/releases/download/v1.0.1/owa-desktop-1.0.1-1.x86_64.rpm
+  found_in: owa-desktop-1.0.1-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2023-08-07'
 aur_downloads:
 - url: https://github.com/mikepruett3/owa-desktop/releases/download/v1.0.1/owa-desktop-1.0.1-1.x86_64.rpm

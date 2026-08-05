@@ -4,8 +4,8 @@ website: https://github.com/CyanSalt/lyrically
 repository: https://github.com/CyanSalt/lyrically
 aur:
 - lyrically-bin
-electron: 30.5.1
-method: aur-depends
+electron: 38.1.1
+method: which-electron-rg
 latest: v0.7.0
 src: https://github.com/CyanSalt/lyrically/archive/refs/tags/v0.7.0.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: Lyrically-win32-x64.zip
   url: https://github.com/CyanSalt/lyrically/releases/download/v0.7.0/Lyrically-win32-x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/lyrically-bin
-  found_in: lyrically-bin
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/CyanSalt/lyrically/releases/download/v0.7.0/Lyrically-darwin-arm64.zip
+  found_in: Lyrically-darwin-arm64.zip
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2026-05-11'
 aur_downloads:
 - url: https://github.com/CyanSalt/lyrically/releases/download/v0.7.0/Lyrically-linux-x64.zip

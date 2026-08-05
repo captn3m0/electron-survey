@@ -4,13 +4,13 @@ website: https://github.com/JAWS-Developers-Opensource/MailcowClient
 repository: https://github.com/JAWS-Developers-Opensource/MailcowClient
 aur:
 - mailcowclient-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.2.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mailcowclient-bin
-  found_in: mailcowclient-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/JAWS-Developers-Opensource/MailcowClient/releases/download/v0.0.10/mailcowclient-0.0.10.AppImage
+  found_in: mailcowclient-0.0.10.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-03-30'
 src: https://github.com/JAWS-Developers-Opensource/MailcowClient/archive/refs/heads/master.zip
 aur_downloads:

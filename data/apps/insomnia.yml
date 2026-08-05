@@ -90,7 +90,7 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://github.com/Kong/insomnia/releases/download/lib@3.16.0/inso-linux-3.16.0.tar.xz
   name: inso-linux-3.16.0.tar.xz

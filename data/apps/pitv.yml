@@ -19,17 +19,16 @@ downloads:
 - name: RELEASES
   url: https://github.com/ozankaraali/PiTV/releases/download/latest/RELEASES
 electron: 22.0.0
-method: src-yarn-lock
+method: which-electron-rg
 aur:
 - pitv-bin
 name: PiTV
 electron_src: https://github.com/ozankaraali/PiTV/archive/refs/tags/latest.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Aozankaraali%2FPiTV+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
-  signal: electron pinned in yarn.lock
-  reconstructed: true
+  kind: binary
+  source: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv-1.1.2-1.x86_64.rpm
+  found_in: pitv-1.1.2-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2024-06-04'
 aur_downloads:
 - url: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv-1.1.2-1.x86_64.rpm

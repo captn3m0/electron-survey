@@ -4,8 +4,8 @@ website: https://github.com/cch01/mouse-automator
 repository: https://github.com/cch01/mouse-automator
 aur:
 - mouse-automator-bin
-electron: 30.5.1
-method: aur-depends
+electron: 30.0.8
+method: which-electron-rg
 latest: v1.0.16
 src: https://github.com/cch01/mouse-automator/archive/refs/tags/v1.0.16.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: mouseAutomator_portable_1.0.16.exe
   url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/mouseAutomator_portable_1.0.16.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mouse-automator-bin
-  found_in: mouse-automator-bin
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/Mouse-Automator-Linux-1.0.16.AppImage
+  found_in: Mouse-Automator-Linux-1.0.16.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-09-04'
 aur_downloads:
 - url: https://github.com/cch01/mouse-automator/releases/download/v1.0.16/Mouse-Automator-Linux-1.0.16.AppImage

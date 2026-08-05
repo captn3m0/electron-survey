@@ -3,13 +3,13 @@ name: Orca IDE
 website: https://onorca.dev/
 aur:
 - orca-ide-bin
-electron: 43.1.1
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/orca-ide-bin
-  found_in: orca-ide-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+  kind: binary
+  source: https://github.com/stablyai/orca/releases/download/v1.4.152/orca-ide-1.4.152.aarch64.rpm
+  found_in: orca-ide-1.4.152.aarch64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://raw.githubusercontent.com/stablyai/orca/v1.4.152/LICENSE
   name: LICENSE

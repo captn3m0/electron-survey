@@ -67,3 +67,8 @@ downloads:
 - name: MoeKoe_Music_v1.6.9-x86_64.AppImage
   url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.9/MoeKoe_Music_v1.6.9-x86_64.AppImage
 last_commit: '2026-08-03'
+evidence:
+  kind: binary
+  source: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.9/MoeKoe_Music_v1.6.9-x86_64.AppImage
+  found_in: MoeKoe_Music_v1.6.9-x86_64.AppImage
+  signal: which-electron rg signal

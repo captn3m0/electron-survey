@@ -4,8 +4,8 @@ website: https://github.com/zackria/Plex-Folder-Playlist-Creator
 repository: https://github.com/zackria/Plex-Folder-Playlist-Creator
 aur:
 - plex-folder-playlist-creator-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.3.1
+method: which-electron-rg
 latest: V1.0.4
 src: https://github.com/zackria/Plex-Folder-Playlist-Creator/archive/refs/tags/V1.0.4.zip
 downloads:
@@ -26,10 +26,10 @@ downloads:
 - name: PlexFolderPlaylistCreator-darwin-arm64.zip
   url: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-darwin-arm64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/plex-folder-playlist-creator-bin
-  found_in: plex-folder-playlist-creator-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-1.0.4-arm64.deb
+  found_in: PlexFolderPlaylistCreator-1.0.4-arm64.deb
+  signal: which-electron rg signal
 last_commit: '2026-07-29'
 aur_downloads:
 - url: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-1.0.4-x86_64.AppImage

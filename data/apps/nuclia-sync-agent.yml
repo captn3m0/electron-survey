@@ -4,8 +4,8 @@ website: https://github.com/nuclia/sync-agent
 repository: https://github.com/nuclia/sync-agent
 aur:
 - nuclia-sync-agent-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.0.0
+method: which-electron-rg
 latest: 1.9.14
 src: https://github.com/nuclia/sync-agent/archive/refs/tags/1.9.14.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: Progress.Sync.Agent.dmg
   url: https://github.com/nuclia/sync-agent/releases/download/1.9.14/Progress.Sync.Agent.dmg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/nuclia-sync-agent-bin
-  found_in: nuclia-sync-agent-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm
+  found_in: nuclia-sync-agent-1.9.10-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-31'
 aur_downloads:
 - url: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm

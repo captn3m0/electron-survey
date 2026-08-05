@@ -85,7 +85,7 @@ evidence:
   signal: electron pinned in yarn.lock
   source: https://github.com/Eugeny/tabby/archive/refs/tags/v1.0.235.zip
 aur_votes: 10
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://raw.githubusercontent.com/Eugeny/tabby/v1.0.235/LICENSE
   name: LICENSE

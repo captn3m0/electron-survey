@@ -6,76 +6,76 @@ aur:
 - kun
 electron: 43.1.0
 method: which-electron-rg
-latest: v0.2.34
-src: https://github.com/KunAgent/Kun/archive/refs/tags/v0.2.34.zip
+latest: v0.2.35
+src: https://github.com/KunAgent/Kun/archive/refs/tags/v0.2.35.zip
 downloads:
 - name: extension-native-evidence-darwin.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/extension-native-evidence-darwin.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/extension-native-evidence-darwin.json
 - name: extension-native-evidence-linux.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/extension-native-evidence-linux.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/extension-native-evidence-linux.json
 - name: extension-native-evidence-win32.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/extension-native-evidence-win32.json
-- name: Kun-0.2.34-linux-amd64.deb
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-linux-amd64.deb
-- name: Kun-0.2.34-linux-x86_64.AppImage
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-linux-x86_64.AppImage
-- name: Kun-0.2.34-mac-arm64.dmg
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.dmg
-- name: Kun-0.2.34-mac-arm64.dmg.blockmap
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.dmg.blockmap
-- name: Kun-0.2.34-mac-arm64.zip
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.zip
-- name: Kun-0.2.34-mac-x64.dmg
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-x64.dmg
-- name: Kun-0.2.34-mac-x64.dmg.blockmap
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-x64.dmg.blockmap
-- name: Kun-0.2.34-mac-x64.zip
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-x64.zip
-- name: Kun-0.2.34-win-x64.exe
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-win-x64.exe
-- name: Kun-0.2.34-win-x64.exe.blockmap
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-win-x64.exe.blockmap
-- name: Kun-TUI-0.2.34-linux-x64.tar.gz
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-linux-x64.tar.gz
-  checksum: baa7d4977d59fe9b72e362764d32012ec2d8c0ef4a83407e2f0e72127d33f101
-- name: Kun-TUI-0.2.34-linux-x64.tar.gz.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-linux-x64.tar.gz.json
-- name: Kun-TUI-0.2.34-linux-x64.tar.gz.sha256
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-linux-x64.tar.gz.sha256
-- name: Kun-TUI-0.2.34-mac-arm64.tar.gz
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-arm64.tar.gz
-  checksum: 978b105b5399d7f9106d28ebc5f03fdf85617ef4573f7a40d02d2ab8be8e3058
-- name: Kun-TUI-0.2.34-mac-arm64.tar.gz.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-arm64.tar.gz.json
-- name: Kun-TUI-0.2.34-mac-arm64.tar.gz.sha256
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-arm64.tar.gz.sha256
-- name: Kun-TUI-0.2.34-mac-x64.tar.gz
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-x64.tar.gz
-  checksum: 1f8f3828d6166345f2c7a380e559f0dc1ab60f42214dc91e970a6d5b380e29e6
-- name: Kun-TUI-0.2.34-mac-x64.tar.gz.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-x64.tar.gz.json
-- name: Kun-TUI-0.2.34-mac-x64.tar.gz.sha256
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-mac-x64.tar.gz.sha256
-- name: Kun-TUI-0.2.34-win-x64.zip
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-win-x64.zip
-  checksum: 2d3127d8ed453e2d6faa8f443b5d01384d3be5ada2de97703ad62794253e322a
-- name: Kun-TUI-0.2.34-win-x64.zip.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-win-x64.zip.json
-- name: Kun-TUI-0.2.34-win-x64.zip.sha256
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-TUI-0.2.34-win-x64.zip.sha256
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/extension-native-evidence-win32.json
+- name: Kun-0.2.35-linux-amd64.deb
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-linux-amd64.deb
+- name: Kun-0.2.35-linux-x86_64.AppImage
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-linux-x86_64.AppImage
+- name: Kun-0.2.35-mac-arm64.dmg
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-arm64.dmg
+- name: Kun-0.2.35-mac-arm64.dmg.blockmap
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-arm64.dmg.blockmap
+- name: Kun-0.2.35-mac-arm64.zip
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-arm64.zip
+- name: Kun-0.2.35-mac-x64.dmg
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-x64.dmg
+- name: Kun-0.2.35-mac-x64.dmg.blockmap
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-x64.dmg.blockmap
+- name: Kun-0.2.35-mac-x64.zip
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-mac-x64.zip
+- name: Kun-0.2.35-win-x64.exe
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-win-x64.exe
+- name: Kun-0.2.35-win-x64.exe.blockmap
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-0.2.35-win-x64.exe.blockmap
+- name: Kun-TUI-0.2.35-linux-x64.tar.gz
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-linux-x64.tar.gz
+  checksum: b128995ca1cd4218703db66970ab1b88be3f2517a4a0de432b62eb62e2f9dcfb
+- name: Kun-TUI-0.2.35-linux-x64.tar.gz.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-linux-x64.tar.gz.json
+- name: Kun-TUI-0.2.35-linux-x64.tar.gz.sha256
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-linux-x64.tar.gz.sha256
+- name: Kun-TUI-0.2.35-mac-arm64.tar.gz
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-arm64.tar.gz
+  checksum: 397028f9ece7a81d6b35d9f35ca5551fca1f637ece18d697768965d19796f9b3
+- name: Kun-TUI-0.2.35-mac-arm64.tar.gz.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-arm64.tar.gz.json
+- name: Kun-TUI-0.2.35-mac-arm64.tar.gz.sha256
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-arm64.tar.gz.sha256
+- name: Kun-TUI-0.2.35-mac-x64.tar.gz
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-x64.tar.gz
+  checksum: a08436240d06c75df9c739f81df490d5e35bbc3b4b920160ac1fdb3d512d0923
+- name: Kun-TUI-0.2.35-mac-x64.tar.gz.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-x64.tar.gz.json
+- name: Kun-TUI-0.2.35-mac-x64.tar.gz.sha256
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-mac-x64.tar.gz.sha256
+- name: Kun-TUI-0.2.35-win-x64.zip
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-win-x64.zip
+  checksum: 15ace698f9a781d92e8ac5ac8c6e9b3682d6fb064b474020ffd56a5072566575
+- name: Kun-TUI-0.2.35-win-x64.zip.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-win-x64.zip.json
+- name: Kun-TUI-0.2.35-win-x64.zip.sha256
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/Kun-TUI-0.2.35-win-x64.zip.sha256
 - name: latest-linux.yml
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/latest-linux.yml
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/latest-mac.yml
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/latest.yml
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/latest.yml
 - name: release-tui.json
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/release-tui.json
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/release-tui.json
 - name: SHA256SUMS-tui.txt
-  url: https://github.com/KunAgent/Kun/releases/download/v0.2.34/SHA256SUMS-tui.txt
+  url: https://github.com/KunAgent/Kun/releases/download/v0.2.35/SHA256SUMS-tui.txt
 evidence:
   kind: binary
   source: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.zip
   found_in: Kun-0.2.34-mac-arm64.zip
   signal: which-electron rg signal
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'

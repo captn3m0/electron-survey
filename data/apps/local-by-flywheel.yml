@@ -11,3 +11,10 @@ aur_downloads:
   name: local-10.0.0-linux.rpm
   arch: any
   source: aur-bin
+electron: 37.8.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cdn.localwp.com/releases-stable/10.0.0+6907/local-10.0.0-linux.rpm
+  found_in: local-10.0.0-linux.rpm
+  signal: which-electron rg signal

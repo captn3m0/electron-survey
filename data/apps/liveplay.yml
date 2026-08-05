@@ -3,13 +3,13 @@ name: Liveplay
 website: https://tdoukinitsas.github.io/liveplay/
 aur:
 - liveplay-bin
-electron: 42.7.0
-method: aur-depends
+electron: 42.3.2
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/liveplay-bin
-  found_in: liveplay-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/tdoukinitsas/liveplay/releases/download/v2.3.4/liveplay-2.3.4.x86_64.rpm
+  found_in: liveplay-2.3.4.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/tdoukinitsas/liveplay/releases/download/v2.3.4/liveplay-2.3.4.x86_64.rpm
   name: liveplay-2.3.4.x86_64.rpm

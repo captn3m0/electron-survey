@@ -5,7 +5,7 @@ repository: https://github.com/peace317/minterm
 aur:
 - minterm-bin
 electron: 16.2.8
-method: aur-depends
+method: which-electron-rg
 latest: release/1.0.0
 src: https://github.com/peace317/minterm/archive/refs/tags/release/1.0.0.zip
 downloads:
@@ -14,10 +14,10 @@ downloads:
 - name: MinTerm.Setup.1.0.0.exe
   url: https://github.com/peace317/minterm/releases/download/release/1.0.0/MinTerm.Setup.1.0.0.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/minterm-bin
-  found_in: minterm-bin
-  signal: depends on electron16; reported as the newest 16.x release (16.2.8)
+  kind: binary
+  source: https://github.com/peace317/minterm/releases/download/release%2F1.0.0/MinTerm-1.0.0.AppImage
+  found_in: MinTerm-1.0.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-08-17'
 aur_downloads:
 - url: https://github.com/peace317/minterm/releases/download/release%2F1.0.0/MinTerm-1.0.0.AppImage

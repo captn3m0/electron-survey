@@ -78,7 +78,7 @@ downloads:
 - name: TurboWarp.Portable.1.16.0.x64.exe
   url: https://github.com/TurboWarp/desktop/releases/download/v1.16.0/TurboWarp.Portable.1.16.0.x64.exe
 aur_votes: 1
-last_commit: '2026-07-26'
+last_commit: '2026-08-04'
 aur_downloads:
 - url: https://github.com/TurboWarp/desktop/releases/download/v1.16.0/TurboWarp-linux-x64-1.16.0.tar.gz
   name: TurboWarp-linux-x64-1.16.0.tar.gz

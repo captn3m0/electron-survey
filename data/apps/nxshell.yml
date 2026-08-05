@@ -16,3 +16,8 @@ name: nxshell
 electron: 17.4.1
 method: which-electron-rg
 last_commit: '2023-12-24'
+evidence:
+  kind: binary
+  source: https://github.com/nxshell/nxshell/releases/download/v1.9.3/NxShell-x86_64-linux-1.9.3-202303220832.AppImage
+  found_in: NxShell-x86_64-linux-1.9.3-202303220832.AppImage
+  signal: which-electron rg signal

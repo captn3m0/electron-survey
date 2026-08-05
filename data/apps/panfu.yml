@@ -23,3 +23,4 @@ aur_downloads:
   name: panfu-desktop_1.6.1_amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:e339c39a2153

@@ -4,8 +4,8 @@ website: https://github.com/c3er/mdview
 repository: https://github.com/c3er/mdview
 aur:
 - mdview-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.6.1
+method: which-electron-rg
 latest: v4.0.2
 src: https://github.com/c3er/mdview/archive/refs/tags/v4.0.2.zip
 downloads:
@@ -47,10 +47,10 @@ downloads:
 - name: mdview.json
   url: https://github.com/c3er/mdview/releases/download/v4.0.2/mdview.json
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mdview-bin
-  found_in: mdview-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage
+  found_in: mdview-4.0.1-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-08-02'
 aur_downloads:
 - url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage

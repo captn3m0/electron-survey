@@ -4,8 +4,8 @@ website: https://github.com/favo/electron-player
 repository: https://github.com/favo/electron-player
 aur:
 - pintomind-player-git
-electron: 33.4.11
-method: aur-depends
+electron: 23.2.0
+method: which-electron-rg
 latest: v.1.2.0
 src: https://github.com/favo/electron-player/archive/refs/tags/v.1.2.0.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: pintomind-player.AppImage
   url: https://github.com/favo/electron-player/releases/download/v.1.2.0/pintomind-player.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/pintomind-player-git
-  found_in: pintomind-player-git
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/favo/electron-player/releases/download/v.1.2.0/pintomind-player.AppImage
+  found_in: pintomind-player.AppImage
+  signal: which-electron rg signal
 last_commit: '2025-05-14'

@@ -1,51 +1,50 @@
 id: leafview
 repository: https://github.com/sprout2000/leafview
 website: https://github.com/sprout2000/leafview
-latest: v4.3.4
-src: https://github.com/sprout2000/leafview/archive/refs/tags/v4.3.4.zip
+latest: v4.3.5
+src: https://github.com/sprout2000/leafview/archive/refs/tags/v4.3.5.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/latest-linux.yml
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/latest-mac.yml
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/latest.yml
-- name: LeafView-4.3.4-darwin-arm64.dmg
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-arm64.dmg
-- name: LeafView-4.3.4-darwin-arm64.dmg.blockmap
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-arm64.dmg.blockmap
-- name: LeafView-4.3.4-darwin-arm64.zip
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-arm64.zip
-- name: LeafView-4.3.4-darwin-arm64.zip.blockmap
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-arm64.zip.blockmap
-- name: LeafView-4.3.4-darwin-x64.dmg
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-x64.dmg
-- name: LeafView-4.3.4-darwin-x64.dmg.blockmap
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-x64.dmg.blockmap
-- name: LeafView-4.3.4-darwin-x64.zip
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-x64.zip
-- name: LeafView-4.3.4-darwin-x64.zip.blockmap
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-darwin-x64.zip.blockmap
-- name: LeafView-4.3.4-linux-amd64.deb
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-linux-amd64.deb
-- name: LeafView-4.3.4-linux-x64.zip
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-linux-x64.zip
-- name: LeafView-4.3.4-linux-x86_64.AppImage
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-linux-x86_64.AppImage
-- name: LeafView-4.3.4-win32-x64-installer.exe
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-win32-x64-installer.exe
-- name: LeafView-4.3.4-win32-x64-installer.exe.blockmap
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-win32-x64-installer.exe.blockmap
-- name: LeafView-4.3.4-win32-x64.zip
-  url: https://github.com/sprout2000/leafview/releases/download/v4.3.4/LeafView-4.3.4-win32-x64.zip
-electron: 43.2.0
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/latest.yml
+- name: LeafView-4.3.5-darwin-arm64.dmg
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-arm64.dmg
+- name: LeafView-4.3.5-darwin-arm64.dmg.blockmap
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-arm64.dmg.blockmap
+- name: LeafView-4.3.5-darwin-arm64.zip
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-arm64.zip
+- name: LeafView-4.3.5-darwin-arm64.zip.blockmap
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-arm64.zip.blockmap
+- name: LeafView-4.3.5-darwin-x64.dmg
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-x64.dmg
+- name: LeafView-4.3.5-darwin-x64.dmg.blockmap
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-x64.dmg.blockmap
+- name: LeafView-4.3.5-darwin-x64.zip
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-x64.zip
+- name: LeafView-4.3.5-darwin-x64.zip.blockmap
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-darwin-x64.zip.blockmap
+- name: LeafView-4.3.5-linux-amd64.deb
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-linux-amd64.deb
+- name: LeafView-4.3.5-linux-x64.zip
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-linux-x64.zip
+- name: LeafView-4.3.5-linux-x86_64.AppImage
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-linux-x86_64.AppImage
+- name: LeafView-4.3.5-win32-x64-installer.exe
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-win32-x64-installer.exe
+- name: LeafView-4.3.5-win32-x64-installer.exe.blockmap
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-win32-x64-installer.exe.blockmap
+- name: LeafView-4.3.5-win32-x64.zip
+  url: https://github.com/sprout2000/leafview/releases/download/v4.3.5/LeafView-4.3.5-win32-x64.zip
+electron: 43.3.0
 method: src-package-lock
 name: LeafView
-electron_src: https://github.com/sprout2000/leafview/archive/refs/tags/v4.3.4.zip
+electron_src: https://github.com/sprout2000/leafview/archive/refs/tags/v4.3.5.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Asprout2000%2Fleafview+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: leafview-4.3.5/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
-last_commit: '2026-07-21'
+  source: https://github.com/sprout2000/leafview/archive/refs/tags/v4.3.5.zip
+last_commit: '2026-08-04'

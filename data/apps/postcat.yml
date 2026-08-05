@@ -22,8 +22,8 @@ packages:
 aur:
 - postcat-appimage
 - postcat-bin
-electron: 22.3.27
-method: aur-depends
+electron: 22.1.0
+method: which-electron-rg
 latest: v0.5.1
 src: https://github.com/Postcatlab/postcat/archive/refs/tags/v0.5.1.zip
 downloads:
@@ -58,10 +58,10 @@ downloads:
 - name: Postcat-Setup-0.5.1.exe.blockmap
   url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-Setup-0.5.1.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/postcat-appimage
-  found_in: postcat-appimage
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.AppImage
+  found_in: Postcat-0.5.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-02-27'
 aur_downloads:
 - url: https://github.com/Postcatlab/postcat/releases/download/v0.5.1/Postcat-0.5.1.AppImage

@@ -8,3 +8,4 @@ downloads:
   url: https://github.com/hsbalar/preserver/releases/download/v3.0.0/Preserver-linux-x64.tar.gz
 name: Preserver
 last_commit: '2020-10-16'
+we_tried: we1.2.1+p1:v3.0.0

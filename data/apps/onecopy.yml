@@ -15,3 +15,4 @@ evidence:
   found_in: package.json
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true
+we_tried: we1.2.1+p1:1.0.3

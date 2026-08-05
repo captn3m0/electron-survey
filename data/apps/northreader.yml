@@ -9,3 +9,10 @@ downloads:
   name: NorthReaderSetup.exe
 - url: https://buildserver.futureglobe.de/NorthReader/NorthReaderSetup.dmg
   name: NorthReaderSetup.dmg
+electron: 3.0.0
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://buildserver.futureglobe.de/NorthReader/NorthReaderSetup.dmg
+  found_in: NorthReaderSetup.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

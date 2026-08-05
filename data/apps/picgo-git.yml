@@ -12,8 +12,8 @@ repository: https://github.com/Molunerfinn/PicGo
 additionalAUR:
 - picgo-electron
 - picgo-electron-bin
-electron: 38.8.6
-method: aur-depends
+electron: 38.7.2
+method: which-electron-rg
 latest: v3.0.1
 src: https://github.com/Molunerfinn/PicGo/archive/refs/tags/v3.0.1.zip
 downloads:
@@ -56,8 +56,8 @@ downloads:
 - name: PicGo-3.0.1-x86_64.AppImage
   url: https://github.com/Molunerfinn/PicGo/releases/download/v3.0.1/PicGo-3.0.1-x86_64.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/picgo-git
-  found_in: picgo-git
-  signal: depends on electron38; reported as the newest 38.x release (38.8.6)
+  kind: binary
+  source: https://github.com/Molunerfinn/PicGo/releases/download/v3.0.1/PicGo-3.0.1-arm64.AppImage
+  found_in: PicGo-3.0.1-arm64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-21'

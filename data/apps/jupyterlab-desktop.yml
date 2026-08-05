@@ -52,4 +52,4 @@ evidence:
   found_in: jupyterlab-desktop-4.6.2-1/yarn.lock
   signal: electron pinned in yarn.lock
   source: https://github.com/jupyterlab/jupyterlab-desktop/archive/refs/tags/v4.6.2-1.zip
-last_commit: '2026-08-02'
+last_commit: '2026-08-04'

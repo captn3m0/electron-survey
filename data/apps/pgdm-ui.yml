@@ -4,8 +4,8 @@ website: https://github.com/ucd-library/pgdm-ui
 repository: https://github.com/ucd-library/pgdm-ui
 aur:
 - pgdm-ui-bin
-electron: 31.7.7
-method: aur-depends
+electron: 31.1.0
+method: which-electron-rg
 latest: 1.0.0
 src: https://github.com/ucd-library/pgdm-ui/archive/refs/tags/1.0.0.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: PostGres.Data.Management.Setup.1.0.0.exe
   url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management.Setup.1.0.0.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/pgdm-ui-bin
-  found_in: pgdm-ui-bin
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
+  kind: binary
+  source: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management-1.0.0-arm64.dmg
+  found_in: PostGres.Data.Management-1.0.0-arm64.dmg
+  signal: which-electron rg signal
 last_commit: '2025-04-22'
 aur_downloads:
 - url: https://github.com/ucd-library/pgdm-ui/releases/download/1.0.0/PostGres.Data.Management-1.0.0.snap

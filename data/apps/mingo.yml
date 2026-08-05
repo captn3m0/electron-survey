@@ -3,13 +3,13 @@ name: Mingo
 website: https://mingo.io
 aur:
 - mingo-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mingo-bin
-  found_in: mingo-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/mingo-app/mingo/releases/download/v2026.5.0/mingo_2026.5.0_arm64.deb
+  found_in: mingo_2026.5.0_arm64.deb
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://mingo.io/eula
   name: eula

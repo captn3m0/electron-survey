@@ -4,8 +4,8 @@ website: https://github.com/Kan-A-Pesh/magicavoxel-launcher
 repository: https://github.com/Kan-A-Pesh/magicavoxel-launcher
 aur:
 - magicavoxel-launcher-bin
-electron: 30.5.1
-method: aur-depends
+electron: 30.1.0
+method: which-electron-rg
 latest: v1.0.2
 src: https://github.com/Kan-A-Pesh/magicavoxel-launcher/archive/refs/tags/v1.0.2.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: RELEASES
   url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/RELEASES
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/magicavoxel-launcher-bin
-  found_in: magicavoxel-launcher-bin
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-1.0.2-1.x86_64.rpm
+  found_in: magicavoxel-launcher-1.0.2-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2024-06-11'
 aur_downloads:
 - url: https://github.com/Kan-A-Pesh/magicavoxel-launcher/releases/download/v1.0.2/magicavoxel-launcher-1.0.2-1.x86_64.rpm

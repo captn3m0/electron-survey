@@ -3,13 +3,13 @@ name: Polar
 website: https://lightningpolar.com/
 aur:
 - polar-bin
-electron: 13.6.9
-method: aur-depends
+electron: 13.6.3
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/polar-bin
-  found_in: polar-bin
-  signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+  kind: binary
+  source: https://github.com/jamaljsr/polar/releases/download/v4.0.0/polar-linux-x86_64-v4.0.0.rpm
+  found_in: polar-linux-x86_64-v4.0.0.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/jamaljsr/polar/releases/download/v4.0.0/polar-linux-x86_64-v4.0.0.rpm
   name: polar-linux-x86_64-v4.0.0.rpm

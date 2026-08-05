@@ -4,8 +4,8 @@ website: https://github.com/ShotHeadman/mdcz
 repository: https://github.com/ShotHeadman/mdcz
 aur:
 - mdcz-desktop
-electron: 39.8.10
-method: aur-depends
+electron: 39.8.9
+method: which-electron-rg
 latest: v0.11.0
 src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.11.0.zip
 downloads:
@@ -24,8 +24,8 @@ downloads:
 - name: SHA256SUMS.txt
   url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/SHA256SUMS.txt
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/mdcz-desktop
-  found_in: mdcz-desktop
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.AppImage
+  found_in: MDCz-0.11.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-30'

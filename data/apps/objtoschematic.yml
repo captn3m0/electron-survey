@@ -4,12 +4,12 @@ website: https://objtoschematic.com/
 aur:
 - objtoschematic-bin
 electron: 13.6.9
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/objtoschematic-bin
-  found_in: objtoschematic-bin
-  signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+  kind: binary
+  source: https://github.com/LucasDower/ObjToSchematic/releases/download/v0.7.1/ObjToSchematic-0.7.1-linux-x64.zip
+  found_in: ObjToSchematic-0.7.1-linux-x64.zip
+  signal: which-electron rg signal (2 signals agreed)
 aur_downloads:
 - url: https://github.com/LucasDower/ObjToSchematic/releases/download/v0.7.1/ObjToSchematic-0.7.1-linux-x64.zip
   name: ObjToSchematic-0.7.1-linux-x64.zip
