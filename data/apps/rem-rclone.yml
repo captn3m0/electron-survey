@@ -33,3 +33,8 @@ downloads:
 - name: REM-1.4.0-win-x64.exe
   url: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-win-x64.exe
 last_commit: '2025-12-22'
+evidence:
+  kind: binary
+  source: https://github.com/liriliri/rem/releases/download/v1.4.0/REM-1.4.0-linux-x86_64.AppImage
+  found_in: REM-1.4.0-linux-x86_64.AppImage
+  signal: which-electron rg signal

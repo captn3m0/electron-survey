@@ -17,3 +17,4 @@ aur_downloads:
   name: trufos_0.8.0_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:ca28c877521e

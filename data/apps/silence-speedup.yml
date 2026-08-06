@@ -3,13 +3,13 @@ name: Silence Speedup
 website: https://vincenzopadula.altervista.org/silence-speedup/
 aur:
 - silence-speedup-bin
-electron: 34.5.8
-method: aur-depends
+electron: 34.5.4
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/silence-speedup-bin
-  found_in: silence-speedup-bin
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+  kind: binary
+  source: https://github.com/padvincenzo/silence-speedup/releases/download/v2.0.0/Silence-SpeedUp-linux-x64.zip
+  found_in: Silence-SpeedUp-linux-x64.zip
+  signal: which-electron rg signal (2 signals agreed)
 aur_downloads:
 - url: https://github.com/padvincenzo/silence-speedup/releases/download/v2.0.0/Silence-SpeedUp-linux-x64.zip
   name: Silence-SpeedUp-linux-x64.zip

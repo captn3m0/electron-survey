@@ -20,3 +20,10 @@ downloads:
   url: https://github.com/sunabozu/subordination/releases/download/v0.1.3/subordination-Setup-0.1.3.exe
 name: Subordination
 last_commit: '2016-12-08'
+electron: 0.37.8
+method: which-electron-version_file
+evidence:
+  kind: binary
+  source: https://github.com/sunabozu/subordination/releases/download/v0.1.3/subordination-0.1.3-full.nupkg
+  found_in: subordination-0.1.3-full.nupkg
+  signal: which-electron version_file signal (3 signals agreed)

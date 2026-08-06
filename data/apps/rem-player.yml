@@ -22,3 +22,4 @@ aur_downloads:
   name: rem_0.2.4_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v0.2.6

@@ -5,7 +5,7 @@ repository: https://github.com/Qrodex/venom86
 aur:
 - venom86-bin
 electron: 25.9.8
-method: aur-depends
+method: which-electron-rg
 latest: v1.0.3
 src: https://github.com/Qrodex/venom86/archive/refs/tags/v1.0.3.zip
 downloads:
@@ -34,10 +34,10 @@ downloads:
 - name: venom86_1.0.3_amd64.snap
   url: https://github.com/Qrodex/venom86/releases/download/v1.0.3/venom86_1.0.3_amd64.snap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/venom86-bin
-  found_in: venom86-bin
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/Qrodex/venom86/releases/download/v1.0.3/venom86-1.0.3.x86_64.rpm
+  found_in: venom86-1.0.3.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-04-19'
 aur_downloads:
 - url: https://github.com/Qrodex/venom86/releases/download/v1.0.3/venom86-1.0.3.x86_64.rpm

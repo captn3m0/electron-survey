@@ -5,7 +5,7 @@ repository: https://github.com/jin-taiyu/SubTrack
 aur:
 - subtrack-bin
 electron: 28.3.3
-method: aur-depends
+method: which-electron-rg
 latest: v1.1.1
 src: https://github.com/jin-taiyu/SubTrack/archive/refs/tags/v1.1.1.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: SubTrack.Setup.1.1.1.exe
   url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack.Setup.1.1.1.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/subtrack-bin
-  found_in: subtrack-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack-1.1.1.AppImage
+  found_in: SubTrack-1.1.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-02-06'
 aur_downloads:
 - url: https://github.com/jin-taiyu/SubTrack/releases/download/v1.1.1/SubTrack-1.1.1.AppImage

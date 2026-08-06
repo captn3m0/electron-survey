@@ -4,8 +4,8 @@ website: https://github.com/njbrown/texturelab
 repository: https://github.com/njbrown/texturelab
 aur:
 - texturelab-bin
-electron: 13.6.9
-method: aur-depends
+electron: 13.1.4
+method: which-electron-rg
 latest: v0.3.3
 src: https://github.com/njbrown/texturelab/archive/refs/tags/v0.3.3.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: texturelab-win-v0.3.3.zip
   url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-win-v0.3.3.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/texturelab-bin
-  found_in: texturelab-bin
-  signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+  kind: binary
+  source: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-linux-v0.3.3.zip
+  found_in: texturelab-linux-v0.3.3.zip
+  signal: which-electron rg signal
 last_commit: '2026-08-02'
 aur_downloads:
 - url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-linux-v0.3.3.zip

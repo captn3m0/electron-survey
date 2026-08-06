@@ -3,13 +3,13 @@ name: Structure
 website: https://structure.love/
 aur:
 - structure-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/structure-bin
-  found_in: structure-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/neopostmodern/structure/releases/download/v0.25.1/Structure-0.25.1-x64.AppImage
+  found_in: Structure-0.25.1-x64.AppImage
+  signal: which-electron rg signal (2 signals agreed)
 aur_downloads:
 - url: https://github.com/neopostmodern/structure/releases/download/v0.25.1/Structure-0.25.1-x64.AppImage
   name: Structure-0.25.1-x64.AppImage

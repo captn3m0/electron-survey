@@ -41,4 +41,4 @@ evidence:
   found_in: neuro-karaoke-wrapper-1.8.1/Desktop/yarn.lock
   signal: electron pinned in yarn.lock
   source: https://github.com/AferilVT/neuro-karaoke-wrapper/archive/refs/tags/v1.8.1.zip
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'

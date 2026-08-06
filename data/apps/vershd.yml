@@ -7,3 +7,10 @@ download_urls:
 name: Vershd
 downloads:
 - *id001
+electron: 33.2.0
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://gitbreeze.ams3.digitaloceanspaces.com/releases/latest/linux/GitBreeze.AppImage
+  found_in: GitBreeze.AppImage
+  signal: which-electron rg signal

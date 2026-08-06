@@ -15,3 +15,8 @@ downloads:
 - name: Push.Notifications-1.7.10-mac.dmg
   url: https://github.com/onmyway133/PushNotifications/releases/download/1.7.10/Push.Notifications-1.7.10-mac.dmg
 last_commit: '2023-10-05'
+evidence:
+  kind: binary
+  source: https://github.com/onmyway133/PushNotifications/releases/download/1.7.10/Push.Notifications-1.7.10-mac.dmg
+  found_in: Push.Notifications-1.7.10-mac.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

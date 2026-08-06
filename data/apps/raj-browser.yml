@@ -4,8 +4,8 @@ website: https://github.com/Rajaniraiyn/raj-browser
 repository: https://github.com/Rajaniraiyn/raj-browser
 aur:
 - raj-browser-bin
-electron: 22.3.27
-method: aur-depends
+electron: 21.2.0
+method: which-electron-rg
 latest: v2.0.5
 src: https://github.com/Rajaniraiyn/raj-browser/archive/refs/tags/v2.0.5.zip
 downloads:
@@ -18,11 +18,11 @@ downloads:
 - name: raj-browser_2.0.5_amd64.deb
   url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser_2.0.5_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/raj-browser-bin
-  found_in: raj-browser-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
-last_commit: '2026-07-26'
+  kind: binary
+  source: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser-2.0.5-mac.zip
+  found_in: raj-browser-2.0.5-mac.zip
+  signal: which-electron rg signal
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser_2.0.5_amd64.deb
   name: raj-browser_2.0.5_amd64.deb

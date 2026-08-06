@@ -4,8 +4,8 @@ website: https://github.com/gabrielesilinic/stage-retriever
 repository: https://github.com/gabrielesilinic/stage-retriever
 aur:
 - stage-retriever
-electron: 29.4.6
-method: aur-depends
+electron: 28.2.5
+method: which-electron-rg
 latest: v0.0.2
 src: https://github.com/gabrielesilinic/stage-retriever/archive/refs/tags/v0.0.2.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: StageRetriever-windows-amd64.zip
   url: https://github.com/gabrielesilinic/stage-retriever/releases/download/v0.0.2/StageRetriever-windows-amd64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/stage-retriever
-  found_in: stage-retriever
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/gabrielesilinic/stage-retriever/releases/download/v0.0.2/StageRetriever-windows-amd64.7z
+  found_in: StageRetriever-windows-amd64.7z
+  signal: which-electron rg signal
 last_commit: '2024-07-17'

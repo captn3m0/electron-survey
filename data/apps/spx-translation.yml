@@ -6,8 +6,8 @@ aur:
 - spx-translation
 additionalAUR:
 - spx-translation-bin
-electron: 25.9.8
-method: aur-depends
+electron: 25.9.2
+method: which-electron-rg
 latest: vv2.0.5-1
 src: https://github.com/mlmdflr/spx-translation/archive/refs/tags/vv2.0.5-1.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: spx-translation_2.0.5_amd64.deb
   url: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation_2.0.5_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/spx-translation
-  found_in: spx-translation
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/mlmdflr/spx-translation/releases/download/vv2.0.5-1/spx-translation-2.0.5.x86_64.rpm
+  found_in: spx-translation-2.0.5.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2023-12-12'

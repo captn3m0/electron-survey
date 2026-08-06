@@ -11,3 +11,10 @@ name: tonfotos
 downloads:
 - *id001
 - *id002
+electron: 22.3.27
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://cdn.tonfotos.com/distribution/tonfotos/release/latest/linux/x64/tonfotos.deb
+  found_in: tonfotos.deb
+  signal: which-electron rg signal

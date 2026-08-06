@@ -4,8 +4,8 @@ website: https://github.com/nekobato/RoundDrop
 repository: https://github.com/nekobato/RoundDrop
 aur:
 - round-drop-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.3.0
+method: which-electron-rg
 latest: v1.6.2
 src: https://github.com/nekobato/RoundDrop/archive/refs/tags/v1.6.2.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: RoundDrop-1.6.2-arm64.dmg
   url: https://github.com/nekobato/RoundDrop/releases/download/v1.6.2/RoundDrop-1.6.2-arm64.dmg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/round-drop-git
-  found_in: round-drop-git
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/nekobato/RoundDrop/releases/download/v1.6.2/RoundDrop-1.6.2-arm64-mac.zip
+  found_in: RoundDrop-1.6.2-arm64-mac.zip
+  signal: which-electron rg signal
 last_commit: '2026-08-03'

@@ -4,8 +4,8 @@ website: https://github.com/mPyKen/ScreenAreaShare
 repository: https://github.com/mPyKen/ScreenAreaShare
 aur:
 - screen-area-share-bin
-electron: 34.5.8
-method: aur-depends
+electron: 34.2.0
+method: which-electron-rg
 latest: v1.4.2
 src: https://github.com/mPyKen/ScreenAreaShare/archive/refs/tags/v1.4.2.zip
 downloads:
@@ -24,10 +24,10 @@ downloads:
 - name: screen_area_share-1.4.2-full.nupkg
   url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen_area_share-1.4.2-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/screen-area-share-bin
-  found_in: screen-area-share-bin
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+  kind: binary
+  source: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share-1.4.2-1.x86_64.rpm
+  found_in: screen-area-share-1.4.2-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2025-02-26'
 aur_downloads:
 - url: https://github.com/mPyKen/ScreenAreaShare/releases/download/v1.4.2/screen-area-share-1.4.2-1.x86_64.rpm

@@ -19,3 +19,4 @@ aur_downloads:
   name: Rao.Pics-0.7.16-linux-amd64-openssl-3.0.x.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:urls:f1a0d36a6d86

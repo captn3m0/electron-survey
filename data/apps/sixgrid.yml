@@ -4,8 +4,8 @@ website: https://github.com/SixGrid/sixgrid
 repository: https://github.com/SixGrid/sixgrid
 aur:
 - sixgrid-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.2.0
+method: which-electron-rg
 latest: 0.3.7-3
 src: https://github.com/SixGrid/sixgrid/archive/refs/tags/0.3.7-3.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: sixgrid-win-amd64.zip
   url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-win-amd64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/sixgrid-bin
-  found_in: sixgrid-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-linux-amd64.AppImage
+  found_in: sixgrid-linux-amd64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-03-24'
 aur_downloads:
 - url: https://github.com/SixGrid/sixgrid/releases/download/0.3.7-3/sixgrid-linux-amd64.AppImage

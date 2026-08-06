@@ -9,3 +9,10 @@ aur_downloads:
   name: VectorXBenchmark-cpu-linux-x64.zip
   arch: any
   source: aur-bin
+electron: 26.6.10
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/Anand-Rift/VectorX_Benchmarker/releases/download/VectorX_v.2.0.0_Major_Release/VectorXBenchmark-cpu-linux-x64.zip
+  found_in: VectorXBenchmark-cpu-linux-x64.zip
+  signal: which-electron rg signal (2 signals agreed)

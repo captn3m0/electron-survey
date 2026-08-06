@@ -14,3 +14,8 @@ name: Saadhn
 electron: 0.37.3
 method: which-electron-version_file
 last_commit: '2021-08-02'
+evidence:
+  kind: binary
+  source: https://github.com/arkokoley/saadhn/releases/download/v0.3/Saadhn-darwin-x64.zip
+  found_in: Saadhn-darwin-x64.zip
+  signal: which-electron version_file signal (2 signals agreed)

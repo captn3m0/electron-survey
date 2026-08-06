@@ -5,13 +5,13 @@ aur:
 - swc-mclauncher-bin
 additionalAUR:
 - swc-ytdownloader-bin
-electron: 28.3.3
-method: aur-depends
+electron: 28.1.4
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/swc-mclauncher-bin
-  found_in: swc-mclauncher-bin
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/Davis-Software/swc_mclauncher/releases/download/v1.1.12/swc_mclauncher-1.1.12.x86_64.rpm
+  found_in: swc_mclauncher-1.1.12.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/Davis-Software/swc_mclauncher/releases/download/v1.1.12/swc_mclauncher-1.1.12.x86_64.rpm
   name: swc_mclauncher-1.1.12.x86_64.rpm

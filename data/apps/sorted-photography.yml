@@ -4,8 +4,8 @@ website: https://github.com/trumanjchan/sorted-photography
 repository: https://github.com/trumanjchan/sorted-photography
 aur:
 - sorted-photography-git
-electron: 36.9.5
-method: aur-depends
+electron: 36.3.2
+method: which-electron-rg
 latest: v2.1.0
 src: https://github.com/trumanjchan/sorted-photography/archive/refs/tags/v2.1.0.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: sorted_photography-2.1.0-full.nupkg
   url: https://github.com/trumanjchan/sorted-photography/releases/download/v2.1.0/sorted_photography-2.1.0-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/sorted-photography-git
-  found_in: sorted-photography-git
-  signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+  kind: binary
+  source: https://github.com/trumanjchan/sorted-photography/releases/download/v2.1.0/sorted_photography-2.1.0-full.nupkg
+  found_in: sorted_photography-2.1.0-full.nupkg
+  signal: which-electron rg signal
 last_commit: '2025-06-19'

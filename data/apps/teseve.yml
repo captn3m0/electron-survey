@@ -10,3 +10,10 @@ downloads:
   url: https://github.com/teseve/teseve/releases/download/0.5.3/Teseve-0.5.3-win32-x64.zip
 name: Tèsèvè
 last_commit: '2016-06-03'
+electron: 1.2.1
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://github.com/teseve/teseve/releases/download/0.5.3/Teseve-0.5.3-mac-x64.zip
+  found_in: Teseve-0.5.3-mac-x64.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

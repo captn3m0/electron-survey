@@ -5,7 +5,7 @@ repository: https://github.com/seongmini/sticky-markdown-note
 aur:
 - sticky-markdown-note-git
 electron: 29.4.6
-method: aur-depends
+method: which-electron-rg
 latest: v1.4.0
 src: https://github.com/seongmini/sticky-markdown-note/archive/refs/tags/v1.4.0.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: Sticky.Markdown.Note.Setup.1.4.0.exe.blockmap
   url: https://github.com/seongmini/sticky-markdown-note/releases/download/v1.4.0/Sticky.Markdown.Note.Setup.1.4.0.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/sticky-markdown-note-git
-  found_in: sticky-markdown-note-git
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/seongmini/sticky-markdown-note/releases/download/v1.4.0/Sticky.Markdown.Note-1.4.0-arm64.dmg
+  found_in: Sticky.Markdown.Note-1.4.0-arm64.dmg
+  signal: which-electron rg signal
 last_commit: '2025-06-17'

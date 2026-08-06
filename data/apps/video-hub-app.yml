@@ -17,8 +17,8 @@ packages:
   arch: x64
 aur:
 - video-hub-app-bin
-electron: 22.3.27
-method: aur-depends
+electron: 23.1.0
+method: which-electron-rg
 latest: v3.2.0
 src: https://github.com/whyboris/Video-Hub-App/archive/refs/tags/v3.2.0.zip
 downloads:
@@ -33,10 +33,10 @@ downloads:
 - name: Video.Hub.App.3.Demo.Setup.3.2.1.exe
   url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.1.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/video-hub-app-bin
-  found_in: video-hub-app-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
+  found_in: Video.Hub.App.3.Demo-3.2.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-09'
 aur_downloads:
 - url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage

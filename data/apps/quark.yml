@@ -50,3 +50,4 @@ aur_downloads:
   name: Quark-linux-amd64-0.6.4.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v0.6.2

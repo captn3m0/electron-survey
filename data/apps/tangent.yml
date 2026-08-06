@@ -5,13 +5,13 @@ packages: []
 aur:
 - tangent-bin
 - tangent-dev-bin
-electron: 42.7.0
-method: aur-depends
+electron: 42.1.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/tangent-bin
-  found_in: tangent-bin
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://suchnsuch-public.s3.us-east-2.amazonaws.com/Tangent/Releases/Tangent-0.12.2.AppImage
+  found_in: Tangent-0.12.2.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://suchnsuch-public.s3.us-east-2.amazonaws.com/Tangent/Releases/Tangent-0.12.2.AppImage
   name: Tangent-0.12.2.AppImage

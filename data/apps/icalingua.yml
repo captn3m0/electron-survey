@@ -7,58 +7,58 @@ aur:
 additionalAUR:
 - icalingua++-bin
 - icalingua++-electron-git
-latest: v2.26.2
-src: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.2.zip
+latest: v2.26.3
+src: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.3.zip
 downloads:
 - name: app-arm64.asar
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/app-arm64.asar
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/app-arm64.asar
 - name: app-armv7l.asar
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/app-armv7l.asar
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/app-armv7l.asar
 - name: app-x86_64.asar
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/app-x86_64.asar
-- name: icalingua++-2.26.2-2-aarch64.pkg.tar.zst
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua%2B%2B-2.26.2-2-aarch64.pkg.tar.zst
-- name: icalingua++-2.26.2-2-x86_64.pkg.tar.zst
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua%2B%2B-2.26.2-2-x86_64.pkg.tar.zst
-- name: Icalingua++-2.26.2-arm64.AppImage
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2-arm64.AppImage
-- name: Icalingua++-2.26.2-armv7l.AppImage
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2-armv7l.AppImage
-- name: Icalingua++-2.26.2-universal.dmg
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2-universal.dmg
-- name: Icalingua++-2.26.2.AppImage
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2.AppImage
-- name: Icalingua++-2.26.2_arm64.exe
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2_arm64.exe
-- name: Icalingua++-2.26.2_x64.exe
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2_x64.exe
-- name: Icalingua++-2.26.2_x86.exe
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/Icalingua%2B%2B-2.26.2_x86.exe
-- name: icalingua-2.26.2-arm64.tar.xz
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua-2.26.2-arm64.tar.xz
-- name: icalingua-2.26.2-armv7l.tar.xz
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua-2.26.2-armv7l.tar.xz
-- name: icalingua-2.26.2.aarch64.rpm
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua-2.26.2.aarch64.rpm
-- name: icalingua-2.26.2.armv7l.rpm
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua-2.26.2.armv7l.rpm
-- name: icalingua-2.26.2.tar.xz
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua-2.26.2.tar.xz
-- name: icalingua-2.26.2.x86_64.rpm
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua-2.26.2.x86_64.rpm
-- name: icalingua_2.26.2_amd64.deb
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua_2.26.2_amd64.deb
-- name: icalingua_2.26.2_arm64.deb
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua_2.26.2_arm64.deb
-- name: icalingua_2.26.2_armv7l.deb
-  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.2/icalingua_2.26.2_armv7l.deb
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/app-x86_64.asar
+- name: icalingua++-2.26.3-2-aarch64.pkg.tar.zst
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua%2B%2B-2.26.3-2-aarch64.pkg.tar.zst
+- name: icalingua++-2.26.3-2-x86_64.pkg.tar.zst
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua%2B%2B-2.26.3-2-x86_64.pkg.tar.zst
+- name: Icalingua++-2.26.3-arm64.AppImage
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3-arm64.AppImage
+- name: Icalingua++-2.26.3-armv7l.AppImage
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3-armv7l.AppImage
+- name: Icalingua++-2.26.3-universal.dmg
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3-universal.dmg
+- name: Icalingua++-2.26.3.AppImage
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3.AppImage
+- name: Icalingua++-2.26.3_arm64.exe
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3_arm64.exe
+- name: Icalingua++-2.26.3_x64.exe
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3_x64.exe
+- name: Icalingua++-2.26.3_x86.exe
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/Icalingua%2B%2B-2.26.3_x86.exe
+- name: icalingua-2.26.3-arm64.tar.xz
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua-2.26.3-arm64.tar.xz
+- name: icalingua-2.26.3-armv7l.tar.xz
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua-2.26.3-armv7l.tar.xz
+- name: icalingua-2.26.3.aarch64.rpm
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua-2.26.3.aarch64.rpm
+- name: icalingua-2.26.3.armv7l.rpm
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua-2.26.3.armv7l.rpm
+- name: icalingua-2.26.3.tar.xz
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua-2.26.3.tar.xz
+- name: icalingua-2.26.3.x86_64.rpm
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua-2.26.3.x86_64.rpm
+- name: icalingua_2.26.3_amd64.deb
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua_2.26.3_amd64.deb
+- name: icalingua_2.26.3_arm64.deb
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua_2.26.3_arm64.deb
+- name: icalingua_2.26.3_armv7l.deb
+  url: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.26.3/icalingua_2.26.3_armv7l.deb
 electron: 38.8.6
 method: src-pnpm-lock
-electron_src: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.2.zip
+electron_src: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.3.zip
 evidence:
   kind: lockfile
-  found_in: Icalingua-plus-plus-2.26.2/pnpm-lock.yaml
+  found_in: Icalingua-plus-plus-2.26.3/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.2.zip
+  source: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.3.zip
 aur_votes: 10
-last_commit: '2026-08-04'
+last_commit: '2026-08-06'

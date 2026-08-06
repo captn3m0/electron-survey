@@ -3,13 +3,13 @@ name: Sharefi
 website: https://sharefi.app
 aur:
 - sharefi-electron-bin
-electron: 24.8.8
-method: aur-depends
+electron: 24.3.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/sharefi-electron-bin
-  found_in: sharefi-electron-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://sharefi.app/download/v0.5.0/linux/sharefi-x86_64-v0.5.0.rpm
+  found_in: sharefi-x86_64-v0.5.0.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://sharefi.app/download/v0.5.0/linux/sharefi-x86_64-v0.5.0.rpm
   name: sharefi-x86_64-v0.5.0.rpm

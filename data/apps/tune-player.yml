@@ -4,18 +4,18 @@ website: https://github.com/Moebytes/Tune-Player
 repository: https://github.com/Moebytes/Tune-Player
 aur:
 - tune-player-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.4.1
+method: which-electron-rg
 latest: v1.0.0
 src: https://github.com/Moebytes/Tune-Player/archive/refs/tags/v1.0.0.zip
 downloads:
 - name: Tune-Player-1.0.0.AppImage
   url: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/tune-player-bin
-  found_in: tune-player-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage
+  found_in: Tune-Player-1.0.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-05-06'
 aur_downloads:
 - url: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage

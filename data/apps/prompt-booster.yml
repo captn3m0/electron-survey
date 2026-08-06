@@ -3,13 +3,13 @@ name: Prompt Booster
 website: https://hexart.github.io/prompt-booster/
 aur:
 - prompt-booster-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.3.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/prompt-booster-bin
-  found_in: prompt-booster-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/hexart/prompt-booster/releases/download/v0.8.0/Prompt-Booster-0.8.0-arm64.AppImage
+  found_in: Prompt-Booster-0.8.0-arm64.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/hexart/prompt-booster/releases/download/v0.8.0/Prompt-Booster-0.8.0-arm64.AppImage
   name: Prompt-Booster-0.8.0-arm64.AppImage

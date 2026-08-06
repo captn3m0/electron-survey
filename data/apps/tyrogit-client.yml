@@ -17,3 +17,4 @@ evidence:
   found_in: tyrogit-client-git
   signal: depends on electron21; reported as the newest 21.x release (21.4.4)
 last_commit: '2024-05-10'
+we_tried: we1.2.1+p1:Release

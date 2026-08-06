@@ -34,3 +34,4 @@ aur_downloads:
   name: ultra-tracker_1.0.2_amd64.deb
   arch: x86_64
   source: aur-bin
+we_tried: we1.2.1+p1:v1.0.3

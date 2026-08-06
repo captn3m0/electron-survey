@@ -57,4 +57,4 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 brew_installs: 100
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'

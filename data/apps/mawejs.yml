@@ -16,7 +16,7 @@ evidence:
   source: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   found_in: mawejs-0.25.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-07-28'
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   name: mawejs-0.25.0.AppImage

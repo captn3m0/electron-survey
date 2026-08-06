@@ -4,8 +4,8 @@ website: https://github.com/hichemfantar/ShutdownScheduler
 repository: https://github.com/hichemfantar/ShutdownScheduler
 aur:
 - shutdown-scheduler-git
-electron: 33.4.11
-method: aur-depends
+electron: 33.0.2
+method: which-electron-rg
 latest: v0.0.7
 src: https://github.com/hichemfantar/ShutdownScheduler/archive/refs/tags/v0.0.7.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: shutdown_scheduler-0.0.7-full.nupkg
   url: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/shutdown_scheduler-0.0.7-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/shutdown-scheduler-git
-  found_in: shutdown-scheduler-git
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/clicktodev/ShutdownScheduler/releases/download/v0.0.7/shutdown_scheduler-0.0.7-full.nupkg
+  found_in: shutdown_scheduler-0.0.7-full.nupkg
+  signal: which-electron rg signal
 last_commit: '2025-06-07'

@@ -19,3 +19,4 @@ evidence:
   found_in: ugonlinemusicplayer-git
   signal: depends on electron29; reported as the newest 29.x release (29.4.6)
 last_commit: '2026-04-25'
+we_tried: we1.2.1+p1:V1.0.2

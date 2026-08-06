@@ -4,13 +4,13 @@ website: https://github.com/thinreports/thinreports
 repository: https://github.com/thinreports/thinreports
 aur:
 - thinreports-section-editor-bin
-electron: 21.4.4
-method: aur-depends
+electron: 21.0.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/thinreports-section-editor-bin
-  found_in: thinreports-section-editor-bin
-  signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+  kind: binary
+  source: https://github.com/thinreports/thinreports-section-editor/releases/download/v1.0.0-dev/thinreports-section-editor-1.0.0-dev-linux-20240116-67b3e2.AppImage
+  found_in: thinreports-section-editor-1.0.0-dev-linux-20240116-67b3e2.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-05-09'
 src: https://github.com/thinreports/thinreports/archive/refs/heads/main.zip
 aur_downloads:

@@ -4,8 +4,8 @@ website: https://github.com/andirsun/Slacky
 repository: https://github.com/andirsun/Slacky
 aur:
 - slacky-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.4.0
+method: which-electron-rg
 latest: v0.0.10
 src: https://github.com/andirsun/Slacky/archive/refs/tags/v0.0.10.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: slacky_0.0.10_arm64.deb
   url: https://github.com/andirsun/Slacky/releases/download/v0.0.10/slacky_0.0.10_arm64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/slacky-git
-  found_in: slacky-git
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/andirsun/Slacky/releases/download/v0.0.10/slacky-0.0.10.aarch64.rpm
+  found_in: slacky-0.0.10.aarch64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-06-23'

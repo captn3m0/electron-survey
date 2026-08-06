@@ -21,8 +21,8 @@ packages:
   arch: x64
 aur:
 - refi-app-bin
-electron: 19.1.9
-method: aur-depends
+electron: 12.0.0
+method: which-electron-rg
 latest: v0.0.19
 src: https://github.com/thanhlmm/refi-app/archive/refs/tags/v0.0.19.zip
 downloads:
@@ -53,10 +53,10 @@ downloads:
 - name: Refi.App-0.0.19-mac.zip.blockmap
   url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi.App-0.0.19-mac.zip.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/refi-app-bin
-  found_in: refi-app-bin
-  signal: depends on electron19; reported as the newest 19.x release (19.1.9)
+  kind: binary
+  source: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/Refi-App-0.0.19-arm64-mac.zip
+  found_in: Refi-App-0.0.19-arm64-mac.zip
+  signal: which-electron rg signal
 last_commit: '2022-09-09'
 aur_downloads:
 - url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/refi-app_0.0.19_amd64.deb

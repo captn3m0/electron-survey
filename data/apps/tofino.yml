@@ -18,3 +18,10 @@ downloads:
   url: https://github.com/mozilla/tofino/releases/download/v0.2.0/tofino-win32-ia32.exe
 name: Tofino
 last_commit: '2017-07-28'
+electron: 1.4.16
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://github.com/mozilla/tofino/releases/download/v0.2.0/Tofino-0.2.0-full.nupkg
+  found_in: Tofino-0.2.0-full.nupkg
+  signal: which-electron fingerprint signal (2 signals agreed)

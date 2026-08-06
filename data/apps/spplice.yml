@@ -3,13 +3,13 @@ name: Spplice
 website: https://www.p2r3.com/spplice/
 aur:
 - spplice-bin
-electron: 23.3.13
-method: aur-depends
+electron: 23.0.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/spplice-bin
-  found_in: spplice-bin
-  signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+  kind: binary
+  source: https://www.p2r3.com/spplice/app/spplice.AppImage
+  found_in: spplice.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://www.p2r3.com/spplice/app/spplice.AppImage
   name: spplice.AppImage

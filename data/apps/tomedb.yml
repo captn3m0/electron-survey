@@ -4,12 +4,12 @@ website: https://tomedb.dev/
 aur:
 - tomedb-bin
 electron: 30.5.1
-method: aur-depends
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/tomedb-bin
-  found_in: tomedb-bin
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/joshkotrous/tome/releases/download/v0.6.0/tome-linux-x86_64.AppImage
+  found_in: tome-linux-x86_64.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/joshkotrous/tome/releases/download/v0.6.0/tome-linux-x86_64.AppImage
   name: tome-linux-x86_64.AppImage

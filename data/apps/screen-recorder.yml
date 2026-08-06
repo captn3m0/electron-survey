@@ -4,8 +4,8 @@ website: https://github.com/petya0927/screen-recorder-app
 repository: https://github.com/petya0927/screen-recorder-app
 aur:
 - screen-recorder-app
-electron: 25.9.8
-method: aur-depends
+electron: 25.3.2
+method: which-electron-rg
 latest: v1.0.0
 src: https://github.com/petya0927/screen-recorder-app/archive/refs/tags/v1.0.0.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: screen_recorder_app-1.0.0-full.nupkg
   url: https://github.com/petya0927/screen-recorder-app/releases/download/v1.0.0/screen_recorder_app-1.0.0-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/screen-recorder-app
-  found_in: screen-recorder-app
-  signal: depends on electron25; reported as the newest 25.x release (25.9.8)
+  kind: binary
+  source: https://github.com/petya0927/screen-recorder-app/releases/download/v1.0.0/screen_recorder_app-1.0.0-full.nupkg
+  found_in: screen_recorder_app-1.0.0-full.nupkg
+  signal: which-electron rg signal
 last_commit: '2023-11-05'

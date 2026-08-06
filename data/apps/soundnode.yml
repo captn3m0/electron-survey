@@ -10,14 +10,13 @@ downloads:
   url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-linux-x64.tar.xz
 - name: Soundnode-win32-x64.zip
   url: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-win32-x64.zip
-electron: 1.8.8
-method: src-range-guess
+electron: 1.4.4
+method: which-electron-version_file
 name: Soundnode
 electron_src: https://github.com/Soundnode/soundnode-app/archive/refs/tags/7.0.0.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3ASoundnode%2Fsoundnode-app+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-win32-x64.zip
+  found_in: Soundnode-win32-x64.zip
+  signal: which-electron version_file signal (3 signals agreed)
 last_commit: '2026-07-21'

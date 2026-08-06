@@ -38,7 +38,7 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 aur_votes: 10
-brew_installs: 1000
+brew_installs: 100
 aur_downloads:
 - url: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.5/rocketchat-4.15.5-linux-amd64.deb
   name: rocketchat-4.15.5-linux-amd64.deb

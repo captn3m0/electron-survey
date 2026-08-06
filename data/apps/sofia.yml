@@ -10,3 +10,4 @@ downloads:
 - name: Sofia.Setup.1.0.3.exe.blockmap
   url: https://github.com/TaiStudio/Sofia/releases/download/v1.0.3/Sofia.Setup.1.0.3.exe.blockmap
 name: Sofia
+we_tried: we1.2.1+p1:v1.0.3

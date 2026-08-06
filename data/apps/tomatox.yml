@@ -4,8 +4,8 @@ website: https://github.com/yanjiaxuan/TOMATOX
 repository: https://github.com/yanjiaxuan/TOMATOX
 aur:
 - tomatox-bin
-electron: 4.2.12
-method: aur-depends
+electron: 3.1.13
+method: which-electron-fingerprint
 latest: v2.0.2
 src: https://github.com/yanjiaxuan/TOMATOX/archive/refs/tags/v2.0.2.zip
 downloads:
@@ -30,10 +30,10 @@ downloads:
 - name: tomatox_2.0.2_amd64.snap
   url: https://github.com/FreeIess/TOMATOX/releases/download/v2.0.2/tomatox_2.0.2_amd64.snap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/tomatox-bin
-  found_in: tomatox-bin
-  signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+  kind: binary
+  source: https://github.com/yanjiaxuan/TOMATOX/releases/download/v2.0.2/TOMATOX-2.0.2.AppImage
+  found_in: TOMATOX-2.0.2.AppImage
+  signal: which-electron fingerprint signal (2 signals agreed)
 last_commit: '2022-12-23'
 aur_downloads:
 - url: https://github.com/yanjiaxuan/TOMATOX/releases/download/v2.0.2/TOMATOX-2.0.2.AppImage

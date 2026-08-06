@@ -17,3 +17,4 @@ evidence:
   found_in: rotore-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 last_commit: '2025-05-14'
+we_tried: we1.2.1+p1:v1.0.2

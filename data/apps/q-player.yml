@@ -22,3 +22,8 @@ name: Q-player
 electron: 38.1.2
 method: which-electron-rg
 last_commit: '2025-12-28'
+evidence:
+  kind: binary
+  source: https://github.com/Toooorch/q-player/releases/download/1.1.0/q-player-1.1.0.x86_64.rpm
+  found_in: q-player-1.1.0.x86_64.rpm
+  signal: which-electron rg signal

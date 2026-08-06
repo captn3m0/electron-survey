@@ -1,35 +1,35 @@
 id: gdevelop
 repository: https://github.com/4ian/GDevelop
 website: https://gdevelop-app.com/
-latest: v5.6.276
-src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.276.zip
+latest: v5.6.277
+src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.277.zip
 downloads:
-- name: GDevelop-5-5.6.276-arm64.AppImage
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276-arm64.AppImage
-- name: GDevelop-5-5.6.276-linux.zip
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276-linux.zip
-- name: GDevelop-5-5.6.276-universal-mac.zip
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276-universal-mac.zip
-- name: GDevelop-5-5.6.276-universal.dmg
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276-universal.dmg
-- name: GDevelop-5-5.6.276-universal.dmg.blockmap
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276-universal.dmg.blockmap
-- name: GDevelop-5-5.6.276-win.zip
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276-win.zip
-- name: GDevelop-5-5.6.276.AppImage
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-5.6.276.AppImage
-- name: GDevelop-5-Setup-5.6.276.exe
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-Setup-5.6.276.exe
-- name: GDevelop-5-Setup-5.6.276.exe.blockmap
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/GDevelop-5-Setup-5.6.276.exe.blockmap
+- name: GDevelop-5-5.6.277-arm64.AppImage
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277-arm64.AppImage
+- name: GDevelop-5-5.6.277-linux.zip
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277-linux.zip
+- name: GDevelop-5-5.6.277-universal-mac.zip
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277-universal-mac.zip
+- name: GDevelop-5-5.6.277-universal.dmg
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277-universal.dmg
+- name: GDevelop-5-5.6.277-universal.dmg.blockmap
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277-universal.dmg.blockmap
+- name: GDevelop-5-5.6.277-win.zip
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277-win.zip
+- name: GDevelop-5-5.6.277.AppImage
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-5.6.277.AppImage
+- name: GDevelop-5-Setup-5.6.277.exe
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-Setup-5.6.277.exe
+- name: GDevelop-5-Setup-5.6.277.exe.blockmap
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/GDevelop-5-Setup-5.6.277.exe.blockmap
 - name: latest-linux-arm64.yml
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/latest-linux-arm64.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/latest-linux.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/latest-mac.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/4ian/GDevelop/releases/download/v5.6.276/latest.yml
+  url: https://github.com/4ian/GDevelop/releases/download/v5.6.277/latest.yml
 electron: 32.3.3
 method: src-package-lock
 aur:
@@ -40,12 +40,12 @@ packages:
 - url: https://github.com/4ian/GDevelop/releases/download/v5.6.274/GDevelop-5-5.6.274-universal.dmg
   format: dmg
   os: macos
-electron_src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.276.zip
+electron_src: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.277.zip
 evidence:
   kind: lockfile
-  found_in: GDevelop-5.6.276/newIDE/electron-app/package-lock.json
+  found_in: GDevelop-5.6.277/newIDE/electron-app/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.276.zip
+  source: https://github.com/4ian/GDevelop/archive/refs/tags/v5.6.277.zip
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'

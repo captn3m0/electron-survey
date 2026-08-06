@@ -17,3 +17,4 @@ evidence:
   found_in: symphonie-git
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 last_commit: '2026-02-26'
+we_tried: we1.2.1+p1:windows-release-v1.0.22

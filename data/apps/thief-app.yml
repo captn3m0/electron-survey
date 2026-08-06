@@ -34,13 +34,12 @@ downloads:
   url: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win64.exe
 - name: thief-4.0.0-win64.zip
   url: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-win64.zip
-electron: 8.5.5
-method: src-range-guess
+electron: 8.2.3
+method: which-electron-fingerprint
 electron_src: https://github.com/cteamx/Thief/archive/refs/tags/4.0.0.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Acteamx%2FThief+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/cteamx/Thief/releases/download/4.0.0/thief-4.0.0-linux64.AppImage
+  found_in: thief-4.0.0-linux64.AppImage
+  signal: which-electron fingerprint signal
 last_commit: '2024-02-27'

@@ -15,3 +15,4 @@ aur_downloads:
   name: saturn_1.1.1_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:9807fbf1d267

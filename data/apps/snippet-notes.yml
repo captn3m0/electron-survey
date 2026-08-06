@@ -17,3 +17,4 @@ evidence:
   found_in: snippet-notes
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
 last_commit: '2026-07-26'
+we_tried: we1.2.1+p1:0.6.2

@@ -19,3 +19,4 @@ aur_downloads:
   name: quory-1.0.6.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:@quory/core@6.1.0

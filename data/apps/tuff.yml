@@ -15,3 +15,4 @@ aur_downloads:
   name: ubuntu-latest-release-tuff-2.4.12.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:7715e2f89f2e

@@ -4,8 +4,8 @@ website: https://github.com/thejoaov/tray-link
 repository: https://github.com/thejoaov/tray-link
 aur:
 - tray-link-bin
-electron: 33.4.11
-method: aur-depends
+electron: 33.2.0
+method: which-electron-rg
 latest: v2.3.0
 src: https://github.com/thejoaov/tray-link/archive/refs/tags/v2.3.0.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: TrayLink-2.3.0-full.nupkg
   url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/TrayLink-2.3.0-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/tray-link-bin
-  found_in: tray-link-bin
-  signal: depends on electron33; reported as the newest 33.x release (33.4.11)
+  kind: binary
+  source: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/tray-link-2.3.0-1.x86_64.rpm
+  found_in: tray-link-2.3.0-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-06-23'
 aur_downloads:
 - url: https://github.com/thejoaov/tray-link/releases/download/v2.3.0/tray-link-2.3.0-1.x86_64.rpm

@@ -4,8 +4,8 @@ website: https://github.com/SkywardAI/shibuya
 repository: https://github.com/SkywardAI/shibuya
 aur:
 - shibuya-bin
-electron: 32.3.3
-method: aur-depends
+electron: 32.0.0
+method: which-electron-rg
 latest: v0.2.8
 src: https://github.com/SkywardAI/shibuya/archive/refs/tags/v0.2.8.zip
 downloads:
@@ -26,10 +26,10 @@ downloads:
 - name: Shibuya-Setup-0.2.8.exe.blockmap
   url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-Setup-0.2.8.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/shibuya-bin
-  found_in: shibuya-bin
-  signal: depends on electron32; reported as the newest 32.x release (32.3.3)
+  kind: binary
+  source: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-0.2.8.AppImage
+  found_in: Shibuya-0.2.8.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-11-12'
 aur_downloads:
 - url: https://github.com/SkywardAI/shibuya/releases/download/v0.2.8/Shibuya-0.2.8.AppImage

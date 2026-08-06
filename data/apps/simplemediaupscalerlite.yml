@@ -3,13 +3,13 @@ name: Simplemediaupscalerlite
 website: https://janishutz.com/projects/smuL
 aur:
 - simplemediaupscalerlite-bin
-electron: 24.8.8
-method: aur-depends
+electron: 24.4.1
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/simplemediaupscalerlite-bin
-  found_in: simplemediaupscalerlite-bin
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/simplePCBuilding/SimpleMediaUpscalerLite/releases/download/V2.0.0/SimpleMediaUpscalerLite-V2.0.0.x86_64.rpm
+  found_in: SimpleMediaUpscalerLite-V2.0.0.x86_64.rpm
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/simplePCBuilding/SimpleMediaUpscalerLite/releases/download/V2.0.0/SimpleMediaUpscalerLite-V2.0.0.x86_64.rpm
   name: SimpleMediaUpscalerLite-V2.0.0.x86_64.rpm

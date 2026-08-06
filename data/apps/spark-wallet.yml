@@ -4,8 +4,8 @@ website: https://github.com/shesek/spark-wallet
 repository: https://github.com/shesek/spark-wallet
 aur:
 - spark-wallet-bin
-electron: 13.6.9
-method: aur-depends
+electron: 8.5.5
+method: which-electron-fingerprint
 latest: v0.3.1
 src: https://github.com/shesek/spark-wallet/archive/refs/tags/v0.3.1.zip
 downloads:
@@ -42,10 +42,10 @@ downloads:
   url: https://github.com/shesek/spark-wallet/releases/download/v0.3.1/spark-wallet-0.3.1-win-setup.exe
   checksum: 992aad31bf7a755ff7c6390093aeb6ddd63eede6e280c70ad303a3a002672c4e
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/spark-wallet-bin
-  found_in: spark-wallet-bin
-  signal: depends on electron13; reported as the newest 13.x release (13.6.9)
+  kind: binary
+  source: https://github.com/shesek/spark-wallet/releases/download/v0.3.1/spark-wallet-0.3.1-linux-x86_64.AppImage
+  found_in: spark-wallet-0.3.1-linux-x86_64.AppImage
+  signal: which-electron fingerprint signal
 last_commit: '2024-07-07'
 aur_downloads:
 - url: https://github.com/shesek/spark-wallet/releases/download/v0.3.1/spark-wallet-0.3.1-linux-amd64.deb

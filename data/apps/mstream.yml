@@ -1,23 +1,23 @@
 id: mstream
 repository: https://github.com/IrosTheBeggar/mStream
 website: https://mstream.io/
-latest: v6.19.2
-src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.19.2.zip
+latest: v6.19.3
+src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.19.3.zip
 downloads:
-- name: mStream-6.19.2-darwin-arm64.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-darwin-arm64.zip
-- name: mStream-6.19.2-darwin-x64.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-darwin-x64.zip
-- name: mStream-6.19.2-linux-arm64-musl.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-linux-arm64-musl.zip
-- name: mStream-6.19.2-linux-arm64.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-linux-arm64.zip
-- name: mStream-6.19.2-linux-x64-musl.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-linux-x64-musl.zip
-- name: mStream-6.19.2-linux-x64.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-linux-x64.zip
-- name: mStream-6.19.2-win-x64.zip
-  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.2/mStream-6.19.2-win-x64.zip
+- name: mStream-6.19.3-darwin-arm64.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-darwin-arm64.zip
+- name: mStream-6.19.3-darwin-x64.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-darwin-x64.zip
+- name: mStream-6.19.3-linux-arm64-musl.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-linux-arm64-musl.zip
+- name: mStream-6.19.3-linux-arm64.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-linux-arm64.zip
+- name: mStream-6.19.3-linux-x64-musl.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-linux-x64-musl.zip
+- name: mStream-6.19.3-linux-x64.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-linux-x64.zip
+- name: mStream-6.19.3-win-x64.zip
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.19.3/mStream-6.19.3-win-x64.zip
 aur:
 - mstream
 - mstream-git
@@ -26,4 +26,4 @@ electron: 29.1.4
 method: which-electron-rg
 aur_votes: 1
 last_commit: '2026-08-05'
-we_tried: we1.2.1+p1:v6.19.2
+we_tried: we1.2.1+p1:v6.19.3

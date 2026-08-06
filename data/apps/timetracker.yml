@@ -9,7 +9,7 @@ packages:
   format: zip
   os: macos
 electron: 26.6.10
-method: aur-depends
+method: which-electron-rg
 latest: v0.9.24
 src: https://github.com/DerKommentator/time-tracker/archive/refs/tags/v0.9.24.zip
 downloads:
@@ -28,10 +28,10 @@ downloads:
 - name: TimeTracker-0.9.24-win-portable-x64.exe
   url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-win-portable-x64.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/timetracker-bin
-  found_in: timetracker-bin
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-linux-x64.tar.gz
+  found_in: TimeTracker-0.9.24-linux-x64.tar.gz
+  signal: which-electron rg signal
 last_commit: '2024-09-30'
 aur_downloads:
 - url: https://github.com/DerKommentator/time-tracker/releases/download/v0.9.24/TimeTracker-0.9.24-linux-x86_64.AppImage

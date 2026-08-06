@@ -10,14 +10,13 @@ downloads:
   url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.exe
 - name: unlimited-clipboard.snap
   url: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.snap
-electron: 8.5.5
-method: src-range-guess
+electron: 8.2.5
+method: which-electron-fingerprint
 name: clipboard-manager-electron
 electron_src: https://github.com/morozovsk/unlimited-clipboard/archive/refs/tags/v1.0.1.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Amorozovsk%2Funlimited-clipboard+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/unlimited-clipboard/unlimited-clipboard/releases/download/v1.0.1/unlimited-clipboard.AppImage
+  found_in: unlimited-clipboard.AppImage
+  signal: which-electron fingerprint signal
 last_commit: '2020-08-24'

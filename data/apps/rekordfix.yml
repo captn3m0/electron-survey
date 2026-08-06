@@ -4,8 +4,8 @@ website: https://github.com/rzuppur/rekordfix
 repository: https://github.com/rzuppur/rekordfix
 aur:
 - rekordfix-bin
-electron: 36.9.5
-method: aur-depends
+electron: 36.3.2
+method: which-electron-rg
 latest: v0.16.0
 src: https://github.com/rzuppur/rekordfix/archive/refs/tags/v0.16.0.zip
 downloads:
@@ -30,10 +30,10 @@ downloads:
 - name: rekordfix_0.16.0_amd64.deb
   url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/rekordfix_0.16.0_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/rekordfix-bin
-  found_in: rekordfix-bin
-  signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+  kind: binary
+  source: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/Rekordfix-0.16.0-arm64-mac.zip
+  found_in: Rekordfix-0.16.0-arm64-mac.zip
+  signal: which-electron rg signal
 last_commit: '2025-06-01'
 aur_downloads:
 - url: https://github.com/rzuppur/rekordfix/releases/download/v0.16.0/rekordfix_0.16.0_amd64.deb

@@ -34,3 +34,10 @@ downloads:
   url: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup.Setup.4.2.4.exe.blockmap
 name: Tunlookup
 last_commit: '2024-12-23'
+electron: 33.2.1
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/thephucit/tunlookup/releases/download/4.2.4/Tunlookup-4.2.4-arm64-mac.zip
+  found_in: Tunlookup-4.2.4-arm64-mac.zip
+  signal: which-electron rg signal

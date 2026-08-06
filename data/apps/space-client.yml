@@ -3,13 +3,13 @@ name: Space Client
 website: https://xtony.net/
 aur:
 - space-client-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.0.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/space-client-bin
-  found_in: space-client-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/xtonysanx/Space-Client/releases/download/2.0.11/Space-Client-linux-x86_64.AppImage
+  found_in: Space-Client-linux-x86_64.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/xtonysanx/Space-Client/releases/download/2.0.11/Space-Client-linux-x86_64.AppImage
   name: Space-Client-linux-x86_64.AppImage

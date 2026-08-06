@@ -4,8 +4,8 @@ website: https://github.com/spenserblack/quasar-todo
 repository: https://github.com/spenserblack/quasar-todo
 aur:
 - quasar-todo-bin
-electron: 22.3.27
-method: aur-depends
+electron: 22.3.25
+method: which-electron-rg
 latest: v0.1.4
 src: https://github.com/spenserblack/quasar-todo/archive/refs/tags/v0.1.4.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: Quasar-Todo-Setup-0.1.4.exe.blockmap
   url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-Setup-0.1.4.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/quasar-todo-bin
-  found_in: quasar-todo-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-0.1.4.AppImage
+  found_in: Quasar-Todo-0.1.4.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-02-29'
 aur_downloads:
 - url: https://github.com/spenserblack/quasar-todo/releases/download/v0.1.4/Quasar-Todo-0.1.4.AppImage

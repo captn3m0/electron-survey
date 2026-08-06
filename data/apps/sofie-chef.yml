@@ -4,8 +4,8 @@ website: https://github.com/Sofie-Automation/sofie-chef
 repository: https://github.com/Sofie-Automation/sofie-chef
 aur:
 - sofie-chef-bin
-electron: 40.10.6
-method: aur-depends
+electron: 40.6.1
+method: which-electron-rg
 latest: v0.6.0
 src: https://github.com/Sofie-Automation/sofie-chef/archive/refs/tags/v0.6.0.zip
 downloads:
@@ -22,10 +22,10 @@ downloads:
 - name: SofieChef-0.6.0-Windows-Installer.exe.blockmap
   url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Windows-Installer.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/sofie-chef-bin
-  found_in: sofie-chef-bin
-  signal: depends on electron40; reported as the newest 40.x release (40.10.6)
+  kind: binary
+  source: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Linux-Executable.AppImage
+  found_in: SofieChef-0.6.0-Linux-Executable.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-07-20'
 aur_downloads:
 - url: https://github.com/Sofie-Automation/sofie-chef/releases/download/v0.6.0/SofieChef-0.6.0-Linux-Executable.AppImage

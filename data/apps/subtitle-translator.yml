@@ -4,8 +4,8 @@ website: https://github.com/gnehs/subtitle-translator-electron
 repository: https://github.com/gnehs/subtitle-translator-electron
 aur:
 - subtitle-translator-electron-bin
-electron: 43.1.1
-method: aur-depends
+electron: 43.1.0
+method: which-electron-rg
 latest: 2.1.0
 src: https://github.com/gnehs/subtitle-translator-electron/archive/refs/tags/2.1.0.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: Subtitle.Translator-2.1.0.AppImage
   url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.1.0/Subtitle.Translator-2.1.0.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/subtitle-translator-electron-bin
-  found_in: subtitle-translator-electron-bin
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
+  kind: binary
+  source: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.2/Subtitle.Translator-2.0.2.AppImage
+  found_in: Subtitle.Translator-2.0.2.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-08-01'
 aur_downloads:
 - url: https://github.com/gnehs/subtitle-translator-electron/releases/download/2.0.2/Subtitle.Translator-2.0.2.AppImage

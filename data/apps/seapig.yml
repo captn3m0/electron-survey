@@ -16,14 +16,13 @@ downloads:
   url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-win32-ia32-0.8.2.zip
 - name: seapig-win32-x64-0.8.2.zip
   url: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-win32-x64-0.8.2.zip
-electron: 6.1.12
-method: src-range-guess
+electron: 6.0.8
+method: which-electron-version_file
 name: SeaPig
 electron_src: https://github.com/yasumichi/seapig/archive/refs/tags/v0.8.2.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Ayasumichi%2Fseapig+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/yasumichi/seapig/releases/download/v0.8.2/seapig-linux-arm64-0.8.2.zip
+  found_in: seapig-linux-arm64-0.8.2.zip
+  signal: which-electron version_file signal (3 signals agreed)
 last_commit: '2019-11-02'

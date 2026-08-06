@@ -4,16 +4,16 @@ website: https://github.com/anosu/Spine-Viewer
 repository: https://github.com/anosu/Spine-Viewer
 aur:
 - spine-viewer-git
-electron: 30.5.1
-method: aur-depends
+electron: 30.0.0
+method: which-electron-rg
 latest: 1.1.1
 src: https://github.com/anosu/Spine-Viewer/archive/refs/tags/1.1.1.zip
 downloads:
 - name: spine-viewer-win-1.1.1.7z
   url: https://github.com/anosu/Spine-Viewer/releases/download/1.1.1/spine-viewer-win-1.1.1.7z
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/spine-viewer-git
-  found_in: spine-viewer-git
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
+  kind: binary
+  source: https://github.com/anosu/Spine-Viewer/releases/download/1.1.1/spine-viewer-win-1.1.1.7z
+  found_in: spine-viewer-win-1.1.1.7z
+  signal: which-electron rg signal
 last_commit: '2024-08-21'

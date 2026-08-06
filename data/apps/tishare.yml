@@ -3,13 +3,13 @@ name: Tishare
 website: https://dlguswo333.github.io/tishare-docs
 aur:
 - tishare-desktop-bin
-electron: 37.10.3
-method: aur-depends
+electron: 37.2.6
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/tishare-desktop-bin
-  found_in: tishare-desktop-bin
-  signal: depends on electron37; reported as the newest 37.x release (37.10.3)
+  kind: binary
+  source: https://github.com/dlguswo333/tishare-desktop/releases/download/v0.5.2/tiShare-0.5.2.AppImage
+  found_in: tiShare-0.5.2.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/dlguswo333/tishare-desktop/releases/download/v0.5.2/tiShare-0.5.2.AppImage
   name: tiShare-0.5.2.AppImage

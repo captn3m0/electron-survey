@@ -15,3 +15,4 @@ aur_downloads:
   name: tiny-games_0.1.3_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:749805e6b57c

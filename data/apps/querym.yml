@@ -15,3 +15,4 @@ aur_downloads:
   name: querym-0.5.9-linux_amd64.deb
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:urls:516dd3bed31d

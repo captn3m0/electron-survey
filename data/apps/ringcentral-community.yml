@@ -4,8 +4,8 @@ website: https://github.com/ringcentral/ringcentral-community-app
 repository: https://github.com/ringcentral/ringcentral-community-app
 aur:
 - ringcentral-community-app-bin
-electron: 27.3.11
-method: aur-depends
+electron: 27.1.2
+method: which-electron-rg
 latest: v0.0.13
 src: https://github.com/ringcentral/ringcentral-community-app/archive/refs/tags/v0.0.13.zip
 downloads:
@@ -18,10 +18,10 @@ downloads:
 - name: RingCentral.Community.app-0.0.13.AppImage
   url: https://github.com/ringcentral/ringcentral-community-app/releases/download/v0.0.13/RingCentral.Community.app-0.0.13.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ringcentral-community-app-bin
-  found_in: ringcentral-community-app-bin
-  signal: depends on electron27; reported as the newest 27.x release (27.3.11)
+  kind: binary
+  source: https://github.com/ringcentral/ringcentral-community-app/releases/download/v0.0.12/ringcentral-community-app-0.0.12.x86_64.rpm
+  found_in: ringcentral-community-app-0.0.12.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-27'
 aur_downloads:
 - url: https://github.com/ringcentral/ringcentral-community-app/releases/download/v0.0.12/ringcentral-community-app-0.0.12.x86_64.rpm

@@ -4,8 +4,8 @@ website: https://github.com/kondoumh/sbe
 repository: https://github.com/kondoumh/sbe
 aur:
 - sbe-bin
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.0
+method: which-electron-rg
 latest: v3.8.0
 src: https://github.com/kondoumh/sbe/archive/refs/tags/v3.8.0.zip
 downloads:
@@ -16,11 +16,11 @@ downloads:
 - name: sbe-Setup-3.8.0.exe
   url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-Setup-3.8.0.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/sbe-bin
-  found_in: sbe-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-08-04'
+  kind: binary
+  source: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0.AppImage
+  found_in: sbe-3.8.0.AppImage
+  signal: which-electron rg signal
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0.AppImage
   name: sbe-3.8.0.AppImage

@@ -4,8 +4,8 @@ website: https://github.com/TaskBookly/app
 repository: https://github.com/TaskBookly/app
 aur:
 - taskbookly-bin
-electron: 36.9.5
-method: aur-depends
+electron: 36.3.1
+method: which-electron-rg
 latest: v1.0.1
 src: https://github.com/TaskBookly/app/archive/refs/tags/v1.0.1.zip
 downloads:
@@ -30,10 +30,10 @@ downloads:
 - name: TaskBookly-1.0.1.exe.blockmap
   url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/taskbookly-bin
-  found_in: taskbookly-bin
-  signal: depends on electron36; reported as the newest 36.x release (36.9.5)
+  kind: binary
+  source: https://github.com/TaskBookly/app/releases/download/v0.1.1/Taskbookly.AppImage
+  found_in: Taskbookly.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-05-25'
 aur_downloads:
 - url: https://github.com/TaskBookly/app/releases/download/v0.1.1/Taskbookly.AppImage

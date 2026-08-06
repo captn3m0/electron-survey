@@ -6,8 +6,8 @@ aur:
 - snsdeck
 additionalAUR:
 - snsdeck-bin
-electron: 26.6.10
-method: aur-depends
+electron: 26.0.0
+method: which-electron-rg
 latest: v0.0.3
 src: https://github.com/meganii/snsdeck/archive/refs/tags/v0.0.3.zip
 downloads:
@@ -28,8 +28,8 @@ downloads:
 - name: snsdeck_0.0.3_amd64.deb
   url: https://github.com/meganii/snsdeck/releases/download/v0.0.3/snsdeck_0.0.3_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/snsdeck
-  found_in: snsdeck
-  signal: depends on electron26; reported as the newest 26.x release (26.6.10)
+  kind: binary
+  source: https://github.com/meganii/snsdeck/releases/download/v0.0.3/snsdeck-0.0.3-1.x86_64.rpm
+  found_in: snsdeck-0.0.3-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2025-12-29'

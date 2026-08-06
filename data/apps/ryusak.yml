@@ -4,8 +4,8 @@ website: https://github.com/Ecks1337/RyuSAK
 repository: https://github.com/Ecks1337/RyuSAK
 aur:
 - ryusak
-electron: 21.4.4
-method: aur-depends
+electron: 18.3.7
+method: which-electron-rg
 latest: v1.6.2
 src: https://github.com/Ecks1337/RyuSAK/archive/refs/tags/v1.6.2.zip
 downloads:
@@ -28,8 +28,8 @@ downloads:
 - name: ryusak_1.6.2_amd64.deb
   url: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/ryusak_1.6.2_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/ryusak
-  found_in: ryusak
-  signal: depends on electron21; reported as the newest 21.x release (21.4.4)
+  kind: binary
+  source: https://github.com/Ecks1337/RyuSAK/releases/download/v1.6.2/RyuSAK-1.6.2-1.x86_64.rpm
+  found_in: RyuSAK-1.6.2-1.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2023-10-25'

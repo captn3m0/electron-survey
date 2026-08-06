@@ -79,7 +79,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-04'
+last_commit: '2026-08-05'
 aur_downloads:
 - url: https://raw.githubusercontent.com/altair-graphql/altair/v8.5.7/packages/altair-core/LICENSE
   name: LICENSE

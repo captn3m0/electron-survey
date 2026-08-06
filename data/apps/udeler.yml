@@ -7,7 +7,7 @@ aur:
 additionalAUR:
 - udeler-git
 electron: 11.5.0
-method: aur-depends
+method: which-electron-rg
 latest: v1.14.0
 src: https://github.com/heliomarpm/udemy-downloader-gui/archive/refs/tags/v1.14.0.zip
 downloads:
@@ -46,8 +46,8 @@ downloads:
 - name: Udeler_Setup-v1.14.0_win-x64.exe.blockmap
   url: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_win-x64.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/udeler
-  found_in: udeler
-  signal: depends on electron11; reported as the newest 11.x release (11.5.0)
+  kind: binary
+  source: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_linux-x86_64.rpm
+  found_in: Udeler_Setup-v1.14.0_linux-x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-02-16'

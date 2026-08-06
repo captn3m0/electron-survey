@@ -19,3 +19,4 @@ evidence:
   found_in: seven-waves
   signal: depends on electron9; reported as the newest 9.x release (9.4.4)
 last_commit: '2024-05-02'
+we_tried: we1.2.1+p1:v1.2.0

@@ -4,18 +4,18 @@ website: https://github.com/MillerSpil/ShoppingListApplication
 repository: https://github.com/MillerSpil/ShoppingListApplication
 aur:
 - shoppinglist-bin
-electron: 17.4.11
-method: aur-depends
+electron: 17.0.0
+method: which-electron-rg
 latest: production-windows
 src: https://github.com/MillerSpil/ShoppingListApplication/archive/refs/tags/production-windows.zip
 downloads:
 - name: shoppinglist-win32-ia32.7z
   url: https://github.com/MillerSpil/ShoppingListApplication/releases/download/production-windows/shoppinglist-win32-ia32.7z
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/shoppinglist-bin
-  found_in: shoppinglist-bin
-  signal: depends on electron17; reported as the newest 17.x release (17.4.11)
+  kind: binary
+  source: https://github.com/MillerSpil/ShoppingListApplication/releases/download/production-linux/shoppinglist-linux-x64.7z
+  found_in: shoppinglist-linux-x64.7z
+  signal: which-electron rg signal (2 signals agreed)
 last_commit: '2023-05-08'
 aur_downloads:
 - url: https://github.com/MillerSpil/ShoppingListApplication/releases/download/production-linux/shoppinglist-linux-x64.7z
