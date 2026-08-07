@@ -4,8 +4,8 @@ website: https://github.com/ptp-build/wai-chat-desktop
 repository: https://github.com/ptp-build/wai-chat-desktop
 aur:
 - wai-chat-desktop
-electron: 24.8.8
-method: aur-depends
+electron: 24.1.3
+method: which-electron-rg
 latest: v1.1.2
 src: https://github.com/ptp-build/wai-chat-desktop/archive/refs/tags/v1.1.2.zip
 downloads:
@@ -18,8 +18,8 @@ downloads:
 - name: wai_chat_desktopt-1.1.2-full.nupkg
   url: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/wai_chat_desktopt-1.1.2-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/wai-chat-desktop
-  found_in: wai-chat-desktop
-  signal: depends on electron24; reported as the newest 24.x release (24.8.8)
+  kind: binary
+  source: https://github.com/ptp-build/wai-chat-desktop/releases/download/v1.1.2/wai_chat_desktopt-1.1.2-full.nupkg
+  found_in: wai_chat_desktopt-1.1.2-full.nupkg
+  signal: which-electron rg signal
 last_commit: '2023-06-10'

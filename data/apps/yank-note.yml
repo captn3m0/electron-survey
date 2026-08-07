@@ -25,8 +25,8 @@ packages:
   arch: x64
 aur:
 - yank-note
-electron: 41.10.2
-method: aur-depends
+electron: 41.7.0
+method: which-electron-rg
 latest: v3.92.1
 src: https://github.com/purocean/yn/archive/refs/tags/v3.92.1.zip
 downloads:
@@ -73,8 +73,8 @@ downloads:
 - name: Yank-Note-win-x64-3.92.1.zip
   url: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-win-x64-3.92.1.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/yank-note
-  found_in: yank-note
-  signal: depends on electron41; reported as the newest 41.x release (41.10.2)
+  kind: binary
+  source: https://github.com/purocean/yn/releases/download/v3.92.1/Yank-Note-linux-arm64-3.92.1.AppImage
+  found_in: Yank-Note-linux-arm64-3.92.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-08-05'

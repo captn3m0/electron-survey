@@ -10,3 +10,10 @@ downloads:
   url: https://github.com/spacedevin/wowstat/releases/download/3.0.5/WoWStat-win-3.0.5.exe
 name: WoW Stat
 last_commit: '2016-11-30'
+electron: 1.2.7
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://github.com/spacedevin/wowstat/releases/download/3.0.5/WoWStat-mac-3.0.5.dmg
+  found_in: WoWStat-mac-3.0.5.dmg
+  signal: which-electron fingerprint signal (2 signals agreed)

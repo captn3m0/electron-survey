@@ -4,8 +4,8 @@ website: https://github.com/estepona/wx-read-desktop
 repository: https://github.com/estepona/wx-read-desktop
 aur:
 - wx-read
-electron: 22.3.27
-method: aur-depends
+electron: 22.0.3
+method: which-electron-rg
 latest: v0.2.2
 src: https://github.com/estepona/wx-read-desktop/archive/refs/tags/v0.2.2.zip
 downloads:
@@ -16,8 +16,8 @@ downloads:
 - name: wx-read.Setup.0.2.2.exe
   url: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read.Setup.0.2.2.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/wx-read
-  found_in: wx-read
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/estepona/wx-read-desktop/releases/download/v0.2.2/wx-read-0.2.2-arm64.dmg
+  found_in: wx-read-0.2.2-arm64.dmg
+  signal: which-electron rg signal
 last_commit: '2026-01-28'

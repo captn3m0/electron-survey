@@ -68,4 +68,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
 brew_installs: 1000
-last_commit: '2026-08-05'
+last_commit: '2026-08-06'

@@ -11,13 +11,12 @@ downloads:
 - name: WebKitty.Setup.3.2.1.exe
   url: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty.Setup.3.2.1.exe
 electron: 17.4.11
-method: src-range-guess
+method: which-electron-rg
 name: WebKitty
 electron_src: https://github.com/yikuansun/webkitty/archive/refs/tags/v3.2.1.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Ayikuansun%2Fwebkitty+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/yikuansun/webkitty/releases/download/v3.2.1/WebKitty-3.2.1.AppImage
+  found_in: WebKitty-3.2.1.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-01-14'

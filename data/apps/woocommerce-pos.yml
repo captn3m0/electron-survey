@@ -6,8 +6,8 @@ aur:
 - woocommerce-pos
 additionalAUR:
 - woocommerce-pos-bin
-electron: 30.5.1
-method: aur-depends
+electron: 41.7.1
+method: which-electron-rg
 latest: v1.9.9
 src: https://github.com/wcpos/electron/archive/refs/tags/v1.9.9.zip
 downloads:
@@ -30,8 +30,8 @@ downloads:
 - name: WooCommercePOS-1.9.9-full.nupkg
   url: https://github.com/wcpos/electron/releases/download/v1.9.9/WooCommercePOS-1.9.9-full.nupkg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/woocommerce-pos
-  found_in: woocommerce-pos
-  signal: depends on electron30; reported as the newest 30.x release (30.5.1)
-last_commit: '2026-08-04'
+  kind: binary
+  source: https://github.com/wcpos/electron/releases/download/v1.9.9/woocommerce-pos-1.9.9-1.x86_64.rpm
+  found_in: woocommerce-pos-1.9.9-1.x86_64.rpm
+  signal: which-electron rg signal
+last_commit: '2026-08-06'

@@ -4,8 +4,8 @@ website: https://github.com/platevoltage/youtube-smarttv-emu
 repository: https://github.com/platevoltage/youtube-smarttv-emu
 aur:
 - youtube-smarttv-emu-bin
-electron: 34.5.8
-method: aur-depends
+electron: 34.0.0
+method: which-electron-rg
 latest: 1.1.0
 src: https://github.com/platevoltage/youtube-smarttv-emu/archive/refs/tags/1.1.0.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: youtube-smarttv-emu_1.1.0_amd64.deb
   url: https://github.com/platevoltage/youtube-smarttv-emu/releases/download/1.1.0/youtube-smarttv-emu_1.1.0_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/youtube-smarttv-emu-bin
-  found_in: youtube-smarttv-emu-bin
-  signal: depends on electron34; reported as the newest 34.x release (34.5.8)
+  kind: binary
+  source: https://github.com/platevoltage/youtube-smarttv-emu/releases/download/1.1.0/youtube-smarttv-emu-1.1.0.x86_64.rpm
+  found_in: youtube-smarttv-emu-1.1.0.x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2025-12-21'
 aur_downloads:
 - url: https://github.com/platevoltage/youtube-smarttv-emu/releases/download/1.1.0/youtube-smarttv-emu-1.1.0.x86_64.rpm

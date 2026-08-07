@@ -6,14 +6,13 @@ src: https://github.com/gnu4cn/gitbook-reader-app/archive/refs/tags/v0.8.8.zip
 downloads:
 - name: Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
   url: https://github.com/gnu4cn/gitbook-reader-app/releases/download/v0.8.8/Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
-electron: 10.4.7
-method: src-range-guess
+electron: 10.2.0
+method: which-electron-rg
 name: Yet-Another-Gitbook-Reader
 electron_src: https://github.com/gnu4cn/gitbook-reader-app/archive/refs/tags/v0.8.8.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Agnu4cn%2Fgitbook-reader-app+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/gnu4cn/gitbook-reader-app/releases/download/v0.8.8/Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
+  found_in: Yet-Another-Gitbook-Reader-0.8.8-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2021-01-25'

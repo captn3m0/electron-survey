@@ -14,12 +14,11 @@ downloads:
 - name: ZimaOS.Client-0.9.23.AppImage
   url: https://github.com/chicohaager/zima-linux-client/releases/download/v0.9.23/ZimaOS.Client-0.9.23.AppImage
 electron: 28.3.3
-method: src-range-guess
+method: which-electron-rg
 electron_src: https://github.com/chicohaager/zima-linux-client/archive/refs/tags/v0.9.23.zip
 evidence:
-  kind: manifest
-  source: https://github.com/search?q=repo%3Achicohaager%2Fzima-linux-client+path%3Apackage.json+electron&type=code
-  found_in: package.json
-  signal: no lockfile; a package.json range was resolved to its highest known match
-  reconstructed: true
+  kind: binary
+  source: https://github.com/chicohaager/zima-linux-client/releases/download/v0.9.23/ZimaOS.Client-0.9.23.AppImage
+  found_in: ZimaOS.Client-0.9.23.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-08-01'

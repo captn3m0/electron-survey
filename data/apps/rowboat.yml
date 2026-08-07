@@ -36,7 +36,7 @@ method: which-electron-rg
 latest: v0.8.3
 src: https://github.com/rowboatlabs/rowboat/archive/refs/tags/v0.8.3.zip
 brew_installs: 100
-last_commit: '2026-08-05'
+last_commit: '2026-08-07'
 evidence:
   kind: binary
   source: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.0/Rowboat-linux-0.8.0-1.x86_64.rpm

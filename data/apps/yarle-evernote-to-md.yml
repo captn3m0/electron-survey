@@ -4,8 +4,8 @@ website: https://github.com/akosbalasko/yarle
 repository: https://github.com/akosbalasko/yarle
 aur:
 - yarle-evernote-to-md-bin
-electron: 22.3.27
-method: aur-depends
+electron: 22.0.0
+method: which-electron-rg
 latest: v6.16.1
 src: https://github.com/akosbalasko/yarle/archive/refs/tags/v6.16.1.zip
 downloads:
@@ -30,10 +30,10 @@ downloads:
 - name: yarle-evernote-to-md_win_x64.exe.blockmap
   url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_win_x64.exe.blockmap
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/yarle-evernote-to-md-bin
-  found_in: yarle-evernote-to-md-bin
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
+  kind: binary
+  source: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_linux_x86_64.rpm
+  found_in: yarle-evernote-to-md_linux_x86_64.rpm
+  signal: which-electron rg signal
 last_commit: '2026-03-31'
 aur_downloads:
 - url: https://github.com/akosbalasko/yarle/releases/download/v6.16.1/yarle-evernote-to-md_linux_x86_64.rpm

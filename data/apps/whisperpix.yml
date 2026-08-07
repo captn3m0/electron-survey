@@ -4,8 +4,8 @@ website: https://github.com/graham-walker/WhisperPix
 repository: https://github.com/graham-walker/WhisperPix
 aur:
 - whisperpix-bin
-electron: 23.3.13
-method: aur-depends
+electron: 23.2.1
+method: which-electron-rg
 latest: v1.1.0
 src: https://github.com/graham-walker/WhisperPix/archive/refs/tags/v1.1.0.zip
 downloads:
@@ -16,10 +16,10 @@ downloads:
 - name: whisperpix_1.1.0_amd64.deb
   url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/whisperpix_1.1.0_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/whisperpix-bin
-  found_in: whisperpix-bin
-  signal: depends on electron23; reported as the newest 23.x release (23.3.13)
+  kind: binary
+  source: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/WhisperPix-1.1.0.AppImage
+  found_in: WhisperPix-1.1.0.AppImage
+  signal: which-electron rg signal
 last_commit: '2023-12-06'
 aur_downloads:
 - url: https://github.com/graham-walker/WhisperPix/releases/download/v1.1.0/whisperpix_1.1.0_amd64.deb

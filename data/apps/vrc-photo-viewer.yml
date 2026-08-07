@@ -19,3 +19,4 @@ evidence:
   found_in: vrc-photo-viewer-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 last_commit: '2026-02-02'
+we_tried: we1.2.1+p1:2.1.0

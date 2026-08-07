@@ -47,4 +47,4 @@ evidence:
   found_in: leafview-4.3.5/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/sprout2000/leafview/archive/refs/tags/v4.3.5.zip
-last_commit: '2026-08-04'
+last_commit: '2026-08-07'

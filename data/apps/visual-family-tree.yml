@@ -22,14 +22,14 @@ downloads:
   url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.zip
 aur:
 - visualfamilytree-bin
-electron: 4.2.12
-method: aur-depends
+electron: 4.0.1
+method: which-electron-fingerprint
 name: Visual Family Tree
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/visualfamilytree-bin
-  found_in: visualfamilytree-bin
-  signal: depends on electron4; reported as the newest 4.x release (4.2.12)
+  kind: binary
+  source: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.AppImage
+  found_in: VisualFamilyTree.1.4.0.AppImage
+  signal: which-electron fingerprint signal (2 signals agreed)
 last_commit: '2021-11-27'
 aur_downloads:
 - url: https://github.com/Jisco/VisualFamilyTree/releases/download/v1.4.0/VisualFamilyTree.1.4.0.deb

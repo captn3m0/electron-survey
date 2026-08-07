@@ -4,8 +4,8 @@ website: https://github.com/dmitrijs/WorkLogIfy
 repository: https://github.com/dmitrijs/WorkLogIfy
 aur:
 - work-log-ify-git
-electron: 42.7.0
-method: aur-depends
+electron: 42.4.0
+method: which-electron-rg
 latest: v1.45.2
 src: https://github.com/dmitrijs/WorkLogIfy/archive/refs/tags/v1.45.2.zip
 downloads:
@@ -14,8 +14,8 @@ downloads:
 - name: WorkLogIfy-win-v1.45.2.exe
   url: https://github.com/dmitrijs/WorkLogIfy/releases/download/v1.45.2/WorkLogIfy-win-v1.45.2.exe
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/work-log-ify-git
-  found_in: work-log-ify-git
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
+  kind: binary
+  source: https://github.com/dmitrijs/WorkLogIfy/releases/download/v1.45.2/WorkLogIfy-mac-v1.45.2.dmg
+  found_in: WorkLogIfy-mac-v1.45.2.dmg
+  signal: which-electron rg signal
 last_commit: '2026-07-17'

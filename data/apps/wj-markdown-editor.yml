@@ -6,8 +6,8 @@ aur:
 - wj-markdown-editor-bin
 additionalAUR:
 - wj-markdown-editor-git
-electron: 39.8.10
-method: aur-depends
+electron: 39.2.7
+method: which-electron-rg
 latest: 2.19.7
 src: https://github.com/nlbwqmz/wj-markdown-editor/archive/refs/tags/2.19.7.zip
 downloads:
@@ -26,10 +26,10 @@ downloads:
 - name: wj-markdown-editor-win32-x64-2.19.7.zip
   url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/wj-markdown-editor-bin
-  found_in: wj-markdown-editor-bin
-  signal: depends on electron39; reported as the newest 39.x release (39.8.10)
+  kind: binary
+  source: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
+  found_in: wj-markdown-editor-linux-x86_64-2.19.7.rpm
+  signal: which-electron rg signal
 last_commit: '2026-07-14'
 aur_downloads:
 - url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm

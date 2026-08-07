@@ -17,8 +17,6 @@ downloads:
   url: https://github.com/KraXen72/crankshaft/releases/download/2.0.1/crankshaft-x64-setup.exe
 - name: crankshaft-x64.AppImage
   url: https://github.com/KraXen72/crankshaft/releases/download/2.0.1/crankshaft-x64.AppImage
-- name: io.github.KraXen72.crankshaft.metainfo.xml
-  url: https://github.com/KraXen72/crankshaft/releases/download/2.0.1/io.github.KraXen72.crankshaft.metainfo.xml
 evidence:
   kind: binary
   source: https://github.com/KraXen72/crankshaft/releases/download/1.12.0/crankshaft-portable-linux-x86_64.AppImage

@@ -1,35 +1,34 @@
 id: dopamine
 repository: https://github.com/digimezzo/dopamine
 website: https://www.digimezzo.com
-latest: v3.0.7
-src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.7.zip
+latest: v3.0.8
+src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.8.zip
 downloads:
-- name: Dopamine-3.0.7-arm.dmg
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7-arm.dmg
-- name: Dopamine-3.0.7-intel.dmg
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7-intel.dmg
-- name: Dopamine-3.0.7.AppImage
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.AppImage
-- name: Dopamine-3.0.7.deb
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.deb
-- name: Dopamine-3.0.7.exe
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.exe
-- name: Dopamine-3.0.7.pacman
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.pacman
-- name: Dopamine-3.0.7.rpm
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.rpm
-- name: Dopamine-3.0.7.snap
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.7/Dopamine-3.0.7.snap
+- name: Dopamine-3.0.8-arm.dmg
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8-arm.dmg
+- name: Dopamine-3.0.8-intel.dmg
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8-intel.dmg
+- name: Dopamine-3.0.8.AppImage
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8.AppImage
+- name: Dopamine-3.0.8.deb
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8.deb
+- name: Dopamine-3.0.8.exe
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8.exe
+- name: Dopamine-3.0.8.pacman
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8.pacman
+- name: Dopamine-3.0.8.rpm
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8.rpm
+- name: Dopamine-3.0.8.snap
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.8/Dopamine-3.0.8.snap
 electron: 38.8.6
 method: src-package-lock
 aur:
 - vitomu
 name: Dopamine
-electron_src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.7.zip
+electron_src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.8.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Adigimezzo%2Fdopamine+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: dopamine-3.0.8/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
-last_commit: '2026-08-05'
+  source: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.8.zip
+last_commit: '2026-08-06'

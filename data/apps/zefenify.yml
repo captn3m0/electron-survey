@@ -8,3 +8,10 @@ downloads:
   url: https://github.com/zefenify/Wolf-Cola/releases/download/v2.3/Zefenify-v2.3-macOS.zip
 name: Zefenify
 last_commit: '2019-02-02'
+electron: 4.0.1
+method: which-electron-fingerprint
+evidence:
+  kind: binary
+  source: https://github.com/zefenify/Wolf-Cola/releases/download/v2.3/Zefenify-v2.3-macOS.zip
+  found_in: Zefenify-v2.3-macOS.zip
+  signal: which-electron fingerprint signal (2 signals agreed)

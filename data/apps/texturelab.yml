@@ -20,7 +20,7 @@ evidence:
   source: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-linux-v0.3.3.zip
   found_in: texturelab-linux-v0.3.3.zip
   signal: which-electron rg signal
-last_commit: '2026-08-02'
+last_commit: '2026-08-06'
 aur_downloads:
 - url: https://github.com/njbrown/texturelab/releases/download/v0.3.3/texturelab-linux-v0.3.3.zip
   name: texturelab-linux-v0.3.3.zip

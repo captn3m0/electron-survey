@@ -4,8 +4,8 @@ website: https://github.com/WAClient/WALC
 repository: https://github.com/WAClient/WALC
 aur:
 - walc-bin
-electron: 20.3.12
-method: aur-depends
+electron: 20.3.8
+method: which-electron-rg
 latest: v0.3.3
 src: https://github.com/WAClient/WALC/archive/refs/tags/v0.3.3.zip
 downloads:
@@ -14,10 +14,10 @@ downloads:
 - name: WALC-0.3.3.AppImage
   url: https://github.com/WAClient/WALC/releases/download/v0.3.3/WALC-0.3.3.AppImage
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/walc-bin
-  found_in: walc-bin
-  signal: depends on electron20; reported as the newest 20.x release (20.3.12)
+  kind: binary
+  source: https://github.com/WAClient/WALC/releases/download/v0.3.3/WALC-0.3.3.AppImage
+  found_in: WALC-0.3.3.AppImage
+  signal: which-electron rg signal
 last_commit: '2024-02-17'
 aur_downloads:
 - url: https://github.com/WAClient/WALC/releases/download/v0.3.3/WALC-0.3.3.AppImage

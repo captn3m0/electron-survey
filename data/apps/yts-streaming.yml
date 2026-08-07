@@ -3,13 +3,13 @@ name: Yts Streaming
 website: https://www.yts-streaming.com/
 aur:
 - yts-streaming-bin
-electron: 29.4.6
-method: aur-depends
+electron: 29.1.0
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/yts-streaming-bin
-  found_in: yts-streaming-bin
-  signal: depends on electron29; reported as the newest 29.x release (29.4.6)
+  kind: binary
+  source: https://github.com/iambpn/YTS-Streaming/releases/download/4.0.1/yts-streaming-4.0.0.AppImage
+  found_in: yts-streaming-4.0.0.AppImage
+  signal: which-electron rg signal
 aur_downloads:
 - url: https://github.com/iambpn/YTS-Streaming/releases/download/4.0.1/yts-streaming-4.0.0.AppImage
   name: yts-streaming-4.0.0.AppImage

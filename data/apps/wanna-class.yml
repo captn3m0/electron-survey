@@ -17,3 +17,4 @@ evidence:
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true
 last_commit: '2022-11-22'
+we_tried: we1.2.1+p1:v1.0.0

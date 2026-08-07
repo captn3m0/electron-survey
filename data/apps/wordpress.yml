@@ -40,3 +40,10 @@ downloads:
 - name: wordpress.com-win32-setup-8.0.4.exe.blockmap
   url: https://github.com/Automattic/wp-desktop/releases/download/v8.0.4/wordpress.com-win32-setup-8.0.4.exe.blockmap
 name: WordPress
+electron: 26.2.4
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://github.com/Automattic/wp-desktop/releases/download/v8.0.4/win-unpacked-ia32.tar.gz
+  found_in: win-unpacked-ia32.tar.gz
+  signal: which-electron rg signal

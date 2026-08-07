@@ -6,8 +6,8 @@ aur:
 - webcam-glass-bin
 additionalAUR:
 - webcam-glass-git
-electron: 9.4.4
-method: aur-depends
+electron: 9.4.0
+method: which-electron-fingerprint
 latest: 0.7.2
 src: https://github.com/jersonlatorre/webcam-glass-app/archive/refs/tags/0.7.2.zip
 downloads:
@@ -20,10 +20,10 @@ downloads:
 - name: Glass-0.7.2_standalone_win32-x64.zip
   url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2_standalone_win32-x64.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/webcam-glass-bin
-  found_in: webcam-glass-bin
-  signal: depends on electron9; reported as the newest 9.x release (9.4.4)
+  kind: binary
+  source: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2.AppImage
+  found_in: Glass-0.7.2.AppImage
+  signal: which-electron fingerprint signal
 last_commit: '2025-08-12'
 aur_downloads:
 - url: https://github.com/jersonlatorre/webcam-glass-app/releases/download/0.7.2/Glass-0.7.2_amd64.deb
