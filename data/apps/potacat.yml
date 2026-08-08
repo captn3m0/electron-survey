@@ -43,4 +43,4 @@ evidence:
   found_in: POTACAT-1.9.24/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.9.24.zip
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'

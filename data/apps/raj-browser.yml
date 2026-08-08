@@ -22,7 +22,7 @@ evidence:
   source: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser-2.0.5-mac.zip
   found_in: raj-browser-2.0.5-mac.zip
   signal: which-electron rg signal
-last_commit: '2026-08-05'
+last_commit: '2026-08-07'
 aur_downloads:
 - url: https://github.com/Rajaniraiyn/raj-browser/releases/download/v2.0.5/raj-browser_2.0.5_amd64.deb
   name: raj-browser_2.0.5_amd64.deb

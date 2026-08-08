@@ -2,7 +2,7 @@ id: nuclear
 name: nuclear
 repository: https://github.com/nukeop/nuclear
 website: https://nuclearplayer.com/
-last_commit: '2026-08-06'
+last_commit: '2026-08-08'
 latest: player@1.45.1
 src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.45.1.zip
 downloads:

@@ -25,5 +25,5 @@ name: mStream
 electron: 29.1.4
 method: which-electron-rg
 aur_votes: 1
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'
 we_tried: we1.2.1+p1:v6.19.3

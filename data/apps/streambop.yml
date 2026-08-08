@@ -21,7 +21,7 @@ aur:
 - snailfm-bin
 name: StreamBop
 aur_votes: 1
-last_commit: '2026-07-21'
+last_commit: '2026-08-07'
 aur_downloads:
 - url: https://github.com/SnailDOS/Fifo-Browser/releases/download/v1.2.2/Fifo-1.2.2.AppImage
   name: Fifo-1.2.2.AppImage

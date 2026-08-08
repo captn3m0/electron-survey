@@ -47,4 +47,4 @@ evidence:
   found_in: eSearch-15.3.4/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.3.4.zip
-last_commit: '2026-08-06'
+last_commit: '2026-08-07'

@@ -21,4 +21,4 @@ evidence:
   source: https://github.com/CyanSalt/commas/releases/download/v0.39.4/Commas-darwin-arm64.zip
   found_in: Commas-darwin-arm64.zip
   signal: which-electron rg signal (2 signals agreed)
-last_commit: '2026-07-25'
+last_commit: '2026-08-07'

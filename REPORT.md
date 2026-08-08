@@ -548,7 +548,7 @@ Apps with detected Electron version: 1813 / 2090
 | [Frame](https://frame.sh) [[repo]](https://github.com/floating/frame.git) | 23.1.3 ⚠️ | 3y 5mo ago | which-electron-rg |
 | [Frame Cast](https://github.com/nathan-fiscaletti/framecast) [[repo]](https://github.com/nathan-fiscaletti/framecast) | 24.8.8 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Framer](https://www.framer.com/) | 42.3.0 ⚠️ | 2mo ago | which-electron-rg |
-| [Frank Go](https://github.com/akitaonrails/frank_go) [[repo]](https://github.com/akitaonrails/frank_go) | 43.2.0 ⚠️ | 17d ago | src-package-lock |
+| [Frank Go](https://github.com/akitaonrails/frank_go) [[repo]](https://github.com/akitaonrails/frank_go) | 43.3.0 | 3d ago | src-package-lock |
 | [Franz](https://meetfranz.com/) | 33.3.0 ⚠️ | 1y 8mo ago | which-electron-rg |
 | [Frappe Books](https://frappebooks.com/) [[repo]](https://github.com/frappe/books) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Freecord](https://github.com/MR-MKZ/Freecord) [[repo]](https://github.com/MR-MKZ/Freecord) | 30.5.1 ⚠️ | 1y 11mo ago | aur-depends |
@@ -1003,7 +1003,7 @@ Apps with detected Electron version: 1813 / 2090
 | [NetPad](https://github.com/tareqimbasher/NetPad) [[repo]](https://github.com/tareqimbasher/NetPad) | 36.2.0 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Netease Cloud Music Web Player](https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player) [[repo]](https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player) | 38.8.6 ⚠️ | 5mo ago | src-range-guess |
 | [Netflix Electron31](https://gitlab.com/linuxbombay/netflix-desktop) | 31.7.7 ⚠️ | 1y 7mo ago | aur-depends |
-| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 43.2.0 ⚠️ | 17d ago | src-package-lock |
+| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 43.3.0 | 3d ago | src-package-lock |
 | [Netron With Mime](https://netron.app/) | 43.1.1 ⚠️ | 24d ago | which-electron-rg |
 | [Netsend](https://github.com/williamnie/netSend) [[repo]](https://github.com/williamnie/netSend) | 21.4.3 ⚠️ | 3y 5mo ago | which-electron-rg |
 | [NetworkAssembler](https://github.com/kir486680/Network-Assembler) [[repo]](https://github.com/kir486680/Network-Assembler) | 7.2.4 ⚠️ | 6y 4mo ago | src-package-lock |
@@ -1116,7 +1116,7 @@ Apps with detected Electron version: 1813 / 2090
 | [Pandora Box](https://github.com/snakem982/Pandora-Box) [[repo]](https://github.com/snakem982/Pandora-Box) | 41.10.2 ⚠️ | 24d ago | aur-depends |
 | [Panfu](https://www.panfu.us/download) | 11.5.0 ⚠️ | 5y ago | aur-depends |
 | [PaperArxiv](https://github.com/fuzihaofzh/PaperArxiv) [[repo]](https://github.com/fuzihaofzh/PaperArxiv) | 33.4.11 ⚠️ | 1y 3mo ago | src-package-lock |
-| [PaperCubes](https://github.com/FlorianFe/PaperCubes) [[repo]](https://github.com/FlorianFe/PaperCubes) | 1.7.8 ⚠️ | 8y 11mo ago | src-package-lock |
+| [PaperCubes](https://github.com/FlorianFe/PaperCubes) [[repo]](https://github.com/FlorianFe/PaperCubes) | 1.7.8 ⚠️ | 9y ago | src-package-lock |
 | [Papyrus](https://github.com/morkro/papyrus) [[repo]](https://github.com/morkro/papyrus) | 10.1.2 ⚠️ | 5y 11mo ago | src-package-lock |
 | [Paradise Pi](https://paradise-pi.github.io/ParadisePi/) | 24.8.8 ⚠️ | 2y 10mo ago | aur-depends |
 | [Paragraph Editor](https://github.com/emanoelhenrick/Paragraph) [[repo]](https://github.com/emanoelhenrick/Paragraph) | 30.5.1 ⚠️ | 1y 11mo ago | aur-depends |
@@ -1406,7 +1406,7 @@ Apps with detected Electron version: 1813 / 2090
 | [Soundcloud Rpc](https://github.com/richardhbtz/soundcloud-rpc) [[repo]](https://github.com/richardhbtz/soundcloud-rpc) | 37.2.6 ⚠️ | 1y ago | which-electron-rg |
 | [Soundnode](https://soundnode.github.io/soundnode-website/) [[repo]](https://github.com/Soundnode/soundnode-app) | 1.4.4 ⚠️ | 9y 11mo ago | which-electron-version_file |
 | [Soundsync](https://soundsync.app/) | 15.5.7 ⚠️ | 4y 3mo ago | aur-depends |
-| [Source Me](https://github.com/theIYD/source-me) | 1.7.8 ⚠️ | 8y 11mo ago | src-package-lock |
+| [Source Me](https://github.com/theIYD/source-me) | 1.7.8 ⚠️ | 9y ago | src-package-lock |
 | [Southweather](http://southweather.wlorigin.cf/) | 30.5.1 ⚠️ | 1y 11mo ago | aur-depends |
 | [Space Client](https://xtony.net/) | 40.0.0 ⚠️ | 6mo ago | which-electron-rg |
 | [Space Snake](https://github.com/ilyagru/Space-Snake) [[repo]](https://github.com/ilyagru/Space-Snake) | 1.8.4 ⚠️ | 8y 6mo ago | which-electron-version_file |

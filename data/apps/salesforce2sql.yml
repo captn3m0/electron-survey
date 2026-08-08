@@ -30,7 +30,7 @@ evidence:
   source: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-0.12.0-1.x86_64.rpm
   found_in: salesforce2sql-0.12.0-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-05'
+last_commit: '2026-08-07'
 aur_downloads:
 - url: https://github.com/acrosman/Salesforce2Sql/releases/download/v0.12.0/salesforce2sql-0.12.0-1.x86_64.rpm
   name: salesforce2sql-0.12.0-1.x86_64.rpm

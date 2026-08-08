@@ -67,12 +67,12 @@ downloads:
   url: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.2/latest.yml
 electron: 39.8.7
 method: which-electron-rg
-latest: v4.17.2
-src: https://github.com/xpf0000/FlyEnv/archive/refs/tags/v4.17.2.zip
+latest: v4.18.0
+src: https://github.com/xpf0000/FlyEnv/archive/refs/tags/v4.18.0.zip
 evidence:
   kind: binary
   source: https://github.com/xpf0000/FlyEnv/releases/download/v4.17.0/FlyEnv-4.17.0-arm64.rpm
   found_in: FlyEnv-4.17.0-arm64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'

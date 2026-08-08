@@ -36,4 +36,4 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
-last_commit: '2026-07-24'
+last_commit: '2026-08-07'
