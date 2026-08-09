@@ -23,4 +23,4 @@ evidence:
   found_in: app.asar (packed package.json)
   signal: electron version read from a package.json packed inside the app's asar archive
 aur_votes: 1
-last_commit: '2026-07-17'
+last_commit: '2026-08-08'

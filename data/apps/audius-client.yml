@@ -14,7 +14,7 @@ evidence:
   found_in: apps--audius-sdk-legacy-6.0.29/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/AudiusProject/audius-protocol/archive/refs/tags/@audius/sdk-legacy@6.0.29.zip
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'
 aur_downloads:
 - url: https://download.audius.co/Audius-1.5.55.AppImage
   name: Audius-1.5.55.AppImage

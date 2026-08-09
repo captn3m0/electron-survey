@@ -41,7 +41,7 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'
 aur:
 - redisinsight-bin
 - redisinsight-git

@@ -53,7 +53,7 @@ downloads:
 name: nteract
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'
 aur_downloads:
 - url: https://github.com/nteract/nteract/releases/download/v0.28.0/nteract_0.28.0_amd64.deb
   name: nteract_0.28.0_amd64.deb

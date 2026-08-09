@@ -27,29 +27,29 @@ aur:
 - webgal-terre-bin
 electron: 29.3.3
 method: which-electron-rg
-latest: 4.6.3
-src: https://github.com/OpenWebGAL/WebGAL_Terre/archive/refs/tags/4.6.3.zip
+latest: 4.6.4
+src: https://github.com/OpenWebGAL/WebGAL_Terre/archive/refs/tags/4.6.4.zip
 downloads:
-- name: WebGAL_Terre_Android_4.6.3.apk
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Android_4.6.3.apk
-- name: WebGAL_Terre_Linux_4.6.3.zip
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Linux_4.6.3.zip
-- name: WebGAL_Terre_Linux_Arm64_4.6.3.zip
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Linux_Arm64_4.6.3.zip
-- name: WebGAL_Terre_Mac_4.6.3.zip
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Mac_4.6.3.zip
-- name: WebGAL_Terre_Mac_Intel_4.6.3.zip
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Mac_Intel_4.6.3.zip
-- name: WebGAL_Terre_Windows_4.6.3.zip
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Windows_4.6.3.zip
-- name: WebGAL_Terre_Windows_Setup_4.6.3.exe
-  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.3/WebGAL_Terre_Windows_Setup_4.6.3.exe
+- name: WebGAL_Terre_Android_4.6.4.apk
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Android_4.6.4.apk
+- name: WebGAL_Terre_Linux_4.6.4.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Linux_4.6.4.zip
+- name: WebGAL_Terre_Linux_Arm64_4.6.4.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Linux_Arm64_4.6.4.zip
+- name: WebGAL_Terre_Mac_4.6.4.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Mac_4.6.4.zip
+- name: WebGAL_Terre_Mac_Intel_4.6.4.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Mac_Intel_4.6.4.zip
+- name: WebGAL_Terre_Windows_4.6.4.zip
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Windows_4.6.4.zip
+- name: WebGAL_Terre_Windows_Setup_4.6.4.exe
+  url: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.4/WebGAL_Terre_Windows_Setup_4.6.4.exe
 evidence:
   kind: binary
   source: https://github.com/OpenWebGAL/WebGAL_Terre/releases/download/4.6.2/WebGAL_Terre_Linux_Arm64_4.6.2.zip
   found_in: WebGAL_Terre_Linux_Arm64_4.6.2.zip
   signal: which-electron rg signal
-last_commit: '2026-08-04'
+last_commit: '2026-08-08'
 aur_downloads:
 - url: https://raw.githubusercontent.com/MakinoharaShoko/WebGAL_Terre/4.6.2/LICENSE
   name: LICENSE

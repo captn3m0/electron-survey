@@ -6,19 +6,19 @@ aur:
 - emsmediasystem-bin
 electron: 34.5.8
 method: which-electron-rg
-latest: 6.4.3
-src: https://github.com/clockley/EjaxMediaSystem/archive/refs/tags/6.4.3.zip
+latest: 6.5.5
+src: https://github.com/clockley/EjaxMediaSystem/archive/refs/tags/6.5.5.zip
 downloads:
-- name: EMS.Media.System-6.4.3.AppImage
-  url: https://github.com/clockley/EMSMediaSystem/releases/download/6.4.3/EMS.Media.System-6.4.3.AppImage
-- name: EMS.Media.System.Setup.6.4.3.exe
-  url: https://github.com/clockley/EMSMediaSystem/releases/download/6.4.3/EMS.Media.System.Setup.6.4.3.exe
+- name: EMS.Media.System-6.5.5.AppImage
+  url: https://github.com/clockley/EMSMediaSystem/releases/download/6.5.5/EMS.Media.System-6.5.5.AppImage
+- name: EMS.Media.System.Setup.6.5.5.exe
+  url: https://github.com/clockley/EMSMediaSystem/releases/download/6.5.5/EMS.Media.System.Setup.6.5.5.exe
 evidence:
   kind: binary
   source: https://github.com/clockley/EjaxMediaSystem/releases/download/6.5.2/EMS.Media.System-6.5.2.AppImage
   found_in: EMS.Media.System-6.5.2.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-07'
+last_commit: '2026-08-08'
 aur_downloads:
 - url: https://github.com/clockley/EjaxMediaSystem/releases/download/6.5.2/EMS.Media.System-6.5.2.AppImage
   name: EMS.Media.System-6.5.2.AppImage

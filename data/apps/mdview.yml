@@ -51,7 +51,7 @@ evidence:
   source: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage
   found_in: mdview-4.0.1-x86_64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-02'
+last_commit: '2026-08-08'
 aur_downloads:
 - url: https://github.com/c3er/mdview/releases/download/v4.0.1/mdview-4.0.1-x86_64.AppImage
   name: mdview-4.0.1-x86_64.AppImage

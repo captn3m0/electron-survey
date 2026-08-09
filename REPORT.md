@@ -968,7 +968,7 @@ Apps with detected Electron version: 1813 / 2090
 | [Mqtt5 Explorer](https://github.com/Omniaevo/mqtt5-explorer) [[repo]](https://github.com/Omniaevo/mqtt5-explorer) | 28.1.0 ⚠️ | 2y 8mo ago | which-electron-rg |
 | [Ms 365](https://agam778.github.io/MS-365-Electron) | 30.5.1 ⚠️ | 1y 11mo ago | aur-depends |
 | [Mterm](https://mterm.io/) | 28.3.3 ⚠️ | 2y 2mo ago | aur-depends |
-| [Mu Epub Viewer](https://github.com/azu/mu-epub-reader) [[repo]](https://github.com/azu/mu-epub-reader) | 16.0.4 ⚠️ | 4y 8mo ago | which-electron-rg |
+| [Mu Epub Viewer](https://github.com/azu/mu-epub-reader) [[repo]](https://github.com/azu/mu-epub-reader) | 16.0.4 ⚠️ | 4y 9mo ago | which-electron-rg |
 | [Mubu](https://mubu.com) [[repo]](https://github.com/kudoxu/mubu) | 13.1.7 ⚠️ | 5y 1mo ago | src-package-lock |
 | [Mudita Center](https://mudita.com/products/pure/) | 40.8.0 ⚠️ | 5mo ago | which-electron-rg |
 | [Muffon](https://muffon.netlify.app/) [[repo]](https://github.com/staniel359/muffon) | 39.2.7 ⚠️ | 7mo ago | which-electron-rg |
@@ -1447,7 +1447,7 @@ Apps with detected Electron version: 1813 / 2090
 | [Stockholm Trekkers Playlist Maker](https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker) [[repo]](https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker) | 37.10.3 ⚠️ | 8mo ago | aur-depends |
 | [Stockifier](https://github.com/jainsamyak/Stockifier) [[repo]](https://github.com/jainsamyak/Stockifier) | 4.1.4 ⚠️ | 7y 5mo ago | src-package-lock |
 | [StopLight](https://stoplight.io) | 27.0.3 ⚠️ | 2y 9mo ago | which-electron-rg |
-| [Stopawu](https://github.com/tariibaba/stopawu#readme) [[repo]](https://github.com/tariibaba/stopawu) | 16.0.4 ⚠️ | 4y 8mo ago | src-yarn-lock |
+| [Stopawu](https://github.com/tariibaba/stopawu#readme) [[repo]](https://github.com/tariibaba/stopawu) | 16.0.4 ⚠️ | 4y 9mo ago | src-yarn-lock |
 | [Streaker](https://github.com/jamieweavis/streaker) [[repo]](https://github.com/jamieweavis/streaker) | 35.0.1 ⚠️ | 1y 5mo ago | which-electron-rg |
 | [StreamBop](https://snaildos.com/streambop) [[repo]](https://github.com/snaildos/StreamBop) | 25.2.0 ⚠️ | 3y 2mo ago |  |
 | [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) [[repo]](https://github.com/stream-labs/streamlabs-obs) | 29.3.1 ⚠️ | 2y 4mo ago | src-yarn-lock |

@@ -14,3 +14,8 @@ downloads:
 electron: 1.9.37
 method: which-electron-version_file
 brew_installs: 1000
+evidence:
+  kind: binary
+  source: https://cdn.posit.co/positron/releases/mac/arm64/Positron-darwin-2026.04.1-10-arm64.zip
+  found_in: Positron-darwin-2026.04.1-10-arm64.zip
+  signal: which-electron version_file signal
