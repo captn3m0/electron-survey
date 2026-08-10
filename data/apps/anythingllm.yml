@@ -31,3 +31,4 @@ aur_downloads:
   name: AnythingLLMDesktop.AppImage
   arch: x86_64
   source: aur-bin
+homepage: true

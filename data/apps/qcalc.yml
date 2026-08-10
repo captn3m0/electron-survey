@@ -29,7 +29,7 @@ evidence:
   found_in: QCalc-0.12.0-linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-23'
+last_commit: '2026-08-09'
 aur_downloads:
 - url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.AppImage
   name: QCalc-0.12.0-linux.AppImage

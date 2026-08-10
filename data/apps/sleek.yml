@@ -91,4 +91,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/ransome1/sleek/archive/refs/tags/v2.0.27.zip
 aur_votes: 10
-last_commit: '2026-08-08'
+last_commit: '2026-08-09'
