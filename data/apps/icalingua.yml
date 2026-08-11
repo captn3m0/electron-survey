@@ -61,4 +61,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/archive/refs/tags/v2.26.3.zip
 aur_votes: 10
-last_commit: '2026-08-10'
+last_commit: '2026-08-11'

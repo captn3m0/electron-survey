@@ -82,4 +82,4 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
-last_commit: '2026-08-10'
+last_commit: '2026-08-11'

@@ -31,4 +31,4 @@ evidence:
   source: https://github.com/ttqftech/FFBox/releases/download/v5.4/Linux_x86-64_FFBox_5.4.AppImage
   found_in: Linux_x86-64_FFBox_5.4.AppImage
   signal: which-electron rg signal
-last_commit: '2026-07-27'
+last_commit: '2026-08-10'

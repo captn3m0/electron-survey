@@ -16,4 +16,4 @@ evidence:
   source: https://aur.archlinux.org/packages/simpleshell-git
   found_in: simpleshell-git
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
-last_commit: '2026-08-07'
+last_commit: '2026-08-11'

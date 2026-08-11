@@ -53,7 +53,7 @@ downloads:
   url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest-mac.yml
 - name: latest.yml
   url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.2.8/latest.yml
-last_commit: '2026-08-08'
+last_commit: '2026-08-10'
 aur_downloads:
 - url: https://raw.githubusercontent.com/hoowhoami/EchoMusic/v2.2.8/LICENSE
   name: LICENSE

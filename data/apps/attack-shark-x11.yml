@@ -4,7 +4,7 @@ website: https://github.com/dressedinblack5/attack-shark-x11-electron
 repository: https://github.com/dressedinblack5/attack-shark-x11-electron
 aur:
 - attack-shark-x11-electron
-last_commit: '2026-08-05'
+last_commit: '2026-08-10'
 src: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/heads/main.zip
 electron: 42.8.1
 method: src-range-guess
@@ -14,4 +14,4 @@ evidence:
   signal: no lockfile; range "^42.4.0" resolved to its highest known match
   source: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/heads/main.zip
 electron_src: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/heads/main.zip
-electron_src_commit: '2026-08-05'
+electron_src_commit: '2026-08-10'
