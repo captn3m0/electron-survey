@@ -131,4 +131,4 @@ evidence:
   found_in: electerm-3.15.159-linux-aarch64-legacy.rpm
   signal: which-electron rg signal
 brew_installs: 1000
-last_commit: '2026-08-10'
+last_commit: '2026-08-12'

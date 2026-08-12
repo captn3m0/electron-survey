@@ -48,7 +48,7 @@ evidence:
   source: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs-0.26.4.x86_64.rpm
   found_in: lyrs-0.26.4.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-10'
+last_commit: '2026-08-12'
 aur_downloads:
 - url: https://github.com/organization/lyrs/releases/download/v0.26.4/lyrs-0.26.4.x86_64.rpm
   name: lyrs-0.26.4.x86_64.rpm

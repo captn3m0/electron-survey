@@ -14,43 +14,43 @@ packages:
 homebrew: zo
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest-linux-arm64.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest-linux.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest-mac.yml
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/latest.yml
-- name: Zo-1.5.10-amd64.deb
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-amd64.deb
-- name: Zo-1.5.10-arm64.deb
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-arm64.deb
-- name: Zo-1.5.10-setup.exe
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-setup.exe
-- name: Zo-1.5.10-setup.exe.blockmap
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-setup.exe.blockmap
-- name: Zo-1.5.10-universal-mac.zip
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip
-- name: Zo-1.5.10-universal-mac.zip.blockmap
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip.blockmap
-- name: Zo-1.5.10-universal.dmg
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal.dmg
-- name: Zo-1.5.10-universal.dmg.blockmap
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal.dmg.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/latest.yml
+- name: Zo-1.5.12-amd64.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-amd64.deb
+- name: Zo-1.5.12-arm64.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-arm64.deb
+- name: Zo-1.5.12-setup.exe
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-setup.exe
+- name: Zo-1.5.12-setup.exe.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-setup.exe.blockmap
+- name: Zo-1.5.12-universal-mac.zip
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-universal-mac.zip
+- name: Zo-1.5.12-universal-mac.zip.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-universal-mac.zip.blockmap
+- name: Zo-1.5.12-universal.dmg
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-universal.dmg
+- name: Zo-1.5.12-universal.dmg.blockmap
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-1.5.12-universal.dmg.blockmap
 - name: Zo-arm64.deb
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-arm64.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-arm64.deb
 - name: Zo-setup.exe
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-setup.exe
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo-setup.exe
 - name: Zo.deb
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo.deb
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo.deb
 - name: Zo.dmg
-  url: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo.dmg
-latest: v1.5.10
-src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.10.zip
+  url: https://github.com/zocomputer/Zo/releases/download/v1.5.12/Zo.dmg
+latest: v1.5.12
+src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.12.zip
 electron: 43.0.0
 method: which-electron-rg
 brew_installs: 10
-last_commit: '2026-07-14'
+last_commit: '2026-08-11'
 evidence:
   kind: binary
   source: https://github.com/zocomputer/Zo/releases/download/v1.5.10/Zo-1.5.10-universal-mac.zip

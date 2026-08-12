@@ -6,29 +6,28 @@ aur:
 - chatlab-desktop
 electron: 35.7.5
 method: which-electron-rg
-latest: v0.35.0
-src: https://github.com/ChatLab/ChatLab/archive/refs/tags/v0.35.0.zip
+latest: v0.36.0
+src: https://github.com/ChatLab/ChatLab/archive/refs/tags/v0.36.0.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/builder-debug.yml
-- name: ChatLab-0.35.0-arm64.dmg
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/ChatLab-0.35.0-arm64.dmg
-- name: ChatLab-0.35.0-arm64.dmg.blockmap
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/ChatLab-0.35.0-arm64.dmg.blockmap
-- name: ChatLab-0.35.0-arm64.zip
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/ChatLab-0.35.0-arm64.zip
-- name: ChatLab-0.35.0-arm64.zip.blockmap
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/ChatLab-0.35.0-arm64.zip.blockmap
-- name: ChatLab-0.35.0-setup.exe
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/ChatLab-0.35.0-setup.exe
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/builder-debug.yml
+- name: ChatLab-0.36.0-arm64.dmg
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/ChatLab-0.36.0-arm64.dmg
+- name: ChatLab-0.36.0-arm64.dmg.blockmap
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/ChatLab-0.36.0-arm64.dmg.blockmap
+- name: ChatLab-0.36.0-arm64.zip
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/ChatLab-0.36.0-arm64.zip
+- name: ChatLab-0.36.0-arm64.zip.blockmap
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/ChatLab-0.36.0-arm64.zip.blockmap
+- name: ChatLab-0.36.0-setup.exe
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/ChatLab-0.36.0-setup.exe
 - name: latest-mac.yml
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/latest-mac.yml
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/ChatLab/ChatLab/releases/download/v0.35.0/latest.yml
+  url: https://github.com/ChatLab/ChatLab/releases/download/v0.36.0/latest.yml
 evidence:
   kind: binary
   source: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.zip
   found_in: ChatLab-0.34.1-arm64.zip
   signal: which-electron rg signal
-aur_votes: 1
-last_commit: '2026-08-11'
+last_commit: '2026-08-12'
