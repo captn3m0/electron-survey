@@ -18,5 +18,5 @@ evidence:
   source: https://aur.archlinux.org/packages/miteiru
   found_in: miteiru
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
-last_commit: '2026-08-02'
+last_commit: '2026-08-13'
 we_tried: we1.2.1+p1:v7.4.4

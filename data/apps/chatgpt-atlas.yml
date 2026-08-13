@@ -25,7 +25,7 @@ evidence:
   found_in: app.asar (packed package.json)
   signal: electron version read from a package.json packed inside the app's asar archive
 homepage: true
-aur_votes: 1
+aur_votes: 10
 brew_installs: 10000
 aur_downloads:
 - url: https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.721.41059.zip

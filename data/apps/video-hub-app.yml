@@ -37,7 +37,7 @@ evidence:
   source: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
   found_in: Video.Hub.App.3.Demo-3.2.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-11'
+last_commit: '2026-08-12'
 aur_downloads:
 - url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
   name: Video.Hub.App.3.Demo-3.2.0.AppImage

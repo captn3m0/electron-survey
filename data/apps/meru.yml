@@ -26,51 +26,51 @@ packages:
 homebrew: meru
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/latest-linux-arm64.yml
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/latest-linux.yml
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/latest-mac.yml
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/latest.yml
-- name: Meru-3.58.0-arm64-mac.zip
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-arm64-mac.zip
-- name: Meru-3.58.0-arm64-mac.zip.blockmap
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-arm64-mac.zip.blockmap
-- name: Meru-3.58.0-arm64.AppImage
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-arm64.AppImage
-- name: Meru-3.58.0-arm64.dmg
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-arm64.dmg
-- name: Meru-3.58.0-arm64.dmg.blockmap
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-arm64.dmg.blockmap
-- name: Meru-3.58.0-mac.zip
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-mac.zip
-- name: Meru-3.58.0-mac.zip.blockmap
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0-mac.zip.blockmap
-- name: meru-3.58.0.aarch64.rpm
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/meru-3.58.0.aarch64.rpm
-- name: Meru-3.58.0.AppImage
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0.AppImage
-- name: Meru-3.58.0.dmg
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0.dmg
-- name: Meru-3.58.0.dmg.blockmap
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0.dmg.blockmap
-- name: Meru-3.58.0.exe
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-3.58.0.exe
-- name: meru-3.58.0.x86_64.rpm
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/meru-3.58.0.x86_64.rpm
-- name: Meru-Setup-3.58.0.exe
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-Setup-3.58.0.exe
-- name: Meru-Setup-3.58.0.exe.blockmap
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/Meru-Setup-3.58.0.exe.blockmap
-- name: meru_3.58.0_amd64.deb
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/meru_3.58.0_amd64.deb
-- name: meru_3.58.0_arm64.deb
-  url: https://github.com/zoidsh/meru/releases/download/v3.58.0/meru_3.58.0_arm64.deb
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/latest.yml
+- name: Meru-3.59.0-arm64-mac.zip
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-arm64-mac.zip
+- name: Meru-3.59.0-arm64-mac.zip.blockmap
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-arm64-mac.zip.blockmap
+- name: Meru-3.59.0-arm64.AppImage
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-arm64.AppImage
+- name: Meru-3.59.0-arm64.dmg
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-arm64.dmg
+- name: Meru-3.59.0-arm64.dmg.blockmap
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-arm64.dmg.blockmap
+- name: Meru-3.59.0-mac.zip
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-mac.zip
+- name: Meru-3.59.0-mac.zip.blockmap
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0-mac.zip.blockmap
+- name: meru-3.59.0.aarch64.rpm
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/meru-3.59.0.aarch64.rpm
+- name: Meru-3.59.0.AppImage
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0.AppImage
+- name: Meru-3.59.0.dmg
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0.dmg
+- name: Meru-3.59.0.dmg.blockmap
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0.dmg.blockmap
+- name: Meru-3.59.0.exe
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-3.59.0.exe
+- name: meru-3.59.0.x86_64.rpm
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/meru-3.59.0.x86_64.rpm
+- name: Meru-Setup-3.59.0.exe
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-Setup-3.59.0.exe
+- name: Meru-Setup-3.59.0.exe.blockmap
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/Meru-Setup-3.59.0.exe.blockmap
+- name: meru_3.59.0_amd64.deb
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/meru_3.59.0_amd64.deb
+- name: meru_3.59.0_arm64.deb
+  url: https://github.com/zoidsh/meru/releases/download/v3.59.0/meru_3.59.0_arm64.deb
 electron: 43.1.1
 method: which-electron-rg
-latest: v3.58.0
-src: https://github.com/timche/gmail-desktop/archive/refs/tags/v3.58.0.zip
+latest: v3.59.0
+src: https://github.com/timche/gmail-desktop/archive/refs/tags/v3.59.0.zip
 evidence:
   kind: binary
   source: https://github.com/zoidsh/meru/releases/download/v3.56.3/meru-3.56.3.aarch64.rpm

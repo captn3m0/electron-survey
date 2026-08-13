@@ -1,23 +1,46 @@
 id: image-optimizer
 repository: https://github.com/antonreshetov/image-optimizer
-latest: v1.4.0
-src: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v1.4.0.zip
+latest: v2.0.0
+src: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v2.0.0.zip
 downloads:
-- name: Image.Optimizer-1.4.0-arm64.dmg
-  url: https://github.com/antonreshetov/image-optimizer/releases/download/v1.4.0/Image.Optimizer-1.4.0-arm64.dmg
-- name: Image.Optimizer-1.4.0.dmg
-  url: https://github.com/antonreshetov/image-optimizer/releases/download/v1.4.0/Image.Optimizer-1.4.0.dmg
-electron: 16.0.6
-method: src-package-lock
+- name: builder-debug.yml
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/builder-debug.yml
+- name: image-optimizer-2.0.0-linux-amd64.snap
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-linux-amd64.snap
+- name: image-optimizer-2.0.0-mac-arm64.dmg
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-arm64.dmg
+- name: image-optimizer-2.0.0-mac-arm64.dmg.blockmap
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-arm64.dmg.blockmap
+- name: image-optimizer-2.0.0-mac-arm64.zip
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-arm64.zip
+- name: image-optimizer-2.0.0-mac-arm64.zip.blockmap
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-arm64.zip.blockmap
+- name: image-optimizer-2.0.0-mac-x64.dmg
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-x64.dmg
+- name: image-optimizer-2.0.0-mac-x64.dmg.blockmap
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-x64.dmg.blockmap
+- name: image-optimizer-2.0.0-mac-x64.zip
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-x64.zip
+- name: image-optimizer-2.0.0-mac-x64.zip.blockmap
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-mac-x64.zip.blockmap
+- name: image-optimizer-2.0.0-win-x64.exe
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-win-x64.exe
+- name: image-optimizer-2.0.0-win-x64.exe.blockmap
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/image-optimizer-2.0.0-win-x64.exe.blockmap
+- name: latest-mac.yml
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.0.0/latest.yml
+electron: 43.3.0
+method: src-pnpm-lock
 aur:
 - image-optimizer
 name: Image Optimizer
-electron_src: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v1.4.0.zip
+electron_src: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v2.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Aantonreshetov%2Fimage-optimizer+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  found_in: image-optimizer-2.0.0/pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  source: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v2.0.0.zip
 aur_votes: 1
-last_commit: '2024-08-11'
+last_commit: '2026-08-12'

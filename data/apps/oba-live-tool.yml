@@ -30,4 +30,4 @@ evidence:
   source: https://github.com/qiutongxue/oba-live-tool/releases/download/v1.6.1/oba-live-tool_1.6.1_macos_arm64.dmg
   found_in: oba-live-tool_1.6.1_macos_arm64.dmg
   signal: which-electron rg signal
-last_commit: '2026-08-02'
+last_commit: '2026-08-13'

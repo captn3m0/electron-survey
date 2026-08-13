@@ -36,4 +36,4 @@ evidence:
   found_in: BetterX.Desktop-arm64.dmg
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-05-27'
+last_commit: '2026-08-12'

@@ -64,7 +64,7 @@ evidence:
   found_in: XBYDriver-3.13.5-linux-amd64.deb
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-11'
+last_commit: '2026-08-12'
 aur_downloads:
 - url: https://github.com/gaozhangmin/aliyunpan/releases/download/v3.13.5/XBYDriver-3.13.5-linux-amd64.deb
   name: XBYDriver-3.13.5-linux-amd64.deb
