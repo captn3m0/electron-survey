@@ -41,7 +41,7 @@ evidence:
   found_in: sokuji-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
-last_commit: '2026-08-12'
+last_commit: '2026-08-13'
 aur_downloads:
 - url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.34.1/sokuji_0.34.1_arm64.deb
   name: sokuji_0.34.1_arm64.deb
@@ -51,4 +51,4 @@ aur_downloads:
   name: sokuji_0.34.1_amd64.deb
   arch: x86_64
   source: aur-bin
-we_tried: we1.2.1+p1:v0.36.1
+we_tried: we1.2.1+p1:v0.36.2

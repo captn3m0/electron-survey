@@ -1,8 +1,8 @@
 id: signal
 repository: https://github.com/signalapp/Signal-Desktop
 website: https://signal.org
-latest: v8.22.0
-src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.22.0.zip
+latest: v8.23.0
+src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.23.0.zip
 electron: 43.0.0
 method: src-pnpm-lock
 aur:
@@ -32,13 +32,13 @@ packages:
   os: macos
   arch: arm64
 name: Signal
-electron_src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.22.0.zip
+electron_src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.23.0.zip
 evidence:
   kind: lockfile
-  found_in: Signal-Desktop-8.22.0/pnpm-lock.yaml
+  found_in: Signal-Desktop-8.23.0/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.22.0.zip
+  source: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.23.0.zip
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-08-10'
+last_commit: '2026-08-13'

@@ -74,7 +74,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-08-12'
+last_commit: '2026-08-13'
 aur_downloads:
 - url: https://wallet.trezor.io/data/bridge/2.0.30/trezor-bridge_2.0.30_i386.deb
   name: trezor-bridge_2.0.30_i386.deb

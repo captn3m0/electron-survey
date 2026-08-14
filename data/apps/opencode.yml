@@ -94,4 +94,4 @@ evidence:
   found_in: opencode-desktop-linux-aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-13'
+last_commit: '2026-08-14'

@@ -77,17 +77,17 @@ downloads:
   checksum: 9253896c12c497b888700725c7cde43220bffffcaa8d6be5d35136c8a0a366c3
 latest: v3.8.0
 src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.8.0.zip
-electron: 42.7.1
-method: src-pnpm-lock
+electron: 42.6.1
+method: which-electron-rg
 electron_src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.8.0.zip
 evidence:
-  kind: lockfile
-  found_in: siyuan-3.8.0/app/pnpm-lock.yaml
-  signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.8.0.zip
+  kind: binary
+  source: https://github.com/siyuan-note/siyuan/releases/download/v3.7.3/siyuan-3.7.3-linux.AppImage
+  found_in: siyuan-3.7.3-linux.AppImage
+  signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-08-13'
+last_commit: '2026-08-14'
 aur_downloads:
 - url: https://github.com/siyuan-note/siyuan/releases/download/v3.7.3/siyuan-3.7.3-linux.AppImage
   name: siyuan-3.7.3-linux.AppImage

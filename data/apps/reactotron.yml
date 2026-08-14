@@ -24,8 +24,8 @@ downloads:
   version: 3.11.0
 electron: 27.0.3
 method: which-electron-rg
-latest: reactotron-react-native@5.2.0
-src: https://github.com/infinitered/reactotron/archive/refs/tags/reactotron-react-native@5.2.0.zip
+latest: reactotron-react-native@5.3.1
+src: https://github.com/infinitered/reactotron/archive/refs/tags/reactotron-react-native@5.3.1.zip
 evidence:
   kind: binary
   source: https://github.com/infinitered/reactotron/releases/download/reactotron-app%403.10.0/Reactotron-3.10.0.AppImage
@@ -33,4 +33,4 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-12'
+last_commit: '2026-08-13'

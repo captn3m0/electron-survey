@@ -51,7 +51,7 @@ downloads:
   url: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.4/latest.yml
 homebrew: freeshow
 brew_installs: 100
-last_commit: '2026-08-12'
+last_commit: '2026-08-13'
 evidence:
   kind: binary
   source: https://github.com/ChurchApps/FreeShow/releases/download/v1.6.4/FreeShow-1.6.4-aarch64.rpm

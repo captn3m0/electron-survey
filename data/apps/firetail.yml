@@ -26,7 +26,7 @@ evidence:
   source: https://github.com/kawuchuu/firetail/releases/download/v1.0.1/firetail-1.0.1-full.nupkg
   found_in: firetail-1.0.1-full.nupkg
   signal: which-electron rg signal
-last_commit: '2026-06-17'
+last_commit: '2026-08-13'
 aur_downloads:
 - url: https://github.com/kawuchuu/firetail/releases/download/v1.0.1/Firetail-linux-x64-1.0.1.zip
   name: Firetail-linux-x64-1.0.1.zip

@@ -45,7 +45,7 @@ downloads:
   url: https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v6.1.0/latest.yml
 we_tried: we0:v6.1.0
 aur_votes: 10
-last_commit: '2026-08-11'
+last_commit: '2026-08-13'
 evidence:
   kind: binary
   source: https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v6.1.0/Android-Messages-v6.1.0-linux-x86_64.rpm

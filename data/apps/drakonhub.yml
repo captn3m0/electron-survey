@@ -22,7 +22,7 @@ evidence:
   source: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
   found_in: drakonhub-2026.06.14-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-07-15'
+last_commit: '2026-08-13'
 aur_downloads:
 - url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
   name: drakonhub-2026.06.14-1.x86_64.rpm
