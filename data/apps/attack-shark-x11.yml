@@ -4,14 +4,20 @@ website: https://github.com/dressedinblack5/attack-shark-x11-electron
 repository: https://github.com/dressedinblack5/attack-shark-x11-electron
 aur:
 - attack-shark-x11-electron
-last_commit: '2026-08-10'
-src: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/heads/main.zip
-electron: 42.8.1
-method: src-range-guess
+last_commit: '2026-08-15'
+src: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/tags/v1.4.3.zip
+electron: 43.3.0
+method: which-electron-rg
 evidence:
-  kind: manifest
-  found_in: attack-shark-x11-electron-main/package.json
-  signal: no lockfile; range "^42.4.0" resolved to its highest known match
-  source: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/heads/main.zip
-electron_src: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/heads/main.zip
+  kind: binary
+  source: https://github.com/dressedinblack5/attack-shark-x11-electron/releases/download/v1.4.3/attack-shark-x11-1.4.3.AppImage
+  found_in: attack-shark-x11-1.4.3.AppImage
+  signal: which-electron rg signal
+electron_src: https://github.com/dressedinblack5/attack-shark-x11-electron/archive/refs/tags/v1.4.3.zip
 electron_src_commit: '2026-08-10'
+latest: v1.4.3
+downloads:
+- name: attack-shark-x11-1.4.3.AppImage
+  url: https://github.com/dressedinblack5/attack-shark-x11-electron/releases/download/v1.4.3/attack-shark-x11-1.4.3.AppImage
+- name: attack-shark-x11-1.4.3.deb
+  url: https://github.com/dressedinblack5/attack-shark-x11-electron/releases/download/v1.4.3/attack-shark-x11-1.4.3.deb

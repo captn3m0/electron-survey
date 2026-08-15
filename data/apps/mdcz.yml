@@ -28,4 +28,4 @@ evidence:
   source: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.AppImage
   found_in: MDCz-0.11.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-12'
+last_commit: '2026-08-14'

@@ -80,4 +80,4 @@ evidence:
   source: https://github.com/docmirror/dev-sidecar/releases/download/v2.2.0/DevSidecar-2.2.0-linux-arm64.rpm
   found_in: DevSidecar-2.2.0-linux-arm64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-13'
+last_commit: '2026-08-14'

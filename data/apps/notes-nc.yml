@@ -24,7 +24,7 @@ evidence:
   source: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-0.8.0.AppImage
   found_in: Notes-0.8.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-07-31'
+last_commit: '2026-08-14'
 aur_downloads:
 - url: https://github.com/mscharley/notes-nc/releases/download/v0.8.0/Notes-0.8.0.AppImage
   name: Notes-0.8.0.AppImage

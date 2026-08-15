@@ -6,22 +6,22 @@ aur:
 - angular-electron-bin
 electron: 23.3.13
 method: which-electron-rg
-latest: v5.3.0
-src: https://github.com/malacration/sap-front/archive/refs/tags/v5.3.0.zip
+latest: v7.0.0
+src: https://github.com/malacration/sap-front/archive/refs/tags/v7.0.0.zip
 downloads:
 - name: angular-electron-12.0.0-win.zip
-  url: https://github.com/malacration/sap-front/releases/download/v5.3.0/angular-electron-12.0.0-win.zip
+  url: https://github.com/malacration/sap-front/releases/download/v7.0.0/angular-electron-12.0.0-win.zip
 - name: angular-electron-12.0.0.tar.gz
-  url: https://github.com/malacration/sap-front/releases/download/v5.3.0/angular-electron-12.0.0.tar.gz
+  url: https://github.com/malacration/sap-front/releases/download/v7.0.0/angular-electron-12.0.0.tar.gz
 - name: build.zip
-  url: https://github.com/malacration/sap-front/releases/download/v5.3.0/build.zip
+  url: https://github.com/malacration/sap-front/releases/download/v7.0.0/build.zip
 we_tried: we0:v5.1.0
 evidence:
   kind: binary
   source: https://github.com/malacration/sap-front/releases/download/v5.1.0/angular-electron-12.0.0.tar.gz
   found_in: angular-electron-12.0.0.tar.gz
   signal: which-electron rg signal
-last_commit: '2026-08-13'
+last_commit: '2026-08-14'
 aur_downloads:
 - url: https://github.com/malacration/sap-front/releases/download/v5.1.0/angular-electron-12.0.0.tar.gz
   name: angular-electron-12.0.0.tar.gz

@@ -65,5 +65,5 @@ evidence:
   reconstructed: true
 homepage: true
 aur_votes: 1
-brew_installs: 1000
+brew_installs: 10000
 last_commit: '2026-08-04'
