@@ -25,4 +25,4 @@ evidence:
   found_in: Simplexity-AI-5.0.0-Linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-05-23'
+last_commit: '2026-08-15'

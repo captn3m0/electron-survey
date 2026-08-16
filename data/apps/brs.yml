@@ -33,7 +33,7 @@ evidence:
   source: https://aur.archlinux.org/packages/brs-desktop-bin
   found_in: brs-desktop-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-08-12'
+last_commit: '2026-08-15'
 aur_downloads:
 - url: https://raw.githubusercontent.com/lvcabral/brs-desktop/v2.2.0/LICENSE
   name: LICENSE

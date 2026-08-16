@@ -37,5 +37,5 @@ evidence:
   source: https://aur.archlinux.org/packages/pandora-box
   found_in: pandora-box
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
-last_commit: '2026-08-09'
+last_commit: '2026-08-15'
 we_tried: we1.2.1+p1:v1.0.22

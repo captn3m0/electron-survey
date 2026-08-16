@@ -21,7 +21,7 @@ evidence:
   found_in: todoist-wrapper-4.20260722031623-1.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-14'
+last_commit: '2026-08-16'
 aur_downloads:
 - url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260722031623/todoist-wrapper-4.20260722031623-1.x86_64.rpm
   name: todoist-wrapper-4.20260722031623-1.x86_64.rpm

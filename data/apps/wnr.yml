@@ -30,7 +30,7 @@ evidence:
   found_in: wnr-1.32.0-Linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-13'
+last_commit: '2026-08-15'
 aur_downloads:
 - url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Linux.AppImage
   name: wnr-1.32.0-Linux.AppImage

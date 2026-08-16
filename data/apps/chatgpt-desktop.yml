@@ -19,3 +19,6 @@ evidence:
   found_in: app.asar (packed package.json)
   signal: electron version read from a package.json packed inside the app's asar archive
 homepage: true
+aur:
+- chatgpt-desktop
+aur_votes: 10
