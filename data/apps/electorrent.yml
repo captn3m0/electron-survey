@@ -1,43 +1,43 @@
 id: electorrent
 repository: https://github.com/Tympanix/Electorrent
 website: https://github.com/Tympanix/Electorrent
-latest: v2.15.0
-src: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.15.0.zip
+latest: v2.16.0
+src: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.16.0.zip
 downloads:
-- name: electorrent-2.15.0-full.nupkg
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/electorrent-2.15.0-full.nupkg
-- name: Electorrent-2.15.0-universal.dmg
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/Electorrent-2.15.0-universal.dmg
-- name: Electorrent-2.15.0-universal.dmg.blockmap
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/Electorrent-2.15.0-universal.dmg.blockmap
-- name: Electorrent-2.15.0.AppImage
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/Electorrent-2.15.0.AppImage
-- name: electorrent-2.15.0.x86_64.rpm
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/electorrent-2.15.0.x86_64.rpm
-- name: electorrent-Setup-2.15.0.exe
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/electorrent-Setup-2.15.0.exe
-- name: electorrent_2.15.0_amd64.deb
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/electorrent_2.15.0_amd64.deb
-- name: electorrent_2.15.0_amd64.snap
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/electorrent_2.15.0_amd64.snap
+- name: electorrent-2.16.0-full.nupkg
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/electorrent-2.16.0-full.nupkg
+- name: Electorrent-2.16.0-universal.dmg
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/Electorrent-2.16.0-universal.dmg
+- name: Electorrent-2.16.0-universal.dmg.blockmap
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/Electorrent-2.16.0-universal.dmg.blockmap
+- name: Electorrent-2.16.0.AppImage
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/Electorrent-2.16.0.AppImage
+- name: electorrent-2.16.0.x86_64.rpm
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/electorrent-2.16.0.x86_64.rpm
+- name: electorrent-Setup-2.16.0.exe
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/electorrent-Setup-2.16.0.exe
+- name: electorrent_2.16.0_amd64.deb
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/electorrent_2.16.0_amd64.deb
+- name: electorrent_2.16.0_amd64.snap
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/electorrent_2.16.0_amd64.snap
 - name: latest-linux.yml
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/latest-linux.yml
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/latest-mac.yml
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/latest-mac.yml
 - name: RELEASES
-  url: https://github.com/tympanix/Electorrent/releases/download/v2.15.0/RELEASES
+  url: https://github.com/tympanix/Electorrent/releases/download/v2.16.0/RELEASES
 electron: 42.1.0
 method: src-package-lock
 aur:
 - electorrent
 homebrew: electorrent
 name: Electorrent
-electron_src: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.15.0.zip
+electron_src: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.16.0.zip
 evidence:
   kind: lockfile
-  found_in: Electorrent-2.15.0/package-lock.json
+  found_in: Electorrent-2.16.0/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.15.0.zip
+  source: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.16.0.zip
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check

@@ -26,55 +26,55 @@ packages:
 homebrew: lobehub
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/latest-linux.yml
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/latest-linux.yml
 - name: latest-mac-arm64.yml
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/latest-mac-arm64.yml
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/latest-mac-arm64.yml
 - name: latest-mac-x64.yml
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/latest-mac-x64.yml
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/latest-mac-x64.yml
 - name: latest-mac.yml
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/latest-mac.yml
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/latest.yml
-- name: LobeHub-2.2.13-arm64-mac.zip
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-arm64-mac.zip
-- name: LobeHub-2.2.13-arm64-mac.zip.blockmap
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-arm64-mac.zip.blockmap
-- name: LobeHub-2.2.13-arm64.dmg
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-arm64.dmg
-- name: LobeHub-2.2.13-arm64.dmg.blockmap
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-arm64.dmg.blockmap
-- name: LobeHub-2.2.13-mac.zip
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-mac.zip
-- name: LobeHub-2.2.13-mac.zip.blockmap
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-mac.zip.blockmap
-- name: LobeHub-2.2.13-setup.exe
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-setup.exe
-- name: LobeHub-2.2.13-setup.exe.blockmap
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-setup.exe.blockmap
-- name: LobeHub-2.2.13-x64.dmg
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-x64.dmg
-- name: LobeHub-2.2.13-x64.dmg.blockmap
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13-x64.dmg.blockmap
-- name: LobeHub-2.2.13.AppImage
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/LobeHub-2.2.13.AppImage
-- name: lobehub-desktop-2.2.13.tar.gz
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/lobehub-desktop-2.2.13.tar.gz
-- name: lobehub-desktop-2.2.13.x86_64.rpm
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/lobehub-desktop-2.2.13.x86_64.rpm
-- name: lobehub-desktop_2.2.13_amd64.deb
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/lobehub-desktop_2.2.13_amd64.deb
-- name: lobehub-desktop_2.2.13_amd64.snap
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/lobehub-desktop_2.2.13_amd64.snap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/latest.yml
+- name: LobeHub-2.2.14-arm64-mac.zip
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-arm64-mac.zip
+- name: LobeHub-2.2.14-arm64-mac.zip.blockmap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-arm64-mac.zip.blockmap
+- name: LobeHub-2.2.14-arm64.dmg
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-arm64.dmg
+- name: LobeHub-2.2.14-arm64.dmg.blockmap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-arm64.dmg.blockmap
+- name: LobeHub-2.2.14-mac.zip
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-mac.zip
+- name: LobeHub-2.2.14-mac.zip.blockmap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-mac.zip.blockmap
+- name: LobeHub-2.2.14-setup.exe
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-setup.exe
+- name: LobeHub-2.2.14-setup.exe.blockmap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-setup.exe.blockmap
+- name: LobeHub-2.2.14-x64.dmg
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-x64.dmg
+- name: LobeHub-2.2.14-x64.dmg.blockmap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14-x64.dmg.blockmap
+- name: LobeHub-2.2.14.AppImage
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/LobeHub-2.2.14.AppImage
+- name: lobehub-desktop-2.2.14.tar.gz
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/lobehub-desktop-2.2.14.tar.gz
+- name: lobehub-desktop-2.2.14.x86_64.rpm
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/lobehub-desktop-2.2.14.x86_64.rpm
+- name: lobehub-desktop_2.2.14_amd64.deb
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/lobehub-desktop_2.2.14_amd64.deb
+- name: lobehub-desktop_2.2.14_amd64.snap
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/lobehub-desktop_2.2.14_amd64.snap
 - name: lobehub-renderer.tar.gz
-  url: https://github.com/lobehub/lobehub/releases/download/v2.2.13/lobehub-renderer.tar.gz
+  url: https://github.com/lobehub/lobehub/releases/download/v2.2.14/lobehub-renderer.tar.gz
 electron: 41.3.0
 method: which-electron-rg
-latest: v2.2.13
-src: https://github.com/lobehub/lobe-chat/archive/refs/tags/v2.2.13.zip
+latest: v2.2.14
+src: https://github.com/lobehub/lobe-chat/archive/refs/tags/v2.2.14.zip
 evidence:
   kind: binary
   source: https://github.com/lobehub/lobehub/releases/download/v2.2.10/lobehub-desktop-2.2.10.x86_64.rpm
   found_in: lobehub-desktop-2.2.10.x86_64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-08-16'
+last_commit: '2026-08-17'

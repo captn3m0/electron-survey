@@ -13,7 +13,7 @@ evidence:
   source: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-linux-x86_64.AppImage
   found_in: CiliTerm-2.0.1-linux-x86_64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-07-26'
+last_commit: '2026-08-16'
 downloads:
 - name: CiliTerm-2.0.1-linux-amd64.deb
   url: https://github.com/ciliverse/ciliterm/releases/download/v2.0.1/CiliTerm-2.0.1-linux-amd64.deb

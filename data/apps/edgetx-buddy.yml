@@ -19,3 +19,4 @@ aur_downloads:
   name: LICENSE
   arch: any
   source: aur-bin
+aur_votes: 1

@@ -8,21 +8,21 @@ additionalAUR:
 - simplexity-ai-app-bin
 electron: 33.0.2
 method: which-electron-rg
-latest: v5.0.0
-src: https://github.com/inulute/simplexity-ai-app/archive/refs/tags/v5.0.0.zip
+latest: v5.2.0
+src: https://github.com/inulute/simplexity-ai-app/archive/refs/tags/v5.2.0.zip
 downloads:
-- name: Simplexity-AI-5.0.0-arm64-mac.dmg
-  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.0.0/Simplexity-AI-5.0.0-arm64-mac.dmg
-- name: Simplexity-AI-5.0.0-Debian.deb
-  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.0.0/Simplexity-AI-5.0.0-Debian.deb
-- name: Simplexity-AI-5.0.0-Linux.AppImage
-  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.0.0/Simplexity-AI-5.0.0-Linux.AppImage
-- name: Simplexity-AI-Setup-5.0.0-Windows.exe
-  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.0.0/Simplexity-AI-Setup-5.0.0-Windows.exe
+- name: Simplexity.AI-5.2.0-universal.dmg
+  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.2.0/Simplexity.AI-5.2.0-universal.dmg
+- name: Simplexity.AI-5.2.0.AppImage
+  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.2.0/Simplexity.AI-5.2.0.AppImage
+- name: Simplexity.AI-5.2.0.deb
+  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.2.0/Simplexity.AI-5.2.0.deb
+- name: Simplexity.AI-Setup-5.2.0.exe
+  url: https://github.com/inulute/simplexity-ai-app/releases/download/v5.2.0/Simplexity.AI-Setup-5.2.0.exe
 evidence:
   kind: binary
   source: https://github.com/inulute/simplexity-ai-app/releases/download/v5.0.0/Simplexity-AI-5.0.0-Linux.AppImage
   found_in: Simplexity-AI-5.0.0-Linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-15'
+last_commit: '2026-08-16'

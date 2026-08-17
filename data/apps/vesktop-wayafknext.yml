@@ -65,7 +65,7 @@ evidence:
   found_in: vesktop-1.6.5.aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-23'
+last_commit: '2026-08-17'
 aur_downloads:
 - url: https://github.com/Vencord/Vesktop/releases/download/v1.6.5/vesktop-1.6.5.aarch64.rpm
   name: vesktop-1.6.5.aarch64.rpm

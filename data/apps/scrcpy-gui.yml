@@ -17,54 +17,57 @@ packages:
   arch: x64
 electron: 2.0.18
 method: which-electron-fingerprint
-latest: v2.4.0
-src: https://github.com/SimonAKing/scrcpy-gui/archive/refs/tags/v2.4.0.zip
+latest: v2.4.3
+src: https://github.com/SimonAKing/scrcpy-gui/archive/refs/tags/v2.4.3.zip
 downloads:
-- name: scrcpy-gui.2.4.0.nupkg
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/scrcpy-gui.2.4.0.nupkg
-  checksum: 45d334afc5133fe5d4d9b858756641682e2c4c666158937e642bb56c9cf5c3ab
-- name: Scrcpy.GUI-2.4.0-linux-amd64.deb
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-linux-amd64.deb
-  checksum: 257af7819a939e34178e212b62eb32703dfe6bd24e529bff0d19f92d1ddf0181
-- name: Scrcpy.GUI-2.4.0-linux-x64.pacman
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-linux-x64.pacman
-  checksum: a045458c2b12fe18a1d4441ade8ab92e768b40a1423641a57a2a682831fa0e05
-- name: Scrcpy.GUI-2.4.0-linux-x64.tar.gz
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-linux-x64.tar.gz
-  checksum: aa526c642633f42309019e31518396d9e5451b09d3b8cecc40ccdc9af1b85c7f
-- name: Scrcpy.GUI-2.4.0-linux-x86_64.AppImage
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-linux-x86_64.AppImage
-  checksum: 9d724cbc3a86a284d97371efe08da72811cdfb5b15907331410908712031fa2f
-- name: Scrcpy.GUI-2.4.0-mac-arm64.dmg
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-mac-arm64.dmg
-  checksum: c7d16e2b2219196d4c870a72f34eb1ab31edb198ad2ef049eccd48566c220d2f
-- name: Scrcpy.GUI-2.4.0-mac-arm64.zip
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-mac-arm64.zip
-  checksum: 369434482965064b115f7aa98cf2482283b335e2fd981830b116f7b5a129fe34
-- name: Scrcpy.GUI-2.4.0-mac-x64.dmg
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-mac-x64.dmg
-  checksum: 880d4f2451c36adbee2824daeb5de4f21d27b209a783b109b5efc373cde9d891
-- name: Scrcpy.GUI-2.4.0-mac-x64.zip
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-mac-x64.zip
-  checksum: 443ade970a07f9b08341e8e08f1ebca560dc2ea8f855d3fb9bf3138570dbb85c
-- name: Scrcpy.GUI-2.4.0-win-ia32.exe
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win-ia32.exe
-  checksum: e77110e20186221ff9597c8f7147c764eb4dbe85e815b12044406cceb9fa584b
-- name: Scrcpy.GUI-2.4.0-win-ia32.zip
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win-ia32.zip
-  checksum: 885028d9c065b43f70729f55e3376d2efe5f4890b75a3a05742737ba1e514ad4
-- name: Scrcpy.GUI-2.4.0-win-x64.exe
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win-x64.exe
-  checksum: a1858134f658107b086b50eae5353349b15a57d31867d18116e24426b60b3393
-- name: Scrcpy.GUI-2.4.0-win-x64.zip
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win-x64.zip
-  checksum: a1cd0dc19e8d20aea778473374b7aa4c4d0c34a659dcd126116db70c20ec3bba
-- name: Scrcpy.GUI-2.4.0-win.exe
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/Scrcpy.GUI-2.4.0-win.exe
-  checksum: b36858132b31ce820250d492ae3237a1c01c401a46df48e0a0a7a0caf6ab4c9b
+- name: scrcpy-gui.2.4.3.nupkg
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/scrcpy-gui.2.4.3.nupkg
+  checksum: da003aac9baf97702175f20462b65f7ecb0237fd2d86ee228837ed56b08792fc
+- name: Scrcpy.GUI-2.4.3-linux-amd64.deb
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-linux-amd64.deb
+  checksum: f8de972a9b61176f93777f3655c0918c2c12f6dab7dae3dc41d8138bd589dc81
+- name: Scrcpy.GUI-2.4.3-linux-x64.pacman
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-linux-x64.pacman
+  checksum: 08c1520b4c31867ea51297a819874a508fe9c63ed0305816a84d980a8814a086
+- name: Scrcpy.GUI-2.4.3-linux-x64.tar.gz
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-linux-x64.tar.gz
+  checksum: 8830219be678547bef6f712e58ad48a6c055d90bda171cc2ff8b9717852beefc
+- name: Scrcpy.GUI-2.4.3-linux-x86_64.AppImage
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-linux-x86_64.AppImage
+  checksum: 564655bfde437b022f045a1d6461772d1abd033ef155321b826040eb166c5918
+- name: Scrcpy.GUI-2.4.3-mac-arm64.dmg
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-mac-arm64.dmg
+  checksum: be8da73c874b69db2a05e32e866da8b382c6b478575acda9083fc8e1613d2bed
+- name: Scrcpy.GUI-2.4.3-mac-arm64.zip
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-mac-arm64.zip
+  checksum: b7424d4d0dc670b245b4037279910b8693a798dabe57d52fac1ebbf1969f9915
+- name: Scrcpy.GUI-2.4.3-mac-x64.dmg
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-mac-x64.dmg
+  checksum: 47710d43d1dfcde9a7469b528af139789ee3b1bd8d5642e7f5aa3652b3a67abe
+- name: Scrcpy.GUI-2.4.3-mac-x64.zip
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-mac-x64.zip
+  checksum: eca3c2b745ced69368c57b5f32e4db249843000167bda0110c212b31690c8f51
+- name: Scrcpy.GUI-2.4.3-win-ia32.exe
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-win-ia32.exe
+  checksum: d18f277b2d729bc10d78b6c8d8d6a1d00d7f8ce2ede81530c3f63aa11ab2f7b5
+- name: Scrcpy.GUI-2.4.3-win-ia32.zip
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-win-ia32.zip
+  checksum: 61c36d8cd511d655adcfbae9c3e622b3988543f3491b27fcf4594928c49bca0a
+- name: Scrcpy.GUI-2.4.3-win-x64.exe
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-win-x64.exe
+  checksum: 51a2cb50212b9ed76cadea8d658ca55da7f1df7e987880b17fd2ee220d608db0
+- name: Scrcpy.GUI-2.4.3-win-x64.zip
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-win-x64.zip
+  checksum: cd2a175c0b956ad93c45ba53afdb4678dfacb40e51e7bae383c938dfb5ede0bb
+- name: Scrcpy.GUI-2.4.3-win.exe
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3-win.exe
+  checksum: f20a87b9fb3ceaee1eacfc9e6583aed7602b2368804318f0939fc4750320bc92
+- name: Scrcpy.GUI-2.4.3.sbom.spdx.json
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/Scrcpy.GUI-2.4.3.sbom.spdx.json
+  checksum: 298ea17a7bac2d32ba47b1222deb80fd048f88cbaeec8e10bd7cb99d5e748172
 - name: SHA256SUMS.txt
-  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.0/SHA256SUMS.txt
-last_commit: '2026-08-15'
+  url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.3/SHA256SUMS.txt
+last_commit: '2026-08-16'
 evidence:
   kind: binary
   source: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.AppImage

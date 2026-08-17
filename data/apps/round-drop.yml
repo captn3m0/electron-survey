@@ -22,4 +22,4 @@ evidence:
   source: https://github.com/nekobato/RoundDrop/releases/download/v1.6.2/RoundDrop-1.6.2-arm64-mac.zip
   found_in: RoundDrop-1.6.2-arm64-mac.zip
   signal: which-electron rg signal
-last_commit: '2026-08-12'
+last_commit: '2026-08-17'

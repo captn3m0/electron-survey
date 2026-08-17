@@ -121,7 +121,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-13'
+last_commit: '2026-08-17'
 aur_downloads:
 - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.aarch64.rpm
   name: MQTTX-1.13.0.aarch64.rpm

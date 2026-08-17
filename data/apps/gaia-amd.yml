@@ -60,4 +60,4 @@ evidence:
   source: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-arm64.dmg
   found_in: gaia-agent-ui-0.22.0-arm64.dmg
   signal: which-electron rg signal
-last_commit: '2026-08-13'
+last_commit: '2026-08-17'
