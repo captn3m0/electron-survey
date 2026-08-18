@@ -27,7 +27,7 @@ electron: 38.7.1
 method: which-electron-rg
 latest: v260814.0.0
 src: https://github.com/amieso/electron-releases/archive/refs/tags/v260814.0.0.zip
-brew_installs: 10
+brew_installs: 100
 last_commit: '2026-08-14'
 evidence:
   kind: binary

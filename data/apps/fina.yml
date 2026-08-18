@@ -26,4 +26,4 @@ evidence:
   source: https://github.com/britors/Fina/releases/download/v18.0.1/fina-18.0.1.x86_64.rpm
   found_in: fina-18.0.1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-13'
+last_commit: '2026-08-17'

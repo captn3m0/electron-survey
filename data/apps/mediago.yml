@@ -53,4 +53,4 @@ evidence:
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
-last_commit: '2026-08-17'
+last_commit: '2026-08-18'

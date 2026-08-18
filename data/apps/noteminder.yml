@@ -6,43 +6,29 @@ aur:
 - noteminder-bin
 electron: 27.3.11
 method: which-electron-rg
-latest: v1.4.0
-src: https://github.com/hypn05/NoteMinder/archive/refs/tags/v1.4.0.zip
+latest: v1.4.1
+src: https://github.com/hypn05/NoteMinder/archive/refs/tags/v1.4.1.zip
 downloads:
-- name: latest-linux-arm64.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/latest-linux-arm64.yml
-- name: latest-linux.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/latest-mac.yml
-- name: latest.yml
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/latest.yml
-- name: NoteMinder-1.4.0-arm64.AppImage
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-1.4.0-arm64.AppImage
-- name: NoteMinder-1.4.0-arm64.dmg
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-1.4.0-arm64.dmg
-- name: NoteMinder-1.4.0-arm64.dmg.blockmap
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-1.4.0-arm64.dmg.blockmap
-- name: NoteMinder-1.4.0.AppImage
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-1.4.0.AppImage
-- name: NoteMinder-1.4.0.dmg
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-1.4.0.dmg
-- name: NoteMinder-1.4.0.dmg.blockmap
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-1.4.0.dmg.blockmap
-- name: noteminder-1.4.0.x86_64.rpm
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/noteminder-1.4.0.x86_64.rpm
-- name: NoteMinder-Setup-1.4.0.exe
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-Setup-1.4.0.exe
-- name: NoteMinder-Setup-1.4.0.exe.blockmap
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/NoteMinder-Setup-1.4.0.exe.blockmap
-- name: noteminder_1.4.0_amd64.deb
-  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.0/noteminder_1.4.0_amd64.deb
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/latest-mac.yml
+- name: NoteMinder-1.4.1-arm64.AppImage
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/NoteMinder-1.4.1-arm64.AppImage
+- name: NoteMinder-1.4.1-arm64.dmg
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/NoteMinder-1.4.1-arm64.dmg
+- name: noteminder-1.4.1.aarch64.rpm
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/noteminder-1.4.1.aarch64.rpm
+- name: NoteMinder-1.4.1.dmg
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/NoteMinder-1.4.1.dmg
+- name: NoteMinder-Setup-1.4.1.exe
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/NoteMinder-Setup-1.4.1.exe
+- name: noteminder_1.4.1_arm64.deb
+  url: https://github.com/hypn05/NoteMinder/releases/download/v1.4.1/noteminder_1.4.1_arm64.deb
 evidence:
   kind: binary
   source: https://github.com/hypn05/NoteMinder/releases/download/v1.1.6/NoteMinder-1.1.6-arm64.AppImage
   found_in: NoteMinder-1.1.6-arm64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-07-26'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://raw.githubusercontent.com/hypn05/NoteMinder/v1.1.6/LICENSE
   name: LICENSE

@@ -105,7 +105,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-08-14'
+last_commit: '2026-08-17'
 aur_downloads:
 - url: https://github.com/usebruno/bruno/releases/download/v4.0.0/bruno_4.0.0_amd64_linux.deb
   name: bruno_4.0.0_amd64_linux.deb

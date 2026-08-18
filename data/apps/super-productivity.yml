@@ -72,7 +72,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-08-15'
+last_commit: '2026-08-17'
 aur_downloads:
 - url: https://github.com/super-productivity/super-productivity/releases/download/v18.16.0/superProductivity-amd64.deb
   name: superProductivity-amd64.deb

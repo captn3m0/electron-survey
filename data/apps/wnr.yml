@@ -1,23 +1,23 @@
 id: wnr
 repository: https://github.com/RoderickQiu/wnr
 website: https://getwnr.com/
-latest: v1.33.0
-src: https://github.com/RoderickQiu/wnr/archive/refs/tags/v1.33.0.zip
+latest: v1.34.0
+src: https://github.com/RoderickQiu/wnr/archive/refs/tags/v1.34.0.zip
 downloads:
-- name: wnr-1.33.0-Linux.AppImage
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-Linux.AppImage
-- name: wnr-1.33.0-MacOS-arm64.dmg
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-MacOS-arm64.dmg
-- name: wnr-1.33.0-MacOS-x64.dmg
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-MacOS-x64.dmg
-- name: wnr-1.33.0-Setup-arm64.exe
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-Setup-arm64.exe
-- name: wnr-1.33.0-Setup-x64.exe
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-Setup-x64.exe
-- name: wnr-1.33.0-Win-arm64.7z
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-Win-arm64.7z
-- name: wnr-1.33.0-Win-x64.7z
-  url: https://github.com/RoderickQiu/wnr/releases/download/v1.33.0/wnr-1.33.0-Win-x64.7z
+- name: wnr-1.34.0-Linux.AppImage
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-Linux.AppImage
+- name: wnr-1.34.0-MacOS-arm64.dmg
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-MacOS-arm64.dmg
+- name: wnr-1.34.0-MacOS-x64.dmg
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-MacOS-x64.dmg
+- name: wnr-1.34.0-Setup-arm64.exe
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-Setup-arm64.exe
+- name: wnr-1.34.0-Setup-x64.exe
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-Setup-x64.exe
+- name: wnr-1.34.0-Win-arm64.7z
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-Win-arm64.7z
+- name: wnr-1.34.0-Win-x64.7z
+  url: https://github.com/RoderickQiu/wnr/releases/download/v1.34.0/wnr-1.34.0-Win-x64.7z
 electron: 22.3.27
 method: which-electron-rg
 aur:
@@ -30,7 +30,7 @@ evidence:
   found_in: wnr-1.32.0-Linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-16'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://github.com/RoderickQiu/wnr/releases/download/v1.32.0/wnr-1.32.0-Linux.AppImage
   name: wnr-1.32.0-Linux.AppImage

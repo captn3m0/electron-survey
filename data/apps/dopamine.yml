@@ -31,4 +31,4 @@ evidence:
   found_in: dopamine-3.0.8/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.8.zip
-last_commit: '2026-08-16'
+last_commit: '2026-08-17'
