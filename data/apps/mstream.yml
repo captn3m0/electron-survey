@@ -4,6 +4,8 @@ website: https://mstream.io/
 latest: v6.20.1
 src: https://github.com/IrosTheBeggar/mStream/archive/refs/tags/v6.20.1.zip
 downloads:
+- name: manifest.json
+  url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.20.1/manifest.json
 - name: mStream-6.20.1-darwin-arm64.zip
   url: https://github.com/IrosTheBeggar/mStream/releases/download/v6.20.1/mStream-6.20.1-darwin-arm64.zip
 - name: mStream-6.20.1-darwin-x64.zip
@@ -25,5 +27,5 @@ name: mStream
 electron: 29.1.4
 method: which-electron-rg
 aur_votes: 1
-last_commit: '2026-08-18'
+last_commit: '2026-08-19'
 we_tried: we1.2.1+p1:v6.20.1

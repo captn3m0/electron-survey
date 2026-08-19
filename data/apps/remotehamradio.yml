@@ -13,7 +13,7 @@ downloads:
   version: 2.4.1
 electron: 29.1.6
 method: which-electron-rg
-brew_installs: 10
+brew_installs: 1
 evidence:
   kind: binary
   source: https://rhr-electron.s3.amazonaws.com/desktop-releases/RemoteHamRadio-2.4.1-universal-mac.zip

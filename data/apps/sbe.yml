@@ -20,7 +20,7 @@ evidence:
   source: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0.AppImage
   found_in: sbe-3.8.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-17'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://github.com/kondoumh/sbe/releases/download/v3.8.0/sbe-3.8.0.AppImage
   name: sbe-3.8.0.AppImage

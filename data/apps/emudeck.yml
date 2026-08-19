@@ -25,7 +25,7 @@ evidence:
   found_in: EmuDeck-2.5.0.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-09'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
   name: EmuDeck-2.5.0.AppImage

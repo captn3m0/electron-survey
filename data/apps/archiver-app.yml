@@ -9,20 +9,20 @@ packages:
   arch: universal
 homebrew: archiver-app
 downloads:
-- name: Archiver-5.0.9-universal-mac.zip
-  url: https://github.com/mapache-soft/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip
-- name: Archiver-5.0.9-universal-mac.zip.blockmap
-  url: https://github.com/mapache-soft/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip.blockmap
+- name: Archiver-5.0.11-universal-mac.zip
+  url: https://github.com/mapache-soft/archiver-5-releases/releases/download/v5.0.11/Archiver-5.0.11-universal-mac.zip
+- name: Archiver-5.0.11-universal-mac.zip.blockmap
+  url: https://github.com/mapache-soft/archiver-5-releases/releases/download/v5.0.11/Archiver-5.0.11-universal-mac.zip.blockmap
 - name: latest-mac.yml
-  url: https://github.com/mapache-soft/archiver-5-releases/releases/download/v5.0.9/latest-mac.yml
+  url: https://github.com/mapache-soft/archiver-5-releases/releases/download/v5.0.11/latest-mac.yml
 electron: 38.4.0
 method: which-electron-rg
-latest: v5.0.9
-src: https://github.com/incbee/archiver-5-releases/archive/refs/tags/v5.0.9.zip
+latest: v5.0.11
+src: https://github.com/incbee/archiver-5-releases/archive/refs/tags/v5.0.11.zip
 evidence:
   kind: binary
   source: https://github.com/incbee/archiver-5-releases/releases/download/v5.0.9/Archiver-5.0.9-universal-mac.zip
   found_in: Archiver-5.0.9-universal-mac.zip
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-06-01'
+last_commit: '2026-08-18'

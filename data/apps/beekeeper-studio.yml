@@ -1,63 +1,63 @@
 id: beekeeper-studio
 repository: https://github.com/beekeeper-studio/beekeeper-studio
 website: https://www.beekeeperstudio.io
-latest: v6.0.1
-src: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v6.0.1.zip
+latest: v6.0.4
+src: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v6.0.4.zip
 downloads:
-- name: Beekeeper-Studio-6.0.1-aarch64.flatpak
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-aarch64.flatpak
-- name: beekeeper-studio-6.0.1-aarch64.pacman
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio-6.0.1-aarch64.pacman
-- name: Beekeeper-Studio-6.0.1-arm64-mac.zip
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64-mac.zip
-- name: Beekeeper-Studio-6.0.1-arm64.AppImage
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64.AppImage
-- name: Beekeeper-Studio-6.0.1-arm64.dmg
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64.dmg
-- name: Beekeeper-Studio-6.0.1-arm64.dmg.blockmap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64.dmg.blockmap
-- name: Beekeeper-Studio-6.0.1-mac.zip
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-mac.zip
-- name: Beekeeper-Studio-6.0.1-portable.exe
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-portable.exe
-- name: Beekeeper-Studio-6.0.1-x86_64.flatpak
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-x86_64.flatpak
-- name: beekeeper-studio-6.0.1.aarch64.rpm
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio-6.0.1.aarch64.rpm
-- name: Beekeeper-Studio-6.0.1.AppImage
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1.AppImage
-- name: Beekeeper-Studio-6.0.1.dmg
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1.dmg
-- name: Beekeeper-Studio-6.0.1.dmg.blockmap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1.dmg.blockmap
-- name: beekeeper-studio-6.0.1.pacman
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio-6.0.1.pacman
-- name: beekeeper-studio-6.0.1.x86_64.rpm
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio-6.0.1.x86_64.rpm
-- name: Beekeeper-Studio-Setup-6.0.1.exe
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-Setup-6.0.1.exe
-- name: Beekeeper-Studio-Setup-6.0.1.exe.blockmap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-Setup-6.0.1.exe.blockmap
-- name: beekeeper-studio_6.0.1_amd64.deb
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio_6.0.1_amd64.deb
-- name: beekeeper-studio_6.0.1_amd64.snap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio_6.0.1_amd64.snap
-- name: beekeeper-studio_6.0.1_arm64.deb
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio_6.0.1_arm64.deb
-- name: beekeeper-studio_6.0.1_arm64.snap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/beekeeper-studio_6.0.1_arm64.snap
-- name: Beekeeper.Studio-6.0.1-arm64-mac.zip.blockmap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper.Studio-6.0.1-arm64-mac.zip.blockmap
-- name: Beekeeper.Studio-6.0.1-mac.zip.blockmap
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper.Studio-6.0.1-mac.zip.blockmap
+- name: Beekeeper-Studio-6.0.4-aarch64.flatpak
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-aarch64.flatpak
+- name: beekeeper-studio-6.0.4-aarch64.pacman
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio-6.0.4-aarch64.pacman
+- name: Beekeeper-Studio-6.0.4-arm64-mac.zip
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-arm64-mac.zip
+- name: Beekeeper-Studio-6.0.4-arm64.AppImage
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-arm64.AppImage
+- name: Beekeeper-Studio-6.0.4-arm64.dmg
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-arm64.dmg
+- name: Beekeeper-Studio-6.0.4-arm64.dmg.blockmap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-arm64.dmg.blockmap
+- name: Beekeeper-Studio-6.0.4-mac.zip
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-mac.zip
+- name: Beekeeper-Studio-6.0.4-portable.exe
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-portable.exe
+- name: Beekeeper-Studio-6.0.4-x86_64.flatpak
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4-x86_64.flatpak
+- name: beekeeper-studio-6.0.4.aarch64.rpm
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio-6.0.4.aarch64.rpm
+- name: Beekeeper-Studio-6.0.4.AppImage
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4.AppImage
+- name: Beekeeper-Studio-6.0.4.dmg
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4.dmg
+- name: Beekeeper-Studio-6.0.4.dmg.blockmap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-6.0.4.dmg.blockmap
+- name: beekeeper-studio-6.0.4.pacman
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio-6.0.4.pacman
+- name: beekeeper-studio-6.0.4.x86_64.rpm
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio-6.0.4.x86_64.rpm
+- name: Beekeeper-Studio-Setup-6.0.4.exe
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-Setup-6.0.4.exe
+- name: Beekeeper-Studio-Setup-6.0.4.exe.blockmap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper-Studio-Setup-6.0.4.exe.blockmap
+- name: beekeeper-studio_6.0.4_amd64.deb
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio_6.0.4_amd64.deb
+- name: beekeeper-studio_6.0.4_amd64.snap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio_6.0.4_amd64.snap
+- name: beekeeper-studio_6.0.4_arm64.deb
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio_6.0.4_arm64.deb
+- name: beekeeper-studio_6.0.4_arm64.snap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/beekeeper-studio_6.0.4_arm64.snap
+- name: Beekeeper.Studio-6.0.4-arm64-mac.zip.blockmap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper.Studio-6.0.4-arm64-mac.zip.blockmap
+- name: Beekeeper.Studio-6.0.4-mac.zip.blockmap
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/Beekeeper.Studio-6.0.4-mac.zip.blockmap
 - name: latest-linux-arm64.yml
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/latest-linux-arm64.yml
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/latest-linux.yml
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/latest-mac.yml
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/latest.yml
+  url: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.4/latest.yml
 electron: 39.8.10
 method: src-yarn-lock
 aur:
@@ -70,13 +70,13 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v6.0.1.zip
+electron_src: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v6.0.4.zip
 evidence:
   kind: lockfile
-  found_in: beekeeper-studio-6.0.1/yarn.lock
+  found_in: beekeeper-studio-6.0.4/yarn.lock
   signal: electron pinned in yarn.lock
-  source: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v6.0.1.zip
+  source: https://github.com/beekeeper-studio/beekeeper-studio/archive/refs/tags/v6.0.4.zip
 homepage: true
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-18'
+last_commit: '2026-08-19'

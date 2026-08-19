@@ -13,7 +13,7 @@ evidence:
   source: https://aur.archlinux.org/packages/fdc3-sail-bin
   found_in: fdc3-sail-bin
   signal: depends on electron24; reported as the newest 24.x release (24.8.8)
-last_commit: '2026-07-22'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://github.com/finos/FDC3-Sail/releases/download/v22.12.6-1030/FDC3-Sail-22.12.6-1030.AppImage
   name: FDC3-Sail-22.12.6-1030.AppImage

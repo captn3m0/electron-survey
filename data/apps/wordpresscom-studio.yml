@@ -21,3 +21,4 @@ evidence:
   found_in: studio-arm64-v1.15.0.zip
   signal: which-electron rg signal (2 signals agreed)
 brew_installs: 100
+aur_votes: 1

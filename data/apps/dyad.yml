@@ -63,7 +63,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-08-17'
+last_commit: '2026-08-19'
 aur_downloads:
 - url: https://github.com/dyad-sh/dyad/releases/download/v1.1.0/dyad_1.1.0_amd64.deb
   name: dyad_1.1.0_amd64.deb

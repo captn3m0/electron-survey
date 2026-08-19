@@ -6,40 +6,44 @@ aur:
 - qcalc-bin
 electron: 41.0.3
 method: which-electron-rg
-latest: v0.13.0
-src: https://github.com/from104/qcalc/archive/refs/tags/v0.13.0.zip
+latest: v0.13.1
+src: https://github.com/from104/qcalc/archive/refs/tags/v0.13.1.zip
 downloads:
+- name: latest-linux.yml
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/latest-linux.yml
 - name: latest.json
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/latest.json
-- name: Q-Calc-0.13.0-linux.flatpak
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q-Calc-0.13.0-linux.flatpak
-- name: Q.Calc-0.13.0-1.x86_64.rpm
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc-0.13.0-1.x86_64.rpm
-- name: Q.Calc-0.13.0-1.x86_64.rpm.sig
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc-0.13.0-1.x86_64.rpm.sig
-- name: Q.Calc_0.13.0_amd64.AppImage
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc_0.13.0_amd64.AppImage
-- name: Q.Calc_0.13.0_amd64.AppImage.sig
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc_0.13.0_amd64.AppImage.sig
-- name: Q.Calc_0.13.0_amd64.deb
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc_0.13.0_amd64.deb
-- name: Q.Calc_0.13.0_amd64.deb.sig
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc_0.13.0_amd64.deb.sig
-- name: Q.Calc_0.13.0_x64-setup.exe
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc_0.13.0_x64-setup.exe
-- name: Q.Calc_0.13.0_x64-setup.exe.sig
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/Q.Calc_0.13.0_x64-setup.exe.sig
-- name: QCalc-0.13.0-android.apk
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/QCalc-0.13.0-android.apk
-- name: qcalc_0.13.0_amd64.snap
-  url: https://github.com/from104/qcalc/releases/download/v0.13.0/qcalc_0.13.0_amd64.snap
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/latest.json
+- name: latest.yml
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/latest.yml
+- name: QCalc-0.13.1-1.x86_64.rpm
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc-0.13.1-1.x86_64.rpm
+- name: QCalc-0.13.1-1.x86_64.rpm.sig
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc-0.13.1-1.x86_64.rpm.sig
+- name: QCalc-0.13.1-android.apk
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc-0.13.1-android.apk
+- name: QCalc-0.13.1-linux.flatpak
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc-0.13.1-linux.flatpak
+- name: QCalc_0.13.1_amd64.AppImage
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc_0.13.1_amd64.AppImage
+- name: QCalc_0.13.1_amd64.AppImage.sig
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc_0.13.1_amd64.AppImage.sig
+- name: QCalc_0.13.1_amd64.deb
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc_0.13.1_amd64.deb
+- name: QCalc_0.13.1_amd64.deb.sig
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc_0.13.1_amd64.deb.sig
+- name: qcalc_0.13.1_amd64.snap
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/qcalc_0.13.1_amd64.snap
+- name: QCalc_0.13.1_x64-setup.exe
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc_0.13.1_x64-setup.exe
+- name: QCalc_0.13.1_x64-setup.exe.sig
+  url: https://github.com/from104/qcalc/releases/download/v0.13.1/QCalc_0.13.1_x64-setup.exe.sig
 evidence:
   kind: binary
   source: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.AppImage
   found_in: QCalc-0.12.0-linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-15'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://github.com/from104/qcalc/releases/download/v0.12.0/QCalc-0.12.0-linux.AppImage
   name: QCalc-0.12.0-linux.AppImage

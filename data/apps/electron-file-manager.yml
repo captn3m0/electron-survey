@@ -6,21 +6,21 @@ aur:
 - electron-file-manager-bin
 electron: 41.3.0
 method: which-electron-rg
-latest: electron-file-manager-v2.0.4
-src: https://github.com/Michael-Vanderford/electron-file-manager/archive/refs/tags/electron-file-manager-v2.0.4.zip
+latest: electron-file-manager-v2.0.5
+src: https://github.com/Michael-Vanderford/electron-file-manager/archive/refs/tags/electron-file-manager-v2.0.5.zip
 downloads:
-- name: electron-file-manager-2.0.4.AppImage
-  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.AppImage
-- name: electron-file-manager-2.0.4.x86_64.rpm
-  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.x86_64.rpm
-- name: electron-file-manager_2.0.4_amd64.deb
-  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager_2.0.4_amd64.deb
+- name: electron-file-manager-2.0.5.AppImage
+  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.5/electron-file-manager-2.0.5.AppImage
+- name: electron-file-manager-2.0.5.x86_64.rpm
+  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.5/electron-file-manager-2.0.5.x86_64.rpm
+- name: electron-file-manager_2.0.5_amd64.deb
+  url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.5/electron-file-manager_2.0.5_amd64.deb
 evidence:
   kind: binary
   source: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.x86_64.rpm
   found_in: electron-file-manager-2.0.4.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-06-06'
+last_commit: '2026-08-18'
 aur_downloads:
 - url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager_2.0.4_amd64.deb
   name: electron-file-manager_2.0.4_amd64.deb
