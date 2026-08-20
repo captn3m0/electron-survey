@@ -6,42 +6,42 @@ aur:
 - sokuji-bin
 electron: 40.10.6
 method: aur-depends
-latest: v0.36.3
-src: https://github.com/kizuna-ai-lab/sokuji/archive/refs/tags/v0.36.3.zip
+latest: v0.37.2
+src: https://github.com/kizuna-ai-lab/sokuji/archive/refs/tags/v0.37.2.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/latest-linux-arm64.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/latest-linux.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/latest-mac.yml
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/latest.yml
-- name: Sokuji-0.36.3-arm64.AppImage
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/Sokuji-0.36.3-arm64.AppImage
-- name: Sokuji-0.36.3-arm64.pkg
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/Sokuji-0.36.3-arm64.pkg
-- name: Sokuji-0.36.3-full.nupkg
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/Sokuji-0.36.3-full.nupkg
-- name: Sokuji-0.36.3-x64.pkg
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/Sokuji-0.36.3-x64.pkg
-- name: Sokuji-0.36.3-x86_64.AppImage
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/Sokuji-0.36.3-x86_64.AppImage
-- name: Sokuji-0.36.3.Setup.exe
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/Sokuji-0.36.3.Setup.exe
-- name: sokuji-extension-0.36.3.zip
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/sokuji-extension-0.36.3.zip
-- name: sokuji_0.36.3_amd64.deb
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/sokuji_0.36.3_amd64.deb
-- name: sokuji_0.36.3_arm64.deb
-  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.36.3/sokuji_0.36.3_arm64.deb
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/latest.yml
+- name: Sokuji-0.37.2-arm64.AppImage
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/Sokuji-0.37.2-arm64.AppImage
+- name: Sokuji-0.37.2-arm64.pkg
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/Sokuji-0.37.2-arm64.pkg
+- name: Sokuji-0.37.2-full.nupkg
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/Sokuji-0.37.2-full.nupkg
+- name: Sokuji-0.37.2-x64.pkg
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/Sokuji-0.37.2-x64.pkg
+- name: Sokuji-0.37.2-x86_64.AppImage
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/Sokuji-0.37.2-x86_64.AppImage
+- name: Sokuji-0.37.2.Setup.exe
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/Sokuji-0.37.2.Setup.exe
+- name: sokuji-extension-0.37.2.zip
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/sokuji-extension-0.37.2.zip
+- name: sokuji_0.37.2_amd64.deb
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/sokuji_0.37.2_amd64.deb
+- name: sokuji_0.37.2_arm64.deb
+  url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.37.2/sokuji_0.37.2_arm64.deb
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/sokuji-bin
   found_in: sokuji-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
-last_commit: '2026-08-18'
+last_commit: '2026-08-19'
 aur_downloads:
 - url: https://github.com/kizuna-ai-lab/sokuji/releases/download/v0.34.1/sokuji_0.34.1_arm64.deb
   name: sokuji_0.34.1_arm64.deb
@@ -51,4 +51,4 @@ aur_downloads:
   name: sokuji_0.34.1_amd64.deb
   arch: x86_64
   source: aur-bin
-we_tried: we1.2.1+p1:v0.36.3
+we_tried: we1.2.1+p1:v0.37.2

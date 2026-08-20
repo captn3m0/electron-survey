@@ -52,4 +52,4 @@ evidence:
   source: https://aur.archlinux.org/packages/glassy-music-nankill-git
   found_in: glassy-music-nankill-git
   signal: depends on electron42; reported as the newest 42.x release (42.7.0)
-last_commit: '2026-08-17'
+last_commit: '2026-08-19'

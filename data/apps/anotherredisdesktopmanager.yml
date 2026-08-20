@@ -1,50 +1,50 @@
 id: anotherredisdesktopmanager
 repository: https://github.com/qishibo/AnotherRedisDesktopManager
 website: https://github.com/qishibo/AnotherRedisDesktopManager
-latest: v1.7.2
-src: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.2.zip
+latest: v1.7.4
+src: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.4.zip
 downloads:
-- name: Another-Redis-Desktop-Manager-linux-1.7.2-arm64.AppImage
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-linux-1.7.2-arm64.AppImage
-- name: Another-Redis-Desktop-Manager-linux-1.7.2-x86_64.AppImage
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-linux-1.7.2-x86_64.AppImage
-- name: Another-Redis-Desktop-Manager-mac-1.7.2-arm64.dmg
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-mac-1.7.2-arm64.dmg
-- name: Another-Redis-Desktop-Manager-mac-1.7.2-arm64.dmg.blockmap
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-mac-1.7.2-arm64.dmg.blockmap
-- name: Another-Redis-Desktop-Manager-mac-1.7.2-x64.dmg
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-mac-1.7.2-x64.dmg
-- name: Another-Redis-Desktop-Manager-mac-1.7.2-x64.dmg.blockmap
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-mac-1.7.2-x64.dmg.blockmap
-- name: Another-Redis-Desktop-Manager-win-1.7.2-arm64.exe
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-arm64.exe
-- name: Another-Redis-Desktop-Manager-win-1.7.2-arm64.exe.blockmap
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-arm64.exe.blockmap
-- name: Another-Redis-Desktop-Manager-win-1.7.2-x64.exe
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-x64.exe
-- name: Another-Redis-Desktop-Manager-win-1.7.2-x64.exe.blockmap
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-x64.exe.blockmap
-- name: Another-Redis-Desktop-Manager-win-1.7.2-x64.zip
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2-x64.zip
-- name: Another-Redis-Desktop-Manager-win-1.7.2.exe
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2.exe
-- name: Another-Redis-Desktop-Manager-win-1.7.2.exe.blockmap
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager-win-1.7.2.exe.blockmap
+- name: Another-Redis-Desktop-Manager-linux-1.7.4-arm64.AppImage
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-linux-1.7.4-arm64.AppImage
+- name: Another-Redis-Desktop-Manager-linux-1.7.4-x86_64.AppImage
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-linux-1.7.4-x86_64.AppImage
+- name: Another-Redis-Desktop-Manager-mac-1.7.4-arm64.dmg
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-mac-1.7.4-arm64.dmg
+- name: Another-Redis-Desktop-Manager-mac-1.7.4-arm64.dmg.blockmap
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-mac-1.7.4-arm64.dmg.blockmap
+- name: Another-Redis-Desktop-Manager-mac-1.7.4-x64.dmg
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-mac-1.7.4-x64.dmg
+- name: Another-Redis-Desktop-Manager-mac-1.7.4-x64.dmg.blockmap
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-mac-1.7.4-x64.dmg.blockmap
+- name: Another-Redis-Desktop-Manager-win-1.7.4-arm64.exe
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-arm64.exe
+- name: Another-Redis-Desktop-Manager-win-1.7.4-arm64.exe.blockmap
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-arm64.exe.blockmap
+- name: Another-Redis-Desktop-Manager-win-1.7.4-x64.exe
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-x64.exe
+- name: Another-Redis-Desktop-Manager-win-1.7.4-x64.exe.blockmap
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-x64.exe.blockmap
+- name: Another-Redis-Desktop-Manager-win-1.7.4-x64.zip
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4-x64.zip
+- name: Another-Redis-Desktop-Manager-win-1.7.4.exe
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4.exe
+- name: Another-Redis-Desktop-Manager-win-1.7.4.exe.blockmap
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/Another-Redis-Desktop-Manager-win-1.7.4.exe.blockmap
 - name: latest-linux-arm64.yml
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/latest-linux-arm64.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/latest-linux.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/latest-mac.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/latest.yml
+  url: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.4/latest.yml
 electron: 12.2.3
 method: src-package-lock
 name: AnotherRedisDesktopManager
-electron_src: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.2.zip
+electron_src: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.4.zip
 evidence:
   kind: lockfile
-  found_in: AnotherRedisDesktopManager-1.7.2/package-lock.json
+  found_in: AnotherRedisDesktopManager-1.7.4/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.2.zip
-last_commit: '2026-08-18'
+  source: https://github.com/qishibo/AnotherRedisDesktopManager/archive/refs/tags/v1.7.4.zip
+last_commit: '2026-08-20'

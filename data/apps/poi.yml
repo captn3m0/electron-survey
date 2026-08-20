@@ -78,4 +78,4 @@ evidence:
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
