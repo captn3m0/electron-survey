@@ -39,7 +39,7 @@ evidence:
   found_in: firefly-canary-desktop-3.0.1.AppImage
   signal: which-electron rg signal
 brew_installs: 10
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://github.com/iotaledger/firefly/releases/download/desktop-canary-3.0.1/firefly-canary-desktop-3.0.1.AppImage
   name: firefly-canary-desktop-3.0.1.AppImage

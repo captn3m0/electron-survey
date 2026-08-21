@@ -26,4 +26,4 @@ downloads:
   url: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v2.2.0/Sigma-File-Manager-2.2.0-linux.flatpak
 - name: Sigma-File-Manager-2.2.0-windows-setup.exe
   url: https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v2.2.0/Sigma-File-Manager-2.2.0-windows-setup.exe
-last_commit: '2026-07-21'
+last_commit: '2026-08-20'

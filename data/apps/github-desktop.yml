@@ -48,7 +48,7 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-amd64-3.4.13-linux1.deb
   name: GitHubDesktop-linux-amd64-3.4.13-linux1.deb

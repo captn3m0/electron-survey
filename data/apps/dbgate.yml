@@ -152,7 +152,7 @@ evidence:
   source: https://github.com/dbgate/dbgate/archive/refs/tags/v7.2.5.zip
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://raw.githubusercontent.com/dbgate/dbgate/v5.2.10-beta.4/LICENSE
   name: LICENSE

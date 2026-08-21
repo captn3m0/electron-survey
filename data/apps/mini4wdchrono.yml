@@ -16,7 +16,7 @@ evidence:
   source: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.18.1/Mini4wdChrono-linux-x64.zip
   found_in: Mini4wdChrono-linux-x64.zip
   signal: which-electron version_file signal (2 signals agreed)
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.18.1/Mini4wdChrono-linux-x64.zip
   name: Mini4wdChrono-linux-x64.zip

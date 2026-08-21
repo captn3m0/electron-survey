@@ -10,13 +10,13 @@ latest: v1.8.2
 src: https://github.com/zhandouxiaojiji/behavior3editor/archive/refs/tags/v1.8.2.zip
 downloads:
 - name: behavior3editor_1.8.2.dmg
-  url: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.dmg
+  url: https://github.com/xcoding1024/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.dmg
 - name: behavior3editor_1.8.2.exe
-  url: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.exe
+  url: https://github.com/xcoding1024/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.exe
 we_tried: we0:v1.8.2
 evidence:
   kind: binary
   source: https://github.com/zhandouxiaojiji/behavior3editor/releases/download/v1.8.2/behavior3editor_1.8.2.dmg
   found_in: behavior3editor_1.8.2.dmg
   signal: which-electron rg signal
-last_commit: '2026-04-08'
+last_commit: '2026-08-20'

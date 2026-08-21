@@ -11,7 +11,7 @@ evidence:
   source: https://github.com/Dotneteer/kliveide/releases/download/v0.57.0/KliveIdeSetup-0.57.0-arm64.AppImage
   found_in: KliveIdeSetup-0.57.0-arm64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 src: https://github.com/Dotneteer/kliveide/archive/refs/heads/master.zip
 aur_downloads:
 - url: https://raw.githubusercontent.com/Dotneteer/kliveide/v0.57.0/LICENSE

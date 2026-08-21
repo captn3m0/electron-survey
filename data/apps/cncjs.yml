@@ -19,45 +19,43 @@ aur:
 - cncjs
 homebrew: cncjs
 downloads:
-- name: cncjs-app-1.11.2-linux-amd64.deb
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-amd64.deb
-- name: cncjs-app-1.11.2-linux-arm64.AppImage
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-arm64.AppImage
-- name: cncjs-app-1.11.2-linux-arm64.deb
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-arm64.deb
-- name: cncjs-app-1.11.2-linux-arm64.tar.gz
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-arm64.tar.gz
-- name: cncjs-app-1.11.2-linux-armv7l.AppImage
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-armv7l.AppImage
-- name: cncjs-app-1.11.2-linux-armv7l.deb
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-armv7l.deb
-- name: cncjs-app-1.11.2-linux-armv7l.tar.gz
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-armv7l.tar.gz
-- name: cncjs-app-1.11.2-linux-x64.tar.gz
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-x64.tar.gz
-- name: cncjs-app-1.11.2-linux-x86_64.AppImage
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux-x86_64.AppImage
-- name: cncjs-app-1.11.2-linux.aarch64.rpm
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux.aarch64.rpm
-- name: cncjs-app-1.11.2-linux.armv7l.rpm
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux.armv7l.rpm
-- name: cncjs-app-1.11.2-linux.x86_64.rpm
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux.x86_64.rpm
-- name: cncjs-app-1.11.2-macos-arm64.dmg
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-macos-arm64.dmg
-- name: cncjs-app-1.11.2-macos-x64.dmg
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-macos-x64.dmg
-- name: cncjs-app-1.11.2-windows-x64.exe
-  url: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-windows-x64.exe
+- name: cncjs-app-1.11.3-linux-amd64.deb
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-amd64.deb
+- name: cncjs-app-1.11.3-linux-arm64.AppImage
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-arm64.AppImage
+- name: cncjs-app-1.11.3-linux-arm64.deb
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-arm64.deb
+- name: cncjs-app-1.11.3-linux-arm64.tar.gz
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-arm64.tar.gz
+- name: cncjs-app-1.11.3-linux-armv7l.AppImage
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-armv7l.AppImage
+- name: cncjs-app-1.11.3-linux-armv7l.deb
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-armv7l.deb
+- name: cncjs-app-1.11.3-linux-armv7l.tar.gz
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-armv7l.tar.gz
+- name: cncjs-app-1.11.3-linux-x64.tar.gz
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-x64.tar.gz
+- name: cncjs-app-1.11.3-linux-x86_64.AppImage
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux-x86_64.AppImage
+- name: cncjs-app-1.11.3-linux.aarch64.rpm
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux.aarch64.rpm
+- name: cncjs-app-1.11.3-linux.armv7l.rpm
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux.armv7l.rpm
+- name: cncjs-app-1.11.3-linux.x86_64.rpm
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-linux.x86_64.rpm
+- name: cncjs-app-1.11.3-macos-arm64.dmg
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-macos-arm64.dmg
+- name: cncjs-app-1.11.3-windows-x64.exe
+  url: https://github.com/cncjs/cncjs/releases/download/v1.11.3/cncjs-app-1.11.3-windows-x64.exe
 electron: 22.0.3
 method: which-electron-rg
-latest: v1.11.2
-src: https://github.com/cncjs/cncjs/archive/refs/tags/v1.11.2.zip
+latest: v1.11.3
+src: https://github.com/cncjs/cncjs/archive/refs/tags/v1.11.3.zip
 aur_votes: 1
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-05'
+last_commit: '2026-08-20'
 evidence:
   kind: binary
   source: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux.aarch64.rpm

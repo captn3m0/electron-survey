@@ -103,7 +103,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.4686.95/pritunl-client-1.3.4686.95-1-x86_64.pkg.tar.zst
   name: pritunl-client-1.3.4686.95-1-x86_64.pkg.tar.zst

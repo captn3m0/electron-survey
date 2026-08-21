@@ -12,7 +12,7 @@ packages:
   format: exe
   os: windows
 brew_installs: 100
-last_commit: '2026-08-20'
+last_commit: '2026-08-21'
 src: https://github.com/stream-labs/streamlabs-obs/archive/refs/heads/master.zip
 electron: 29.3.1
 method: src-yarn-lock
@@ -22,4 +22,4 @@ evidence:
   signal: electron pinned in yarn.lock
   source: https://github.com/stream-labs/streamlabs-obs/archive/refs/heads/master.zip
 electron_src: https://github.com/stream-labs/streamlabs-obs/archive/refs/heads/master.zip
-electron_src_commit: '2026-08-20'
+electron_src_commit: '2026-08-21'

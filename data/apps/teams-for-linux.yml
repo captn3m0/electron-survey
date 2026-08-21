@@ -29,63 +29,63 @@ packages:
   arch: arm64
 aur:
 - teams-for-linux
-latest: v2.16.0
-src: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.16.0.zip
+latest: v2.17.0
+src: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.17.0.zip
 downloads:
 - name: latest-linux-arm.yml
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/latest-linux-arm.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/latest-linux-arm.yml
 - name: latest-linux-arm64.yml
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/latest-linux-arm64.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/latest-linux.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/latest-mac.yml
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/latest.yml
-- name: teams-for-linux-2.16.0-arm64.AppImage
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0-arm64.AppImage
-- name: teams-for-linux-2.16.0-arm64.tar.gz
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0-arm64.tar.gz
-- name: teams-for-linux-2.16.0-armv7l.AppImage
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0-armv7l.AppImage
-- name: teams-for-linux-2.16.0-armv7l.tar.gz
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0-armv7l.tar.gz
-- name: teams-for-linux-2.16.0-mac.zip
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0-mac.zip
-- name: teams-for-linux-2.16.0-mac.zip.blockmap
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0-mac.zip.blockmap
-- name: teams-for-linux-2.16.0.aarch64.rpm
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.aarch64.rpm
-- name: teams-for-linux-2.16.0.AppImage
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.AppImage
-- name: teams-for-linux-2.16.0.armv7l.rpm
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.armv7l.rpm
-- name: teams-for-linux-2.16.0.dmg
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.dmg
-- name: teams-for-linux-2.16.0.dmg.blockmap
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.dmg.blockmap
-- name: teams-for-linux-2.16.0.tar.gz
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.tar.gz
-- name: teams-for-linux-2.16.0.x86_64.rpm
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-2.16.0.x86_64.rpm
-- name: teams-for-linux-Setup-2.16.0.exe
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-Setup-2.16.0.exe
-- name: teams-for-linux-Setup-2.16.0.exe.blockmap
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux-Setup-2.16.0.exe.blockmap
-- name: teams-for-linux_2.16.0_amd64.deb
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux_2.16.0_amd64.deb
-- name: teams-for-linux_2.16.0_arm64.deb
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux_2.16.0_arm64.deb
-- name: teams-for-linux_2.16.0_armv7l.deb
-  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.16.0/teams-for-linux_2.16.0_armv7l.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/latest.yml
+- name: teams-for-linux-2.17.0-arm64.AppImage
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0-arm64.AppImage
+- name: teams-for-linux-2.17.0-arm64.tar.gz
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0-arm64.tar.gz
+- name: teams-for-linux-2.17.0-armv7l.AppImage
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0-armv7l.AppImage
+- name: teams-for-linux-2.17.0-armv7l.tar.gz
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0-armv7l.tar.gz
+- name: teams-for-linux-2.17.0-mac.zip
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0-mac.zip
+- name: teams-for-linux-2.17.0-mac.zip.blockmap
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0-mac.zip.blockmap
+- name: teams-for-linux-2.17.0.aarch64.rpm
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.aarch64.rpm
+- name: teams-for-linux-2.17.0.AppImage
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.AppImage
+- name: teams-for-linux-2.17.0.armv7l.rpm
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.armv7l.rpm
+- name: teams-for-linux-2.17.0.dmg
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.dmg
+- name: teams-for-linux-2.17.0.dmg.blockmap
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.dmg.blockmap
+- name: teams-for-linux-2.17.0.tar.gz
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.tar.gz
+- name: teams-for-linux-2.17.0.x86_64.rpm
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-2.17.0.x86_64.rpm
+- name: teams-for-linux-Setup-2.17.0.exe
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-Setup-2.17.0.exe
+- name: teams-for-linux-Setup-2.17.0.exe.blockmap
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux-Setup-2.17.0.exe.blockmap
+- name: teams-for-linux_2.17.0_amd64.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux_2.17.0_amd64.deb
+- name: teams-for-linux_2.17.0_arm64.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux_2.17.0_arm64.deb
+- name: teams-for-linux_2.17.0_armv7l.deb
+  url: https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.17.0/teams-for-linux_2.17.0_armv7l.deb
 electron: 42.8.1
 method: src-package-lock
-electron_src: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.16.0.zip
+electron_src: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.17.0.zip
 evidence:
   kind: lockfile
-  found_in: teams-for-linux-2.16.0/package-lock.json
+  found_in: teams-for-linux-2.17.0/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.16.0.zip
+  source: https://github.com/IsmaelMartinez/teams-for-linux/archive/refs/tags/v2.17.0.zip
 homepage: true
 aur_votes: 100
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'

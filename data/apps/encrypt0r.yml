@@ -29,7 +29,7 @@ evidence:
   signal: electron pinned in yarn.lock
   reconstructed: true
 aur_votes: 1
-last_commit: '2026-08-19'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-deb.zip
   name: encrypt0r-linux-deb.zip

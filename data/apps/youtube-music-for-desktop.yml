@@ -54,7 +54,7 @@ evidence:
   found_in: YouTube-Music-for-Desktop-0.18.9-arm64.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-17'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://raw.githubusercontent.com/Venipa/ytmdesktop2/v0.18.9/LICENSE
   name: LICENSE

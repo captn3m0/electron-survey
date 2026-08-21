@@ -67,7 +67,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-08-18'
+last_commit: '2026-08-20'
 aur_downloads:
 - url: https://github.com/JannisX11/blockbench/releases/download/v5.1.4/Blockbench_5.1.4.deb
   name: Blockbench_5.1.4.deb

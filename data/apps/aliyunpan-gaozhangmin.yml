@@ -6,59 +6,57 @@ aur:
 - aliyunpan-gaozhangmin-bin
 electron: 21.4.4
 method: which-electron-rg
-latest: v5.0.20
-src: https://github.com/gaozhangmin/aliyunpan/archive/refs/tags/v5.0.20.zip
+latest: v5.0.22
+src: https://github.com/gaozhangmin/aliyunpan/archive/refs/tags/v5.0.22.zip
 downloads:
-- name: boxplayer-5.0.20-linux-aarch64.pacman
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-linux-aarch64.pacman
-- name: boxplayer-5.0.20-linux-amd64.deb
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-linux-amd64.deb
-- name: boxplayer-5.0.20-linux-arm64.AppImage
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-linux-arm64.AppImage
-- name: boxplayer-5.0.20-linux-arm64.deb
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-linux-arm64.deb
-- name: boxplayer-5.0.20-linux-x64.pacman
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-linux-x64.pacman
-- name: boxplayer-5.0.20-linux-x86_64.AppImage
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-linux-x86_64.AppImage
-- name: boxplayer-5.0.20-mac-arm64.dmg
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-arm64.dmg
-- name: boxplayer-5.0.20-mac-arm64.dmg.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-arm64.dmg.blockmap
-- name: boxplayer-5.0.20-mac-arm64.zip
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-arm64.zip
-- name: boxplayer-5.0.20-mac-arm64.zip.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-arm64.zip.blockmap
-- name: boxplayer-5.0.20-mac-x64.dmg
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-x64.dmg
-- name: boxplayer-5.0.20-mac-x64.dmg.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-x64.dmg.blockmap
-- name: boxplayer-5.0.20-mac-x64.zip
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-x64.zip
-- name: boxplayer-5.0.20-mac-x64.zip.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-mac-x64.zip.blockmap
-- name: boxplayer-5.0.20-win-arm64.exe
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-win-arm64.exe
-- name: boxplayer-5.0.20-win-arm64.exe.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-win-arm64.exe.blockmap
-- name: boxplayer-5.0.20-win-x64.exe
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-win-x64.exe
-- name: boxplayer-5.0.20-win-x64.exe.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-win-x64.exe.blockmap
-- name: boxplayer-5.0.20-win.exe
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-win.exe
-- name: boxplayer-5.0.20-win.exe.blockmap
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/boxplayer-5.0.20-win.exe.blockmap
-- name: BoxPlayer-v5.0.20-Release-Notes.md
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/BoxPlayer-v5.0.20-Release-Notes.md
+- name: boxplayer-5.0.22-linux-aarch64.pacman
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-aarch64.pacman
+- name: boxplayer-5.0.22-linux-amd64.deb
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-amd64.deb
+- name: boxplayer-5.0.22-linux-arm64.AppImage
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-arm64.AppImage
+- name: boxplayer-5.0.22-linux-arm64.deb
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-arm64.deb
+- name: boxplayer-5.0.22-linux-x64.pacman
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-x64.pacman
+- name: boxplayer-5.0.22-linux-x86_64.AppImage
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-x86_64.AppImage
+- name: boxplayer-5.0.22-mac-arm64.dmg
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-arm64.dmg
+- name: boxplayer-5.0.22-mac-arm64.dmg.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-arm64.dmg.blockmap
+- name: boxplayer-5.0.22-mac-arm64.zip
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-arm64.zip
+- name: boxplayer-5.0.22-mac-arm64.zip.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-arm64.zip.blockmap
+- name: boxplayer-5.0.22-mac-x64.dmg
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-x64.dmg
+- name: boxplayer-5.0.22-mac-x64.dmg.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-x64.dmg.blockmap
+- name: boxplayer-5.0.22-mac-x64.zip
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-x64.zip
+- name: boxplayer-5.0.22-mac-x64.zip.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-mac-x64.zip.blockmap
+- name: boxplayer-5.0.22-win-arm64.exe
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-win-arm64.exe
+- name: boxplayer-5.0.22-win-arm64.exe.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-win-arm64.exe.blockmap
+- name: boxplayer-5.0.22-win-x64.exe
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-win-x64.exe
+- name: boxplayer-5.0.22-win-x64.exe.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-win-x64.exe.blockmap
+- name: boxplayer-5.0.22-win.exe
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-win.exe
+- name: boxplayer-5.0.22-win.exe.blockmap
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-win.exe.blockmap
 - name: latest-linux-arm64.yml
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/latest-linux-arm64.yml
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/latest-linux.yml
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/latest-mac.yml
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.20/latest.yml
+  url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/latest.yml
 we_tried: we0:v5.0.5
 evidence:
   kind: binary
@@ -66,7 +64,7 @@ evidence:
   found_in: XBYDriver-3.13.5-linux-amd64.deb
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-18'
+last_commit: '2026-08-21'
 aur_downloads:
 - url: https://github.com/gaozhangmin/aliyunpan/releases/download/v3.13.5/XBYDriver-3.13.5-linux-amd64.deb
   name: XBYDriver-3.13.5-linux-amd64.deb
