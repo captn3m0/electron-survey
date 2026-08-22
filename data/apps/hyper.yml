@@ -81,7 +81,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-06-29'
+last_commit: '2026-08-21'
 aur_downloads:
 - url: https://github.com/zeit/hyper/releases/download/v3.4.1/Hyper_3.4.1_amd64.deb
   name: Hyper_3.4.1_amd64.deb

@@ -22,7 +22,7 @@ downloads:
 - name: latest.yml
   url: https://github.com/BTS-CM/astro-ui/releases/download/v0.5.60/latest.yml
 we_tried: we1.2.1+p1:v0.5.60
-last_commit: '2026-08-20'
+last_commit: '2026-08-22'
 aur_downloads:
 - url: https://github.com/BTS-CM/astro-ui/releases/download/v0.5.52/BTSAstroUI.deb
   name: BTSAstroUI.deb

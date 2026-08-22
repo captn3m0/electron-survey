@@ -6,18 +6,18 @@ aur:
 - map-download-git
 electron: 16.2.8
 method: aur-depends
-latest: v26.5.29-563
-src: https://github.com/Hxy1992/MapDownload/archive/refs/tags/v26.5.29-563.zip
+latest: v26.8.21-479
+src: https://github.com/Hxy1992/MapDownload/archive/refs/tags/v26.8.21-479.zip
 downloads:
 - name: latest.yml
-  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.5.29-563/latest.yml
-- name: map-download-Setup-26.5.29-563.exe
-  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.5.29-563/map-download-Setup-26.5.29-563.exe
-- name: map-download-Setup-26.5.29-563.exe.blockmap
-  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.5.29-563/map-download-Setup-26.5.29-563.exe.blockmap
+  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.8.21-479/latest.yml
+- name: map-download-Setup-26.8.21-479.exe
+  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.8.21-479/map-download-Setup-26.8.21-479.exe
+- name: map-download-Setup-26.8.21-479.exe.blockmap
+  url: https://github.com/Hxy1992/MapDownload/releases/download/v26.8.21-479/map-download-Setup-26.8.21-479.exe.blockmap
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/map-download-git
   found_in: map-download-git
   signal: depends on electron16; reported as the newest 16.x release (16.2.8)
-last_commit: '2026-08-20'
+last_commit: '2026-08-21'

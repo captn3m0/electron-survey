@@ -21,68 +21,68 @@ aur:
 - drawio
 homebrew: drawio
 downloads:
-- name: draw.io-31.1.8-windows-installer.exe
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-31.1.8-windows-installer.exe
-- name: draw.io-31.1.8-windows-installer.exe.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-31.1.8-windows-installer.exe.blockmap
-- name: draw.io-31.1.8-windows.zip
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-31.1.8-windows.zip
-- name: draw.io-31.1.8.msi
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-31.1.8.msi
-- name: draw.io-arm64-31.1.8-windows-arm64-installer.exe
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8-windows-arm64-installer.exe
-- name: draw.io-arm64-31.1.8-windows-arm64-installer.exe.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8-windows-arm64-installer.exe.blockmap
-- name: draw.io-arm64-31.1.8-windows-arm64-no-installer.exe
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8-windows-arm64-no-installer.exe
-- name: draw.io-arm64-31.1.8.dmg
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8.dmg
-- name: draw.io-arm64-31.1.8.dmg.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8.dmg.blockmap
-- name: draw.io-arm64-31.1.8.zip
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8.zip
-- name: draw.io-arm64-31.1.8.zip.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-arm64-31.1.8.zip.blockmap
-- name: draw.io-ia32-31.1.8-windows-32bit-installer.exe
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-ia32-31.1.8-windows-32bit-installer.exe
-- name: draw.io-ia32-31.1.8-windows-32bit-installer.exe.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-ia32-31.1.8-windows-32bit-installer.exe.blockmap
-- name: draw.io-universal-31.1.8.dmg
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-universal-31.1.8.dmg
-- name: draw.io-universal-31.1.8.dmg.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-universal-31.1.8.dmg.blockmap
-- name: draw.io-x64-31.1.8.dmg
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-x64-31.1.8.dmg
-- name: draw.io-x64-31.1.8.dmg.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-x64-31.1.8.dmg.blockmap
-- name: draw.io-x64-31.1.8.zip
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-x64-31.1.8.zip
-- name: draw.io-x64-31.1.8.zip.blockmap
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/draw.io-x64-31.1.8.zip.blockmap
-- name: drawio-aarch64-31.1.8.rpm
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/drawio-aarch64-31.1.8.rpm
-- name: drawio-amd64-31.1.8.deb
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/drawio-amd64-31.1.8.deb
-- name: drawio-arm64-31.1.8.AppImage
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/drawio-arm64-31.1.8.AppImage
-- name: drawio-arm64-31.1.8.deb
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/drawio-arm64-31.1.8.deb
-- name: drawio-x86_64-31.1.8.AppImage
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/drawio-x86_64-31.1.8.AppImage
-- name: drawio-x86_64-31.1.8.rpm
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/drawio-x86_64-31.1.8.rpm
+- name: draw.io-31.3.1-windows-installer.exe
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-31.3.1-windows-installer.exe
+- name: draw.io-31.3.1-windows-installer.exe.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-31.3.1-windows-installer.exe.blockmap
+- name: draw.io-31.3.1-windows.zip
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-31.3.1-windows.zip
+- name: draw.io-31.3.1.msi
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-31.3.1.msi
+- name: draw.io-arm64-31.3.1-windows-arm64-installer.exe
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1-windows-arm64-installer.exe
+- name: draw.io-arm64-31.3.1-windows-arm64-installer.exe.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1-windows-arm64-installer.exe.blockmap
+- name: draw.io-arm64-31.3.1-windows-arm64-no-installer.exe
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1-windows-arm64-no-installer.exe
+- name: draw.io-arm64-31.3.1.dmg
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1.dmg
+- name: draw.io-arm64-31.3.1.dmg.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1.dmg.blockmap
+- name: draw.io-arm64-31.3.1.zip
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1.zip
+- name: draw.io-arm64-31.3.1.zip.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-arm64-31.3.1.zip.blockmap
+- name: draw.io-ia32-31.3.1-windows-32bit-installer.exe
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-ia32-31.3.1-windows-32bit-installer.exe
+- name: draw.io-ia32-31.3.1-windows-32bit-installer.exe.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-ia32-31.3.1-windows-32bit-installer.exe.blockmap
+- name: draw.io-universal-31.3.1.dmg
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-universal-31.3.1.dmg
+- name: draw.io-universal-31.3.1.dmg.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-universal-31.3.1.dmg.blockmap
+- name: draw.io-x64-31.3.1.dmg
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-x64-31.3.1.dmg
+- name: draw.io-x64-31.3.1.dmg.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-x64-31.3.1.dmg.blockmap
+- name: draw.io-x64-31.3.1.zip
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-x64-31.3.1.zip
+- name: draw.io-x64-31.3.1.zip.blockmap
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/draw.io-x64-31.3.1.zip.blockmap
+- name: drawio-aarch64-31.3.1.rpm
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/drawio-aarch64-31.3.1.rpm
+- name: drawio-amd64-31.3.1.deb
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/drawio-amd64-31.3.1.deb
+- name: drawio-arm64-31.3.1.AppImage
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/drawio-arm64-31.3.1.AppImage
+- name: drawio-arm64-31.3.1.deb
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/drawio-arm64-31.3.1.deb
+- name: drawio-x86_64-31.3.1.AppImage
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/drawio-x86_64-31.3.1.AppImage
+- name: drawio-x86_64-31.3.1.rpm
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/drawio-x86_64-31.3.1.rpm
 - name: latest-linux-arm64.yml
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/latest-linux-arm64.yml
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/latest-linux.yml
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/latest-mac.yml
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.1.8/latest.yml
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.3.1/latest.yml
 electron: 42.7.1
 method: which-electron-rg
-latest: v31.1.8
-src: https://github.com/jgraph/drawio-desktop/archive/refs/tags/v31.1.8.zip
+latest: v31.3.1
+src: https://github.com/jgraph/drawio-desktop/archive/refs/tags/v31.3.1.zip
 evidence:
   kind: binary
   source: https://github.com/jgraph/drawio-desktop/releases/download/v30.4.1/drawio-aarch64-30.4.1.rpm

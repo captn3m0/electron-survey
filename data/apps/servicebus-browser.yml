@@ -6,23 +6,23 @@ aur:
 - servicebus-browser-bin
 electron: 43.1.1
 method: which-electron-rg
-latest: 2.3.2
-src: https://github.com/mligtenberg/ServicebusBrowser/archive/refs/tags/2.3.2.zip
+latest: 2.4.0
+src: https://github.com/mligtenberg/ServicebusBrowser/archive/refs/tags/2.4.0.zip
 downloads:
 - name: servicebus-browser-linux.AppImage
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-linux.AppImage
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.4.0/servicebus-browser-linux.AppImage
 - name: servicebus-browser-mac-arm64.dmg
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-mac-arm64.dmg
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.4.0/servicebus-browser-mac-arm64.dmg
 - name: servicebus-browser-mac-arm64.zip
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-mac-arm64.zip
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.4.0/servicebus-browser-mac-arm64.zip
 - name: servicebus-browser-windows.exe
-  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.2/servicebus-browser-windows.exe
+  url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.4.0/servicebus-browser-windows.exe
 evidence:
   kind: binary
   source: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.1/servicebus-browser-linux.AppImage
   found_in: servicebus-browser-linux.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-11'
+last_commit: '2026-08-21'
 aur_downloads:
 - url: https://github.com/mligtenberg/ServicebusBrowser/releases/download/2.3.1/servicebus-browser-linux.AppImage
   name: servicebus-browser-linux.AppImage

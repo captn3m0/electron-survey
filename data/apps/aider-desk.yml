@@ -70,7 +70,7 @@ downloads:
   url: https://github.com/hotovo/aider-desk/releases/download/v0.79.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/hotovo/aider-desk/releases/download/v0.79.0/latest.yml
-last_commit: '2026-08-21'
+last_commit: '2026-08-22'
 evidence:
   kind: binary
   source: https://github.com/hotovo/aider-desk/releases/download/v0.76.0/aider-desk-0.76.0.aarch64.rpm

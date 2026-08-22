@@ -29,6 +29,8 @@ downloads:
   url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced-1.2.0.dmg
 - name: Stremio.Enhanced.Setup.1.2.0.exe
   url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/Stremio.Enhanced.Setup.1.2.0.exe
+- name: win-arm64-unpacked.zip
+  url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/win-arm64-unpacked.zip
 - name: win-unpacked-x64.zip
   url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/win-unpacked-x64.zip
 aur_votes: 1

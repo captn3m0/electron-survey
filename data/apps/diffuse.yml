@@ -26,7 +26,7 @@ aur:
 - diffuse-player-bin
 name: Diffuse
 aur_votes: 1
-last_commit: '2026-08-20'
+last_commit: '2026-08-21'
 aur_downloads:
 - url: https://github.com/icidasset/diffuse/releases/download/3.5.0/diffuse-3.5.0-1.x86_64.rpm
   name: diffuse-3.5.0-1.x86_64.rpm

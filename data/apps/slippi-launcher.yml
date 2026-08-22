@@ -38,7 +38,7 @@ evidence:
   found_in: Slippi-Launcher-2.11.10-x86_64.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-11'
+last_commit: '2026-08-22'
 aur_downloads:
 - url: https://github.com/project-slippi/slippi-launcher/releases/download/v2.11.10/Slippi-Launcher-2.11.10-x86_64.AppImage
   name: Slippi-Launcher-2.11.10-x86_64.AppImage
