@@ -1114,7 +1114,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Palletone](https://palletone-demo.vercel.app/) | 28.3.3 ⚠️ | 2y 3mo ago | aur-depends |
 | [PanWriter](https://panwriter.com) [[repo]](https://github.com/mb21/panwriter) | 39.2.7 ⚠️ | 8mo ago | src-package-lock |
 | [Panda](https://github.com/GHchenjingqi/panda) [[repo]](https://github.com/GHchenjingqi/panda) | 35.7.5 ⚠️ | 1y ago | aur-depends |
-| [Pandora Box](https://github.com/snakem982/Pandora-Box) [[repo]](https://github.com/snakem982/Pandora-Box) | 41.10.2 ⚠️ | 1mo ago | aur-depends |
+| [Pandora Box](https://github.com/snakem982/Pandora-Box) [[repo]](https://github.com/snakem982/Pandora-Box) | 41.1.0 ⚠️ | 4mo ago | which-electron-rg |
 | [Panfu](https://www.panfu.us/download) | 11.5.0 ⚠️ | 5y ago | aur-depends |
 | [PaperArxiv](https://github.com/fuzihaofzh/PaperArxiv) [[repo]](https://github.com/fuzihaofzh/PaperArxiv) | 33.4.11 ⚠️ | 1y 4mo ago | src-package-lock |
 | [PaperCubes](https://github.com/FlorianFe/PaperCubes) [[repo]](https://github.com/FlorianFe/PaperCubes) | 1.7.8 ⚠️ | 9y ago | src-package-lock |
@@ -1495,7 +1495,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Taskbookly](https://github.com/TaskBookly/app) [[repo]](https://github.com/TaskBookly/app) | 36.3.1 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Tasker Permissions](https://github.com/joaomgcd/Tasker-Permissions) [[repo]](https://github.com/joaomgcd/Tasker-Permissions) | 13.6.9 ⚠️ | 4y 7mo ago | which-electron-fingerprint |
 | [Tcgtools](https://github.com/Kazbonfim/tcgtools) [[repo]](https://github.com/Kazbonfim/tcgtools) | 34.0.1 ⚠️ | 1y 7mo ago | which-electron-rg |
-| [Teamide](https://github.com/team-ide/teamide) [[repo]](https://github.com/team-ide/teamide) | 22.0.1 ⚠️ | 3y 7mo ago | which-electron-rg |
+| [Teamide](https://github.com/team-ide/teamide) [[repo]](https://github.com/team-ide/teamide) | 22.0.1 ⚠️ | 3y 8mo ago | which-electron-rg |
 | [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) [[repo]](https://github.com/IsmaelMartinez/teams-for-linux) | 42.8.1 ⚠️ | 18d ago | src-package-lock |
 | [Teamwork](https://integrations.teamwork.com/integrations/teamwork-projects-desktop/) | 26.6.10 ⚠️ | 2y 6mo ago | aur-depends |
 | [Telegram A](https://web.telegram.org/a/get/) | 22.3.27 ⚠️ | 2y 10mo ago | which-electron-rg |

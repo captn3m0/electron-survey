@@ -26,4 +26,4 @@ evidence:
   source: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg
   found_in: FusionKit_0.2.11.dmg
   signal: which-electron rg signal
-last_commit: '2026-08-21'
+last_commit: '2026-08-22'

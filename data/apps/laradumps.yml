@@ -28,7 +28,7 @@ electron: 38.1.0
 aur:
 - laradumps-bin
 name: LaraDumps
-last_commit: '2026-08-21'
+last_commit: '2026-08-22'
 aur_downloads:
 - url: https://github.com/laradumps/app/releases/download/v4.14.2/LaraDumps-4.14.2.AppImage
   name: LaraDumps-4.14.2.AppImage

@@ -37,7 +37,7 @@ evidence:
   found_in: MangaBox-0.4.6-Linux-x86_64.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-14'
+last_commit: '2026-08-22'
 aur_downloads:
 - url: https://github.com/zpaolo11x/mangabox/releases/download/v0.4.6/MangaBox-0.4.6-Linux-x86_64.AppImage
   name: MangaBox-0.4.6-Linux-x86_64.AppImage

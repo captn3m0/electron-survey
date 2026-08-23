@@ -26,7 +26,7 @@ evidence:
   source: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0.AppImage
   found_in: harmony-1.6.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-05-27'
+last_commit: '2026-08-23'
 aur_downloads:
 - url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0.AppImage
   name: harmony-1.6.0.AppImage

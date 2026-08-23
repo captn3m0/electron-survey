@@ -48,7 +48,7 @@ packages:
   os: macos
   arch: arm64
 aur_votes: 1
-brew_installs: 10
+brew_installs: 100
 last_commit: '2026-08-21'
 evidence:
   kind: binary

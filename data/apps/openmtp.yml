@@ -14,19 +14,19 @@ packages:
 homebrew: openmtp
 downloads:
 - name: latest-mac.yml
-  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/latest-mac.yml
-- name: openmtp-3.2.25-mac-arm64.dmg
-  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.dmg
-- name: openmtp-3.2.25-mac-arm64.zip
-  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.zip
-- name: openmtp-3.2.25-mac-x64.dmg
-  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-x64.dmg
-- name: openmtp-3.2.25-mac-x64.zip
-  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-x64.zip
+  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.3.0/latest-mac.yml
+- name: openmtp-3.3.0-mac-arm64.dmg
+  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.3.0/openmtp-3.3.0-mac-arm64.dmg
+- name: openmtp-3.3.0-mac-arm64.zip
+  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.3.0/openmtp-3.3.0-mac-arm64.zip
+- name: openmtp-3.3.0-mac-x64.dmg
+  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.3.0/openmtp-3.3.0-mac-x64.dmg
+- name: openmtp-3.3.0-mac-x64.zip
+  url: https://github.com/ganeshrvel/openmtp/releases/download/v3.3.0/openmtp-3.3.0-mac-x64.zip
 electron: 18.3.15
 method: which-electron-rg
-latest: v3.2.25
-src: https://github.com/ganeshrvel/openmtp/archive/refs/tags/v3.2.25.zip
+latest: v3.3.0
+src: https://github.com/ganeshrvel/openmtp/archive/refs/tags/v3.3.0.zip
 evidence:
   kind: binary
   source: https://github.com/ganeshrvel/openmtp/releases/download/v3.2.25/openmtp-3.2.25-mac-arm64.zip
@@ -34,4 +34,4 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
-last_commit: '2025-08-12'
+last_commit: '2026-08-22'

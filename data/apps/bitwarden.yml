@@ -63,7 +63,7 @@ src: https://github.com/bitwarden/clients/archive/refs/tags/cli-v2026.8.0.zip
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-08-22'
+last_commit: '2026-08-23'
 aur_downloads:
 - url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/Bitwarden-2026.7.0-amd64.deb
   name: Bitwarden-2026.7.0-amd64.deb
