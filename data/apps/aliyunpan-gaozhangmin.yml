@@ -6,8 +6,8 @@ aur:
 - aliyunpan-gaozhangmin-bin
 electron: 21.4.4
 method: which-electron-rg
-latest: v5.0.22
-src: https://github.com/gaozhangmin/aliyunpan/archive/refs/tags/v5.0.22.zip
+latest: v5.0.23
+src: https://github.com/gaozhangmin/aliyunpan/archive/refs/tags/v5.0.23.zip
 downloads:
 - name: boxplayer-5.0.22-linux-aarch64.pacman
   url: https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.22/boxplayer-5.0.22-linux-aarch64.pacman

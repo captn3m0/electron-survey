@@ -36,7 +36,7 @@ evidence:
   source: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
   found_in: Jasper-1.1.16.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-20'
+last_commit: '2026-08-23'
 aur_downloads:
 - url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
   name: Jasper-1.1.16.AppImage

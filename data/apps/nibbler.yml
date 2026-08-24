@@ -14,7 +14,7 @@ downloads:
 electron: 9.4.4
 method: which-electron-version_file
 aur_votes: 1
-last_commit: '2026-07-02'
+last_commit: '2026-08-23'
 evidence:
   kind: binary
   source: https://github.com/rooklift/nibbler/releases/download/v2.5.8/nibbler-2.5.8-linux.zip

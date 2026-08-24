@@ -6,21 +6,21 @@ aur:
 - harmony-bin
 electron: 33.4.11
 method: which-electron-rg
-latest: v1.6.0
-src: https://github.com/jvegaf/harmony/archive/refs/tags/v1.6.0.zip
+latest: v1.6.4
+src: https://github.com/jvegaf/harmony/archive/refs/tags/v1.6.4.zip
 downloads:
-- name: harmony-1.6.0-setup.exe
-  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0-setup.exe
-- name: harmony-1.6.0-setup.exe.blockmap
-  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0-setup.exe.blockmap
-- name: harmony-1.6.0.AppImage
-  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0.AppImage
-- name: harmony_1.6.0_amd64.deb
-  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony_1.6.0_amd64.deb
+- name: harmony-1.6.4-setup.exe
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.4/harmony-1.6.4-setup.exe
+- name: harmony-1.6.4-setup.exe.blockmap
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.4/harmony-1.6.4-setup.exe.blockmap
+- name: harmony-1.6.4.AppImage
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.4/harmony-1.6.4.AppImage
+- name: harmony_1.6.4_amd64.deb
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.4/harmony_1.6.4_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/latest-linux.yml
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.4/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/jvegaf/harmony/releases/download/v1.6.0/latest.yml
+  url: https://github.com/jvegaf/harmony/releases/download/v1.6.4/latest.yml
 evidence:
   kind: binary
   source: https://github.com/jvegaf/harmony/releases/download/v1.6.0/harmony-1.6.0.AppImage

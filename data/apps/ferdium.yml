@@ -42,74 +42,76 @@ electron: 37.6.0
 method: which-electron-rg
 homebrew: ferdium
 downloads:
-- name: Ferdium-linux-7.2.1-aarch64.rpm
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1-aarch64.rpm
-- name: Ferdium-linux-7.2.1-amd64.deb
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1-amd64.deb
-- name: Ferdium-linux-7.2.1-arm64.deb
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1-arm64.deb
-- name: Ferdium-linux-7.2.1-armv7l.deb
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1-armv7l.deb
-- name: Ferdium-linux-7.2.1-x86_64.rpm
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1-x86_64.rpm
-- name: Ferdium-linux-7.2.1.freebsd
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1.freebsd
-- name: Ferdium-linux-7.2.1.tar.gz
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-7.2.1.tar.gz
-- name: Ferdium-linux-Portable-7.2.1-x86_64.AppImage
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-linux-Portable-7.2.1-x86_64.AppImage
-- name: Ferdium-mac-7.2.1-arm64.dmg
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-7.2.1-arm64.dmg
-- name: Ferdium-mac-7.2.1-arm64.dmg.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-7.2.1-arm64.dmg.blockmap
-- name: Ferdium-mac-7.2.1-x64.dmg
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-7.2.1-x64.dmg
-- name: Ferdium-mac-7.2.1-x64.dmg.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-7.2.1-x64.dmg.blockmap
-- name: Ferdium-mac-bundle-7.2.1-arm64.zip
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-bundle-7.2.1-arm64.zip
-- name: Ferdium-mac-bundle-7.2.1-arm64.zip.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-bundle-7.2.1-arm64.zip.blockmap
-- name: Ferdium-mac-bundle-7.2.1-x64.zip
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-bundle-7.2.1-x64.zip
-- name: Ferdium-mac-bundle-7.2.1-x64.zip.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-mac-bundle-7.2.1-x64.zip.blockmap
-- name: Ferdium-win-AutoSetup-7.2.1-arm64.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1-arm64.exe
-- name: Ferdium-win-AutoSetup-7.2.1-arm64.exe.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1-arm64.exe.blockmap
-- name: Ferdium-win-AutoSetup-7.2.1-ia32.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1-ia32.exe
-- name: Ferdium-win-AutoSetup-7.2.1-ia32.exe.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1-ia32.exe.blockmap
-- name: Ferdium-win-AutoSetup-7.2.1-x64.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1-x64.exe
-- name: Ferdium-win-AutoSetup-7.2.1-x64.exe.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1-x64.exe.blockmap
-- name: Ferdium-win-AutoSetup-7.2.1.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1.exe
-- name: Ferdium-win-AutoSetup-7.2.1.exe.blockmap
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-AutoSetup-7.2.1.exe.blockmap
-- name: Ferdium-win-Portable-7.2.1-arm64.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-Portable-7.2.1-arm64.exe
-- name: Ferdium-win-Portable-7.2.1-ia32.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-Portable-7.2.1-ia32.exe
-- name: Ferdium-win-Portable-7.2.1-x64.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-Portable-7.2.1-x64.exe
-- name: Ferdium-win-Portable-7.2.1.exe
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/Ferdium-win-Portable-7.2.1.exe
+- name: Ferdium-linux-7.2.2-aarch64.rpm
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2-aarch64.rpm
+- name: Ferdium-linux-7.2.2-amd64.deb
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2-amd64.deb
+- name: Ferdium-linux-7.2.2-arm64.deb
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2-arm64.deb
+- name: Ferdium-linux-7.2.2-armv7l.deb
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2-armv7l.deb
+- name: Ferdium-linux-7.2.2-x86_64.rpm
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2-x86_64.rpm
+- name: Ferdium-linux-7.2.2.freebsd
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2.freebsd
+- name: Ferdium-linux-7.2.2.tar.gz
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-7.2.2.tar.gz
+- name: Ferdium-linux-Portable-7.2.2-x86_64.AppImage
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-linux-Portable-7.2.2-x86_64.AppImage
+- name: Ferdium-mac-7.2.2-arm64.dmg
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-7.2.2-arm64.dmg
+- name: Ferdium-mac-7.2.2-arm64.dmg.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-7.2.2-arm64.dmg.blockmap
+- name: Ferdium-mac-7.2.2-x64.dmg
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-7.2.2-x64.dmg
+- name: Ferdium-mac-7.2.2-x64.dmg.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-7.2.2-x64.dmg.blockmap
+- name: Ferdium-mac-bundle-7.2.2-arm64.zip
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-bundle-7.2.2-arm64.zip
+- name: Ferdium-mac-bundle-7.2.2-arm64.zip.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-bundle-7.2.2-arm64.zip.blockmap
+- name: Ferdium-mac-bundle-7.2.2-x64.zip
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-bundle-7.2.2-x64.zip
+- name: Ferdium-mac-bundle-7.2.2-x64.zip.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-mac-bundle-7.2.2-x64.zip.blockmap
+- name: Ferdium-win-AutoSetup-7.2.2-arm64.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-arm64.exe
+- name: Ferdium-win-AutoSetup-7.2.2-arm64.exe.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-arm64.exe.blockmap
+- name: Ferdium-win-AutoSetup-7.2.2-ia32.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-ia32.exe
+- name: Ferdium-win-AutoSetup-7.2.2-ia32.exe.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-ia32.exe.blockmap
+- name: Ferdium-win-AutoSetup-7.2.2-x64.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-x64.exe
+- name: Ferdium-win-AutoSetup-7.2.2-x64.exe.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-x64.exe.blockmap
+- name: Ferdium-win-AutoSetup-7.2.2.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2.exe
+- name: Ferdium-win-AutoSetup-7.2.2.exe.blockmap
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2.exe.blockmap
+- name: Ferdium-win-Installer-7.2.2-arm64.zip
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-Installer-7.2.2-arm64.zip
+- name: Ferdium-win-Portable-7.2.2-arm64.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-Portable-7.2.2-arm64.exe
+- name: Ferdium-win-Portable-7.2.2-ia32.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-Portable-7.2.2-ia32.exe
+- name: Ferdium-win-Portable-7.2.2-x64.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-Portable-7.2.2-x64.exe
+- name: Ferdium-win-Portable-7.2.2.exe
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-Portable-7.2.2.exe
 - name: latest-linux-arm.yml
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/latest-linux-arm.yml
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/latest-linux-arm.yml
 - name: latest-linux-arm64.yml
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/latest-linux-arm64.yml
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/latest-linux.yml
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/latest-mac.yml
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.1/latest.yml
-latest: v7.2.1
-src: https://github.com/ferdium/ferdium-app/archive/refs/tags/v7.2.1.zip
+  url: https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/latest.yml
+latest: v7.2.2
+src: https://github.com/ferdium/ferdium-app/archive/refs/tags/v7.2.2.zip
 evidence:
   kind: binary
   source: https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-linux-7.1.2-aarch64.rpm
@@ -118,7 +120,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-08-22'
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-linux-7.1.2-amd64.deb
   name: Ferdium-linux-7.1.2-amd64.deb

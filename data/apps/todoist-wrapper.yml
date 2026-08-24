@@ -6,15 +6,15 @@ aur:
 - todoist-wrapper-bin
 electron: 41.10.3
 method: which-electron-rg
-latest: v4.20260822013121
-src: https://github.com/conjfrnk/todoist-wrapper/archive/refs/tags/v4.20260822013121.zip
+latest: v4.20260823014232
+src: https://github.com/conjfrnk/todoist-wrapper/archive/refs/tags/v4.20260823014232.zip
 downloads:
-- name: todoist-wrapper-4.20260822013121-1.x86_64.rpm
-  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260822013121/todoist-wrapper-4.20260822013121-1.x86_64.rpm
+- name: todoist-wrapper-4.20260823014232-1.x86_64.rpm
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260823014232/todoist-wrapper-4.20260823014232-1.x86_64.rpm
 - name: todoist-wrapper-latest.rpm
-  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260822013121/todoist-wrapper-latest.rpm
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260823014232/todoist-wrapper-latest.rpm
 - name: todoist-wrapper-linux-x64.zip
-  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260822013121/todoist-wrapper-linux-x64.zip
+  url: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260823014232/todoist-wrapper-linux-x64.zip
 evidence:
   kind: binary
   source: https://github.com/conjfrnk/todoist-wrapper/releases/download/v4.20260722031623/todoist-wrapper-4.20260722031623-1.x86_64.rpm

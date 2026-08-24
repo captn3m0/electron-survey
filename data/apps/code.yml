@@ -15,4 +15,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/microsoft/vscode/archive/refs/tags/1.134.0.zip
 aur_votes: 10
-last_commit: '2026-08-23'
+last_commit: '2026-08-24'

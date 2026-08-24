@@ -1,33 +1,33 @@
 id: min
 repository: https://github.com/minbrowser/min
 website: https://minbrowser.org/
-latest: v1.35.6
-src: https://github.com/minbrowser/min/archive/refs/tags/v1.35.6.zip
+latest: v1.35.7
+src: https://github.com/minbrowser/min/archive/refs/tags/v1.35.7.zip
 downloads:
-- name: min-1.35.6-amd64.deb
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-amd64.deb
-- name: min-1.35.6-arm64-setup.exe
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-arm64-setup.exe
-- name: min-1.35.6-arm64.deb
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-arm64.deb
-- name: min-1.35.6-armv7l.deb
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-armv7l.deb
-- name: min-1.35.6-ia32-setup.exe
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-ia32-setup.exe
-- name: min-1.35.6-setup.exe
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-setup.exe
-- name: min-1.35.6-x86_64.rpm
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-x86_64.rpm
-- name: min-v1.35.6-mac-arm64.zip
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-v1.35.6-mac-arm64.zip
-- name: min-v1.35.6-mac-x86.zip
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-v1.35.6-mac-x86.zip
-- name: Min-v1.35.6-windows-arm64.zip
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows-arm64.zip
-- name: Min-v1.35.6-windows-ia32.zip
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows-ia32.zip
-- name: Min-v1.35.6-windows.zip
-  url: https://github.com/minbrowser/min/releases/download/v1.35.6/Min-v1.35.6-windows.zip
+- name: min-1.35.7-amd64.deb
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-amd64.deb
+- name: min-1.35.7-arm64-setup.exe
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-arm64-setup.exe
+- name: min-1.35.7-arm64.deb
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-arm64.deb
+- name: min-1.35.7-armv7l.deb
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-armv7l.deb
+- name: min-1.35.7-ia32-setup.exe
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-ia32-setup.exe
+- name: min-1.35.7-setup.exe
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-setup.exe
+- name: min-1.35.7-x86_64.rpm
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-1.35.7-x86_64.rpm
+- name: min-v1.35.7-mac-arm64.zip
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-v1.35.7-mac-arm64.zip
+- name: min-v1.35.7-mac-x86.zip
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/min-v1.35.7-mac-x86.zip
+- name: Min-v1.35.7-windows-arm64.zip
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows-arm64.zip
+- name: Min-v1.35.7-windows-ia32.zip
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows-ia32.zip
+- name: Min-v1.35.7-windows.zip
+  url: https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows.zip
 electron: 40.6.1
 aur:
 - min
@@ -47,7 +47,7 @@ aur_votes: 10
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-09'
+last_commit: '2026-08-23'
 aur_downloads:
 - url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-arm64.deb
   name: min-1.35.6-arm64.deb

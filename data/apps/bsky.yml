@@ -53,7 +53,7 @@ evidence:
   source: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_x86_64.rpm
   found_in: bsky-electron_v0.6.0_linux_x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-17'
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/CaffeeLake/bsky-electron/releases/download/v0.6.0/bsky-electron_v0.6.0_linux_aarch64.rpm
   name: bsky-electron_v0.6.0_linux_aarch64.rpm
