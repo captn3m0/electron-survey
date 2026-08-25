@@ -1,25 +1,25 @@
 id: display-dj
 repository: https://github.com/synle/display-dj
 website: https://synle.github.io/display-dj/
-latest: v7.1.0
-src: https://github.com/synle/display-dj/archive/refs/tags/v7.1.0.zip
+latest: v7.2.0
+src: https://github.com/synle/display-dj/archive/refs/tags/v7.2.0.zip
 downloads:
-- name: Display.DJ_7.1.0_aarch64.AppImage
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_aarch64.AppImage
-- name: Display.DJ_7.1.0_aarch64.dmg
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_aarch64.dmg
-- name: Display.DJ_7.1.0_amd64.AppImage
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_amd64.AppImage
-- name: Display.DJ_7.1.0_amd64.deb
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_amd64.deb
-- name: Display.DJ_7.1.0_arm64-setup.exe
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_arm64-setup.exe
-- name: Display.DJ_7.1.0_arm64.deb
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_arm64.deb
-- name: Display.DJ_7.1.0_x64-setup.exe
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_x64-setup.exe
-- name: Display.DJ_7.1.0_x64.dmg
-  url: https://github.com/synle/display-dj/releases/download/v7.1.0/Display.DJ_7.1.0_x64.dmg
+- name: Display.DJ_7.2.0_aarch64.AppImage
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_aarch64.AppImage
+- name: Display.DJ_7.2.0_aarch64.dmg
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_aarch64.dmg
+- name: Display.DJ_7.2.0_amd64.AppImage
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_amd64.AppImage
+- name: Display.DJ_7.2.0_amd64.deb
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_amd64.deb
+- name: Display.DJ_7.2.0_arm64-setup.exe
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_arm64-setup.exe
+- name: Display.DJ_7.2.0_arm64.deb
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_arm64.deb
+- name: Display.DJ_7.2.0_x64-setup.exe
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_x64-setup.exe
+- name: Display.DJ_7.2.0_x64.dmg
+  url: https://github.com/synle/display-dj/releases/download/v7.2.0/Display.DJ_7.2.0_x64.dmg
 electron: 19.1.9
 method: src-range-guess
 aur:
@@ -32,7 +32,7 @@ evidence:
   signal: no lockfile; a package.json range was resolved to its highest known match
   reconstructed: true
 aur_votes: 1
-last_commit: '2026-08-24'
+last_commit: '2026-08-25'
 aur_downloads:
 - url: https://github.com/synle/sqlui-native/releases/download/v3.1.9/sqlui-native_3.1.9_amd64.deb
   name: sqlui-native_3.1.9_amd64.deb
@@ -42,4 +42,4 @@ aur_downloads:
   name: LICENSE.md
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:v7.1.0
+we_tried: we1.2.1+p1:v7.2.0

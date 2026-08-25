@@ -6,26 +6,26 @@ aur:
 - stremio-web-desktop-bin
 electron: 33.2.1
 method: which-electron-rg
-latest: v643
-src: https://github.com/Zaarrg/stremio-web-desktop/archive/refs/tags/v643.zip
+latest: v646
+src: https://github.com/Zaarrg/stremio-web-desktop/archive/refs/tags/v646.zip
 downloads:
 - name: stremio-web-desktop-1.0.0-1.x86_64.rpm
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v643/stremio-web-desktop-1.0.0-1.x86_64.rpm
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v646/stremio-web-desktop-1.0.0-1.x86_64.rpm
 - name: stremio-web-desktop-1.0.0-arm64.dmg
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v643/stremio-web-desktop-1.0.0-arm64.dmg
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v646/stremio-web-desktop-1.0.0-arm64.dmg
 - name: stremio-web-desktop-1.0.0.Setup.exe
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v643/stremio-web-desktop-1.0.0.Setup.exe
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v646/stremio-web-desktop-1.0.0.Setup.exe
 - name: stremio-web-desktop-win32-x64.zip
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v643/stremio-web-desktop-win32-x64.zip
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v646/stremio-web-desktop-win32-x64.zip
 - name: stremio-web-desktop_1.0.0_amd64.deb
-  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v643/stremio-web-desktop_1.0.0_amd64.deb
+  url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v646/stremio-web-desktop_1.0.0_amd64.deb
 evidence:
   kind: binary
   source: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-1.0.0-1.x86_64.rpm
   found_in: stremio-web-desktop-1.0.0-1.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-22'
+last_commit: '2026-08-25'
 aur_downloads:
 - url: https://github.com/Zaarrg/stremio-web-desktop/releases/download/v612/stremio-web-desktop-1.0.0-1.x86_64.rpm
   name: stremio-web-desktop-1.0.0-1.x86_64.rpm

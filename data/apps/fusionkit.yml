@@ -6,21 +6,19 @@ aur:
 - fusionkit-git
 electron: 33.4.11
 method: which-electron-rg
-latest: v0.2.11
-src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.2.11.zip
+latest: v0.3.0
+src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.3.0.zip
 downloads:
-- name: FusionKit_0.2.11.dmg
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg
-- name: FusionKit_0.2.11.dmg.blockmap
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg.blockmap
-- name: FusionKit_0.2.11.exe
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.exe
-- name: FusionKit_0.2.11.exe.blockmap
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.exe.blockmap
+- name: FusionKit_0.3.0_arm64.dmg
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.3.0/FusionKit_0.3.0_arm64.dmg
+- name: FusionKit_0.3.0_arm64.zip
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.3.0/FusionKit_0.3.0_arm64.zip
+- name: FusionKit_0.3.0_x64.exe
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.3.0/FusionKit_0.3.0_x64.exe
 - name: latest-mac.yml
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/latest-mac.yml
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.3.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/latest.yml
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.3.0/latest.yml
 evidence:
   kind: binary
   source: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg

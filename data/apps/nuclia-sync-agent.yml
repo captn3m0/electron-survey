@@ -22,7 +22,7 @@ evidence:
   source: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm
   found_in: nuclia-sync-agent-1.9.10-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-07-31'
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm
   name: nuclia-sync-agent-1.9.10-1.x86_64.rpm

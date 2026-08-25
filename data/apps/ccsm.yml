@@ -42,7 +42,7 @@ evidence:
   source: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.rpm
   found_in: CCSM-0.2.20-x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-07-28'
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/Jiahui-Gu/ccsm/releases/download/v0.2.20/CCSM-0.2.20-x86_64.rpm
   name: CCSM-0.2.20-x86_64.rpm

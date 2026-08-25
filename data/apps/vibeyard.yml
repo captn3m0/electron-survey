@@ -6,47 +6,47 @@ aur:
 - vibeyard-bin
 electron: 41.1.0
 method: which-electron-rg
-latest: v0.3.5
-src: https://github.com/elirantutia/vibeyard/archive/refs/tags/v0.3.5.zip
+latest: v0.3.6
+src: https://github.com/elirantutia/vibeyard/archive/refs/tags/v0.3.6.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/latest-linux.yml
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/latest-mac.yml
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/latest.yml
-- name: Vibeyard-0.3.5-arm64-mac.zip
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5-arm64-mac.zip
-- name: Vibeyard-0.3.5-arm64-mac.zip.blockmap
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5-arm64-mac.zip.blockmap
-- name: Vibeyard-0.3.5-arm64.dmg
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5-arm64.dmg
-- name: Vibeyard-0.3.5-arm64.dmg.blockmap
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5-arm64.dmg.blockmap
-- name: Vibeyard-0.3.5-mac.zip
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5-mac.zip
-- name: Vibeyard-0.3.5-mac.zip.blockmap
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5-mac.zip.blockmap
-- name: Vibeyard-0.3.5.AppImage
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5.AppImage
-- name: Vibeyard-0.3.5.dmg
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5.dmg
-- name: Vibeyard-0.3.5.dmg.blockmap
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5.dmg.blockmap
-- name: Vibeyard-0.3.5.exe
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-0.3.5.exe
-- name: Vibeyard-Setup-0.3.5.exe
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-Setup-0.3.5.exe
-- name: Vibeyard-Setup-0.3.5.exe.blockmap
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/Vibeyard-Setup-0.3.5.exe.blockmap
-- name: vibeyard_0.3.5_amd64.deb
-  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.5/vibeyard_0.3.5_amd64.deb
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/latest.yml
+- name: Vibeyard-0.3.6-arm64-mac.zip
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6-arm64-mac.zip
+- name: Vibeyard-0.3.6-arm64-mac.zip.blockmap
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6-arm64-mac.zip.blockmap
+- name: Vibeyard-0.3.6-arm64.dmg
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6-arm64.dmg
+- name: Vibeyard-0.3.6-arm64.dmg.blockmap
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6-arm64.dmg.blockmap
+- name: Vibeyard-0.3.6-mac.zip
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6-mac.zip
+- name: Vibeyard-0.3.6-mac.zip.blockmap
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6-mac.zip.blockmap
+- name: Vibeyard-0.3.6.AppImage
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6.AppImage
+- name: Vibeyard-0.3.6.dmg
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6.dmg
+- name: Vibeyard-0.3.6.dmg.blockmap
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6.dmg.blockmap
+- name: Vibeyard-0.3.6.exe
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-0.3.6.exe
+- name: Vibeyard-Setup-0.3.6.exe
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-Setup-0.3.6.exe
+- name: Vibeyard-Setup-0.3.6.exe.blockmap
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/Vibeyard-Setup-0.3.6.exe.blockmap
+- name: vibeyard_0.3.6_amd64.deb
+  url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.6/vibeyard_0.3.6_amd64.deb
 evidence:
   kind: binary
   source: https://github.com/elirantutia/vibeyard/releases/download/v0.3.4/Vibeyard-0.3.4.AppImage
   found_in: Vibeyard-0.3.4.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-20'
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.4/vibeyard_0.3.4_amd64.deb
   name: vibeyard_0.3.4_amd64.deb

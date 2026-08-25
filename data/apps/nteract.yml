@@ -63,8 +63,8 @@ downloads:
   url: https://github.com/nteract/nteract/releases/download/v2.7.3-stable.202608230344/runtimed-windows-x64.exe
 name: nteract
 aur_votes: 1
-brew_installs: 10
-last_commit: '2026-08-23'
+brew_installs: 100
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/nteract/nteract/releases/download/v0.28.0/nteract_0.28.0_amd64.deb
   name: nteract_0.28.0_amd64.deb

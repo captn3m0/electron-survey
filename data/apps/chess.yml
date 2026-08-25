@@ -23,4 +23,4 @@ evidence:
   found_in: chess-electron-2.1.0/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/tkmxqrdxddd/chess-electron/archive/refs/tags/v2.1.0.zip
-last_commit: '2026-08-11'
+last_commit: '2026-08-24'

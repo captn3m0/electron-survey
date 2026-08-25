@@ -30,4 +30,4 @@ evidence:
   source: https://github.com/ChatLab/ChatLab/releases/download/v0.34.1/ChatLab-0.34.1-arm64.zip
   found_in: ChatLab-0.34.1-arm64.zip
   signal: which-electron rg signal
-last_commit: '2026-08-23'
+last_commit: '2026-08-25'

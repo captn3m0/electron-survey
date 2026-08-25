@@ -28,7 +28,7 @@ evidence:
   source: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
   found_in: chat-overlay-1.1.0-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-21'
+last_commit: '2026-08-24'
 aur_downloads:
 - url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
   name: chat-overlay-1.1.0-1.x86_64.rpm

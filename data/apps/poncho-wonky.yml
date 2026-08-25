@@ -6,44 +6,44 @@ aur:
 - poncho-wonky
 electron: 41.2.0
 method: which-electron-rg
-latest: v5.5.0
-src: https://github.com/soapdog/patchwork/archive/refs/tags/v5.5.0.zip
+latest: v5.6.0
+src: https://github.com/soapdog/patchwork/archive/refs/tags/v5.6.0.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/latest-linux-arm64.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/latest-linux.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/latest-mac.yml
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/latest.yml
-- name: Poncho-Wonky-5.5.0-arm64.dmg
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/Poncho-Wonky-5.5.0-arm64.dmg
-- name: Poncho-Wonky-5.5.0-arm64.dmg.blockmap
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/Poncho-Wonky-5.5.0-arm64.dmg.blockmap
-- name: Poncho-Wonky-5.5.0.dmg
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/Poncho-Wonky-5.5.0.dmg
-- name: Poncho-Wonky-5.5.0.dmg.blockmap
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/Poncho-Wonky-5.5.0.dmg.blockmap
-- name: ponchowonky-5.5.0-arm64.tar.gz
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky-5.5.0-arm64.tar.gz
-- name: ponchowonky-5.5.0-linux-arm64.AppImage
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky-5.5.0-linux-arm64.AppImage
-- name: ponchowonky-5.5.0-linux-x86_64.AppImage
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky-5.5.0-linux-x86_64.AppImage
-- name: ponchowonky-5.5.0-windows-x64-nsis-installer.exe
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky-5.5.0-windows-x64-nsis-installer.exe
-- name: ponchowonky-5.5.0-windows-x64-nsis-installer.exe.blockmap
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky-5.5.0-windows-x64-nsis-installer.exe.blockmap
-- name: ponchowonky-5.5.0.tar.gz
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky-5.5.0.tar.gz
-- name: ponchowonky_5.5.0_amd64.deb
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky_5.5.0_amd64.deb
-- name: ponchowonky_5.5.0_arm64.deb
-  url: https://github.com/soapdog/patchwork/releases/download/v5.5.0/ponchowonky_5.5.0_arm64.deb
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/latest.yml
+- name: Poncho-Wonky-5.6.0-arm64.dmg
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/Poncho-Wonky-5.6.0-arm64.dmg
+- name: Poncho-Wonky-5.6.0-arm64.dmg.blockmap
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/Poncho-Wonky-5.6.0-arm64.dmg.blockmap
+- name: Poncho-Wonky-5.6.0.dmg
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/Poncho-Wonky-5.6.0.dmg
+- name: Poncho-Wonky-5.6.0.dmg.blockmap
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/Poncho-Wonky-5.6.0.dmg.blockmap
+- name: ponchowonky-5.6.0-arm64.tar.gz
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky-5.6.0-arm64.tar.gz
+- name: ponchowonky-5.6.0-linux-arm64.AppImage
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky-5.6.0-linux-arm64.AppImage
+- name: ponchowonky-5.6.0-linux-x86_64.AppImage
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky-5.6.0-linux-x86_64.AppImage
+- name: ponchowonky-5.6.0-windows-x64-nsis-installer.exe
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky-5.6.0-windows-x64-nsis-installer.exe
+- name: ponchowonky-5.6.0-windows-x64-nsis-installer.exe.blockmap
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky-5.6.0-windows-x64-nsis-installer.exe.blockmap
+- name: ponchowonky-5.6.0.tar.gz
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky-5.6.0.tar.gz
+- name: ponchowonky_5.6.0_amd64.deb
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky_5.6.0_amd64.deb
+- name: ponchowonky_5.6.0_arm64.deb
+  url: https://github.com/soapdog/patchwork/releases/download/v5.6.0/ponchowonky_5.6.0_arm64.deb
 evidence:
   kind: binary
   source: https://github.com/soapdog/patchwork/releases/download/v5.4.0/ponchowonky-5.4.0-arm64.tar.gz
   found_in: ponchowonky-5.4.0-arm64.tar.gz
   signal: which-electron rg signal
-last_commit: '2026-08-21'
+last_commit: '2026-08-24'
