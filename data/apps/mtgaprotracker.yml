@@ -13,7 +13,7 @@ downloads:
   name: mtgaprotracker.dmg
   version: 2.1.35
 aur_votes: 1
-brew_installs: 10
+brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: discontinued
 homebrew_disabled: true

@@ -55,7 +55,7 @@ downloads:
   url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.8.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.8.0/latest.yml
-last_commit: '2026-08-21'
+last_commit: '2026-08-25'
 aur:
 - jitsi-nightly
 aur_votes: 1

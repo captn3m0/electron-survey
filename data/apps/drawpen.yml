@@ -11,35 +11,35 @@ packages:
   arch: arm64
 electron: 40.4.0
 method: which-electron-rg
-latest: v0.0.56
-src: https://github.com/DmytroVasin/DrawPen/archive/refs/tags/v0.0.56.zip
+latest: v0.0.57
+src: https://github.com/DmytroVasin/DrawPen/archive/refs/tags/v0.0.57.zip
 downloads:
-- name: drawpen-0.0.56-1.x86_64.rpm
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/drawpen-0.0.56-1.x86_64.rpm
-- name: DrawPen-0.0.56-arm64.dmg
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-0.0.56-arm64.dmg
-- name: DrawPen-0.0.56-full.nupkg
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-0.0.56-full.nupkg
-- name: DrawPen-0.0.56-x64.dmg
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-0.0.56-x64.dmg
-- name: DrawPen-darwin-arm64-0.0.56.zip
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-darwin-arm64-0.0.56.zip
-- name: DrawPen-darwin-x64-0.0.56.zip
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-darwin-x64-0.0.56.zip
-- name: DrawPen-linux-x64-0.0.56.zip
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-linux-x64-0.0.56.zip
-- name: DrawPen-win32-x64-0.0.56.zip
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen-win32-x64-0.0.56.zip
-- name: drawpen-x11-0.0.56-1.x86_64.rpm
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/drawpen-x11-0.0.56-1.x86_64.rpm
-- name: drawpen-x11_0.0.56_amd64.deb
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/drawpen-x11_0.0.56_amd64.deb
+- name: drawpen-0.0.57-1.x86_64.rpm
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/drawpen-0.0.57-1.x86_64.rpm
+- name: DrawPen-0.0.57-arm64.dmg
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-0.0.57-arm64.dmg
+- name: DrawPen-0.0.57-full.nupkg
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-0.0.57-full.nupkg
+- name: DrawPen-0.0.57-x64.dmg
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-0.0.57-x64.dmg
+- name: DrawPen-darwin-arm64-0.0.57.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-darwin-arm64-0.0.57.zip
+- name: DrawPen-darwin-x64-0.0.57.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-darwin-x64-0.0.57.zip
+- name: DrawPen-linux-x64-0.0.57.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-linux-x64-0.0.57.zip
+- name: DrawPen-win32-x64-0.0.57.zip
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen-win32-x64-0.0.57.zip
+- name: drawpen-x11-0.0.57-1.x86_64.rpm
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/drawpen-x11-0.0.57-1.x86_64.rpm
+- name: drawpen-x11_0.0.57_amd64.deb
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/drawpen-x11_0.0.57_amd64.deb
 - name: DrawPen.Setup.exe
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/DrawPen.Setup.exe
-- name: drawpen_0.0.56_amd64.deb
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/drawpen_0.0.56_amd64.deb
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/DrawPen.Setup.exe
+- name: drawpen_0.0.57_amd64.deb
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/drawpen_0.0.57_amd64.deb
 - name: RELEASES
-  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.56/RELEASES
+  url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.57/RELEASES
 homebrew: drawpen
 evidence:
   kind: binary
@@ -47,7 +47,7 @@ evidence:
   found_in: drawpen-0.0.53-1.x86_64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-08-24'
+last_commit: '2026-08-25'
 aur_downloads:
 - url: https://github.com/DmytroVasin/DrawPen/releases/download/v0.0.53/drawpen-0.0.53-1.x86_64.rpm
   name: drawpen-0.0.53-1.x86_64.rpm

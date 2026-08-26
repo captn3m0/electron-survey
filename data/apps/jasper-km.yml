@@ -6,37 +6,37 @@ aur:
 - jasper-km-bin
 electron: 43.1.1
 method: which-electron-rg
-latest: v1.1.21
-src: https://github.com/cjmalloy/jasper-app/archive/refs/tags/v1.1.21.zip
+latest: v1.1.23
+src: https://github.com/cjmalloy/jasper-app/archive/refs/tags/v1.1.23.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/builder-debug.yml
-- name: Jasper-1.1.21-arm64.dmg
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper-1.1.21-arm64.dmg
-- name: Jasper-1.1.21-arm64.dmg.blockmap
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper-1.1.21-arm64.dmg.blockmap
-- name: Jasper-1.1.21.AppImage
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper-1.1.21.AppImage
-- name: Jasper-1.1.21.dmg
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper-1.1.21.dmg
-- name: Jasper-1.1.21.dmg.blockmap
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper-1.1.21.dmg.blockmap
-- name: Jasper.Setup.1.1.21.exe
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper.Setup.1.1.21.exe
-- name: Jasper.Setup.1.1.21.exe.blockmap
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/Jasper.Setup.1.1.21.exe.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/builder-debug.yml
+- name: Jasper-1.1.23-arm64.dmg
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper-1.1.23-arm64.dmg
+- name: Jasper-1.1.23-arm64.dmg.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper-1.1.23-arm64.dmg.blockmap
+- name: Jasper-1.1.23.AppImage
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper-1.1.23.AppImage
+- name: Jasper-1.1.23.dmg
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper-1.1.23.dmg
+- name: Jasper-1.1.23.dmg.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper-1.1.23.dmg.blockmap
+- name: Jasper.Setup.1.1.23.exe
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper.Setup.1.1.23.exe
+- name: Jasper.Setup.1.1.23.exe.blockmap
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/Jasper.Setup.1.1.23.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/latest-linux.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/latest-mac.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.21/latest.yml
+  url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.23/latest.yml
 evidence:
   kind: binary
   source: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
   found_in: Jasper-1.1.16.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-23'
+last_commit: '2026-08-25'
 aur_downloads:
 - url: https://github.com/cjmalloy/jasper-app/releases/download/v1.1.16/Jasper-1.1.16.AppImage
   name: Jasper-1.1.16.AppImage

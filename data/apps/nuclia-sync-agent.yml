@@ -6,23 +6,23 @@ aur:
 - nuclia-sync-agent-bin
 electron: 40.0.0
 method: which-electron-rg
-latest: 1.9.14
-src: https://github.com/nuclia/sync-agent/archive/refs/tags/1.9.14.zip
+latest: 1.9.15
+src: https://github.com/nuclia/sync-agent/archive/refs/tags/1.9.15.zip
 downloads:
-- name: progress-sync-agent-1.9.14-1.x86_64.rpm
-  url: https://github.com/nuclia/sync-agent/releases/download/1.9.14/progress-sync-agent-1.9.14-1.x86_64.rpm
-- name: progress-sync-agent_1.9.14_amd64.deb
-  url: https://github.com/nuclia/sync-agent/releases/download/1.9.14/progress-sync-agent_1.9.14_amd64.deb
+- name: progress-sync-agent-1.9.15-1.x86_64.rpm
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.15/progress-sync-agent-1.9.15-1.x86_64.rpm
+- name: progress-sync-agent_1.9.15_amd64.deb
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.15/progress-sync-agent_1.9.15_amd64.deb
 - name: Progress-Sync-Setup.exe
-  url: https://github.com/nuclia/sync-agent/releases/download/1.9.14/Progress-Sync-Setup.exe
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.15/Progress-Sync-Setup.exe
 - name: Progress.Sync.Agent.dmg
-  url: https://github.com/nuclia/sync-agent/releases/download/1.9.14/Progress.Sync.Agent.dmg
+  url: https://github.com/nuclia/sync-agent/releases/download/1.9.15/Progress.Sync.Agent.dmg
 evidence:
   kind: binary
   source: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm
   found_in: nuclia-sync-agent-1.9.10-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-24'
+last_commit: '2026-08-25'
 aur_downloads:
 - url: https://github.com/nuclia/sync-agent/releases/download/1.9.10/nuclia-sync-agent-1.9.10-1.x86_64.rpm
   name: nuclia-sync-agent-1.9.10-1.x86_64.rpm

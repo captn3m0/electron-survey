@@ -32,7 +32,7 @@ downloads:
 - name: r2modman_3.2.19_amd64.deb
   url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman_3.2.19_amd64.deb
 aur_votes: 1
-last_commit: '2026-08-21'
+last_commit: '2026-08-25'
 evidence:
   kind: binary
   source: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.x86_64.rpm

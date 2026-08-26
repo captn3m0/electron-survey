@@ -22,4 +22,4 @@ evidence:
   source: https://github.com/andirsun/Slacky/releases/download/v0.0.10/slacky-0.0.10.aarch64.rpm
   found_in: slacky-0.0.10.aarch64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-24'
+last_commit: '2026-08-25'

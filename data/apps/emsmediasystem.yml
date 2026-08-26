@@ -18,7 +18,7 @@ evidence:
   source: https://github.com/clockley/EjaxMediaSystem/releases/download/6.5.2/EMS.Media.System-6.5.2.AppImage
   found_in: EMS.Media.System-6.5.2.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-24'
+last_commit: '2026-08-25'
 aur_downloads:
 - url: https://github.com/clockley/EjaxMediaSystem/releases/download/6.5.2/EMS.Media.System-6.5.2.AppImage
   name: EMS.Media.System-6.5.2.AppImage

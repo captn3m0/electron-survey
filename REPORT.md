@@ -714,7 +714,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Inkdown](https://github.com/1943time/inkdown) [[repo]](https://github.com/1943time/inkdown) | 35.4.0 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Inkdrop](https://www.inkdrop.app/) | 39.4.0 ⚠️ | 6mo ago | which-electron-rg |
 | [Inky](http://www.inklestudios.com/ink) | 30.0.4 ⚠️ | 2y 3mo ago | which-electron-rg |
-| [Insomnia](https://insomnia.rest/) [[repo]](https://github.com/getinsomnia/insomnia) | 41.0.3 ⚠️ | 5mo ago | src-package-lock |
+| [Insomnia](https://insomnia.rest/) [[repo]](https://github.com/getinsomnia/insomnia) | 43.2.0 ⚠️ | 1mo ago | src-package-lock |
 | [Instatron](https://github.com/alexdevero/instatron) [[repo]](https://github.com/alexdevero/instatron) | 9.0.0 ⚠️ | 6y 4mo ago | src-yarn-lock |
 | [Interactive Data Editor](https://github.com/Koushikphy/Interactive_Data_Editor) | 17.4.11 ⚠️ | 4y 1mo ago | which-electron-rg |
 | [Interastral Peace Chat](https://github.com/niizam/ipc) [[repo]](https://github.com/niizam/ipc) | 24.4.0 ⚠️ | 3y 3mo ago | which-electron-rg |
@@ -1794,7 +1794,7 @@ Apps with detected Electron version: 1814 / 2090
 | [nxshell](https://github.com/nxshell/nxshell) [[repo]](https://github.com/nxshell/nxshell) | 17.4.1 ⚠️ | 4y 4mo ago | which-electron-rg |
 | [ovice](https://www.ovice.com/) | 37.6.0 ⚠️ | 11mo ago | which-electron-rg |
 | [passky](https://passky.org) [[repo]](https://github.com/Rabbit-Company/Passky-Desktop) | 40.8.0 ⚠️ | 5mo ago | src-yarn-lock |
-| [poi](https://poi.moe) [[repo]](https://github.com/poooi/poi) | 22.3.27 ⚠️ | 2y 11mo ago | src-package-lock |
+| [poi](https://poi.moe) [[repo]](https://github.com/poooi/poi) | 44.0.0 | 1d ago | src-package-lock |
 | [primitive.nextgen](https://github.com/cielito-lindo-productions/primitive.nextgen) [[repo]](https://github.com/cielito-lindo-productions/primitive.nextgen) | 28.2.0 ⚠️ | 2y 7mo ago | src-package-lock |
 | [qikQR](https://github.com/deep5050/qikQR) [[repo]](https://github.com/deep5050/qikQR) | 8.2.5 ⚠️ | 6y 4mo ago | src-yarn-lock |
 | [qqnews](https://news.qq.com/) | 31.3.0 ⚠️ | 2y 1mo ago | which-electron-rg |

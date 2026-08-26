@@ -47,7 +47,7 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-21'
+last_commit: '2026-08-26'
 evidence:
   kind: binary
   source: https://github.com/iNavFlight/inav-configurator/releases/download/9.1.1/INAV-Configurator_linux_arm64_9.1.1.rpm

@@ -21,55 +21,62 @@ packages:
   arch: x64
 aur:
 - ytdownloader
-latest: v3.22.0
-src: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v3.22.0.zip
+latest: v4.0.0
+src: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v4.0.0.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/latest-linux.yml
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/latest-mac.yml
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/latest.yml
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/latest.yml
 - name: YTDownloader_Linux.AppImage
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Linux.AppImage
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Linux.AppImage
 - name: YTDownloader_Linux.deb
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Linux.deb
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Linux.deb
 - name: YTDownloader_Linux.rpm
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Linux.rpm
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Linux.rpm
 - name: YTDownloader_Linux.zip
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Linux.zip
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Linux.zip
 - name: YTDownloader_Mac_arm64.dmg
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_arm64.dmg
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_arm64.dmg
 - name: YTDownloader_Mac_arm64.dmg.blockmap
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_arm64.dmg.blockmap
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_arm64.dmg.blockmap
 - name: YTDownloader_Mac_arm64.zip
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_arm64.zip
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_arm64.zip
 - name: YTDownloader_Mac_arm64.zip.blockmap
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_arm64.zip.blockmap
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_arm64.zip.blockmap
 - name: YTDownloader_Mac_x64.dmg
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_x64.dmg
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_x64.dmg
 - name: YTDownloader_Mac_x64.dmg.blockmap
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_x64.dmg.blockmap
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_x64.dmg.blockmap
 - name: YTDownloader_Mac_x64.zip
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_x64.zip
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_x64.zip
 - name: YTDownloader_Mac_x64.zip.blockmap
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Mac_x64.zip.blockmap
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Mac_x64.zip.blockmap
 - name: YTDownloader_Win.exe
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Win.exe
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win.exe
 - name: YTDownloader_Win.exe.blockmap
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Win.exe.blockmap
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win.exe.blockmap
 - name: YTDownloader_Win.msi
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Win.msi
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win.msi
 - name: YTDownloader_Win.zip
-  url: https://github.com/aandrew-me/ytDownloader/releases/download/v3.22.0/YTDownloader_Win.zip
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win.zip
+- name: YTDownloader_Win_arm64.exe
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win_arm64.exe
+- name: YTDownloader_Win_arm64.exe.blockmap
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win_arm64.exe.blockmap
+- name: YTDownloader_Win_arm64.msi
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win_arm64.msi
+- name: YTDownloader_Win_arm64.zip
+  url: https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.0/YTDownloader_Win_arm64.zip
 electron: 30.5.1
 method: src-package-lock
-electron_src: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v3.22.0.zip
+electron_src: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v4.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Aaandrew-me%2FytDownloader+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: ytDownloader-4.0.0/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v4.0.0.zip
 aur_votes: 1
-last_commit: '2026-08-24'
+last_commit: '2026-08-25'

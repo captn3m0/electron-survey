@@ -1,60 +1,60 @@
 id: insomnia
 repository: https://github.com/getinsomnia/insomnia
 website: https://insomnia.rest/
-latest: core@13.1.0
-src: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.1.0.zip
+latest: core@13.2.0
+src: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.2.0.zip
 downloads:
 - name: alpha.yml
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/alpha.yml
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/alpha.yml
 - name: beta.yml
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/beta.yml
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/beta.yml
 - name: image-inso-Linux-X64-sbom.cyclonedx.json
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/image-inso-Linux-X64-sbom.cyclonedx.json
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/image-inso-Linux-X64-sbom.cyclonedx.json
 - name: image-inso-Linux-X64-sbom.spdx.json
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/image-inso-Linux-X64-sbom.spdx.json
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/image-inso-Linux-X64-sbom.spdx.json
 - name: inso-docker-image.tar
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-docker-image.tar
-- name: inso-linux-x64-13.1.0.tar.xz
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-linux-x64-13.1.0.tar.xz
-- name: inso-macos-13.1.0.zip
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-macos-13.1.0.zip
-- name: inso-macos-latest-large-13.1.0.pkg
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-macos-latest-large-13.1.0.pkg
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/inso-docker-image.tar
+- name: inso-linux-x64-13.2.0.tar.xz
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/inso-linux-x64-13.2.0.tar.xz
+- name: inso-macos-13.2.0.zip
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/inso-macos-13.2.0.zip
+- name: inso-macos-15-large-13.2.0.pkg
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/inso-macos-15-large-13.2.0.pkg
 - name: inso-provenance.intoto.jsonl
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-provenance.intoto.jsonl
-- name: inso-windows-13.1.0.zip
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-windows-13.1.0.zip
-- name: insomnia-13.1.0-full.nupkg
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/insomnia-13.1.0-full.nupkg
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/inso-provenance.intoto.jsonl
+- name: inso-windows-13.2.0.zip
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/inso-windows-13.2.0.zip
+- name: insomnia-13.2.0-full.nupkg
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/insomnia-13.2.0-full.nupkg
 - name: insomnia-provenance.intoto.jsonl
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/insomnia-provenance.intoto.jsonl
-- name: Insomnia.Core-13.1.0.AppImage
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.AppImage
-- name: Insomnia.Core-13.1.0.deb
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.deb
-- name: Insomnia.Core-13.1.0.dmg
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.dmg
-- name: Insomnia.Core-13.1.0.exe
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.exe
-- name: Insomnia.Core-13.1.0.rpm
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.rpm
-- name: Insomnia.Core-13.1.0.snap
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.snap
-- name: Insomnia.Core-13.1.0.tar.gz
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.tar.gz
-- name: Insomnia.Core-13.1.0.zip
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.zip
-- name: Insomnia.Core-nsis-13.1.0.exe
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-nsis-13.1.0.exe
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/insomnia-provenance.intoto.jsonl
+- name: Insomnia.Core-13.2.0.AppImage
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.AppImage
+- name: Insomnia.Core-13.2.0.deb
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.deb
+- name: Insomnia.Core-13.2.0.dmg
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.dmg
+- name: Insomnia.Core-13.2.0.exe
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.exe
+- name: Insomnia.Core-13.2.0.rpm
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.rpm
+- name: Insomnia.Core-13.2.0.snap
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.snap
+- name: Insomnia.Core-13.2.0.tar.gz
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.tar.gz
+- name: Insomnia.Core-13.2.0.zip
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-13.2.0.zip
+- name: Insomnia.Core-nsis-13.2.0.exe
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/Insomnia.Core-nsis-13.2.0.exe
 - name: latest.yml
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/latest.yml
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/latest.yml
 - name: RELEASES
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/RELEASES
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/RELEASES
 - name: sbom.cyclonedx.json
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/sbom.cyclonedx.json
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/sbom.cyclonedx.json
 - name: sbom.spdx.json
-  url: https://github.com/Kong/insomnia/releases/download/core%4013.1.0/sbom.spdx.json
-electron: 41.0.3
+  url: https://github.com/Kong/insomnia/releases/download/core%4013.2.0/sbom.spdx.json
+electron: 43.2.0
 method: src-package-lock
 aur:
 - inso-bin
@@ -81,16 +81,16 @@ packages:
   format: dmg
   os: macos
 name: Insomnia
-electron_src: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.1.0.zip
+electron_src: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.2.0.zip
 evidence:
   kind: lockfile
-  found_in: insomnia-core-13.1.0/package-lock.json
+  found_in: insomnia-core-13.2.0/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.1.0.zip
+  source: https://github.com/getinsomnia/insomnia/archive/refs/tags/core@13.2.0.zip
 homepage: true
 aur_votes: 100
 brew_installs: 10000
-last_commit: '2026-08-25'
+last_commit: '2026-08-26'
 aur_downloads:
 - url: https://github.com/Kong/insomnia/releases/download/lib@3.16.0/inso-linux-3.16.0.tar.xz
   name: inso-linux-3.16.0.tar.xz
@@ -116,4 +116,4 @@ aur_downloads:
   name: LICENSE
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:core@13.1.0
+we_tried: we1.2.1+p1:core@13.2.0

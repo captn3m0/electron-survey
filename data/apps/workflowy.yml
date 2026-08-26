@@ -11,33 +11,33 @@ aur:
 homebrew: workflowy
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/latest-linux.yml
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/latest-mac.yml
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/latest.yml
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/latest.yml
 - name: WorkFlowy-amd64.deb
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy-amd64.deb
-- name: WorkFlowy-Installer-4.3.2608181120.exe
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy-Installer-4.3.2608181120.exe
-- name: WorkFlowy-Installer-4.3.2608181120.exe.blockmap
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy-Installer-4.3.2608181120.exe.blockmap
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy-amd64.deb
+- name: WorkFlowy-Installer-4.3.2608251350.exe
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy-Installer-4.3.2608251350.exe
+- name: WorkFlowy-Installer-4.3.2608251350.exe.blockmap
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy-Installer-4.3.2608251350.exe.blockmap
 - name: WorkFlowy-Installer.exe
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy-Installer.exe
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy-Installer.exe
 - name: WorkFlowy-x86_64.AppImage
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy-x86_64.AppImage
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy-x86_64.AppImage
 - name: WorkFlowy-x86_64.rpm
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy-x86_64.rpm
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy-x86_64.rpm
 - name: WorkFlowy.dmg
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy.dmg
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy.dmg
 - name: WorkFlowy.dmg.blockmap
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy.dmg.blockmap
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy.dmg.blockmap
 - name: WorkFlowy.zip
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy.zip
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy.zip
 - name: WorkFlowy.zip.blockmap
-  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608181120/WorkFlowy.zip.blockmap
-latest: v4.3.2608181120
-src: https://github.com/workflowy/desktop/archive/refs/tags/v4.3.2608181120.zip
+  url: https://github.com/workflowy/desktop/releases/download/v4.3.2608251350/WorkFlowy.zip.blockmap
+latest: v4.3.2608251350
+src: https://github.com/workflowy/desktop/archive/refs/tags/v4.3.2608251350.zip
 electron: 38.8.6
 method: which-electron-rg
 evidence:
@@ -47,4 +47,4 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-08-18'
+last_commit: '2026-08-25'

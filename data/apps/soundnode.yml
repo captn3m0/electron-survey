@@ -19,4 +19,4 @@ evidence:
   source: https://github.com/Soundnode/soundnode-app/releases/download/7.0.0/Soundnode-win32-x64.zip
   found_in: Soundnode-win32-x64.zip
   signal: which-electron version_file signal (3 signals agreed)
-last_commit: '2026-07-21'
+last_commit: '2026-08-25'

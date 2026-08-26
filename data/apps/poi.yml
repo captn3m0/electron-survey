@@ -1,64 +1,62 @@
 id: poi
 repository: https://github.com/poooi/poi
 website: https://poi.moe
-latest: v11.1.0-win7
-src: https://github.com/poooi/poi/archive/refs/tags/v11.1.0-win7.zip
+latest: v12.0.0
+src: https://github.com/poooi/poi/archive/refs/tags/v12.0.0.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/latest-linux-arm64.yml
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/latest-linux.yml
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/latest-mac.yml
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/latest.yml
-- name: poi-11.1.0-win7-aarch64.pacman
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-aarch64.pacman
-- name: poi-11.1.0-win7-arm64-mac.zip
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64-mac.zip
-- name: poi-11.1.0-win7-arm64-mac.zip.blockmap
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64-mac.zip.blockmap
-- name: poi-11.1.0-win7-arm64-win.7z
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64-win.7z
-- name: poi-11.1.0-win7-arm64.7z
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64.7z
-- name: poi-11.1.0-win7-arm64.AppImage
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64.AppImage
-- name: poi-11.1.0-win7-arm64.dmg
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64.dmg
-- name: poi-11.1.0-win7-arm64.dmg.blockmap
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-arm64.dmg.blockmap
-- name: poi-11.1.0-win7-ia32-win.7z
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-ia32-win.7z
-- name: poi-11.1.0-win7-mac.zip
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-mac.zip
-- name: poi-11.1.0-win7-mac.zip.blockmap
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-mac.zip.blockmap
-- name: poi-11.1.0-win7-win.7z
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7-win.7z
-- name: poi-11.1.0-win7.7z
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.7z
-- name: poi-11.1.0-win7.aarch64.rpm
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.aarch64.rpm
-- name: poi-11.1.0-win7.AppImage
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.AppImage
-- name: poi-11.1.0-win7.dmg
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.dmg
-- name: poi-11.1.0-win7.dmg.blockmap
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.dmg.blockmap
-- name: poi-11.1.0-win7.pacman
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.pacman
-- name: poi-11.1.0-win7.x86_64.rpm
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-11.1.0-win7.x86_64.rpm
-- name: poi-setup-11.1.0-win7.exe
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-setup-11.1.0-win7.exe
-- name: poi-setup-11.1.0-win7.exe.blockmap
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi-setup-11.1.0-win7.exe.blockmap
-- name: poi_11.1.0-win7_amd64.deb
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi_11.1.0-win7_amd64.deb
-- name: poi_11.1.0-win7_arm64.deb
-  url: https://github.com/poooi/poi/releases/download/v11.1.0-win7/poi_11.1.0-win7_arm64.deb
-electron: 22.3.27
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/latest.yml
+- name: poi-12.0.0-aarch64.pacman
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-aarch64.pacman
+- name: poi-12.0.0-arm64-mac.zip
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64-mac.zip
+- name: poi-12.0.0-arm64-mac.zip.blockmap
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64-mac.zip.blockmap
+- name: poi-12.0.0-arm64-win.7z
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64-win.7z
+- name: poi-12.0.0-arm64.7z
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64.7z
+- name: poi-12.0.0-arm64.AppImage
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64.AppImage
+- name: poi-12.0.0-arm64.dmg
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64.dmg
+- name: poi-12.0.0-arm64.dmg.blockmap
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-arm64.dmg.blockmap
+- name: poi-12.0.0-mac.zip
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-mac.zip
+- name: poi-12.0.0-mac.zip.blockmap
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-mac.zip.blockmap
+- name: poi-12.0.0-win.7z
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0-win.7z
+- name: poi-12.0.0.7z
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.7z
+- name: poi-12.0.0.aarch64.rpm
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.aarch64.rpm
+- name: poi-12.0.0.AppImage
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.AppImage
+- name: poi-12.0.0.dmg
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.dmg
+- name: poi-12.0.0.dmg.blockmap
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.dmg.blockmap
+- name: poi-12.0.0.pacman
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.pacman
+- name: poi-12.0.0.x86_64.rpm
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-12.0.0.x86_64.rpm
+- name: poi-setup-12.0.0.exe
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-setup-12.0.0.exe
+- name: poi-setup-12.0.0.exe.blockmap
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi-setup-12.0.0.exe.blockmap
+- name: poi_12.0.0_amd64.deb
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi_12.0.0_amd64.deb
+- name: poi_12.0.0_arm64.deb
+  url: https://github.com/poooi/poi/releases/download/v12.0.0/poi_12.0.0_arm64.deb
+electron: 44.0.0
 method: src-package-lock
 aur:
 - poi-git
@@ -69,13 +67,13 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/poooi/poi/archive/refs/tags/v11.1.0-win7.zip
+electron_src: https://github.com/poooi/poi/archive/refs/tags/v12.0.0.zip
 evidence:
   kind: lockfile
-  found_in: poi-11.1.0-win7/package-lock.json
+  found_in: poi-12.0.0/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/poooi/poi/archive/refs/tags/v11.1.0-win7.zip
+  source: https://github.com/poooi/poi/archive/refs/tags/v12.0.0.zip
 brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-25'
+last_commit: '2026-08-26'
