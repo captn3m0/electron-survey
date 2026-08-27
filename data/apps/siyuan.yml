@@ -87,7 +87,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-08-26'
+last_commit: '2026-08-27'
 aur_downloads:
 - url: https://github.com/siyuan-note/siyuan/releases/download/v3.7.3/siyuan-3.7.3-linux.AppImage
   name: siyuan-3.7.3-linux.AppImage

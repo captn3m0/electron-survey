@@ -21,5 +21,5 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 aur_votes: 10
-last_commit: '2026-08-26'
+last_commit: '2026-08-27'
 src: https://github.com/FreeTubeApp/FreeTube/archive/refs/heads/development.zip

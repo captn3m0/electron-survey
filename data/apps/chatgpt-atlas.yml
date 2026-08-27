@@ -44,3 +44,5 @@ aur_downloads:
   name: node-v42.3.0-headers.tar.gz
   arch: any
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: discontinued

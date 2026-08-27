@@ -10,16 +10,30 @@ aur:
 - betterdiscord-installer-bin
 homebrew: betterdiscord-installer
 downloads:
-- name: BetterDiscord-Linux.AppImage
-  url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Linux.AppImage
-- name: BetterDiscord-Mac.zip
-  url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Mac.zip
-- name: BetterDiscord-Windows.exe
-  url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Windows.exe
+- name: BetterDiscord-Installer-Linux.AppImage.zip
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/BetterDiscord-Installer-Linux.AppImage.zip
+  checksum: f287aa8527843d6bf87c02d94bd8eaedb9fb84ec0222071db2d0d063fd4c4fbb
+- name: BetterDiscord-Installer-Linux.AppImage.zip.sha256
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/BetterDiscord-Installer-Linux.AppImage.zip.sha256
+- name: BetterDiscord-Installer-Linux.zip
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/BetterDiscord-Installer-Linux.zip
+  checksum: fa4e673a64cb2c45c0745592d38e53b022b3fa7d6c515e44913f1488e6a5fde4
+- name: BetterDiscord-Installer-Mac.zip
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/BetterDiscord-Installer-Mac.zip
+  checksum: 7acd4d8d1408ec2100de7de2a2c19103874e127f9e995bcb46fa06dc809fc5fd
+- name: BetterDiscord-Installer-Windows.exe
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/BetterDiscord-Installer-Windows.exe
+  checksum: 2eda2104c900a77fbb0568ade67becda3c087ffcbb7a267f3f8e512c18270432
+- name: checksums_darwin.txt
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/checksums_darwin.txt
+- name: checksums_linux.txt
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/checksums_linux.txt
+- name: checksums_windows.txt
+  url: https://github.com/BetterDiscord/Installer/releases/download/v2.0.0/checksums_windows.txt
 electron: 13.6.9
 method: which-electron-rg
-latest: v1.3.0
-src: https://github.com/BetterDiscord/Installer/archive/refs/tags/v1.3.0.zip
+latest: v2.0.0
+src: https://github.com/BetterDiscord/Installer/archive/refs/tags/v2.0.0.zip
 evidence:
   kind: binary
   source: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Linux.AppImage
@@ -29,7 +43,7 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-09'
+last_commit: '2026-08-27'
 aur_downloads:
 - url: https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Linux.AppImage
   name: BetterDiscord-Linux.AppImage

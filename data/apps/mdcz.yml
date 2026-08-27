@@ -6,26 +6,26 @@ aur:
 - mdcz-desktop
 electron: 39.8.9
 method: which-electron-rg
-latest: v0.11.0
-src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.11.0.zip
+latest: v0.12.0
+src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.12.0.zip
 downloads:
-- name: MDCz-0.11.0-arm64.dmg
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0-arm64.dmg
-- name: MDCz-0.11.0.AppImage
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.AppImage
-- name: MDCz-0.11.0.dmg
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.dmg
-- name: mdcz-0.11.0.tar.gz
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/mdcz-0.11.0.tar.gz
-- name: MDCz.0.11.0.exe
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz.0.11.0.exe
-- name: MDCz.Setup.0.11.0.exe
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz.Setup.0.11.0.exe
+- name: MDCz-0.12.0-arm64.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/MDCz-0.12.0-arm64.dmg
+- name: MDCz-0.12.0.AppImage
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/MDCz-0.12.0.AppImage
+- name: MDCz-0.12.0.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/MDCz-0.12.0.dmg
+- name: mdcz-0.12.0.tar.gz
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/mdcz-0.12.0.tar.gz
+- name: MDCz.0.12.0.exe
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/MDCz.0.12.0.exe
+- name: MDCz.Setup.0.12.0.exe
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/MDCz.Setup.0.12.0.exe
 - name: SHA256SUMS.txt
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/SHA256SUMS.txt
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.12.0/SHA256SUMS.txt
 evidence:
   kind: binary
   source: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.AppImage
   found_in: MDCz-0.11.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-24'
+last_commit: '2026-08-27'

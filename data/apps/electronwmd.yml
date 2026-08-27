@@ -25,7 +25,7 @@ evidence:
   found_in: electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-06-07'
+last_commit: '2026-08-27'
 aur_downloads:
 - url: https://github.com/asivery/ElectronWMD/releases/download/v0.5.2-1.5.3/electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
   name: electronwmd-0.5.2-1.5.3-linux_x86_64.AppImage
