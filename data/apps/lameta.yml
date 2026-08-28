@@ -19,4 +19,4 @@ evidence:
   found_in: lameta-mac-2.3.17.dmg
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-26'
+last_commit: '2026-08-27'

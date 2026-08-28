@@ -38,7 +38,7 @@ downloads:
   url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.107/latest-mac.yml
 - name: latest.yml
   url: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.107/latest.yml
-last_commit: '2026-08-25'
+last_commit: '2026-08-27'
 evidence:
   kind: binary
   source: https://github.com/SnosMe/awakened-poe-trade/releases/download/v3.29.103/Awakened-PoE-Trade-3.29.103.AppImage

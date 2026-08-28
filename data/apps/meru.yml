@@ -77,4 +77,4 @@ evidence:
   found_in: meru-3.56.3.aarch64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-08-26'
+last_commit: '2026-08-27'

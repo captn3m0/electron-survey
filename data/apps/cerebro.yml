@@ -59,7 +59,7 @@ evidence:
   found_in: Cerebro-0.11.0.AppImage
   signal: which-electron rg signal
 aur_votes: 10
-brew_installs: 100
+brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2026-08-11'

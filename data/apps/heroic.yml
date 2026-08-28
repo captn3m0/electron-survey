@@ -61,4 +61,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/archive/refs/tags/v2.22.1.zip
 brew_installs: 1000
-last_commit: '2026-08-25'
+last_commit: '2026-08-27'

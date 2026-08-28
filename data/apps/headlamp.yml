@@ -73,7 +73,7 @@ evidence:
 homepage: true
 aur_votes: 1
 brew_installs: 10000
-last_commit: '2026-08-26'
+last_commit: '2026-08-28'
 aur_downloads:
 - url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.43.0/Headlamp-0.43.0-linux-x64.tar.gz
   name: Headlamp-0.43.0-linux-x64.tar.gz

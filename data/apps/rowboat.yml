@@ -10,33 +10,33 @@ packages:
 homebrew: rowboat
 downloads:
 - name: RELEASES
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/RELEASES
-- name: Rowboat-darwin-arm64-0.8.9.dmg
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-darwin-arm64-0.8.9.dmg
-- name: Rowboat-darwin-arm64-0.8.9.zip
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-darwin-arm64-0.8.9.zip
-- name: Rowboat-darwin-x64-0.8.9.dmg
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-darwin-x64-0.8.9.dmg
-- name: Rowboat-darwin-x64-0.8.9.zip
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-darwin-x64-0.8.9.zip
-- name: Rowboat-linux-0.8.9-1.x86_64.rpm
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-linux-0.8.9-1.x86_64.rpm
-- name: Rowboat-linux-x64-0.8.9.zip
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-linux-x64-0.8.9.zip
-- name: rowboat-linux_0.8.9_amd64.deb
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/rowboat-linux_0.8.9_amd64.deb
-- name: Rowboat-win32-x64-0.8.9-full.nupkg
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-win32-x64-0.8.9-full.nupkg
-- name: Rowboat-win32-x64-0.8.9-setup.exe
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-win32-x64-0.8.9-setup.exe
-- name: Rowboat-win32-x64-0.8.9.zip
-  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.9/Rowboat-win32-x64-0.8.9.zip
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/RELEASES
+- name: Rowboat-darwin-arm64-0.9.1.dmg
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-darwin-arm64-0.9.1.dmg
+- name: Rowboat-darwin-arm64-0.9.1.zip
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-darwin-arm64-0.9.1.zip
+- name: Rowboat-darwin-x64-0.9.1.dmg
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-darwin-x64-0.9.1.dmg
+- name: Rowboat-darwin-x64-0.9.1.zip
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-darwin-x64-0.9.1.zip
+- name: Rowboat-linux-0.9.1-1.x86_64.rpm
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-linux-0.9.1-1.x86_64.rpm
+- name: Rowboat-linux-x64-0.9.1.zip
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-linux-x64-0.9.1.zip
+- name: rowboat-linux_0.9.1_amd64.deb
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/rowboat-linux_0.9.1_amd64.deb
+- name: Rowboat-win32-x64-0.9.1-full.nupkg
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-win32-x64-0.9.1-full.nupkg
+- name: Rowboat-win32-x64-0.9.1-setup.exe
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-win32-x64-0.9.1-setup.exe
+- name: Rowboat-win32-x64-0.9.1.zip
+  url: https://github.com/rowboatlabs/rowboat/releases/download/v0.9.1/Rowboat-win32-x64-0.9.1.zip
 electron: 39.2.7
 method: which-electron-rg
-latest: v0.8.9
-src: https://github.com/rowboatlabs/rowboat/archive/refs/tags/v0.8.9.zip
+latest: v0.9.1
+src: https://github.com/rowboatlabs/rowboat/archive/refs/tags/v0.9.1.zip
 brew_installs: 100
-last_commit: '2026-08-26'
+last_commit: '2026-08-28'
 evidence:
   kind: binary
   source: https://github.com/rowboatlabs/rowboat/releases/download/v0.8.0/Rowboat-linux-0.8.0-1.x86_64.rpm
