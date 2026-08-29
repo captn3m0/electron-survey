@@ -51,4 +51,4 @@ evidence:
   found_in: StorageExplorer-linux-x64.tar.gz
   signal: which-electron rg signal
 brew_installs: 1000
-last_commit: '2026-08-27'
+last_commit: '2026-08-29'

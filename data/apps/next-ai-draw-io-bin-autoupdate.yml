@@ -54,4 +54,4 @@ evidence:
   source: https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/next-ai-draw-io-0.4.16.aarch64.rpm
   found_in: next-ai-draw-io-0.4.16.aarch64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-27'
+last_commit: '2026-08-28'

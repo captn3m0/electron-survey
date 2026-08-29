@@ -62,4 +62,4 @@ evidence:
   found_in: VutronMusic-3.2.0_linux_aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-07'
+last_commit: '2026-08-28'

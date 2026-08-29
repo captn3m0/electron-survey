@@ -15,4 +15,4 @@ downloads:
   url: https://github.com/timderes/dartsmate/releases/download/v0.8.1/DartsMate-Setup-0.8.1.exe.blockmap
 - name: latest.yml
   url: https://github.com/timderes/dartsmate/releases/download/v0.8.1/latest.yml
-last_commit: '2026-08-26'
+last_commit: '2026-08-28'

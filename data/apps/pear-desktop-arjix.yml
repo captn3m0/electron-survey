@@ -75,4 +75,4 @@ evidence:
   found_in: youtube-music-3.11.4.aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-28'
+last_commit: '2026-08-29'

@@ -15,7 +15,7 @@ evidence:
   found_in: pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   reconstructed: true
-last_commit: '2026-08-26'
+last_commit: '2026-08-29'
 aur_downloads:
 - url: https://flat-storage.oss-accelerate.aliyuncs.com/versions/latest/stable/win/Flat-x64-2.2.3.exe
   name: Flat-x64-2.2.3.exe

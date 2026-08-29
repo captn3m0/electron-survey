@@ -322,7 +322,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Cuttletron](https://github.com/mantzaris/cuttleTron) [[repo]](https://github.com/mantzaris/cuttleTron) | 27.3.11 ⚠️ | 2y 4mo ago | which-electron-rg |
 | [Cycode](https://github.com/magayagalabs/CyCode) [[repo]](https://github.com/magayagalabs/CyCode) | 31.7.7 ⚠️ | 1y 7mo ago | aur-depends |
 | [D0phamine Music Player](https://github.com/d0phamine/d0phamine-music-player) [[repo]](https://github.com/d0phamine/d0phamine-music-player) | 34.0.2 ⚠️ | 1y 7mo ago | which-electron-rg |
-| [DBGlass](http://dbglass.web-pal.com) [[repo]](https://github.com/web-pal/DBGlass) | 1.4.4 ⚠️ | 9y 11mo ago | which-electron-version_file |
+| [DBGlass](http://dbglass.web-pal.com) [[repo]](https://github.com/web-pal/DBGlass) | 1.4.4 ⚠️ | 10y ago | which-electron-version_file |
 | [DarkJ](https://github.com/Yamazaki93/DarkJ-Release) | 2.0.5 ⚠️ | 8y 2mo ago | which-electron-fingerprint |
 | [Darkorbit Client](https://github.com/kaiserdj/Darkorbit-client) [[repo]](https://github.com/kaiserdj/Darkorbit-client) | 11.5.0 ⚠️ | 5y ago | which-electron-rg |
 | [Darkwrite](https://github.com/astudentinearth/darkwrite) [[repo]](https://github.com/astudentinearth/darkwrite) | 42.7.0 ⚠️ | 1mo ago | aur-depends |
@@ -549,7 +549,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Frame](https://frame.sh) [[repo]](https://github.com/floating/frame.git) | 23.1.3 ⚠️ | 3y 6mo ago | which-electron-rg |
 | [Frame Cast](https://github.com/nathan-fiscaletti/framecast) [[repo]](https://github.com/nathan-fiscaletti/framecast) | 24.8.8 ⚠️ | 2y 11mo ago | which-electron-rg |
 | [Framer](https://www.framer.com/) | 42.3.0 ⚠️ | 3mo ago | which-electron-rg |
-| [Frank Go](https://github.com/akitaonrails/frank_go) [[repo]](https://github.com/akitaonrails/frank_go) | 43.4.0 ⚠️ | 17d ago | src-package-lock |
+| [Frank Go](https://github.com/akitaonrails/frank_go) [[repo]](https://github.com/akitaonrails/frank_go) | 44.0.0 | 4d ago | src-package-lock |
 | [Franz](https://meetfranz.com/) | 33.3.0 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Frappe Books](https://frappebooks.com/) [[repo]](https://github.com/frappe/books) | 22.3.27 ⚠️ | 2y 11mo ago | which-electron-rg |
 | [Freecord](https://github.com/MR-MKZ/Freecord) [[repo]](https://github.com/MR-MKZ/Freecord) | 30.5.1 ⚠️ | 1y 11mo ago | aur-depends |
@@ -1004,7 +1004,7 @@ Apps with detected Electron version: 1814 / 2090
 | [NetPad](https://github.com/tareqimbasher/NetPad) [[repo]](https://github.com/tareqimbasher/NetPad) | 36.2.0 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Netease Cloud Music Web Player](https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player) [[repo]](https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player) | 38.8.6 ⚠️ | 5mo ago | src-range-guess |
 | [Netflix Electron31](https://gitlab.com/linuxbombay/netflix-desktop) | 31.7.7 ⚠️ | 1y 7mo ago | aur-depends |
-| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 43.4.0 ⚠️ | 17d ago | src-package-lock |
+| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 44.0.0 | 4d ago | src-package-lock |
 | [Netron With Mime](https://netron.app/) | 43.1.1 ⚠️ | 1mo ago | which-electron-rg |
 | [Netsend](https://github.com/williamnie/netSend) [[repo]](https://github.com/williamnie/netSend) | 21.4.3 ⚠️ | 3y 6mo ago | which-electron-rg |
 | [NetworkAssembler](https://github.com/kir486680/Network-Assembler) [[repo]](https://github.com/kir486680/Network-Assembler) | 7.2.4 ⚠️ | 6y 5mo ago | src-package-lock |
@@ -1405,7 +1405,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Soulfire](https://app.soulfiremc.com/) | 42.1.0 ⚠️ | 3mo ago | which-electron-rg |
 | [Soundboard](https://github.com/Glecun/soundboard) [[repo]](https://github.com/Glecun/soundboard) | 11.0.1 ⚠️ | 5y 10mo ago | src-yarn-lock |
 | [Soundcloud Rpc](https://github.com/richardhbtz/soundcloud-rpc) [[repo]](https://github.com/richardhbtz/soundcloud-rpc) | 37.2.6 ⚠️ | 1y ago | which-electron-rg |
-| [Soundnode](https://soundnode.github.io/soundnode-website/) [[repo]](https://github.com/Soundnode/soundnode-app) | 1.4.4 ⚠️ | 9y 11mo ago | which-electron-version_file |
+| [Soundnode](https://soundnode.github.io/soundnode-website/) [[repo]](https://github.com/Soundnode/soundnode-app) | 1.4.4 ⚠️ | 10y ago | which-electron-version_file |
 | [Soundsync](https://soundsync.app/) | 15.5.7 ⚠️ | 4y 3mo ago | aur-depends |
 | [Source Me](https://github.com/theIYD/source-me) | 1.7.8 ⚠️ | 9y ago | src-package-lock |
 | [Southweather](http://southweather.wlorigin.cf/) | 30.5.1 ⚠️ | 1y 11mo ago | aur-depends |
@@ -1467,7 +1467,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Sunsama](https://www.sunsama.com) | 43.0.0 ⚠️ | 1mo ago | which-electron-rg |
 | [Supalive](https://supalive.app/) | 27.3.11 ⚠️ | 2y 4mo ago | aur-depends |
 | [Super Controller](https://github.com/aolsenjazz/super-controller) [[repo]](https://github.com/aolsenjazz/super-controller) | 19.1.9 ⚠️ | 3y 9mo ago | which-electron-rg |
-| [Super Productivity](https://super-productivity.com/) [[repo]](https://github.com/johannesjo/super-productivity) | 41.4.0 ⚠️ | 4mo ago | src-package-lock |
+| [Super Productivity](https://super-productivity.com/) [[repo]](https://github.com/johannesjo/super-productivity) | 43.4.0 ⚠️ | 17d ago | src-package-lock |
 | [Superhuman](https://superhuman.com/) | 41.6.1 ⚠️ | 3mo ago | which-electron-rg |
 | [Supersplashbros2](https://github.com/NM-Games/super-splash-bros-2) [[repo]](https://github.com/NM-Games/super-splash-bros-2) | 34.0.2 ⚠️ | 1y 7mo ago | which-electron-rg |
 | [Swarm](https://desktop.ethswarm.org/) | 40.10.6 ⚠️ | 1mo ago | aur-depends |
@@ -1518,7 +1518,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Thief](https://github.com/cteamx/Thief) [[repo]](https://github.com/cteamx/Thief) | 8.2.3 ⚠️ | 6y 5mo ago | which-electron-fingerprint |
 | [Thinreports Section Editor](https://github.com/thinreports/thinreports) [[repo]](https://github.com/thinreports/thinreports) | 21.0.1 ⚠️ | 3y 11mo ago | which-electron-rg |
 | [ThisMyPC](https://github.com/supunlakmal/thismypc) [[repo]](https://github.com/supunlakmal/thismypc) | 3.1.8 ⚠️ | 7y 6mo ago | src-package-lock |
-| [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) [[repo]](https://github.com/edrlab/thorium-reader/) | 41.1.1 ⚠️ | 4mo ago | src-package-lock |
+| [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) [[repo]](https://github.com/edrlab/thorium-reader/) | 41.10.7 ⚠️ | 4d ago | src-package-lock |
 | [Thoughts](https://wanglin2.github.io/mind-map/#/index) | 23.3.13 ⚠️ | 3y ago | which-electron-rg |
 | [Threatbrowser](https://github.com/syrex1013/threatbrowser) [[repo]](https://github.com/syrex1013/threatbrowser) | 31.7.7 ⚠️ | 1y 7mo ago | aur-depends |
 | [Threema](https://threema.ch/) | 37.4.0 ⚠️ | 1y ago | which-electron-rg |

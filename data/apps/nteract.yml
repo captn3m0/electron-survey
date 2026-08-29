@@ -1,66 +1,66 @@
 id: nteract
 repository: https://github.com/nteract/nteract
 website: https://nteract.io/
-latest: v2.7.5-stable.202608270405
-src: https://github.com/nteract/nteract/archive/refs/tags/v2.7.5-stable.202608270405.zip
+latest: v2.7.6-stable.202608280705
+src: https://github.com/nteract/nteract/archive/refs/tags/v2.7.6-stable.202608280705.zip
 aur:
 - nteract
 - nteract-bin
 homebrew: nteract
 downloads:
 - name: install-linux-release
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/install-linux-release
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/install-linux-release
 - name: latest.json
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/latest.json
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/latest.json
 - name: nteract-mcp-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-mcp-linux-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-mcp-linux-x64
 - name: nteract-stable-darwin-arm64.app.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-darwin-arm64.app.tar.gz
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-darwin-arm64.app.tar.gz
 - name: nteract-stable-darwin-arm64.app.tar.gz.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-darwin-arm64.app.tar.gz.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-darwin-arm64.app.tar.gz.sig
 - name: nteract-stable-darwin-arm64.dmg
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-darwin-arm64.dmg
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-darwin-arm64.dmg
 - name: nteract-stable-darwin-x64.app.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-darwin-x64.app.tar.gz
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-darwin-x64.app.tar.gz
 - name: nteract-stable-darwin-x64.app.tar.gz.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-darwin-x64.app.tar.gz.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-darwin-x64.app.tar.gz.sig
 - name: nteract-stable-darwin-x64.dmg
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-darwin-x64.dmg
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-darwin-x64.dmg
 - name: nteract-stable-linux-x64.AppImage
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-linux-x64.AppImage
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-linux-x64.AppImage
 - name: nteract-stable-linux-x64.AppImage.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-linux-x64.AppImage.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-linux-x64.AppImage.sig
 - name: nteract-stable-notebook-ui.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-notebook-ui.tar.gz
-  checksum: 7379ebc9170f29b08a6942e0fac12eae3889c8aa5910817cb67e8d408fc574e2
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-notebook-ui.tar.gz
+  checksum: 21bc7363d4c9f4f148077409e50141a707f615847c83a45def1808bb1816f1f0
 - name: nteract-stable-notebook-ui.tar.gz.sha256
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-notebook-ui.tar.gz.sha256
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-notebook-ui.tar.gz.sha256
 - name: nteract-stable-windows-x64.exe
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-windows-x64.exe
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-windows-x64.exe
 - name: nteract-stable-windows-x64.exe.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/nteract-stable-windows-x64.exe.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/nteract-stable-windows-x64.exe.sig
 - name: runt-darwin-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runt-darwin-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runt-darwin-arm64
 - name: runt-darwin-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runt-darwin-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runt-darwin-x64
 - name: runt-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runt-linux-x64
-- name: runtimed-2.7.5-cp39-abi3-macosx_10_12_x86_64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-2.7.5-cp39-abi3-macosx_10_12_x86_64.whl
-- name: runtimed-2.7.5-cp39-abi3-macosx_11_0_arm64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-2.7.5-cp39-abi3-macosx_11_0_arm64.whl
-- name: runtimed-2.7.5-cp39-abi3-manylinux_2_39_x86_64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-2.7.5-cp39-abi3-manylinux_2_39_x86_64.whl
-- name: runtimed-2.7.5-cp39-abi3-win_amd64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-2.7.5-cp39-abi3-win_amd64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runt-linux-x64
+- name: runtimed-2.7.6-cp39-abi3-macosx_10_12_x86_64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-2.7.6-cp39-abi3-macosx_10_12_x86_64.whl
+- name: runtimed-2.7.6-cp39-abi3-macosx_11_0_arm64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-2.7.6-cp39-abi3-macosx_11_0_arm64.whl
+- name: runtimed-2.7.6-cp39-abi3-manylinux_2_39_x86_64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-2.7.6-cp39-abi3-manylinux_2_39_x86_64.whl
+- name: runtimed-2.7.6-cp39-abi3-win_amd64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-2.7.6-cp39-abi3-win_amd64.whl
 - name: runtimed-darwin-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-darwin-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-darwin-arm64
 - name: runtimed-darwin-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-darwin-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-darwin-x64
 - name: runtimed-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-linux-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-linux-x64
 - name: runtimed-windows-x64.exe
-  url: https://github.com/nteract/nteract/releases/download/v2.7.5-stable.202608270405/runtimed-windows-x64.exe
+  url: https://github.com/nteract/nteract/releases/download/v2.7.6-stable.202608280705/runtimed-windows-x64.exe
 name: nteract
 aur_votes: 1
 brew_installs: 100

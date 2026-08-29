@@ -21,7 +21,7 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
-brew_installs: 10
+brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true

@@ -6,24 +6,16 @@ aur:
 - fina
 electron: 34.5.8
 method: which-electron-rg
-latest: v18.1.0
-src: https://github.com/britors/Fina/archive/refs/tags/v18.1.0.zip
+latest: mobile-v0.1.0
+src: https://github.com/britors/Fina/archive/refs/tags/mobile-v0.1.0.zip
 downloads:
-- name: fina-18.1.0.x86_64.rpm
-  url: https://github.com/britors/Fina/releases/download/v18.1.0/fina-18.1.0.x86_64.rpm
-- name: fina-latest.x86_64.rpm
-  url: https://github.com/britors/Fina/releases/download/v18.1.0/fina-latest.x86_64.rpm
-- name: Fina-Setup-18.1.0.exe
-  url: https://github.com/britors/Fina/releases/download/v18.1.0/Fina-Setup-18.1.0.exe
-- name: Fina-Setup-18.1.0.exe.blockmap
-  url: https://github.com/britors/Fina/releases/download/v18.1.0/Fina-Setup-18.1.0.exe.blockmap
-- name: fina_18.1.0_amd64.deb
-  url: https://github.com/britors/Fina/releases/download/v18.1.0/fina_18.1.0_amd64.deb
-- name: latest.yml
-  url: https://github.com/britors/Fina/releases/download/v18.1.0/latest.yml
+- name: app-release.aab
+  url: https://github.com/britors/Fina/releases/download/mobile-v0.1.0/app-release.aab
+- name: app-release.apk
+  url: https://github.com/britors/Fina/releases/download/mobile-v0.1.0/app-release.apk
 evidence:
   kind: binary
   source: https://github.com/britors/Fina/releases/download/v18.0.1/fina-18.0.1.x86_64.rpm
   found_in: fina-18.0.1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-27'
+last_commit: '2026-08-28'
