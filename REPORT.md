@@ -488,7 +488,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Explorama](https://github.com/Explorama/Explorama) [[repo]](https://github.com/Explorama/Explorama) | 28.3.3 ⚠️ | 2y 3mo ago | aur-depends |
 | [Explorer](https://github.com/jfbouzereau/explorer) [[repo]](https://github.com/jfbouzereau/explorer) | 0.35.6 ⚠️ |  | which-electron-fingerprint |
 | [ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator) [[repo]](https://github.com/ExpressLRS/ExpressLRS-Configurator) | 41.2.0 ⚠️ | 4mo ago | src-yarn-lock |
-| [Ezra Bible](https://github.com/ezra-bible-app/ezra-bible-app) [[repo]](https://github.com/ezra-bible-app/ezra-bible-app) | 32.2.3 ⚠️ | 1y 9mo ago | which-electron-rg |
+| [Ezra Bible](https://github.com/ezra-bible-app/ezra-bible-app) [[repo]](https://github.com/ezra-bible-app/ezra-bible-app) | 32.2.3 ⚠️ | 1y 10mo ago | which-electron-rg |
 | [Ezytdl](https://github.com/sylviiu/ezytdl) [[repo]](https://github.com/sylviiu/ezytdl) | 39.8.7 ⚠️ | 4mo ago | which-electron-rg |
 | [F-Curator](https://xizon.github.io/F-Curator-Official-Website/) [[repo]](https://github.com/xizon/F-Curator/tree/main/package) | 16.0.6 ⚠️ | 4y 8mo ago | src-package-lock |
 | [F1multiviewer Digiflag](https://github.com/LapsTimeOFF/DigiFlag_F1MV) [[repo]](https://github.com/LapsTimeOFF/DigiFlag_F1MV) | 38.4.0 ⚠️ | 10mo ago | which-electron-rg |
@@ -608,7 +608,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Github Issue Alert](https://github.com/ashuvssut/github-issue-alert) [[repo]](https://github.com/ashuvssut/github-issue-alert) | 36.0.1 ⚠️ | 1y 4mo ago | which-electron-rg |
 | [Github Panel](https://github.com/littlebutt/github-panel) [[repo]](https://github.com/littlebutt/github-panel) | 33.2.1 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Gitify](https://www.gitify.io/) [[repo]](https://github.com/manosim/gitify) | 43.1.1 ⚠️ | 1mo ago | which-electron-rg |
-| [Glassy Music Nankill](https://github.com/NanKillBro/glassy-music-nankill) [[repo]](https://github.com/NanKillBro/glassy-music-nankill) | 42.7.0 ⚠️ | 1mo ago | aur-depends |
+| [Glassy Music Nankill](https://github.com/NanKillBro/glassy-music-nankill) [[repo]](https://github.com/NanKillBro/glassy-music-nankill) | 42.5.0 ⚠️ | 2mo ago | which-electron-rg |
 | [Glimboi](https://glimboi.com/) | 18.3.15 ⚠️ | 3y 11mo ago | aur-depends |
 | [Glyphr Studio](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) [[repo]](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) | 28.2.1 ⚠️ | 2y 7mo ago | src-package-lock |
 | [GodMode](https://github.com/smol-ai/GodMode) [[repo]](https://github.com/smol-ai/GodMode) | 26.6.10 ⚠️ | 2y 6mo ago | aur-depends |
@@ -1090,7 +1090,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Opentubex](https://opentubex.org) | 41.10.2 ⚠️ | 1mo ago | aur-depends |
 | [Openvpn Connect Linux](https://github.com/dresden196/openvpn-connect-linux) [[repo]](https://github.com/dresden196/openvpn-connect-linux) | 37.10.3 ⚠️ | 9mo ago | which-electron-rg |
 | [Openwebmonitor3](http://owm.fatecore.com/) | 11.5.0 ⚠️ | 5y ago | aur-depends |
-| [Orca](https://github.com/hundredrabbits/Orca) [[repo]](https://github.com/hundredrabbits/Orca) | 8.5.3 ⚠️ | 5y 10mo ago | src-package-lock |
+| [Orca](https://github.com/hundredrabbits/Orca) [[repo]](https://github.com/hundredrabbits/Orca) | 8.5.3 ⚠️ | 5y 11mo ago | src-package-lock |
 | [Orca IDE](https://onorca.dev/) | 43.1.0 ⚠️ | 1mo ago | which-electron-rg |
 | [Orca Writer](https://orcawriter.app/) | 18.3.15 ⚠️ | 3y 11mo ago | aur-depends |
 | [Oscgoesbrrr](https://osc.toys/) | 39.8.10 ⚠️ | 3mo ago | aur-depends |

@@ -16,3 +16,4 @@ evidence:
   source: https://fym-app-production.s3.nl-ams.scw.cloud/FreeYourMusic-9.22.1.dmg
   found_in: FreeYourMusic-9.22.1.dmg
   signal: which-electron rg signal
+aur_votes: 1

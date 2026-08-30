@@ -6,19 +6,19 @@ aur:
 - clip-editor-bin
 electron: 36.2.1
 method: which-electron-rg
-latest: v0.3.3
-src: https://github.com/sn0w12/clip-editor/archive/refs/tags/v0.3.3.zip
+latest: v0.4.0
+src: https://github.com/sn0w12/clip-editor/archive/refs/tags/v0.4.0.zip
 downloads:
-- name: Clip.Editor_0.3.3_x64-setup.exe
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.3.3/Clip.Editor_0.3.3_x64-setup.exe
-- name: Clip.Editor_0.3.3_x64-setup.exe.sig
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.3.3/Clip.Editor_0.3.3_x64-setup.exe.sig
-- name: Clip.Editor_0.3.3_x64_en-US.msi
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.3.3/Clip.Editor_0.3.3_x64_en-US.msi
-- name: Clip.Editor_0.3.3_x64_en-US.msi.sig
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.3.3/Clip.Editor_0.3.3_x64_en-US.msi.sig
+- name: Clip.Editor_0.4.0_x64-setup.exe
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.0/Clip.Editor_0.4.0_x64-setup.exe
+- name: Clip.Editor_0.4.0_x64-setup.exe.sig
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.0/Clip.Editor_0.4.0_x64-setup.exe.sig
+- name: Clip.Editor_0.4.0_x64_en-US.msi
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.0/Clip.Editor_0.4.0_x64_en-US.msi
+- name: Clip.Editor_0.4.0_x64_en-US.msi.sig
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.0/Clip.Editor_0.4.0_x64_en-US.msi.sig
 - name: latest.json
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.3.3/latest.json
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.0/latest.json
 evidence:
   kind: binary
   source: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip-editor-0.2.7-1.x86_64.rpm

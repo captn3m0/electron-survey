@@ -4,52 +4,52 @@ website: https://github.com/NanKillBro/glassy-music-nankill
 repository: https://github.com/NanKillBro/glassy-music-nankill
 aur:
 - glassy-music-nankill-git
-electron: 42.7.0
-method: aur-depends
-latest: v3.12.10-beta
-src: https://github.com/NanKillBro/glassy-music-nankill/archive/refs/tags/v3.12.10-beta.zip
+electron: 42.5.0
+method: which-electron-rg
+latest: v4.0.0
+src: https://github.com/NanKillBro/glassy-music-nankill/archive/refs/tags/v4.0.0.zip
 downloads:
-- name: Glassy-Music-3.12.10-beta-arm64.AppImage
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-3.12.10-beta-arm64.AppImage
-- name: Glassy-Music-3.12.10-beta-arm64.dmg
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-3.12.10-beta-arm64.dmg
-- name: Glassy-Music-3.12.10-beta-arm64.dmg.blockmap
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-3.12.10-beta-arm64.dmg.blockmap
-- name: Glassy-Music-3.12.10-beta.AppImage
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-3.12.10-beta.AppImage
-- name: Glassy-Music-3.12.10-beta.dmg
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-3.12.10-beta.dmg
-- name: Glassy-Music-3.12.10-beta.dmg.blockmap
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-3.12.10-beta.dmg.blockmap
-- name: glassy-music-nankill-mod-3.12.10-beta-arm64.nsis.7z
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod-3.12.10-beta-arm64.nsis.7z
-- name: glassy-music-nankill-mod-3.12.10-beta-arm64.tar.gz
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod-3.12.10-beta-arm64.tar.gz
-- name: glassy-music-nankill-mod-3.12.10-beta-x64.nsis.7z
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod-3.12.10-beta-x64.nsis.7z
-- name: glassy-music-nankill-mod-3.12.10-beta.aarch64.rpm
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod-3.12.10-beta.aarch64.rpm
-- name: glassy-music-nankill-mod-3.12.10-beta.tar.gz
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod-3.12.10-beta.tar.gz
-- name: glassy-music-nankill-mod-3.12.10-beta.x86_64.rpm
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod-3.12.10-beta.x86_64.rpm
-- name: glassy-music-nankill-mod_3.12.10-beta_amd64.deb
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod_3.12.10-beta_amd64.deb
-- name: glassy-music-nankill-mod_3.12.10-beta_arm64.deb
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/glassy-music-nankill-mod_3.12.10-beta_arm64.deb
-- name: Glassy-Music-Web-Setup-3.12.10-beta.exe
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/Glassy-Music-Web-Setup-3.12.10-beta.exe
+- name: Glassy-Music-4.0.0-arm64.AppImage
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-4.0.0-arm64.AppImage
+- name: Glassy-Music-4.0.0-arm64.dmg
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-4.0.0-arm64.dmg
+- name: Glassy-Music-4.0.0-arm64.dmg.blockmap
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-4.0.0-arm64.dmg.blockmap
+- name: Glassy-Music-4.0.0.AppImage
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-4.0.0.AppImage
+- name: Glassy-Music-4.0.0.dmg
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-4.0.0.dmg
+- name: Glassy-Music-4.0.0.dmg.blockmap
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-4.0.0.dmg.blockmap
+- name: glassy-music-nankill-mod-4.0.0-arm64.nsis.7z
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0-arm64.nsis.7z
+- name: glassy-music-nankill-mod-4.0.0-arm64.tar.gz
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0-arm64.tar.gz
+- name: glassy-music-nankill-mod-4.0.0-x64.nsis.7z
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0-x64.nsis.7z
+- name: glassy-music-nankill-mod-4.0.0.aarch64.rpm
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0.aarch64.rpm
+- name: glassy-music-nankill-mod-4.0.0.tar.gz
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0.tar.gz
+- name: glassy-music-nankill-mod-4.0.0.x86_64.rpm
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0.x86_64.rpm
+- name: glassy-music-nankill-mod_4.0.0_amd64.deb
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod_4.0.0_amd64.deb
+- name: glassy-music-nankill-mod_4.0.0_arm64.deb
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod_4.0.0_arm64.deb
+- name: Glassy-Music-Web-Setup-4.0.0.exe
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/Glassy-Music-Web-Setup-4.0.0.exe
 - name: latest-linux-arm64.yml
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/latest-linux-arm64.yml
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/latest-linux.yml
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/latest-mac.yml
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v3.12.10-beta/latest.yml
+  url: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/latest.yml
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/glassy-music-nankill-git
-  found_in: glassy-music-nankill-git
-  signal: depends on electron42; reported as the newest 42.x release (42.7.0)
-last_commit: '2026-08-28'
+  kind: binary
+  source: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0.aarch64.rpm
+  found_in: glassy-music-nankill-mod-4.0.0.aarch64.rpm
+  signal: which-electron rg signal
+last_commit: '2026-08-30'

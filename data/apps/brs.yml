@@ -6,34 +6,34 @@ aur:
 - brs-desktop-bin
 electron: 39.8.10
 method: aur-depends
-latest: v2.5.1
-src: https://github.com/lvcabral/brs-desktop/archive/refs/tags/v2.5.1.zip
+latest: v2.5.2
+src: https://github.com/lvcabral/brs-desktop/archive/refs/tags/v2.5.2.zip
 downloads:
-- name: brs-desktop-2.5.1-linux-amd64.deb
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-linux-amd64.deb
-- name: brs-desktop-2.5.1-linux-arm64.deb
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-linux-arm64.deb
-- name: brs-desktop-2.5.1-linux-armv7l.AppImage
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-linux-armv7l.AppImage
-- name: brs-desktop-2.5.1-linux-x86_64.AppImage
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-linux-x86_64.AppImage
-- name: brs-desktop-2.5.1-macOS.dmg
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-macOS.dmg
-- name: brs-desktop-2.5.1-macOS.zip
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-macOS.zip
-- name: brs-desktop-2.5.1-windows.exe
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-windows.exe
-- name: brs-desktop-2.5.1-windows.exe.blockmap
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/brs-desktop-2.5.1-windows.exe.blockmap
+- name: brs-desktop-2.5.2-linux-amd64.deb
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-linux-amd64.deb
+- name: brs-desktop-2.5.2-linux-arm64.deb
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-linux-arm64.deb
+- name: brs-desktop-2.5.2-linux-armv7l.AppImage
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-linux-armv7l.AppImage
+- name: brs-desktop-2.5.2-linux-x86_64.AppImage
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-linux-x86_64.AppImage
+- name: brs-desktop-2.5.2-macOS.dmg
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-macOS.dmg
+- name: brs-desktop-2.5.2-macOS.zip
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-macOS.zip
+- name: brs-desktop-2.5.2-windows.exe
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-windows.exe
+- name: brs-desktop-2.5.2-windows.exe.blockmap
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/brs-desktop-2.5.2-windows.exe.blockmap
 - name: latest.yml
-  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.1/latest.yml
-we_tried: we1.2.1+p1:v2.5.1
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.5.2/latest.yml
+we_tried: we1.2.1+p1:v2.5.2
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/brs-desktop-bin
   found_in: brs-desktop-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-08-28'
+last_commit: '2026-08-29'
 aur_downloads:
 - url: https://raw.githubusercontent.com/lvcabral/brs-desktop/v2.2.0/LICENSE
   name: LICENSE
