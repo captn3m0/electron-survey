@@ -1,4 +1,4 @@
-generated: '2026-08-30'
+generated: '2026-08-31'
 source: NVD CVE API 2.0, cpe:2.3:a:google:chrome
 total_cves: 6129
 scored_cves: 6102
@@ -359,11 +359,11 @@ by_chromium_major:
     low: 30
     total: 654
   152: &id060
-    critical: 35
-    high: 58
-    medium: 112
-    low: 12
-    total: 217
+    critical: 0
+    high: 0
+    medium: 0
+    low: 0
+    total: 0
 by_chromium:
   39.0.2171.65: *id001
   40.0.2214.91: *id002
@@ -1749,8 +1749,20 @@ by_chromium:
     medium: 339
     low: 30
     total: 654
-  150.0.7871.224: *id059
-  152.0.7977.54: *id060
+  150.0.7871.224:
+    critical: 99
+    high: 186
+    medium: 339
+    low: 30
+    total: 654
+  150.0.7871.250: *id059
+  152.0.7977.54:
+    critical: 35
+    high: 58
+    medium: 112
+    low: 12
+    total: 217
+  152.0.7977.65: *id060
 by_electron:
   0.20.0:
     chromium: 39.0.2171.65
@@ -9816,6 +9828,13 @@ by_electron:
     medium: 824
     low: 51
     total: 1735
+  42.11.0:
+    chromium: 148.0.7778.280
+    critical: 227
+    high: 633
+    medium: 824
+    low: 51
+    total: 1735
   43.0.0:
     chromium: 150.0.7871.46
     critical: 142
@@ -9865,6 +9884,13 @@ by_electron:
     medium: 339
     low: 30
     total: 654
+  43.5.0:
+    chromium: 150.0.7871.250
+    critical: 99
+    high: 186
+    medium: 339
+    low: 30
+    total: 654
   44.0.0:
     chromium: 152.0.7977.54
     critical: 35
@@ -9872,3 +9898,10 @@ by_electron:
     medium: 112
     low: 12
     total: 217
+  44.1.0:
+    chromium: 152.0.7977.65
+    critical: 0
+    high: 0
+    medium: 0
+    low: 0
+    total: 0

@@ -71,4 +71,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/aandrew-me/ytDownloader/archive/refs/tags/v4.0.1.zip
 aur_votes: 1
-last_commit: '2026-08-29'
+last_commit: '2026-08-30'

@@ -1,71 +1,72 @@
 id: iptvnator
 repository: https://github.com/4gray/iptvnator
 website: https://github.com/4gray/iptvnator
-latest: v0.22.0
-src: https://github.com/4gray/iptvnator/archive/refs/tags/v0.22.0.zip
+latest: v0.23.0
+src: https://github.com/4gray/iptvnator/archive/refs/tags/v0.23.0.zip
 downloads:
-- name: iptvnator-0.22.0-linux-amd64.deb
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-amd64.deb
-- name: iptvnator-0.22.0-linux-amd64.snap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-amd64.snap
-- name: iptvnator-0.22.0-linux-arm64.AppImage
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-arm64.AppImage
-- name: iptvnator-0.22.0-linux-arm64.deb
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-arm64.deb
-- name: iptvnator-0.22.0-linux-armhf.snap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-armhf.snap
-- name: iptvnator-0.22.0-linux-armv7l.AppImage
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-armv7l.AppImage
-- name: iptvnator-0.22.0-linux-armv7l.deb
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-armv7l.deb
-- name: iptvnator-0.22.0-linux-x64.pacman
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-x64.pacman
-- name: iptvnator-0.22.0-linux-x86_64.AppImage
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-x86_64.AppImage
-- name: iptvnator-0.22.0-linux-x86_64.flatpak
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-x86_64.flatpak
-- name: iptvnator-0.22.0-linux-x86_64.rpm
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-linux-x86_64.rpm
-- name: iptvnator-0.22.0-mac-arm64.dmg
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-arm64.dmg
-- name: iptvnator-0.22.0-mac-arm64.dmg.blockmap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-arm64.dmg.blockmap
-- name: iptvnator-0.22.0-mac-arm64.zip
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-arm64.zip
-- name: iptvnator-0.22.0-mac-arm64.zip.blockmap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-arm64.zip.blockmap
-- name: iptvnator-0.22.0-mac-x64.dmg
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-x64.dmg
-- name: iptvnator-0.22.0-mac-x64.dmg.blockmap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-x64.dmg.blockmap
-- name: iptvnator-0.22.0-mac-x64.zip
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-x64.zip
-- name: iptvnator-0.22.0-mac-x64.zip.blockmap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-mac-x64.zip.blockmap
-- name: iptvnator-0.22.0-windows-x64-setup.exe
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-windows-x64-setup.exe
-- name: iptvnator-0.22.0-windows-x64-setup.exe.blockmap
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-windows-x64-setup.exe.blockmap
+- name: iptvnator-0.23.0-linux-amd64.deb
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-amd64.deb
+- name: iptvnator-0.23.0-linux-amd64.snap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-amd64.snap
+- name: iptvnator-0.23.0-linux-arm64.AppImage
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-arm64.AppImage
+- name: iptvnator-0.23.0-linux-arm64.deb
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-arm64.deb
+- name: iptvnator-0.23.0-linux-armhf.snap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-armhf.snap
+- name: iptvnator-0.23.0-linux-armv7l.AppImage
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-armv7l.AppImage
+- name: iptvnator-0.23.0-linux-armv7l.deb
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-armv7l.deb
+- name: iptvnator-0.23.0-linux-x64.pacman
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-x64.pacman
+- name: iptvnator-0.23.0-linux-x86_64.AppImage
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-x86_64.AppImage
+- name: iptvnator-0.23.0-linux-x86_64.flatpak
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-x86_64.flatpak
+- name: iptvnator-0.23.0-linux-x86_64.rpm
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-linux-x86_64.rpm
+- name: iptvnator-0.23.0-mac-arm64.dmg
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-arm64.dmg
+- name: iptvnator-0.23.0-mac-arm64.dmg.blockmap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-arm64.dmg.blockmap
+- name: iptvnator-0.23.0-mac-arm64.zip
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-arm64.zip
+- name: iptvnator-0.23.0-mac-arm64.zip.blockmap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-arm64.zip.blockmap
+- name: iptvnator-0.23.0-mac-x64.dmg
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-x64.dmg
+- name: iptvnator-0.23.0-mac-x64.dmg.blockmap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-x64.dmg.blockmap
+- name: iptvnator-0.23.0-mac-x64.zip
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-x64.zip
+- name: iptvnator-0.23.0-mac-x64.zip.blockmap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-mac-x64.zip.blockmap
+- name: iptvnator-0.23.0-windows-x64-setup.exe
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-windows-x64-setup.exe
+- name: iptvnator-0.23.0-windows-x64-setup.exe.blockmap
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-windows-x64-setup.exe.blockmap
 - name: latest-linux-arm.yml
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/latest-linux-arm.yml
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/latest-linux-arm.yml
 - name: latest-linux-arm64.yml
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/latest-linux-arm64.yml
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/latest-linux.yml
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/latest-mac.yml
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/4gray/iptvnator/releases/download/v0.22.0/latest.yml
-electron: 41.7.2
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/latest.yml
+- name: linux-frame-copy-runtime-sources.tar.xz
+  url: https://github.com/4gray/iptvnator/releases/download/v0.23.0/linux-frame-copy-runtime-sources.tar.xz
+electron: 43.3.0
 method: src-pnpm-lock
 homebrew: iptvnator
 name: IPTVnator
-electron_src: https://github.com/4gray/iptvnator/archive/refs/tags/v0.22.0.zip
+electron_src: https://github.com/4gray/iptvnator/archive/refs/tags/v0.23.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3A4gray%2Fiptvnator+path%3Apnpm-lock.yaml+electron&type=code
-  found_in: pnpm-lock.yaml
+  found_in: iptvnator-0.23.0/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  reconstructed: true
+  source: https://github.com/4gray/iptvnator/archive/refs/tags/v0.23.0.zip
 brew_installs: 1000
-last_commit: '2026-08-29'
+last_commit: '2026-08-30'

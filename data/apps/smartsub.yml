@@ -54,4 +54,4 @@ evidence:
   found_in: SmartSub-3.7.0/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/buxuku/SmartSub/archive/refs/tags/v3.7.0.zip
-last_commit: '2026-08-20'
+last_commit: '2026-08-30'

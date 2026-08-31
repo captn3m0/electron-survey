@@ -47,7 +47,7 @@ downloads:
   checksum: 8387a14644a22441610cdadbb0fca3b0e00df8ae25c93d3ca7fa25852e39699e
 - name: mux-0.28.2-x86_64.AppImage.sha256
   url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x86_64.AppImage.sha256
-last_commit: '2026-08-29'
+last_commit: '2026-08-31'
 electron: 40.9.3
 method: which-electron-rg
 evidence:

@@ -68,7 +68,7 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-09'
+last_commit: '2026-08-31'
 aur_downloads:
 - url: https://github.com/hackjutsu/Lepton/releases/download/v1.10.0/Lepton-1.10.0.AppImage
   name: Lepton-1.10.0.AppImage

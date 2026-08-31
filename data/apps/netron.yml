@@ -1,27 +1,27 @@
 id: netron
 repository: https://github.com/lutzroeder/netron
 website: https://www.lutzroeder.com/ai
-latest: v9.2.3
-src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.3.zip
+latest: v9.2.4
+src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.4.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/latest-linux.yml
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/latest-mac.yml
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/latest.yml
-- name: Netron-9.2.3-amd64.deb
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/Netron-9.2.3-amd64.deb
-- name: Netron-9.2.3-mac.zip
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/Netron-9.2.3-mac.zip
-- name: Netron-9.2.3-mac.zip.blockmap
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/Netron-9.2.3-mac.zip.blockmap
-- name: Netron-9.2.3-x86_64.rpm
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/Netron-9.2.3-x86_64.rpm
-- name: Netron-9.2.3.dmg
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/Netron-9.2.3.dmg
-- name: Netron-Setup-9.2.3.exe
-  url: https://github.com/lutzroeder/netron/releases/download/v9.2.3/Netron-Setup-9.2.3.exe
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/latest.yml
+- name: Netron-9.2.4-amd64.deb
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/Netron-9.2.4-amd64.deb
+- name: Netron-9.2.4-mac.zip
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/Netron-9.2.4-mac.zip
+- name: Netron-9.2.4-mac.zip.blockmap
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/Netron-9.2.4-mac.zip.blockmap
+- name: Netron-9.2.4-x86_64.rpm
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/Netron-9.2.4-x86_64.rpm
+- name: Netron-9.2.4.dmg
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/Netron-9.2.4.dmg
+- name: Netron-Setup-9.2.4.exe
+  url: https://github.com/lutzroeder/netron/releases/download/v9.2.4/Netron-Setup-9.2.4.exe
 electron: 44.0.0
 method: src-package-lock
 aur:
@@ -35,12 +35,12 @@ packages:
   format: zip
   os: macos
 name: Netron
-electron_src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.3.zip
+electron_src: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.4.zip
 evidence:
   kind: lockfile
-  found_in: netron-9.2.3/package-lock.json
+  found_in: netron-9.2.4/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.3.zip
+  source: https://github.com/lutzroeder/netron/archive/refs/tags/v9.2.4.zip
 aur_votes: 1
 brew_installs: 1000
 last_commit: '2026-08-30'

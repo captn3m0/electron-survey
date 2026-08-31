@@ -196,4 +196,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/mihomo-party-org/mihomo-party/archive/refs/tags/v2.0.2.zip
 aur_votes: 1
-last_commit: '2026-08-28'
+last_commit: '2026-08-30'

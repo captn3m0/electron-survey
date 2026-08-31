@@ -40,3 +40,5 @@ evidence:
   source: https://github.com/kubernetes-retired/kui/releases/download/v13.1.4/Kui-darwin-arm64.tar.bz2
   found_in: Kui-darwin-arm64.tar.bz2
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: discontinued

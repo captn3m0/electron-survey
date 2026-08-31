@@ -31,7 +31,7 @@ evidence:
   found_in: nostr-relay-tray-2.0.0.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-02-02'
+last_commit: '2026-08-30'
 aur_downloads:
 - url: https://github.com/CodyTseng/nostr-relay-tray/releases/download/v2.0.0/nostr-relay-tray_2.0.0_amd64.deb
   name: nostr-relay-tray_2.0.0_amd64.deb

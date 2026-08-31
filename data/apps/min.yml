@@ -47,7 +47,7 @@ aur_votes: 10
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-23'
+last_commit: '2026-08-30'
 aur_downloads:
 - url: https://github.com/minbrowser/min/releases/download/v1.35.6/min-1.35.6-arm64.deb
   name: min-1.35.6-arm64.deb

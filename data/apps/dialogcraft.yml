@@ -20,5 +20,5 @@ evidence:
   source: https://aur.archlinux.org/packages/dialogcraft
   found_in: dialogcraft
   signal: depends on electron25; reported as the newest 25.x release (25.9.8)
-last_commit: '2026-08-02'
+last_commit: '2026-08-30'
 we_tried: we1.2.1+p1:v1.1.0

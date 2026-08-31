@@ -33,7 +33,7 @@ downloads:
   url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/win-arm64-unpacked.zip
 - name: win-unpacked-x64.zip
   url: https://github.com/REVENGE977/stremio-enhanced/releases/download/v1.2.0/win-unpacked-x64.zip
-aur_votes: 1
+aur_votes: 10
 last_commit: '2026-07-30'
 aur_downloads:
 - url: https://raw.githubusercontent.com/REVENGE977/stremio-enhanced/v1.2.0/LICENSE.md
