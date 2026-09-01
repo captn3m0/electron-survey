@@ -6,14 +6,14 @@ aur:
 - simpleshell-git
 electron: 40.10.6
 method: aur-depends
-latest: v0.4.44
-src: https://github.com/funkpopo/simpleshell/archive/refs/tags/v0.4.44.zip
+latest: v0.4.45
+src: https://github.com/funkpopo/simpleshell/archive/refs/tags/v0.4.45.zip
 downloads:
-- name: SimpleShell-v0.4.44-Setup-x64.exe
-  url: https://github.com/funkpopo/simpleshell/releases/download/v0.4.44/SimpleShell-v0.4.44-Setup-x64.exe
+- name: SimpleShell-v0.4.45-Setup-x64.exe
+  url: https://github.com/funkpopo/simpleshell/releases/download/v0.4.45/SimpleShell-v0.4.45-Setup-x64.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/simpleshell-git
   found_in: simpleshell-git
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
-last_commit: '2026-08-31'
+last_commit: '2026-09-01'

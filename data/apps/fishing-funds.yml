@@ -55,3 +55,5 @@ aur_downloads:
   name: Fishing-Funds-8.8.0.AppImage
   arch: x86_64
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

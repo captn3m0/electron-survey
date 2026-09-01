@@ -54,3 +54,5 @@ brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2024-02-21'
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

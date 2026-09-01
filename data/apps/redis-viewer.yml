@@ -31,7 +31,7 @@ evidence:
   found_in: redis-viewer-bin
   signal: depends on electron28; reported as the newest 28.x release (28.3.3)
 aur_votes: 1
-last_commit: '2026-08-30'
+last_commit: '2026-09-01'
 aur_downloads:
 - url: https://github.com/redisviewer/RedisViewer/releases/download/v2.4.9/Redis.Viewer-2.4.9-linux.pacman
   name: Redis.Viewer-2.4.9-linux.pacman

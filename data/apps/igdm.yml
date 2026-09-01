@@ -57,3 +57,5 @@ evidence:
   source: https://github.com/igdmapps/igdm/releases/download/v3.0.4/IGdm_3.0.4_amd64.deb
   found_in: IGdm_3.0.4_amd64.deb
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

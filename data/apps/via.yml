@@ -52,3 +52,5 @@ aur_downloads:
   name: via-desktop-2026.5.18-1.x86_64.rpm
   arch: any
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

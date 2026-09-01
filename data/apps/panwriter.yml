@@ -64,3 +64,5 @@ aur_downloads:
   name: PanWriter-0.8.10.AppImage
   arch: x86_64
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

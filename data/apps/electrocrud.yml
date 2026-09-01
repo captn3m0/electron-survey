@@ -39,3 +39,5 @@ aur_downloads:
   name: ElectroCRUD-v3.1.0-develop.1-linux-x64.rpm
   arch: any
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

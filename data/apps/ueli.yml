@@ -78,7 +78,7 @@ aur_votes: 1
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-20'
+last_commit: '2026-08-31'
 aur_downloads:
 - url: https://raw.githubusercontent.com/oliverschwendener/ueli/v9.29.0/LICENSE
   name: LICENSE
@@ -92,3 +92,5 @@ aur_downloads:
   name: ueli-9.29.0.x86_64.rpm
   arch: x86_64
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

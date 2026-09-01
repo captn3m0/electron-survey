@@ -22,7 +22,7 @@ homebrew: extraterm
 name: Extraterm
 we_tried: we1.2.1+p1:v0.82.0
 aur_votes: 10
-brew_installs: 10
+brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2026-06-05'
@@ -31,3 +31,5 @@ aur_downloads:
   name: ExtratermQt-0.82.0.glibc2.38-x86_64.AppImage
   arch: any
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

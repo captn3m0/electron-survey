@@ -77,3 +77,5 @@ evidence:
   source: https://github.com/vladimiry/ElectronMail/releases/download/v5.3.8/electron-mail-5.3.8-linux-aarch64.rpm
   found_in: electron-mail-5.3.8-linux-aarch64.rpm
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

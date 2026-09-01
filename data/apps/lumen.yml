@@ -34,3 +34,5 @@ aur_downloads:
   name: Project.L.U.M.E.N.-linux-x64.zip
   arch: any
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

@@ -2,7 +2,7 @@ id: nuclear
 name: nuclear
 repository: https://github.com/nukeop/nuclear
 website: https://nuclearplayer.com/
-last_commit: '2026-08-30'
+last_commit: '2026-09-01'
 latest: player@1.47.1
 src: https://github.com/nukeop/nuclear/archive/refs/tags/player@1.47.1.zip
 downloads:
@@ -63,3 +63,5 @@ aur_downloads:
 homepage: true
 aur_votes: 10
 brew_installs: 100
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

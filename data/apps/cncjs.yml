@@ -61,3 +61,5 @@ evidence:
   source: https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-linux.aarch64.rpm
   found_in: cncjs-app-1.11.2-linux.aarch64.rpm
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

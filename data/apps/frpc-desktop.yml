@@ -72,7 +72,7 @@ downloads:
   url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/latest-mac.yml
 - name: latest.yml
   url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/latest.yml
-last_commit: '2026-08-10'
+last_commit: '2026-08-31'
 evidence:
   kind: binary
   source: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop-1.2.6.x86_64.rpm

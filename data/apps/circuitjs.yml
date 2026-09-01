@@ -19,3 +19,5 @@ evidence:
   source: https://www.falstad.com/circuit/offline/CircuitJS1-macarm.dmg
   found_in: CircuitJS1-macarm.dmg
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

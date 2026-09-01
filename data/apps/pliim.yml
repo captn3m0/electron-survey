@@ -24,3 +24,5 @@ evidence:
   source: https://github.com/zehfernandes/pliim/releases/download/v1.7.0/Pliim.app.zip
   found_in: Pliim.app.zip
   signal: which-electron fingerprint signal (2 signals agreed)
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

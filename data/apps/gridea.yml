@@ -53,3 +53,5 @@ evidence:
   source: https://github.com/getgridea/gridea/releases/download/v0.9.3/Gridea-0.9.3.AppImage
   found_in: Gridea-0.9.3.AppImage
   signal: which-electron fingerprint signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

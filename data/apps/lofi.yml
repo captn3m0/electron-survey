@@ -31,3 +31,5 @@ evidence:
   source: https://github.com/dvx/lofi/releases/download/v2.0.2/lofi.AppImage
   found_in: lofi.AppImage
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

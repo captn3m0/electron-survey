@@ -43,3 +43,5 @@ evidence:
   source: https://github.com/it-pal-net/chronos-timetracker/releases/download/v6.3.2/Chronos-6.3.2.AppImage
   found_in: Chronos-6.3.2.AppImage
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

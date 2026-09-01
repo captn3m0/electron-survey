@@ -6,21 +6,21 @@ aur:
 - linux-sensor-tray
 electron: 41.5.0
 method: which-electron-rg
-latest: v0.3.4
-src: https://github.com/Mindsaver/linux-sensor-tray/archive/refs/tags/v0.3.4.zip
+latest: v0.4.0
+src: https://github.com/Mindsaver/linux-sensor-tray/archive/refs/tags/v0.4.0.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/latest-linux.yml
-- name: Linux-Sensor-Tray-0.3.4.AppImage
-  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/Linux-Sensor-Tray-0.3.4.AppImage
-- name: linux-sensor-tray-0.3.4.tar.gz
-  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/linux-sensor-tray-0.3.4.tar.gz
-- name: Linux.Sensor.Tray-0.3.4.AppImage.sha256
-  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/Linux.Sensor.Tray-0.3.4.AppImage.sha256
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.4.0/latest-linux.yml
+- name: Linux-Sensor-Tray-0.4.0.AppImage
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.4.0/Linux-Sensor-Tray-0.4.0.AppImage
+- name: linux-sensor-tray-0.4.0.tar.gz
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.4.0/linux-sensor-tray-0.4.0.tar.gz
+- name: Linux.Sensor.Tray-0.4.0.AppImage.sha256
+  url: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.4.0/Linux.Sensor.Tray-0.4.0.AppImage.sha256
 evidence:
   kind: binary
   source: https://github.com/Mindsaver/linux-sensor-tray/releases/download/v0.3.4/Linux-Sensor-Tray-0.3.4.AppImage
   found_in: Linux-Sensor-Tray-0.3.4.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-05-08'
+last_commit: '2026-08-31'

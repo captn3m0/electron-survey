@@ -447,7 +447,7 @@ evidence:
 homepage: true
 aur_votes: 1
 brew_installs: 10000
-last_commit: '2026-08-28'
+last_commit: '2026-08-31'
 aur_downloads:
 - url: https://raw.githubusercontent.com/VSCodium/vscodium/1.126.04524/LICENSE
   name: LICENSE

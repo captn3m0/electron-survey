@@ -23,7 +23,7 @@ evidence:
   source: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-linux-x64.AppImage
   found_in: Altitude-Metrix-Wallet-linux-x64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-24'
+last_commit: '2026-09-01'
 aur_downloads:
 - url: https://github.com/TheLindaProjectInc/Altitude/releases/download/3.4.2/Altitude-Metrix-Wallet-linux-x64.AppImage
   name: Altitude-Metrix-Wallet-linux-x64.AppImage

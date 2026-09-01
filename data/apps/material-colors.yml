@@ -23,3 +23,5 @@ evidence:
   source: https://github.com/romannurik/MaterialColorsApp/releases/download/v2.0.3/MaterialColors-2.0.3.zip
   found_in: MaterialColors-2.0.3.zip
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

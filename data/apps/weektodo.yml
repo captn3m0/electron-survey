@@ -24,3 +24,5 @@ evidence:
   source: https://github.com/Zuntek/WeekToDoWeb/releases/download/v2.2.0/WeekToDo-2.2.0.dmg
   found_in: WeekToDo-2.2.0.dmg
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

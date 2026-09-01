@@ -34,3 +34,5 @@ evidence:
   source: https://github.com/blocktronics/moebius/releases/download/1.0.29/Moebius.dmg
   found_in: Moebius.dmg
   signal: which-electron fingerprint signal
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

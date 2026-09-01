@@ -79,7 +79,7 @@ evidence:
   found_in: F-Chat.Horizon-2.3.3-linux-aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-30'
+last_commit: '2026-08-31'
 aur_downloads:
 - url: https://github.com/Fchat-Horizon/Horizon/releases/download/v2.3.3/F-Chat.Horizon-2.3.3-linux-x64.tar.gz
   name: F-Chat.Horizon-2.3.3-linux-x64.tar.gz

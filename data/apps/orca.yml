@@ -28,3 +28,5 @@ evidence:
   source: https://github.com/hundredrabbits/Orca/archive/refs/heads/main.zip
 electron_src: https://github.com/hundredrabbits/Orca/archive/refs/heads/main.zip
 electron_src_commit: '2025-11-16'
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check

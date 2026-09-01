@@ -6,43 +6,43 @@ aur:
 - wowup-native
 electron: 43.1.1
 method: which-electron-rg
-latest: v2.23.0
-src: https://github.com/WowUp/WowUp/archive/refs/tags/v2.23.0.zip
+latest: v2.23.1
+src: https://github.com/WowUp/WowUp/archive/refs/tags/v2.23.1.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/latest-linux.yml
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/latest-mac.yml
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/latest.yml
-- name: WowUp-2.23.0-arm64-mac.zip
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0-arm64-mac.zip
-- name: WowUp-2.23.0-arm64-mac.zip.blockmap
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0-arm64-mac.zip.blockmap
-- name: WowUp-2.23.0-arm64.dmg
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0-arm64.dmg
-- name: WowUp-2.23.0-arm64.dmg.blockmap
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0-arm64.dmg.blockmap
-- name: WowUp-2.23.0-mac.zip
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0-mac.zip
-- name: WowUp-2.23.0-mac.zip.blockmap
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0-mac.zip.blockmap
-- name: WowUp-2.23.0.AppImage
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0.AppImage
-- name: WowUp-2.23.0.dmg
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0.dmg
-- name: WowUp-2.23.0.dmg.blockmap
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0.dmg.blockmap
-- name: WowUp-2.23.0.exe
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0.exe
-- name: WowUp-Setup-2.23.0.exe
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-Setup-2.23.0.exe
-- name: WowUp-Setup-2.23.0.exe.blockmap
-  url: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-Setup-2.23.0.exe.blockmap
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/latest.yml
+- name: WowUp-2.23.1-arm64-mac.zip
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1-arm64-mac.zip
+- name: WowUp-2.23.1-arm64-mac.zip.blockmap
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1-arm64-mac.zip.blockmap
+- name: WowUp-2.23.1-arm64.dmg
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1-arm64.dmg
+- name: WowUp-2.23.1-arm64.dmg.blockmap
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1-arm64.dmg.blockmap
+- name: WowUp-2.23.1-mac.zip
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1-mac.zip
+- name: WowUp-2.23.1-mac.zip.blockmap
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1-mac.zip.blockmap
+- name: WowUp-2.23.1.AppImage
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1.AppImage
+- name: WowUp-2.23.1.dmg
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1.dmg
+- name: WowUp-2.23.1.dmg.blockmap
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1.dmg.blockmap
+- name: WowUp-2.23.1.exe
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-2.23.1.exe
+- name: WowUp-Setup-2.23.1.exe
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-Setup-2.23.1.exe
+- name: WowUp-Setup-2.23.1.exe.blockmap
+  url: https://github.com/WowUp/WowUp/releases/download/v2.23.1/WowUp-Setup-2.23.1.exe.blockmap
 evidence:
   kind: binary
   source: https://github.com/WowUp/WowUp/releases/download/v2.23.0/WowUp-2.23.0.AppImage
   found_in: WowUp-2.23.0.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-19'
+last_commit: '2026-08-31'

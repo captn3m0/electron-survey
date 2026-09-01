@@ -4,20 +4,20 @@ website: https://github.com/andyyoungm/muenzo
 repository: https://github.com/andyyoungm/muenzo
 aur:
 - noteey-bin
-latest: v1.61.0
-src: https://github.com/andyyoungm/muenzo/archive/refs/tags/v1.61.0.zip
+latest: v1.62.0
+src: https://github.com/andyyoungm/muenzo/archive/refs/tags/v1.62.0.zip
 downloads:
 - name: latest-mac.yml
-  url: https://github.com/andyyoungm/muenzo/releases/download/v1.61.0/latest-mac.yml
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.62.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/andyyoungm/muenzo/releases/download/v1.61.0/latest.yml
-- name: Noteey-1.61.0.universal.dmg
-  url: https://github.com/andyyoungm/muenzo/releases/download/v1.61.0/Noteey-1.61.0.universal.dmg
-- name: Noteey-1.61.0.universal.zip
-  url: https://github.com/andyyoungm/muenzo/releases/download/v1.61.0/Noteey-1.61.0.universal.zip
-- name: Noteey-Setup-1.61.0.exe
-  url: https://github.com/andyyoungm/muenzo/releases/download/v1.61.0/Noteey-Setup-1.61.0.exe
-last_commit: '2026-08-26'
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.62.0/latest.yml
+- name: Noteey-1.62.0.universal.dmg
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.62.0/Noteey-1.62.0.universal.dmg
+- name: Noteey-1.62.0.universal.zip
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.62.0/Noteey-1.62.0.universal.zip
+- name: Noteey-Setup-1.62.0.exe
+  url: https://github.com/andyyoungm/muenzo/releases/download/v1.62.0/Noteey-Setup-1.62.0.exe
+last_commit: '2026-08-31'
 aur_downloads:
 - url: https://github.com/andyyoungm/muenzo/releases/download/v1.53.0/Noteey-Setup-1.53.0.exe
   name: Noteey-Setup-1.53.0.exe

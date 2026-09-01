@@ -61,3 +61,5 @@ aur_downloads:
   name: min-1.35.6-amd64.deb
   arch: x86_64
   source: aur-bin
+homebrew_disabled: true
+homebrew_disable_reason: fails_gatekeeper_check
