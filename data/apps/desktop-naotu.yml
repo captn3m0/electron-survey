@@ -23,4 +23,4 @@ evidence:
   found_in: DesktopNaotu-darwin-x64.zip
   signal: which-electron version_file signal (3 signals agreed)
 aur_votes: 1
-last_commit: '2026-02-14'
+last_commit: '2026-09-01'

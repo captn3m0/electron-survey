@@ -29,7 +29,7 @@ downloads:
 homebrew: deadbolt
 aur_votes: 1
 brew_installs: 10
-last_commit: '2026-03-01'
+last_commit: '2026-09-02'
 evidence:
   kind: binary
   source: https://github.com/alichtman/deadbolt/releases/download/v2.1.1/Deadbolt-2.1.1.x86_64.AppImage

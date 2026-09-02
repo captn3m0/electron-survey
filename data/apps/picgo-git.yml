@@ -60,4 +60,4 @@ evidence:
   source: https://github.com/Molunerfinn/PicGo/releases/download/v3.0.1/PicGo-3.0.1-arm64.AppImage
   found_in: PicGo-3.0.1-arm64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-23'
+last_commit: '2026-09-01'

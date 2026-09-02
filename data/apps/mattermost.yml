@@ -86,4 +86,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/mattermost/desktop/archive/refs/tags/v6.3.0.zip
 brew_installs: 1000
-last_commit: '2026-08-31'
+last_commit: '2026-09-01'

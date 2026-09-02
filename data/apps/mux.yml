@@ -4,50 +4,80 @@ website: https://github.com/coder/mux
 repository: https://github.com/coder/mux
 aur:
 - mux
-latest: v0.28.2
-src: https://github.com/coder/mux/archive/refs/tags/v0.28.2.zip
+latest: v0.28.3
+src: https://github.com/coder/mux/archive/refs/tags/v0.28.3.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/coder/xum/releases/download/v0.28.2/builder-debug.yml
+  url: https://github.com/coder/xum/releases/download/v0.28.3/builder-debug.yml
 - name: latest-linux.yml
-  url: https://github.com/coder/xum/releases/download/v0.28.2/latest-linux.yml
+  url: https://github.com/coder/xum/releases/download/v0.28.3/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/coder/xum/releases/download/v0.28.2/latest-mac.yml
+  url: https://github.com/coder/xum/releases/download/v0.28.3/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/coder/xum/releases/download/v0.28.2/latest.yml
+  url: https://github.com/coder/xum/releases/download/v0.28.3/latest.yml
 - name: mux-0.1.0.vsix
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.1.0.vsix
-- name: mux-0.28.2-arm64.AppImage
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-arm64.AppImage
-  checksum: d40d5c574330b0e9c407a09f4a0887d0a310b26e0ab2f621f3270b404ed0762c
-- name: mux-0.28.2-arm64.AppImage.sha256
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-arm64.AppImage.sha256
-- name: mux-0.28.2-arm64.dmg
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-arm64.dmg
-- name: mux-0.28.2-arm64.dmg.blockmap
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-arm64.dmg.blockmap
-- name: mux-0.28.2-arm64.zip
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-arm64.zip
-- name: mux-0.28.2-arm64.zip.blockmap
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-arm64.zip.blockmap
-- name: mux-0.28.2-x64.dmg
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x64.dmg
-- name: mux-0.28.2-x64.dmg.blockmap
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x64.dmg.blockmap
-- name: mux-0.28.2-x64.exe
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x64.exe
-- name: mux-0.28.2-x64.exe.blockmap
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x64.exe.blockmap
-- name: mux-0.28.2-x64.zip
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x64.zip
-- name: mux-0.28.2-x64.zip.blockmap
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x64.zip.blockmap
-- name: mux-0.28.2-x86_64.AppImage
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x86_64.AppImage
-  checksum: 8387a14644a22441610cdadbb0fca3b0e00df8ae25c93d3ca7fa25852e39699e
-- name: mux-0.28.2-x86_64.AppImage.sha256
-  url: https://github.com/coder/xum/releases/download/v0.28.2/mux-0.28.2-x86_64.AppImage.sha256
-last_commit: '2026-09-01'
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.1.0.vsix
+- name: mux-0.28.3-arm64-linux.AppImage
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-arm64-linux.AppImage
+  checksum: 73ae7eada7a9e5fb700a3cea2f00ac32135b0d2b3e3d6820a3883e6df3c7bd91
+- name: mux-0.28.3-arm64-linux.AppImage.sha256
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-arm64-linux.AppImage.sha256
+- name: mux-0.28.3-arm64-mac.dmg
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-arm64-mac.dmg
+- name: mux-0.28.3-arm64-mac.dmg.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-arm64-mac.dmg.blockmap
+- name: mux-0.28.3-arm64-mac.zip
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-arm64-mac.zip
+- name: mux-0.28.3-arm64-mac.zip.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-arm64-mac.zip.blockmap
+- name: mux-0.28.3-x64-mac.dmg
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x64-mac.dmg
+- name: mux-0.28.3-x64-mac.dmg.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x64-mac.dmg.blockmap
+- name: mux-0.28.3-x64-mac.zip
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x64-mac.zip
+- name: mux-0.28.3-x64-mac.zip.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x64-mac.zip.blockmap
+- name: mux-0.28.3-x64-win.exe
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x64-win.exe
+- name: mux-0.28.3-x64-win.exe.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x64-win.exe.blockmap
+- name: mux-0.28.3-x86_64-linux.AppImage
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x86_64-linux.AppImage
+  checksum: c6f3160cdc4e240c9142b312059c4b693aec9cf42319baac93084366971a3fde
+- name: mux-0.28.3-x86_64-linux.AppImage.sha256
+  url: https://github.com/coder/xum/releases/download/v0.28.3/mux-0.28.3-x86_64-linux.AppImage.sha256
+- name: xum-0.28.3-arm64-linux.AppImage
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-arm64-linux.AppImage
+  checksum: 73ae7eada7a9e5fb700a3cea2f00ac32135b0d2b3e3d6820a3883e6df3c7bd91
+- name: xum-0.28.3-arm64-linux.AppImage.sha256
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-arm64-linux.AppImage.sha256
+- name: xum-0.28.3-arm64-mac.dmg
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-arm64-mac.dmg
+- name: xum-0.28.3-arm64-mac.dmg.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-arm64-mac.dmg.blockmap
+- name: xum-0.28.3-arm64-mac.zip
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-arm64-mac.zip
+- name: xum-0.28.3-arm64-mac.zip.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-arm64-mac.zip.blockmap
+- name: xum-0.28.3-x64-mac.dmg
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x64-mac.dmg
+- name: xum-0.28.3-x64-mac.dmg.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x64-mac.dmg.blockmap
+- name: xum-0.28.3-x64-mac.zip
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x64-mac.zip
+- name: xum-0.28.3-x64-mac.zip.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x64-mac.zip.blockmap
+- name: xum-0.28.3-x64-win.exe
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x64-win.exe
+- name: xum-0.28.3-x64-win.exe.blockmap
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x64-win.exe.blockmap
+- name: xum-0.28.3-x86_64-linux.AppImage
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x86_64-linux.AppImage
+  checksum: c6f3160cdc4e240c9142b312059c4b693aec9cf42319baac93084366971a3fde
+- name: xum-0.28.3-x86_64-linux.AppImage.sha256
+  url: https://github.com/coder/xum/releases/download/v0.28.3/xum-0.28.3-x86_64-linux.AppImage.sha256
+last_commit: '2026-09-02'
 electron: 40.9.3
 method: which-electron-rg
 evidence:

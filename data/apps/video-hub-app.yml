@@ -19,25 +19,23 @@ aur:
 - video-hub-app-bin
 electron: 23.1.0
 method: which-electron-rg
-latest: v3.2.0
-src: https://github.com/whyboris/Video-Hub-App/archive/refs/tags/v3.2.0.zip
+latest: v3.3.0
+src: https://github.com/whyboris/Video-Hub-App/archive/refs/tags/v3.3.0.zip
 downloads:
-- name: Video.Hub.App.3.Demo-3.2.0-arm64.dmg
-  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0-arm64.dmg
-- name: Video.Hub.App.3.Demo-3.2.0.AppImage
-  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
-- name: Video.Hub.App.3.Demo.Portable.3.2.0.exe
-  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Portable.3.2.0.exe
-- name: Video.Hub.App.3.Demo.Setup.3.2.0.exe
-  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.0.exe
-- name: Video.Hub.App.3.Demo.Setup.3.2.1.exe
-  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo.Setup.3.2.1.exe
+- name: Video.Hub.App.3.DEMO.Portable.3.3.0.exe
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.3.0/Video.Hub.App.3.DEMO.Portable.3.3.0.exe
+- name: Video.Hub.App.3.DEMO.Setup.3.3.0.exe
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.3.0/Video.Hub.App.3.DEMO.Setup.3.3.0.exe
+- name: Video.Hub.App.3.Demo.v3.3.0-arm64.dmg
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.3.0/Video.Hub.App.3.Demo.v3.3.0-arm64.dmg
+- name: Video.Hub.App.3.Demo.v3.3.0.dmg
+  url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.3.0/Video.Hub.App.3.Demo.v3.3.0.dmg
 evidence:
   kind: binary
   source: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
   found_in: Video.Hub.App.3.Demo-3.2.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-18'
+last_commit: '2026-09-01'
 aur_downloads:
 - url: https://github.com/whyboris/Video-Hub-App/releases/download/v3.2.0/Video.Hub.App.3.Demo-3.2.0.AppImage
   name: Video.Hub.App.3.Demo-3.2.0.AppImage

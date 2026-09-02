@@ -24,7 +24,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-08-02'
+last_commit: '2026-09-01'
 aur_downloads:
 - url: https://github.com/responsively-org/responsively-app-releases/releases/download/v1.18.0/ResponsivelyApp-1.18.0.AppImage
   name: ResponsivelyApp-1.18.0.AppImage

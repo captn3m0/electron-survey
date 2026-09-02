@@ -6,13 +6,13 @@ aur:
 - wubi-dict-editor
 electron: 28.3.3
 method: which-electron-rg
-latest: v1.34
-src: https://github.com/KyleBing/wubi-dict-editor/archive/refs/tags/v1.34.zip
+latest: v1.35
+src: https://github.com/KyleBing/wubi-dict-editor/archive/refs/tags/v1.35.zip
 downloads:
-- name: WubiDictEditor-1.3.4-macOS-arm64.dmg
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.34/WubiDictEditor-1.3.4-macOS-arm64.dmg
-- name: WubiDictEditor-1.3.4-Windows-Setup.exe
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.34/WubiDictEditor-1.3.4-Windows-Setup.exe
+- name: WubiDictEditor-1.3.5-macOS-arm64.dmg
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.35/WubiDictEditor-1.3.5-macOS-arm64.dmg
+- name: WubiDictEditor-1.3.5-Windows-Setup.exe
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.35/WubiDictEditor-1.3.5-Windows-Setup.exe
 evidence:
   kind: binary
   source: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.33/wubi-dict-editor-v1.33-win32-x64.zip

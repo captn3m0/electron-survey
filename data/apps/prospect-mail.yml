@@ -102,4 +102,4 @@ evidence:
   found_in: prospect-mail-1.2.1.aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-31'
+last_commit: '2026-09-01'
