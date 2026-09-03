@@ -43,6 +43,6 @@ evidence:
 brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-09-01'
+last_commit: '2026-09-02'
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check

@@ -8,30 +8,30 @@ additionalAUR:
 - woocommerce-pos-bin
 electron: 41.7.1
 method: which-electron-rg
-latest: v1.10.6
-src: https://github.com/wcpos/electron/archive/refs/tags/v1.10.6.zip
+latest: v1.10.7
+src: https://github.com/wcpos/electron/archive/refs/tags/v1.10.7.zip
 downloads:
 - name: RELEASES
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/RELEASES
-- name: WCPOS-1.10.6-arm64.dmg
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/WCPOS-1.10.6-arm64.dmg
-- name: WCPOS-1.10.6-Setup.exe
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/WCPOS-1.10.6-Setup.exe
-- name: WCPOS-1.10.6-x64.dmg
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/WCPOS-1.10.6-x64.dmg
-- name: WCPOS-darwin-arm64-1.10.6.zip
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/WCPOS-darwin-arm64-1.10.6.zip
-- name: WCPOS-darwin-x64-1.10.6.zip
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/WCPOS-darwin-x64-1.10.6.zip
-- name: woocommerce-pos-1.10.6-1.x86_64.rpm
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/woocommerce-pos-1.10.6-1.x86_64.rpm
-- name: woocommerce-pos_1.10.6_amd64.deb
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/woocommerce-pos_1.10.6_amd64.deb
-- name: WooCommercePOS-1.10.6-full.nupkg
-  url: https://github.com/wcpos/electron/releases/download/v1.10.6/WooCommercePOS-1.10.6-full.nupkg
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/RELEASES
+- name: WCPOS-1.10.7-arm64.dmg
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/WCPOS-1.10.7-arm64.dmg
+- name: WCPOS-1.10.7-Setup.exe
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/WCPOS-1.10.7-Setup.exe
+- name: WCPOS-1.10.7-x64.dmg
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/WCPOS-1.10.7-x64.dmg
+- name: WCPOS-darwin-arm64-1.10.7.zip
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/WCPOS-darwin-arm64-1.10.7.zip
+- name: WCPOS-darwin-x64-1.10.7.zip
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/WCPOS-darwin-x64-1.10.7.zip
+- name: woocommerce-pos-1.10.7-1.x86_64.rpm
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/woocommerce-pos-1.10.7-1.x86_64.rpm
+- name: woocommerce-pos_1.10.7_amd64.deb
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/woocommerce-pos_1.10.7_amd64.deb
+- name: WooCommercePOS-1.10.7-full.nupkg
+  url: https://github.com/wcpos/electron/releases/download/v1.10.7/WooCommercePOS-1.10.7-full.nupkg
 evidence:
   kind: binary
   source: https://github.com/wcpos/electron/releases/download/v1.9.9/woocommerce-pos-1.9.9-1.x86_64.rpm
   found_in: woocommerce-pos-1.9.9-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-09-01'
+last_commit: '2026-09-02'

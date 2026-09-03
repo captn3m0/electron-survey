@@ -67,7 +67,7 @@ evidence:
   found_in: solidtime-aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-09-01'
+last_commit: '2026-09-02'
 aur_downloads:
 - url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-aarch64.rpm
   name: solidtime-aarch64.rpm

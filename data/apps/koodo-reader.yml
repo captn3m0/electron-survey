@@ -7,71 +7,71 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-latest: v2.4.3
-src: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.3.zip
+latest: v2.4.4
+src: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.4.zip
 downloads:
-- name: Koodo-Reader-2.4.3-amd64.deb
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-amd64.deb
-- name: Koodo-Reader-2.4.3-amd64.snap
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-amd64.snap
-- name: Koodo-Reader-2.4.3-arm64.apk
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.apk
-- name: Koodo-Reader-2.4.3-arm64.AppImage
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.AppImage
-- name: Koodo-Reader-2.4.3-arm64.deb
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.deb
-- name: Koodo-Reader-2.4.3-arm64.dmg
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.dmg
-- name: Koodo-Reader-2.4.3-arm64.dmg.blockmap
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.dmg.blockmap
-- name: Koodo-Reader-2.4.3-arm64.exe
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.exe
-- name: Koodo-Reader-2.4.3-arm64.exe.blockmap
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-arm64.exe.blockmap
-- name: Koodo-Reader-2.4.3-ia32.exe
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-ia32.exe
-- name: Koodo-Reader-2.4.3-ia32.exe.blockmap
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-ia32.exe.blockmap
-- name: Koodo-Reader-2.4.3-signed.apk
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-signed.apk
-- name: Koodo-Reader-2.4.3-universal.apk
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-universal.apk
-- name: Koodo-Reader-2.4.3-x64-Portable.exe
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x64-Portable.exe
-- name: Koodo-Reader-2.4.3-x64-Win.zip
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x64-Win.zip
-- name: Koodo-Reader-2.4.3-x64.dmg
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x64.dmg
-- name: Koodo-Reader-2.4.3-x64.dmg.blockmap
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x64.dmg.blockmap
-- name: Koodo-Reader-2.4.3-x64.exe
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x64.exe
-- name: Koodo-Reader-2.4.3-x64.exe.blockmap
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x64.exe.blockmap
-- name: Koodo-Reader-2.4.3-x86_64.AppImage
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x86_64.AppImage
-- name: Koodo-Reader-2.4.3-x86_64.rpm
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/Koodo-Reader-2.4.3-x86_64.rpm
+- name: Koodo-Reader-2.4.4-amd64.deb
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-amd64.deb
+- name: Koodo-Reader-2.4.4-amd64.snap
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-amd64.snap
+- name: Koodo-Reader-2.4.4-arm64.apk
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.apk
+- name: Koodo-Reader-2.4.4-arm64.AppImage
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.AppImage
+- name: Koodo-Reader-2.4.4-arm64.deb
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.deb
+- name: Koodo-Reader-2.4.4-arm64.dmg
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.dmg
+- name: Koodo-Reader-2.4.4-arm64.dmg.blockmap
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.dmg.blockmap
+- name: Koodo-Reader-2.4.4-arm64.exe
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.exe
+- name: Koodo-Reader-2.4.4-arm64.exe.blockmap
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-arm64.exe.blockmap
+- name: Koodo-Reader-2.4.4-ia32.exe
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-ia32.exe
+- name: Koodo-Reader-2.4.4-ia32.exe.blockmap
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-ia32.exe.blockmap
+- name: Koodo-Reader-2.4.4-signed.apk
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-signed.apk
+- name: Koodo-Reader-2.4.4-universal.apk
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-universal.apk
+- name: Koodo-Reader-2.4.4-x64-Portable.exe
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x64-Portable.exe
+- name: Koodo-Reader-2.4.4-x64-Win.zip
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x64-Win.zip
+- name: Koodo-Reader-2.4.4-x64.dmg
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x64.dmg
+- name: Koodo-Reader-2.4.4-x64.dmg.blockmap
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x64.dmg.blockmap
+- name: Koodo-Reader-2.4.4-x64.exe
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x64.exe
+- name: Koodo-Reader-2.4.4-x64.exe.blockmap
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x64.exe.blockmap
+- name: Koodo-Reader-2.4.4-x86_64.AppImage
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x86_64.AppImage
+- name: Koodo-Reader-2.4.4-x86_64.rpm
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/Koodo-Reader-2.4.4-x86_64.rpm
 - name: latest-linux-arm64.yml
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/latest-linux-arm64.yml
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/latest-linux.yml
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/latest-mac.yml
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.3/latest.yml
+  url: https://github.com/koodo-reader/koodo-reader/releases/download/v2.4.4/latest.yml
 homebrew: koodo-reader
 electron: 34.5.8
 method: src-yarn-lock
-electron_src: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.3.zip
+electron_src: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.4.zip
 evidence:
   kind: lockfile
-  found_in: koodo-reader-2.4.3/yarn.lock
+  found_in: koodo-reader-2.4.4/yarn.lock
   signal: electron pinned in yarn.lock
-  source: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.3.zip
+  source: https://github.com/koodo-reader/koodo-reader/archive/refs/tags/v2.4.4.zip
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-09-02'
+last_commit: '2026-09-03'
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check

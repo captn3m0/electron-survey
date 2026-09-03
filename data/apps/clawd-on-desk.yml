@@ -27,15 +27,20 @@ downloads:
   url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.16.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.16.0/latest.yml
+- url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.16.0/Clawd-on-Desk-0.16.0-arm64.dmg
+  name: Clawd-on-Desk-0.16.0-arm64.dmg
+  source: homebrew
+  version: 0.16.0
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/clawd-on-desk-bin
   found_in: clawd-on-desk-bin
   signal: depends on electron41; reported as the newest 41.x release (41.10.2)
-last_commit: '2026-09-01'
+last_commit: '2026-09-03'
 aur_downloads:
 - url: https://github.com/rullerzhou-afk/clawd-on-desk/releases/download/v0.13.0/Clawd-on-Desk-0.13.0-amd64.deb
   name: Clawd-on-Desk-0.13.0-amd64.deb
   arch: any
   source: aur-bin
 we_tried: we1.2.1+p1:v0.16.0
+homebrew: clawd-on-desk

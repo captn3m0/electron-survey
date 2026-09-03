@@ -69,7 +69,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-08-27'
+last_commit: '2026-09-03'
 aur_downloads:
 - url: https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.46.0/ipfs-desktop-0.46.0-linux-amd64.deb
   name: ipfs-desktop-0.46.0-linux-amd64.deb

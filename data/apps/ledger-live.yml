@@ -13,7 +13,7 @@ latest: live-mobile@4.18.0
 src: https://github.com/LedgerHQ/ledger-live/archive/refs/tags/live-mobile@4.18.0.zip
 homepage: true
 aur_votes: 10
-last_commit: '2026-09-02'
+last_commit: '2026-09-03'
 aur_downloads:
 - url: https://download.live.ledger.com/ledger-live-desktop-4.11.0-linux-x86_64.AppImage
   name: ledger-live-desktop-4.11.0-linux-x86_64.AppImage

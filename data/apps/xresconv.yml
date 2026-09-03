@@ -32,7 +32,7 @@ evidence:
   source: https://github.com/xresloader/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-arm64.tar.xz
   found_in: xresconv-gui-linux-arm64.tar.xz
   signal: which-electron rg signal
-last_commit: '2026-08-09'
+last_commit: '2026-09-02'
 aur_downloads:
 - url: https://raw.githubusercontent.com/xresloader/xresconv-gui/v2.6.0/doc/logo.png
   name: logo.png

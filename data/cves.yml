@@ -1,6 +1,6 @@
-generated: '2026-09-02'
+generated: '2026-09-03'
 source: NVD CVE API 2.0, cpe:2.3:a:google:chrome
-total_cves: 6239
+total_cves: 6265
 scored_cves: 6212
 unscored_cves: 0
 by_chromium_major:

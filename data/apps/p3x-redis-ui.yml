@@ -1,49 +1,49 @@
 id: p3x-redis-ui
 repository: https://github.com/patrikx3/redis-ui
 website: https://www.corifeus.com/redis-ui
-latest: v2026.4.3014
-src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.4.3014.zip
+latest: v2026.10.100
+src: https://github.com/patrikx3/redis-ui/archive/refs/tags/v2026.10.100.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/latest-linux-arm64.yml
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/latest-linux.yml
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/latest-mac.yml
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/latest.yml
-- name: P3X-Redis-UI-2026.4.3014-arm64-mac.zip
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-arm64-mac.zip
-- name: P3X-Redis-UI-2026.4.3014-arm64-mac.zip.blockmap
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-arm64-mac.zip.blockmap
-- name: P3X-Redis-UI-2026.4.3014-arm64.AppImage
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-arm64.AppImage
-- name: P3X-Redis-UI-2026.4.3014-arm64.dmg
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-arm64.dmg
-- name: P3X-Redis-UI-2026.4.3014-arm64.dmg.blockmap
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-arm64.dmg.blockmap
-- name: P3X-Redis-UI-2026.4.3014-mac.zip
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-mac.zip
-- name: P3X-Redis-UI-2026.4.3014-mac.zip.blockmap
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014-mac.zip.blockmap
-- name: p3x-redis-ui-2026.4.3014.aarch64.rpm
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui-2026.4.3014.aarch64.rpm
-- name: P3X-Redis-UI-2026.4.3014.AppImage
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014.AppImage
-- name: P3X-Redis-UI-2026.4.3014.dmg
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014.dmg
-- name: P3X-Redis-UI-2026.4.3014.dmg.blockmap
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-2026.4.3014.dmg.blockmap
-- name: p3x-redis-ui-2026.4.3014.x86_64.rpm
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui-2026.4.3014.x86_64.rpm
-- name: P3X-Redis-UI-Setup-2026.4.3014.exe
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-Setup-2026.4.3014.exe
-- name: P3X-Redis-UI-Setup-2026.4.3014.exe.blockmap
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/P3X-Redis-UI-Setup-2026.4.3014.exe.blockmap
-- name: p3x-redis-ui_2026.4.3014_amd64.deb
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui_2026.4.3014_amd64.deb
-- name: p3x-redis-ui_2026.4.3014_arm64.deb
-  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.4.3014/p3x-redis-ui_2026.4.3014_arm64.deb
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/latest.yml
+- name: P3X-Redis-UI-2026.10.100-arm64-mac.zip
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-arm64-mac.zip
+- name: P3X-Redis-UI-2026.10.100-arm64-mac.zip.blockmap
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-arm64-mac.zip.blockmap
+- name: P3X-Redis-UI-2026.10.100-arm64.AppImage
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-arm64.AppImage
+- name: P3X-Redis-UI-2026.10.100-arm64.dmg
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-arm64.dmg
+- name: P3X-Redis-UI-2026.10.100-arm64.dmg.blockmap
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-arm64.dmg.blockmap
+- name: P3X-Redis-UI-2026.10.100-mac.zip
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-mac.zip
+- name: P3X-Redis-UI-2026.10.100-mac.zip.blockmap
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100-mac.zip.blockmap
+- name: p3x-redis-ui-2026.10.100.aarch64.rpm
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/p3x-redis-ui-2026.10.100.aarch64.rpm
+- name: P3X-Redis-UI-2026.10.100.AppImage
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100.AppImage
+- name: P3X-Redis-UI-2026.10.100.dmg
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100.dmg
+- name: P3X-Redis-UI-2026.10.100.dmg.blockmap
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-2026.10.100.dmg.blockmap
+- name: p3x-redis-ui-2026.10.100.x86_64.rpm
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/p3x-redis-ui-2026.10.100.x86_64.rpm
+- name: P3X-Redis-UI-Setup-2026.10.100.exe
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-Setup-2026.10.100.exe
+- name: P3X-Redis-UI-Setup-2026.10.100.exe.blockmap
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/P3X-Redis-UI-Setup-2026.10.100.exe.blockmap
+- name: p3x-redis-ui_2026.10.100_amd64.deb
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/p3x-redis-ui_2026.10.100_amd64.deb
+- name: p3x-redis-ui_2026.10.100_arm64.deb
+  url: https://github.com/patrikx3/redis-ui/releases/download/v2026.10.100/p3x-redis-ui_2026.10.100_arm64.deb
 electron: 41.1.1
 method: which-electron-rg
 aur:
@@ -57,7 +57,7 @@ evidence:
   found_in: p3x-onenote-2026.4.132.aarch64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-06-29'
+last_commit: '2026-09-02'
 aur_downloads:
 - url: https://raw.githubusercontent.com/patrikx3/onenote/v2026.4.132/LICENSE
   name: LICENSE

@@ -46,7 +46,7 @@ evidence:
   source: https://github.com/elirantutia/vibeyard/releases/download/v0.3.4/Vibeyard-0.3.4.AppImage
   found_in: Vibeyard-0.3.4.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-31'
+last_commit: '2026-09-02'
 aur_downloads:
 - url: https://github.com/elirantutia/vibeyard/releases/download/v0.3.4/vibeyard_0.3.4_amd64.deb
   name: vibeyard_0.3.4_amd64.deb

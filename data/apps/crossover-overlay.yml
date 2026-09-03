@@ -35,7 +35,7 @@ electron: 14.2.9
 method: which-electron-rg
 electron_src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.1.zip
 aur_votes: 1
-last_commit: '2026-08-26'
+last_commit: '2026-09-02'
 aur_downloads:
 - url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-amd64.deb
   name: CrossOver-3.4.1-amd64.deb

@@ -70,7 +70,7 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/johannesjo/super-productivity/archive/refs/tags/v18.21.2.zip
 brew_installs: 1000
-last_commit: '2026-09-01'
+last_commit: '2026-09-03'
 aur_downloads:
 - url: https://github.com/super-productivity/super-productivity/releases/download/v18.16.0/superProductivity-amd64.deb
   name: superProductivity-amd64.deb

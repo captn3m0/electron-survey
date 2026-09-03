@@ -17,7 +17,7 @@ evidence:
   found_in: dl-desktop_4.2.0_linux.zip
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-10'
+last_commit: '2026-09-02'
 aur_downloads:
 - url: https://github.com/hmlendea/dl-desktop/releases/download/v4.2.0/dl-desktop_4.2.0_linux.zip
   name: dl-desktop_4.2.0_linux.zip

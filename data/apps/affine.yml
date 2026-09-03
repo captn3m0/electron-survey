@@ -81,7 +81,7 @@ evidence:
   signal: which-electron rg signal (2 signals agreed)
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-08-28'
+last_commit: '2026-09-03'
 aur_downloads:
 - url: https://github.com/toeverything/AFFiNE/releases/download/v0.27.2/affine-0.27.2-stable-linux-x64.deb
   name: affine-0.27.2-stable-linux-x64.deb

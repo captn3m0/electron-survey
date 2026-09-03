@@ -1,25 +1,25 @@
 id: thorium-reader
 repository: https://github.com/edrlab/thorium-reader/
 website: https://www.edrlab.org/software/thorium-reader/
-latest: v3.5.0
-src: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.0.zip
+latest: v3.5.1
+src: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.1.zip
 downloads:
-- name: Thorium-3.5.0-amd64.deb
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-amd64.deb
-- name: Thorium-3.5.0-arm64.AppImage
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-arm64.AppImage
-- name: Thorium-3.5.0-arm64.deb
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-arm64.deb
-- name: Thorium-3.5.0-arm64.dmg
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-arm64.dmg
-- name: Thorium-3.5.0-arm64.exe
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-arm64.exe
-- name: Thorium-3.5.0-x64.dmg
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-x64.dmg
-- name: Thorium-3.5.0-x64.exe
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-x64.exe
-- name: Thorium-3.5.0-x86_64.AppImage
-  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.0/Thorium-3.5.0-x86_64.AppImage
+- name: Thorium-3.5.1-amd64.deb
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-amd64.deb
+- name: Thorium-3.5.1-arm64.AppImage
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-arm64.AppImage
+- name: Thorium-3.5.1-arm64.deb
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-arm64.deb
+- name: Thorium-3.5.1-arm64.dmg
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-arm64.dmg
+- name: Thorium-3.5.1-arm64.exe
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-arm64.exe
+- name: Thorium-3.5.1-x64.dmg
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-x64.dmg
+- name: Thorium-3.5.1-x64.exe
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-x64.exe
+- name: Thorium-3.5.1-x86_64.AppImage
+  url: https://github.com/edrlab/thorium-reader/releases/download/v3.5.1/Thorium-3.5.1-x86_64.AppImage
 electron: 41.10.7
 method: src-package-lock
 aur:
@@ -31,12 +31,12 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.0.zip
+electron_src: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.1.zip
 evidence:
   kind: lockfile
-  found_in: thorium-reader-3.5.0/package-lock.json
+  found_in: thorium-reader-3.5.1/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.0.zip
+  source: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.1.zip
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-09-01'
+last_commit: '2026-09-02'

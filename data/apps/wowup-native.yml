@@ -45,4 +45,4 @@ evidence:
   found_in: WowUp-2.23.0.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-08-31'
+last_commit: '2026-09-03'
