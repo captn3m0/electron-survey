@@ -14,7 +14,7 @@ downloads:
 - name: geforcenow-electron_3.0.2_linux.zip
   url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.2/geforcenow-electron_3.0.2_linux.zip
 aur_votes: 10
-last_commit: '2026-09-02'
+last_commit: '2026-09-03'
 evidence:
   kind: binary
   source: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.AppImage

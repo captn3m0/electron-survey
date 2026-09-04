@@ -29,7 +29,7 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 100
-last_commit: '2026-09-02'
+last_commit: '2026-09-04'
 aur_downloads:
 - url: https://github.com/itchio/itch/archive/refs/tags/v26.13.0.tar.gz
   name: v26.13.0.tar.gz

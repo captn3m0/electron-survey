@@ -21,10 +21,14 @@ downloads:
   url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_3.2.4_mac_arm64.dmg
 - name: RedisViewer_3.2.4_mac_intel.dmg
   url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_3.2.4_mac_intel.dmg
-- name: RedisViewer_Setup_3.2.4_windows_arm64.exe
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_Setup_3.2.4_windows_arm64.exe
-- name: RedisViewer_Setup_3.2.4_windows_x64.exe
-  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_Setup_3.2.4_windows_x64.exe
+- name: RedisViewer_3.2.4_windows_arm64_portable.zip
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_3.2.4_windows_arm64_portable.zip
+- name: RedisViewer_3.2.4_windows_arm64_setup.exe
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_3.2.4_windows_arm64_setup.exe
+- name: RedisViewer_3.2.4_windows_x64_portable.zip
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_3.2.4_windows_x64_portable.zip
+- name: RedisViewer_3.2.4_windows_x64_setup.exe
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.2.4/RedisViewer_3.2.4_windows_x64_setup.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/redis-viewer-bin

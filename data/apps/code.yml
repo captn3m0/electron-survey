@@ -4,15 +4,15 @@ website: https://github.com/microsoft/vscode
 repository: https://github.com/microsoft/vscode
 aur:
 - code-git
-latest: 1.136.0
-src: https://github.com/microsoft/vscode/archive/refs/tags/1.136.0.zip
+latest: 1.136.1
+src: https://github.com/microsoft/vscode/archive/refs/tags/1.136.1.zip
 electron: 42.9.3
 method: src-package-lock
-electron_src: https://github.com/microsoft/vscode/archive/refs/tags/1.136.0.zip
+electron_src: https://github.com/microsoft/vscode/archive/refs/tags/1.136.1.zip
 evidence:
   kind: lockfile
-  found_in: vscode-1.136.0/extensions/copilot/package-lock.json
+  found_in: vscode-1.136.1/extensions/copilot/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/microsoft/vscode/archive/refs/tags/1.136.0.zip
+  source: https://github.com/microsoft/vscode/archive/refs/tags/1.136.1.zip
 aur_votes: 10
-last_commit: '2026-09-03'
+last_commit: '2026-09-04'

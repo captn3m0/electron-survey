@@ -69,4 +69,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/4gray/iptvnator/archive/refs/tags/v0.23.0.zip
 brew_installs: 1000
-last_commit: '2026-09-02'
+last_commit: '2026-09-03'

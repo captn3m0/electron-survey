@@ -13,22 +13,22 @@ packages:
   arch: x64
 homebrew: amie
 downloads:
-- name: Amie-260831.0.0-arm64-mac.zip
-  url: https://github.com/amieso/electron-releases/releases/download/v260831.0.0/Amie-260831.0.0-arm64-mac.zip
-- name: Amie-260831.0.0-arm64-mac.zip.blockmap
-  url: https://github.com/amieso/electron-releases/releases/download/v260831.0.0/Amie-260831.0.0-arm64-mac.zip.blockmap
-- name: Amie-260831.0.0-mac.zip
-  url: https://github.com/amieso/electron-releases/releases/download/v260831.0.0/Amie-260831.0.0-mac.zip
-- name: Amie-260831.0.0-mac.zip.blockmap
-  url: https://github.com/amieso/electron-releases/releases/download/v260831.0.0/Amie-260831.0.0-mac.zip.blockmap
+- name: Amie-260903.0.0-arm64-mac.zip
+  url: https://github.com/amieso/electron-releases/releases/download/v260903.0.0/Amie-260903.0.0-arm64-mac.zip
+- name: Amie-260903.0.0-arm64-mac.zip.blockmap
+  url: https://github.com/amieso/electron-releases/releases/download/v260903.0.0/Amie-260903.0.0-arm64-mac.zip.blockmap
+- name: Amie-260903.0.0-mac.zip
+  url: https://github.com/amieso/electron-releases/releases/download/v260903.0.0/Amie-260903.0.0-mac.zip
+- name: Amie-260903.0.0-mac.zip.blockmap
+  url: https://github.com/amieso/electron-releases/releases/download/v260903.0.0/Amie-260903.0.0-mac.zip.blockmap
 - name: latest-mac.yml
-  url: https://github.com/amieso/electron-releases/releases/download/v260831.0.0/latest-mac.yml
+  url: https://github.com/amieso/electron-releases/releases/download/v260903.0.0/latest-mac.yml
 electron: 38.7.1
 method: which-electron-rg
-latest: v260831.0.0
-src: https://github.com/amieso/electron-releases/archive/refs/tags/v260831.0.0.zip
+latest: v260903.0.0
+src: https://github.com/amieso/electron-releases/archive/refs/tags/v260903.0.0.zip
 brew_installs: 10
-last_commit: '2026-08-31'
+last_commit: '2026-09-03'
 evidence:
   kind: binary
   source: https://github.com/amieso/electron-releases/releases/download/v260722.1.0/Amie-260722.1.0-arm64-mac.zip

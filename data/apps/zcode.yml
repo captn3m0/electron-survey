@@ -23,4 +23,4 @@ downloads:
   name: ZCode-3.6.5-mac-arm64.dmg
   source: homebrew
   version: 3.6.5
-brew_installs: 100
+brew_installs: 1000

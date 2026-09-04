@@ -49,7 +49,7 @@ packages:
   arch: arm64
 aur_votes: 1
 brew_installs: 10
-last_commit: '2026-08-30'
+last_commit: '2026-09-03'
 evidence:
   kind: binary
   source: https://github.com/alagrede/znote-app/releases/download/v4.3.2/znote-4.3.2-arm64.AppImage

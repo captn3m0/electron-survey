@@ -85,4 +85,4 @@ evidence:
   source: https://github.com/KunAgent/Kun/releases/download/v0.2.34/Kun-0.2.34-mac-arm64.zip
   found_in: Kun-0.2.34-mac-arm64.zip
   signal: which-electron rg signal
-last_commit: '2026-09-03'
+last_commit: '2026-09-04'

@@ -37,5 +37,5 @@ evidence:
   source: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-linux-amd64.rpm
   found_in: Pandora-Box-v1.0.23-linux-amd64.rpm
   signal: which-electron rg signal
-last_commit: '2026-08-22'
+last_commit: '2026-09-03'
 we_tried: we1.2.1+p1:v1.0.22

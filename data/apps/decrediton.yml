@@ -31,7 +31,7 @@ method: which-electron-rg
 latest: release-v2.1.6
 src: https://github.com/decred/decrediton/archive/refs/tags/release-v2.1.6.zip
 aur_votes: 1
-brew_installs: 10
+brew_installs: 1
 last_commit: '2026-08-20'
 evidence:
   kind: binary

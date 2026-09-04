@@ -22,7 +22,7 @@ evidence:
   source: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live++-2.3.10.AppImage
   found_in: live++-2.3.10.AppImage
   signal: which-electron rg signal
-last_commit: '2026-08-13'
+last_commit: '2026-09-03'
 aur_downloads:
 - url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live++-2.3.10.AppImage
   name: live++-2.3.10.AppImage
