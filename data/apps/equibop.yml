@@ -13,55 +13,55 @@ additionalAUR:
 - equibop-git
 electron: 43.2.0
 method: which-electron-rg
-latest: v3.2.2
-src: https://github.com/Equicord/Equibop/archive/refs/tags/v3.2.2.zip
+latest: v3.3.0
+src: https://github.com/Equicord/Equibop/archive/refs/tags/v3.3.0.zip
 downloads:
-- name: Equibop-3.2.2-arm64-win.zip
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-arm64-win.zip
-- name: Equibop-3.2.2-arm64.AppImage
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-arm64.AppImage
-- name: equibop-3.2.2-arm64.tar.gz
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/equibop-3.2.2-arm64.tar.gz
-- name: Equibop-3.2.2-universal-mac.zip
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-universal-mac.zip
-- name: Equibop-3.2.2-universal-mac.zip.blockmap
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-universal-mac.zip.blockmap
-- name: Equibop-3.2.2-universal.dmg
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-universal.dmg
-- name: Equibop-3.2.2-universal.dmg.blockmap
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-universal.dmg.blockmap
-- name: Equibop-3.2.2-win.zip
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2-win.zip
-- name: equibop-3.2.2.aarch64.rpm
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/equibop-3.2.2.aarch64.rpm
-- name: Equibop-3.2.2.AppImage
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-3.2.2.AppImage
-- name: equibop-3.2.2.tar.gz
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/equibop-3.2.2.tar.gz
-- name: equibop-3.2.2.x86_64.rpm
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/equibop-3.2.2.x86_64.rpm
-- name: Equibop-Setup-3.2.2.exe
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-Setup-3.2.2.exe
-- name: Equibop-Setup-3.2.2.exe.blockmap
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/Equibop-Setup-3.2.2.exe.blockmap
-- name: equibop_3.2.2_amd64.deb
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/equibop_3.2.2_amd64.deb
-- name: equibop_3.2.2_arm64.deb
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/equibop_3.2.2_arm64.deb
+- name: Equibop-3.3.0-arm64-win.zip
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-arm64-win.zip
+- name: Equibop-3.3.0-arm64.AppImage
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-arm64.AppImage
+- name: equibop-3.3.0-arm64.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/equibop-3.3.0-arm64.tar.gz
+- name: Equibop-3.3.0-universal-mac.zip
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-universal-mac.zip
+- name: Equibop-3.3.0-universal-mac.zip.blockmap
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-universal-mac.zip.blockmap
+- name: Equibop-3.3.0-universal.dmg
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-universal.dmg
+- name: Equibop-3.3.0-universal.dmg.blockmap
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-universal.dmg.blockmap
+- name: Equibop-3.3.0-win.zip
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0-win.zip
+- name: equibop-3.3.0.aarch64.rpm
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/equibop-3.3.0.aarch64.rpm
+- name: Equibop-3.3.0.AppImage
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-3.3.0.AppImage
+- name: equibop-3.3.0.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/equibop-3.3.0.tar.gz
+- name: equibop-3.3.0.x86_64.rpm
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/equibop-3.3.0.x86_64.rpm
+- name: Equibop-Setup-3.3.0.exe
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-Setup-3.3.0.exe
+- name: Equibop-Setup-3.3.0.exe.blockmap
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/Equibop-Setup-3.3.0.exe.blockmap
+- name: equibop_3.3.0_amd64.deb
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/equibop_3.3.0_amd64.deb
+- name: equibop_3.3.0_arm64.deb
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/equibop_3.3.0_arm64.deb
 - name: latest-linux-arm64.yml
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/latest-linux-arm64.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/latest-linux.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/latest-mac.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/latest.yml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/latest.yml
 - name: node_modules-arm64.tar.gz
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/node_modules-arm64.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/node_modules-arm64.tar.gz
 - name: node_modules-x64.tar.gz
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/node_modules-x64.tar.gz
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/node_modules-x64.tar.gz
 - name: org.equicord.equibop.metainfo.xml
-  url: https://github.com/Equicord/Equibop/releases/download/v3.2.2/org.equicord.equibop.metainfo.xml
+  url: https://github.com/Equicord/Equibop/releases/download/v3.3.0/org.equicord.equibop.metainfo.xml
 homebrew: equibop
 evidence:
   kind: binary
@@ -70,4 +70,4 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-07-29'
+last_commit: '2026-09-05'

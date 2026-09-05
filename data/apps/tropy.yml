@@ -77,7 +77,7 @@ evidence:
   reconstructed: true
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-09-02'
+last_commit: '2026-09-04'
 aur_downloads:
 - url: https://github.com/tropy/tropy/releases/download/v1.17.3/tropy-1.17.3-x64-shared.tar.bz2
   name: tropy-1.17.3-x64-shared.tar.bz2

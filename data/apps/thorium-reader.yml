@@ -39,4 +39,4 @@ evidence:
   source: https://github.com/edrlab/thorium-reader/archive/refs/tags/v3.5.1.zip
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-09-03'
+last_commit: '2026-09-04'

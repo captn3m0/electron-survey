@@ -39,7 +39,7 @@ evidence:
   reconstructed: true
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-05-21'
+last_commit: '2026-09-05'
 aur_downloads:
 - url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.AppImage
   name: Fluent.Reader.1.2.2.AppImage

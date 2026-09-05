@@ -23,7 +23,7 @@ evidence:
   found_in: pupu-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
-last_commit: '2026-09-04'
+last_commit: '2026-09-05'
 aur_downloads:
 - url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu_0.1.8.deb
   name: PuPu_0.1.8.deb

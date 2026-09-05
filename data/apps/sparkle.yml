@@ -52,6 +52,6 @@ aur_votes: 1
 brew_installs: 1000
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-09-03'
+last_commit: '2026-09-04'
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check

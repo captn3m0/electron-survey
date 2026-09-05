@@ -4,39 +4,39 @@ website: https://github.com/tashfeenahmed/freellmapi
 repository: https://github.com/tashfeenahmed/freellmapi
 aur:
 - freellmapi-desktop-git
-latest: v0.9.5
-src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.9.5.zip
+latest: v0.9.7
+src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.9.7.zip
 downloads:
-- name: FreeLLMAPI-0.9.5-arm64.dmg
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/FreeLLMAPI-0.9.5-arm64.dmg
-- name: FreeLLMAPI-0.9.5-arm64.dmg.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/FreeLLMAPI-0.9.5-arm64.dmg.blockmap
-- name: FreeLLMAPI-0.9.5-win.zip
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/FreeLLMAPI-0.9.5-win.zip
-- name: FreeLLMAPI-0.9.5.AppImage
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/FreeLLMAPI-0.9.5.AppImage
-- name: freellmapi-desktop-0.9.5.tar.xz
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/freellmapi-desktop-0.9.5.tar.xz
-- name: freellmapi-desktop-0.9.5.x86_64.rpm
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/freellmapi-desktop-0.9.5.x86_64.rpm
-- name: freellmapi-desktop_0.9.5_amd64.deb
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/freellmapi-desktop_0.9.5_amd64.deb
-- name: FreeLLMAPI.Setup.0.9.5.exe
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/FreeLLMAPI.Setup.0.9.5.exe
-- name: FreeLLMAPI.Setup.0.9.5.exe.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/FreeLLMAPI.Setup.0.9.5.exe.blockmap
+- name: FreeLLMAPI-0.9.7-arm64.dmg
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/FreeLLMAPI-0.9.7-arm64.dmg
+- name: FreeLLMAPI-0.9.7-arm64.dmg.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/FreeLLMAPI-0.9.7-arm64.dmg.blockmap
+- name: FreeLLMAPI-0.9.7-win.zip
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/FreeLLMAPI-0.9.7-win.zip
+- name: FreeLLMAPI-0.9.7.AppImage
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/FreeLLMAPI-0.9.7.AppImage
+- name: freellmapi-desktop-0.9.7.tar.xz
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/freellmapi-desktop-0.9.7.tar.xz
+- name: freellmapi-desktop-0.9.7.x86_64.rpm
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/freellmapi-desktop-0.9.7.x86_64.rpm
+- name: freellmapi-desktop_0.9.7_amd64.deb
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/freellmapi-desktop_0.9.7_amd64.deb
+- name: FreeLLMAPI.Setup.0.9.7.exe
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/FreeLLMAPI.Setup.0.9.7.exe
+- name: FreeLLMAPI.Setup.0.9.7.exe.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/FreeLLMAPI.Setup.0.9.7.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/latest-linux.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/latest-mac.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.5/latest.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.9.7/latest.yml
 electron: 38.8.6
 method: src-package-lock
-electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.9.5.zip
+electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.9.7.zip
 evidence:
   kind: lockfile
-  found_in: freellmapi-0.9.5/desktop/package-lock.json
+  found_in: freellmapi-0.9.7/desktop/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.9.5.zip
-last_commit: '2026-09-03'
+  source: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.9.7.zip
+last_commit: '2026-09-04'

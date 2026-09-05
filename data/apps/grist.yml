@@ -32,4 +32,4 @@ evidence:
   source: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.13/grist-desktop-0.3.13-linux-x86_64.AppImage
   found_in: grist-desktop-0.3.13-linux-x86_64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-02'
+last_commit: '2026-09-04'

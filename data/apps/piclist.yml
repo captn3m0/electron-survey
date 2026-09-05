@@ -88,7 +88,7 @@ evidence:
   found_in: PicList-3.5.0-aarch64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-09-03'
+last_commit: '2026-09-04'
 aur_downloads:
 - url: https://raw.githubusercontent.com/Kuingsmile/PicList/v3.5.0/LICENSE
   name: LICENSE

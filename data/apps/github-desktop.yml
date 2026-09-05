@@ -1,27 +1,27 @@
 id: github-desktop
 repository: https://github.com/desktop/desktop
 website: https://desktop.github.com
-latest: release-3.6.4
-src: https://github.com/desktop/desktop/archive/refs/tags/release-3.6.4.zip
+latest: release-3.6.5
+src: https://github.com/desktop/desktop/archive/refs/tags/release-3.6.5.zip
 downloads:
-- name: GitHub.Desktop-3.6.4-checksums.txt
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHub.Desktop-3.6.4-checksums.txt
+- name: GitHub.Desktop-3.6.5-checksums.txt
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHub.Desktop-3.6.5-checksums.txt
 - name: GitHub.Desktop-arm64.zip
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHub.Desktop-arm64.zip
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHub.Desktop-arm64.zip
 - name: GitHub.Desktop-x64.zip
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHub.Desktop-x64.zip
-- name: GitHubDesktop-3.6.4-x64-delta.nupkg
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHubDesktop-3.6.4-x64-delta.nupkg
-  checksum: 3b5b2ffe277ab7c99724c293b733d9518767a4ea7dabd90d84c30378a4171358
-- name: GitHubDesktop-3.6.4-x64-full.nupkg
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHubDesktop-3.6.4-x64-full.nupkg
-  checksum: 1633f119f79b5705b4aad2519643c127b5d760557d827b5b8abc7f9e6cff09aa
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHub.Desktop-x64.zip
+- name: GitHubDesktop-3.6.5-x64-delta.nupkg
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHubDesktop-3.6.5-x64-delta.nupkg
+  checksum: eea97d69f6fed15123d30fe13ccebc086c84bd1aa3e0eaced706bdec5737f9cf
+- name: GitHubDesktop-3.6.5-x64-full.nupkg
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHubDesktop-3.6.5-x64-full.nupkg
+  checksum: c9ea9f3f5b1043ef400c9647c21b7cd26d1dfa777f228b4b71ec4f06a6188c32
 - name: GitHubDesktopSetup-x64.exe
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHubDesktopSetup-x64.exe
-  checksum: 436b928ccef4729b0e37ffcab4cfe3b64662895a3003fd1535aca3301a51dc4a
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHubDesktopSetup-x64.exe
+  checksum: 582a09fb08f4e13362d186374c8c9e053210dff4327d469a1bdfbb0cc85de499
 - name: GitHubDesktopSetup-x64.msi
-  url: https://github.com/desktop/desktop/releases/download/release-3.6.4/GitHubDesktopSetup-x64.msi
-  checksum: 0af2bec6ad0e73b999ebd30b19c7042beaa9b604b7a34839ec3e5975f11ec15b
+  url: https://github.com/desktop/desktop/releases/download/release-3.6.5/GitHubDesktopSetup-x64.msi
+  checksum: 56d6d902eb49a3651f971f3db338f6aa7625f68f5559c4e75c7d60842104f0ee
 electron: 32.3.0
 method: which-electron-rg
 aur:
@@ -48,7 +48,7 @@ evidence:
 homepage: true
 aur_votes: 100
 brew_installs: 10000
-last_commit: '2026-09-03'
+last_commit: '2026-09-04'
 aur_downloads:
 - url: https://github.com/shiftkey/desktop/releases/download/release-3.4.13-linux1/GitHubDesktop-linux-amd64-3.4.13-linux1.deb
   name: GitHubDesktop-linux-amd64-3.4.13-linux1.deb
