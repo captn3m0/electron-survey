@@ -23,58 +23,87 @@ homebrew: drawio
 downloads:
 - name: draw.io-31.4.2-windows-installer.exe
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-31.4.2-windows-installer.exe
+  checksum: d36ee721d46e254e1467dab55981b18f65ca0008dc3bf2eb5946d548c7a7dc29
 - name: draw.io-31.4.2-windows-installer.exe.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-31.4.2-windows-installer.exe.blockmap
+  checksum: b0acb3faf5979ee376796714dd6fc6b5d99286bc172dcbe826587f4ee5035a49
 - name: draw.io-31.4.2-windows.zip
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-31.4.2-windows.zip
+  checksum: 63bdcf485bd2382a5603cf4f6cf5aad332b2a4be42ee0c5f267534b11c48ce07
 - name: draw.io-31.4.2.msi
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-31.4.2.msi
+  checksum: 1869545f70ad15df611906a3f1a66bda4a8ed10ee5f454c9e7ef747821b65d1e
 - name: draw.io-arm64-31.4.2-windows-arm64-installer.exe
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2-windows-arm64-installer.exe
+  checksum: c9a1e52c88631608fcd42aa4bb7bf40d07c907173b9883360b61f4194b9efcd4
 - name: draw.io-arm64-31.4.2-windows-arm64-installer.exe.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2-windows-arm64-installer.exe.blockmap
+  checksum: cf7a3ed0704bd5e04078a9fd1dac6b80421971e86f326ed6d8ea30693c6fbd6d
 - name: draw.io-arm64-31.4.2-windows-arm64-no-installer.exe
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2-windows-arm64-no-installer.exe
+  checksum: df69ad9ac047d13a2808f42223f09df1b879be4a5fcf0567d14e6da3de47cbcc
 - name: draw.io-arm64-31.4.2.dmg
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2.dmg
+  checksum: a8052d8b6622f29c197776384c9c23c5780bf63ce240eb22f98de1694e777f47
 - name: draw.io-arm64-31.4.2.dmg.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2.dmg.blockmap
+  checksum: b31bcc007d79c720807afc3eafdc45dbb4c92ced19e859a790468213a704f5ee
 - name: draw.io-arm64-31.4.2.zip
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2.zip
+  checksum: aea5bdd74b03f0a8ce5625a415dd9c842fbeba182ecba13ad2337401c478e6d3
 - name: draw.io-arm64-31.4.2.zip.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-arm64-31.4.2.zip.blockmap
+  checksum: 4ac70c1faf24eaa05bf4038fd78e8297d0a84ec035696c474b334d549b677999
 - name: draw.io-universal-31.4.2.dmg
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-universal-31.4.2.dmg
+  checksum: de90a401324d7dfe7b242570fe4a0a9741232e7dd5396dc025da1ce5a46a6668
 - name: draw.io-universal-31.4.2.dmg.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-universal-31.4.2.dmg.blockmap
+  checksum: b4938f0085e2af26356419ca80951f8f0ec75e8f1f10bed423f183e474599a8c
 - name: draw.io-x64-31.4.2.dmg
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-x64-31.4.2.dmg
+  checksum: 12d2edd98e957cdce5d10441fbd49c6daed6f3d0c9123bab4ec2e8a937af02ac
 - name: draw.io-x64-31.4.2.dmg.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-x64-31.4.2.dmg.blockmap
+  checksum: 9a7902b6cfc4d8244671e03e8a39da897f157af51734dd9ccb5502a1349a26d4
 - name: draw.io-x64-31.4.2.zip
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-x64-31.4.2.zip
+  checksum: 34ef14ce3d366aee5c0a278fb46be55125bb98a3cb851a66cf6e4adc113462b1
 - name: draw.io-x64-31.4.2.zip.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/draw.io-x64-31.4.2.zip.blockmap
+  checksum: e983ba6117f97cd1f9ee1467dcf7cf1b9efb8f977358d3163cb47b02d8507cdd
 - name: drawio-aarch64-31.4.2.rpm
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/drawio-aarch64-31.4.2.rpm
+  checksum: d65df5d413cad421a08cb74e80974d56c910717b399384d2a3a42d803185ca25
 - name: drawio-amd64-31.4.2.deb
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/drawio-amd64-31.4.2.deb
+  checksum: 080cfbdb2a2663f7abf63cf096e7523e507d0b8155517373ff083b36919304ac
 - name: drawio-arm64-31.4.2.AppImage
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/drawio-arm64-31.4.2.AppImage
+  checksum: 956ddc7c8b6d480ee44bbc877c376a073e0cf11a62d142ae3d024c49e24ee432
 - name: drawio-arm64-31.4.2.deb
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/drawio-arm64-31.4.2.deb
+  checksum: e7b83c5e0933d9cf40b224817e9afebda643baad99cdf1be5f31120c7ec48344
 - name: drawio-x86_64-31.4.2.AppImage
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/drawio-x86_64-31.4.2.AppImage
+  checksum: 0f441eaa5ebebc1ed939b056e99c57d46d18fa3ef806c500a420eee38370cc7a
 - name: drawio-x86_64-31.4.2.rpm
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/drawio-x86_64-31.4.2.rpm
+  checksum: d42130e00f4d25b704d2122e688a8f004f5a23d942ce20dc83dd1d7dbaf3404e
+- name: Files-SHA256-Hashes.txt
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/Files-SHA256-Hashes.txt
 - name: latest-linux-arm64.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/latest-linux-arm64.yml
+  checksum: fbbb7391a20f2ae83f5d4314c177a91776baa2fd17f5c7dc44ae1736ab72e283
 - name: latest-linux.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/latest-linux.yml
+  checksum: 76c5c31b90cf0023b1230ee60dd732af44649201f8c57c88fc15d4b8f6ad4544
 - name: latest-mac.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/latest-mac.yml
+  checksum: 58774e019dae56cb655734827ca1d9627baf607e0c5ac18c9bac6faf82393caf
 - name: latest.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.2/latest.yml
+  checksum: 77a8507bc81d91c4dfa1855fb84b71936c311e0e6b9f690b569b12452084f66b
 electron: 42.7.1
 method: which-electron-rg
 latest: v31.4.2
