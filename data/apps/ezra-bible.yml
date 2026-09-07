@@ -46,4 +46,4 @@ evidence:
   found_in: ezra-bible-app_centos9-1.20.0.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-06-04'
+last_commit: '2026-09-06'

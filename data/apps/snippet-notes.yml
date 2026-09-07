@@ -16,5 +16,5 @@ evidence:
   source: https://aur.archlinux.org/packages/snippet-notes
   found_in: snippet-notes
   signal: depends on electron22; reported as the newest 22.x release (22.3.27)
-last_commit: '2026-09-05'
+last_commit: '2026-09-06'
 we_tried: we1.2.1+p1:0.6.2
