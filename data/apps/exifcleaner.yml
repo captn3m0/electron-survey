@@ -40,7 +40,7 @@ evidence:
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-08-31'
+last_commit: '2026-09-07'
 aur:
 - exifcleaner
 homebrew_disabled: true

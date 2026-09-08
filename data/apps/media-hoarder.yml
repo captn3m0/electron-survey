@@ -75,7 +75,7 @@ evidence:
   found_in: media-hoarder-1.5.4-linux-x64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-03'
+last_commit: '2026-09-07'
 aur_downloads:
 - url: https://github.com/theMK2k/Media-Hoarder/releases/download/v1.5.4/media-hoarder-1.5.4-linux-x64.rpm
   name: media-hoarder-1.5.4-linux-x64.rpm
