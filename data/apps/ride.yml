@@ -1,37 +1,30 @@
 id: ride
 repository: https://github.com/Dyalog/ride
 website: https://github.com/Dyalog/ride
-latest: v4.6.4267
-src: https://github.com/Dyalog/ride/archive/refs/tags/v4.6.4267.zip
+latest: v4.7.4291
+src: https://github.com/Dyalog/ride/archive/refs/tags/v4.7.4291.zip
 downloads:
-- name: ride-4.6.4267-1.aarch64.rpm
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267-1.aarch64.rpm
-- name: ride-4.6.4267-1.armhf.rpm
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267-1.armhf.rpm
-- name: ride-4.6.4267-1.x86_64.rpm
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267-1.x86_64.rpm
-- name: ride-4.6.4267-1_aarch64.deb
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267-1_aarch64.deb
-- name: ride-4.6.4267-1_amd64.deb
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267-1_amd64.deb
-- name: ride-4.6.4267-1_armhf.deb
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267-1_armhf.deb
-- name: ride-4.6.4267_mac_arm64.pkg
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267_mac_arm64.pkg
-- name: ride-4.6.4267_mac_x64.pkg
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267_mac_x64.pkg
-- name: ride-4.6.4267_windows.zip
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267_windows.zip
-- name: ride-4.6.4267_zerofootprint.zip
-  url: https://github.com/Dyalog/ride/releases/download/v4.6.4267/ride-4.6.4267_zerofootprint.zip
+- name: ride-4.7.4291-1.aarch64.rpm
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291-1.aarch64.rpm
+- name: ride-4.7.4291-1.x86_64.rpm
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291-1.x86_64.rpm
+- name: ride-4.7.4291-1_aarch64.deb
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291-1_aarch64.deb
+- name: ride-4.7.4291-1_amd64.deb
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291-1_amd64.deb
+- name: ride-4.7.4291_mac_arm64.pkg
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291_mac_arm64.pkg
+- name: ride-4.7.4291_windows.zip
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291_windows.zip
+- name: ride-4.7.4291_zerofootprint.zip
+  url: https://github.com/Dyalog/ride/releases/download/v4.7.4291/ride-4.7.4291_zerofootprint.zip
 electron: 34.5.5
 method: src-package-lock
 name: RIDE
-electron_src: https://github.com/Dyalog/ride/archive/refs/tags/v4.6.4267.zip
+electron_src: https://github.com/Dyalog/ride/archive/refs/tags/v4.7.4291.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3ADyalog%2Fride+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: ride-4.7.4291/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
-last_commit: '2026-09-07'
+  source: https://github.com/Dyalog/ride/archive/refs/tags/v4.7.4291.zip
+last_commit: '2026-09-08'

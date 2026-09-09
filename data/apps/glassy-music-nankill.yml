@@ -52,4 +52,4 @@ evidence:
   source: https://github.com/NanKillBro/glassy-music-nankill/releases/download/v4.0.0/glassy-music-nankill-mod-4.0.0.aarch64.rpm
   found_in: glassy-music-nankill-mod-4.0.0.aarch64.rpm
   signal: which-electron rg signal
-last_commit: '2026-09-07'
+last_commit: '2026-09-08'

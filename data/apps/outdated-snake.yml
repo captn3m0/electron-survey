@@ -16,5 +16,5 @@ evidence:
   source: https://aur.archlinux.org/packages/outdated-snake-git
   found_in: outdated-snake-git
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
-last_commit: '2026-07-31'
+last_commit: '2026-09-08'
 we_tried: we1.2.1+p1:v3.0.0

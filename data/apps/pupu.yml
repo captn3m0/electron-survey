@@ -8,22 +8,48 @@ additionalAUR:
 - pupu-git
 electron: 40.10.6
 method: aur-depends
-latest: v0.1.9
-src: https://github.com/haoxiang-xu/PuPu/archive/refs/tags/v0.1.9.zip
+latest: v0.1.10
+src: https://github.com/haoxiang-xu/PuPu/archive/refs/tags/v0.1.10.zip
 downloads:
-- name: PuPu-0.1.9-arm64.dmg
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.9/PuPu-0.1.9-arm64.dmg
-- name: PuPu.Setup.0.1.9.exe
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.9/PuPu.Setup.0.1.9.exe
-- name: PuPu_0.1.9.deb
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.9/PuPu_0.1.9.deb
+- name: latest-mac.yml
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/latest.yml
+- name: PuPu-0.1.10-linux-x64.AppImage
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-linux-x64.AppImage
+- name: PuPu-0.1.10-linux-x64.deb
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-linux-x64.deb
+- name: PuPu-0.1.10-macos-arm64.dmg
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-macos-arm64.dmg
+- name: PuPu-0.1.10-macos-arm64.zip
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-macos-arm64.zip
+- name: PuPu-0.1.10-macos-arm64.zip.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-macos-arm64.zip.blockmap
+- name: PuPu-0.1.10-macos-x64.dmg
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-macos-x64.dmg
+- name: PuPu-0.1.10-macos-x64.zip
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-macos-x64.zip
+- name: PuPu-0.1.10-macos-x64.zip.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-macos-x64.zip.blockmap
+- name: PuPu-0.1.10-windows-x64-setup.exe
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-windows-x64-setup.exe
+- name: PuPu-0.1.10-windows-x64-setup.exe.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/PuPu-0.1.10-windows-x64-setup.exe.blockmap
+- name: release-assets.v1.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/release-assets.v1.json
+- name: release-qa-report.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/release-qa-report.json
+- name: release-qualification.v1.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/release-qualification.v1.json
+- name: windows-signing-evidence.v1.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.10/windows-signing-evidence.v1.json
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/pupu-bin
   found_in: pupu-bin
   signal: depends on electron40; reported as the newest 40.x release (40.10.6)
 aur_votes: 1
-last_commit: '2026-09-08'
+last_commit: '2026-09-09'
 aur_downloads:
 - url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.8/PuPu_0.1.8.deb
   name: PuPu_0.1.8.deb
@@ -33,4 +59,4 @@ aur_downloads:
   name: LICENSE
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:v0.1.9
+we_tried: we1.2.1+p1:v0.1.10

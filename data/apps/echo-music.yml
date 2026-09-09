@@ -6,50 +6,50 @@ aur:
 - echo-music-bin
 electron: 43.1.1
 method: which-electron-rg
-latest: v2.3.0
-src: https://github.com/hoowhoami/EchoMusic/archive/refs/tags/v2.3.0.zip
+latest: v2.3.1
+src: https://github.com/hoowhoami/EchoMusic/archive/refs/tags/v2.3.1.zip
 downloads:
-- name: EchoMusic-2.3.0-linux-aarch64.pkg.tar.zst
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-aarch64.pkg.tar.zst
-- name: EchoMusic-2.3.0-linux-aarch64.rpm
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-aarch64.rpm
-- name: EchoMusic-2.3.0-linux-amd64.deb
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-amd64.deb
-- name: EchoMusic-2.3.0-linux-arm64.AppImage
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-arm64.AppImage
-- name: EchoMusic-2.3.0-linux-arm64.deb
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-arm64.deb
-- name: EchoMusic-2.3.0-linux-arm64.tar.gz
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-arm64.tar.gz
-- name: EchoMusic-2.3.0-linux-x64.pkg.tar.zst
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-x64.pkg.tar.zst
-- name: EchoMusic-2.3.0-linux-x64.tar.gz
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-x64.tar.gz
-- name: EchoMusic-2.3.0-linux-x86_64.AppImage
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-x86_64.AppImage
-- name: EchoMusic-2.3.0-linux-x86_64.rpm
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-linux-x86_64.rpm
-- name: EchoMusic-2.3.0-mac-arm64.zip
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-mac-arm64.zip
-- name: EchoMusic-2.3.0-mac-x64.zip
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-mac-x64.zip
-- name: EchoMusic-2.3.0-macOS-arm64.dmg
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-macOS-arm64.dmg
-- name: EchoMusic-2.3.0-macOS-x64.dmg
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-macOS-x64.dmg
-- name: EchoMusic-2.3.0-Windows-Setup-arm64.exe
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-Windows-Setup-arm64.exe
-- name: EchoMusic-2.3.0-Windows-Setup-x64.exe
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/EchoMusic-2.3.0-Windows-Setup-x64.exe
+- name: EchoMusic-2.3.1-linux-aarch64.pkg.tar.zst
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-aarch64.pkg.tar.zst
+- name: EchoMusic-2.3.1-linux-aarch64.rpm
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-aarch64.rpm
+- name: EchoMusic-2.3.1-linux-amd64.deb
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-amd64.deb
+- name: EchoMusic-2.3.1-linux-arm64.AppImage
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-arm64.AppImage
+- name: EchoMusic-2.3.1-linux-arm64.deb
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-arm64.deb
+- name: EchoMusic-2.3.1-linux-arm64.tar.gz
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-arm64.tar.gz
+- name: EchoMusic-2.3.1-linux-x64.pkg.tar.zst
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-x64.pkg.tar.zst
+- name: EchoMusic-2.3.1-linux-x64.tar.gz
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-x64.tar.gz
+- name: EchoMusic-2.3.1-linux-x86_64.AppImage
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-x86_64.AppImage
+- name: EchoMusic-2.3.1-linux-x86_64.rpm
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-linux-x86_64.rpm
+- name: EchoMusic-2.3.1-mac-arm64.zip
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-mac-arm64.zip
+- name: EchoMusic-2.3.1-mac-x64.zip
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-mac-x64.zip
+- name: EchoMusic-2.3.1-macOS-arm64.dmg
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-macOS-arm64.dmg
+- name: EchoMusic-2.3.1-macOS-x64.dmg
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-macOS-x64.dmg
+- name: EchoMusic-2.3.1-Windows-Setup-arm64.exe
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-Windows-Setup-arm64.exe
+- name: EchoMusic-2.3.1-Windows-Setup-x64.exe
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/EchoMusic-2.3.1-Windows-Setup-x64.exe
 - name: latest-linux-arm64.yml
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/latest-linux-arm64.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/latest-linux.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/latest-mac.yml
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.0/latest.yml
-last_commit: '2026-09-08'
+  url: https://github.com/hoowhoami/EchoMusic/releases/download/v2.3.1/latest.yml
+last_commit: '2026-09-09'
 aur_downloads:
 - url: https://raw.githubusercontent.com/hoowhoami/EchoMusic/v2.2.8/LICENSE
   name: LICENSE

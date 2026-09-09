@@ -29,7 +29,7 @@ evidence:
   found_in: soundcloud-0.1.9-installer-linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-19'
+last_commit: '2026-09-08'
 aur_downloads:
 - url: https://github.com/richardhbtz/soundcloud-rpc/releases/download/v0.1.9/soundcloud-0.1.9-installer-linux.AppImage
   name: soundcloud-0.1.9-installer-linux.AppImage

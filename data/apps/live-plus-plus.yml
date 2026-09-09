@@ -6,23 +6,23 @@ aur:
 - live-plus-plus-bin
 electron: 28.3.3
 method: which-electron-rg
-latest: v2.3.10
-src: https://github.com/dipelta/live-plus-plus/archive/refs/tags/v2.3.10.zip
+latest: v2.3.11
+src: https://github.com/dipelta/live-plus-plus/archive/refs/tags/v2.3.11.zip
 downloads:
-- name: live++-2.3.10-win.zip
-  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10-win.zip
-- name: live++-2.3.10.AppImage
-  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10.AppImage
-- name: live++-2.3.10.dmg
-  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B-2.3.10.dmg
-- name: live++.Setup.2.3.10.exe
-  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live%2B%2B.Setup.2.3.10.exe
+- name: live++-2.3.11-win.zip
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.11/live%2B%2B-2.3.11-win.zip
+- name: live++-2.3.11.dmg
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.11/live%2B%2B-2.3.11.dmg
+- name: live++.Setup.2.3.11.exe
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.11/live%2B%2B.Setup.2.3.11.exe
+- name: live-plus-plus-2.3.11.AppImage
+  url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.11/live-plus-plus-2.3.11.AppImage
 evidence:
   kind: binary
   source: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live++-2.3.10.AppImage
   found_in: live++-2.3.10.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-07'
+last_commit: '2026-09-09'
 aur_downloads:
 - url: https://github.com/dipelta/live-plus-plus/releases/download/v2.3.10/live++-2.3.10.AppImage
   name: live++-2.3.10.AppImage
