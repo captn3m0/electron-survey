@@ -25,7 +25,7 @@ evidence:
   found_in: Flare.Player.1.15.0_x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2025-12-29'
+last_commit: '2026-09-10'
 aur_downloads:
 - url: https://github.com/jooy2/flaru/releases/download/1.15.0/Flare.Player.1.15.0_x86_64.rpm
   name: Flare.Player.1.15.0_x86_64.rpm

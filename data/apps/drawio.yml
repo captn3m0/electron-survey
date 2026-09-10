@@ -23,60 +23,90 @@ homebrew: drawio
 downloads:
 - name: draw.io-31.4.5-windows-installer.exe
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-31.4.5-windows-installer.exe
+  checksum: 4140daba878a6e8c5561cc8fa9b4169cf0dbdbfd64c11484baa08ca3dd37fc27
 - name: draw.io-31.4.5-windows-installer.exe.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-31.4.5-windows-installer.exe.blockmap
+  checksum: d8fcdc298a8a92a627675e6c8b0fd9da8e8ad6ba6428c2c85c6dfe17f5a999da
 - name: draw.io-31.4.5-windows.zip
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-31.4.5-windows.zip
+  checksum: d2c6f1eb4ed39fac9bb70fe6a1d359b8b9b01778145d65a68d29554994414207
 - name: draw.io-31.4.5.msi
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-31.4.5.msi
+  checksum: 8ad358cb8f631a3cdaa2ebe63d1013c21ebaad074b01ef0697f59c22e6347000
 - name: draw.io-arm64-31.4.5-windows-arm64-installer.exe
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5-windows-arm64-installer.exe
+  checksum: 72b0a0eaa55f1b9c416e4958455f960ffee7b9a8f3f3793e3fb374822b4188ec
 - name: draw.io-arm64-31.4.5-windows-arm64-installer.exe.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5-windows-arm64-installer.exe.blockmap
+  checksum: 1d3021c077331d205b0446e3f96dc7047c93f789ba0573ee49ca7b0659976abf
 - name: draw.io-arm64-31.4.5-windows-arm64-no-installer.exe
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5-windows-arm64-no-installer.exe
+  checksum: afc412f3e5f11d3fa4d0589e9a5f2a8321da1f388dec46751a02dab6b4498f15
 - name: draw.io-arm64-31.4.5.dmg
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5.dmg
+  checksum: 9f73e9970f0a720c1b9a553c7caf0c1160cabbb03c7b90e968ff3b704aaf56a9
 - name: draw.io-arm64-31.4.5.dmg.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5.dmg.blockmap
+  checksum: f9d5fd2b12c5ea907d45e0e7b40694e25a5cfbc77c5e72acaf5df05e3e2a2dc5
 - name: draw.io-arm64-31.4.5.zip
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5.zip
+  checksum: d5eea5a3fdfa16b86d62bd6d578c32f9909bfb65c040bf3113a9f825689f4e89
 - name: draw.io-arm64-31.4.5.zip.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-arm64-31.4.5.zip.blockmap
+  checksum: ea8d78b92602ffc24da25eb9d5c4e199ff8f42e7f5cea7c2d57f35820265c64d
 - name: draw.io-universal-31.4.5.dmg
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-universal-31.4.5.dmg
+  checksum: 90a55bf75b064939fff1bfd8495e59e9c226b98230c6d6c8e757bfac2e738b32
 - name: draw.io-universal-31.4.5.dmg.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-universal-31.4.5.dmg.blockmap
+  checksum: 0d01d5f4617cc1a590aa2e044a50b668807f9cbac5453dbae7765f3fc74fd8d3
 - name: draw.io-x64-31.4.5.dmg
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-x64-31.4.5.dmg
+  checksum: a07e3025542e554cc029d35a027e8b3c73a963d1b04550afff38592e0f91b6b9
 - name: draw.io-x64-31.4.5.dmg.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-x64-31.4.5.dmg.blockmap
+  checksum: eb75a91a000c60cca6b9605d9ce1c21f0015f9250312d41a8510e683977016db
 - name: draw.io-x64-31.4.5.zip
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-x64-31.4.5.zip
+  checksum: c95f71254539af5c4b3b345d0ad80343e2d2f9616bcd848954208519ed9fb8de
 - name: draw.io-x64-31.4.5.zip.blockmap
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/draw.io-x64-31.4.5.zip.blockmap
+  checksum: 58892b408e293754c4b74139ceacfa30d1fe64f8e176396470d3c4dcbbdab5d9
 - name: drawio-aarch64-31.4.5.rpm
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-aarch64-31.4.5.rpm
+  checksum: bc4e76621dbefb3cc15158ccb238946d071f904fe4351e21cf7f02858ec8bf91
 - name: drawio-amd64-31.4.5.deb
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-amd64-31.4.5.deb
+  checksum: 296729ee18f781dc82deb757de2b3399fbe04fe0ddad3093909013e707ee2ae4
 - name: drawio-arm64-31.4.5.AppImage
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-arm64-31.4.5.AppImage
+  checksum: 776463dc9b1233a4ab550d5021bd9a39ed20eb2268d0d1a800a86026c9ff9021
 - name: drawio-arm64-31.4.5.deb
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-arm64-31.4.5.deb
+  checksum: b75aee5a4a24252acae14d62122ff4ab15f27199619a5a701bcbc01acd2b8127
 - name: drawio-x86_64-31.4.5.AppImage
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-x86_64-31.4.5.AppImage
+  checksum: 9d39e815151296a55b1e95f68476ef999c2ca6b0673b64a03096b4117cda15c0
 - name: drawio-x86_64-31.4.5.rpm
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/drawio-x86_64-31.4.5.rpm
+  checksum: e5ef911bafe97813b9d68424efa2397b8d2e59608c89a60f7631cb6d28d5ca8a
+- name: Files-SHA256-Hashes.txt
+  url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/Files-SHA256-Hashes.txt
 - name: latest-arm64.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/latest-arm64.yml
+  checksum: 38006988f9294712c4a882217d416caa845fc4106927d2d4295fe88a87900486
 - name: latest-linux-arm64.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/latest-linux-arm64.yml
+  checksum: 690ef00e51d0999903e530aaae89d69cd39221bac74167e593058441e8d0dce3
 - name: latest-linux.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/latest-linux.yml
+  checksum: 7045d2176e3b555fa3692e173bc0b7a43daa3cc9284fbf2d9c4c9647da2209ac
 - name: latest-mac.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/latest-mac.yml
+  checksum: a88c252eca0639e947791c086c3cf7669d3eec5c4c69ef20c74b8377a6944967
 - name: latest.yml
   url: https://github.com/jgraph/drawio-desktop/releases/download/v31.4.5/latest.yml
+  checksum: 9cc45ed9ea95349cd2b7eee968e8ebc1a9384904a2c07e86cf7429c607c14905
 electron: 42.7.1
 method: which-electron-rg
 latest: v31.4.5

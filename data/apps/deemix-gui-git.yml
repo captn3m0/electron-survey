@@ -17,4 +17,4 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.0.zip
 aur_votes: 1
-last_commit: '2026-08-24'
+last_commit: '2026-09-09'
