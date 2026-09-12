@@ -18,4 +18,4 @@ evidence:
   source: https://na-update.native-instruments.com/arm64/Native-Access-arm64-mac-latest.zip
   found_in: Native-Access-arm64-mac-latest.zip
   signal: which-electron rg signal
-brew_installs: 1000
+brew_installs: 100

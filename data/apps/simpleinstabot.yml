@@ -1,35 +1,34 @@
 id: simpleinstabot
 repository: https://github.com/mifi/SimpleInstaBot
 website: https://mifi.github.io/SimpleInstaBot/
-latest: SimpleInstaBot/v1.11.13
-src: https://github.com/mifi/SimpleInstaBot/archive/refs/tags/SimpleInstaBot/v1.11.13.zip
+latest: SimpleInstaBot/v1.11.14
+src: https://github.com/mifi/SimpleInstaBot/archive/refs/tags/SimpleInstaBot/v1.11.14.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/latest-linux.yml
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/latest-mac.yml
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/latest-mac.yml
 - name: SimpleInstaBot-linux-arm64.tar.bz2
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-linux-arm64.tar.bz2
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-linux-arm64.tar.bz2
 - name: SimpleInstaBot-linux-armv7l.tar.bz2
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-linux-armv7l.tar.bz2
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-linux-armv7l.tar.bz2
 - name: SimpleInstaBot-linux-x64.tar.bz2
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-linux-x64.tar.bz2
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-linux-x64.tar.bz2
 - name: SimpleInstaBot-linux-x86_64.AppImage
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-linux-x86_64.AppImage
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-linux-x86_64.AppImage
 - name: SimpleInstaBot-mac.dmg
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-mac.dmg
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-mac.dmg
 - name: SimpleInstaBot-mac.dmg.blockmap
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-mac.dmg.blockmap
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-mac.dmg.blockmap
 - name: SimpleInstaBot-win.exe
-  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.13/SimpleInstaBot-win.exe
+  url: https://github.com/mifi/SimpleInstaBot/releases/download/SimpleInstaBot/v1.11.14/SimpleInstaBot-win.exe
 electron: 38.8.4
 method: src-yarn-lock
 name: SimpleInstaBot
-electron_src: https://github.com/mifi/SimpleInstaBot/archive/refs/tags/SimpleInstaBot/v1.11.13.zip
+electron_src: https://github.com/mifi/SimpleInstaBot/archive/refs/tags/SimpleInstaBot/v1.11.14.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Amifi%2FSimpleInstaBot+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
+  found_in: SimpleInstaBot-SimpleInstaBot-v1.11.14/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
-last_commit: '2026-06-17'
+  source: https://github.com/mifi/SimpleInstaBot/archive/refs/tags/SimpleInstaBot/v1.11.14.zip
+last_commit: '2026-09-11'

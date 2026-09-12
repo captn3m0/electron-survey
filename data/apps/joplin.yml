@@ -1,49 +1,49 @@
 id: joplin
 repository: https://github.com/laurent22/joplin
 website: https://joplinapp.org/
-latest: v3.7.16
-src: https://github.com/laurent22/joplin/archive/refs/tags/v3.7.16.zip
+latest: v3.7.18
+src: https://github.com/laurent22/joplin/archive/refs/tags/v3.7.18.zip
 downloads:
-- name: Joplin-3.7.16-arm64.DMG
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-arm64.DMG
-- name: Joplin-3.7.16-arm64.dmg.blockmap
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-arm64.dmg.blockmap
-- name: Joplin-3.7.16-arm64.pkg
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-arm64.pkg
-- name: Joplin-3.7.16-arm64.zip
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-arm64.zip
-- name: Joplin-3.7.16-arm64.zip.blockmap
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-arm64.zip.blockmap
-- name: Joplin-3.7.16-mac.zip
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-mac.zip
-- name: Joplin-3.7.16-mac.zip.blockmap
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16-mac.zip.blockmap
-- name: Joplin-3.7.16.AppImage
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16.AppImage
-- name: Joplin-3.7.16.AppImage.sha512
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16.AppImage.sha512
-- name: Joplin-3.7.16.deb
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16.deb
-- name: Joplin-3.7.16.dmg
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16.dmg
-- name: Joplin-3.7.16.dmg.blockmap
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16.dmg.blockmap
-- name: Joplin-3.7.16.pkg
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-3.7.16.pkg
-- name: Joplin-Setup-3.7.16.exe
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-Setup-3.7.16.exe
-- name: Joplin-Setup-3.7.16.exe.blockmap
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-Setup-3.7.16.exe.blockmap
+- name: Joplin-3.7.18-arm64.DMG
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-arm64.DMG
+- name: Joplin-3.7.18-arm64.dmg.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-arm64.dmg.blockmap
+- name: Joplin-3.7.18-arm64.pkg
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-arm64.pkg
+- name: Joplin-3.7.18-arm64.zip
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-arm64.zip
+- name: Joplin-3.7.18-arm64.zip.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-arm64.zip.blockmap
+- name: Joplin-3.7.18-mac.zip
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-mac.zip
+- name: Joplin-3.7.18-mac.zip.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18-mac.zip.blockmap
+- name: Joplin-3.7.18.AppImage
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18.AppImage
+- name: Joplin-3.7.18.AppImage.sha512
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18.AppImage.sha512
+- name: Joplin-3.7.18.deb
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18.deb
+- name: Joplin-3.7.18.dmg
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18.dmg
+- name: Joplin-3.7.18.dmg.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18.dmg.blockmap
+- name: Joplin-3.7.18.pkg
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-3.7.18.pkg
+- name: Joplin-Setup-3.7.18.exe
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-Setup-3.7.18.exe
+- name: Joplin-Setup-3.7.18.exe.blockmap
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-Setup-3.7.18.exe.blockmap
 - name: JoplinPortable.exe
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/JoplinPortable.exe
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/JoplinPortable.exe
 - name: latest-linux.yml
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/latest-linux.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/latest-linux.yml
 - name: latest-mac-arm64.yml
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/latest-mac-arm64.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/latest-mac-arm64.yml
 - name: latest-mac.yml
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/latest-mac.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/laurent22/joplin/releases/download/v3.7.16/latest.yml
+  url: https://github.com/laurent22/joplin/releases/download/v3.7.18/latest.yml
 electron: 42.3.0
 method: src-yarn-lock
 aur:
@@ -72,12 +72,12 @@ packages:
   os: macos
   arch: arm64
 name: Joplin
-electron_src: https://github.com/laurent22/joplin/archive/refs/tags/v3.7.16.zip
+electron_src: https://github.com/laurent22/joplin/archive/refs/tags/v3.7.18.zip
 evidence:
   kind: lockfile
-  found_in: joplin-3.7.16/yarn.lock
+  found_in: joplin-3.7.18/yarn.lock
   signal: electron pinned in yarn.lock
-  source: https://github.com/laurent22/joplin/archive/refs/tags/v3.7.16.zip
+  source: https://github.com/laurent22/joplin/archive/refs/tags/v3.7.18.zip
 homepage: true
 aur_votes: 100
 brew_installs: 1000

@@ -30,7 +30,7 @@ evidence:
   source: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
   found_in: wj-markdown-editor-linux-x86_64-2.19.7.rpm
   signal: which-electron rg signal
-last_commit: '2026-07-14'
+last_commit: '2026-09-11'
 aur_downloads:
 - url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
   name: wj-markdown-editor-linux-x86_64-2.19.7.rpm

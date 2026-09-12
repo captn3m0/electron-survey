@@ -36,4 +36,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.15.zip
 aur_votes: 1
-last_commit: '2026-09-04'
+last_commit: '2026-09-11'
