@@ -1,29 +1,29 @@
 id: mailspring
 repository: https://github.com/Foundry376/Mailspring
 website: https://getmailspring.com/
-latest: 1.23.0
-src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.23.0.zip
+latest: 1.24.0
+src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.24.0.zip
 downloads:
-- name: mailspring-1.23.0-0.1.aarch64.rpm
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-0.1.aarch64.rpm
-- name: mailspring-1.23.0-0.1.x86_64.rpm
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-0.1.x86_64.rpm
-- name: mailspring-1.23.0-amd64.deb
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-amd64.deb
-- name: mailspring-1.23.0-arm64.deb
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-arm64.deb
-- name: Mailspring-1.23.0-full.nupkg
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/Mailspring-1.23.0-full.nupkg
+- name: mailspring-1.24.0-0.1.aarch64.rpm
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/mailspring-1.24.0-0.1.aarch64.rpm
+- name: mailspring-1.24.0-0.1.x86_64.rpm
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/mailspring-1.24.0-0.1.x86_64.rpm
+- name: mailspring-1.24.0-amd64.deb
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/mailspring-1.24.0-amd64.deb
+- name: mailspring-1.24.0-arm64.deb
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/mailspring-1.24.0-arm64.deb
+- name: Mailspring-1.24.0-full.nupkg
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/Mailspring-1.24.0-full.nupkg
 - name: Mailspring-AppleSilicon.zip
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/Mailspring-AppleSilicon.zip
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/Mailspring-AppleSilicon.zip
 - name: Mailspring.zip
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/Mailspring.zip
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/Mailspring.zip
 - name: MailspringSetup.exe
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/MailspringSetup.exe
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/MailspringSetup.exe
 - name: RELEASES
-  url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/RELEASES
+  url: https://github.com/Foundry376/Mailspring/releases/download/1.24.0/RELEASES
 electron: 41.7.2
-method: src-package-lock
+method: which-electron-rg
 aur:
 - mailspring-bin
 - mailspring-git
@@ -49,17 +49,16 @@ packages:
   os: macos
   arch: arm64
 name: Mailspring
-electron_src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.23.0.zip
+electron_src: https://github.com/Foundry376/Mailspring/archive/refs/tags/1.24.0.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3AFoundry376%2FMailspring+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  kind: binary
+  source: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-0.1.x86_64.rpm
+  found_in: mailspring-1.23.0-0.1.x86_64.rpm
+  signal: which-electron rg signal
 homepage: true
 aur_votes: 100
 brew_installs: 100
-last_commit: '2026-09-11'
+last_commit: '2026-09-13'
 aur_downloads:
 - url: https://github.com/Foundry376/Mailspring/releases/download/1.23.0/mailspring-1.23.0-0.1.x86_64.rpm
   name: mailspring-1.23.0-0.1.x86_64.rpm

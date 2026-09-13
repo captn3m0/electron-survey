@@ -8,29 +8,31 @@ additionalAUR:
 - wj-markdown-editor-git
 electron: 39.2.7
 method: which-electron-rg
-latest: 2.19.7
-src: https://github.com/nlbwqmz/wj-markdown-editor/archive/refs/tags/2.19.7.zip
+latest: 2.19.8
+src: https://github.com/nlbwqmz/wj-markdown-editor/archive/refs/tags/2.19.8.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/latest-linux.yml
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/latest.yml
-- name: wj-markdown-editor-linux-amd64-2.19.7.deb
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-amd64-2.19.7.deb
-- name: wj-markdown-editor-linux-x86_64-2.19.7.rpm
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
-- name: wj-markdown-editor-win32-x64-2.19.7.exe
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.exe
-- name: wj-markdown-editor-win32-x64-2.19.7.exe.blockmap
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.exe.blockmap
-- name: wj-markdown-editor-win32-x64-2.19.7.zip
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-win32-x64-2.19.7.zip
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/latest.yml
+- name: wj-markdown-editor-linux-amd64-2.19.8.deb
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/wj-markdown-editor-linux-amd64-2.19.8.deb
+- name: wj-markdown-editor-linux-x86_64-2.19.8.AppImage
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/wj-markdown-editor-linux-x86_64-2.19.8.AppImage
+- name: wj-markdown-editor-linux-x86_64-2.19.8.rpm
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/wj-markdown-editor-linux-x86_64-2.19.8.rpm
+- name: wj-markdown-editor-win32-x64-2.19.8.exe
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/wj-markdown-editor-win32-x64-2.19.8.exe
+- name: wj-markdown-editor-win32-x64-2.19.8.exe.blockmap
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/wj-markdown-editor-win32-x64-2.19.8.exe.blockmap
+- name: wj-markdown-editor-win32-x64-2.19.8.zip
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.8/wj-markdown-editor-win32-x64-2.19.8.zip
 evidence:
   kind: binary
   source: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
   found_in: wj-markdown-editor-linux-x86_64-2.19.7.rpm
   signal: which-electron rg signal
-last_commit: '2026-09-11'
+last_commit: '2026-09-12'
 aur_downloads:
 - url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
   name: wj-markdown-editor-linux-x86_64-2.19.7.rpm

@@ -4,36 +4,36 @@ website: https://github.com/akitaonrails/frank_go
 repository: https://github.com/akitaonrails/frank_go
 aur:
 - frank-go
-latest: v0.3.15
-src: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.15.zip
+latest: v0.3.16
+src: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.16.zip
 downloads:
-- name: frank-go-v0.3.15-linux-arm64.AppImage
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/frank-go-v0.3.15-linux-arm64.AppImage
-  checksum: 52f48dfd3a600e9c0b4d1f2ebb351badd117ab75d2d11babeaaba7e916d2c06b
-- name: frank-go-v0.3.15-linux-x64.AppImage
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/frank-go-v0.3.15-linux-x64.AppImage
-  checksum: e3dfefa6d8a0257b0ce1c80b15e603a517bb095b6a22798051978fa9c46b2148
-- name: frank-go-v0.3.15-mac-arm64.dmg
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/frank-go-v0.3.15-mac-arm64.dmg
-  checksum: 9dc94b9e9cca04af95f74db13ad8d1d6d4e4db14f36e2b45211007e277cb36e8
-- name: frank-go-v0.3.15-mac-x64.dmg
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/frank-go-v0.3.15-mac-x64.dmg
-  checksum: 739c4ddb979107ea5df726a4cf171b341a64716622ccb4041ba6e89c40d6fdf0
-- name: frank-go-v0.3.15-win-x64-portable.exe
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/frank-go-v0.3.15-win-x64-portable.exe
-  checksum: 04688d39be595a0d35ef565b6138256f3045a17f247bf404afb610daefb782cb
-- name: frank-go-v0.3.15-win-x64-setup.exe
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/frank-go-v0.3.15-win-x64-setup.exe
-  checksum: 046b40b8822e416c78eace285c3a12c50356aeb99dadef2536211eb02751b3eb
+- name: frank-go-v0.3.16-linux-arm64.AppImage
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/frank-go-v0.3.16-linux-arm64.AppImage
+  checksum: ce461a674066a468585da74acc8db471615970a1657516e994affd4a8d00bd01
+- name: frank-go-v0.3.16-linux-x64.AppImage
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/frank-go-v0.3.16-linux-x64.AppImage
+  checksum: d4ee39f6305891f864eb8616dd775c5270625a756a55dcd67f2366d6f60f93d2
+- name: frank-go-v0.3.16-mac-arm64.dmg
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/frank-go-v0.3.16-mac-arm64.dmg
+  checksum: de9b6e36606202c7d9685ec71e535e322d42cf9c6779075f87a4007cbbba4dfd
+- name: frank-go-v0.3.16-mac-x64.dmg
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/frank-go-v0.3.16-mac-x64.dmg
+  checksum: d1ae90b7fc85232a29abc2a9488ac2f064298628418b7f505c1210c7758658b3
+- name: frank-go-v0.3.16-win-x64-portable.exe
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/frank-go-v0.3.16-win-x64-portable.exe
+  checksum: 029dfe8cd3928d0364c811e6715fb05fa0a1901f7ff92811213b4eab58230423
+- name: frank-go-v0.3.16-win-x64-setup.exe
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/frank-go-v0.3.16-win-x64-setup.exe
+  checksum: c743d278e6553a7b352f546e15502bc4db4ef63b306fca209f1843734fd5b6e0
 - name: SHA256SUMS
-  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.15/SHA256SUMS
-electron: 44.2.0
+  url: https://github.com/akitaonrails/frank_go/releases/download/v0.3.16/SHA256SUMS
+electron: 44.3.0
 method: src-package-lock
-electron_src: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.15.zip
+electron_src: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.16.zip
 evidence:
   kind: lockfile
-  found_in: frank_go-0.3.15/package-lock.json
+  found_in: frank_go-0.3.16/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.15.zip
+  source: https://github.com/akitaonrails/frank_go/archive/refs/tags/v0.3.16.zip
 aur_votes: 1
-last_commit: '2026-09-11'
+last_commit: '2026-09-12'

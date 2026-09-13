@@ -24,7 +24,7 @@ aur:
 electron: 12.0.0
 method: which-electron-rg
 latest: v0.0.19
-src: https://github.com/thanhlmm/refi-app/archive/refs/tags/v0.0.19.zip
+src: https://github.com/thanhlmm/refi-app/archive/refs/heads/main.zip
 downloads:
 - name: latest-mac.yml
   url: https://github.com/thanhlmm/refi-app/releases/download/v0.0.19/latest-mac.yml
