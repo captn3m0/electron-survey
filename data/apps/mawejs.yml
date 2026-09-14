@@ -6,17 +6,21 @@ aur:
 - mawejs-bin
 electron: 40.8.5
 method: which-electron-rg
-latest: v0.27.0
-src: https://github.com/mkoskim/mawejs/archive/refs/tags/v0.27.0.zip
+latest: v0.28.0
+src: https://github.com/mkoskim/mawejs/archive/refs/tags/v0.28.0.zip
 downloads:
-- name: mawejs-0.27.0.AppImage
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.27.0/mawejs-0.27.0.AppImage
+- name: mawejs-0.28.0.AppImage
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs-0.28.0.AppImage
+- name: mawejs.0.28.0.exe
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs.0.28.0.exe
+- name: mawejs.Setup.0.28.0.exe
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs.Setup.0.28.0.exe
 evidence:
   kind: binary
   source: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   found_in: mawejs-0.25.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-12'
+last_commit: '2026-09-13'
 aur_downloads:
 - url: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   name: mawejs-0.25.0.AppImage

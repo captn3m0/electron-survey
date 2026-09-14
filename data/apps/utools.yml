@@ -21,7 +21,7 @@ evidence:
   found_in: uTools-7.8.0-arm64.dmg
   signal: which-electron rg signal
 aur_votes: 1
-brew_installs: 1000
+brew_installs: 100
 aur_downloads:
 - url: https://open.u-tools.cn/download/utools_7.8.0_amd64.deb
   name: utools_7.8.0_amd64.deb

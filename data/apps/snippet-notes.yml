@@ -4,17 +4,19 @@ website: https://github.com/xunxun10/snippet-notes
 repository: https://github.com/xunxun10/snippet-notes
 aur:
 - snippet-notes
-electron: 22.3.27
-method: aur-depends
-latest: 0.6.2
-src: https://github.com/xunxun10/snippet-notes/archive/refs/tags/0.6.2.zip
+electron: 22.0.0
+method: which-electron-rg
+latest: 0.7.2
+src: https://github.com/xunxun10/snippet-notes/archive/refs/tags/0.7.2.zip
 downloads:
-- name: snippet-notes.0.6.2.linux-arm64.incr.tar.gz.zip
-  url: https://github.com/xunxun10/snippet-notes/releases/download/0.6.2/snippet-notes.0.6.2.linux-arm64.incr.tar.gz.zip
+- name: snippet-notes-linux-arm64-0.7.2.zip
+  url: https://github.com/xunxun10/snippet-notes/releases/download/0.7.2/snippet-notes-linux-arm64-0.7.2.zip
+- name: snippet-notes-win32-x64-0.7.2.zip
+  url: https://github.com/xunxun10/snippet-notes/releases/download/0.7.2/snippet-notes-win32-x64-0.7.2.zip
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/snippet-notes
-  found_in: snippet-notes
-  signal: depends on electron22; reported as the newest 22.x release (22.3.27)
-last_commit: '2026-09-06'
+  kind: binary
+  source: https://github.com/xunxun10/snippet-notes/releases/download/0.7.2/snippet-notes-linux-arm64-0.7.2.zip
+  found_in: snippet-notes-linux-arm64-0.7.2.zip
+  signal: which-electron rg signal
+last_commit: '2026-09-13'
 we_tried: we1.2.1+p1:0.6.2

@@ -26,7 +26,7 @@ evidence:
   source: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-1.0.4-arm64.deb
   found_in: PlexFolderPlaylistCreator-1.0.4-arm64.deb
   signal: which-electron rg signal
-last_commit: '2026-09-12'
+last_commit: '2026-09-14'
 aur_downloads:
 - url: https://github.com/zackria/Plex-Folder-Playlist-Creator/releases/download/V1.0.4/PlexFolderPlaylistCreator-1.0.4-x86_64.AppImage
   name: PlexFolderPlaylistCreator-1.0.4-x86_64.AppImage

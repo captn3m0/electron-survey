@@ -4,42 +4,41 @@ website: https://github.com/CCDirectLink/crosscode-map-editor
 repository: https://github.com/CCDirectLink/crosscode-map-editor
 aur:
 - cc-map-editor-bin
-latest: v2.4.4
-src: https://github.com/CCDirectLink/crosscode-map-editor/archive/refs/tags/v2.4.4.zip
+latest: v2.4.5
+src: https://github.com/CCDirectLink/crosscode-map-editor/archive/refs/tags/v2.4.5.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/builder-debug.yml
-- name: cc-map-editor-2.4.4-linux.AppImage
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-linux.AppImage
-- name: cc-map-editor-2.4.4-mac.dmg
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-mac.dmg
-- name: cc-map-editor-2.4.4-mac.dmg.blockmap
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-mac.dmg.blockmap
-- name: cc-map-editor-2.4.4-mac.zip
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-mac.zip
-- name: cc-map-editor-2.4.4-mac.zip.blockmap
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-mac.zip.blockmap
-- name: cc-map-editor-2.4.4-win.exe
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-win.exe
-- name: cc-map-editor-2.4.4-win.exe.blockmap
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-win.exe.blockmap
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/builder-debug.yml
+- name: cc-map-editor-2.4.5-linux.AppImage
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-linux.AppImage
+- name: cc-map-editor-2.4.5-mac.dmg
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-mac.dmg
+- name: cc-map-editor-2.4.5-mac.dmg.blockmap
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-mac.dmg.blockmap
+- name: cc-map-editor-2.4.5-mac.zip
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-mac.zip
+- name: cc-map-editor-2.4.5-mac.zip.blockmap
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-mac.zip.blockmap
+- name: cc-map-editor-2.4.5-win.exe
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-win.exe
+- name: cc-map-editor-2.4.5-win.exe.blockmap
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/cc-map-editor-2.4.5-win.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/latest-linux.yml
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/latest-mac.yml
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/latest.yml
+  url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.5/latest.yml
 electron: 38.2.0
-method: src-package-lock
-electron_src: https://github.com/CCDirectLink/crosscode-map-editor/archive/refs/tags/v2.4.4.zip
+method: which-electron-rg
+electron_src: https://github.com/CCDirectLink/crosscode-map-editor/archive/refs/tags/v2.4.5.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3ACCDirectLink%2Fcrosscode-map-editor+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  kind: binary
+  source: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-linux.AppImage
+  found_in: cc-map-editor-2.4.4-linux.AppImage
+  signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-07-17'
+last_commit: '2026-09-13'
 aur_downloads:
 - url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-linux.AppImage
   name: cc-map-editor-2.4.4-linux.AppImage

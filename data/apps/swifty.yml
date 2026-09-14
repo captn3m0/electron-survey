@@ -1,35 +1,37 @@
 id: swifty
 repository: https://github.com/alchaplinsky/swifty
 website: https://github.com/alchaplinsky/swifty
-latest: v0.6.13
-src: https://github.com/alchaplinsky/swifty/archive/refs/tags/v0.6.13.zip
+latest: v1.0.0-alpha.1
+src: https://github.com/alchaplinsky/swifty/archive/refs/tags/v1.0.0-alpha.1.zip
 downloads:
-- name: latest-linux.yml
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/latest-linux.yml
-- name: latest-mac.yml
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/latest-mac.yml
-- name: latest.yml
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/latest.yml
-- name: Swifty-0.6.13-mac.zip
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13-mac.zip
-- name: Swifty-0.6.13-mac.zip.blockmap
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13-mac.zip.blockmap
-- name: Swifty-0.6.13.AppImage
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.AppImage
-- name: Swifty-0.6.13.dmg
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.dmg
-- name: Swifty-0.6.13.dmg.blockmap
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.dmg.blockmap
-- name: Swifty-0.6.13.pkg
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.pkg
-- name: Swifty-0.6.13.x86_64.rpm
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-0.6.13.x86_64.rpm
-- name: Swifty-Setup-0.6.13.exe
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-Setup-0.6.13.exe
-- name: Swifty-Setup-0.6.13.exe.blockmap
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty-Setup-0.6.13.exe.blockmap
-- name: Swifty_0.6.13_amd64.deb
-  url: https://github.com/swiftyapp/swifty/releases/download/v0.6.13/Swifty_0.6.13_amd64.deb
+- name: latest.json
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/latest.json
+- name: Swifty-1.0.0-alpha.1-1.x86_64.rpm
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty-1.0.0-alpha.1-1.x86_64.rpm
+- name: Swifty-1.0.0-alpha.1-1.x86_64.rpm.sig
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty-1.0.0-alpha.1-1.x86_64.rpm.sig
+- name: swifty-js.cdx.json
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/swifty-js.cdx.json
+- name: swifty-rust.cdx.json
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/swifty-rust.cdx.json
+- name: Swifty_1.0.0-alpha.1_amd64.AppImage
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_amd64.AppImage
+- name: Swifty_1.0.0-alpha.1_amd64.AppImage.sig
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_amd64.AppImage.sig
+- name: Swifty_1.0.0-alpha.1_amd64.deb
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_amd64.deb
+- name: Swifty_1.0.0-alpha.1_amd64.deb.sig
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_amd64.deb.sig
+- name: Swifty_1.0.0-alpha.1_universal.app.tar.gz
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_universal.app.tar.gz
+- name: Swifty_1.0.0-alpha.1_universal.app.tar.gz.sig
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_universal.app.tar.gz.sig
+- name: Swifty_1.0.0-alpha.1_universal.dmg
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_universal.dmg
+- name: Swifty_1.0.0-alpha.1_x64-setup.exe
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_x64-setup.exe
+- name: Swifty_1.0.0-alpha.1_x64-setup.exe.sig
+  url: https://github.com/swiftyapp/swifty/releases/download/v1.0.0-alpha.1/Swifty_1.0.0-alpha.1_x64-setup.exe.sig
 electron: 21.2.0
 method: src-yarn-lock
 homebrew: swifty
@@ -42,4 +44,4 @@ evidence:
   signal: electron pinned in yarn.lock
   reconstructed: true
 brew_installs: 10
-last_commit: '2026-09-12'
+last_commit: '2026-09-14'
