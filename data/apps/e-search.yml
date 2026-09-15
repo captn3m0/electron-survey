@@ -1,52 +1,50 @@
 id: e-search
 repository: https://github.com/xushengfeng/eSearch
 website: https://esearch.vercel.app/
-latest: 15.4.2
-src: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.4.2.zip
+latest: 15.5.1
+src: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.5.1.zip
 downloads:
-- name: eSearch-15.4.2-darwin-arm64.dmg
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-darwin-arm64.dmg
-- name: eSearch-15.4.2-darwin-arm64.zip
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-darwin-arm64.zip
-- name: eSearch-15.4.2-darwin-x64.dmg
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-darwin-x64.dmg
-- name: eSearch-15.4.2-darwin-x64.zip
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-darwin-x64.zip
-- name: eSearch-15.4.2-linux-arm64.AppImage
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-arm64.AppImage
-- name: eSearch-15.4.2-linux-arm64.deb
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-arm64.deb
-- name: eSearch-15.4.2-linux-arm64.rpm
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-arm64.rpm
-- name: eSearch-15.4.2-linux-arm64.tar.gz
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-arm64.tar.gz
-- name: eSearch-15.4.2-linux-x64.AppImage
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-x64.AppImage
-- name: eSearch-15.4.2-linux-x64.deb
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-x64.deb
-- name: eSearch-15.4.2-linux-x64.rpm
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-x64.rpm
-- name: eSearch-15.4.2-linux-x64.tar.gz
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-linux-x64.tar.gz
-- name: eSearch-15.4.2-win32-arm64.exe
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-win32-arm64.exe
-- name: eSearch-15.4.2-win32-arm64.zip
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-win32-arm64.zip
-- name: eSearch-15.4.2-win32-x64.exe
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-win32-x64.exe
-- name: eSearch-15.4.2-win32-x64.zip
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch-15.4.2-win32-x64.zip
-- name: eSearch_15.4.2.aur
-  url: https://github.com/xushengfeng/eSearch/releases/download/15.4.2/eSearch_15.4.2.aur
+- name: eSearch-15.5.1-darwin-arm64.dmg
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-darwin-arm64.dmg
+- name: eSearch-15.5.1-darwin-arm64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-darwin-arm64.zip
+- name: eSearch-15.5.1-darwin-x64.dmg
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-darwin-x64.dmg
+- name: eSearch-15.5.1-darwin-x64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-darwin-x64.zip
+- name: eSearch-15.5.1-linux-arm64.AppImage
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-arm64.AppImage
+- name: eSearch-15.5.1-linux-arm64.deb
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-arm64.deb
+- name: eSearch-15.5.1-linux-arm64.rpm
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-arm64.rpm
+- name: eSearch-15.5.1-linux-arm64.tar.gz
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-arm64.tar.gz
+- name: eSearch-15.5.1-linux-x64.AppImage
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-x64.AppImage
+- name: eSearch-15.5.1-linux-x64.deb
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-x64.deb
+- name: eSearch-15.5.1-linux-x64.rpm
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-x64.rpm
+- name: eSearch-15.5.1-linux-x64.tar.gz
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-linux-x64.tar.gz
+- name: eSearch-15.5.1-win32-arm64.exe
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-win32-arm64.exe
+- name: eSearch-15.5.1-win32-arm64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-win32-arm64.zip
+- name: eSearch-15.5.1-win32-x64.exe
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-win32-x64.exe
+- name: eSearch-15.5.1-win32-x64.zip
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.5.1/eSearch-15.5.1-win32-x64.zip
 electron: 43.4.0
 method: src-pnpm-lock
 aur:
 - e-search
 name: eSearch
-electron_src: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.4.2.zip
+electron_src: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.5.1.zip
 evidence:
   kind: lockfile
-  found_in: eSearch-15.4.2/pnpm-lock.yaml
+  found_in: eSearch-15.5.1/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.4.2.zip
-last_commit: '2026-09-13'
+  source: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.5.1.zip
+last_commit: '2026-09-14'

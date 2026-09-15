@@ -13,21 +13,21 @@ additionalAUR:
 - pocket-casts-linux-git
 electron: 42.4.0
 method: which-electron-rg
-latest: v0.13.0
-src: https://github.com/felicianotech/pocket-casts-desktop-app/archive/refs/tags/v0.13.0.zip
+latest: v0.14.0
+src: https://github.com/felicianotech/pocket-casts-desktop-app/archive/refs/tags/v0.14.0.zip
 downloads:
-- name: pocket-casts-0.13.0-1.arm64.rpm
-  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-0.13.0-1.arm64.rpm
-- name: pocket-casts-0.13.0-1.x86_64.rpm
-  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-0.13.0-1.x86_64.rpm
-- name: pocket-casts-linux-arm64-0.13.0.zip
-  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-linux-arm64-0.13.0.zip
-- name: pocket-casts-linux-x64-0.13.0.zip
-  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts-linux-x64-0.13.0.zip
-- name: pocket-casts_0.13.0_amd64.deb
-  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts_0.13.0_amd64.deb
-- name: pocket-casts_0.13.0_arm64.deb
-  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.13.0/pocket-casts_0.13.0_arm64.deb
+- name: pocket-casts-0.14.0-1.arm64.rpm
+  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.14.0/pocket-casts-0.14.0-1.arm64.rpm
+- name: pocket-casts-0.14.0-1.x86_64.rpm
+  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.14.0/pocket-casts-0.14.0-1.x86_64.rpm
+- name: pocket-casts-linux-arm64-0.14.0.zip
+  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.14.0/pocket-casts-linux-arm64-0.14.0.zip
+- name: pocket-casts-linux-x64-0.14.0.zip
+  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.14.0/pocket-casts-linux-x64-0.14.0.zip
+- name: pocket-casts_0.14.0_amd64.deb
+  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.14.0/pocket-casts_0.14.0_amd64.deb
+- name: pocket-casts_0.14.0_arm64.deb
+  url: https://github.com/FelicianoTech/pocket-casts-desktop-app/releases/download/v0.14.0/pocket-casts_0.14.0_arm64.deb
 homebrew: pocket-casts
 evidence:
   kind: binary
@@ -36,7 +36,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-09-11'
+last_commit: '2026-09-14'
 aur_downloads:
 - url: https://raw.githubusercontent.com/felicianotech/pocket-casts-desktop-app/v0.13.0/LICENSE
   name: LICENSE
