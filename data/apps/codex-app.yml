@@ -22,3 +22,10 @@ evidence:
   signal: electron version read from a package.json packed inside the app's asar archive
 homebrew_deprecated: true
 homebrew_deprecation_reason: discontinued
+aur:
+- codex-desktop-bin
+aur_downloads:
+- url: https://github.com/maria-rcks/codex-desktop-aur/releases/download/codex-desktop-bin-26.325.31654-681a12ac481a/codex-desktop-prepatched-26.325.31654-681a12ac481a-x86_64.tar.gz
+  name: codex-desktop-prepatched-26.325.31654-681a12ac481a-x86_64.tar.gz
+  arch: any
+  source: aur-bin
