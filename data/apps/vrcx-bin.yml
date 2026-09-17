@@ -8,31 +8,28 @@ additionalAUR:
 - vrcx-bin
 - vrcx-nightly-bin
 - vrcx-git
-latest: v2026.07.18
-src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.07.18.zip
+latest: v2026.09.16
+src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.09.16.zip
 downloads:
-- name: DBMerger.zip
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/DBMerger.zip
-- name: VRCX_2026.07.18.zip
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18.zip
-- name: VRCX_2026.07.18_arm64.AppImage
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_arm64.AppImage
-- name: VRCX_2026.07.18_arm64.dmg
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_arm64.dmg
-- name: VRCX_2026.07.18_Setup.exe
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_Setup.exe
-- name: VRCX_2026.07.18_x64.AppImage
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_x64.AppImage
-- name: VRCX_2026.07.18_x64.dmg
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.07.18/VRCX_2026.07.18_x64.dmg
-electron: 40.4.1
+- name: VRCX_2026.09.16.zip
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16.zip
+- name: VRCX_2026.09.16_arm64.AppImage
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_arm64.AppImage
+- name: VRCX_2026.09.16_arm64.dmg
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_arm64.dmg
+- name: VRCX_2026.09.16_Setup.exe
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_Setup.exe
+- name: VRCX_2026.09.16_x64.AppImage
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_x64.AppImage
+- name: VRCX_2026.09.16_x64.dmg
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_x64.dmg
+electron: 40.10.6
 method: src-package-lock
-electron_src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.07.18.zip
+electron_src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.09.16.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Avrcx-team%2FVRCX+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: VRCX-2026.09.16/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.09.16.zip
 aur_votes: 1
-last_commit: '2026-09-10'
+last_commit: '2026-09-16'

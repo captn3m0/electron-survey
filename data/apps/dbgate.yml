@@ -152,7 +152,7 @@ evidence:
   source: https://github.com/dbgate/dbgate/archive/refs/tags/v7.3.0.zip
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-09-15'
+last_commit: '2026-09-16'
 aur_downloads:
 - url: https://raw.githubusercontent.com/dbgate/dbgate/v5.2.10-beta.4/LICENSE
   name: LICENSE
@@ -166,4 +166,4 @@ aur_downloads:
   name: LICENSE
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:v7.2.6
+we_tried: we1.2.1+p1:v7.3.0

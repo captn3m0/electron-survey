@@ -23,5 +23,5 @@ evidence:
   found_in: battery-1.4.0-mac-arm64.zip
   signal: which-electron rg signal
 homepage: true
-brew_installs: 10000
+brew_installs: 1000
 last_commit: '2026-02-25'

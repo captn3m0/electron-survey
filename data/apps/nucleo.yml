@@ -12,7 +12,7 @@ downloads:
   version: 4.2.0
 electron: 32.1.2
 method: which-electron-rg
-brew_installs: 100
+brew_installs: 10
 evidence:
   kind: binary
   source: https://downloads.nucleoapp.com/mac-silicon/Nucleo_4.2.0.zip

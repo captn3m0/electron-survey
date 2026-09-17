@@ -48,4 +48,4 @@ evidence:
   found_in: redis-gui-2.4.0/yarn.lock
   signal: electron pinned in yarn.lock
   source: https://github.com/ekvedaras/redis-gui/archive/refs/tags/v2.4.0.zip
-last_commit: '2026-09-05'
+last_commit: '2026-09-16'
