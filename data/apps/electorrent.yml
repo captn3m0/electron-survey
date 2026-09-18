@@ -40,9 +40,9 @@ evidence:
   found_in: Electorrent-2.17.0/package-lock.json
   signal: electron pinned in package-lock.json
   source: https://github.com/Tympanix/Electorrent/archive/refs/tags/v2.17.0.zip
-brew_installs: 100
+brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-09-13'
+last_commit: '2026-09-17'
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check

@@ -19,3 +19,5 @@ evidence:
   source: https://update.rekord.cloud/releases/lexicon/latest/lexicon-1.11.10-mac-aarch64.zip
   found_in: lexicon-1.11.10-mac-aarch64.zip
   signal: which-electron rg signal
+aur:
+- lexicon-beta

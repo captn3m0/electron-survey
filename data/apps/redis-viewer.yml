@@ -17,8 +17,12 @@ downloads:
   url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_linux_arm64.flatpak
 - name: RedisViewer_3.3.0_linux_arm64_bin.tar.gz
   url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_linux_arm64_bin.tar.gz
+- name: RedisViewer_3.3.0_mac_arm64.app.zip
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_mac_arm64.app.zip
 - name: RedisViewer_3.3.0_mac_arm64.dmg
   url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_mac_arm64.dmg
+- name: RedisViewer_3.3.0_mac_intel.app.zip
+  url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_mac_intel.app.zip
 - name: RedisViewer_3.3.0_mac_intel.dmg
   url: https://github.com/redisviewer/RedisViewer/releases/download/v3.3.0/RedisViewer_3.3.0_mac_intel.dmg
 - name: RedisViewer_3.3.0_windows_arm64_portable.zip
