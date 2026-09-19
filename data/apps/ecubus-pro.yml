@@ -4,28 +4,27 @@ website: https://github.com/ecubus/EcuBus-Pro
 repository: https://github.com/ecubus/EcuBus-Pro
 aur:
 - ecubus-pro
-latest: v0.8.66
-src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
+latest: v0.8.67
+src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.67.zip
 downloads:
 - name: ecb_cli
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/ecb_cli
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.67/ecb_cli
 - name: ecb_cli.exe
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/ecb_cli.exe
-- name: EcuBus-Pro.0.8.66.exe
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/EcuBus-Pro.0.8.66.exe
-- name: EcuBus-Pro_0.8.66_amd64.deb
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/EcuBus-Pro_0.8.66_amd64.deb
-- name: EcuBus-Pro_0.8.66_x86_64.rpm
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/EcuBus-Pro_0.8.66_x86_64.rpm
-- name: Portable.EcuBus-Pro.0.8.66.zip
-  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.66/Portable.EcuBus-Pro.0.8.66.zip
-electron: 39.8.6
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.67/ecb_cli.exe
+- name: EcuBus-Pro.0.8.67.exe
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.67/EcuBus-Pro.0.8.67.exe
+- name: EcuBus-Pro_0.8.67_amd64.deb
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.67/EcuBus-Pro_0.8.67_amd64.deb
+- name: EcuBus-Pro_0.8.67_x86_64.rpm
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.67/EcuBus-Pro_0.8.67_x86_64.rpm
+- name: Portable.EcuBus-Pro.0.8.67.zip
+  url: https://github.com/ecubus/EcuBus-Pro/releases/download/v0.8.67/Portable.EcuBus-Pro.0.8.67.zip
+electron: 44.2.0
 method: src-package-lock
-electron_src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.66.zip
+electron_src: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.67.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Aecubus%2FEcuBus-Pro+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: EcuBus-Pro-0.8.67/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
-last_commit: '2026-09-16'
+  source: https://github.com/ecubus/EcuBus-Pro/archive/refs/tags/v0.8.67.zip
+last_commit: '2026-09-18'

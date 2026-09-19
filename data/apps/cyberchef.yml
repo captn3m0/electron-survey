@@ -4,11 +4,11 @@ website: https://github.com/gchq/CyberChef
 repository: https://github.com/gchq/CyberChef
 aur:
 - cyberchef-electron
-latest: v11.4.0
-src: https://github.com/gchq/CyberChef/archive/refs/tags/v11.4.0.zip
+latest: v11.5.0
+src: https://github.com/gchq/CyberChef/archive/refs/tags/v11.5.0.zip
 downloads:
-- name: CyberChef_49d1a5634a67a3b806c6db0fdca7dcecb41a776c.zip
-  url: https://github.com/gchq/CyberChef/releases/download/v11.4.0/CyberChef_49d1a5634a67a3b806c6db0fdca7dcecb41a776c.zip
+- name: CyberChef_8cd426dd4f40f1423912d5fad91b578a86a65112.zip
+  url: https://github.com/gchq/CyberChef/releases/download/v11.5.0/CyberChef_8cd426dd4f40f1423912d5fad91b578a86a65112.zip
 aur_votes: 1
 last_commit: '2026-09-18'
-we_tried: we1.2.1+p1:v11.4.0
+we_tried: we1.2.1+p1:v11.5.0
