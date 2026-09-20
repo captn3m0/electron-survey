@@ -6,23 +6,23 @@ aur:
 - drakonhub-bin
 electron: 32.1.2
 method: which-electron-rg
-latest: v2026.06.14
-src: https://github.com/stepan-mitkin/drakonhub_desktop/archive/refs/tags/v2026.06.14.zip
+latest: v2026.09.10-electron
+src: https://github.com/stepan-mitkin/drakonhub_desktop/archive/refs/tags/v2026.09.10-electron.zip
 downloads:
-- name: drakonhub-2026.06.14-1.x86_64.rpm
-  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
-- name: DrakonHub-2026.6.14-arm64.dmg
-  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/DrakonHub-2026.6.14-arm64.dmg
-- name: drakonhub_2026.06.14_amd64.deb
-  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub_2026.06.14_amd64.deb
-- name: drakonhub_2026.06.14_win32_x64.zip
-  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub_2026.06.14_win32_x64.zip
+- name: drakonhub-2026.9.10-1.x86_64.rpm
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.09.10-electron/drakonhub-2026.9.10-1.x86_64.rpm
+- name: DrakonHub-2026.9.10-arm64.dmg
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.09.10-electron/DrakonHub-2026.9.10-arm64.dmg
+- name: DrakonHub-2026.9.10-Setup.exe
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.09.10-electron/DrakonHub-2026.9.10-Setup.exe
+- name: drakonhub_2026.9.10_amd64.deb
+  url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.09.10-electron/drakonhub_2026.9.10_amd64.deb
 evidence:
   kind: binary
   source: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
   found_in: drakonhub-2026.06.14-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-09-16'
+last_commit: '2026-09-19'
 aur_downloads:
 - url: https://github.com/stepan-mitkin/drakonhub_desktop/releases/download/v2026.06.14/drakonhub-2026.06.14-1.x86_64.rpm
   name: drakonhub-2026.06.14-1.x86_64.rpm

@@ -6,23 +6,23 @@ aur:
 - bitshares-astro-ui-bin
 electron: 40.10.6
 method: aur-depends
-latest: v0.6.21
-src: https://github.com/BTS-CM/astro-ui/archive/refs/tags/v0.6.21.zip
+latest: v0.6.30
+src: https://github.com/BTS-CM/astro-ui/archive/refs/tags/v0.6.30.zip
 downloads:
 - name: BTSAstroUI.AppImage
-  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.21/BTSAstroUI.AppImage
+  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.30/BTSAstroUI.AppImage
 - name: BTSAstroUI.deb
-  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.21/BTSAstroUI.deb
+  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.30/BTSAstroUI.deb
 - name: BTSAstroUI.dmg
-  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.21/BTSAstroUI.dmg
+  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.30/BTSAstroUI.dmg
 - name: BTSAstroUI.exe
-  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.21/BTSAstroUI.exe
+  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.30/BTSAstroUI.exe
 - name: BTSAstroUI.exe.blockmap
-  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.21/BTSAstroUI.exe.blockmap
+  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.30/BTSAstroUI.exe.blockmap
 - name: latest.yml
-  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.21/latest.yml
-we_tried: we1.2.1+p1:v0.6.21
-last_commit: '2026-09-19'
+  url: https://github.com/BTS-CM/astro-ui/releases/download/v0.6.30/latest.yml
+we_tried: we1.2.1+p1:v0.6.30
+last_commit: '2026-09-20'
 aur_downloads:
 - url: https://github.com/BTS-CM/astro-ui/releases/download/v0.5.52/BTSAstroUI.deb
   name: BTSAstroUI.deb

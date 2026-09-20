@@ -17,5 +17,5 @@ evidence:
   found_in: google-calender-widget
   signal: depends on electron38; reported as the newest 38.x release (38.8.6)
 aur_votes: 1
-last_commit: '2025-09-05'
+last_commit: '2026-09-20'
 we_tried: we1.2.1+p1:1.1.6
