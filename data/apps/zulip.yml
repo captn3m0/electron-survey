@@ -1,49 +1,49 @@
 id: zulip
 repository: https://github.com/zulip/zulip-desktop
 website: https://zulip.com/
-latest: v5.13.1
-src: https://github.com/zulip/zulip-desktop/archive/refs/tags/v5.13.1.zip
+latest: v5.13.2
+src: https://github.com/zulip/zulip-desktop/archive/refs/tags/v5.13.2.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/latest-linux.yml
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/latest-mac.yml
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/latest.yml
-- name: Zulip-5.13.1-amd64.deb
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-amd64.deb
-- name: Zulip-5.13.1-amd64.snap
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-amd64.snap
-- name: Zulip-5.13.1-arm64.dmg
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-arm64.dmg
-- name: Zulip-5.13.1-arm64.dmg.blockmap
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-arm64.dmg.blockmap
-- name: Zulip-5.13.1-arm64.pkg
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-arm64.pkg
-- name: Zulip-5.13.1-arm64.zip
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-arm64.zip
-- name: Zulip-5.13.1-arm64.zip.blockmap
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-arm64.zip.blockmap
-- name: Zulip-5.13.1-x64.dmg
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.dmg
-- name: Zulip-5.13.1-x64.dmg.blockmap
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.dmg.blockmap
-- name: Zulip-5.13.1-x64.msi
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.msi
-- name: zulip-5.13.1-x64.nsis.7z
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/zulip-5.13.1-x64.nsis.7z
-- name: Zulip-5.13.1-x64.pkg
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.pkg
-- name: Zulip-5.13.1-x64.tar.xz
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.tar.xz
-- name: Zulip-5.13.1-x64.zip
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.zip
-- name: Zulip-5.13.1-x64.zip.blockmap
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x64.zip.blockmap
-- name: Zulip-5.13.1-x86_64.AppImage
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-5.13.1-x86_64.AppImage
-- name: Zulip-Web-Setup-5.13.1.exe
-  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.1/Zulip-Web-Setup-5.13.1.exe
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/latest.yml
+- name: Zulip-5.13.2-amd64.deb
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-amd64.deb
+- name: Zulip-5.13.2-amd64.snap
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-amd64.snap
+- name: Zulip-5.13.2-arm64.dmg
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-arm64.dmg
+- name: Zulip-5.13.2-arm64.dmg.blockmap
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-arm64.dmg.blockmap
+- name: Zulip-5.13.2-arm64.pkg
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-arm64.pkg
+- name: Zulip-5.13.2-arm64.zip
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-arm64.zip
+- name: Zulip-5.13.2-arm64.zip.blockmap
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-arm64.zip.blockmap
+- name: Zulip-5.13.2-x64.dmg
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.dmg
+- name: Zulip-5.13.2-x64.dmg.blockmap
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.dmg.blockmap
+- name: Zulip-5.13.2-x64.msi
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.msi
+- name: zulip-5.13.2-x64.nsis.7z
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/zulip-5.13.2-x64.nsis.7z
+- name: Zulip-5.13.2-x64.pkg
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.pkg
+- name: Zulip-5.13.2-x64.tar.xz
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.tar.xz
+- name: Zulip-5.13.2-x64.zip
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.zip
+- name: Zulip-5.13.2-x64.zip.blockmap
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x64.zip.blockmap
+- name: Zulip-5.13.2-x86_64.AppImage
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-5.13.2-x86_64.AppImage
+- name: Zulip-Web-Setup-5.13.2.exe
+  url: https://github.com/zulip/zulip-desktop/releases/download/v5.13.2/Zulip-Web-Setup-5.13.2.exe
 electron: 44.4.1
 method: which-electron-rg
 aur:
@@ -73,4 +73,4 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-09-18'
+last_commit: '2026-09-21'
