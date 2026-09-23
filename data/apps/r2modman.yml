@@ -6,33 +6,33 @@ aur:
 - r2modman
 electron: 38.8.6
 method: which-electron-rg
-latest: v3.2.19
-src: https://github.com/ebkr/r2modmanPlus/archive/refs/tags/v3.2.19.zip
+latest: v3.2.20
+src: https://github.com/ebkr/r2modmanPlus/archive/refs/tags/v3.2.20.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/latest-linux.yml
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/latest.yml
-- name: r2modman-3.2.19.AppImage
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-3.2.19.AppImage
-- name: r2modman-3.2.19.exe
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-3.2.19.exe
-- name: r2modman-3.2.19.pacman
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-3.2.19.pacman
-- name: r2modman-3.2.19.tar.gz
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-3.2.19.tar.gz
-- name: r2modman-3.2.19.x86_64.rpm
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-3.2.19.x86_64.rpm
-- name: r2modman-Setup-3.2.19.exe
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-Setup-3.2.19.exe
-- name: r2modman-Setup-3.2.19.exe.blockmap
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman-Setup-3.2.19.exe.blockmap
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/latest.yml
+- name: r2modman-3.2.20.AppImage
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-3.2.20.AppImage
+- name: r2modman-3.2.20.exe
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-3.2.20.exe
+- name: r2modman-3.2.20.pacman
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-3.2.20.pacman
+- name: r2modman-3.2.20.tar.gz
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-3.2.20.tar.gz
+- name: r2modman-3.2.20.x86_64.rpm
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-3.2.20.x86_64.rpm
+- name: r2modman-Setup-3.2.20.exe
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-Setup-3.2.20.exe
+- name: r2modman-Setup-3.2.20.exe.blockmap
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman-Setup-3.2.20.exe.blockmap
 - name: r2modman.flatpak
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman.flatpak
-- name: r2modman_3.2.19_amd64.deb
-  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.19/r2modman_3.2.19_amd64.deb
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman.flatpak
+- name: r2modman_3.2.20_amd64.deb
+  url: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.20/r2modman_3.2.20_amd64.deb
 aur_votes: 1
-last_commit: '2026-09-21'
+last_commit: '2026-09-22'
 evidence:
   kind: binary
   source: https://github.com/ebkr/r2modmanPlus/releases/download/v3.2.18/r2modman-3.2.18.x86_64.rpm

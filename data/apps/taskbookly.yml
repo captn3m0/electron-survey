@@ -34,7 +34,7 @@ evidence:
   source: https://github.com/TaskBookly/app/releases/download/v0.1.1/Taskbookly.AppImage
   found_in: Taskbookly.AppImage
   signal: which-electron rg signal
-last_commit: '2026-05-25'
+last_commit: '2026-09-22'
 aur_downloads:
 - url: https://github.com/TaskBookly/app/releases/download/v0.1.1/Taskbookly.AppImage
   name: Taskbookly.AppImage

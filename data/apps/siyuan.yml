@@ -35,48 +35,48 @@ aur:
 homebrew: siyuan
 downloads:
 - name: SHA256SUMS.txt
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/SHA256SUMS.txt
-- name: siyuan-3.8.4-linux-arm64.AppImage
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux-arm64.AppImage
-  checksum: bf54b3de6f91334d0671157e276651053a9b16db37f54f872f772d09612b7939
-- name: siyuan-3.8.4-linux-arm64.deb
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux-arm64.deb
-  checksum: 8d17bcdb069bb73d5f6ebd62c8c31d065e389de9fb2296b462da9a434123ae98
-- name: siyuan-3.8.4-linux-arm64.rpm
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux-arm64.rpm
-  checksum: 8690da2cd89888ccb50be5ec9ddbb9ee6b7defb581ea5c5996f7a1254ab38e3c
-- name: siyuan-3.8.4-linux-arm64.tar.gz
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux-arm64.tar.gz
-  checksum: 91cdfe672d05e92ec171a630c67f1bceed05fc68b1133bfef89f424f5378552e
-- name: siyuan-3.8.4-linux.AppImage
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux.AppImage
-  checksum: 58468a996078bf7aae4c8feb58978ca46f4fcfc2ac862acea7f4cbbb3978b6dc
-- name: siyuan-3.8.4-linux.deb
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux.deb
-  checksum: 8d1c4a4e03461a17d2ab60eb0f56e558faefa4fdbee1b008658d1598c81c9370
-- name: siyuan-3.8.4-linux.rpm
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux.rpm
-  checksum: d36a69edfa6771e3228d23b305954532372e92fc137cd39242923caebd70ff45
-- name: siyuan-3.8.4-linux.tar.gz
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-linux.tar.gz
-  checksum: 4c15959de7c187064db6f82acaaf97bbbb6fb0280e479c9af031b53db2870c5e
-- name: siyuan-3.8.4-mac-arm64.dmg
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-mac-arm64.dmg
-  checksum: ccab152bc5b44586c5f9595f323d409b30eb7fd518cb9a58675e437ea5ffe1fc
-- name: siyuan-3.8.4-mac.dmg
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-mac.dmg
-  checksum: 012a43677d9fdf9c7026e7a65d56ba20496c552900d81f4a4375be6a5d792286
-- name: siyuan-3.8.4-win-arm64.exe
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-win-arm64.exe
-  checksum: 6a5ee96a12ecba490983fe52dc9ba15f9cb124760d69ff33db94d2fbc4ce9134
-- name: siyuan-3.8.4-win.exe
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4-win.exe
-  checksum: 20e18f6226cca11c8fa8c50185ef0c790258673a0c6452bca1884565ac9d997c
-- name: siyuan-3.8.4.apk
-  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.4/siyuan-3.8.4.apk
-  checksum: 01625c1d9fdf4d9788d2c0f65a9f6ccbc1fb7a9ff2bb57569382a772bc87a3d1
-latest: v3.8.4
-src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.8.4.zip
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/SHA256SUMS.txt
+- name: siyuan-3.8.5-linux-arm64.AppImage
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux-arm64.AppImage
+  checksum: 75f59180e5c5bd6d3ef8fab03228b42ec0dd1c50b8bee5e77420fd420e8f6cd2
+- name: siyuan-3.8.5-linux-arm64.deb
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux-arm64.deb
+  checksum: dd2e0c850e9eb822c215cd8f91835e946cf7bbaa8a0b7efed4afc2d62b17ecef
+- name: siyuan-3.8.5-linux-arm64.rpm
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux-arm64.rpm
+  checksum: a5ae8a7ae64ee36a434f8dd5c668de7d734039e9ba6a57c17bcaf13923b7f1f8
+- name: siyuan-3.8.5-linux-arm64.tar.gz
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux-arm64.tar.gz
+  checksum: a7a37c76166da7fa6877cde8aca02834713fd2363b3a353f8ebb78410cfa658d
+- name: siyuan-3.8.5-linux.AppImage
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux.AppImage
+  checksum: fb28ddec739f3144f6fb94b8010c4f46c38e41f97d766df8323b3e2a1632f094
+- name: siyuan-3.8.5-linux.deb
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux.deb
+  checksum: 5c16378fa70fe71da38f751f0bb9c8b9c5b60575ba2d853bf5be4fe467b3912d
+- name: siyuan-3.8.5-linux.rpm
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux.rpm
+  checksum: 57d1c3e6b866f916ec02b5fd3881fb1870a585d0151c2845925a9f5c39f37f72
+- name: siyuan-3.8.5-linux.tar.gz
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-linux.tar.gz
+  checksum: 532bdf378a5bb53b72937263c015bfa2cd0cdb2ecaa74ca3339c15aefc7df95e
+- name: siyuan-3.8.5-mac-arm64.dmg
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-mac-arm64.dmg
+  checksum: f26f961e061eb2aac8b2e922adbdd97fab4f07af9cd92f6ea06c7276c527ab94
+- name: siyuan-3.8.5-mac.dmg
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-mac.dmg
+  checksum: 778dfbf81ef6fb3951a7b4094e511ce5a0087c0ee8134312c5ef7f20b1880b92
+- name: siyuan-3.8.5-win-arm64.exe
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-win-arm64.exe
+  checksum: 2fc4de58292371e3b5dfac35d6d14780e2917ef0fc874f3e92c21a6274a9bde7
+- name: siyuan-3.8.5-win.exe
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5-win.exe
+  checksum: e0e664e2aff4a97f724265d403dea4e9d7d5cd3d1a00cd9e6cb315bfac699b90
+- name: siyuan-3.8.5.apk
+  url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.5/siyuan-3.8.5.apk
+  checksum: de1d2d121d75b4b8f890a984dd10ff503e7bbc62d3e28257c3278d9d0e0b73f0
+latest: v3.8.5
+src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.8.5.zip
 electron: 42.6.1
 method: which-electron-rg
 electron_src: https://github.com/siyuan-note/siyuan/archive/refs/tags/v3.8.0.zip
@@ -87,7 +87,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-09-22'
+last_commit: '2026-09-23'
 aur_downloads:
 - url: https://github.com/siyuan-note/siyuan/releases/download/v3.7.3/siyuan-3.7.3-linux.AppImage
   name: siyuan-3.7.3-linux.AppImage

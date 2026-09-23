@@ -17,36 +17,36 @@ packages:
   arch: x64
 homebrew: amical
 downloads:
-- name: Amical-1.12.1-full.nupkg
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-1.12.1-full.nupkg
-- name: Amical-darwin-arm64-1.12.1.zip
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-darwin-arm64-1.12.1.zip
-- name: Amical-darwin-x64-1.12.1.zip
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-darwin-x64-1.12.1.zip
+- name: Amical-1.12.2-full.nupkg
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-1.12.2-full.nupkg
+- name: Amical-darwin-arm64-1.12.2.zip
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-darwin-arm64-1.12.2.zip
+- name: Amical-darwin-x64-1.12.2.zip
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-darwin-x64-1.12.2.zip
 - name: Amical-macos-arm64.dmg
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-macos-arm64.dmg
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-macos-arm64.dmg
 - name: Amical-macos-x64.dmg
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-macos-x64.dmg
-- name: Amical-windows-arm64-1.12.1-full.nupkg
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-windows-arm64-1.12.1-full.nupkg
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-macos-x64.dmg
+- name: Amical-windows-arm64-1.12.2-full.nupkg
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-windows-arm64-1.12.2-full.nupkg
 - name: Amical-windows-arm64.exe
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-windows-arm64.exe
-- name: Amical-windows-x64-1.12.1-full.nupkg
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-windows-x64-1.12.1-full.nupkg
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-windows-arm64.exe
+- name: Amical-windows-x64-1.12.2-full.nupkg
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-windows-x64-1.12.2-full.nupkg
 - name: Amical-windows-x64.exe
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/Amical-windows-x64.exe
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/Amical-windows-x64.exe
 - name: release-notes.json
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/release-notes.json
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/release-notes.json
 - name: RELEASES
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/RELEASES
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/RELEASES
 - name: RELEASES-windows-arm64
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/RELEASES-windows-arm64
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/RELEASES-windows-arm64
 - name: RELEASES-windows-x64
-  url: https://github.com/amicalhq/amical/releases/download/v1.12.1/RELEASES-windows-x64
+  url: https://github.com/amicalhq/amical/releases/download/v1.12.2/RELEASES-windows-x64
 electron: 38.1.0
 method: which-electron-rg
-latest: v1.12.1
-src: https://github.com/amicalhq/amical/archive/refs/tags/v1.12.1.zip
+latest: v1.12.2
+src: https://github.com/amicalhq/amical/archive/refs/tags/v1.12.2.zip
 evidence:
   kind: binary
   source: https://github.com/amicalhq/amical/releases/download/v1.11.3/Amical-1.11.3-full.nupkg
