@@ -35,5 +35,5 @@ evidence:
   found_in: google-calender-widget-1.1.7.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-09-21'
+last_commit: '2026-09-24'
 we_tried: we1.2.1+p1:1.1.6

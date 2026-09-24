@@ -6,35 +6,35 @@ aur:
 - taskbookly-bin
 electron: 36.3.1
 method: which-electron-rg
-latest: v1.0.1
-src: https://github.com/TaskBookly/app/archive/refs/tags/v1.0.1.zip
+latest: v1.0.2
+src: https://github.com/TaskBookly/app/archive/refs/tags/v1.0.2.zip
 downloads:
 - name: latest-mac.yml
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/latest-mac.yml
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/latest.yml
-- name: TaskBookly-1.0.1-arm64.exe
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1-arm64.exe
-- name: TaskBookly-1.0.1-arm64.exe.blockmap
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1-arm64.exe.blockmap
-- name: TaskBookly-1.0.1-universal.dmg
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1-universal.dmg
-- name: TaskBookly-1.0.1-universal.dmg.blockmap
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1-universal.dmg.blockmap
-- name: TaskBookly-1.0.1-x64.exe
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1-x64.exe
-- name: TaskBookly-1.0.1-x64.exe.blockmap
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1-x64.exe.blockmap
-- name: TaskBookly-1.0.1.exe
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1.exe
-- name: TaskBookly-1.0.1.exe.blockmap
-  url: https://github.com/TaskBookly/app/releases/download/v1.0.1/TaskBookly-1.0.1.exe.blockmap
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/latest.yml
+- name: TaskBookly-1.0.2-arm64.exe
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2-arm64.exe
+- name: TaskBookly-1.0.2-arm64.exe.blockmap
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2-arm64.exe.blockmap
+- name: TaskBookly-1.0.2-universal.dmg
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2-universal.dmg
+- name: TaskBookly-1.0.2-universal.dmg.blockmap
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2-universal.dmg.blockmap
+- name: TaskBookly-1.0.2-x64.exe
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2-x64.exe
+- name: TaskBookly-1.0.2-x64.exe.blockmap
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2-x64.exe.blockmap
+- name: TaskBookly-1.0.2.exe
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2.exe
+- name: TaskBookly-1.0.2.exe.blockmap
+  url: https://github.com/TaskBookly/app/releases/download/v1.0.2/TaskBookly-1.0.2.exe.blockmap
 evidence:
   kind: binary
   source: https://github.com/TaskBookly/app/releases/download/v0.1.1/Taskbookly.AppImage
   found_in: Taskbookly.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-22'
+last_commit: '2026-09-23'
 aur_downloads:
 - url: https://github.com/TaskBookly/app/releases/download/v0.1.1/Taskbookly.AppImage
   name: Taskbookly.AppImage

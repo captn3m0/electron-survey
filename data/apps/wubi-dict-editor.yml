@@ -6,26 +6,26 @@ aur:
 - wubi-dict-editor
 electron: 28.3.3
 method: which-electron-rg
-latest: v1.4.0
-src: https://github.com/KyleBing/wubi-dict-editor/archive/refs/tags/v1.4.0.zip
+latest: v1.4.1
+src: https://github.com/KyleBing/wubi-dict-editor/archive/refs/tags/v1.4.1.zip
 downloads:
-- name: wubi-dict-editor-darwin-arm64-1.4.0.zip
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/wubi-dict-editor-darwin-arm64-1.4.0.zip
-- name: wubi-dict-editor-darwin-x64-1.4.0.zip
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/wubi-dict-editor-darwin-x64-1.4.0.zip
-- name: wubi-dict-editor-linux-x64-1.4.0.zip
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/wubi-dict-editor-linux-x64-1.4.0.zip
-- name: wubi-dict-editor-Setup.exe
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/wubi-dict-editor-Setup.exe
-- name: wubi-dict-editor-win32-x64-1.4.0.zip
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/wubi-dict-editor-win32-x64-1.4.0.zip
-- name: wubi-dict-editor_1.4.0_amd64.deb
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/wubi-dict-editor_1.4.0_amd64.deb
-- name: WubiDictEditor-1.4.0-full.nupkg
-  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.0/WubiDictEditor-1.4.0-full.nupkg
+- name: wubi-dict-editor-linux-x64-1.4.1.zip
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/wubi-dict-editor-linux-x64-1.4.1.zip
+- name: wubi-dict-editor-macOS-arm64-1.4.1.zip
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/wubi-dict-editor-macOS-arm64-1.4.1.zip
+- name: wubi-dict-editor-macOS-x64-1.4.1.zip
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/wubi-dict-editor-macOS-x64-1.4.1.zip
+- name: wubi-dict-editor-Windows-portable-x64-1.4.1.zip
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/wubi-dict-editor-Windows-portable-x64-1.4.1.zip
+- name: wubi-dict-editor-Windows-Setup.exe
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/wubi-dict-editor-Windows-Setup.exe
+- name: wubi-dict-editor_1.4.1_amd64.deb
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/wubi-dict-editor_1.4.1_amd64.deb
+- name: WubiDictEditor-1.4.1-full.nupkg
+  url: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.4.1/WubiDictEditor-1.4.1-full.nupkg
 evidence:
   kind: binary
   source: https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.33/wubi-dict-editor-v1.33-win32-x64.zip
   found_in: wubi-dict-editor-v1.33-win32-x64.zip
   signal: which-electron rg signal (2 signals agreed)
-last_commit: '2026-09-15'
+last_commit: '2026-09-24'

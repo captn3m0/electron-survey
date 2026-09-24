@@ -1,6 +1,6 @@
-generated: '2026-09-23'
+generated: '2026-09-24'
 source: NVD CVE API 2.0, cpe:2.3:a:google:chrome
-total_cves: 6565
+total_cves: 6564
 scored_cves: 6537
 unscored_cves: 0
 by_chromium_major:
@@ -9902,6 +9902,13 @@ by_electron:
     medium: 1044
     low: 95
     total: 2170
+  42.11.8:
+    chromium: 148.0.7778.280
+    critical: 289
+    high: 742
+    medium: 1044
+    low: 95
+    total: 2170
   43.0.0:
     chromium: 150.0.7871.46
     critical: 204
@@ -10007,6 +10014,13 @@ by_electron:
     medium: 559
     low: 74
     total: 1089
+  43.7.5:
+    chromium: 150.0.7871.250
+    critical: 161
+    high: 295
+    medium: 559
+    low: 74
+    total: 1089
   44.0.0:
     chromium: 152.0.7977.54
     critical: 97
@@ -10071,6 +10085,13 @@ by_electron:
     low: 25
     total: 287
   44.4.4:
+    chromium: 152.0.7977.130
+    critical: 43
+    high: 78
+    medium: 141
+    low: 25
+    total: 287
+  44.4.5:
     chromium: 152.0.7977.130
     critical: 43
     high: 78
