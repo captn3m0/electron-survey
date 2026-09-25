@@ -30,24 +30,24 @@ aur:
 - goldwarden-gui
 homebrew: bitwarden
 downloads:
-- name: browser-source-2026.9.1.zip
-  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.1/browser-source-2026.9.1.zip
-- name: dist-chrome-2026.9.1.zip
-  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.1/dist-chrome-2026.9.1.zip
-- name: dist-edge-2026.9.1.zip
-  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.1/dist-edge-2026.9.1.zip
-- name: dist-firefox-2026.9.1.zip
-  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.1/dist-firefox-2026.9.1.zip
-- name: dist-opera-2026.9.1.zip
-  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.1/dist-opera-2026.9.1.zip
+- name: browser-source-2026.9.2.zip
+  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.2/browser-source-2026.9.2.zip
+- name: dist-chrome-2026.9.2.zip
+  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.2/dist-chrome-2026.9.2.zip
+- name: dist-edge-2026.9.2.zip
+  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.2/dist-edge-2026.9.2.zip
+- name: dist-firefox-2026.9.2.zip
+  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.2/dist-firefox-2026.9.2.zip
+- name: dist-opera-2026.9.2.zip
+  url: https://github.com/bitwarden/clients/releases/download/browser-v2026.9.2/dist-opera-2026.9.2.zip
 electron: 41.7.2
 method: which-electron-rg
-latest: browser-v2026.9.1
-src: https://github.com/bitwarden/clients/archive/refs/tags/browser-v2026.9.1.zip
+latest: browser-v2026.9.2
+src: https://github.com/bitwarden/clients/archive/refs/tags/browser-v2026.9.2.zip
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-09-24'
+last_commit: '2026-09-25'
 aur_downloads:
 - url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/Bitwarden-2026.7.0-amd64.deb
   name: Bitwarden-2026.7.0-amd64.deb

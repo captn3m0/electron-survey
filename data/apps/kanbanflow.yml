@@ -13,10 +13,50 @@ evidence:
   source: https://aur.archlinux.org/packages/kanbanflow-app-bin
   found_in: kanbanflow-app-bin
   signal: depends on electron13; reported as the newest 13.x release (13.6.9)
-last_commit: '2026-09-22'
-src: https://github.com/metawave/kanbanflow-app/archive/refs/heads/main.zip
+last_commit: '2026-09-25'
+src: https://github.com/metawave/kanbanflow-app/archive/refs/tags/v2.0.0.zip
 aur_downloads:
 - url: https://raw.githubusercontent.com/metawave/kanbanflow-app/v1.0.0-beta.4/LICENSE.md
   name: LICENSE.md
   arch: any
   source: aur-bin
+latest: v2.0.0
+downloads:
+- name: KanbanFlow.App_2.0.0_aarch64.AppImage
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_aarch64.AppImage
+- name: KanbanFlow.App_2.0.0_aarch64.AppImage.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_aarch64.AppImage.sig
+- name: KanbanFlow.App_2.0.0_aarch64.dmg
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_aarch64.dmg
+- name: KanbanFlow.App_2.0.0_amd64.AppImage
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_amd64.AppImage
+- name: KanbanFlow.App_2.0.0_amd64.AppImage.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_amd64.AppImage.sig
+- name: KanbanFlow.App_2.0.0_amd64.deb
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_amd64.deb
+- name: KanbanFlow.App_2.0.0_amd64.deb.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_amd64.deb.sig
+- name: KanbanFlow.App_2.0.0_arm64-setup.exe
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_arm64-setup.exe
+- name: KanbanFlow.App_2.0.0_arm64-setup.exe.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_arm64-setup.exe.sig
+- name: KanbanFlow.App_2.0.0_arm64.deb
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_arm64.deb
+- name: KanbanFlow.App_2.0.0_arm64.deb.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_arm64.deb.sig
+- name: KanbanFlow.App_2.0.0_x64-setup.exe
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_x64-setup.exe
+- name: KanbanFlow.App_2.0.0_x64-setup.exe.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_x64-setup.exe.sig
+- name: KanbanFlow.App_2.0.0_x64.dmg
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_2.0.0_x64.dmg
+- name: KanbanFlow.App_aarch64.app.tar.gz
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_aarch64.app.tar.gz
+- name: KanbanFlow.App_aarch64.app.tar.gz.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_aarch64.app.tar.gz.sig
+- name: KanbanFlow.App_x64.app.tar.gz
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_x64.app.tar.gz
+- name: KanbanFlow.App_x64.app.tar.gz.sig
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/KanbanFlow.App_x64.app.tar.gz.sig
+- name: latest.json
+  url: https://github.com/metawave/kanbanflow-app/releases/download/v2.0.0/latest.json

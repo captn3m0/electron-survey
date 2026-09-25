@@ -6,27 +6,27 @@ aur:
 - mawejs-bin
 electron: 40.8.5
 method: which-electron-rg
-latest: v0.28.0
-src: https://github.com/mkoskim/mawejs/archive/refs/tags/v0.28.0.zip
+latest: v0.29.0
+src: https://github.com/mkoskim/mawejs/archive/refs/tags/v0.29.0.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/latest-linux.yml
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.29.0/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/latest.yml
-- name: mawejs-0.28.0.AppImage
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs-0.28.0.AppImage
-- name: mawejs.0.28.0.exe
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs.0.28.0.exe
-- name: mawejs.Setup.0.28.0.exe
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs.Setup.0.28.0.exe
-- name: mawejs.Setup.0.28.0.exe.blockmap
-  url: https://github.com/mkoskim/mawejs/releases/download/v0.28.0/mawejs.Setup.0.28.0.exe.blockmap
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.29.0/latest.yml
+- name: mawejs-0.29.0.AppImage
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.29.0/mawejs-0.29.0.AppImage
+- name: mawejs.0.29.0.exe
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.29.0/mawejs.0.29.0.exe
+- name: mawejs.Setup.0.29.0.exe
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.29.0/mawejs.Setup.0.29.0.exe
+- name: mawejs.Setup.0.29.0.exe.blockmap
+  url: https://github.com/mkoskim/mawejs/releases/download/v0.29.0/mawejs.Setup.0.29.0.exe.blockmap
 evidence:
   kind: binary
   source: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   found_in: mawejs-0.25.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-20'
+last_commit: '2026-09-24'
 aur_downloads:
 - url: https://github.com/mkoskim/mawejs/releases/download/v0.25.0/mawejs-0.25.0.AppImage
   name: mawejs-0.25.0.AppImage

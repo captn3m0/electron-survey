@@ -5,18 +5,18 @@ repository: https://github.com/WickyPlays/pip-player
 aur:
 - pip-player-git
 electron: 31.7.7
-method: aur-depends
-latest: release-1.2.2
-src: https://github.com/WickyPlays/pip-player/archive/refs/tags/release-1.2.2.zip
+method: which-electron-rg
+latest: v1.2.3
+src: https://github.com/WickyPlays/pip-player/archive/refs/tags/v1.2.3.zip
 downloads:
-- name: PIP-Player-Setup-1.2.2.exe
-  url: https://github.com/WickyPlays/pip-player/releases/download/release-1.2.2/PIP-Player-Setup-1.2.2.exe
-- name: PIP-Player.1.2.2.exe
-  url: https://github.com/WickyPlays/pip-player/releases/download/release-1.2.2/PIP-Player.1.2.2.exe
+- name: PIP-Player-1.2.3.AppImage
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-1.2.3.AppImage
+- name: pip-player_1.2.3_amd64.deb
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/pip-player_1.2.3_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/pip-player-git
-  found_in: pip-player-git
-  signal: depends on electron31; reported as the newest 31.x release (31.7.7)
-last_commit: '2026-09-23'
+  kind: binary
+  source: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-1.2.3.AppImage
+  found_in: PIP-Player-1.2.3.AppImage
+  signal: which-electron rg signal
+last_commit: '2026-09-25'
 we_tried: we1.2.1+p1:release-1.2.2
