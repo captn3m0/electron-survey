@@ -11,6 +11,10 @@ src: https://github.com/WickyPlays/pip-player/archive/refs/tags/v1.2.3.zip
 downloads:
 - name: PIP-Player-1.2.3.AppImage
   url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-1.2.3.AppImage
+- name: PIP-Player-Setup-1.2.3.exe
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-Setup-1.2.3.exe
+- name: PIP-Player.1.2.3.exe
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player.1.2.3.exe
 - name: pip-player_1.2.3_amd64.deb
   url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/pip-player_1.2.3_amd64.deb
 evidence:

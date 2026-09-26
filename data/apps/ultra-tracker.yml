@@ -6,35 +6,35 @@ aur:
 - ultra-tracker-bin
 electron: 28.3.3
 method: aur-depends
-latest: v1.2.0
-src: https://github.com/barcradio/ultra-tracker/archive/refs/tags/v1.2.0.zip
+latest: v1.2.1
+src: https://github.com/barcradio/ultra-tracker/archive/refs/tags/v1.2.1.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/builder-debug.yml
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/builder-debug.yml
 - name: latest-linux-arm64.yml
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/latest-linux-arm64.yml
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/latest-linux.yml
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/latest-mac.yml
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/latest.yml
-- name: ultra-tracker-1.2.0-arm64.AppImage
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker-1.2.0-arm64.AppImage
-- name: ultra-tracker-1.2.0-setup.exe
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker-1.2.0-setup.exe
-- name: ultra-tracker-1.2.0-setup.exe.blockmap
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker-1.2.0-setup.exe.blockmap
-- name: ultra-tracker-1.2.0-x86_64.AppImage
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker-1.2.0-x86_64.AppImage
-- name: ultra-tracker-1.2.0.dmg
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker-1.2.0.dmg
-- name: ultra-tracker-1.2.0.dmg.blockmap
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker-1.2.0.dmg.blockmap
-- name: ultra-tracker_1.2.0_amd64.deb
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker_1.2.0_amd64.deb
-- name: ultra-tracker_1.2.0_arm64.deb
-  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.0/ultra-tracker_1.2.0_arm64.deb
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/latest.yml
+- name: ultra-tracker-1.2.1-arm64.AppImage
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker-1.2.1-arm64.AppImage
+- name: ultra-tracker-1.2.1-setup.exe
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker-1.2.1-setup.exe
+- name: ultra-tracker-1.2.1-setup.exe.blockmap
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker-1.2.1-setup.exe.blockmap
+- name: ultra-tracker-1.2.1-x86_64.AppImage
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker-1.2.1-x86_64.AppImage
+- name: ultra-tracker-1.2.1.dmg
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker-1.2.1.dmg
+- name: ultra-tracker-1.2.1.dmg.blockmap
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker-1.2.1.dmg.blockmap
+- name: ultra-tracker_1.2.1_amd64.deb
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker_1.2.1_amd64.deb
+- name: ultra-tracker_1.2.1_arm64.deb
+  url: https://github.com/barcradio/ultra-tracker/releases/download/v1.2.1/ultra-tracker_1.2.1_arm64.deb
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/ultra-tracker-bin
@@ -54,4 +54,4 @@ aur_downloads:
   name: ultra-tracker_1.0.2_amd64.deb
   arch: x86_64
   source: aur-bin
-we_tried: we1.2.1+p1:v1.2.0
+we_tried: we1.2.1+p1:v1.2.1

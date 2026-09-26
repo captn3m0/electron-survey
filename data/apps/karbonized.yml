@@ -36,7 +36,7 @@ evidence:
   source: https://github.com/yossTheDev/karbonized/releases/download/v1.12.0/karbonized-1.12.0.AppImage
   found_in: karbonized-1.12.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-16'
+last_commit: '2026-09-25'
 aur_downloads:
 - url: https://github.com/yossTheDev/karbonized/releases/download/v1.12.0/karbonized-1.12.0.AppImage
   name: karbonized-1.12.0.AppImage
