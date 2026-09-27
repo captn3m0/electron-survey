@@ -414,7 +414,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Echo Music](https://github.com/hoowhoami/EchoMusic) [[repo]](https://github.com/hoowhoami/EchoMusic) | 43.1.1 ⚠️ | 2mo ago | which-electron-rg |
 | [Echoplayer](https://github.com/mkdir700/EchoPlayer) [[repo]](https://github.com/mkdir700/EchoPlayer) | 37.2.4 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Ecloud](https://cloud.189.cn/) | 4.2.12 ⚠️ | 7y ago | aur-depends |
-| [Ecubus Pro](https://github.com/ecubus/EcuBus-Pro) [[repo]](https://github.com/ecubus/EcuBus-Pro) | 44.2.0 ⚠️ | 22d ago | src-package-lock |
+| [Ecubus Pro](https://github.com/ecubus/EcuBus-Pro) [[repo]](https://github.com/ecubus/EcuBus-Pro) | 44.2.0 ⚠️ | 23d ago | src-package-lock |
 | [Edex UI](https://github.com/GitSquared/edex-ui) [[repo]](https://github.com/GitSquared/edex-ui) | 12.2.2 ⚠️ | 5y ago | which-electron-rg |
 | [Edgetx Buddy](https://buddy.edgetx.org/) | 29.3.0 ⚠️ | 2y 5mo ago | which-electron-rg |
 | [Elastron](https://elastron.eney.solutions/) | 41.3.0 ⚠️ | 5mo ago | which-electron-rg |
@@ -826,7 +826,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Libgendesktop](https://github.com/ProgrammerGnome/libgendesktop) [[repo]](https://github.com/ProgrammerGnome/libgendesktop) | 35.7.5 ⚠️ | 1y 1mo ago | aur-depends |
 | [Librelinkupdesktop](https://crazymarvin.com/librelinkupdesktop/) | 34.5.8 ⚠️ | 1y 3mo ago | aur-depends |
 | [LightProxy](https://github.com/alibaba/lightproxy) [[repo]](https://github.com/alibaba/lightproxy) | 10.1.5 ⚠️ | 6y ago |  |
-| [Lightrail Core](https://lightrail.ai/) | 24.8.3 ⚠️ | 3y ago | which-electron-rg |
+| [Lightrail Core](https://lightrail.ai/) | 24.8.3 ⚠️ | 3y 1mo ago | which-electron-rg |
 | [Liground](https://ml-research.github.io/liground.github.io/) | 25.9.8 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Linear](https://linear.app/download) | 41.3.0 ⚠️ | 5mo ago | which-electron-rg |
 | [Linkandroid](https://linkandroid.com/) | 29.4.6 ⚠️ | 2y 1mo ago | which-electron-rg |
@@ -1270,7 +1270,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Realm Studio](https://realm.io/products/realm-studio/) | 27.1.2 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Rebaslight](https://www.rebaslight.com/) [[repo]](https://github.com/rebaslight/rebaslight) | 23.1.0 ⚠️ | 3y 7mo ago | src-yarn-lock |
 | [Recode Converter](https://murgatt.github.io/recode-converter/) [[repo]](https://github.com/murgatt/recode-converter) | 40.6.1 ⚠️ | 7mo ago | src-pnpm-lock |
-| [Redis GUI (unofficial)](https://ekvedaras.github.io) [[repo]](https://github.com/ekvedaras/redis-gui) | 44.2.0 ⚠️ | 22d ago | src-yarn-lock |
+| [Redis GUI (unofficial)](https://ekvedaras.github.io) [[repo]](https://github.com/ekvedaras/redis-gui) | 44.2.0 ⚠️ | 23d ago | src-yarn-lock |
 | [Redis Viewer](https://github.com/redisviewer/RedisViewer) [[repo]](https://github.com/redisviewer/RedisViewer) | 28.3.3 ⚠️ | 2y 4mo ago | aur-depends |
 | [RedisInsight](https://redis.io/insight/) [[repo]](https://github.com/redis/RedisInsight) | 41.7.2 ⚠️ | 3mo ago | which-electron-rg |
 | [Redisfish](https://github.com/Kuari/RedisFish) [[repo]](https://github.com/Kuari/RedisFish) | 13.6.9 ⚠️ | 4y 8mo ago | which-electron-rg |
@@ -1467,7 +1467,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Sunsama](https://www.sunsama.com) | 43.0.0 ⚠️ | 2mo ago | which-electron-rg |
 | [Supalive](https://supalive.app/) | 27.3.11 ⚠️ | 2y 5mo ago | aur-depends |
 | [Super Controller](https://github.com/aolsenjazz/super-controller) [[repo]](https://github.com/aolsenjazz/super-controller) | 19.1.9 ⚠️ | 3y 10mo ago | which-electron-rg |
-| [Super Productivity](https://super-productivity.com/) [[repo]](https://github.com/johannesjo/super-productivity) | 43.5.0 ⚠️ | 26d ago | src-package-lock |
+| [Super Productivity](https://super-productivity.com/) [[repo]](https://github.com/johannesjo/super-productivity) | 43.5.0 ⚠️ | 27d ago | src-package-lock |
 | [Superhuman](https://superhuman.com/) | 41.6.1 ⚠️ | 4mo ago | which-electron-rg |
 | [Supersplashbros2](https://github.com/NM-Games/super-splash-bros-2) [[repo]](https://github.com/NM-Games/super-splash-bros-2) | 34.0.2 ⚠️ | 1y 8mo ago | which-electron-rg |
 | [Swarm](https://desktop.ethswarm.org/) | 40.10.6 ⚠️ | 2mo ago | aur-depends |
@@ -1741,7 +1741,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Zenvpn](https://zenvpn.net) | 25.9.8 ⚠️ | 2y 10mo ago | aur-depends |
 | [Zeplin](https://zeplin.io) | 38.1.0 ⚠️ | 1y ago | which-electron-rg |
 | [Zerochess](https://github.com/OscarDavilaSampedro/zerochess) [[repo]](https://github.com/OscarDavilaSampedro/zerochess) | 27.3.11 ⚠️ | 2y 5mo ago | aur-depends |
-| [Zettlr](https://www.zettlr.com/) [[repo]](https://github.com/zettlr/zettlr) | 43.6.0 ⚠️ | 22d ago | src-yarn-lock |
+| [Zettlr](https://www.zettlr.com/) [[repo]](https://github.com/zettlr/zettlr) | 43.6.0 ⚠️ | 23d ago | src-yarn-lock |
 | [Zhiximind](https://www.zhixi.com) | 22.3.27 ⚠️ | 3y ago | aur-depends |
 | [Zima Linux Client](https://github.com/chicohaager/zima-linux-client) [[repo]](https://github.com/chicohaager/zima-linux-client) | 28.3.3 ⚠️ | 2y 4mo ago | which-electron-rg |
 | [Znote](https://znote.io) [[repo]](https://github.com/alagrede/znote-app) | 36.9.5 ⚠️ | 11mo ago | which-electron-rg |

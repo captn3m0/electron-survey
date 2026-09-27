@@ -6,21 +6,21 @@ aur:
 - pip-player-git
 electron: 31.7.7
 method: which-electron-rg
-latest: v1.2.3
-src: https://github.com/WickyPlays/pip-player/archive/refs/tags/v1.2.3.zip
+latest: v1.2.4
+src: https://github.com/WickyPlays/pip-player/archive/refs/tags/v1.2.4.zip
 downloads:
-- name: PIP-Player-1.2.3.AppImage
-  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-1.2.3.AppImage
-- name: PIP-Player-Setup-1.2.3.exe
-  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-Setup-1.2.3.exe
-- name: PIP-Player.1.2.3.exe
-  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player.1.2.3.exe
-- name: pip-player_1.2.3_amd64.deb
-  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/pip-player_1.2.3_amd64.deb
+- name: PIP-Player-1.2.4.AppImage
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.4/PIP-Player-1.2.4.AppImage
+- name: PIP-Player-Setup-1.2.4.exe
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.4/PIP-Player-Setup-1.2.4.exe
+- name: PIP-Player.1.2.4.exe
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.4/PIP-Player.1.2.4.exe
+- name: pip-player_1.2.4_amd64.deb
+  url: https://github.com/WickyPlays/pip-player/releases/download/v1.2.4/pip-player_1.2.4_amd64.deb
 evidence:
   kind: binary
   source: https://github.com/WickyPlays/pip-player/releases/download/v1.2.3/PIP-Player-1.2.3.AppImage
   found_in: PIP-Player-1.2.3.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-25'
+last_commit: '2026-09-27'
 we_tried: we1.2.1+p1:release-1.2.2

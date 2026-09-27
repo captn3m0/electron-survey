@@ -18,5 +18,5 @@ evidence:
   source: https://github.com/xunxun10/snippet-notes/releases/download/0.7.2/snippet-notes-linux-arm64-0.7.2.zip
   found_in: snippet-notes-linux-arm64-0.7.2.zip
   signal: which-electron rg signal
-last_commit: '2026-09-13'
+last_commit: '2026-09-27'
 we_tried: we1.2.1+p1:0.6.2
