@@ -13,7 +13,7 @@ downloads:
   name: Criptext-latest.dmg
   version: 0.31.0,2.0.82
 aur_votes: 1
-brew_installs: 10
+brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true
