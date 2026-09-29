@@ -1,33 +1,37 @@
 id: imagine
 repository: https://github.com/meowtec/Imagine
 website: https://github.com/meowtec/Imagine
-latest: v0.7.5
-src: https://github.com/meowtec/Imagine/archive/refs/tags/v0.7.5.zip
+latest: v1.0.0
+src: https://github.com/meowtec/Imagine/archive/refs/tags/v1.0.0.zip
 downloads:
-- name: Imagine-0.7.5-arm64.dmg
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-0.7.5-arm64.dmg
-- name: Imagine-0.7.5-arm64.dmg.blockmap
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-0.7.5-arm64.dmg.blockmap
-- name: Imagine-0.7.5.AppImage
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-0.7.5.AppImage
-- name: Imagine-0.7.5.dmg
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-0.7.5.dmg
-- name: Imagine-0.7.5.dmg.blockmap
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-0.7.5.dmg.blockmap
-- name: Imagine-0.7.5.exe
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-0.7.5.exe
-- name: Imagine-Setup-0.7.5.exe
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-Setup-0.7.5.exe
-- name: Imagine-Setup-0.7.5.exe.blockmap
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine-Setup-0.7.5.exe.blockmap
-- name: Imagine_0.7.5_amd64.snap
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/Imagine_0.7.5_amd64.snap
-- name: latest-linux.yml
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/latest-linux.yml
-- name: latest-mac.yml
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/latest-mac.yml
-- name: latest.yml
-  url: https://github.com/meowtec/imgo/releases/download/v0.7.5/latest.yml
+- name: imgo-1.0.0-1.aarch64.rpm
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo-1.0.0-1.aarch64.rpm
+- name: imgo-1.0.0-1.x86_64.rpm
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo-1.0.0-1.x86_64.rpm
+- name: imgo_1.0.0_aarch64.AppImage
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_aarch64.AppImage
+- name: imgo_1.0.0_aarch64.dmg
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_aarch64.dmg
+- name: imgo_1.0.0_amd64.AppImage
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_amd64.AppImage
+- name: imgo_1.0.0_amd64.deb
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_amd64.deb
+- name: imgo_1.0.0_amd64.flatpak
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_amd64.flatpak
+- name: imgo_1.0.0_arm64-setup.exe
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_arm64-setup.exe
+- name: imgo_1.0.0_arm64.deb
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_arm64.deb
+- name: imgo_1.0.0_arm64.flatpak
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_arm64.flatpak
+- name: imgo_1.0.0_arm64_portable.zip
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_arm64_portable.zip
+- name: imgo_1.0.0_x64-setup.exe
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_x64-setup.exe
+- name: imgo_1.0.0_x64.dmg
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_x64.dmg
+- name: imgo_1.0.0_x64_portable.zip
+  url: https://github.com/meowtec/imgo/releases/download/v1.0.0/imgo_1.0.0_x64_portable.zip
 electron: 12.2.3
 method: src-package-lock
 name: Imagine
@@ -38,4 +42,4 @@ evidence:
   found_in: package-lock.json
   signal: electron pinned in package-lock.json
   reconstructed: true
-last_commit: '2026-09-19'
+last_commit: '2026-09-29'
