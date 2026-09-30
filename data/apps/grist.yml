@@ -6,27 +6,27 @@ aur:
 - grist-desktop
 electron: 41.3.0
 method: which-electron-rg
-latest: v0.3.15
-src: https://github.com/gristlabs/grist-desktop/archive/refs/tags/v0.3.15.zip
+latest: v0.3.16
+src: https://github.com/gristlabs/grist-desktop/archive/refs/tags/v0.3.16.zip
 downloads:
-- name: grist-desktop-0.3.15-linux-x86_64.AppImage
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-linux-x86_64.AppImage
-- name: grist-desktop-0.3.15-linux-x86_64.flatpak
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-linux-x86_64.flatpak
-- name: grist-desktop-0.3.15-mac-arm64.dmg
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-mac-arm64.dmg
-- name: grist-desktop-0.3.15-mac-x64.dmg
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-mac-x64.dmg
-- name: grist-desktop-0.3.15-win-x64.exe
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-win-x64.exe
-- name: grist-desktop-0.3.15-win-x64.exe.blockmap
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-win-x64.exe.blockmap
-- name: grist-desktop-0.3.15-win-x64.zip
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/grist-desktop-0.3.15-win-x64.zip
+- name: grist-desktop-0.3.16-linux-x86_64.AppImage
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-linux-x86_64.AppImage
+- name: grist-desktop-0.3.16-linux-x86_64.flatpak
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-linux-x86_64.flatpak
+- name: grist-desktop-0.3.16-mac-arm64.dmg
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-mac-arm64.dmg
+- name: grist-desktop-0.3.16-mac-x64.dmg
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-mac-x64.dmg
+- name: grist-desktop-0.3.16-win-x64.exe
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-win-x64.exe
+- name: grist-desktop-0.3.16-win-x64.exe.blockmap
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-win-x64.exe.blockmap
+- name: grist-desktop-0.3.16-win-x64.zip
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/grist-desktop-0.3.16-win-x64.zip
 - name: latest-linux.yml
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/latest-linux.yml
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.15/latest.yml
+  url: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.16/latest.yml
 evidence:
   kind: binary
   source: https://github.com/gristlabs/grist-desktop/releases/download/v0.3.13/grist-desktop-0.3.13-linux-x86_64.AppImage

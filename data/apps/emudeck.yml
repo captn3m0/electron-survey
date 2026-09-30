@@ -6,26 +6,30 @@ aur:
 - emudeck-bin
 electron: 22.3.27
 method: which-electron-rg
-latest: v2.5.0
-src: https://github.com/EmuDeck/emudeck-electron/archive/refs/tags/v2.5.0.zip
+latest: v2.7.1
+src: https://github.com/EmuDeck/emudeck-electron/archive/refs/tags/v2.7.1.zip
 downloads:
-- name: EmuDeck-2.5.0.AppImage
-  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
-- name: EmuDeck-Setup-2.5.0.exe
-  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-Setup-2.5.0.exe
-- name: EmuDeck-Setup-2.5.0.exe.blockmap
-  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-Setup-2.5.0.exe.blockmap
+- name: EmuDeck-2.7.1-arm64.AppImage
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/EmuDeck-2.7.1-arm64.AppImage
+- name: EmuDeck-2.7.1-x86_64.AppImage
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/EmuDeck-2.7.1-x86_64.AppImage
+- name: EmuDeck-Setup-2.7.1.exe
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/EmuDeck-Setup-2.7.1.exe
+- name: EmuDeck-Setup-2.7.1.exe.blockmap
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/EmuDeck-Setup-2.7.1.exe.blockmap
+- name: latest-linux-arm64.yml
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest-linux.yml
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/latest.yml
+  url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.7.1/latest.yml
 evidence:
   kind: binary
   source: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
   found_in: EmuDeck-2.5.0.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-09-28'
+last_commit: '2026-09-29'
 aur_downloads:
 - url: https://github.com/EmuDeck/emudeck-electron/releases/download/v2.5.0/EmuDeck-2.5.0.AppImage
   name: EmuDeck-2.5.0.AppImage

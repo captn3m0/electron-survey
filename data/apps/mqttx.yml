@@ -78,22 +78,31 @@ downloads:
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/MQTTX-1.13.1.x86_64.rpm
 - name: mqttx-cli-alpine-arm64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-alpine-arm64
+  checksum: 4857f8ff93ee017c252272de6a5ad5f9bb39b89fc9de78d149ba437ee1670d4c
 - name: mqttx-cli-alpine-x64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-alpine-x64
+  checksum: 13ae81ebe74b4f16909c4e2ab753f77d8558fadc5ea7b965353f137891862fd0
 - name: mqttx-cli-linux-arm64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-linux-arm64
+  checksum: 1fbb889fee72e5664dfb8fef6bd5b594b5f30cd5a9ae1bc9236d322e032cb82f
 - name: mqttx-cli-linux-x64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-linux-x64
+  checksum: 817a6f1ff82673b9320bb431518867a02635d1b1a54dedbead420f9c5db39193
 - name: mqttx-cli-macos-arm64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-macos-arm64
+  checksum: daae794581f1122655d79440c744c4325be4ecb22e641bb25ee3988355576ccd
 - name: mqttx-cli-macos-x64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-macos-x64
+  checksum: 819541b25b7df6259b7fa0c55827fbc5e04a93d843fc08de5305bace41dfc0d5
 - name: mqttx-cli-win-arm64.exe
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-win-arm64.exe
+  checksum: 86ff91febc23d181ea9d89d08cbea2f1da3d459aab457a44ef14155bc5916874
 - name: mqttx-cli-win-x64.exe
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-win-x64.exe
+  checksum: 84ddd12765e339b70eee25ad319a0864f98fa7d3b5a833e65b30f9af743d1bde
 - name: mqttx-cli.tar.gz
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli.tar.gz
+  checksum: bb1440d44be324e612d5f642d5b3710c46ef26376a674a5f58dcef72222141ba
 - name: MQTTX-Setup-1.13.1-ia32.exe
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/MQTTX-Setup-1.13.1-ia32.exe
 - name: MQTTX-Setup-1.13.1-ia32.exe.blockmap
@@ -112,6 +121,8 @@ downloads:
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/MQTTX_1.13.1_amd64.snap
 - name: MQTTX_1.13.1_arm64.deb
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/MQTTX_1.13.1_arm64.deb
+- name: SHA256SUMS
+  url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/SHA256SUMS
 latest: v1.13.1
 src: https://github.com/emqx/MQTTX/archive/refs/tags/v1.13.1.zip
 evidence:
@@ -121,7 +132,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-09-28'
+last_commit: '2026-09-30'
 aur_downloads:
 - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.aarch64.rpm
   name: MQTTX-1.13.0.aarch64.rpm
