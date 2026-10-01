@@ -65,7 +65,7 @@ downloads:
 - name: HttpToolkit-1.27.2.exe
   url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.2/HttpToolkit-1.27.2.exe
 aur_votes: 10
-last_commit: '2026-09-14'
+last_commit: '2026-10-01'
 evidence:
   kind: binary
   source: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.26.1/HttpToolkit-1.26.1-arm64.rpm
