@@ -4,8 +4,6 @@ website: https://caesiumstudio.com
 latest: latest
 src: https://github.com/caesiumstudio/csBooks-updates/archive/refs/tags/latest.zip
 downloads:
-- name: csBooks-9.0.0-arm64.dmg
-  url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-9.0.0-arm64.dmg
 - name: csBooks-9.0.0.AppImage
   url: https://github.com/caesiumstudio/csBooks-updates/releases/download/latest/csBooks-9.0.0.AppImage
 - name: csBooks-9.0.0.pacman

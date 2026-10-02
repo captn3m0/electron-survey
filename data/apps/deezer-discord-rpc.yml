@@ -29,10 +29,11 @@ evidence:
   found_in: deezer-discord-rpc-1.4.0/package.json
   signal: no lockfile; range "^44.5.0" resolved to its highest known match
   source: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.4.0.zip
-last_commit: '2026-09-30'
+last_commit: '2026-10-01'
 aur_downloads:
 - url: https://github.com/JustYuuto/deezer-discord-rpc/releases/latest/download/DeezerDiscordRPC-linux-amd64.deb
   name: DeezerDiscordRPC-linux-amd64.deb
   arch: any
   source: aur-bin
 we_tried: we1.2.1+p1:1.4.0
+aur_votes: 1

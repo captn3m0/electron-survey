@@ -7,80 +7,80 @@ repository: https://github.com/bbg-contributors/bbg
 additionalAUR:
 - bbg-bin
 - bbg-git
-latest: '20260608'
-src: https://github.com/bbg-contributors/bbg/archive/refs/tags/20260608.zip
+latest: '20261001'
+src: https://github.com/bbg-contributors/bbg/archive/refs/tags/20261001.zip
 downloads:
 - name: app.asar
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/app.asar
-  checksum: 5fb38aebbe7b452eb637077b5e6bbc7117c067157e0878a85ac2290849d41c7b
-- name: bbg-20260608-amd64.deb
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-amd64.deb
-  checksum: eecad598b481d163daf6a579450dcfd3a86807b5502f58ded94bbf3d7bbe7f3b
-- name: bbg-20260608-arm64.deb
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-arm64.deb
-  checksum: 0d388b18fdcb2bdf4e64e9acaf612094b1b4d7f57a65e2b850521d56bb93f697
-- name: bbg-20260608-arm64.dmg
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-arm64.dmg
-  checksum: 63b5c8720c14ca27e86d04dd01bfeb5da6959f34c2a39cd5bd155139efc430ca
-- name: bbg-20260608-arm64.dmg.blockmap
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-arm64.dmg.blockmap
-  checksum: 94d13547614d7bf2ce1bbae24dec9f3d12d0fcb4790d02bcb4116949c9ab417b
-- name: bbg-20260608-arm64.exe
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-arm64.exe
-  checksum: 78cd794a6f8230d69d977123a0ac7daf8252f53aaef42395af3d4544b3cae287
-- name: bbg-20260608-setup-x64.exe
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-setup-x64.exe
-  checksum: fc6282920596180251a3c8c3c672eebe28bfa60e059aca2b5accb2e5afe6fef7
-- name: bbg-20260608-x64-linux.tar.gz
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-x64-linux.tar.gz
-  checksum: e558ebf4bf887884da6b51508cf2322f1fb6ed5c5a0f00b8324144f527ee9acf
-- name: bbg-20260608-x64.dmg
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-x64.dmg
-  checksum: 219a58f2f78031c54f44d9d1dd38fdfae3cf22bd7978332b1c6603c821663edc
-- name: bbg-20260608-x64.dmg.blockmap
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-x64.dmg.blockmap
-  checksum: c90e1f5b275f4ebc2370e9a8aaffab681479acc24c07accd3fece180eb59fcfa
-- name: bbg-20260608-x64.exe.blockmap
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-x64.exe.blockmap
-  checksum: 28a8f7390b1c82f9e1e9de87c1edaa006c119cd4ed406be309b138ed710f620a
-- name: bbg-20260608-x86_64.AppImage
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-x86_64.AppImage
-  checksum: 105967020a39dd41f6ed3d67927c29faf49ddbc58a1b82601486d73d195e18d9
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/app.asar
+  checksum: e6e921ebf97a2b67021ee15a16bae582d0d4d185f3b18752e24db7d9dabd7888
+- name: bbg-20261001-amd64.deb
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-amd64.deb
+  checksum: e7d63990bf6692c2a5f02f133ecaf73b158683feb4806050a799bd917964cf03
+- name: bbg-20261001-arm64.deb
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-arm64.deb
+  checksum: df6f0af22d9465b41fcce07bbfa6cb33503bea152666069d5e5bc94739043d9d
+- name: bbg-20261001-arm64.dmg
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-arm64.dmg
+  checksum: 371608a48f12efcdc81709892523892755ff0c6c6d96cdeddd9e9c99026ef68f
+- name: bbg-20261001-arm64.dmg.blockmap
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-arm64.dmg.blockmap
+  checksum: 4f83424a38d50e6cab7573a15df755013491a5e6ff0c3e40128320ddeac55af1
+- name: bbg-20261001-arm64.exe
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-arm64.exe
+  checksum: 4448710ff7897fb7754696e5ce1b12534dbfc5a7fc73b22ffc5d5e9a8b0b27d5
+- name: bbg-20261001-setup-x64.exe
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-setup-x64.exe
+  checksum: db35f8c12ce6b75f98193dd450565e43f21a76f90ada43a77a50c388fd91f709
+- name: bbg-20261001-x64-linux.tar.gz
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-x64-linux.tar.gz
+  checksum: 3a90b511bacb301ea8c7280b5fec0655d91c500c0a36a7c25c74ddaf780c71cc
+- name: bbg-20261001-x64.dmg
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-x64.dmg
+  checksum: 124fecbc3b0d58cc29abb67948b2aa32e5194062c8f0c3f48c6b18c986496a71
+- name: bbg-20261001-x64.dmg.blockmap
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-x64.dmg.blockmap
+  checksum: 82da758add305b6377ffa0414725c7fb86067c98db2209f941e493e9bfbfbb02
+- name: bbg-20261001-x64.exe.blockmap
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-x64.exe.blockmap
+  checksum: d636a347caef2eb466bfcd60da8e6e2e0f78957652c73fe67e6ad1b2d5012851
+- name: bbg-20261001-x86_64.AppImage
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-20261001-x86_64.AppImage
+  checksum: fb2eb456a63486078926bc530421f4b182bcea2e12ecfbb321422d668c49f6a6
 - name: bbg-arm64.AppImage
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-arm64.AppImage
-  checksum: 424cc729399d4890677e1570cbcfe3e231abd87bd5a365e9fba739c027bb9e0f
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-arm64.AppImage
+  checksum: fee13e82576e93a71846f09e006bfec23632868de381e94669a584e97b1cc84e
 - name: bbg-arm64.exe.blockmap
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-arm64.exe.blockmap
-  checksum: 91599a82ff8a1f8cfafc37d76ef5230856741a2a4a5a4ebde8db34178ab51a36
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-arm64.exe.blockmap
+  checksum: 1d2963038e0f875bb4439cac4c0d93bda3b11baba1672ac97942201f48e0511a
 - name: bbg-arm64.tar.gz
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-arm64.tar.gz
-  checksum: 0bb122aae3f262c00fa9109d34f63eb205415b5f1d014022cd4d68b9ebfd30a3
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg-arm64.tar.gz
+  checksum: 46903b00dd9b2349e173ad3257e3bd6ec90533de189b8177d7caf29118b1e7b6
 - name: bbg.exe
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg.exe
-  checksum: ece462d4dc983d0273d4b2ce714198479685e9a3ce5ec1625dbdf37e8408980a
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg.exe
+  checksum: b270204ad2eed13ab153a8dd0ed92ca93f8ea875a8b94d68543923f974a32628
 - name: bbg.exe.blockmap
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg.exe.blockmap
-  checksum: b65ba449d6a1977525e1435359b9e7d42e0f2cd92a618c7cff033e6d8ff58caf
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/bbg.exe.blockmap
+  checksum: 7749b630996327f04e84bf416e3490803c995c425f55da2755066cdcc861a9bc
 - name: latest-linux-arm64.yml
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/latest-linux-arm64.yml
-  checksum: 8353e0b48ac0be52f055e51d9ae60178af4dd7d1ab750834d08cbf5c6051529e
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/latest-linux-arm64.yml
+  checksum: 627a8152eadd9bbe5294e42e8e95676719cf6c45304ca6303e602c721d64e80a
 - name: latest-linux.yml
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/latest-linux.yml
-  checksum: e98d1bf2236a48b698d014170f47817d4f4a472a7fe599d15d5144a916f830fa
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/latest-linux.yml
+  checksum: 71ee16cd4b0113ab0a632c01e39e8f3152795808bfc65a9eb725271d81178437
 - name: latest-mac.yml
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/latest-mac.yml
-  checksum: 3b6d460f291e33ba90f1da9a39ad3fb3489b47c969d2f8201bd6b4e38f6648ce
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/latest-mac.yml
+  checksum: e000dc82ba3f4a9dfd44c9dd8293538e7db85d5812ef0553346a130d052b548a
 - name: latest.yml
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/latest.yml
-  checksum: 7bbc208118a50807407638fe9f51112ab74b0482907bdf3e4f9bac0c8ad251e4
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/latest.yml
+  checksum: 685398b82d4fa2ffdb48f13f10d6612bfb7bb42689a4846a0da66b7ff1742eaf
 - name: SHA256SUMS
-  url: https://github.com/bbg-contributors/bbg/releases/download/20260608/SHA256SUMS
+  url: https://github.com/bbg-contributors/bbg/releases/download/20261001/SHA256SUMS
 electron: 40.10.2
 method: which-electron-rg
 electron_src: https://github.com/bbg-contributors/bbg/archive/refs/tags/20260608.zip
 we_tried: we0:20260608
 aur_votes: 1
-last_commit: '2026-09-03'
+last_commit: '2026-10-01'
 evidence:
   kind: binary
   source: https://github.com/bbg-contributors/bbg/releases/download/20260608/bbg-20260608-amd64.deb

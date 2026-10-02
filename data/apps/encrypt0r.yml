@@ -1,35 +1,34 @@
 id: encrypt0r
 repository: https://github.com/kunalnagar/encrypt0r
 website: https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/
-latest: v3.12.70
-src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.70.zip
-electron: 39.8.5
+latest: v3.12.71
+src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.71.zip
+electron: 39.8.10
 method: src-yarn-lock
 aur:
 - encrypt0r-bin
 name: encrypt0r
 downloads:
 - name: encrypt0r-linux-deb.zip
-  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-deb.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.71/encrypt0r-linux-deb.zip
 - name: encrypt0r-linux-x64.zip
-  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-x64.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.71/encrypt0r-linux-x64.zip
 - name: encrypt0r-mac-m1.zip
-  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-mac-m1.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.71/encrypt0r-mac-m1.zip
 - name: encrypt0r-mac.zip
-  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-mac.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.71/encrypt0r-mac.zip
 - name: encrypt0r-windows-x64.zip
-  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-windows-x64.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.71/encrypt0r-windows-x64.zip
 - name: encrypt0r-windows-x86.zip
-  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-windows-x86.zip
-electron_src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.70.zip
+  url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.71/encrypt0r-windows-x86.zip
+electron_src: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.71.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Akunalnagar%2Fencrypt0r+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
+  found_in: encrypt0r-3.12.71/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
+  source: https://github.com/kunalnagar/encrypt0r/archive/refs/tags/v3.12.71.zip
 aur_votes: 1
-last_commit: '2026-09-27'
+last_commit: '2026-10-02'
 aur_downloads:
 - url: https://github.com/kunalnagar/encrypt0r/releases/download/v3.12.70/encrypt0r-linux-deb.zip
   name: encrypt0r-linux-deb.zip
@@ -39,3 +38,4 @@ aur_downloads:
   name: LICENSE.md
   arch: any
   source: aur-bin
+we_tried: we1.2.1+p1:v3.12.71

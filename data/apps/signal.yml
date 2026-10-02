@@ -1,9 +1,9 @@
 id: signal
 repository: https://github.com/signalapp/Signal-Desktop
 website: https://signal.org
-latest: v8.28.0
-src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.28.0.zip
-electron: 44.1.0
+latest: v8.29.0
+src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.29.0.zip
+electron: 44.2.0
 method: src-package-json
 aur:
 - signal-desktop-beta
@@ -32,12 +32,12 @@ packages:
   os: macos
   arch: arm64
 name: Signal
-electron_src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.28.0.zip
+electron_src: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.29.0.zip
 evidence:
   kind: manifest
-  found_in: Signal-Desktop-8.28.0/package.json
-  signal: electron pinned to exactly 44.1.0
-  source: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.28.0.zip
+  found_in: Signal-Desktop-8.29.0/package.json
+  signal: electron pinned to exactly 44.2.0
+  source: https://github.com/signalapp/Signal-Desktop/archive/refs/tags/v8.29.0.zip
 homepage: true
 aur_votes: 10
 brew_installs: 10000

@@ -16,7 +16,7 @@ downloads:
 electron: 37.2.0
 method: which-electron-rg
 aur_votes: 1
-brew_installs: 10
+brew_installs: 100
 evidence:
   kind: binary
   source: https://releases.routine.co/routine/osx-arm64/Routine-1.1.2.zip
