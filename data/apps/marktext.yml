@@ -1,80 +1,80 @@
 id: marktext
 repository: https://github.com/marktext/marktext
 website: https://github.com/marktext/marktext
-latest: v0.19.1
-src: https://github.com/marktext/marktext/archive/refs/tags/v0.19.1.zip
+latest: v0.20.0
+src: https://github.com/marktext/marktext/archive/refs/tags/v0.20.0.zip
 downloads:
 - name: builder-debug.yml
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/builder-debug.yml
-  checksum: 3f2b7b92b3a2423cedd68c8dba6013dd79b0dff2a184da3ddf806aa4c2d66d6b
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/builder-debug.yml
+  checksum: 394a3179887eb112bd023f029caab00ddeb95d568893543359878ae93ebe610a
 - name: latest-linux.yml
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/latest-linux.yml
-  checksum: 21b16921aa27881439c16226e6991369f7e6184b64f59236e8fbddc6cb866ee4
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/latest-linux.yml
+  checksum: 48127bec5464cdd0c788508c66a983ccf0bda3b39faf4e71e45a2e44f0be7a55
 - name: latest-mac.yml
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/latest-mac.yml
-  checksum: f4613297ac2d86353e9b42d9645b404a951c4ae69591d671cc06fa6f6d6274c2
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/latest-mac.yml
+  checksum: b3e6e3a8271baac537ff1a8250ff72f1e56260d846174063e68f8c27ef83452f
 - name: latest.yml
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/latest.yml
-  checksum: f4986c878bc1be69dcff308a41758c5344eb09e7a692833f1c078f8ca4c73a65
-- name: marktext-linux-0.19.1.AppImage
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.AppImage
-  checksum: 05f8d1c0d7f8d1f20228c203fe84b8d436209979c0404292c2fc9430418fe561
-- name: marktext-linux-0.19.1.deb
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.deb
-  checksum: e0eaa1967d6cd82e6f96a44766886c79b122a961709b1f1d26c1276b046c84d1
-- name: marktext-linux-0.19.1.rpm
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.rpm
-  checksum: 7b29dedb695c7210eb420eefb536c4004b7abd3632bf3b230dee15ce389dabcb
-- name: marktext-linux-0.19.1.snap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.snap
-  checksum: 02372e5d1bc21ebeab2ece99238adc2219ca01a704c12812829c4c0cffea2541
-- name: marktext-linux-0.19.1.tar.gz
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-linux-0.19.1.tar.gz
-  checksum: d1ecc7e47fe2cfdd6191330dd9360fdaae47508f458f179cc5f4948b7f3e6f1d
-- name: marktext-mac-arm64-0.19.1.dmg
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.dmg
-  checksum: f5a8630b4ec14f7bf1120a7a17a1ed397430d30c57f2c6c2c6a39410417f66ce
-- name: marktext-mac-arm64-0.19.1.dmg.blockmap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.dmg.blockmap
-  checksum: 30b7e1a536b4adb14f8c4434f71330a0cb0743fe46c116509c98bf0cf082dd06
-- name: marktext-mac-arm64-0.19.1.zip
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.zip
-  checksum: f5402e4fa9d42bff89224cb9e55e0ba2755a19f9bbf1932a15e7c7fcfc8ba77c
-- name: marktext-mac-arm64-0.19.1.zip.blockmap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-arm64-0.19.1.zip.blockmap
-  checksum: 9030e0727d487c98ccac14007c6aabaac5500d049154bfd11b81430893cb12ad
-- name: marktext-mac-x64-0.19.1.dmg
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-x64-0.19.1.dmg
-  checksum: d1831a5dce3d957d26dcf9710869f4b7e1df1bc9c2dcd0cb6539e29e96f71779
-- name: marktext-mac-x64-0.19.1.dmg.blockmap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-x64-0.19.1.dmg.blockmap
-  checksum: 6a856a1cf6f22cf9cc447d1a4b18c852d770705dcf20f836d8c99abf6d3d4113
-- name: marktext-mac-x64-0.19.1.zip
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-x64-0.19.1.zip
-  checksum: 8340499b08a067738e305da7c296d54577b2a5c03ecbe40cbb741610837dd7b0
-- name: marktext-mac-x64-0.19.1.zip.blockmap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-mac-x64-0.19.1.zip.blockmap
-  checksum: e9cbc38d1f3980b28189646aa849ec8eaf7485f7ba8ca572db55183d2e313dde
-- name: marktext-win-arm64-0.19.1-setup.exe
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-arm64-0.19.1-setup.exe
-  checksum: f3df6115baab13478ce605db76bf4f676fdd305416f0048aa69acb1bc8e5700a
-- name: marktext-win-arm64-0.19.1-setup.exe.blockmap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-arm64-0.19.1-setup.exe.blockmap
-  checksum: a895359835692210d1441f1fb71781838ebf82ae09524b7aae31c80ca8c3a577
-- name: marktext-win-arm64-0.19.1.zip
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-arm64-0.19.1.zip
-  checksum: b37528e150929d5817a225a15b3c57d01b652766c77e43430bc17bccb70ab453
-- name: marktext-win-x64-0.19.1-setup.exe
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-x64-0.19.1-setup.exe
-  checksum: 0de6c0aa854728f3e5c21d74b4138f0a515d70cd80921eb3aed6b8e975838a2f
-- name: marktext-win-x64-0.19.1-setup.exe.blockmap
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-x64-0.19.1-setup.exe.blockmap
-  checksum: 877fb33bbc4ea5ea1a57b0b7b55f85eacc940bc3a456b90e8ca8757c993c47e6
-- name: marktext-win-x64-0.19.1.zip
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-x64-0.19.1.zip
-  checksum: 51110b1e1fa09badb0cbc1705f9c8f0a383d28d25f7fb5feab5b52dc261ed046
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/latest.yml
+  checksum: 28cd5790754e67bfdb807f1197750941d4858334793c7fb8b6f525a3b88858fa
+- name: marktext-linux-0.20.0.AppImage
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-linux-0.20.0.AppImage
+  checksum: 970c332822d217dad1667fab45f7c2e22ae0265c17cf9120138eebb3dc98622e
+- name: marktext-linux-0.20.0.deb
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-linux-0.20.0.deb
+  checksum: 2ec37fcc8598c8796dc2fedfc69bc46b2d6b68f12106d8b2d334e095fc2b20cf
+- name: marktext-linux-0.20.0.rpm
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-linux-0.20.0.rpm
+  checksum: 791a33a7d9c445c66bc5ab47e1e6710a9ab2694507b33b962739416b57688b13
+- name: marktext-linux-0.20.0.snap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-linux-0.20.0.snap
+  checksum: d79d94433149c564041aeecab2beb7282922c64975cc1cadf65ab74b145830a3
+- name: marktext-linux-0.20.0.tar.gz
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-linux-0.20.0.tar.gz
+  checksum: 1eb1c4926c2e4c57ef5f91697d3be662f036ba6181e6a78210be4dda121278f5
+- name: marktext-mac-arm64-0.20.0.dmg
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-arm64-0.20.0.dmg
+  checksum: c9580e5541ad4efd92c013ec48bb277905773c70f041b14aadbad62d7321b9a3
+- name: marktext-mac-arm64-0.20.0.dmg.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-arm64-0.20.0.dmg.blockmap
+  checksum: 5451a167737b29f0de2a59da552d41d8fb48205e98e858796f4182a416b9125b
+- name: marktext-mac-arm64-0.20.0.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-arm64-0.20.0.zip
+  checksum: c8381ea14b66ea0eb28e80562a040a3b01b121878aae6776d0aa62eccec58a64
+- name: marktext-mac-arm64-0.20.0.zip.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-arm64-0.20.0.zip.blockmap
+  checksum: 883334db5ce2dd4c5590ccd29ae44e47d0ed37732c57f2181a551834c1b5504b
+- name: marktext-mac-x64-0.20.0.dmg
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-x64-0.20.0.dmg
+  checksum: f54dd6e0bc53d8d6e5b0c741ed0f6fdb8f270dca2cb13a6865c1ea8cdfda7a91
+- name: marktext-mac-x64-0.20.0.dmg.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-x64-0.20.0.dmg.blockmap
+  checksum: 840f7a0a6b95af384c6ccde2a41ea3c30be66d6cd3a20c0053816b3e517e6907
+- name: marktext-mac-x64-0.20.0.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-x64-0.20.0.zip
+  checksum: b77504260c35da607dc7ebffe6f98405f2286707d20d2a74c48f23148126a866
+- name: marktext-mac-x64-0.20.0.zip.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-mac-x64-0.20.0.zip.blockmap
+  checksum: 4f29aa51bd85e287db5a4b2c4f81140d59056c8f75a1bf3db8a7dcc3ebcd5489
+- name: marktext-win-arm64-0.20.0-setup.exe
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-arm64-0.20.0-setup.exe
+  checksum: 58356c635de5c0f2a5a115f69c24b9c1e5e8a613dc1054d614fecf9eebc23689
+- name: marktext-win-arm64-0.20.0-setup.exe.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-arm64-0.20.0-setup.exe.blockmap
+  checksum: 4e787734b22551a1dff41679edc7a28a1537b8c8a792df940ab1efdf17eb20fe
+- name: marktext-win-arm64-0.20.0.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-arm64-0.20.0.zip
+  checksum: 06b8435f8b05f3ce9bb6085be70bd26698b43c04f1cfa5786277458757098a08
+- name: marktext-win-x64-0.20.0-setup.exe
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-x64-0.20.0-setup.exe
+  checksum: 4c825f40d1222a3d9dc3acf397ccdf7464d9cb9d89759ee42ba7e0b7354ace4f
+- name: marktext-win-x64-0.20.0-setup.exe.blockmap
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-x64-0.20.0-setup.exe.blockmap
+  checksum: ddf4cc780e22c72563d21499b6c0b705f6a0c3adc321caa7e196bea71953b9ed
+- name: marktext-win-x64-0.20.0.zip
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-x64-0.20.0.zip
+  checksum: fa6103a0076ec2c91ff519d3a19e64ae6be3a8ecb1b94c241021f38699676746
 - name: SHA256SUMS.txt
-  url: https://github.com/marktext/marktext/releases/download/v0.19.1/SHA256SUMS.txt
+  url: https://github.com/marktext/marktext/releases/download/v0.20.0/SHA256SUMS.txt
 electron: 42.1.0
 method: src-pnpm-lock
 aur:
@@ -98,13 +98,12 @@ packages:
   os: macos
   arch: arm64
 name: MarkText
-electron_src: https://github.com/marktext/marktext/archive/refs/tags/v0.19.1.zip
+electron_src: https://github.com/marktext/marktext/archive/refs/tags/v0.20.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Amarktext%2Fmarktext+path%3Apnpm-lock.yaml+electron&type=code
-  found_in: pnpm-lock.yaml
+  found_in: marktext-0.20.0/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  reconstructed: true
+  source: https://github.com/marktext/marktext/archive/refs/tags/v0.20.0.zip
 homepage: true
 aur_votes: 10
 last_commit: '2026-10-02'

@@ -18,3 +18,5 @@ evidence:
   source: https://downloads.goabstract.com/mac/Abstract-98.6.3.zip
   found_in: app.asar (packed package.json)
   signal: electron version read from a package.json packed inside the app's asar archive
+homebrew_disabled: true
+homebrew_disable_reason: no_longer_available

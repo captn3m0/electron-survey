@@ -34,7 +34,7 @@ evidence:
   source: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-3.10.1.AppImage
   found_in: OONI-Probe-3.10.1.AppImage
   signal: which-electron rg signal
-last_commit: '2026-04-27'
+last_commit: '2026-10-02'
 aur_downloads:
 - url: https://github.com/ooni/probe-desktop/releases/download/v3.10.1/OONI-Probe-3.10.1.AppImage
   name: OONI-Probe-3.10.1.AppImage

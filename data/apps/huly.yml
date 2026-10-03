@@ -19,3 +19,5 @@ evidence:
   source: https://dist.huly.io/Huly-macos-0.7.426-arm64.zip
   found_in: Huly-macos-0.7.426-arm64.zip
   signal: which-electron rg signal
+homebrew_disabled: true
+homebrew_disable_reason: no_longer_available

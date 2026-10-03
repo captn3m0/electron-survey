@@ -67,7 +67,7 @@ downloads:
   checksum: 451d9874154852c913fbf03fbf23bd15aa17929665c53125ba5863e2e4fadd00
 - name: SHA256SUMS.txt
   url: https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.5/SHA256SUMS.txt
-last_commit: '2026-09-29'
+last_commit: '2026-10-02'
 evidence:
   kind: binary
   source: https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.AppImage
