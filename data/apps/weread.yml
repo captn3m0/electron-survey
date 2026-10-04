@@ -41,7 +41,7 @@ evidence:
   source: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.0.4/WeRead-1.0.4.AppImage
   found_in: WeRead-1.0.4.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-29'
+last_commit: '2026-10-03'
 aur_downloads:
 - url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.0.4/weread_1.0.4_amd64.deb
   name: weread_1.0.4_amd64.deb
