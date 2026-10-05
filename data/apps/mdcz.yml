@@ -6,26 +6,30 @@ aur:
 - mdcz-desktop
 electron: 39.8.9
 method: which-electron-rg
-latest: v0.16.0
-src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.16.0.zip
+latest: v0.17.0
+src: https://github.com/ShotHeadman/mdcz/archive/refs/tags/v0.17.0.zip
 downloads:
-- name: MDCz-0.16.0-arm64.dmg
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/MDCz-0.16.0-arm64.dmg
-- name: MDCz-0.16.0.AppImage
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/MDCz-0.16.0.AppImage
-- name: MDCz-0.16.0.dmg
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/MDCz-0.16.0.dmg
-- name: mdcz-0.16.0.tar.gz
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/mdcz-0.16.0.tar.gz
-- name: MDCz.0.16.0.exe
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/MDCz.0.16.0.exe
-- name: MDCz.Setup.0.16.0.exe
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/MDCz.Setup.0.16.0.exe
+- name: latest-linux.yml
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/latest-linux.yml
+- name: latest.yml
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/latest.yml
+- name: MDCz-0.17.0-linux-x86_64.AppImage
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/MDCz-0.17.0-linux-x86_64.AppImage
+- name: MDCz-0.17.0-mac-arm64.dmg
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/MDCz-0.17.0-mac-arm64.dmg
+- name: MDCz-0.17.0-win-x64-portable.zip
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/MDCz-0.17.0-win-x64-portable.zip
+- name: MDCz-0.17.0-win-x64-setup.exe
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/MDCz-0.17.0-win-x64-setup.exe
+- name: MDCz-0.17.0-win-x64-setup.exe.blockmap
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/MDCz-0.17.0-win-x64-setup.exe.blockmap
+- name: mdcz-0.17.0.tar.gz
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/mdcz-0.17.0.tar.gz
 - name: SHA256SUMS.txt
-  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.16.0/SHA256SUMS.txt
+  url: https://github.com/ShotHeadman/mdcz/releases/download/v0.17.0/SHA256SUMS.txt
 evidence:
   kind: binary
   source: https://github.com/ShotHeadman/mdcz/releases/download/v0.11.0/MDCz-0.11.0.AppImage
   found_in: MDCz-0.11.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-03'
+last_commit: '2026-10-04'
