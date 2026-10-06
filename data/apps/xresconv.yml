@@ -6,33 +6,75 @@ aur:
 - xresconv-gui-bin
 electron: 41.1.0
 method: which-electron-rg
-latest: v2.6.0
-src: https://github.com/xresloader/xresconv-gui/archive/refs/tags/v2.6.0.zip
+latest: v3.0.0
+src: https://github.com/xresloader/xresconv-gui/archive/refs/tags/v3.0.0.zip
 downloads:
-- name: xresconv-gui-darwin-arm64.tar.xz
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-darwin-arm64.tar.xz
-- name: xresconv-gui-darwin-universal.tar.xz
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-darwin-universal.tar.xz
-- name: xresconv-gui-darwin-x64.tar.xz
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-darwin-x64.tar.xz
-- name: xresconv-gui-linux-arm64.tar.xz
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-arm64.tar.xz
-- name: xresconv-gui-linux-armv7l.tar.xz
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-armv7l.tar.xz
-- name: xresconv-gui-linux-x64.tar.xz
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-x64.tar.xz
-- name: xresconv-gui-win32-arm64.7z
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-win32-arm64.7z
-- name: xresconv-gui-win32-ia32.7z
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-win32-ia32.7z
-- name: xresconv-gui-win32-x64.7z
-  url: https://github.com/owent/xresconv-gui/releases/download/v2.6.0/xresconv-gui-win32-x64.7z
+- name: xresconv-gui-3.0.0-linux-aarch64-bootstrap.tar.zst
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-aarch64-bootstrap.tar.zst
+  checksum: cd082b126cba7d101fb8a3f0cc0e75f0ea9768ca955a09300e2477e6325d5182
+- name: xresconv-gui-3.0.0-linux-aarch64-bootstrap.tar.zst.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-aarch64-bootstrap.tar.zst.sha256
+- name: xresconv-gui-3.0.0-linux-aarch64-offline.AppImage
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-aarch64-offline.AppImage
+  checksum: c33cf37a434f2150dffbfed3bd12aa20afbabe825b3edd6f1ea482c64b0958ac
+- name: xresconv-gui-3.0.0-linux-aarch64-offline.AppImage.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-aarch64-offline.AppImage.sha256
+- name: xresconv-gui-3.0.0-linux-aarch64-offline.tar.zst
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-aarch64-offline.tar.zst
+  checksum: d0cdd7ab0934a82e6e7e8b3fe362b683d281430028934d44270cc29ec3bd38f9
+- name: xresconv-gui-3.0.0-linux-aarch64-offline.tar.zst.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-aarch64-offline.tar.zst.sha256
+- name: xresconv-gui-3.0.0-linux-x86_64-bootstrap.tar.zst
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-x86_64-bootstrap.tar.zst
+  checksum: 27fbc6968083946416acb642d70f9e1af2a6d4ee6a68031027a01477c9b90b4b
+- name: xresconv-gui-3.0.0-linux-x86_64-bootstrap.tar.zst.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-x86_64-bootstrap.tar.zst.sha256
+- name: xresconv-gui-3.0.0-linux-x86_64-offline.AppImage
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-x86_64-offline.AppImage
+  checksum: a3b66ed49f711cf98b3da30b97851d6b112162c210a041954e65a774031d291e
+- name: xresconv-gui-3.0.0-linux-x86_64-offline.AppImage.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-x86_64-offline.AppImage.sha256
+- name: xresconv-gui-3.0.0-linux-x86_64-offline.tar.zst
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-x86_64-offline.tar.zst
+  checksum: a6c5af0ed48f96f339cdbb51d5bb626593d360167f9b226bc5b660f13e0d82a3
+- name: xresconv-gui-3.0.0-linux-x86_64-offline.tar.zst.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-linux-x86_64-offline.tar.zst.sha256
+- name: xresconv-gui-3.0.0-macos-arm64-bootstrap.dmg
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-macos-arm64-bootstrap.dmg
+  checksum: a62c9782a607e22b157fa32ec316b74bf5b9f7f79710326d5cb0bd960919d0fe
+- name: xresconv-gui-3.0.0-macos-arm64-bootstrap.dmg.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-macos-arm64-bootstrap.dmg.sha256
+- name: xresconv-gui-3.0.0-macos-x64-bootstrap.dmg
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-macos-x64-bootstrap.dmg
+  checksum: 24e2ba300161dc6c6f729910d1be3b9d51c18d72e4da19f1038296df2467f631
+- name: xresconv-gui-3.0.0-macos-x64-bootstrap.dmg.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-macos-x64-bootstrap.dmg.sha256
+- name: xresconv-gui-3.0.0-windows-arm64-bootstrap.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-arm64-bootstrap.7z
+  checksum: 8783fcef3433b347d87efd924252fa73ff429385c3d40e656ddccde92a07d59c
+- name: xresconv-gui-3.0.0-windows-arm64-bootstrap.7z.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-arm64-bootstrap.7z.sha256
+- name: xresconv-gui-3.0.0-windows-arm64-offline.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-arm64-offline.7z
+  checksum: eda0ebcc72c98b3d6b54e2feb11330cbc2fb3b733ffc2d96bfb30ec5e92a4ccd
+- name: xresconv-gui-3.0.0-windows-arm64-offline.7z.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-arm64-offline.7z.sha256
+- name: xresconv-gui-3.0.0-windows-x64-bootstrap.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-x64-bootstrap.7z
+  checksum: fd256760c87ce9ae20c089caa621233770a4b68fe093fc795b2c55f3a11345ce
+- name: xresconv-gui-3.0.0-windows-x64-bootstrap.7z.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-x64-bootstrap.7z.sha256
+- name: xresconv-gui-3.0.0-windows-x64-offline.7z
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-x64-offline.7z
+  checksum: 14a7f725801fda513254c85f3f8c5c4edeba485fdd7a6379210a6c68dba61a12
+- name: xresconv-gui-3.0.0-windows-x64-offline.7z.sha256
+  url: https://github.com/owent/xresconv-gui/releases/download/v3.0.0/xresconv-gui-3.0.0-windows-x64-offline.7z.sha256
 evidence:
   kind: binary
   source: https://github.com/xresloader/xresconv-gui/releases/download/v2.6.0/xresconv-gui-linux-arm64.tar.xz
   found_in: xresconv-gui-linux-arm64.tar.xz
   signal: which-electron rg signal
-last_commit: '2026-10-04'
+last_commit: '2026-10-05'
 aur_downloads:
 - url: https://raw.githubusercontent.com/xresloader/xresconv-gui/v2.6.0/doc/logo.png
   name: logo.png

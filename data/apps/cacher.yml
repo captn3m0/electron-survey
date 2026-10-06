@@ -15,7 +15,7 @@ packages:
 name: Cacher
 electron: 17.2.0
 method: which-electron-rg
-brew_installs: 10
+brew_installs: 100
 evidence:
   kind: binary
   source: https://cacher-download.nyc3.digitaloceanspaces.com/Cacher-2.47.9-universal-mac.zip

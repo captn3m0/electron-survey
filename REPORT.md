@@ -1183,7 +1183,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Poddycast](https://github.com/MrChuckomo/poddycast) [[repo]](https://github.com/MrChuckomo/poddycast) | 35.7.5 ⚠️ | 1y 1mo ago | src-package-lock |
 | [Podman](https://podman-desktop.io/) | 42.3.3 ⚠️ | 4mo ago | which-electron-rg |
 | [Poe](https://poe.com/) | 37.2.4 ⚠️ | 1y 2mo ago | which-electron-rg |
-| [Polar](https://lightningpolar.com/) | 13.6.3 ⚠️ | 4y 10mo ago | which-electron-rg |
+| [Polar](https://lightningpolar.com/) | 13.6.3 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [Polybase](https://github.com/Jgrtowy/PolyBase) [[repo]](https://github.com/Jgrtowy/PolyBase) | 28.3.3 ⚠️ | 2y 4mo ago | aur-depends |
 | [Polyglot](https://github.com/liou666/polyglot) [[repo]](https://github.com/liou666/polyglot) | 23.1.3 ⚠️ | 3y 7mo ago | which-electron-rg |
 | [Polyglot AI](https://polyglotai.xyz/) | 23.1.3 ⚠️ | 3y 7mo ago | which-electron-rg |
@@ -1258,7 +1258,7 @@ Apps with detected Electron version: 1814 / 2090
 | [RIDE](https://github.com/Dyalog/ride) [[repo]](https://github.com/Dyalog/ride) | 34.5.5 ⚠️ | 1y 5mo ago | src-package-lock |
 | [Rainbow Board](https://harshkhandeparkar.github.io/rainbow-board) [[repo]](https://github.com/HarshKhandeparkar/rainbow-board) | 12.2.2 ⚠️ | 5y ago | src-yarn-lock |
 | [Raj Browser](https://github.com/Rajaniraiyn/raj-browser) [[repo]](https://github.com/Rajaniraiyn/raj-browser) | 21.2.0 ⚠️ | 4y ago | which-electron-rg |
-| [Rambox](https://rambox.app/) [[repo]](https://github.com/saenzramiro/rambox) | 13.6.3 ⚠️ | 4y 10mo ago |  |
+| [Rambox](https://rambox.app/) [[repo]](https://github.com/saenzramiro/rambox) | 13.6.3 ⚠️ | 4y 11mo ago |  |
 | [Random Browser](https://github.com/YisusGaming/random-browser) [[repo]](https://github.com/YisusGaming/random-browser) | 22.0.0 ⚠️ | 3y 10mo ago | which-electron-rg |
 | [Rao Pics](https://rao.pics/) | 20.3.12 ⚠️ | 3y 8mo ago | aur-depends |
 | Raven Reader [[repo]](https://github.com/hello-efficiency-inc/raven-reader) | 19.1.2 ⚠️ | 4y ago | src-yarn-lock |

@@ -4,47 +4,47 @@ website: https://github.com/Waffleslop/POTACAT
 repository: https://github.com/Waffleslop/POTACAT
 aur:
 - potacat
-latest: v1.11.3
-src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.11.3.zip
+latest: v1.11.4
+src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.11.4.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/latest-linux-arm64.yml
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/latest-linux.yml
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/latest-mac.yml
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/latest.yml
-- name: POTACAT-1.11.3-arm64-mac.zip
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-1.11.3-arm64-mac.zip
-- name: POTACAT-1.11.3-arm64.AppImage
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-1.11.3-arm64.AppImage
-- name: POTACAT-1.11.3-arm64.dmg
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-1.11.3-arm64.dmg
-- name: POTACAT-1.11.3-mac.zip
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-1.11.3-mac.zip
-- name: potacat-1.11.3.aarch64.rpm
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/potacat-1.11.3.aarch64.rpm
-- name: POTACAT-1.11.3.AppImage
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-1.11.3.AppImage
-- name: POTACAT-1.11.3.dmg
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-1.11.3.dmg
-- name: potacat-1.11.3.x86_64.rpm
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/potacat-1.11.3.x86_64.rpm
-- name: POTACAT-Portable-1.11.3.exe
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-Portable-1.11.3.exe
-- name: POTACAT-Setup-1.11.3.exe
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/POTACAT-Setup-1.11.3.exe
-- name: potacat_1.11.3_amd64.deb
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/potacat_1.11.3_amd64.deb
-- name: potacat_1.11.3_arm64.deb
-  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.3/potacat_1.11.3_arm64.deb
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/latest.yml
+- name: POTACAT-1.11.4-arm64-mac.zip
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-1.11.4-arm64-mac.zip
+- name: POTACAT-1.11.4-arm64.AppImage
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-1.11.4-arm64.AppImage
+- name: POTACAT-1.11.4-arm64.dmg
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-1.11.4-arm64.dmg
+- name: POTACAT-1.11.4-mac.zip
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-1.11.4-mac.zip
+- name: potacat-1.11.4.aarch64.rpm
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/potacat-1.11.4.aarch64.rpm
+- name: POTACAT-1.11.4.AppImage
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-1.11.4.AppImage
+- name: POTACAT-1.11.4.dmg
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-1.11.4.dmg
+- name: potacat-1.11.4.x86_64.rpm
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/potacat-1.11.4.x86_64.rpm
+- name: POTACAT-Portable-1.11.4.exe
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-Portable-1.11.4.exe
+- name: POTACAT-Setup-1.11.4.exe
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/POTACAT-Setup-1.11.4.exe
+- name: potacat_1.11.4_amd64.deb
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/potacat_1.11.4_amd64.deb
+- name: potacat_1.11.4_arm64.deb
+  url: https://github.com/Waffleslop/POTACAT/releases/download/v1.11.4/potacat_1.11.4_arm64.deb
 electron: 39.8.3
 method: src-package-lock
-electron_src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.11.3.zip
+electron_src: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.11.4.zip
 evidence:
   kind: lockfile
-  found_in: POTACAT-1.11.3/package-lock.json
+  found_in: POTACAT-1.11.4/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.11.3.zip
-last_commit: '2026-10-05'
+  source: https://github.com/Waffleslop/POTACAT/archive/refs/tags/v1.11.4.zip
+last_commit: '2026-10-06'
