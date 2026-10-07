@@ -6,15 +6,26 @@ aur:
 repository: https://github.com/bambanah/deemix
 additionalAUR:
 - deemix-gui-git
-latest: deemix-webui@4.7.0
-src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.0.zip
+latest: deemix-gui@0.5.1
+src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
 electron: 37.2.6
 method: src-pnpm-lock
-electron_src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.0.zip
+electron_src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
 evidence:
   kind: lockfile
-  found_in: deemix-deemix-webui-4.7.0/pnpm-lock.yaml
+  found_in: deemix-deemix-gui-0.5.1/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.0.zip
+  source: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
 aur_votes: 1
-last_commit: '2026-10-05'
+last_commit: '2026-10-06'
+downloads:
+- name: Deemix-0.5.1.Setup.exe
+  url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/Deemix-0.5.1.Setup.exe
+- name: Deemix-darwin-arm64-0.5.1.zip
+  url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/Deemix-darwin-arm64-0.5.1.zip
+- name: Deemix-linux-x64-0.5.1.zip
+  url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/Deemix-linux-x64-0.5.1.zip
+- name: Deemix-win32-x64-0.5.1.zip
+  url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/Deemix-win32-x64-0.5.1.zip
+- name: deemix_0.5.1_amd64.deb
+  url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/deemix_0.5.1_amd64.deb

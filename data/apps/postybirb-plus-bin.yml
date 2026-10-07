@@ -39,4 +39,4 @@ evidence:
   found_in: postybirb-plus-3.1.73-x86_64.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-09-18'
+last_commit: '2026-10-06'
