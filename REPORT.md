@@ -270,7 +270,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Cmc Mod Manager](https://inferno214221.com/cmc-mod-manager) | 30.0.0 ⚠️ | 2y 6mo ago | which-electron-rg |
 | [Coal Launcher](https://bobuxstation.github.io/Coal-Web/launcher.html) | 22.3.27 ⚠️ | 3y ago | which-electron-rg |
 | [Cocomusic](https://github.com/xtuJSer/CoCoMusic) [[repo]](https://github.com/xtuJSer/CoCoMusic) | 4.2.12 ⚠️ | 7y ago | aur-depends |
-| [Code](https://github.com/microsoft/vscode) [[repo]](https://github.com/microsoft/vscode) | 42.9.3 ⚠️ | 1mo ago | src-package-lock |
+| [Code](https://github.com/microsoft/vscode) [[repo]](https://github.com/microsoft/vscode) | 42.10.0 ⚠️ | 1mo ago | src-package-lock |
 | [Code Notes](https://lauthieb.github.io/code-notes) | 8.2.5 ⚠️ | 6y 6mo ago | which-electron-fingerprint |
 | [CodeBuddy](https://www.codebuddy.ai/ide/) | 37.7.0 ⚠️ | 11mo ago | which-electron-rg |
 | [CodeBuddy CN](https://copilot.tencent.com/ide/) | 37.7.0 ⚠️ | 11mo ago | which-electron-rg |
@@ -807,7 +807,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Laravel Kit](https://tmdh.github.io/laravel-kit) [[repo]](https://github.com/tmdh/laravel-kit) | 33.0.0 ⚠️ | 2y ago | src-yarn-lock |
 | [Last Hit](https://last-hit.com) [[repo]](https://github.com/last-hit-aab/last-hit) | 7.1.1 ⚠️ | 7y ago | src-yarn-lock |
 | [Lax](https://github.com/brandly/Lax) | 8.2.4 ⚠️ | 6y 6mo ago | src-package-lock |
-| [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 44.6.0 ⚠️ | 1d ago | src-package-lock |
+| [LeafView](https://github.com/sprout2000/leafview) [[repo]](https://github.com/sprout2000/leafview) | 44.7.0 | 0d ago | src-package-lock |
 | [Leanote](https://github.com/leanote/desktop-app) [[repo]](https://github.com/leanote/desktop-app) | 12.0.2 ⚠️ | 5y 7mo ago | which-electron-rg |
 | [Learnx Companion](https://github.com/robertying/learnX-companion) [[repo]](https://github.com/robertying/learnX-companion) | 27.0.1 ⚠️ | 3y ago | which-electron-rg |
 | [Leavepad](https://github.com/kaishuu0123/leavepad) [[repo]](https://github.com/kaishuu0123/leavepad) | 43.2.0 ⚠️ | 2mo ago | which-electron-rg |
@@ -969,7 +969,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Mqtt5 Explorer](https://github.com/Omniaevo/mqtt5-explorer) [[repo]](https://github.com/Omniaevo/mqtt5-explorer) | 28.1.0 ⚠️ | 2y 10mo ago | which-electron-rg |
 | [Ms 365](https://agam778.github.io/MS-365-Electron) | 30.5.1 ⚠️ | 2y 1mo ago | aur-depends |
 | [Mterm](https://mterm.io/) | 28.3.3 ⚠️ | 2y 4mo ago | aur-depends |
-| [Mu Epub Viewer](https://github.com/azu/mu-epub-reader) [[repo]](https://github.com/azu/mu-epub-reader) | 16.0.4 ⚠️ | 4y 10mo ago | which-electron-rg |
+| [Mu Epub Viewer](https://github.com/azu/mu-epub-reader) [[repo]](https://github.com/azu/mu-epub-reader) | 16.0.4 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [Mubu](https://mubu.com) [[repo]](https://github.com/kudoxu/mubu) | 13.1.7 ⚠️ | 5y 3mo ago | src-package-lock |
 | [Mudita Center](https://mudita.com/products/pure/) | 40.8.0 ⚠️ | 7mo ago | which-electron-rg |
 | [Muffon](https://muffon.netlify.app/) [[repo]](https://github.com/staniel359/muffon) | 39.2.7 ⚠️ | 9mo ago | which-electron-rg |
@@ -1358,7 +1358,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Shuttle](https://github.com/ShuttleBrowser/Shuttle) [[repo]](https://github.com/ShuttleBrowser/Shuttle) | 4.0.1 ⚠️ | 7y 10mo ago | src-package-lock |
 | [Shutu Client](https://shutu.cn) | 21.2.0 ⚠️ | 4y ago | which-electron-rg |
 | [SiYuan](https://b3log.org/siyuan/) [[repo]](https://github.com/siyuan-note/siyuan) | 42.6.1 ⚠️ | 3mo ago | which-electron-rg |
-| [Signal](https://signal.org) [[repo]](https://github.com/signalapp/Signal-Desktop) | 44.2.0 ⚠️ | 1mo ago | src-package-json |
+| [Signal](https://signal.org) [[repo]](https://github.com/signalapp/Signal-Desktop) | 44.4.5 ⚠️ | 14d ago | src-package-json |
 | [Siki](https://sikiapp.net) | 38.8.6 ⚠️ | 7mo ago | aur-depends |
 | [Silence Speedup](https://vincenzopadula.altervista.org/silence-speedup/) | 34.5.4 ⚠️ | 1y 5mo ago | which-electron-rg |
 | [Silex website builder](https://www.silex.me/) [[repo]](https://github.com/silexlabs/silex-desktop/) | 10.1.5 ⚠️ | 6y ago | src-package-lock |
@@ -1448,7 +1448,7 @@ Apps with detected Electron version: 1814 / 2090
 | [Stockholm Trekkers Playlist Maker](https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker) [[repo]](https://github.com/viggoStrom/Stockholm-Trekkers-Playlist-Maker) | 37.10.3 ⚠️ | 10mo ago | aur-depends |
 | [Stockifier](https://github.com/jainsamyak/Stockifier) [[repo]](https://github.com/jainsamyak/Stockifier) | 4.1.4 ⚠️ | 7y 7mo ago | src-package-lock |
 | [StopLight](https://stoplight.io) | 27.0.3 ⚠️ | 2y 11mo ago | which-electron-rg |
-| [Stopawu](https://github.com/tariibaba/stopawu#readme) [[repo]](https://github.com/tariibaba/stopawu) | 16.0.4 ⚠️ | 4y 10mo ago | src-yarn-lock |
+| [Stopawu](https://github.com/tariibaba/stopawu#readme) [[repo]](https://github.com/tariibaba/stopawu) | 16.0.4 ⚠️ | 4y 11mo ago | src-yarn-lock |
 | [Streaker](https://github.com/jamieweavis/streaker) [[repo]](https://github.com/jamieweavis/streaker) | 35.0.1 ⚠️ | 1y 7mo ago | which-electron-rg |
 | [StreamBop](https://snaildos.com/streambop) [[repo]](https://github.com/snaildos/StreamBop) | 25.2.0 ⚠️ | 3y 4mo ago |  |
 | [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) [[repo]](https://github.com/stream-labs/streamlabs-obs) | 29.3.1 ⚠️ | 2y 6mo ago | src-yarn-lock |

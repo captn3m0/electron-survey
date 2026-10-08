@@ -11,7 +11,7 @@ evidence:
   source: https://github.com/Dotneteer/kliveide/releases/download/v0.57.0/KliveIdeSetup-0.57.0-arm64.AppImage
   found_in: KliveIdeSetup-0.57.0-arm64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-06'
+last_commit: '2026-10-07'
 src: https://github.com/Dotneteer/kliveide/archive/refs/tags/v0.63.0.zip
 aur_downloads:
 - url: https://raw.githubusercontent.com/Dotneteer/kliveide/v0.57.0/LICENSE
@@ -34,9 +34,9 @@ downloads:
   url: https://github.com/Dotneteer/kliveide/releases/download/v0.63.0/KliveIdeSetup-0.63.0-arm64.AppImage
 - name: KliveIdeSetup-0.63.0-arm64.pkg
   url: https://github.com/Dotneteer/kliveide/releases/download/v0.63.0/KliveIdeSetup-0.63.0-arm64.pkg
+- name: KliveIdeSetup-0.63.0-x64.exe
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.63.0/KliveIdeSetup-0.63.0-x64.exe
 - name: KliveIdeSetup-0.63.0-x64.pkg
   url: https://github.com/Dotneteer/kliveide/releases/download/v0.63.0/KliveIdeSetup-0.63.0-x64.pkg
 - name: KliveIdeSetup-0.63.0-x86_64.AppImage
   url: https://github.com/Dotneteer/kliveide/releases/download/v0.63.0/KliveIdeSetup-0.63.0-x86_64.AppImage
-- name: portable-kit-winx64.zip
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.63.0/portable-kit-winx64.zip

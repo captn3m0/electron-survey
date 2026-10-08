@@ -61,6 +61,10 @@ downloads:
   url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.3.2/solidtime-x64.tar.gz
 - name: solidtime-x86_64.rpm
   url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.3.2/solidtime-x86_64.rpm
+- url: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.3.2/solidtime-arm64.dmg
+  name: solidtime-arm64.dmg
+  source: homebrew
+  version: 0.3.2
 evidence:
   kind: binary
   source: https://github.com/solidtime-io/solidtime-desktop/releases/download/v0.2.7/solidtime-aarch64.rpm
@@ -77,3 +81,5 @@ aur_downloads:
   name: solidtime-x86_64.rpm
   arch: x86_64
   source: aur-bin
+homebrew: solidtime
+brew_installs: 1
