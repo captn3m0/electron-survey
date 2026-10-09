@@ -4,27 +4,28 @@ website: https://github.com/chicohaager/zima-linux-client
 repository: https://github.com/chicohaager/zima-linux-client
 aur:
 - zima-linux-client
-latest: v2.0.2
-src: https://github.com/chicohaager/zima-linux-client/archive/refs/tags/v2.0.2.zip
+latest: v2.0.3
+src: https://github.com/chicohaager/zima-linux-client/archive/refs/tags/v2.0.3.zip
 downloads:
 - name: install.sh
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/install.sh
-- name: SHA256SUMS-2.0.2.txt
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/SHA256SUMS-2.0.2.txt
-- name: zima-linux-client-2.0.2.pacman
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/zima-linux-client-2.0.2.pacman
-  checksum: 7e968da667e00213d2043a4250ba6f2a291a90e711bf78a515695b74828b125e
-- name: zima-linux-client-2.0.2.tar.gz
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/zima-linux-client-2.0.2.tar.gz
-  checksum: fea191f6590503204303ce4cebd579b9f06ccd1358028a3228319a78740625e3
-- name: zima-linux-client-2.0.2.x86_64.rpm
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/zima-linux-client-2.0.2.x86_64.rpm
-  checksum: 8b37bd8a3aa4ff7cc95dbf3dc0d8820a3ae986e4ac75d98bcce1664894f57c96
-- name: zima-linux-client_2.0.2_amd64.deb
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/zima-linux-client_2.0.2_amd64.deb
-  checksum: d7ff307e72046edea45e116c0db6dbcb489c7e4d1181cba7034103acafcccce6
-- name: ZimaOS.Client-2.0.2.AppImage
-  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.2/ZimaOS.Client-2.0.2.AppImage
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/install.sh
+- name: SHA256SUMS-2.0.3.txt
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/SHA256SUMS-2.0.3.txt
+- name: zima-linux-client-2.0.3.pacman
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/zima-linux-client-2.0.3.pacman
+  checksum: 5d844f0d0f78f9389e805085b03348c831b9d029c21a78f6692fe8ae3ecc0120
+- name: zima-linux-client-2.0.3.tar.gz
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/zima-linux-client-2.0.3.tar.gz
+  checksum: f11e1072912b2327056493592a51feeacdff89df25b18b91a419aba22c8d5884
+- name: zima-linux-client-2.0.3.x86_64.rpm
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/zima-linux-client-2.0.3.x86_64.rpm
+  checksum: a0a1090dafd350fdff350d18ff5e7a8e475a95c7eeee28fa228a6ff102af08fe
+- name: zima-linux-client_2.0.3_amd64.deb
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/zima-linux-client_2.0.3_amd64.deb
+  checksum: 1393016ce632ff9fd6b611e2d7ed87f6f2ecb160beab0feb93e49858423fb707
+- name: ZimaOS.Client-2.0.3.AppImage
+  url: https://github.com/chicohaager/zima-linux-client/releases/download/v2.0.3/ZimaOS.Client-2.0.3.AppImage
+  checksum: 179b816b0957a121c74e15e9e962656e5488db993b556bf8d1759dbbb7665818
 electron: 28.3.3
 method: which-electron-rg
 electron_src: https://github.com/chicohaager/zima-linux-client/archive/refs/tags/v0.9.23.zip
@@ -33,4 +34,4 @@ evidence:
   source: https://github.com/chicohaager/zima-linux-client/releases/download/v0.9.23/ZimaOS.Client-0.9.23.AppImage
   found_in: ZimaOS.Client-0.9.23.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-07'
+last_commit: '2026-10-08'

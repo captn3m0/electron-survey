@@ -6,23 +6,23 @@ aur:
 - animu-bin
 electron: 42.3.3
 method: which-electron-rg
-latest: v0.7.16
-src: https://github.com/Owca525/animu/archive/refs/tags/v0.7.16.zip
+latest: v0.8.0
+src: https://github.com/Owca525/animu/archive/refs/tags/v0.8.0.zip
 downloads:
-- name: animu-0.7.16-linux.zip
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16-linux.zip
-- name: animu-0.7.16-setup.exe
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16-setup.exe
-- name: animu-0.7.16-win.zip
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16-win.zip
-- name: animu-0.7.16.AppImage
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.AppImage
-- name: animu-0.7.16.deb
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.deb
+- name: animu-0.8.0-linux.rpm
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/animu-0.8.0-linux.rpm
+- name: animu-0.8.0-setup.exe
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/animu-0.8.0-setup.exe
+- name: animu-0.8.0-setup.exe.blockmap
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/animu-0.8.0-setup.exe.blockmap
+- name: animu-0.8.0.AppImage
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/animu-0.8.0.AppImage
+- name: animu-0.8.0.deb
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/animu-0.8.0.deb
 - name: latest-linux.yml
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/latest-linux.yml
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/Owca525/animu/releases/download/v0.7.16/latest.yml
+  url: https://github.com/Owca525/animu/releases/download/v0.8.0/latest.yml
 we_tried: we0:v0.7.16
 evidence:
   kind: binary
@@ -30,7 +30,7 @@ evidence:
   found_in: animu-0.7.16.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-10-07'
+last_commit: '2026-10-08'
 aur_downloads:
 - url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.deb
   name: animu-0.7.16.deb

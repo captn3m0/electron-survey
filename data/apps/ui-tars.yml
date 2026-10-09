@@ -11,8 +11,8 @@ packages:
   arch: arm64
 electron: 34.1.1
 method: which-electron-rg
-latest: v0.3.0
-src: https://github.com/bytedance/UI-TARS-desktop/archive/refs/tags/v0.3.0.zip
+latest: v0.3.1
+src: https://github.com/bytedance/UI-TARS-desktop/archive/refs/tags/v0.3.1.zip
 homebrew: ui-tars
 downloads:
 - url: https://github.com/bytedance/UI-TARS-desktop/releases/download/v0.2.4/UI-TARS-0.2.4-arm64.dmg
@@ -24,4 +24,4 @@ evidence:
   found_in: UI-TARS-0.2.4-arm64.dmg
   signal: which-electron rg signal
 brew_installs: 1000
-last_commit: '2026-10-08'
+last_commit: '2026-10-09'

@@ -8,38 +8,38 @@ additionalAUR:
 - handbook-git
 electron: 43.0.0
 method: which-electron-rg
-latest: 1.6.0
-src: https://github.com/ECRomaneli/Handbook/archive/refs/tags/1.6.0.zip
+latest: 1.6.1
+src: https://github.com/ECRomaneli/Handbook/archive/refs/tags/1.6.1.zip
 downloads:
-- name: Handbook-1.6.0-darwin-arm64.zip
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/Handbook-1.6.0-darwin-arm64.zip
-- name: Handbook-1.6.0-darwin-arm64.zip.blockmap
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/Handbook-1.6.0-darwin-arm64.zip.blockmap
-- name: Handbook-1.6.0-darwin-x64.zip
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/Handbook-1.6.0-darwin-x64.zip
-- name: Handbook-1.6.0-darwin-x64.zip.blockmap
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/Handbook-1.6.0-darwin-x64.zip.blockmap
-- name: handbook-1.6.0.x86_64.rpm
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/handbook-1.6.0.x86_64.rpm
-- name: Handbook-Setup-1.6.0.exe
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/Handbook-Setup-1.6.0.exe
-- name: Handbook-Setup-1.6.0.exe.blockmap
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/Handbook-Setup-1.6.0.exe.blockmap
-- name: handbook_1.6.0_amd64.deb
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/handbook_1.6.0_amd64.deb
+- name: Handbook-1.6.1-darwin-arm64.zip
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/Handbook-1.6.1-darwin-arm64.zip
+- name: Handbook-1.6.1-darwin-arm64.zip.blockmap
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/Handbook-1.6.1-darwin-arm64.zip.blockmap
+- name: Handbook-1.6.1-darwin-x64.zip
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/Handbook-1.6.1-darwin-x64.zip
+- name: Handbook-1.6.1-darwin-x64.zip.blockmap
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/Handbook-1.6.1-darwin-x64.zip.blockmap
+- name: handbook-1.6.1.x86_64.rpm
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/handbook-1.6.1.x86_64.rpm
+- name: Handbook-Setup-1.6.1.exe
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/Handbook-Setup-1.6.1.exe
+- name: Handbook-Setup-1.6.1.exe.blockmap
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/Handbook-Setup-1.6.1.exe.blockmap
+- name: handbook_1.6.1_amd64.deb
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/handbook_1.6.1_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/latest-linux.yml
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/latest-mac.yml
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.0/latest.yml
+  url: https://github.com/ECRomaneli/Handbook/releases/download/1.6.1/latest.yml
 evidence:
   kind: binary
   source: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/handbook-1.5.0.x86_64.rpm
   found_in: handbook-1.5.0.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-10-04'
+last_commit: '2026-10-08'
 aur_downloads:
 - url: https://github.com/ECRomaneli/Handbook/releases/download/1.5.0/handbook-1.5.0.x86_64.rpm
   name: handbook-1.5.0.x86_64.rpm

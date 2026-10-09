@@ -42,7 +42,7 @@ method: which-electron-rg
 latest: v4.14.1
 src: https://github.com/cpvalente/ontime/archive/refs/tags/v4.14.1.zip
 brew_installs: 10
-last_commit: '2026-10-07'
+last_commit: '2026-10-08'
 evidence:
   kind: binary
   source: https://github.com/cpvalente/ontime/releases/download/v4.10.0/ontime-linux-arm64.AppImage
