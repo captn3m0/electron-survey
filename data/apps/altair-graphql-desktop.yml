@@ -33,42 +33,42 @@ electron: 33.2.1
 method: which-electron-rg
 homebrew: altair-graphql-client
 downloads:
-- name: altair_8.5.9_amd64_linux.deb
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_amd64_linux.deb
-- name: altair_8.5.9_arm64_linux.AppImage
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_arm64_linux.AppImage
-- name: altair_8.5.9_arm64_mac.dmg
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_arm64_mac.dmg
-- name: altair_8.5.9_arm64_mac.dmg.blockmap
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_arm64_mac.dmg.blockmap
-- name: altair_8.5.9_arm64_mac.zip
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_arm64_mac.zip
-- name: altair_8.5.9_arm64_mac.zip.blockmap
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_arm64_mac.zip.blockmap
-- name: altair_8.5.9_x64_mac.dmg
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x64_mac.dmg
-- name: altair_8.5.9_x64_mac.dmg.blockmap
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x64_mac.dmg.blockmap
-- name: altair_8.5.9_x64_mac.zip
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x64_mac.zip
-- name: altair_8.5.9_x64_mac.zip.blockmap
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x64_mac.zip.blockmap
-- name: altair_8.5.9_x64_win.exe
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x64_win.exe
-- name: altair_8.5.9_x64_win.exe.blockmap
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x64_win.exe.blockmap
-- name: altair_8.5.9_x86_64_linux.AppImage
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/altair_8.5.9_x86_64_linux.AppImage
+- name: altair_8.5.11_amd64_linux.deb
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_amd64_linux.deb
+- name: altair_8.5.11_arm64_linux.AppImage
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_arm64_linux.AppImage
+- name: altair_8.5.11_arm64_mac.dmg
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_arm64_mac.dmg
+- name: altair_8.5.11_arm64_mac.dmg.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_arm64_mac.dmg.blockmap
+- name: altair_8.5.11_arm64_mac.zip
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_arm64_mac.zip
+- name: altair_8.5.11_arm64_mac.zip.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_arm64_mac.zip.blockmap
+- name: altair_8.5.11_x64_mac.dmg
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x64_mac.dmg
+- name: altair_8.5.11_x64_mac.dmg.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x64_mac.dmg.blockmap
+- name: altair_8.5.11_x64_mac.zip
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x64_mac.zip
+- name: altair_8.5.11_x64_mac.zip.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x64_mac.zip.blockmap
+- name: altair_8.5.11_x64_win.exe
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x64_win.exe
+- name: altair_8.5.11_x64_win.exe.blockmap
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x64_win.exe.blockmap
+- name: altair_8.5.11_x86_64_linux.AppImage
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/altair_8.5.11_x86_64_linux.AppImage
 - name: latest-linux-arm64.yml
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/latest-linux-arm64.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/latest-linux.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/latest-mac.yml
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/altair-graphql/altair/releases/download/v8.5.9/latest.yml
-latest: v8.5.9
-src: https://github.com/altair-graphql/altair/archive/refs/tags/v8.5.9.zip
+  url: https://github.com/altair-graphql/altair/releases/download/v8.5.11/latest.yml
+latest: v8.5.11
+src: https://github.com/altair-graphql/altair/archive/refs/tags/v8.5.11.zip
 we_tried: we0:v8.5.7
 evidence:
   kind: binary
@@ -77,7 +77,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-10-08'
+last_commit: '2026-10-09'
 aur_downloads:
 - url: https://raw.githubusercontent.com/altair-graphql/altair/v8.5.7/packages/altair-core/LICENSE
   name: LICENSE

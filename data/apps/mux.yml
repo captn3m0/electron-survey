@@ -77,7 +77,7 @@ downloads:
   checksum: ca35d38663a28ceaa546b00a7fa0c2d2add0cfbabe8097977371c740b0d2ab23
 - name: xum-0.31.0-x86_64-linux.AppImage.sha256
   url: https://github.com/coder/xum/releases/download/v0.31.0/xum-0.31.0-x86_64-linux.AppImage.sha256
-last_commit: '2026-10-09'
+last_commit: '2026-10-10'
 electron: 40.9.3
 method: which-electron-rg
 evidence:

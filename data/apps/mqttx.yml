@@ -91,9 +91,15 @@ downloads:
 - name: mqttx-cli-macos-arm64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-macos-arm64
   checksum: daae794581f1122655d79440c744c4325be4ecb22e641bb25ee3988355576ccd
+- name: mqttx-cli-macos-arm64.tar.gz
+  url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-macos-arm64.tar.gz
+  checksum: 2cd732f1a23b7cdc126076dcb86f85960b5967577e2f6f3285c9112914683ca2
 - name: mqttx-cli-macos-x64
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-macos-x64
   checksum: 819541b25b7df6259b7fa0c55827fbc5e04a93d843fc08de5305bace41dfc0d5
+- name: mqttx-cli-macos-x64.tar.gz
+  url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-macos-x64.tar.gz
+  checksum: 83b7662c36c5f83ffc27ba5c9f876bee3b618cd8c3b494d941cc0c3b9c8d1a66
 - name: mqttx-cli-win-arm64.exe
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.1/mqttx-cli-win-arm64.exe
   checksum: 86ff91febc23d181ea9d89d08cbea2f1da3d459aab457a44ef14155bc5916874
@@ -132,7 +138,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-10-09'
+last_commit: '2026-10-10'
 aur_downloads:
 - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.aarch64.rpm
   name: MQTTX-1.13.0.aarch64.rpm

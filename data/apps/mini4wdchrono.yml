@@ -9,6 +9,8 @@ method: which-electron-version_file
 latest: v0.21.0
 src: https://github.com/Pimentoso/mini4wdchrono/archive/refs/tags/v0.21.0.zip
 downloads:
+- name: Mini4wdChrono-mac-x64.zip
+  url: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.21.0/Mini4wdChrono-mac-x64.zip
 - name: Mini4wdChrono-windows-x64.zip
   url: https://github.com/Pimentoso/mini4wdchrono/releases/download/v0.21.0/Mini4wdChrono-windows-x64.zip
 evidence:

@@ -4,3 +4,17 @@ aur:
 - sononym
 name: Sononym
 aur_votes: 1
+homebrew: sononym
+downloads:
+- url: https://www.sononym.net/download/Sononym-1.6.15-arm64.dmg
+  name: Sononym-1.6.15-arm64.dmg
+  source: homebrew
+  version: 1.6.15
+brew_installs: 1
+electron: 20.3.7
+method: which-electron-rg
+evidence:
+  kind: binary
+  source: https://www.sononym.net/download/Sononym-1.6.15-arm64.dmg
+  found_in: Sononym-1.6.15-arm64.dmg
+  signal: which-electron rg signal

@@ -8,15 +8,15 @@ additionalAUR:
 - geforcenow-electron-bin
 electron: 39.8.5
 method: which-electron-rg
-latest: v3.0.3
-src: https://github.com/hmlendea/gfn-electron/archive/refs/tags/v3.0.3.zip
+latest: v3.0.4
+src: https://github.com/hmlendea/gfn-electron/archive/refs/tags/v3.0.4.zip
 downloads:
-- name: geforcenow-electron_3.0.3_linux.AppImage
-  url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.3/geforcenow-electron_3.0.3_linux.AppImage
-- name: geforcenow-electron_3.0.3_linux.zip
-  url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.3/geforcenow-electron_3.0.3_linux.zip
+- name: geforcenow-electron_3.0.4_linux.AppImage
+  url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.4/geforcenow-electron_3.0.4_linux.AppImage
+- name: geforcenow-electron_3.0.4_linux.zip
+  url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.4/geforcenow-electron_3.0.4_linux.zip
 aur_votes: 10
-last_commit: '2026-10-05'
+last_commit: '2026-10-09'
 evidence:
   kind: binary
   source: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.AppImage

@@ -22,41 +22,41 @@ packages:
 homebrew: maestro
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/latest-linux-arm64.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/latest-linux.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/latest-mac.yml
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/latest.yml
-- name: maestro-0.17.8-aarch64.rpm
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-aarch64.rpm
-- name: maestro-0.17.8-amd64.deb
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-amd64.deb
-- name: maestro-0.17.8-arm64-mac.dmg
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-arm64-mac.dmg
-- name: maestro-0.17.8-arm64-mac.zip
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-arm64-mac.zip
-- name: maestro-0.17.8-arm64.AppImage
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-arm64.AppImage
-- name: maestro-0.17.8-arm64.deb
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-arm64.deb
-- name: maestro-0.17.8-x64-mac.dmg
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-x64-mac.dmg
-- name: maestro-0.17.8-x64-mac.zip
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-x64-mac.zip
-- name: maestro-0.17.8-x86_64.AppImage
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-x86_64.AppImage
-- name: maestro-0.17.8-x86_64.rpm
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/maestro-0.17.8-x86_64.rpm
-- name: Maestro-Portable-0.17.8-x64.exe
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/Maestro-Portable-0.17.8-x64.exe
-- name: Maestro-Setup-0.17.8-x64.exe
-  url: https://github.com/RunMaestro/Maestro/releases/download/v0.17.8/Maestro-Setup-0.17.8-x64.exe
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/latest.yml
+- name: maestro-1.0.0-aarch64.rpm
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-aarch64.rpm
+- name: maestro-1.0.0-amd64.deb
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-amd64.deb
+- name: maestro-1.0.0-arm64-mac.dmg
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-arm64-mac.dmg
+- name: maestro-1.0.0-arm64-mac.zip
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-arm64-mac.zip
+- name: maestro-1.0.0-arm64.AppImage
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-arm64.AppImage
+- name: maestro-1.0.0-arm64.deb
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-arm64.deb
+- name: maestro-1.0.0-x64-mac.dmg
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-x64-mac.dmg
+- name: maestro-1.0.0-x64-mac.zip
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-x64-mac.zip
+- name: maestro-1.0.0-x86_64.AppImage
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-x86_64.AppImage
+- name: maestro-1.0.0-x86_64.rpm
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/maestro-1.0.0-x86_64.rpm
+- name: Maestro-Portable-1.0.0-x64.exe
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/Maestro-Portable-1.0.0-x64.exe
+- name: Maestro-Setup-1.0.0-x64.exe
+  url: https://github.com/RunMaestro/Maestro/releases/download/v1.0.0/Maestro-Setup-1.0.0-x64.exe
 electron: 41.6.0
 method: which-electron-rg
-latest: v0.17.8
-src: https://github.com/pedramamini/Maestro/archive/refs/tags/v0.17.8.zip
+latest: v1.0.0
+src: https://github.com/pedramamini/Maestro/archive/refs/tags/v1.0.0.zip
 evidence:
   kind: binary
   source: https://github.com/RunMaestro/Maestro/releases/download/v0.17.3/maestro-0.17.3-aarch64.rpm
@@ -64,4 +64,4 @@ evidence:
   signal: which-electron rg signal
 homepage: true
 brew_installs: 10000
-last_commit: '2026-10-08'
+last_commit: '2026-10-09'
