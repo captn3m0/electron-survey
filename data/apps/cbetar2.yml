@@ -36,7 +36,7 @@ name: CBETA Reader 2 (Unofficial)
 electron: 40.6.1
 method: which-electron-rg
 aur_votes: 1
-last_commit: '2026-03-02'
+last_commit: '2026-10-10'
 evidence:
   kind: binary
   source: https://github.com/MrMYHuang/cbetar2/releases/download/v24.0.0/cbetar2_24.0.0_linux_aarch64.rpm

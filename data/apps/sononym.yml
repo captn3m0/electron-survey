@@ -10,7 +10,7 @@ downloads:
   name: Sononym-1.6.15-arm64.dmg
   source: homebrew
   version: 1.6.15
-brew_installs: 1
+brew_installs: 10
 electron: 20.3.7
 method: which-electron-rg
 evidence:
