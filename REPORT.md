@@ -925,7 +925,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Milanote](https://milanote.com) | 38.2.0 ⚠️ | 1y ago | which-electron-rg |
 | [Milkup](https://github.com/Auto-Plugin/milkup) [[repo]](https://github.com/Auto-Plugin/milkup) | 39.8.5 ⚠️ | 6mo ago | which-electron-asar-manifest |
 | [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 40.6.1 ⚠️ | 7mo ago |  |
-| [Mingo](https://mingo.io) | 39.2.1 ⚠️ | 10mo ago | which-electron-rg |
+| [Mingo](https://mingo.io) | 39.2.1 ⚠️ | 11mo ago | which-electron-rg |
 | [Mini Diary](https://minidiary.app) [[repo]](https://github.com/samuelmeuli/mini-diary) | 8.3.0 ⚠️ | 6y 6mo ago | src-yarn-lock |
 | [Mini4wdchrono](https://github.com/Pimentoso/mini4wdchrono) [[repo]](https://github.com/Pimentoso/mini4wdchrono) | 9.4.4 ⚠️ | 5y 8mo ago | which-electron-version_file |
 | [Minif Browser](https://github.com/Klubuntu/minif-browser) [[repo]](https://github.com/Klubuntu/minif-browser) | 32.0.1 ⚠️ | 2y 2mo ago | which-electron-rg |

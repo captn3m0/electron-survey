@@ -1,8 +1,8 @@
 id: syng
 repository: https://github.com/sotch-pr35mac/syng
 website: https://syngdict.com/
-latest: 2.5.2
-src: https://github.com/sotch-pr35mac/syng/archive/refs/tags/2.5.2.zip
+latest: 2.5.3
+src: https://github.com/sotch-pr35mac/syng/archive/refs/tags/2.5.3.zip
 downloads:
 - name: Syng-2.5.2-1.aarch64.rpm
   url: https://github.com/sotch-pr35mac/syng/releases/download/2.5.2/Syng-2.5.2-1.aarch64.rpm
@@ -53,4 +53,4 @@ downloads:
 - name: Syng_2.5.2_x86_en-US.msi.zip
   url: https://github.com/sotch-pr35mac/syng/releases/download/2.5.2/Syng_2.5.2_x86_en-US.msi.zip
 name: Syng
-last_commit: '2026-10-10'
+last_commit: '2026-10-12'

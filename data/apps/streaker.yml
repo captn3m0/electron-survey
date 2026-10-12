@@ -28,7 +28,7 @@ evidence:
   source: https://github.com/jamieweavis/streaker/releases/download/v2.6.1/streaker-2.6.1-1.x86_64.rpm
   found_in: streaker-2.6.1-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-10-08'
+last_commit: '2026-10-11'
 aur_downloads:
 - url: https://github.com/jamieweavis/streaker/releases/download/v2.6.1/streaker-2.6.1-1.x86_64.rpm
   name: streaker-2.6.1-1.x86_64.rpm
