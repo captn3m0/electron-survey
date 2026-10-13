@@ -16,7 +16,7 @@ downloads:
 - name: geforcenow-electron_3.0.4_linux.zip
   url: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.4/geforcenow-electron_3.0.4_linux.zip
 aur_votes: 10
-last_commit: '2026-10-09'
+last_commit: '2026-10-12'
 evidence:
   kind: binary
   source: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.AppImage
