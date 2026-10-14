@@ -39,68 +39,68 @@ method: which-electron-rg
 homebrew: piclist
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/latest-linux-arm64.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/latest-linux.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/latest-mac.yml
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/latest.yml
-- name: PicList-3.6.0-aarch64.rpm
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-aarch64.rpm
-- name: PicList-3.6.0-amd64.deb
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-amd64.deb
-- name: PicList-3.6.0-amd64.snap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-amd64.snap
-- name: PicList-3.6.0-arm64.AppImage
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-arm64.AppImage
-- name: PicList-3.6.0-arm64.deb
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-arm64.deb
-- name: PicList-3.6.0-arm64.dmg
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-arm64.dmg
-- name: PicList-3.6.0-arm64.dmg.blockmap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-arm64.dmg.blockmap
-- name: PicList-3.6.0-arm64.zip
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-arm64.zip
-- name: PicList-3.6.0-arm64.zip.blockmap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-arm64.zip.blockmap
-- name: PicList-3.6.0-x64.dmg
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-x64.dmg
-- name: PicList-3.6.0-x64.dmg.blockmap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-x64.dmg.blockmap
-- name: PicList-3.6.0-x64.zip
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-x64.zip
-- name: PicList-3.6.0-x64.zip.blockmap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-x64.zip.blockmap
-- name: PicList-3.6.0-x86_64.AppImage
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-x86_64.AppImage
-- name: PicList-3.6.0-x86_64.rpm
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-3.6.0-x86_64.rpm
-- name: PicList-Setup-3.6.0-arm64-portable.7z
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-arm64-portable.7z
-- name: PicList-Setup-3.6.0-arm64-portable.zip
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-arm64-portable.zip
-- name: PicList-Setup-3.6.0-arm64.exe
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-arm64.exe
-- name: PicList-Setup-3.6.0-arm64.exe.blockmap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-arm64.exe.blockmap
-- name: PicList-Setup-3.6.0-x64-portable.7z
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-x64-portable.7z
-- name: PicList-Setup-3.6.0-x64-portable.zip
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-x64-portable.zip
-- name: PicList-Setup-3.6.0-x64.exe
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-x64.exe
-- name: PicList-Setup-3.6.0-x64.exe.blockmap
-  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.0/PicList-Setup-3.6.0-x64.exe.blockmap
-latest: v3.6.0
-src: https://github.com/Kuingsmile/PicList/archive/refs/tags/v3.6.0.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/latest.yml
+- name: PicList-3.6.1-aarch64.rpm
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-aarch64.rpm
+- name: PicList-3.6.1-amd64.deb
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-amd64.deb
+- name: PicList-3.6.1-amd64.snap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-amd64.snap
+- name: PicList-3.6.1-arm64.AppImage
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-arm64.AppImage
+- name: PicList-3.6.1-arm64.deb
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-arm64.deb
+- name: PicList-3.6.1-arm64.dmg
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-arm64.dmg
+- name: PicList-3.6.1-arm64.dmg.blockmap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-arm64.dmg.blockmap
+- name: PicList-3.6.1-arm64.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-arm64.zip
+- name: PicList-3.6.1-arm64.zip.blockmap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-arm64.zip.blockmap
+- name: PicList-3.6.1-x64.dmg
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-x64.dmg
+- name: PicList-3.6.1-x64.dmg.blockmap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-x64.dmg.blockmap
+- name: PicList-3.6.1-x64.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-x64.zip
+- name: PicList-3.6.1-x64.zip.blockmap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-x64.zip.blockmap
+- name: PicList-3.6.1-x86_64.AppImage
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-x86_64.AppImage
+- name: PicList-3.6.1-x86_64.rpm
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-3.6.1-x86_64.rpm
+- name: PicList-Setup-3.6.1-arm64-portable.7z
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-arm64-portable.7z
+- name: PicList-Setup-3.6.1-arm64-portable.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-arm64-portable.zip
+- name: PicList-Setup-3.6.1-arm64.exe
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-arm64.exe
+- name: PicList-Setup-3.6.1-arm64.exe.blockmap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-arm64.exe.blockmap
+- name: PicList-Setup-3.6.1-x64-portable.7z
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-x64-portable.7z
+- name: PicList-Setup-3.6.1-x64-portable.zip
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-x64-portable.zip
+- name: PicList-Setup-3.6.1-x64.exe
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-x64.exe
+- name: PicList-Setup-3.6.1-x64.exe.blockmap
+  url: https://github.com/Kuingsmile/PicList/releases/download/v3.6.1/PicList-Setup-3.6.1-x64.exe.blockmap
+latest: v3.6.1
+src: https://github.com/Kuingsmile/PicList/archive/refs/tags/v3.6.1.zip
 evidence:
   kind: binary
   source: https://github.com/Kuingsmile/PicList/releases/download/v3.5.0/PicList-3.5.0-aarch64.rpm
   found_in: PicList-3.5.0-aarch64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-10-13'
+last_commit: '2026-10-14'
 aur_downloads:
 - url: https://raw.githubusercontent.com/Kuingsmile/PicList/v3.5.0/LICENSE
   name: LICENSE

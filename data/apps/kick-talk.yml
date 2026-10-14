@@ -6,26 +6,20 @@ aur:
 - kick-talk-git
 electron: 34.5.8
 method: aur-depends
-latest: 1.1.3
-src: https://github.com/KickTalkOrg/KickTalk/archive/refs/tags/1.1.3.zip
+latest: 1.1.4
+src: https://github.com/KickTalkOrg/KickTalk/archive/refs/tags/1.1.4.zip
 downloads:
-- name: builder-debug.yml
-  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/builder-debug.yml
-- name: builder-effective-config.yaml
-  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/builder-effective-config.yaml
-- name: kick-talk-1.1.3-setup.exe
-  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/kick-talk-1.1.3-setup.exe
-- name: kick-talk-1.1.3-setup.exe.blockmap
-  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/kick-talk-1.1.3-setup.exe.blockmap
-- name: KickTalk.exe
-  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/KickTalk.exe
+- name: kick-talk-1.1.4-setup.exe
+  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.4/kick-talk-1.1.4-setup.exe
+- name: kick-talk-1.1.4-setup.exe.blockmap
+  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.4/kick-talk-1.1.4-setup.exe.blockmap
 - name: latest.yml
-  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.3/latest.yml
+  url: https://github.com/KickTalkOrg/KickTalk/releases/download/1.1.4/latest.yml
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/kick-talk-git
   found_in: kick-talk-git
   signal: depends on electron34; reported as the newest 34.x release (34.5.8)
 aur_votes: 1
-last_commit: '2026-05-15'
+last_commit: '2026-10-13'
 we_tried: we1.2.1+p1:1.1.3

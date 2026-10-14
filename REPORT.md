@@ -1774,7 +1774,7 @@ Apps with detected Electron version: 1815 / 2090
 | [ieaseMusic](https://github.com/trazyn/ieaseMusic) [[repo]](https://github.com/trazyn/ieaseMusic) | 4.0.1 ⚠️ | 7y 10mo ago | which-electron-fingerprint |
 | [inMusic Software Center](https://www.airmusictech.com/downloads/) | 39.8.0 ⚠️ | 7mo ago | which-electron-rg |
 | [infra](https://infra.app/) | 18.0.3 ⚠️ | 4y 7mo ago | which-electron-rg |
-| [ioui](https://github.com/shivang-pokar/ioui) [[repo]](https://github.com/shivang-pokar/ioui) | 7.1.2 ⚠️ | 6y 11mo ago | src-package-lock |
+| [ioui](https://github.com/shivang-pokar/ioui) [[repo]](https://github.com/shivang-pokar/ioui) | 7.1.2 ⚠️ | 7y ago | src-package-lock |
 | [itch](https://itch.io/app) [[repo]](https://github.com/itchio/itch) | 44.5.1 ⚠️ | 13d ago | src-package-lock |
 | [lazyType](https://github.com/ngudbhav/lazyType) | 6.0.9 ⚠️ | 7y 2mo ago | which-electron-version_file |
 | [linked](https://uselinked.com/) [[repo]](https://github.com/lostdesign/linked) | 17.0.0 ⚠️ | 4y 9mo ago | src-yarn-lock |
