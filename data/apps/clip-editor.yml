@@ -6,19 +6,19 @@ aur:
 - clip-editor-bin
 electron: 36.2.1
 method: which-electron-rg
-latest: v0.4.3
-src: https://github.com/sn0w12/clip-editor/archive/refs/tags/v0.4.3.zip
+latest: v0.5.0
+src: https://github.com/sn0w12/clip-editor/archive/refs/tags/v0.5.0.zip
 downloads:
-- name: Clip.Editor_0.4.3_x64-setup.exe
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.3/Clip.Editor_0.4.3_x64-setup.exe
-- name: Clip.Editor_0.4.3_x64-setup.exe.sig
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.3/Clip.Editor_0.4.3_x64-setup.exe.sig
-- name: Clip.Editor_0.4.3_x64_en-US.msi
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.3/Clip.Editor_0.4.3_x64_en-US.msi
-- name: Clip.Editor_0.4.3_x64_en-US.msi.sig
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.3/Clip.Editor_0.4.3_x64_en-US.msi.sig
 - name: latest.json
-  url: https://github.com/sn0w12/clip-editor/releases/download/v0.4.3/latest.json
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.5.0/latest.json
+- name: Seraphis_0.5.0_x64-setup.exe
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.5.0/Seraphis_0.5.0_x64-setup.exe
+- name: Seraphis_0.5.0_x64-setup.exe.sig
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.5.0/Seraphis_0.5.0_x64-setup.exe.sig
+- name: Seraphis_0.5.0_x64_en-US.msi
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.5.0/Seraphis_0.5.0_x64_en-US.msi
+- name: Seraphis_0.5.0_x64_en-US.msi.sig
+  url: https://github.com/sn0w12/clip-editor/releases/download/v0.5.0/Seraphis_0.5.0_x64_en-US.msi.sig
 evidence:
   kind: binary
   source: https://github.com/sn0w12/clip-editor/releases/download/v0.2.7/clip-editor-0.2.7-1.x86_64.rpm

@@ -1,59 +1,59 @@
 id: tagspaces
 repository: https://github.com/tagspaces/tagspaces
 website: https://www.tagspaces.org/
-latest: v6.14.1
-src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.14.1.zip
+latest: v6.14.3
+src: https://github.com/tagspaces/tagspaces/archive/refs/tags/v6.14.3.zip
 downloads:
 - name: SHA256SUMS.txt
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/SHA256SUMS.txt
-- name: tagspaces-android-6.14.1.apk
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-android-6.14.1.apk
-  checksum: ba2bb5a60d8babb5d62f67b29b09756061cc4d62c3148c2b2f0ef6ea4cb165d4
-- name: tagspaces-linux-amd64-6.14.1.deb
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-linux-amd64-6.14.1.deb
-  checksum: fc9b8ce6b8d3cb8f37a0e6445fa9a416c4f6ba958a521ea69fbd11bd84c6a053
-- name: tagspaces-linux-arm64-6.14.1.AppImage
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-linux-arm64-6.14.1.AppImage
-  checksum: a08c122ae0e3994df89e57e6702a9be4b6eb7d232aa2bdb778364c4c5c5c4d5f
-- name: tagspaces-linux-arm64-6.14.1.deb
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-linux-arm64-6.14.1.deb
-  checksum: 5aa34b81510c0934d5e7ecdca3eda0a06f8781594699a61eb7a6339ba744b3ca
-- name: tagspaces-linux-arm64-6.14.1.tar.gz
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-linux-arm64-6.14.1.tar.gz
-  checksum: 96615913dcc533b487e6b24593149d9375d6327b91a7750ce7e40feca754f9f9
-- name: tagspaces-linux-x64-6.14.1.tar.gz
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-linux-x64-6.14.1.tar.gz
-  checksum: 96779e7287c9c5429281cdd4cf01ccadf3e8515db51899c0c3b68158a9ee60fd
-- name: tagspaces-linux-x86_64-6.14.1.AppImage
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-linux-x86_64-6.14.1.AppImage
-  checksum: 27437d3aa60052c6d009761f1f8f0419af11831b4e9bde5197cb4d2f94f33e7e
-- name: tagspaces-mac-arm64-6.14.1.dmg
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-mac-arm64-6.14.1.dmg
-  checksum: ada9624362c65d4815c0ed783217fd51e3afd5fb2d9680c08a7d5d6de1488e8f
-- name: tagspaces-mac-arm64-6.14.1.pkg
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-mac-arm64-6.14.1.pkg
-  checksum: 6fc8e5d62841d4d94bbde28eea5a0842df9ed9e734060de7b0fb9bfe74667cd6
-- name: tagspaces-mac-x64-6.14.1.dmg
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-mac-x64-6.14.1.dmg
-  checksum: 02803ef0c4919cb63520fb3d62e5ea7ed4917b1eb0de96006dcdc1397325811c
-- name: tagspaces-mac-x64-6.14.1.pkg
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-mac-x64-6.14.1.pkg
-  checksum: 20b0ea976b0a2159377725501bf6298ed68f8bf13f69653a1cc8a70a8aa6b882
-- name: tagspaces-web-6.14.1.zip
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-web-6.14.1.zip
-  checksum: a11fcd00b860b599176a30d37fabf9cbd46dcc68d57a0052ff7481a2bc99bf93
-- name: tagspaces-win-arm64-6.14.1.exe
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-win-arm64-6.14.1.exe
-  checksum: 61b81eae43db5fbf1c1d2a9e7d50fe1d5bd127e46e896cdb8f4cf6aa1606254c
-- name: tagspaces-win-arm64-6.14.1.zip
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-win-arm64-6.14.1.zip
-  checksum: 45663e514a134c118bbc0a8d33e4de5dc4014b56a00f1263f528f771ab975c5f
-- name: tagspaces-win-x64-6.14.1.exe
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-win-x64-6.14.1.exe
-  checksum: 000c23eb2831005e90299c17b1d5434a9bd08209c360f8e9744f13bc1a0892df
-- name: tagspaces-win-x64-6.14.1.zip
-  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.1/tagspaces-win-x64-6.14.1.zip
-  checksum: ce585575762866938341d03ff7d81499ce9fd6d7b5f8c71d9e1a64ad235caacb
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/SHA256SUMS.txt
+- name: tagspaces-android-6.14.3.apk
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-android-6.14.3.apk
+  checksum: b54b0348e3834a1ffc89e58c162263ec9b256fd096732464c3d4c05923518c69
+- name: tagspaces-linux-amd64-6.14.3.deb
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-linux-amd64-6.14.3.deb
+  checksum: 61ee97d18a844bb2bd9109b13eaae2a8d90a000ef8ebb1004773ef3cac201807
+- name: tagspaces-linux-arm64-6.14.3.AppImage
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-linux-arm64-6.14.3.AppImage
+  checksum: f18162f21ace9832e9356e6575ef9e2909d530b43b3671a0e404472d7cfc8200
+- name: tagspaces-linux-arm64-6.14.3.deb
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-linux-arm64-6.14.3.deb
+  checksum: f44ad5481414e460239201dd06803fb0096a2e0fb00b810a30cb65c36b6ca33a
+- name: tagspaces-linux-arm64-6.14.3.tar.gz
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-linux-arm64-6.14.3.tar.gz
+  checksum: 9272fb101f0f64d88ba11c4ef60ed3bba8ba590f469419b42e1e078398faac02
+- name: tagspaces-linux-x64-6.14.3.tar.gz
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-linux-x64-6.14.3.tar.gz
+  checksum: 13bea1b8d0cbefe9578a350096ca3e859cc493d51b14031b6dfe68024d98f2ea
+- name: tagspaces-linux-x86_64-6.14.3.AppImage
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-linux-x86_64-6.14.3.AppImage
+  checksum: 194fa91b1b0d5fee47c1882c6cb57d28847e68c38365411de7f36faf6b175339
+- name: tagspaces-mac-arm64-6.14.3.dmg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-mac-arm64-6.14.3.dmg
+  checksum: d963f018f305b83562d8bb8a94f18f84f419909b5109072d9d81c44a15437a5e
+- name: tagspaces-mac-arm64-6.14.3.pkg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-mac-arm64-6.14.3.pkg
+  checksum: 29d3ad4a4663442c658d8e031f2ea7c96925fc1932389c2c22e7750445ece175
+- name: tagspaces-mac-x64-6.14.3.dmg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-mac-x64-6.14.3.dmg
+  checksum: ccdf3a210c1c8890319f8a744038037c3adc154fd0f63db1fc18c74e2741f3ee
+- name: tagspaces-mac-x64-6.14.3.pkg
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-mac-x64-6.14.3.pkg
+  checksum: 8fd84c23fc07200a7ab820d5cdb8de8e6510aaf2e1c7b52483045808d5235996
+- name: tagspaces-web-6.14.3.zip
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-web-6.14.3.zip
+  checksum: bf9ca98e97dd5d954b80fd8c5e7754187a0ca3fb6d7cc0b5d75aba2f46e51516
+- name: tagspaces-win-arm64-6.14.3.exe
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-win-arm64-6.14.3.exe
+  checksum: 7f4f57efbda35212c932029e4b45c71032c887117e044f44bf0beae731f1a814
+- name: tagspaces-win-arm64-6.14.3.zip
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-win-arm64-6.14.3.zip
+  checksum: 82b69344c6c47cd7d019236b918e221d2bf808da7ea81a07192df86e84dd6559
+- name: tagspaces-win-x64-6.14.3.exe
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-win-x64-6.14.3.exe
+  checksum: a1641a13f086cb32bad40daa03cdc282034fd112ce763ba940af2ce7de102603
+- name: tagspaces-win-x64-6.14.3.zip
+  url: https://github.com/tagspaces/tagspaces/releases/download/v6.14.3/tagspaces-win-x64-6.14.3.zip
+  checksum: c4df7127d9fe2de814f9a18360bfbc1782a223f431ebed9bb6dafa5cfac36e91
 electron: 42.4.0
 method: which-electron-rg
 aur:

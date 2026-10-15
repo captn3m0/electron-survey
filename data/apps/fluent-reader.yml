@@ -1,23 +1,19 @@
 id: fluent-reader
 repository: https://github.com/yang991178/fluent-reader
 website: https://hyliu.me/fluent-reader/
-latest: v1.2.2
-src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.2.zip
+latest: v1.3.0
+src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.3.0.zip
 downloads:
-- name: Fluent.Reader.1.2.2.AppImage
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.AppImage
-- name: Fluent.Reader.1.2.2.dmg
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.dmg
-- name: Fluent.Reader.Setup.1.2.2.x64.exe
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Setup.1.2.2.x64.exe
-- name: Fluent.Reader.Setup.1.2.2.x86.exe
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Setup.1.2.2.x86.exe
-- name: Fluent.Reader.Unpacked.1.2.2.x64.zip
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Unpacked.1.2.2.x64.zip
-- name: Fluent.Reader.Unpacked.1.2.2.x86.zip
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Unpacked.1.2.2.x86.zip
+- name: Fluent.Reader.1.3.0.AppImage
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.1.3.0.AppImage
+- name: Fluent.Reader.1.3.0.dmg
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.1.3.0.dmg
+- name: Fluent.Reader.Setup.1.3.0.x64.exe
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.Setup.1.3.0.x64.exe
+- name: Fluent.Reader.Unpacked.1.3.0.x64.zip
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.Unpacked.1.3.0.x64.zip
 electron: 41.1.0
-method: src-package-lock
+method: which-electron-rg
 aur:
 - fluent-reader
 - fluent-reader-bin
@@ -30,16 +26,15 @@ packages:
 - url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.dmg
   format: dmg
   os: macos
-electron_src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.2.2.zip
+electron_src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.3.0.zip
 evidence:
-  kind: lockfile
-  source: https://github.com/search?q=repo%3Ayang991178%2Ffluent-reader+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
-  signal: electron pinned in package-lock.json
-  reconstructed: true
+  kind: binary
+  source: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.AppImage
+  found_in: Fluent.Reader.1.2.2.AppImage
+  signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 100
-last_commit: '2026-10-13'
+last_commit: '2026-10-15'
 aur_downloads:
 - url: https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.1.2.2.AppImage
   name: Fluent.Reader.1.2.2.AppImage

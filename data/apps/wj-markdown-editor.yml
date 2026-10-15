@@ -8,33 +8,33 @@ additionalAUR:
 - wj-markdown-editor-git
 electron: 39.2.7
 method: which-electron-rg
-latest: 2.22.3
-src: https://github.com/nlbwqmz/wj-markdown-editor/archive/refs/tags/2.22.3.zip
+latest: 2.22.4
+src: https://github.com/nlbwqmz/wj-markdown-editor/archive/refs/tags/2.22.4.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/latest-linux.yml
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/latest.yml
-- name: wj-markdown-editor-linux-amd64-2.22.3.deb
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-linux-amd64-2.22.3.deb
-- name: wj-markdown-editor-linux-x86_64-2.22.3.rpm
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-linux-x86_64-2.22.3.rpm
-- name: wj-markdown-editor-win32-x64-2.22.3.exe
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-win32-x64-2.22.3.exe
-- name: wj-markdown-editor-win32-x64-2.22.3.exe.blockmap
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-win32-x64-2.22.3.exe.blockmap
-- name: wj-markdown-editor-win32-x64-2.22.3.zip
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-win32-x64-2.22.3.zip
-- name: wj-markdown-editor-x86_64-2.22.3.AppImage
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-x86_64-2.22.3.AppImage
-- name: wj-markdown-editor-x86_64-2.22.3.AppImage.zsync
-  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.3/wj-markdown-editor-x86_64-2.22.3.AppImage.zsync
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/latest.yml
+- name: wj-markdown-editor-linux-amd64-2.22.4.deb
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-linux-amd64-2.22.4.deb
+- name: wj-markdown-editor-linux-x86_64-2.22.4.rpm
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-linux-x86_64-2.22.4.rpm
+- name: wj-markdown-editor-win32-x64-2.22.4.exe
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-win32-x64-2.22.4.exe
+- name: wj-markdown-editor-win32-x64-2.22.4.exe.blockmap
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-win32-x64-2.22.4.exe.blockmap
+- name: wj-markdown-editor-win32-x64-2.22.4.zip
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-win32-x64-2.22.4.zip
+- name: wj-markdown-editor-x86_64-2.22.4.AppImage
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-x86_64-2.22.4.AppImage
+- name: wj-markdown-editor-x86_64-2.22.4.AppImage.zsync
+  url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.22.4/wj-markdown-editor-x86_64-2.22.4.AppImage.zsync
 evidence:
   kind: binary
   source: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
   found_in: wj-markdown-editor-linux-x86_64-2.19.7.rpm
   signal: which-electron rg signal
-last_commit: '2026-10-13'
+last_commit: '2026-10-15'
 aur_downloads:
 - url: https://github.com/nlbwqmz/wj-markdown-editor/releases/download/2.19.7/wj-markdown-editor-linux-x86_64-2.19.7.rpm
   name: wj-markdown-editor-linux-x86_64-2.19.7.rpm

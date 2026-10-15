@@ -382,7 +382,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Discord Account Manager](https://github.com/Bherl1/DiscordAccMgr) [[repo]](https://github.com/Bherl1/DiscordAccMgr) | 29.4.6 ⚠️ | 2y 2mo ago | aur-depends |
 | [Distributionz](https://github.com/TheDome/DistributionZ) [[repo]](https://github.com/TheDome/DistributionZ) | 21.2.0 ⚠️ | 4y ago | which-electron-rg |
 | [Ditto++](https://github.com/RubinderS/DittoPlusPlus/) [[repo]](https://github.com/RubinderS/DittoPlusPlus/) | 13.1.7 ⚠️ | 5y 3mo ago | src-package-lock |
-| [Dixa](https://dixa.com) [[repo]](https://github.com/dixahq/dixa-desktop-app-release) | 24.0.0 ⚠️ | 3y 6mo ago | which-electron-rg |
+| [Dixa](https://dixa.com) [[repo]](https://github.com/dixahq/dixa-desktop-app-release) | 24.0.0 ⚠️ | 3y 7mo ago | which-electron-rg |
 | [Dk C++](https://github.com/EntityPlantt/DK-CPP) [[repo]](https://github.com/EntityPlantt/DK-CPP) | 19.1.9 ⚠️ | 3y 11mo ago | which-electron-rg |
 | [Dn Tool Container](https://github.com/como65416/DnToolContainer) [[repo]](https://github.com/como65416/DnToolContainer) | 8.4.1 ⚠️ | 6y 3mo ago | src-package-lock |
 | [Dnd Overlay Tool](https://github.com/Jasonizl/dnd-overlay-tool) [[repo]](https://github.com/Jasonizl/dnd-overlay-tool) | 30.1.0 ⚠️ | 2y 4mo ago | which-electron-rg |
@@ -453,7 +453,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Element Desktop](https://element.io/download) | 42.4.1 ⚠️ | 4mo ago | which-electron-rg |
 | [Elemental Notes](https://github.com/harryfrzz/Elemental-Notes) [[repo]](https://github.com/harryfrzz/Elemental-Notes) | 32.3.3 ⚠️ | 1y 7mo ago | aur-depends |
 | [Elements Latex](https://github.com/Red-Rapious/Elements-LaTeX) [[repo]](https://github.com/Red-Rapious/Elements-LaTeX) | 18.2.3 ⚠️ | 4y 5mo ago | which-electron-rg |
-| [Elemntary](https://github.com/vti/elemntary) [[repo]](https://github.com/vti/elemntary) | 24.0.0 ⚠️ | 3y 6mo ago | which-electron-rg |
+| [Elemntary](https://github.com/vti/elemntary) [[repo]](https://github.com/vti/elemntary) | 24.0.0 ⚠️ | 3y 7mo ago | which-electron-rg |
 | [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 44.0.0 ⚠️ | 1mo ago | src-package-lock |
 | [Elevate](https://thomaschampagne.github.io/elevate-docs/) | 27.3.11 ⚠️ | 2y 6mo ago | aur-depends |
 | [Embertune](https://github.com/DylanAkp/EmberTune) [[repo]](https://github.com/DylanAkp/EmberTune) | 35.7.4 ⚠️ | 1y 2mo ago | which-electron-rg |
@@ -535,7 +535,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Flomo](https://flomoapp.com/) | 36.9.5 ⚠️ | 12mo ago | aur-depends |
 | [Flow Browser](https://flow-browser.com/) | 35.7.5 ⚠️ | 1y 2mo ago | aur-depends |
 | [Flowtestai](https://flowtestai.gitbook.io/flowtestai) | 29.4.6 ⚠️ | 2y 2mo ago | aur-depends |
-| [Fluent Reader](https://hyliu.me/fluent-reader/) [[repo]](https://github.com/yang991178/fluent-reader) | 41.1.0 ⚠️ | 6mo ago | src-package-lock |
+| [Fluent Reader](https://hyliu.me/fluent-reader/) [[repo]](https://github.com/yang991178/fluent-reader) | 41.1.0 ⚠️ | 6mo ago | which-electron-rg |
 | [FlyEnv](https://www.macphpstudy.com/) [[repo]](https://github.com/xpf0000/FlyEnv) | 39.8.7 ⚠️ | 6mo ago | which-electron-rg |
 | [Focused Task](https://github.com/RStankov/FocusedTask) [[repo]](https://github.com/RStankov/FocusedTask) | 8.5.2 ⚠️ | 6y 1mo ago | src-yarn-lock |
 | [Focustune](https://focustune.isaxk.com/) | 28.3.3 ⚠️ | 2y 5mo ago | aur-depends |
@@ -656,7 +656,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Helwan AI Gate](https://github.com/helwan-linux/helwan-ai) [[repo]](https://github.com/helwan-linux/helwan-ai) | 29.4.6 ⚠️ | 2y 2mo ago | src-package-lock |
 | [Heptabase](https://heptabase.com/) [[repo]](https://github.com/heptameta/project-meta) | 36.9.3 ⚠️ | 1y ago | which-electron-rg |
 | [Hera](https://github.com/sandrasoueid/hera) [[repo]](https://github.com/sandrasoueid/hera) | 32.3.3 ⚠️ | 1y 7mo ago | aur-depends |
-| [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) [[repo]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | 43.1.1 ⚠️ | 3mo ago | src-pnpm-lock |
+| [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) [[repo]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | 43.1.1 ⚠️ | 3mo ago | which-electron-rg |
 | [Heroic Games Launcher](https://heroicgameslauncher.com/) | 41.10.2 ⚠️ | 3mo ago | aur-depends |
 | [Hex Music Player](https://github.com/andrew-meis/hex-music-player-2.0) [[repo]](https://github.com/andrew-meis/hex-music-player-2.0) | 34.5.8 ⚠️ | 1y 4mo ago | aur-depends |
 | [Hexhoot](http://blog.hexhoot.com/) | 30.0.2 ⚠️ | 2y 5mo ago | which-electron-rg |
@@ -754,7 +754,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Kahla](https://www.kahla.app/) [[repo]](https://github.com/AiursoftWeb/Kahla.App) | 8.5.5 ⚠️ | 5y 11mo ago | src-package-lock |
 | [Kakapo](https://github.com/bluedaniel/Kakapo-app) [[repo]](https://github.com/bluedaniel/Kakapo-app) | 0.37.2 ⚠️ |  | which-electron-fingerprint |
 | [Kaleido Client](https://wp2code.github.io/wp2code-site/kaleido/) | 31.7.7 ⚠️ | 1y 9mo ago | aur-depends |
-| [Kalidoface](https://lab.kalidoface.com/) | 24.0.0 ⚠️ | 3y 6mo ago | which-electron-rg |
+| [Kalidoface](https://lab.kalidoface.com/) | 24.0.0 ⚠️ | 3y 7mo ago | which-electron-rg |
 | KanKan [[repo]](https://github.com/newham/kankan) | 8.5.5 ⚠️ | 5y 11mo ago | src-range-guess |
 | [Kanbanflow](https://github.com/metawave/kanbanflow-app) [[repo]](https://github.com/metawave/kanbanflow-app) | 13.6.9 ⚠️ | 4y 9mo ago | aur-depends |
 | [Kando](https://kando.menu/) [[repo]](https://github.com/kando-menu/kando) | 41.2.0 ⚠️ | 6mo ago | which-electron-rg |
