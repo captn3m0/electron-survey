@@ -24,47 +24,49 @@ aur:
 homebrew: headlamp
 downloads:
 - name: checksums.txt
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/checksums.txt
-- name: Headlamp-0.45.0-linux-arm64.AppImage
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-linux-arm64.AppImage
-  checksum: 831f13c4c04571de5f977ae6f10d29a300324290afb30c48a5c54b071d2e83c1
-- name: Headlamp-0.45.0-linux-arm64.tar.gz
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-linux-arm64.tar.gz
-  checksum: 0f3facd5ae9e4422700237148fe0f182cc1c9565be227fa0320291d93e66f80b
-- name: Headlamp-0.45.0-linux-armv7l.AppImage
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-linux-armv7l.AppImage
-  checksum: c68b8940767072ff4ee65b77af9e9351ff80852fe8a2bcbcc8715f3929f18664
-- name: Headlamp-0.45.0-linux-armv7l.tar.gz
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-linux-armv7l.tar.gz
-  checksum: 772c69b7519f31fb81856c16b0642acdb10f18f49c6d66c0b1a547e7908b1da9
-- name: Headlamp-0.45.0-linux-x64.AppImage
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-linux-x64.AppImage
-  checksum: 3c50102b99ffed5e802533187df3458efe8627ded5e790f490e54be1b4094765
-- name: Headlamp-0.45.0-linux-x64.tar.gz
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-linux-x64.tar.gz
-  checksum: 53fad75ab54432c84f8ec319fa7e4040a2a6785667155e0124c6ce0f9690cfee
-- name: Headlamp-0.45.0-mac-arm64.dmg
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-mac-arm64.dmg
-  checksum: 4f3e7de1c048f8dbe84bfd6c18ac61d0aafd4d909278ca44648d4562c80995f3
-- name: Headlamp-0.45.0-mac-x64.dmg
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-mac-x64.dmg
-  checksum: f8e402244aabc99f02a682e67ae2dc01aa06dc3dbf41de6c5bbcad1da1093021
-- name: Headlamp-0.45.0-win-arm64.exe
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-win-arm64.exe
-  checksum: c02bf0dfd3e1be7aef4d7f4dfc701e5791884338553e2b1eac58021338b9f20c
-- name: Headlamp-0.45.0-win-x64.exe
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-win-x64.exe
-  checksum: c8733a8c0d246abb4ff4cc76066002b35a72a67a83dd754ddef7b7229d6bc799
-- name: Headlamp-0.45.0-win-x64.msi
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/Headlamp-0.45.0-win-x64.msi
-  checksum: 33dc5c69d74104dbfc0a58629750674c25a599d7f25ac354f9f2d2403b193886
-- name: headlamp_0.45.0-1_amd64.deb
-  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.45.0/headlamp_0.45.0-1_amd64.deb
-  checksum: 1b90e7f72795f0a2f2cd8ac888578d5aa728f7f80b8e7103c589820c09edcf4b
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/checksums.txt
+- name: checksums.txt.sigstore.json
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/checksums.txt.sigstore.json
+- name: Headlamp-0.46.0-linux-arm64.AppImage
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-arm64.AppImage
+  checksum: 224a8415a5342774abd3b51248b882e982f11ff7757193485d5775a01ae5b3e9
+- name: Headlamp-0.46.0-linux-arm64.tar.gz
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-arm64.tar.gz
+  checksum: f209486c188b386f558aea39a860929f5f65d40d6546043062182a471b048ff3
+- name: Headlamp-0.46.0-linux-armv7l.AppImage
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-armv7l.AppImage
+  checksum: 082204f4b657a4740293daf8f4e989560be0f1fc9ad204b8f8822217d0a566a7
+- name: Headlamp-0.46.0-linux-armv7l.tar.gz
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-armv7l.tar.gz
+  checksum: 43fc60ac7da815e38297b850d7dfc560a065c90fae61cea5bfbf5e082f638e48
+- name: Headlamp-0.46.0-linux-x64.AppImage
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-x64.AppImage
+  checksum: d0aa9ca6a80d7f9f40a9d383f3293501f7d88a63573fbc75cef079c405c97dda
+- name: Headlamp-0.46.0-linux-x64.tar.gz
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-linux-x64.tar.gz
+  checksum: 1747c5de63963be925ded64dc2a5308144d260e43452855169bc771f03846434
+- name: Headlamp-0.46.0-mac-arm64.dmg
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-mac-arm64.dmg
+  checksum: 20294a2f1e92aa98c2a90aa0717b6b8e730ed55a0300c03db18c2f779ed7b564
+- name: Headlamp-0.46.0-mac-x64.dmg
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-mac-x64.dmg
+  checksum: 946c72185732295fefe48e52efdb210a029eaa3fc443813bc8cbbb81b05f87ac
+- name: Headlamp-0.46.0-win-arm64.exe
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-win-arm64.exe
+  checksum: eab7bff734b3cafdbc8c2a4525bd0be6aefed6a66b1e4f4ea870f1fa7159c817
+- name: Headlamp-0.46.0-win-x64.exe
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-win-x64.exe
+  checksum: 8169fadd6291c125266182e8566ecdef835d6e0e7b0a7c9ec16be660ee02c67a
+- name: Headlamp-0.46.0-win-x64.msi
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/Headlamp-0.46.0-win-x64.msi
+  checksum: 595e97a2046bd29faba0c2ffdab6679e030d6b44e1bba79f1d24120a989d8667
+- name: headlamp_0.46.0-1_amd64.deb
+  url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.46.0/headlamp_0.46.0-1_amd64.deb
+  checksum: e4a59e6e60afcc0eabb5c7d4f029820acee765dc69790e366b16164306fc0dc9
 electron: 38.8.6
 method: which-electron-rg
-latest: v0.45.0
-src: https://github.com/kubernetes-sigs/headlamp/archive/refs/tags/v0.45.0.zip
+latest: v0.46.0
+src: https://github.com/kubernetes-sigs/headlamp/archive/refs/tags/v0.46.0.zip
 evidence:
   kind: binary
   source: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.43.0/Headlamp-0.43.0-linux-arm64.AppImage
@@ -73,7 +75,7 @@ evidence:
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-10-14'
+last_commit: '2026-10-16'
 aur_downloads:
 - url: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.43.0/Headlamp-0.43.0-linux-x64.tar.gz
   name: Headlamp-0.43.0-linux-x64.tar.gz

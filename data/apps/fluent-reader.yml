@@ -1,17 +1,17 @@
 id: fluent-reader
 repository: https://github.com/yang991178/fluent-reader
 website: https://hyliu.me/fluent-reader/
-latest: v1.3.0
-src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.3.0.zip
+latest: v1.3.1
+src: https://github.com/yang991178/fluent-reader/archive/refs/tags/v1.3.1.zip
 downloads:
-- name: Fluent.Reader.1.3.0.AppImage
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.1.3.0.AppImage
-- name: Fluent.Reader.1.3.0.dmg
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.1.3.0.dmg
-- name: Fluent.Reader.Setup.1.3.0.x64.exe
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.Setup.1.3.0.x64.exe
-- name: Fluent.Reader.Unpacked.1.3.0.x64.zip
-  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.0/Fluent.Reader.Unpacked.1.3.0.x64.zip
+- name: Fluent.Reader.1.3.1.AppImage
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.1/Fluent.Reader.1.3.1.AppImage
+- name: Fluent.Reader.1.3.1.dmg
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.1/Fluent.Reader.1.3.1.dmg
+- name: Fluent.Reader.Setup.1.3.1.x64.exe
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.1/Fluent.Reader.Setup.1.3.1.x64.exe
+- name: Fluent.Reader.Unpacked.1.3.1.x64.zip
+  url: https://github.com/yang991178/fluent-reader/releases/download/v1.3.1/Fluent.Reader.Unpacked.1.3.1.x64.zip
 electron: 41.1.0
 method: which-electron-rg
 aur:

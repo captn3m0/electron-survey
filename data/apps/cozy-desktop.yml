@@ -1,47 +1,46 @@
 id: cozy-desktop
 repository: https://github.com/cozy-labs/cozy-desktop
 website: https://cozy.io/
-latest: v5.5.0
-src: https://github.com/cozy-labs/cozy-desktop/archive/refs/tags/v5.5.0.zip
+latest: v5.6.0
+src: https://github.com/cozy-labs/cozy-desktop/archive/refs/tags/v5.6.0.zip
 downloads:
 - name: latest-arm64-mac.yml
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/latest-arm64-mac.yml
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/latest-arm64-mac.yml
 - name: latest-linux.yml
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/latest-linux.yml
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/latest-mac.yml
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/latest-mac.yml
 - name: Twake-Desktop-arm64.dmg
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-arm64.dmg
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-arm64.dmg
 - name: Twake-Desktop-arm64.dmg.blockmap
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-arm64.dmg.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-arm64.dmg.blockmap
 - name: Twake-Desktop-arm64.zip
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-arm64.zip
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-arm64.zip
 - name: Twake-Desktop-arm64.zip.blockmap
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-arm64.zip.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-arm64.zip.blockmap
 - name: Twake-Desktop-Setup.exe
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-Setup.exe
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-Setup.exe
 - name: Twake-Desktop-Setup.exe.blockmap
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-Setup.exe.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-Setup.exe.blockmap
 - name: Twake-Desktop-x64.dmg
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-x64.dmg
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-x64.dmg
 - name: Twake-Desktop-x64.dmg.blockmap
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-x64.dmg.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-x64.dmg.blockmap
 - name: Twake-Desktop-x64.zip
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-x64.zip
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-x64.zip
 - name: Twake-Desktop-x64.zip.blockmap
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-x64.zip.blockmap
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-x64.zip.blockmap
 - name: Twake-Desktop-x86_64.AppImage
-  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.5.0/Twake-Desktop-x86_64.AppImage
+  url: https://github.com/cozy-labs/cozy-desktop/releases/download/v5.6.0/Twake-Desktop-x86_64.AppImage
 electron: 31.7.3
 method: src-yarn-lock
 name: Cozy Desktop
 aur:
 - cozy-desktop
-electron_src: https://github.com/cozy-labs/cozy-desktop/archive/refs/tags/v5.5.0.zip
+electron_src: https://github.com/cozy-labs/cozy-desktop/archive/refs/tags/v5.6.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Acozy-labs%2Fcozy-desktop+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
+  found_in: cozy-desktop-5.6.0/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
-last_commit: '2026-10-14'
+  source: https://github.com/cozy-labs/cozy-desktop/archive/refs/tags/v5.6.0.zip
+last_commit: '2026-10-15'
