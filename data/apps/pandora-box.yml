@@ -9,33 +9,33 @@ additionalAUR:
 - pandora-box-git
 electron: 41.1.0
 method: which-electron-rg
-latest: v1.0.23
-src: https://github.com/snakem982/Pandora-Box/archive/refs/tags/v1.0.23.zip
+latest: v1.0.24
+src: https://github.com/snakem982/Pandora-Box/archive/refs/tags/v1.0.24.zip
 downloads:
-- name: Pandora-Box-v1.0.23-linux-amd64.deb
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-linux-amd64.deb
-- name: Pandora-Box-v1.0.23-linux-amd64.rpm
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-linux-amd64.rpm
-- name: Pandora-Box-v1.0.23-linux-arm64.deb
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-linux-arm64.deb
-- name: Pandora-Box-v1.0.23-linux-arm64.rpm
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-linux-arm64.rpm
-- name: Pandora-Box-v1.0.23-macos-amd64.dmg
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-macos-amd64.dmg
-- name: Pandora-Box-v1.0.23-macos-arm64.dmg
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-macos-arm64.dmg
-- name: Pandora-Box-v1.0.23-windows-amd64-app.zip
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-windows-amd64-app.zip
-- name: Pandora-Box-v1.0.23-windows-amd64.msi
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-windows-amd64.msi
-- name: Pandora-Box-v1.0.23-windows-arm64-app.zip
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-windows-arm64-app.zip
-- name: Pandora-Box-v1.0.23-windows-arm64.msi
-  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-windows-arm64.msi
+- name: Pandora-Box-v1.0.24-linux-amd64.deb
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-linux-amd64.deb
+- name: Pandora-Box-v1.0.24-linux-amd64.rpm
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-linux-amd64.rpm
+- name: Pandora-Box-v1.0.24-linux-arm64.deb
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-linux-arm64.deb
+- name: Pandora-Box-v1.0.24-linux-arm64.rpm
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-linux-arm64.rpm
+- name: Pandora-Box-v1.0.24-macos-amd64.dmg
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-macos-amd64.dmg
+- name: Pandora-Box-v1.0.24-macos-arm64.dmg
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-macos-arm64.dmg
+- name: Pandora-Box-v1.0.24-windows-amd64-app.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-windows-amd64-app.zip
+- name: Pandora-Box-v1.0.24-windows-amd64.msi
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-windows-amd64.msi
+- name: Pandora-Box-v1.0.24-windows-arm64-app.zip
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-windows-arm64-app.zip
+- name: Pandora-Box-v1.0.24-windows-arm64.msi
+  url: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.24/Pandora-Box-v1.0.24-windows-arm64.msi
 evidence:
   kind: binary
   source: https://github.com/snakem982/Pandora-Box/releases/download/v1.0.23/Pandora-Box-v1.0.23-linux-amd64.rpm
   found_in: Pandora-Box-v1.0.23-linux-amd64.rpm
   signal: which-electron rg signal
-last_commit: '2026-10-15'
+last_commit: '2026-10-16'
 we_tried: we1.2.1+p1:v1.0.22

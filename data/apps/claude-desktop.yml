@@ -50,3 +50,4 @@ evidence:
   source: https://downloads.claude.ai/releases/darwin/universal/1.4758.0/Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
   found_in: Claude-fb266c24b61d94290860a3945b138d6d249425f6.zip
   signal: which-electron rg signal
+homepage: true
