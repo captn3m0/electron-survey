@@ -4,56 +4,56 @@ website: https://github.com/shy1132/VacuumTube
 repository: https://github.com/shy1132/VacuumTube
 aur:
 - vacuumtube
-latest: v2.0.0
-src: https://github.com/shy1132/VacuumTube/archive/refs/tags/v2.0.0.zip
+latest: v2.0.1
+src: https://github.com/shy1132/VacuumTube/archive/refs/tags/v2.0.1.zip
 downloads:
 - name: latest-linux-arm64.yml
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/latest-linux-arm64.yml
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/latest-linux.yml
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/latest-mac.yml
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/latest.yml
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/latest.yml
 - name: VacuumTube-amd64.deb
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-amd64.deb
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-amd64.deb
 - name: VacuumTube-arm64-Portable.zip
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-arm64-Portable.zip
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-arm64-Portable.zip
 - name: VacuumTube-arm64.AppImage
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-arm64.AppImage
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-arm64.AppImage
 - name: VacuumTube-arm64.deb
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-arm64.deb
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-arm64.deb
 - name: VacuumTube-arm64.dmg
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-arm64.dmg
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-arm64.dmg
 - name: VacuumTube-arm64.tar.gz
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-arm64.tar.gz
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-arm64.tar.gz
 - name: VacuumTube-arm64.zip
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-arm64.zip
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-arm64.zip
 - name: VacuumTube-Setup.exe
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-Setup.exe
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-Setup.exe
 - name: VacuumTube-Setup.exe.blockmap
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-Setup.exe.blockmap
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-Setup.exe.blockmap
 - name: VacuumTube-universal.dmg
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-universal.dmg
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-universal.dmg
 - name: VacuumTube-universal.zip
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-universal.zip
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-universal.zip
 - name: VacuumTube-x64-Portable.zip
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-x64-Portable.zip
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-x64-Portable.zip
 - name: VacuumTube-x64.dmg
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-x64.dmg
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-x64.dmg
 - name: VacuumTube-x64.tar.gz
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-x64.tar.gz
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-x64.tar.gz
 - name: VacuumTube-x64.zip
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-x64.zip
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-x64.zip
 - name: VacuumTube-x86_64.AppImage
-  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.0/VacuumTube-x86_64.AppImage
+  url: https://github.com/shy1132/VacuumTube/releases/download/v2.0.1/VacuumTube-x86_64.AppImage
 electron: 44.5.1
 method: src-package-lock
-electron_src: https://github.com/shy1132/VacuumTube/archive/refs/tags/v2.0.0.zip
+electron_src: https://github.com/shy1132/VacuumTube/archive/refs/tags/v2.0.1.zip
 evidence:
   kind: lockfile
-  found_in: VacuumTube-2.0.0/package-lock.json
+  found_in: VacuumTube-2.0.1/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/shy1132/VacuumTube/archive/refs/tags/v2.0.0.zip
+  source: https://github.com/shy1132/VacuumTube/archive/refs/tags/v2.0.1.zip
 aur_votes: 1
-last_commit: '2026-10-12'
+last_commit: '2026-10-18'

@@ -10,11 +10,11 @@ latest: 1.1.0
 src: https://github.com/AZCodingAccount/iTime/archive/refs/tags/1.1.0.zip
 downloads:
 - name: iTime-1.1.0-windows-installer.exe
-  url: https://github.com/AZCodingAccount/iTime/releases/download/1.1.0/iTime-1.1.0-windows-installer.exe
+  url: https://github.com/hanzhang-13/iTime/releases/download/1.1.0/iTime-1.1.0-windows-installer.exe
 - name: iTime-1.1.0-windows-no-installer.exe
-  url: https://github.com/AZCodingAccount/iTime/releases/download/1.1.0/iTime-1.1.0-windows-no-installer.exe
+  url: https://github.com/hanzhang-13/iTime/releases/download/1.1.0/iTime-1.1.0-windows-no-installer.exe
 - name: iTime-1.1.0.msi
-  url: https://github.com/AZCodingAccount/iTime/releases/download/1.1.0/iTime-1.1.0.msi
+  url: https://github.com/hanzhang-13/iTime/releases/download/1.1.0/iTime-1.1.0.msi
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/itime-git

@@ -19,25 +19,25 @@ aur:
 - gerbil
 electron: 43.1.1
 method: which-electron-rg
-latest: v1.28.4
-src: https://github.com/lone-cloud/gerbil/archive/refs/tags/v1.28.4.zip
+latest: v1.29.0
+src: https://github.com/lone-cloud/gerbil/archive/refs/tags/v1.29.0.zip
 downloads:
-- name: Gerbil-1.28.4-arm64.dmg
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/Gerbil-1.28.4-arm64.dmg
-- name: Gerbil-1.28.4.AppImage
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/Gerbil-1.28.4.AppImage
-- name: Gerbil-Portable-1.28.4.exe
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/Gerbil-Portable-1.28.4.exe
-- name: Gerbil-Setup-1.28.4.exe
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/Gerbil-Setup-1.28.4.exe
+- name: Gerbil-1.29.0-arm64.dmg
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/Gerbil-1.29.0-arm64.dmg
+- name: Gerbil-1.29.0.AppImage
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/Gerbil-1.29.0.AppImage
+- name: Gerbil-Portable-1.29.0.exe
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/Gerbil-Portable-1.29.0.exe
+- name: Gerbil-Setup-1.29.0.exe
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/Gerbil-Setup-1.29.0.exe
 - name: latest-linux.yml
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/latest-linux.yml
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/latest-mac.yml
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/lone-cloud/gerbil/releases/download/v1.28.4/latest.yml
+  url: https://github.com/lone-cloud/gerbil/releases/download/v1.29.0/latest.yml
 aur_votes: 1
-last_commit: '2026-09-18'
+last_commit: '2026-10-17'
 evidence:
   kind: binary
   source: https://github.com/lone-cloud/gerbil/releases/download/v1.27.0/Gerbil-1.27.0.AppImage

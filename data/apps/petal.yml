@@ -12,10 +12,6 @@ downloads:
   url: https://github.com/ilime/Petal/releases/download/v2.25.0/Petal.Setup.2.25.0.exe
 - name: Petal_2.25.0_amd64.deb
   url: https://github.com/ilime/Petal/releases/download/v2.25.0/Petal_2.25.0_amd64.deb
-- url: https://l882xxepjgu15ol2.public.blob.vercel-storage.com/Petal_0.9.32_universal.dmg
-  name: Petal_0.9.32_universal.dmg
-  source: homebrew
-  version: 0.9.32
 electron: 8.0.0
 method: src-yarn-lock
 aur:

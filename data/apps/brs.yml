@@ -17,6 +17,14 @@ downloads:
   url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-linux-armv7l.AppImage
 - name: brs-desktop-2.6.2-linux-x86_64.AppImage
   url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-linux-x86_64.AppImage
+- name: brs-desktop-2.6.2-macOS-arm64.dmg
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-macOS-arm64.dmg
+- name: brs-desktop-2.6.2-macOS-arm64.zip
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-macOS-arm64.zip
+- name: brs-desktop-2.6.2-macOS-x64.dmg
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-macOS-x64.dmg
+- name: brs-desktop-2.6.2-macOS-x64.zip
+  url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-macOS-x64.zip
 - name: brs-desktop-2.6.2-macOS.dmg
   url: https://github.com/lvcabral/brs-desktop/releases/download/v2.6.2/brs-desktop-2.6.2-macOS.dmg
 - name: brs-desktop-2.6.2-macOS.zip
@@ -33,7 +41,7 @@ evidence:
   source: https://aur.archlinux.org/packages/brs-desktop-bin
   found_in: brs-desktop-bin
   signal: depends on electron39; reported as the newest 39.x release (39.8.10)
-last_commit: '2026-10-11'
+last_commit: '2026-10-17'
 aur_downloads:
 - url: https://raw.githubusercontent.com/lvcabral/brs-desktop/v2.2.0/LICENSE
   name: LICENSE
