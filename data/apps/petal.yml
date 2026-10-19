@@ -26,5 +26,5 @@ evidence:
   reconstructed: true
 last_commit: '2023-02-03'
 homebrew: petal
-brew_installs: 1
+brew_installs: 10
 we_tried: we1.2.1+p1:v2.25.0

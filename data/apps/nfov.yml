@@ -21,7 +21,7 @@ electron: 1.8.4
 method: which-electron-fingerprint
 latest: v1.3.1
 src: https://github.com/nrlquaker/nfov/archive/refs/tags/v1.3.1.zip
-brew_installs: 100
+brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true

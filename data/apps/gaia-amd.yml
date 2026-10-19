@@ -6,59 +6,59 @@ aur:
 - gaia-amd-webui
 electron: 43.1.0
 method: which-electron-rg
-latest: v0.24.1
-src: https://github.com/amd/gaia/archive/refs/tags/v0.24.1.zip
+latest: v0.25.0
+src: https://github.com/amd/gaia/archive/refs/tags/v0.25.0.zip
 downloads:
-- name: amd_gaia-0.24.1-py3-none-any.whl
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/amd_gaia-0.24.1-py3-none-any.whl
-- name: amd_gaia-0.24.1-py3-none-any.whl.sigstore.json
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/amd_gaia-0.24.1-py3-none-any.whl.sigstore.json
-- name: amd_gaia-0.24.1.tar.gz
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/amd_gaia-0.24.1.tar.gz
-- name: amd_gaia-0.24.1.tar.gz.sigstore.json
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/amd_gaia-0.24.1.tar.gz.sigstore.json
-- name: gaia-agent-ui-0.24.1-amd64.deb
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-agent-ui-0.24.1-amd64.deb
-- name: gaia-agent-ui-0.24.1-arm64.dmg
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-agent-ui-0.24.1-arm64.dmg
-- name: gaia-agent-ui-0.24.1-arm64.dmg.blockmap
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-agent-ui-0.24.1-arm64.dmg.blockmap
-- name: gaia-agent-ui-0.24.1-x64-setup.exe
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-agent-ui-0.24.1-x64-setup.exe
-- name: gaia-agent-ui-0.24.1-x64-setup.exe.blockmap
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-agent-ui-0.24.1-x64-setup.exe.blockmap
-- name: gaia-agent-ui-0.24.1-x86_64.AppImage
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-agent-ui-0.24.1-x86_64.AppImage
+- name: amd_gaia-0.25.0-py3-none-any.whl
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/amd_gaia-0.25.0-py3-none-any.whl
+- name: amd_gaia-0.25.0-py3-none-any.whl.sigstore.json
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/amd_gaia-0.25.0-py3-none-any.whl.sigstore.json
+- name: amd_gaia-0.25.0.tar.gz
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/amd_gaia-0.25.0.tar.gz
+- name: amd_gaia-0.25.0.tar.gz.sigstore.json
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/amd_gaia-0.25.0.tar.gz.sigstore.json
+- name: gaia-agent-ui-0.25.0-amd64.deb
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-amd64.deb
+- name: gaia-agent-ui-0.25.0-arm64.dmg
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-arm64.dmg
+- name: gaia-agent-ui-0.25.0-arm64.dmg.blockmap
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-arm64.dmg.blockmap
+- name: gaia-agent-ui-0.25.0-x64-setup.exe
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-x64-setup.exe
+- name: gaia-agent-ui-0.25.0-x64-setup.exe.blockmap
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-x64-setup.exe.blockmap
+- name: gaia-agent-ui-0.25.0-x86_64.AppImage
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-x86_64.AppImage
 - name: gaia-darwin-amd64
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-darwin-amd64
-  checksum: 9cebee411923a23c09e4487f785bd1ea2f578dcca68036df4ee67db6a7a88494
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-darwin-amd64
+  checksum: 949ce426d6d14463fb1c3829ae50c1e0e0b9af5587e5a99cee5f9c8cedb718ea
 - name: gaia-darwin-arm64
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-darwin-arm64
-  checksum: 790918368c6b9f0d1cf61665accc476fa437905480a42517c821a33ce97e4c6b
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-darwin-arm64
+  checksum: e5a8ae0ca08c18a79e5b06642d0013e3b35c485ce976748a080a181578a9c24a
 - name: gaia-linux-amd64
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-linux-amd64
-  checksum: cf77c8b3cf6272f90912d42a31e4f5b7fdaaf70e9e6457aa32eee6cd4e742427
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-linux-amd64
+  checksum: f34379013dc0b7e25bae4b54b1dfbf54fe6e00b0cfe78516e0eb428d42f3f9db
 - name: gaia-linux-arm64
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-linux-arm64
-  checksum: 764adc664f8ba88b4cae587170c261d49eb65c36036eadb412d69f6cfdd896bd
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-linux-arm64
+  checksum: 65440b2433219f5e7a5238b9b09a5bb00dc434fcc0837a6693bf4536c6f3ed6f
 - name: gaia-tui-SHA256SUMS.txt
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-tui-SHA256SUMS.txt
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-tui-SHA256SUMS.txt
 - name: gaia-windows-amd64.exe
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-windows-amd64.exe
-  checksum: b295614c8b3d516eccfd7eb16042af660d346efa8ce81c2f3e787d367fa4e0b9
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-windows-amd64.exe
+  checksum: c145c817f41bec1b186c5dd4703caee4ade2057077a856e96c74982feb45e7f7
 - name: gaia-windows-arm64.exe
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/gaia-windows-arm64.exe
-  checksum: b074f23c40c2a8f0a72d46525b491efe5b6afb7152a4728e84f52206bd28c339
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-windows-arm64.exe
+  checksum: f42229af8bc1c1fb60e49ed2d05d27c6c5a5529023ebe7f17dc6e92f30cb4166
 - name: latest-linux.yml
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/latest-linux.yml
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/latest-mac.yml
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/amd/gaia/releases/download/v0.24.1/latest.yml
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/latest.yml
 evidence:
   kind: binary
   source: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-arm64.dmg
   found_in: gaia-agent-ui-0.22.0-arm64.dmg
   signal: which-electron rg signal
-last_commit: '2026-10-18'
+last_commit: '2026-10-19'
 aur_votes: 1

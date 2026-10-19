@@ -420,7 +420,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Elastron](https://elastron.eney.solutions/) | 41.3.0 ⚠️ | 5mo ago | which-electron-rg |
 | [Elecap](http://electroncapture.app) | 39.2.7 ⚠️ | 10mo ago | which-electron-rg |
 | [Electerm](https://electerm.github.io/electerm/) [[repo]](https://github.com/electerm/electerm) | 22.3.27 ⚠️ | 3y ago | which-electron-rg |
-| [Electorrent](https://github.com/Tympanix/Electorrent) [[repo]](https://github.com/Tympanix/Electorrent) | 42.1.0 ⚠️ | 5mo ago | src-package-lock |
+| [Electorrent](https://github.com/Tympanix/Electorrent) [[repo]](https://github.com/Tympanix/Electorrent) | 42.11.10 ⚠️ | 18d ago | src-package-lock |
 | [ElectroCRUD](https://garrylachman.github.io/ElectroCRUD/) [[repo]](https://github.com/garrylachman/ElectroCRUD) | 22.3.10 ⚠️ | 3y 5mo ago | which-electron-rg |
 | [Electron](https://electronjs.org/) [[repo]](https://github.com/electron/electron) | 43.2.0 ⚠️ | 2mo ago | which-electron-version_file |
 | [Electron Calculator](https://github.com/Alex313031/electron-calculator) [[repo]](https://github.com/Alex313031/electron-calculator) | 22.3.27 ⚠️ | 3y ago | which-electron-rg |
@@ -454,7 +454,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Elemental Notes](https://github.com/harryfrzz/Elemental-Notes) [[repo]](https://github.com/harryfrzz/Elemental-Notes) | 32.3.3 ⚠️ | 1y 7mo ago | aur-depends |
 | [Elements Latex](https://github.com/Red-Rapious/Elements-LaTeX) [[repo]](https://github.com/Red-Rapious/Elements-LaTeX) | 18.2.3 ⚠️ | 4y 6mo ago | which-electron-rg |
 | [Elemntary](https://github.com/vti/elemntary) [[repo]](https://github.com/vti/elemntary) | 24.0.0 ⚠️ | 3y 7mo ago | which-electron-rg |
-| [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 44.0.0 ⚠️ | 1mo ago | src-package-lock |
+| [Elephicon](https://github.com/sprout2000/elephicon) [[repo]](https://github.com/sprout2000/elephicon) | 44.9.0 | 1d ago | src-package-lock |
 | [Elevate](https://thomaschampagne.github.io/elevate-docs/) | 27.3.11 ⚠️ | 2y 6mo ago | aur-depends |
 | [Embertune](https://github.com/DylanAkp/EmberTune) [[repo]](https://github.com/DylanAkp/EmberTune) | 35.7.4 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Emsmediasystem](https://github.com/clockley/EjaxMediaSystem) [[repo]](https://github.com/clockley/EjaxMediaSystem) | 34.5.8 ⚠️ | 1y 4mo ago | which-electron-rg |
@@ -921,7 +921,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Micropad](https://getmicropad.com) | 31.7.7 ⚠️ | 1y 9mo ago | aur-depends |
 | [Microstockr](https://microstockr.com/) | 42.1.0 ⚠️ | 5mo ago | which-electron-rg |
 | [Midi2.0 Workbench](https://github.com/midi2-dev/MIDI2.0Workbench) [[repo]](https://github.com/midi2-dev/MIDI2.0Workbench) | 19.1.9 ⚠️ | 3y 11mo ago | aur-depends |
-| [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) [[repo]](https://github.com/mihomo-party-org/mihomo-party) | 43.7.3 ⚠️ | 1mo ago | src-pnpm-lock |
+| [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) [[repo]](https://github.com/mihomo-party-org/mihomo-party) | 43.8.0 | 2d ago | src-pnpm-lock |
 | [Milanote](https://milanote.com) | 38.2.0 ⚠️ | 1y ago | which-electron-rg |
 | [Milkup](https://github.com/Auto-Plugin/milkup) [[repo]](https://github.com/Auto-Plugin/milkup) | 39.8.5 ⚠️ | 6mo ago | which-electron-asar-manifest |
 | [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 40.6.1 ⚠️ | 7mo ago |  |
@@ -951,7 +951,7 @@ Apps with detected Electron version: 1815 / 2090
 | [Moebius](https://github.com/blocktronics/moebius) [[repo]](https://github.com/blocktronics/moebius) | 8.5.2 ⚠️ | 6y 1mo ago | which-electron-fingerprint |
 | [Molotov](https://www.molotov.tv/) | 34.0.0 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [MongoDB Compass](https://mongodb.com/compass) | 37.10.3 ⚠️ | 10mo ago | src-package-lock |
-| [Mongobench](https://github.com/ByteExceptionM/MongoBench) [[repo]](https://github.com/ByteExceptionM/MongoBench) | 42.11.15 | 2d ago | src-package-lock |
+| [Mongobench](https://github.com/ByteExceptionM/MongoBench) [[repo]](https://github.com/ByteExceptionM/MongoBench) | 42.11.15 | 3d ago | src-package-lock |
 | [Mongotron](https://github.com/officert/mongotron) [[repo]](https://github.com/officert/mongotron) | 0.36.0 ⚠️ |  | which-electron-version_file |
 | [Monit](https://monit.fzf404.art/) | 21.4.4 ⚠️ | 3y 7mo ago | which-electron-rg |
 | [Monokle](https://monokle.io) [[repo]](https://github.com/kubeshop/monokle) | 28.2.4 ⚠️ | 2y 8mo ago | src-package-lock |
@@ -1004,7 +1004,7 @@ Apps with detected Electron version: 1815 / 2090
 | [NetPad](https://github.com/tareqimbasher/NetPad) [[repo]](https://github.com/tareqimbasher/NetPad) | 36.2.0 ⚠️ | 1y 5mo ago | which-electron-rg |
 | [Netease Cloud Music Web Player](https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player) [[repo]](https://github.com/feng-yifan/Netease-Cloud-Music-Web-Player) | 38.8.6 ⚠️ | 7mo ago | src-range-guess |
 | [Netflix Electron31](https://gitlab.com/linuxbombay/netflix-desktop) | 31.7.7 ⚠️ | 1y 9mo ago | aur-depends |
-| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 44.8.0 ⚠️ | 2d ago | src-package-lock |
+| [Netron](https://www.lutzroeder.com/ai) [[repo]](https://github.com/lutzroeder/netron) | 44.8.0 ⚠️ | 3d ago | src-package-lock |
 | [Netron With Mime](https://netron.app/) | 43.1.1 ⚠️ | 3mo ago | which-electron-rg |
 | [Netsend](https://github.com/williamnie/netSend) [[repo]](https://github.com/williamnie/netSend) | 21.4.3 ⚠️ | 3y 7mo ago | which-electron-rg |
 | [NetworkAssembler](https://github.com/kir486680/Network-Assembler) [[repo]](https://github.com/kir486680/Network-Assembler) | 7.2.4 ⚠️ | 6y 6mo ago | src-package-lock |

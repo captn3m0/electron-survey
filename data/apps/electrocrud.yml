@@ -30,7 +30,7 @@ evidence:
   source: https://github.com/garrylachman/ElectroCRUD/releases/download/v3.1.0-develop.1/ElectroCRUD-v3.1.0-develop.1-linux-x64.rpm
   found_in: ElectroCRUD-v3.1.0-develop.1-linux-x64.rpm
   signal: which-electron rg signal
-brew_installs: 10
+brew_installs: 1
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
 last_commit: '2023-10-07'
