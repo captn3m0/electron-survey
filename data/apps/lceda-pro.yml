@@ -4,3 +4,10 @@ website: https://pro.lceda.cn/
 aur:
 - lceda-pro
 aur_votes: 1
+electron: 44.9.0
+method: aur-depends
+evidence:
+  kind: aur-depends
+  source: https://aur.archlinux.org/packages/lceda-pro
+  found_in: lceda-pro
+  signal: depends on electron44; reported as the newest 44.x release (44.9.0)

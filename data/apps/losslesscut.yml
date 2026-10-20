@@ -1,40 +1,40 @@
 id: losslesscut
 repository: https://github.com/mifi/lossless-cut
 website: https://github.com/mifi/lossless-cut
-latest: v3.69.0
-src: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.69.0.zip
+latest: v3.70.1
+src: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.70.1.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/latest-linux.yml
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/latest-mac.yml
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/latest-mac.yml
 - name: LosslessCut-linux-arm64.tar.bz2
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-linux-arm64.tar.bz2
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-linux-arm64.tar.bz2
 - name: LosslessCut-linux-armv7l.tar.bz2
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-linux-armv7l.tar.bz2
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-linux-armv7l.tar.bz2
 - name: LosslessCut-linux-x64.tar.bz2
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-linux-x64.tar.bz2
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-linux-x64.tar.bz2
 - name: LosslessCut-linux-x86_64.AppImage
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-linux-x86_64.AppImage
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-linux-x86_64.AppImage
 - name: LosslessCut-mac-arm64.dmg
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-arm64.dmg
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-arm64.dmg
 - name: LosslessCut-mac-arm64.dmg.blockmap
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-arm64.dmg.blockmap
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-arm64.dmg.blockmap
 - name: LosslessCut-mac-universal-DONT-USE-THIS-FILE.pkg
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-universal-DONT-USE-THIS-FILE.pkg
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-universal-DONT-USE-THIS-FILE.pkg
 - name: LosslessCut-mac-x64.dmg
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-x64.dmg
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-x64.dmg
 - name: LosslessCut-mac-x64.dmg.blockmap
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-mac-x64.dmg.blockmap
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-mac-x64.dmg.blockmap
 - name: LosslessCut-win-arm64-DONT-USE-THIS-FILE.appx
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-win-arm64-DONT-USE-THIS-FILE.appx
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-win-arm64-DONT-USE-THIS-FILE.appx
 - name: LosslessCut-win-arm64.7z
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-win-arm64.7z
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-win-arm64.7z
 - name: LosslessCut-win-x64-DONT-USE-THIS-FILE.appx
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-win-x64-DONT-USE-THIS-FILE.appx
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-win-x64-DONT-USE-THIS-FILE.appx
 - name: LosslessCut-win-x64.7z
-  url: https://github.com/mifi/lossless-cut/releases/download/v3.69.0/LosslessCut-win-x64.7z
-electron: 42.3.0
+  url: https://github.com/mifi/lossless-cut/releases/download/v3.70.1/LosslessCut-win-x64.7z
+electron: 42.11.15
 method: src-yarn-lock
 homebrew: losslesscut
 name: LosslessCut
@@ -45,12 +45,11 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.69.0.zip
+electron_src: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.70.1.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Amifi%2Flossless-cut+path%3Ayarn.lock+electron&type=code
-  found_in: yarn.lock
+  found_in: lossless-cut-3.70.1/yarn.lock
   signal: electron pinned in yarn.lock
-  reconstructed: true
+  source: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.70.1.zip
 brew_installs: 1000
 last_commit: '2026-10-19'

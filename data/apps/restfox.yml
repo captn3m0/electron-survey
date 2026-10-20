@@ -26,25 +26,25 @@ method: which-electron-rg
 homebrew: restfox
 downloads:
 - name: RELEASES
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/RELEASES
-- name: Restfox-0.40.0-1.x86_64.rpm
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0-1.x86_64.rpm
-- name: Restfox-0.40.0-full.nupkg
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0-full.nupkg
-- name: Restfox-0.40.0.Setup.exe
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0.Setup.exe
-- name: Restfox-darwin-arm64-0.40.0.zip
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-arm64-0.40.0.zip
-- name: Restfox-darwin-x64-0.40.0.zip
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-darwin-x64-0.40.0.zip
-- name: Restfox-win32-x64-0.40.0.zip
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-win32-x64-0.40.0.zip
-- name: restfox_0.40.0_amd64.deb
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/restfox_0.40.0_amd64.deb
-- name: Restfox_0.40.0_amd64.snap
-  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox_0.40.0_amd64.snap
-latest: v0.40.0
-src: https://github.com/flawiddsouza/Restfox/archive/refs/tags/v0.40.0.zip
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/RELEASES
+- name: Restfox-0.41.0-1.x86_64.rpm
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox-0.41.0-1.x86_64.rpm
+- name: Restfox-0.41.0-full.nupkg
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox-0.41.0-full.nupkg
+- name: Restfox-0.41.0.Setup.exe
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox-0.41.0.Setup.exe
+- name: Restfox-darwin-arm64-0.41.0.zip
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox-darwin-arm64-0.41.0.zip
+- name: Restfox-darwin-x64-0.41.0.zip
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox-darwin-x64-0.41.0.zip
+- name: Restfox-win32-x64-0.41.0.zip
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox-win32-x64-0.41.0.zip
+- name: restfox_0.41.0_amd64.deb
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/restfox_0.41.0_amd64.deb
+- name: Restfox_0.41.0_amd64.snap
+  url: https://github.com/flawiddsouza/Restfox/releases/download/v0.41.0/Restfox_0.41.0_amd64.snap
+latest: v0.41.0
+src: https://github.com/flawiddsouza/Restfox/archive/refs/tags/v0.41.0.zip
 evidence:
   kind: binary
   source: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/Restfox-0.40.0-1.x86_64.rpm
@@ -52,7 +52,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-10-18'
+last_commit: '2026-10-19'
 aur_downloads:
 - url: https://github.com/flawiddsouza/Restfox/releases/download/v0.40.0/restfox-0.40.0-1.x86_64.rpm
   name: restfox-0.40.0-1.x86_64.rpm

@@ -6,42 +6,42 @@ aur:
 - weread-bin
 electron: 33.3.0
 method: which-electron-rg
-latest: v1.1.2
-src: https://github.com/NeilYXIN/WeRead_Desktop/archive/refs/tags/v1.1.2.zip
+latest: v1.1.3
+src: https://github.com/NeilYXIN/WeRead_Desktop/archive/refs/tags/v1.1.3.zip
 downloads:
 - name: SHA256SUMS-linux.txt
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/SHA256SUMS-linux.txt
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/SHA256SUMS-linux.txt
 - name: SHA256SUMS-macos.txt
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/SHA256SUMS-macos.txt
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/SHA256SUMS-macos.txt
 - name: SHA256SUMS-windows.txt
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/SHA256SUMS-windows.txt
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/SHA256SUMS-windows.txt
 - name: SIGNING-STATUS-linux.txt
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/SIGNING-STATUS-linux.txt
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/SIGNING-STATUS-linux.txt
 - name: SIGNING-STATUS-macos.txt
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/SIGNING-STATUS-macos.txt
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/SIGNING-STATUS-macos.txt
 - name: SIGNING-STATUS-windows.txt
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/SIGNING-STATUS-windows.txt
-- name: WeRead-1.1.2-amd64.deb
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/WeRead-1.1.2-amd64.deb
-  checksum: b784c773f5ace7bc4956c4ff1f7f792d415880530dffad16330d89fd3a34208b
-- name: WeRead-1.1.2-arm64-unsigned.dmg
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/WeRead-1.1.2-arm64-unsigned.dmg
-  checksum: af1925de8eac182200a5364c70f592b588eabcb715211b8396f88b3746b5d0a0
-- name: WeRead-1.1.2-x64-unsigned.dmg
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/WeRead-1.1.2-x64-unsigned.dmg
-  checksum: c0c2ed2a1bf64882af71fb16fa97590ea4f87bf209d511a0f99e77375b53feac
-- name: WeRead-1.1.2-x86_64.AppImage
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/WeRead-1.1.2-x86_64.AppImage
-  checksum: 05dbc87627f40375fce77372d8a6b2708442019298ac089c26e60eaf42fc93a4
-- name: WeRead-Setup-1.1.2-x64-unsigned.exe
-  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.2/WeRead-Setup-1.1.2-x64-unsigned.exe
-  checksum: 8dac002b8e2d78e3f90e4d9aef4c1976539d1a1cebf3cbbc1819f32ccfa65e92
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/SIGNING-STATUS-windows.txt
+- name: WeRead-1.1.3-amd64.deb
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/WeRead-1.1.3-amd64.deb
+  checksum: f9b8e0fb09043febe50014d54ac7d97879c5049617ae45f720cdfc0555bf78ac
+- name: WeRead-1.1.3-arm64-unsigned.dmg
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/WeRead-1.1.3-arm64-unsigned.dmg
+  checksum: e503f66e734aacd671c73b1db9d4799599e342166be27f42c7cc72027131dd0c
+- name: WeRead-1.1.3-x64-unsigned.dmg
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/WeRead-1.1.3-x64-unsigned.dmg
+  checksum: dbcd36da73df00da2c2b1b55bf1ac7c1bbd823e40a43cda143e7c076be497a3b
+- name: WeRead-1.1.3-x86_64.AppImage
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/WeRead-1.1.3-x86_64.AppImage
+  checksum: be9287b74233cb9d78bcd4a8bf381d2ce4f616b256cafc7c64e26010a4d87fae
+- name: WeRead-Setup-1.1.3-x64-unsigned.exe
+  url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.1.3/WeRead-Setup-1.1.3-x64-unsigned.exe
+  checksum: 00e4f413e3718dc4c9ad5476e9eeb6247bd1f6002fac98fbc07800d44d8ab25c
 evidence:
   kind: binary
   source: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.0.4/WeRead-1.0.4.AppImage
   found_in: WeRead-1.0.4.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-18'
+last_commit: '2026-10-19'
 aur_downloads:
 - url: https://github.com/NeilYXIN/WeRead_Desktop/releases/download/v1.0.4/weread_1.0.4_amd64.deb
   name: weread_1.0.4_amd64.deb
