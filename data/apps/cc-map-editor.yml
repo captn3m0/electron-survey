@@ -38,7 +38,7 @@ evidence:
   found_in: cc-map-editor-2.4.4-linux.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-09-13'
+last_commit: '2026-10-20'
 aur_downloads:
 - url: https://github.com/CCDirectLink/crosscode-map-editor/releases/download/v2.4.4/cc-map-editor-2.4.4-linux.AppImage
   name: cc-map-editor-2.4.4-linux.AppImage

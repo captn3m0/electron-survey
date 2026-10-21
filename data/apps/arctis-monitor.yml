@@ -29,7 +29,7 @@ evidence:
   source: https://github.com/richrace/arctis-monitor/releases/download/v0.0.14/arctis-monitor-0.0.14-1.x86_64.rpm
   found_in: arctis-monitor-0.0.14-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-06-28'
+last_commit: '2026-10-20'
 aur_downloads:
 - url: https://github.com/richrace/arctis-monitor/releases/download/v0.0.14/arctis-monitor-0.0.14-1.x86_64.rpm
   name: arctis-monitor-0.0.14-1.x86_64.rpm
