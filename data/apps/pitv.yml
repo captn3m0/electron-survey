@@ -29,7 +29,7 @@ evidence:
   source: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv-1.1.2-1.x86_64.rpm
   found_in: pitv-1.1.2-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2024-06-04'
+last_commit: '2026-10-21'
 aur_downloads:
 - url: https://github.com/ozankaraali/PiTV/releases/download/latest/pitv-1.1.2-1.x86_64.rpm
   name: pitv-1.1.2-1.x86_64.rpm

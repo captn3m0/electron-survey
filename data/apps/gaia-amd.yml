@@ -17,6 +17,15 @@ downloads:
   url: https://github.com/amd/gaia/releases/download/v0.25.0/amd_gaia-0.25.0.tar.gz
 - name: amd_gaia-0.25.0.tar.gz.sigstore.json
   url: https://github.com/amd/gaia/releases/download/v0.25.0/amd_gaia-0.25.0.tar.gz.sigstore.json
+- name: gaia-0.25.0-darwin-arm64.pkg
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-0.25.0-darwin-arm64.pkg
+  checksum: 14686c90dd27531c121e26d7ea34b080585891665ce73e9bd8273463ceeca88e
+- name: gaia-0.25.0-darwin-x64.pkg
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-0.25.0-darwin-x64.pkg
+  checksum: 6ec94ebf390b6a6600b81f01fc91f588f176ab0af949d13ce180e142ada31222
+- name: gaia-0.25.0.x86_64.rpm
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-0.25.0.x86_64.rpm
+  checksum: c278300501f58d83a33855f30df31a5aa2e7c262236f58a08fb16eeb7e8831a4
 - name: gaia-agent-ui-0.25.0-amd64.deb
   url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-agent-ui-0.25.0-amd64.deb
 - name: gaia-agent-ui-0.25.0-arm64.dmg
@@ -35,6 +44,8 @@ downloads:
 - name: gaia-darwin-arm64
   url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-darwin-arm64
   checksum: e5a8ae0ca08c18a79e5b06642d0013e3b35c485ce976748a080a181578a9c24a
+- name: gaia-installers-SHA256SUMS.txt
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-installers-SHA256SUMS.txt
 - name: gaia-linux-amd64
   url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-linux-amd64
   checksum: f34379013dc0b7e25bae4b54b1dfbf54fe6e00b0cfe78516e0eb428d42f3f9db
@@ -49,6 +60,9 @@ downloads:
 - name: gaia-windows-arm64.exe
   url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia-windows-arm64.exe
   checksum: f42229af8bc1c1fb60e49ed2d05d27c6c5a5529023ebe7f17dc6e92f30cb4166
+- name: gaia_0.25.0_amd64.deb
+  url: https://github.com/amd/gaia/releases/download/v0.25.0/gaia_0.25.0_amd64.deb
+  checksum: ddf0aa95180b0ee54d196a27e2c664b323fd42afa16fea38156e4867ba025c5d
 - name: latest-linux.yml
   url: https://github.com/amd/gaia/releases/download/v0.25.0/latest-linux.yml
 - name: latest-mac.yml

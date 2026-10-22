@@ -1,29 +1,21 @@
 id: quba-e-invoice-viewer
 repository: https://github.com/ZUGFeRD/quba-viewer
 website: https://quba-viewer.org/
-latest: v1.5.1
-src: https://github.com/ZUGFeRD/quba-viewer/archive/refs/tags/v1.5.1.zip
+latest: 2.0.0
+src: https://github.com/ZUGFeRD/quba-viewer/archive/refs/tags/2.0.0.zip
 downloads:
-- name: latest-linux.yml
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/latest-linux.yml
-- name: latest-mac.yml
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/latest-mac.yml
-- name: latest.yml
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/latest.yml
-- name: Quba-1.5.1-universal.dmg
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba-1.5.1-universal.dmg
-- name: Quba-1.5.1-universal.dmg.blockmap
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba-1.5.1-universal.dmg.blockmap
-- name: Quba-1.5.1.AppImage
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba-1.5.1.AppImage
-- name: Quba.1.5.1.msi
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba.1.5.1.msi
-- name: Quba.Setup.1.5.1.exe
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba.Setup.1.5.1.exe
-- name: Quba.Setup.1.5.1.exe.blockmap
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba.Setup.1.5.1.exe.blockmap
-- name: Quba_1.5.1_amd64.snap
-  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba_1.5.1_amd64.snap
+- name: Quba-2.0.0-linux-x64.deb
+  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-linux-x64.deb
+- name: Quba-2.0.0-linux-x64.rpm
+  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-linux-x64.rpm
+- name: Quba-2.0.0-linux-x64.tar.gz
+  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-linux-x64.tar.gz
+- name: Quba-2.0.0-macos-arm64.dmg
+  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-macos-arm64.dmg
+- name: Quba-2.0.0-windows-x64.exe
+  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-windows-x64.exe
+- name: Quba-2.0.0-windows-x64.zip
+  url: https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-windows-x64.zip
 electron: 37.9.0
 method: src-package-lock
 homebrew: quba
@@ -32,12 +24,11 @@ packages:
 - url: https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.1/Quba-1.5.1-universal.dmg
   format: dmg
   os: macos
-electron_src: https://github.com/ZUGFeRD/quba-viewer/archive/refs/tags/v1.5.1.zip
+electron_src: https://github.com/ZUGFeRD/quba-viewer/archive/refs/tags/2.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3AZUGFeRD%2Fquba-viewer+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: quba-viewer-2.0.0/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/ZUGFeRD/quba-viewer/archive/refs/tags/2.0.0.zip
 brew_installs: 10
-last_commit: '2026-07-16'
+last_commit: '2026-10-21'
