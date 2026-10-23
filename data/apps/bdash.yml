@@ -1,29 +1,29 @@
 id: bdash
 repository: https://github.com/bdash-app/bdash
 website: https://github.com/bdash-app/bdash
-latest: v1.35.3
-src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.35.3.zip
+latest: v1.35.4
+src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.35.4.zip
 downloads:
-- name: Bdash-1.35.3-universal-mac.zip
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-1.35.3-universal-mac.zip
-- name: Bdash-1.35.3-universal-mac.zip.blockmap
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-1.35.3-universal-mac.zip.blockmap
-- name: Bdash-1.35.3-universal.dmg
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-1.35.3-universal.dmg
-- name: Bdash-1.35.3-universal.dmg.blockmap
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-1.35.3-universal.dmg.blockmap
-- name: Bdash-1.35.3.AppImage
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-1.35.3.AppImage
-- name: Bdash-Setup-1.35.3.exe
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-Setup-1.35.3.exe
-- name: Bdash-Setup-1.35.3.exe.blockmap
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/Bdash-Setup-1.35.3.exe.blockmap
+- name: Bdash-1.35.4-universal-mac.zip
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-1.35.4-universal-mac.zip
+- name: Bdash-1.35.4-universal-mac.zip.blockmap
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-1.35.4-universal-mac.zip.blockmap
+- name: Bdash-1.35.4-universal.dmg
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-1.35.4-universal.dmg
+- name: Bdash-1.35.4-universal.dmg.blockmap
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-1.35.4-universal.dmg.blockmap
+- name: Bdash-1.35.4.AppImage
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-1.35.4.AppImage
+- name: Bdash-Setup-1.35.4.exe
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-Setup-1.35.4.exe
+- name: Bdash-Setup-1.35.4.exe.blockmap
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/Bdash-Setup-1.35.4.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/latest-linux.yml
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/latest-mac.yml
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/bdash-app/bdash/releases/download/v1.35.3/latest.yml
+  url: https://github.com/bdash-app/bdash/releases/download/v1.35.4/latest.yml
 electron: 42.11.18
 method: src-yarn-lock
 aur:
@@ -34,11 +34,11 @@ packages:
 - url: https://github.com/bdash-app/bdash/releases/download/v1.35.1/Bdash-1.35.1-universal-mac.zip
   format: zip
   os: macos
-electron_src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.35.3.zip
+electron_src: https://github.com/bdash-app/bdash/archive/refs/tags/v1.35.4.zip
 evidence:
   kind: lockfile
-  found_in: bdash-1.35.3/yarn.lock
+  found_in: bdash-1.35.4/yarn.lock
   signal: electron pinned in yarn.lock
-  source: https://github.com/bdash-app/bdash/archive/refs/tags/v1.35.3.zip
+  source: https://github.com/bdash-app/bdash/archive/refs/tags/v1.35.4.zip
 brew_installs: 10
 last_commit: '2026-10-22'

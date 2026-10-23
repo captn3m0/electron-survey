@@ -17,7 +17,7 @@ evidence:
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
 aur_votes: 1
-last_commit: '2026-10-21'
+last_commit: '2026-10-22'
 downloads:
 - name: Deemix-0.5.1.Setup.exe
   url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/Deemix-0.5.1.Setup.exe

@@ -1,50 +1,50 @@
 id: etcher
 repository: https://github.com/resin-io/etcher
 website: https://etcher.balena.io/
-latest: v2.1.8
-src: https://github.com/resin-io/etcher/archive/refs/tags/v2.1.8.zip
+latest: v2.1.9
+src: https://github.com/resin-io/etcher/archive/refs/tags/v2.1.9.zip
 downloads:
-- name: balena-etcher-2.1.8-1.x86_64.rpm
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balena-etcher-2.1.8-1.x86_64.rpm
-  checksum: 5809d805e3223d75ef2cd39d69ee3a12f98cbfbcc216b769d7429443d6b1c14b
-- name: balena-etcher_2.1.8_amd64.deb
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balena-etcher_2.1.8_amd64.deb
-  checksum: 24c127557da5635bf674fb35ce39a4cb9084a513622ffb12c2ee71856c809a6a
-- name: balenaEtcher-2.1.8-arm64.dmg
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-2.1.8-arm64.dmg
-  checksum: 77dec2292a8eadb8505f65c8da904f65ffdbfff74b8b1ae8439eeaf22b3d5143
-- name: balenaEtcher-2.1.8-x64.dmg
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-2.1.8-x64.dmg
-  checksum: 4f20070d465a89345be2ad292fa829639ceb599473e013c14fe7fd2d3e45ea7b
-- name: balenaEtcher-2.1.8.Setup.exe
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-2.1.8.Setup.exe
-- name: balenaEtcher-darwin-arm64-2.1.8.zip
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-darwin-arm64-2.1.8.zip
-  checksum: 933a86a20d7d3ab4f6d9b6616f77bd5f3459e890a2d3790038f36fb0f75bc5f9
-- name: balenaEtcher-darwin-x64-2.1.8.zip
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-darwin-x64-2.1.8.zip
-  checksum: df190224e0972842caf894dc4aee09f764465c11f7dc47302101cd0c66872a36
-- name: balenaEtcher-linux-x64-2.1.8.zip
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-linux-x64-2.1.8.zip
-  checksum: 45b51cad0c8e1ebad3fde1d9c2e4c90c409d533b736b307d4b26f82fb3f05ce5
-- name: balenaEtcher-win32-x64-2.1.8.zip
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/balenaEtcher-win32-x64-2.1.8.zip
-  checksum: 829a3314a095abeec4f8175329b04e32c6582c51edc9c8199837258e732e8c16
+- name: balena-etcher-2.1.9-1.x86_64.rpm
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balena-etcher-2.1.9-1.x86_64.rpm
+  checksum: 7921555a7e3bdd7a2d020574d237a0aade2a112d9132ceb53af1f703abd9212d
+- name: balena-etcher_2.1.9_amd64.deb
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balena-etcher_2.1.9_amd64.deb
+  checksum: 7e0d0e0986e5d0f3d9c03a4c0004f9891235150e0da99fa0bc332d8c03f1a4c0
+- name: balenaEtcher-2.1.9-arm64.dmg
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9-arm64.dmg
+  checksum: 44baa43cc425e6e236a7e6fc405fe9562e4955ddedc6e6f27e22d6e5905759fe
+- name: balenaEtcher-2.1.9-x64.dmg
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9-x64.dmg
+  checksum: 1e896b335987afda8a2b97d92a4113e18a3cf3f52a46b9ce86ec5f4d8aecc884
+- name: balenaEtcher-2.1.9.Setup.exe
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9.Setup.exe
+- name: balenaEtcher-darwin-arm64-2.1.9.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-darwin-arm64-2.1.9.zip
+  checksum: defa9743ec1a3f8728cc12933870239a5a457f83dfd9812c46aa01c4c4652200
+- name: balenaEtcher-darwin-x64-2.1.9.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-darwin-x64-2.1.9.zip
+  checksum: 0298a1a450d9ce81b0eed41b18d9a4bd6ca5111a1283c2143871bc8b5ae04510
+- name: balenaEtcher-linux-x64-2.1.9.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-linux-x64-2.1.9.zip
+  checksum: 21ac9eb72a3f4d737623f85fc5ddd4073febb08b40e601b8051e99634da4fb09
+- name: balenaEtcher-win32-x64-2.1.9.zip
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-win32-x64-2.1.9.zip
+  checksum: b87cf10ea10efe03346a057d4a549cc0e57874618fd4ebc030b4de8d97c4b94b
 - name: npm-sbom.json
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/npm-sbom.json
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/npm-sbom.json
 - name: SHA256SUMS.Darwin.arm64.txt
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/SHA256SUMS.Darwin.arm64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/SHA256SUMS.Darwin.arm64.txt
 - name: SHA256SUMS.Darwin.x64.txt
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/SHA256SUMS.Darwin.x64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/SHA256SUMS.Darwin.x64.txt
 - name: SHA256SUMS.Linux.x64.txt
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/SHA256SUMS.Linux.x64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/SHA256SUMS.Linux.x64.txt
 - name: SHA256SUMS.Windows.x64.txt
-  url: https://github.com/balena-io/etcher/releases/download/v2.1.8/SHA256SUMS.Windows.x64.txt
+  url: https://github.com/balena-io/etcher/releases/download/v2.1.9/SHA256SUMS.Windows.x64.txt
 electron: 37.2.4
 aur:
 - balena-etcher-bin
 name: Etcher
-last_commit: '2026-10-21'
+last_commit: '2026-10-22'
 aur_downloads:
 - url: https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-linux-x64-2.1.4.zip
   name: balenaEtcher-linux-x64-2.1.4.zip

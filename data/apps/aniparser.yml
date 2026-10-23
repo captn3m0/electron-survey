@@ -26,4 +26,4 @@ evidence:
   source: https://github.com/Sinedka/aniparser/releases/download/v0.4.1/aniparser-0.4.1.AppImage
   found_in: aniparser-0.4.1.AppImage
   signal: which-electron rg signal
-last_commit: '2026-07-21'
+last_commit: '2026-10-22'
