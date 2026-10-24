@@ -1,8 +1,8 @@
 id: pencil
 repository: https://github.com/evolus/pencil
 website: https://pencil.evolus.vn/
-latest: v3.1.1
-src: https://github.com/evolus/pencil/archive/refs/tags/v3.1.1.zip
+latest: v4.0.0
+src: https://github.com/evolus/pencil/archive/refs/tags/v4.0.0.zip
 electron: 16.0.0
 method: src-package-lock
 aur:
@@ -10,28 +10,38 @@ aur:
 - pencil-git
 homebrew: pencil
 downloads:
-- url: https://pencil.evolus.vn/dl/V3.1.1.ga/Pencil-3.1.1.ga-universal.dmg
-  name: Pencil-3.1.1.ga-universal.dmg
-  version: 3.1.1
+- name: Pencil-4.0.0-arm64.dmg
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0-arm64.dmg
+- name: Pencil-4.0.0-universal.dmg
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0-universal.dmg
+- name: Pencil-4.0.0-x64.dmg
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0-x64.dmg
+- name: Pencil-4.0.0.ga.exe
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0.ga.exe
+- name: Pencil-4.0.0.ga.tar.gz
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0.ga.tar.gz
+- name: Pencil-4.0.0.ga.x86_64.rpm
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil-4.0.0.ga.x86_64.rpm
+- name: Pencil_4.0.0.ga_amd64.deb
+  url: https://github.com/evolus/pencil/releases/download/v4.0.0/Pencil_4.0.0.ga_amd64.deb
 name: Pencil
-electron_src: https://github.com/evolus/pencil/archive/refs/tags/v3.1.1.zip
+electron_src: https://github.com/evolus/pencil/archive/refs/tags/v4.0.0.zip
 evidence:
   kind: lockfile
-  source: https://github.com/search?q=repo%3Aevolus%2Fpencil+path%3Apackage-lock.json+electron&type=code
-  found_in: package-lock.json
+  found_in: pencil-4.0.0/package-lock.json
   signal: electron pinned in package-lock.json
-  reconstructed: true
+  source: https://github.com/evolus/pencil/archive/refs/tags/v4.0.0.zip
 homepage: true
 aur_votes: 10
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-10-22'
+last_commit: '2026-10-24'
 aur_downloads:
 - url: https://pencil.evolus.vn/dl/V3.1.1.ga/Pencil_3.1.1.ga_amd64.deb
   name: Pencil_3.1.1.ga_amd64.deb
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:v3.1.1
+we_tried: we1.2.1+p1:v4.0.0
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check
