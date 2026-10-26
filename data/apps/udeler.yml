@@ -50,4 +50,4 @@ evidence:
   source: https://github.com/heliomarpm/udemy-downloader-gui/releases/download/v1.14.0/Udeler_Setup-v1.14.0_linux-x86_64.rpm
   found_in: Udeler_Setup-v1.14.0_linux-x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-02-16'
+last_commit: '2026-10-25'

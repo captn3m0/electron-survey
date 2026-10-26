@@ -6,26 +6,18 @@ aur:
 - fusionkit-git
 electron: 33.4.11
 method: which-electron-rg
-latest: v0.5.1
-src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.5.1.zip
+latest: v0.5.2
+src: https://github.com/QiuYeDx/FusionKit/archive/refs/tags/v0.5.2.zip
 downloads:
-- name: FusionKit_0.5.1_x64.exe
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/FusionKit_0.5.1_x64.exe
-- name: FusionKit_0.5.1_x64.exe.blockmap
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/FusionKit_0.5.1_x64.exe.blockmap
+- name: FusionKit_0.5.2_x64.exe
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.2/FusionKit_0.5.2_x64.exe
+- name: FusionKit_0.5.2_x64.exe.blockmap
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.2/FusionKit_0.5.2_x64.exe.blockmap
 - name: latest.yml
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/latest.yml
-- name: FusionKit_0.5.1_arm64.zip
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/FusionKit_0.5.1_arm64.zip
-- name: FusionKit_0.5.1_arm64.zip.blockmap
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/FusionKit_0.5.1_arm64.zip.blockmap
-- name: FusionKit_0.5.1_arm64.dmg.blockmap
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/FusionKit_0.5.1_arm64.dmg.blockmap
-- name: latest-mac.yml
-  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.1/latest-mac.yml
+  url: https://github.com/QiuYeDx/FusionKit/releases/download/v0.5.2/latest.yml
 evidence:
   kind: binary
   source: https://github.com/QiuYeDx/FusionKit/releases/download/v0.2.11/FusionKit_0.2.11.dmg
   found_in: FusionKit_0.2.11.dmg
   signal: which-electron rg signal
-last_commit: '2026-10-24'
+last_commit: '2026-10-25'

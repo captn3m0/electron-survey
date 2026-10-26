@@ -26,7 +26,7 @@ evidence:
   source: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2.AppImage
   found_in: ForgeTools-2.0.2.AppImage
   signal: which-electron rg signal
-last_commit: '2025-11-23'
+last_commit: '2026-10-25'
 aur_downloads:
 - url: https://github.com/tengfone/forgetools/releases/download/v2.0.2/ForgeTools-2.0.2.AppImage
   name: ForgeTools-2.0.2.AppImage

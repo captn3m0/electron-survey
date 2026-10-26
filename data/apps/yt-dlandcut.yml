@@ -6,29 +6,31 @@ aur:
 - yt-dlandcut-bin
 electron: 25.4.0
 method: which-electron-rg
-latest: v3.0.0
-src: https://github.com/Markkop/yt-dlandcut/archive/refs/tags/v3.0.0.zip
+latest: v4.0.0
+src: https://github.com/Markkop/yt-dlandcut/archive/refs/tags/v4.0.0.zip
 downloads:
-- name: latest-linux-arm64.yml
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/latest-linux.yml
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/latest-mac.yml
-- name: yt-dlandcut-3.0.0.AppImage
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
-- name: yt-dlandcut-3.0.0.dmg
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.dmg
-- name: yt-dlandcut-3.0.0.dmg.blockmap
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.dmg.blockmap
-- name: yt-dlandcut-3.0.0.exe
-  url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.exe
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/latest-mac.yml
+- name: yt-dlandcut-4.0.0-linux-x86_64.AppImage
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/yt-dlandcut-4.0.0-linux-x86_64.AppImage
+- name: yt-dlandcut-4.0.0-mac-arm64.dmg
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/yt-dlandcut-4.0.0-mac-arm64.dmg
+- name: yt-dlandcut-4.0.0-mac-arm64.dmg.blockmap
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/yt-dlandcut-4.0.0-mac-arm64.dmg.blockmap
+- name: yt-dlandcut-4.0.0-mac-x64.dmg
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/yt-dlandcut-4.0.0-mac-x64.dmg
+- name: yt-dlandcut-4.0.0-mac-x64.dmg.blockmap
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/yt-dlandcut-4.0.0-mac-x64.dmg.blockmap
+- name: yt-dlandcut-4.0.0-win-x64.exe
+  url: https://github.com/Markkop/yt-dlandcut/releases/download/v4.0.0/yt-dlandcut-4.0.0-win-x64.exe
 evidence:
   kind: binary
   source: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
   found_in: yt-dlandcut-3.0.0.AppImage
   signal: which-electron rg signal
-last_commit: '2023-11-10'
+last_commit: '2026-10-25'
 aur_downloads:
 - url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
   name: yt-dlandcut-3.0.0.AppImage
