@@ -6,11 +6,11 @@ aur:
 - simpleshell-git
 electron: 40.10.6
 method: aur-depends
-latest: v0.5.6
-src: https://github.com/funkpopo/simpleshell/archive/refs/tags/v0.5.6.zip
+latest: v0.5.7
+src: https://github.com/funkpopo/simpleshell/archive/refs/tags/v0.5.7.zip
 downloads:
-- name: SimpleShell-v0.5.6-Setup-x64.exe
-  url: https://github.com/funkpopo/simpleshell/releases/download/v0.5.6/SimpleShell-v0.5.6-Setup-x64.exe
+- name: SimpleShell-v0.5.7-Setup-x64.exe
+  url: https://github.com/funkpopo/simpleshell/releases/download/v0.5.7/SimpleShell-v0.5.7-Setup-x64.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/simpleshell-git

@@ -6,18 +6,18 @@ aur:
 repository: https://github.com/bambanah/deemix
 additionalAUR:
 - deemix-gui-git
-latest: deemix-gui@0.5.1
-src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
+latest: deemix-webui@4.7.2
+src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.2.zip
 electron: 37.2.6
 method: src-pnpm-lock
-electron_src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
+electron_src: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.2.zip
 evidence:
   kind: lockfile
-  found_in: deemix-deemix-gui-0.5.1/pnpm-lock.yaml
+  found_in: deemix-deemix-webui-4.7.2/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/bambanah/deemix/archive/refs/tags/deemix-gui@0.5.1.zip
+  source: https://github.com/bambanah/deemix/archive/refs/tags/deemix-webui@4.7.2.zip
 aur_votes: 1
-last_commit: '2026-10-24'
+last_commit: '2026-10-27'
 downloads:
 - name: Deemix-0.5.1.Setup.exe
   url: https://github.com/bambanah/deemix/releases/download/deemix-gui%400.5.1/Deemix-0.5.1.Setup.exe

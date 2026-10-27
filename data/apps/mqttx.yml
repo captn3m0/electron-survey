@@ -51,9 +51,6 @@ downloads:
 - name: latest.yml
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.2/latest.yml
   checksum: e2026ee20a585ce4983927547af6a087a2609b205aeb440c2de8288a9698b338
-- name: mqttx-1.13.2-agent-floating.png
-  url: https://github.com/emqx/MQTTX/releases/download/v1.13.2/mqttx-1.13.2-agent-floating.png
-  checksum: 2adfd534c4ef0c2fa28277f3b76110acec0e37b4f3023aa23086cb731538beff
 - name: MQTTX-1.13.2-arm64-mac.zip
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.2/MQTTX-1.13.2-arm64-mac.zip
   checksum: 2f7380cedd0733bff8c00afd47a633dbc39591e515c1bf0902e5a0243205571f
@@ -69,9 +66,6 @@ downloads:
 - name: MQTTX-1.13.2-arm64.dmg.blockmap
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.2/MQTTX-1.13.2-arm64.dmg.blockmap
   checksum: 61b675fbaaa17be2fb95c1b55d6e59bf956593bdd74949497675f29a31ef170e
-- name: mqttx-1.13.2-dashboard.png
-  url: https://github.com/emqx/MQTTX/releases/download/v1.13.2/mqttx-1.13.2-dashboard.png
-  checksum: 0bb3f4e4fbbfd71c7228a1f48bf29f55fe163aba0d3401583d0c503c450fc5b6
 - name: MQTTX-1.13.2-ia32-win.zip
   url: https://github.com/emqx/MQTTX/releases/download/v1.13.2/MQTTX-1.13.2-ia32-win.zip
   checksum: 908977451949ced7019a5507a22d0c453d1c93b01bf93b65229ff5d8fd5d7539
@@ -170,7 +164,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-10-26'
+last_commit: '2026-10-27'
 aur_downloads:
 - url: https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX-1.13.0.aarch64.rpm
   name: MQTTX-1.13.0.aarch64.rpm

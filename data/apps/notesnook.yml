@@ -28,57 +28,57 @@ method: which-electron-rg
 homebrew: notesnook
 downloads:
 - name: generated-sources.json
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/generated-sources.json
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/generated-sources.json
 - name: latest-linux-arm64.yml
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/latest-linux-arm64.yml
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/latest-linux-arm64.yml
 - name: latest-linux.yml
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/latest-linux.yml
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/latest-mac.yml
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/latest.yml
-- name: notesnook_build_v3.4.10.zip
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_build_v3.4.10.zip
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/latest.yml
+- name: notesnook_build_v3.4.11.zip
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_build_v3.4.11.zip
 - name: notesnook_linux_arm64.AppImage
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_linux_arm64.AppImage
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_linux_arm64.AppImage
 - name: notesnook_linux_x86_64.AppImage
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_linux_x86_64.AppImage
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_linux_x86_64.AppImage
 - name: notesnook_mac_arm64.dmg
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_arm64.dmg
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_arm64.dmg
 - name: notesnook_mac_arm64.dmg.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_arm64.dmg.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_arm64.dmg.blockmap
 - name: notesnook_mac_arm64.zip
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_arm64.zip
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_arm64.zip
 - name: notesnook_mac_arm64.zip.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_arm64.zip.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_arm64.zip.blockmap
 - name: notesnook_mac_x64.dmg
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_x64.dmg
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_x64.dmg
 - name: notesnook_mac_x64.dmg.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_x64.dmg.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_x64.dmg.blockmap
 - name: notesnook_mac_x64.zip
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_x64.zip
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_x64.zip
 - name: notesnook_mac_x64.zip.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_mac_x64.zip.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_mac_x64.zip.blockmap
 - name: notesnook_win.exe
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win.exe
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win.exe
 - name: notesnook_win.exe.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win.exe.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win.exe.blockmap
 - name: notesnook_win_arm64.exe
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_arm64.exe
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_arm64.exe
 - name: notesnook_win_arm64.exe.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_arm64.exe.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_arm64.exe.blockmap
 - name: notesnook_win_arm64_portable.exe
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_arm64_portable.exe
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_arm64_portable.exe
 - name: notesnook_win_portable.exe
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_portable.exe
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_portable.exe
 - name: notesnook_win_x64.exe
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_x64.exe
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_x64.exe
 - name: notesnook_win_x64.exe.blockmap
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_x64.exe.blockmap
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_x64.exe.blockmap
 - name: notesnook_win_x64_portable.exe
-  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.10/notesnook_win_x64_portable.exe
-latest: v3.4.10
-src: https://github.com/streetwriters/notesnook/archive/refs/tags/v3.4.10.zip
+  url: https://github.com/streetwriters/notesnook/releases/download/v3.4.11/notesnook_win_x64_portable.exe
+latest: v3.4.11
+src: https://github.com/streetwriters/notesnook/archive/refs/tags/v3.4.11.zip
 evidence:
   kind: binary
   source: https://github.com/streetwriters/notesnook/releases/download/v3.4.4/notesnook_mac_arm64.dmg
@@ -86,7 +86,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 10
 brew_installs: 1000
-last_commit: '2026-10-24'
+last_commit: '2026-10-26'
 aur_downloads:
 - url: https://github.com/streetwriters/notesnook/releases/download/v3.4.4/notesnook_linux_arm64.AppImage
   name: notesnook_linux_arm64.AppImage

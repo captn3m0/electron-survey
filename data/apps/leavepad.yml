@@ -43,4 +43,4 @@ evidence:
   source: https://github.com/kaishuu0123/leavepad/releases/download/v2.7.2/leavepad-2.7.2.AppImage
   found_in: leavepad-2.7.2.AppImage
   signal: which-electron rg signal
-last_commit: '2026-09-21'
+last_commit: '2026-10-27'

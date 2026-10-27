@@ -46,4 +46,4 @@ evidence:
   source: https://github.com/soapdog/patchwork/releases/download/v5.4.0/ponchowonky-5.4.0-arm64.tar.gz
   found_in: ponchowonky-5.4.0-arm64.tar.gz
   signal: which-electron rg signal
-last_commit: '2026-10-23'
+last_commit: '2026-10-26'

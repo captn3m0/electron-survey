@@ -30,7 +30,7 @@ evidence:
   source: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
   found_in: yt-dlandcut-3.0.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-25'
+last_commit: '2026-10-26'
 aur_downloads:
 - url: https://github.com/Markkop/yt-dlandcut/releases/download/v3.0.0/yt-dlandcut-3.0.0.AppImage
   name: yt-dlandcut-3.0.0.AppImage
