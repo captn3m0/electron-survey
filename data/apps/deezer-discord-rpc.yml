@@ -4,36 +4,38 @@ website: https://github.com/JustYuuto/deezer-discord-rpc
 repository: https://github.com/JustYuuto/deezer-discord-rpc
 aur:
 - deezer-discord-rpc-bin
-latest: 1.4.0
-src: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.4.0.zip
+latest: 1.5.1
+src: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.5.1.zip
 downloads:
 - name: DeezerDiscordRPC-linux-amd64.deb
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-linux-amd64.deb
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-linux-amd64.deb
 - name: DeezerDiscordRPC-linux-amd64.snap
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-linux-amd64.snap
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-linux-amd64.snap
 - name: DeezerDiscordRPC-linux-x86_64.AppImage
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-linux-x86_64.AppImage
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-linux-x86_64.AppImage
+- name: DeezerDiscordRPC-linux-x86_64.AppImage.zsync
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-linux-x86_64.AppImage.zsync
 - name: DeezerDiscordRPC-linux-x86_64.rpm
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-linux-x86_64.rpm
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-linux-x86_64.rpm
 - name: DeezerDiscordRPC-mac-arm64.dmg
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-mac-arm64.dmg
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-mac-arm64.dmg
 - name: DeezerDiscordRPC-mac-x64.dmg
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-mac-x64.dmg
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-mac-x64.dmg
 - name: DeezerDiscordRPC-win-x64.exe
-  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.4.0/DeezerDiscordRPC-win-x64.exe
-electron: 44.5.1
+  url: https://github.com/CuteTenshii/deezer-discord-rpc/releases/download/1.5.1/DeezerDiscordRPC-win-x64.exe
+electron: 45.1.0
 method: src-range-guess
-electron_src: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.4.0.zip
+electron_src: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.5.1.zip
 evidence:
   kind: manifest
-  found_in: deezer-discord-rpc-1.4.0/package.json
-  signal: no lockfile; range "^44.5.0" resolved to its highest known match
-  source: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.4.0.zip
-last_commit: '2026-10-01'
+  found_in: deezer-discord-rpc-1.5.1/package.json
+  signal: no lockfile; range "^45.0.0" resolved to its highest known match
+  source: https://github.com/JustYuuto/deezer-discord-rpc/archive/refs/tags/1.5.1.zip
+last_commit: '2026-10-27'
 aur_downloads:
 - url: https://github.com/JustYuuto/deezer-discord-rpc/releases/latest/download/DeezerDiscordRPC-linux-amd64.deb
   name: DeezerDiscordRPC-linux-amd64.deb
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:1.4.0
+we_tried: we1.2.1+p1:1.5.1
 aur_votes: 1

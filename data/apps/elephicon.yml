@@ -1,28 +1,28 @@
 id: elephicon
 repository: https://github.com/sprout2000/elephicon
 website: https://github.com/sprout2000/elephicon
-latest: v4.3.0
-src: https://github.com/sprout2000/elephicon/archive/refs/tags/v4.3.0.zip
+latest: v4.3.1
+src: https://github.com/sprout2000/elephicon/archive/refs/tags/v4.3.1.zip
 downloads:
-- name: Elephicon-4.3.0-darwin-arm64.dmg
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-darwin-arm64.dmg
-- name: Elephicon-4.3.0-darwin-arm64.dmg.blockmap
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-darwin-arm64.dmg.blockmap
-- name: Elephicon-4.3.0-darwin-arm64.zip
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-darwin-arm64.zip
-- name: Elephicon-4.3.0-darwin-arm64.zip.blockmap
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-darwin-arm64.zip.blockmap
-- name: Elephicon-4.3.0-win32-x64-installer.exe
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-win32-x64-installer.exe
-- name: Elephicon-4.3.0-win32-x64-installer.exe.blockmap
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-win32-x64-installer.exe.blockmap
-- name: Elephicon-4.3.0-win32-x64.zip
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/Elephicon-4.3.0-win32-x64.zip
+- name: Elephicon-4.3.1-darwin-arm64.dmg
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-darwin-arm64.dmg
+- name: Elephicon-4.3.1-darwin-arm64.dmg.blockmap
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-darwin-arm64.dmg.blockmap
+- name: Elephicon-4.3.1-darwin-arm64.zip
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-darwin-arm64.zip
+- name: Elephicon-4.3.1-darwin-arm64.zip.blockmap
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-darwin-arm64.zip.blockmap
+- name: Elephicon-4.3.1-win32-x64-installer.exe
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-win32-x64-installer.exe
+- name: Elephicon-4.3.1-win32-x64-installer.exe.blockmap
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-win32-x64-installer.exe.blockmap
+- name: Elephicon-4.3.1-win32-x64.zip
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/Elephicon-4.3.1-win32-x64.zip
 - name: latest-mac.yml
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/latest-mac.yml
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.0/latest.yml
-electron: 45.0.0
+  url: https://github.com/sprout2000/elephicon/releases/download/v4.3.1/latest.yml
+electron: 45.1.0
 method: src-package-lock
 aur:
 - elephicon
@@ -33,11 +33,11 @@ packages:
   format: dmg
   os: macos
   arch: arm64
-electron_src: https://github.com/sprout2000/elephicon/archive/refs/tags/v4.3.0.zip
+electron_src: https://github.com/sprout2000/elephicon/archive/refs/tags/v4.3.1.zip
 evidence:
   kind: lockfile
-  found_in: elephicon-4.3.0/package-lock.json
+  found_in: elephicon-4.3.1/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/sprout2000/elephicon/archive/refs/tags/v4.3.0.zip
+  source: https://github.com/sprout2000/elephicon/archive/refs/tags/v4.3.1.zip
 brew_installs: 10
-last_commit: '2026-10-25'
+last_commit: '2026-10-27'
