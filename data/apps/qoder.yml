@@ -17,3 +17,10 @@ aur_downloads:
   name: qoder_x86_64.rpm
   arch: any
   source: aur-bin
+homebrew: qoder
+downloads:
+- url: https://download.qoder.com/qoder-app/releases/0.4.11/Qoder-mac-arm64.zip
+  name: Qoder-mac-arm64.zip
+  source: homebrew
+  version: 0.4.11
+brew_installs: 1

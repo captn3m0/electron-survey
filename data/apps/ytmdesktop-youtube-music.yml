@@ -11,50 +11,39 @@ aur:
 - ytmdesktop-bin
 homebrew: ytmdesktop-youtube-music
 downloads:
-- name: CHECKSUMS.sha256.asc
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/CHECKSUMS.sha256.asc
 - name: RELEASES
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/RELEASES
-  checksum: 7ca4115c40e202391f4087727aa3b065f5ed2a3d1494f88db86b54863ca567a9
-- name: youtube-music-desktop-app-2.0.12-1.arm64.rpm
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/youtube-music-desktop-app-2.0.12-1.arm64.rpm
-  checksum: 3a7c164ff88181e2f7fc9c5bf4ffd598238637b788779624496c6e12374d4e3e
-- name: youtube-music-desktop-app-2.0.12-1.x86_64.rpm
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/youtube-music-desktop-app-2.0.12-1.x86_64.rpm
-  checksum: 6b9e19d6566ed42cabc7709855f4f9a9be1ea95b74d5dc70cd95098aeaf244cf
-- name: youtube-music-desktop-app_2.0.12_amd64.deb
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/youtube-music-desktop-app_2.0.12_amd64.deb
-  checksum: 4894cd275000f78f452aadb927337a063ebd5b01f13fc3edf5bc603d3bb6d0a8
-- name: youtube-music-desktop-app_2.0.12_arm64.deb
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/youtube-music-desktop-app_2.0.12_arm64.deb
-  checksum: e460d9643dfd3412b72378c7931ed79ab17146158d9055bd6f8d9f96cf5c0b3d
-- name: YouTube.Music.Desktop.App-2.0.12.Setup.exe
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/YouTube.Music.Desktop.App-2.0.12.Setup.exe
-  checksum: e8962c322ce67dd04e638685cd2c21d188a2c72640d1cd65b74cc58c1912652a
-- name: YouTube.Music.Desktop.App-darwin-arm64-2.0.12.zip
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/YouTube.Music.Desktop.App-darwin-arm64-2.0.12.zip
-  checksum: 9932d6eedd985c3068068449f6e73f105c37e39a93433d880eb17a5a83963f9b
-- name: YouTube.Music.Desktop.App-darwin-x64-2.0.12.zip
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/YouTube.Music.Desktop.App-darwin-x64-2.0.12.zip
-  checksum: f4539ffc4a30ed71976dac2e45f2fa90d9858b3975bc4cf2c7b0b33407a001d0
-- name: youtube_music_desktop_app-2.0.12-full.nupkg
-  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.12/youtube_music_desktop_app-2.0.12-full.nupkg
-  checksum: d75412b3fb5d33224d29286630f318b8c69819db27c3b416703d09007b36d2e9
-latest: v2.0.12
-src: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.0.12.zip
-electron: 44.3.0
-method: src-yarn-lock
-electron_src: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.0.12.zip
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/RELEASES
+- name: youtube-music-desktop-app-2.1.0-1.arm64.rpm
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/youtube-music-desktop-app-2.1.0-1.arm64.rpm
+- name: youtube-music-desktop-app-2.1.0-1.x86_64.rpm
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/youtube-music-desktop-app-2.1.0-1.x86_64.rpm
+- name: youtube-music-desktop-app_2.1.0_amd64.deb
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/youtube-music-desktop-app_2.1.0_amd64.deb
+- name: youtube-music-desktop-app_2.1.0_arm64.deb
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/youtube-music-desktop-app_2.1.0_arm64.deb
+- name: YouTube.Music.Desktop.App-2.1.0.Setup.exe
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/YouTube.Music.Desktop.App-2.1.0.Setup.exe
+- name: YouTube.Music.Desktop.App-darwin-arm64-2.1.0.zip
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/YouTube.Music.Desktop.App-darwin-arm64-2.1.0.zip
+- name: YouTube.Music.Desktop.App-darwin-x64-2.1.0.zip
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/YouTube.Music.Desktop.App-darwin-x64-2.1.0.zip
+- name: youtube_music_desktop_app-2.1.0-full.nupkg
+  url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.1.0/youtube_music_desktop_app-2.1.0-full.nupkg
+latest: v2.1.0
+src: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.1.0.zip
+electron: 40.4.0
+method: which-electron-rg
+electron_src: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.1.0.zip
 evidence:
-  kind: lockfile
-  found_in: ytmdesktop-2.0.12/yarn.lock
-  signal: electron pinned in yarn.lock
-  source: https://github.com/ytmdesktop/ytmdesktop/archive/refs/tags/v2.0.12.zip
+  kind: binary
+  source: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.11/youtube-music-desktop-app_2.0.11_amd64.deb
+  found_in: youtube-music-desktop-app_2.0.11_amd64.deb
+  signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-10-27'
+last_commit: '2026-10-28'
 aur_downloads:
 - url: https://github.com/ytmdesktop/ytmdesktop/releases/download/v2.0.11/youtube-music-desktop-app_2.0.11_amd64.deb
   name: youtube-music-desktop-app_2.0.11_amd64.deb

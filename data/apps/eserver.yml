@@ -17,20 +17,26 @@ packages:
   arch: x64
 electron: 22.3.27
 method: which-electron-rg
-latest: v6.1.2
-src: https://github.com/xianyunleo/EServer/archive/refs/tags/v6.1.2.zip
+latest: v6.2.1
+src: https://github.com/xianyunleo/EServer/archive/refs/tags/v6.2.1.zip
 downloads:
-- name: EServer-6.1.2-arm64-win.zip
-  url: https://github.com/xianyunleo/EServer/releases/download/v6.1.2/EServer-6.1.2-arm64-win.zip
-- name: EServer-6.1.2-setup.exe
-  url: https://github.com/xianyunleo/EServer/releases/download/v6.1.2/EServer-6.1.2-setup.exe
-- name: EServer-6.1.2-setup.exe.blockmap
-  url: https://github.com/xianyunleo/EServer/releases/download/v6.1.2/EServer-6.1.2-setup.exe.blockmap
-- name: EServer-6.1.2-win.zip
-  url: https://github.com/xianyunleo/EServer/releases/download/v6.1.2/EServer-6.1.2-win.zip
+- name: EServer-6.2.1-arm64-win.zip
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/EServer-6.2.1-arm64-win.zip
+- name: EServer-6.2.1-setup.exe
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/EServer-6.2.1-setup.exe
+- name: EServer-6.2.1-setup.exe.blockmap
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/EServer-6.2.1-setup.exe.blockmap
+- name: EServer-6.2.1-win.zip
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/EServer-6.2.1-win.zip
+- name: EServer-mac-6.2.1-arm64.dmg
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/EServer-mac-6.2.1-arm64.dmg
+- name: EServer-mac-6.2.1-arm64.dmg.blockmap
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/EServer-mac-6.2.1-arm64.dmg.blockmap
+- name: latest-mac.yml
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/xianyunleo/EServer/releases/download/v6.1.2/latest.yml
-last_commit: '2026-10-27'
+  url: https://github.com/xianyunleo/EServer/releases/download/v6.2.1/latest.yml
+last_commit: '2026-10-28'
 evidence:
   kind: binary
   source: https://github.com/xianyunleo/EServer/releases/download/v5.5.0/EServer-5.5.0-arm64-win.zip

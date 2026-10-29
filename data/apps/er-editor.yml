@@ -16,4 +16,4 @@ evidence:
   source: https://github.com/ForwardFeed/er-editor/releases/download/v0.7.1/er-editor.zip
   found_in: er-editor.zip
   signal: which-electron rg signal
-last_commit: '2026-02-17'
+last_commit: '2026-10-28'
