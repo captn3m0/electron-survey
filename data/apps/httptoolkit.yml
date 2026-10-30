@@ -37,33 +37,33 @@ aur:
 - httptoolkit-git
 electron: 39.8.7
 method: which-electron-rg
-latest: v1.27.3
-src: https://github.com/httptoolkit/httptoolkit-desktop/archive/refs/tags/v1.27.3.zip
+latest: v1.27.4
+src: https://github.com/httptoolkit/httptoolkit-desktop/archive/refs/tags/v1.27.4.zip
 downloads:
-- name: HttpToolkit-1.27.3-arm64.AppImage
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-arm64.AppImage
-- name: HttpToolkit-1.27.3-arm64.deb
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-arm64.deb
-- name: HttpToolkit-1.27.3-arm64.dmg
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-arm64.dmg
-- name: HttpToolkit-1.27.3-arm64.rpm
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-arm64.rpm
-- name: HttpToolkit-1.27.3-linux-arm64.zip
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-linux-arm64.zip
-- name: HttpToolkit-1.27.3-linux-x64.zip
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-linux-x64.zip
-- name: HttpToolkit-1.27.3-win-x64.zip
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-win-x64.zip
-- name: HttpToolkit-1.27.3-x64.AppImage
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-x64.AppImage
-- name: HttpToolkit-1.27.3-x64.deb
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-x64.deb
-- name: HttpToolkit-1.27.3-x64.dmg
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-x64.dmg
-- name: HttpToolkit-1.27.3-x64.rpm
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3-x64.rpm
-- name: HttpToolkit-1.27.3.exe
-  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.3/HttpToolkit-1.27.3.exe
+- name: HttpToolkit-1.27.4-arm64.AppImage
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-arm64.AppImage
+- name: HttpToolkit-1.27.4-arm64.deb
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-arm64.deb
+- name: HttpToolkit-1.27.4-arm64.dmg
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-arm64.dmg
+- name: HttpToolkit-1.27.4-arm64.rpm
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-arm64.rpm
+- name: HttpToolkit-1.27.4-linux-arm64.zip
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-linux-arm64.zip
+- name: HttpToolkit-1.27.4-linux-x64.zip
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-linux-x64.zip
+- name: HttpToolkit-1.27.4-win-x64.zip
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-win-x64.zip
+- name: HttpToolkit-1.27.4-x64.AppImage
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-x64.AppImage
+- name: HttpToolkit-1.27.4-x64.deb
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-x64.deb
+- name: HttpToolkit-1.27.4-x64.dmg
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-x64.dmg
+- name: HttpToolkit-1.27.4-x64.rpm
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4-x64.rpm
+- name: HttpToolkit-1.27.4.exe
+  url: https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.27.4/HttpToolkit-1.27.4.exe
 aur_votes: 10
 last_commit: '2026-10-28'
 evidence:

@@ -6,76 +6,76 @@ aur:
 - gaia-amd-webui
 electron: 43.1.0
 method: which-electron-rg
-latest: v0.25.1
-src: https://github.com/amd/gaia/archive/refs/tags/v0.25.1.zip
+latest: v0.25.2
+src: https://github.com/amd/gaia/archive/refs/tags/v0.25.2.zip
 downloads:
-- name: amd_gaia-0.25.1-py3-none-any.whl
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/amd_gaia-0.25.1-py3-none-any.whl
-- name: amd_gaia-0.25.1-py3-none-any.whl.sigstore.json
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/amd_gaia-0.25.1-py3-none-any.whl.sigstore.json
-- name: amd_gaia-0.25.1.tar.gz
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/amd_gaia-0.25.1.tar.gz
-- name: amd_gaia-0.25.1.tar.gz.sigstore.json
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/amd_gaia-0.25.1.tar.gz.sigstore.json
-- name: gaia-0.25.1-darwin-arm64.pkg
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-0.25.1-darwin-arm64.pkg
-  checksum: cda2d2e4d4c21678ee0bf4bb81fbd7892a38dad01e75c73cf1342c46c9d83228
-- name: gaia-0.25.1-darwin-x64.pkg
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-0.25.1-darwin-x64.pkg
-  checksum: 9e7c740e330690ee34b6c1865bbad7b05af1f5dd8996657b49ecc518068e360c
-- name: gaia-0.25.1-win-x64-setup.exe
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-0.25.1-win-x64-setup.exe
-  checksum: b6d8ca00f8f0dcedd6830981decb4a0fcb892f4145cdfec7c0d36bc7a5212d7b
-- name: gaia-0.25.1.x86_64.rpm
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-0.25.1.x86_64.rpm
-  checksum: 8b52a6f928b39b23c4b57621d787fd5c4358a4e50f42c69bf3ccf39163fc4e5f
-- name: gaia-agent-ui-0.25.1-amd64.deb
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-agent-ui-0.25.1-amd64.deb
-- name: gaia-agent-ui-0.25.1-arm64.dmg
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-agent-ui-0.25.1-arm64.dmg
-- name: gaia-agent-ui-0.25.1-arm64.dmg.blockmap
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-agent-ui-0.25.1-arm64.dmg.blockmap
-- name: gaia-agent-ui-0.25.1-x64-setup.exe
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-agent-ui-0.25.1-x64-setup.exe
-- name: gaia-agent-ui-0.25.1-x64-setup.exe.blockmap
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-agent-ui-0.25.1-x64-setup.exe.blockmap
-- name: gaia-agent-ui-0.25.1-x86_64.AppImage
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-agent-ui-0.25.1-x86_64.AppImage
+- name: amd_gaia-0.25.2-py3-none-any.whl
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/amd_gaia-0.25.2-py3-none-any.whl
+- name: amd_gaia-0.25.2-py3-none-any.whl.sigstore.json
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/amd_gaia-0.25.2-py3-none-any.whl.sigstore.json
+- name: amd_gaia-0.25.2.tar.gz
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/amd_gaia-0.25.2.tar.gz
+- name: amd_gaia-0.25.2.tar.gz.sigstore.json
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/amd_gaia-0.25.2.tar.gz.sigstore.json
+- name: gaia-0.25.2-darwin-arm64.pkg
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-0.25.2-darwin-arm64.pkg
+  checksum: a479c40d67ea9b2c7068c3bbb799858042a1ece34c3be8c62c2a05f2f02b8c23
+- name: gaia-0.25.2-darwin-x64.pkg
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-0.25.2-darwin-x64.pkg
+  checksum: dae34c1ff9f6ac838bfad5a26127150e27e6fd5005eed5c97adbac0bb484c1ec
+- name: gaia-0.25.2-win-x64-setup.exe
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-0.25.2-win-x64-setup.exe
+  checksum: 0e61c38d57a8439b8ff0b72863b5b936caca9a82e8355ed2fd9ec4e1b27e68ab
+- name: gaia-0.25.2.x86_64.rpm
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-0.25.2.x86_64.rpm
+  checksum: ecb8bff03a9bfce9519289b3e236f92af2fab75f9605010cf76eed4903cb3f92
+- name: gaia-agent-ui-0.25.2-amd64.deb
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-agent-ui-0.25.2-amd64.deb
+- name: gaia-agent-ui-0.25.2-arm64.dmg
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-agent-ui-0.25.2-arm64.dmg
+- name: gaia-agent-ui-0.25.2-arm64.dmg.blockmap
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-agent-ui-0.25.2-arm64.dmg.blockmap
+- name: gaia-agent-ui-0.25.2-x64-setup.exe
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-agent-ui-0.25.2-x64-setup.exe
+- name: gaia-agent-ui-0.25.2-x64-setup.exe.blockmap
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-agent-ui-0.25.2-x64-setup.exe.blockmap
+- name: gaia-agent-ui-0.25.2-x86_64.AppImage
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-agent-ui-0.25.2-x86_64.AppImage
 - name: gaia-darwin-amd64
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-darwin-amd64
-  checksum: 76ce2dfbedc7a6a0531d1fcaa009d57b00cc1e07e3a13bcd555af64eaad06928
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-darwin-amd64
+  checksum: bf73073b387051de6106a9356d0b475a52baa83a60067a4b7e15e750116dba7a
 - name: gaia-darwin-arm64
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-darwin-arm64
-  checksum: 5767fbbdf472e135c56fc4ed7f4e565fd5076419f007a81037f22195dad7ff3a
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-darwin-arm64
+  checksum: 3c35f421e6fff3aa176b6dc8836bf1de0faf49280402024eeac9598299f55e6f
 - name: gaia-installers-SHA256SUMS.txt
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-installers-SHA256SUMS.txt
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-installers-SHA256SUMS.txt
 - name: gaia-linux-amd64
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-linux-amd64
-  checksum: 41cb8eda7c58f0089503c836979fa7a96864c249d4a2d3b50ad717962d924981
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-linux-amd64
+  checksum: e4314c62617e91466b82944338f9cceb04fd5084b387047eeae234a21e718ab5
 - name: gaia-linux-arm64
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-linux-arm64
-  checksum: 087d97ce52509266ebcf76bb0d1c680767514e39c9ccd3f552bfc0be88d0554a
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-linux-arm64
+  checksum: eb6ddf4a4430ce6abffd741cf97edc5f13ab7dffa4a0691e7e614d779eb4de29
 - name: gaia-tui-SHA256SUMS.txt
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-tui-SHA256SUMS.txt
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-tui-SHA256SUMS.txt
 - name: gaia-windows-amd64.exe
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-windows-amd64.exe
-  checksum: 0c695a703cfe13e3cd48701bd45c012e559b892b343e4354d400ee12c6c2fdab
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-windows-amd64.exe
+  checksum: accbe8332f9e0aac16e3f6e8394cbde9ccf0d599d3089d4f40435d06419a58aa
 - name: gaia-windows-arm64.exe
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia-windows-arm64.exe
-  checksum: bdd53766b86b5c94ad4695e0c84d801ba6537e5ea06ef4459a32b83f9c988906
-- name: gaia_0.25.1_amd64.deb
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/gaia_0.25.1_amd64.deb
-  checksum: 2a78df6e4f1590a01f5f713a81ad53c1c7c4ffe0971fdc57e922b7437c5067a1
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia-windows-arm64.exe
+  checksum: 5135c30c04394e086cdd81520e24b3b066761923acfc7d784469c7547591f962
+- name: gaia_0.25.2_amd64.deb
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/gaia_0.25.2_amd64.deb
+  checksum: 67ea3cdb95963a06d13fecdc29b81e23430247a876aa4237bef2362ceb6fd2cb
 - name: latest-linux.yml
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/latest-linux.yml
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/latest-mac.yml
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/amd/gaia/releases/download/v0.25.1/latest.yml
+  url: https://github.com/amd/gaia/releases/download/v0.25.2/latest.yml
 evidence:
   kind: binary
   source: https://github.com/amd/gaia/releases/download/v0.22.0/gaia-agent-ui-0.22.0-arm64.dmg
   found_in: gaia-agent-ui-0.22.0-arm64.dmg
   signal: which-electron rg signal
-last_commit: '2026-10-29'
+last_commit: '2026-10-30'
 aur_votes: 1

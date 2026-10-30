@@ -30,18 +30,122 @@ aur:
 - goldwarden-gui
 homebrew: bitwarden
 downloads:
-- name: web-2026.10.1-selfhosted-COMMERCIAL.zip
-  url: https://github.com/bitwarden/clients/releases/download/web-v2026.10.1/web-2026.10.1-selfhosted-COMMERCIAL.zip
-- name: web-2026.10.1-selfhosted-open-source.zip
-  url: https://github.com/bitwarden/clients/releases/download/web-v2026.10.1/web-2026.10.1-selfhosted-open-source.zip
+- name: Bitwarden-2026.10.2-amd64.deb
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-amd64.deb
+- name: Bitwarden-2026.10.2-arm64-store.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-arm64-store.appx
+- name: Bitwarden-2026.10.2-arm64.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-arm64.appx
+- name: bitwarden-2026.10.2-arm64.nsis.7z
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden-2026.10.2-arm64.nsis.7z
+- name: Bitwarden-2026.10.2-ia32-store.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-ia32-store.appx
+- name: Bitwarden-2026.10.2-ia32.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-ia32.appx
+- name: bitwarden-2026.10.2-ia32.nsis.7z
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden-2026.10.2-ia32.nsis.7z
+- name: Bitwarden-2026.10.2-universal-mac.zip
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-universal-mac.zip
+- name: Bitwarden-2026.10.2-universal.dmg
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-universal.dmg
+- name: Bitwarden-2026.10.2-universal.dmg.blockmap
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-universal.dmg.blockmap
+- name: Bitwarden-2026.10.2-universal.pkg.archive
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-universal.pkg.archive
+- name: Bitwarden-2026.10.2-x64-store.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-x64-store.appx
+- name: Bitwarden-2026.10.2-x64.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-x64.appx
+- name: bitwarden-2026.10.2-x64.nsis.7z
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden-2026.10.2-x64.nsis.7z
+- name: Bitwarden-2026.10.2-x86_64.AppImage
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-x86_64.AppImage
+- name: Bitwarden-2026.10.2-x86_64.rpm
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-2026.10.2-x86_64.rpm
+- name: Bitwarden-Installer-2026.10.2.exe
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-Installer-2026.10.2.exe
+- name: Bitwarden-Portable-2026.10.2.exe
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-Portable-2026.10.2.exe
+- name: bitwarden.2026.10.2.nupkg
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden.2026.10.2.nupkg
+- name: bitwarden_2026.10.2_amd64.snap
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden_2026.10.2_amd64.snap
+- name: bitwarden_2026.10.2_arm64.snap
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden_2026.10.2_arm64.snap
+- name: bitwarden_2026.10.2_arm64.tar.gz
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden_2026.10.2_arm64.tar.gz
+- name: bitwarden_2026.10.2_x64.tar.gz
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/bitwarden_2026.10.2_x64.tar.gz
+- name: commercial-Bitwarden-2026.10.2-amd64.deb
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-amd64.deb
+- name: commercial-Bitwarden-2026.10.2-arm64-store.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-arm64-store.appx
+- name: commercial-Bitwarden-2026.10.2-arm64.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-arm64.appx
+- name: commercial-bitwarden-2026.10.2-arm64.nsis.7z
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden-2026.10.2-arm64.nsis.7z
+- name: commercial-Bitwarden-2026.10.2-ia32-store.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-ia32-store.appx
+- name: commercial-Bitwarden-2026.10.2-ia32.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-ia32.appx
+- name: commercial-bitwarden-2026.10.2-ia32.nsis.7z
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden-2026.10.2-ia32.nsis.7z
+- name: commercial-Bitwarden-2026.10.2-universal-mac.zip
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-universal-mac.zip
+- name: commercial-Bitwarden-2026.10.2-universal.dmg
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-universal.dmg
+- name: commercial-Bitwarden-2026.10.2-universal.dmg.blockmap
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-universal.dmg.blockmap
+- name: commercial-Bitwarden-2026.10.2-universal.pkg.archive
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-universal.pkg.archive
+- name: commercial-Bitwarden-2026.10.2-x64-store.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-x64-store.appx
+- name: commercial-Bitwarden-2026.10.2-x64.appx
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-x64.appx
+- name: commercial-bitwarden-2026.10.2-x64.nsis.7z
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden-2026.10.2-x64.nsis.7z
+- name: commercial-Bitwarden-2026.10.2-x86_64.AppImage
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-x86_64.AppImage
+- name: commercial-Bitwarden-2026.10.2-x86_64.rpm
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-2026.10.2-x86_64.rpm
+- name: commercial-Bitwarden-Installer-2026.10.2.exe
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-Installer-2026.10.2.exe
+- name: commercial-Bitwarden-Portable-2026.10.2.exe
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-Bitwarden-Portable-2026.10.2.exe
+- name: commercial-bitwarden.2026.10.2.nupkg
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden.2026.10.2.nupkg
+- name: commercial-bitwarden_2026.10.2_amd64.snap
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden_2026.10.2_amd64.snap
+- name: commercial-bitwarden_2026.10.2_arm64.snap
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden_2026.10.2_arm64.snap
+- name: commercial-bitwarden_2026.10.2_arm64.tar.gz
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden_2026.10.2_arm64.tar.gz
+- name: commercial-bitwarden_2026.10.2_x64.tar.gz
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-bitwarden_2026.10.2_x64.tar.gz
+- name: commercial-latest-linux.yml
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-latest-linux.yml
+- name: commercial-latest-mac.yml
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-latest-mac.yml
+- name: commercial-latest.yml
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-latest.yml
+- name: commercial-macos-build-number.json
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/commercial-macos-build-number.json
+- name: latest-linux.yml
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/latest.yml
+- name: macos-build-number.json
+  url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/macos-build-number.json
 electron: 41.7.2
 method: which-electron-rg
-latest: web-v2026.10.1
-src: https://github.com/bitwarden/clients/archive/refs/tags/web-v2026.10.1.zip
+latest: desktop-v2026.10.2
+src: https://github.com/bitwarden/clients/archive/refs/tags/desktop-v2026.10.2.zip
 homepage: true
 aur_votes: 10
 brew_installs: 10000
-last_commit: '2026-10-29'
+last_commit: '2026-10-30'
 aur_downloads:
 - url: https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/Bitwarden-2026.7.0-amd64.deb
   name: Bitwarden-2026.7.0-amd64.deb

@@ -63,4 +63,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/Mastermindzh/tidal-hifi/archive/refs/tags/9.0.0.zip
 aur_votes: 1
-last_commit: '2026-10-16'
+last_commit: '2026-10-29'

@@ -16,7 +16,7 @@ evidence:
   source: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage
   found_in: Tune-Player-1.0.0.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-28'
+last_commit: '2026-10-29'
 aur_downloads:
 - url: https://github.com/Moebytes/Tune-Player/releases/download/v1.0.0/Tune-Player-1.0.0.AppImage
   name: Tune-Player-1.0.0.AppImage
