@@ -29,60 +29,60 @@ packages:
   arch: arm64
 homebrew: pulsar
 downloads:
-- name: ARM.Linux.Pulsar-1.132.1-arm64.AppImage
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.Pulsar-1.132.1-arm64.AppImage
-  checksum: 27a25a64c3ebf76590c3cecb4dcce91ac7586be0c66ff16c5026631e8aa8250c
-- name: ARM.Linux.pulsar-1.132.1-arm64.tar.gz
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar-1.132.1-arm64.tar.gz
-  checksum: 3135aa5256df8c9948415cb46012db7a733303b5e09e4af7e27af6b7c9e1a1f7
-- name: ARM.Linux.pulsar-1.132.1.aarch64.rpm
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar-1.132.1.aarch64.rpm
-  checksum: 9bc11df35a82dffaa7bb87ce0ccffd1725afbe306b5e2f5338e9d0354e39728b
-- name: ARM.Linux.pulsar_1.132.1_arm64.deb
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar_1.132.1_arm64.deb
-  checksum: d1c00143ef2323440abdca62beb7cba6121d5b4d7182e78ed498226d9cb85930
-- name: Intel.Mac.Pulsar-1.132.1-mac.zip
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Intel.Mac.Pulsar-1.132.1-mac.zip
-  checksum: 8b9ddac5867845f870711c436f1db3f501e5947052239489bd1213175e2327dd
-- name: Intel.Mac.Pulsar-1.132.1-mac.zip.blockmap
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Intel.Mac.Pulsar-1.132.1-mac.zip.blockmap
-  checksum: fcea8284bb0f302d5d0d65a07bf0669937e4a320118ff25c205254dd1022d282
-- name: Intel.Mac.Pulsar-1.132.1.dmg
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Intel.Mac.Pulsar-1.132.1.dmg
-  checksum: 1aa1bb588baa44bcb3b5f11a2b3d910a59e6594ee3a7f087feb5042d133970b8
-- name: Linux.Pulsar-1.132.1.AppImage
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.Pulsar-1.132.1.AppImage
-  checksum: 4527276473c48d454e0899a0cdb6bf04f1d2bd8eb452d35aad048d00ef8a6537
-- name: Linux.pulsar-1.132.1.tar.gz
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.pulsar-1.132.1.tar.gz
-  checksum: eba92e6f20cc107811753dfc4d311230867ec103cf5d61c17348d863768c4a45
-- name: Linux.pulsar-1.132.1.x86_64.rpm
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.pulsar-1.132.1.x86_64.rpm
-  checksum: 39d23b22e7992696e7151a449e04652b198215c8c2b30254eb108e5b11843191
-- name: Linux.pulsar_1.132.1_amd64.deb
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Linux.pulsar_1.132.1_amd64.deb
-  checksum: cf5bd102a53019db91c3a7d3c7d7a803fd60ce84faf33ac2df2fb06fa3ab1a0d
+- name: ARM.Linux.Pulsar-1.133.0-arm64.AppImage
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/ARM.Linux.Pulsar-1.133.0-arm64.AppImage
+  checksum: 96e84e2a62a94938dc411db2fe5b35dbeb143b9a84133c0b899f07f46d6e9d17
+- name: ARM.Linux.pulsar-1.133.0-arm64.tar.gz
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/ARM.Linux.pulsar-1.133.0-arm64.tar.gz
+  checksum: 9af807bb745505cd5014d5624ce6a56644d0164511cf16d89923348bd336ed2b
+- name: ARM.Linux.pulsar-1.133.0.aarch64.rpm
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/ARM.Linux.pulsar-1.133.0.aarch64.rpm
+  checksum: 6ec8acf2175bdb85f80b54254cb2907e12f5120c2b10d8fbf9782fe7c8dea0a8
+- name: ARM.Linux.pulsar_1.133.0_arm64.deb
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/ARM.Linux.pulsar_1.133.0_arm64.deb
+  checksum: 12f58d3471e3456bc932088e8f4f19084a8fea40c5930a222707daffdc5f36d7
+- name: Intel.Mac.Pulsar-1.133.0-mac.zip
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Intel.Mac.Pulsar-1.133.0-mac.zip
+  checksum: f0c93b3843730c0dd9a625cd48ce76a19391891be6e36d40d19489ef02515281
+- name: Intel.Mac.Pulsar-1.133.0-mac.zip.blockmap
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Intel.Mac.Pulsar-1.133.0-mac.zip.blockmap
+  checksum: 2f83af8cf80359259cf6dc68c08bcc4d7a3343bb7b271c2fdc31dd8ca2eb741a
+- name: Intel.Mac.Pulsar-1.133.0.dmg
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Intel.Mac.Pulsar-1.133.0.dmg
+  checksum: c2cd3f5d93b622d94435b177ea386cebcfee9979cbc5dde577ae8896d81a95f6
+- name: Linux.Pulsar-1.133.0.AppImage
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Linux.Pulsar-1.133.0.AppImage
+  checksum: 456c13ec0e36f0b92ffe016e584f4dc77be72ce12083b479a3af68e912655cf9
+- name: Linux.pulsar-1.133.0.tar.gz
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Linux.pulsar-1.133.0.tar.gz
+  checksum: f0506dfac47a2cef53acfd3b8d58861e514bd0fd897331c484c47128e15f0590
+- name: Linux.pulsar-1.133.0.x86_64.rpm
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Linux.pulsar-1.133.0.x86_64.rpm
+  checksum: 0545268ab9a6e08fa7f4ffbfa471025a6deb679b4f89d285b1eb3b686fb08b83
+- name: Linux.pulsar_1.133.0_amd64.deb
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Linux.pulsar_1.133.0_amd64.deb
+  checksum: b75210bdf288ddc27dc6934b347b3998ee08a9557c121b1f4921982c69109414
 - name: SHA256SUMS.txt
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/SHA256SUMS.txt
-- name: Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip
-  checksum: cbb5a3ace0f62a7ebbce0ab0147ecc84730f9cb4e2844bea76b4d256f539f2d6
-- name: Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip.blockmap
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64-mac.zip.blockmap
-  checksum: 6a5c3654f73c55ebce7b373c0f32563888ec8ab94975b17697d17534c1a13d73
-- name: Silicon.Mac.Pulsar-1.132.1-arm64.dmg
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Silicon.Mac.Pulsar-1.132.1-arm64.dmg
-  checksum: a8e89b56872b40a1f23dadd547c13a74463b0271cf2ac9fb44306c4342756ce6
-- name: Windows.Pulsar-1.132.1-win.zip
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Windows.Pulsar-1.132.1-win.zip
-  checksum: c7ec585102e13e22bce5e4b320b16468a3b82bd08714899493627c8856d96c50
-- name: Windows.Pulsar.Setup.1.132.1.exe
-  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/Windows.Pulsar.Setup.1.132.1.exe
-  checksum: 0086dd54caa0a325162ce915cbb3bf5ecca0bd11f9df81e97665ef48e64eefb9
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/SHA256SUMS.txt
+- name: Silicon.Mac.Pulsar-1.133.0-arm64-mac.zip
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Silicon.Mac.Pulsar-1.133.0-arm64-mac.zip
+  checksum: f35350585168b2894182e843e2ba76e2745d04eab83e6f7c32300a77e5fbc68b
+- name: Silicon.Mac.Pulsar-1.133.0-arm64-mac.zip.blockmap
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Silicon.Mac.Pulsar-1.133.0-arm64-mac.zip.blockmap
+  checksum: 88a4771f19d8dcb0ab25c9eb9f0b2c455a57dd71035461826fcff2eeac446d56
+- name: Silicon.Mac.Pulsar-1.133.0-arm64.dmg
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Silicon.Mac.Pulsar-1.133.0-arm64.dmg
+  checksum: dcf41b070bff42677490ee74f97242110de23df3579f26ed7e71d5548700f627
+- name: Windows.Pulsar-1.133.0-win.zip
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Windows.Pulsar-1.133.0-win.zip
+  checksum: 41a04ca15dc16591f7fb4775063aba9135695afb2ed374e3b26364f66586c111
+- name: Windows.Pulsar.Setup.1.133.0.exe
+  url: https://github.com/pulsar-edit/pulsar/releases/download/v1.133.0/Windows.Pulsar.Setup.1.133.0.exe
+  checksum: b30f6a680ee2d3f6af6899c9c226d9c78fe7bd014b9ae3238628f3f710d778c3
 electron: 30.5.1
 method: which-electron-rg
-latest: v1.132.1
-src: https://github.com/pulsar-edit/pulsar/archive/refs/tags/v1.132.1.zip
+latest: v1.133.0
+src: https://github.com/pulsar-edit/pulsar/archive/refs/tags/v1.133.0.zip
 evidence:
   kind: binary
   source: https://github.com/pulsar-edit/pulsar/releases/download/v1.132.1/ARM.Linux.pulsar-1.132.1.aarch64.rpm

@@ -1,42 +1,42 @@
 id: syng
 repository: https://github.com/sotch-pr35mac/syng
 website: https://syngdict.com/
-latest: 2.6.0
-src: https://github.com/sotch-pr35mac/syng/archive/refs/tags/2.6.0.zip
+latest: 2.7.0
+src: https://github.com/sotch-pr35mac/syng/archive/refs/tags/2.7.0.zip
 downloads:
-- name: Syng-2.6.0-1.aarch64.rpm
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng-2.6.0-1.aarch64.rpm
-- name: Syng-2.6.0-1.x86_64.rpm
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng-2.6.0-1.x86_64.rpm
-- name: Syng_2.6.0_aarch64.AppImage
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_aarch64.AppImage
-- name: Syng_2.6.0_aarch64.dmg
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_aarch64.dmg
-- name: Syng_2.6.0_amd64.AppImage
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_amd64.AppImage
-- name: Syng_2.6.0_amd64.deb
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_amd64.deb
-- name: Syng_2.6.0_arm64-setup.exe
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_arm64-setup.exe
-- name: Syng_2.6.0_arm64.app.tar.gz
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_arm64.app.tar.gz
-- name: Syng_2.6.0_arm64.deb
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_arm64.deb
-- name: Syng_2.6.0_arm64.zip
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_arm64.zip
-- name: Syng_2.6.0_x64-setup.exe
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x64-setup.exe
-- name: Syng_2.6.0_x64.app.tar.gz
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x64.app.tar.gz
-- name: Syng_2.6.0_x64.dmg
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x64.dmg
-- name: Syng_2.6.0_x64.zip
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x64.zip
-- name: Syng_2.6.0_x64_en-US.msi
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x64_en-US.msi
-- name: Syng_2.6.0_x86-setup.exe
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x86-setup.exe
-- name: Syng_2.6.0_x86_en-US.msi
-  url: https://github.com/sotch-pr35mac/syng/releases/download/2.6.0/Syng_2.6.0_x86_en-US.msi
+- name: Syng-2.7.0-1.aarch64.rpm
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng-2.7.0-1.aarch64.rpm
+- name: Syng-2.7.0-1.x86_64.rpm
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng-2.7.0-1.x86_64.rpm
+- name: Syng_2.7.0_aarch64.app.tar.gz
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_aarch64.app.tar.gz
+- name: Syng_2.7.0_aarch64.AppImage
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_aarch64.AppImage
+- name: Syng_2.7.0_aarch64.dmg
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_aarch64.dmg
+- name: Syng_2.7.0_aarch64.zip
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_aarch64.zip
+- name: Syng_2.7.0_amd64.AppImage
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_amd64.AppImage
+- name: Syng_2.7.0_amd64.deb
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_amd64.deb
+- name: Syng_2.7.0_arm64-setup.exe
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_arm64-setup.exe
+- name: Syng_2.7.0_arm64.deb
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_arm64.deb
+- name: Syng_2.7.0_x64-setup.exe
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x64-setup.exe
+- name: Syng_2.7.0_x64.app.tar.gz
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x64.app.tar.gz
+- name: Syng_2.7.0_x64.dmg
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x64.dmg
+- name: Syng_2.7.0_x64.zip
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x64.zip
+- name: Syng_2.7.0_x64_en-US.msi
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x64_en-US.msi
+- name: Syng_2.7.0_x86-setup.exe
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x86-setup.exe
+- name: Syng_2.7.0_x86_en-US.msi
+  url: https://github.com/sotch-pr35mac/syng/releases/download/2.7.0/Syng_2.7.0_x86_en-US.msi
 name: Syng
 last_commit: '2026-10-30'
