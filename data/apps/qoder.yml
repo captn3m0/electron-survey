@@ -23,4 +23,4 @@ downloads:
   name: Qoder-mac-arm64.zip
   source: homebrew
   version: 0.4.11
-brew_installs: 1
+brew_installs: 10

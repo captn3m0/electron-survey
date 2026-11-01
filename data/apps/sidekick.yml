@@ -9,3 +9,6 @@ downloads:
   version: 124.61.1.50292,e244ab6
 homebrew_disabled: true
 homebrew_disable_reason: discontinued
+aur:
+- sidekick
+repository: https://github.com/MightyMoud/sidekick
