@@ -6,29 +6,29 @@ aur:
 - backslash
 additionalAUR:
 - backslash-bin
-latest: v0.6.1
-src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.6.1.zip
+latest: v0.7.0
+src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.7.0.zip
 downloads:
-- name: backslash-0.6.1-1.aarch64.rpm
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/backslash-0.6.1-1.aarch64.rpm
-  checksum: 0511509872b77ec8b2c44f3673810ab92e2fb443f875f646815d5d0e20df9daa
-- name: backslash-0.6.1-1.x86_64.rpm
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/backslash-0.6.1-1.x86_64.rpm
-  checksum: 3552e15f303e70f8ff5d211182e612a7e0ffffed07172ab7241d27162a5fee11
-- name: backslash-0.6.1-aarch64-linux.tar.gz
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/backslash-0.6.1-aarch64-linux.tar.gz
-  checksum: 000a849d174e3773f639b3de235f83873b7c30a4ca3e4982a28486f1861aa9c8
-- name: backslash-0.6.1-x86_64-linux.tar.gz
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/backslash-0.6.1-x86_64-linux.tar.gz
-  checksum: 70b86b4b1063253d55dfdf9c5ee218ca24ff560df40629cb392480ad155427bb
-- name: backslash_0.6.1_amd64.deb
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/backslash_0.6.1_amd64.deb
-  checksum: d3846b7bf2a29be76d98ac4a67662677b440ce130f41f89d4fe7c81a26acd919
-- name: backslash_0.6.1_arm64.deb
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/backslash_0.6.1_arm64.deb
-  checksum: a66de62c01cb7ed498c5cdab3201648bb6a3fcf0283f04fb13ca75e231c25e14
+- name: backslash-0.7.0-1.aarch64.rpm
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/backslash-0.7.0-1.aarch64.rpm
+  checksum: a63ee5f9f33ef502f5157cc89aceb7b4aa88e725a05ff6082c16b2e4a47df81a
+- name: backslash-0.7.0-1.x86_64.rpm
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/backslash-0.7.0-1.x86_64.rpm
+  checksum: 0691c8d6bbfbb35d91104d00c7dd2a624535852baaf0780b767b583c5dda6cbf
+- name: backslash-0.7.0-aarch64-linux.tar.gz
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/backslash-0.7.0-aarch64-linux.tar.gz
+  checksum: 9dbf7d518b8cf597aaa95772a480769f54fb957391ac89daeb8f604f6326d1a1
+- name: backslash-0.7.0-x86_64-linux.tar.gz
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/backslash-0.7.0-x86_64-linux.tar.gz
+  checksum: 615cf05eedd3bdb9559ec06d2b26b5bcab1d6c251fa8c54c3a3d60334a4cba34
+- name: backslash_0.7.0_amd64.deb
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/backslash_0.7.0_amd64.deb
+  checksum: 3a788beda7ac896cfffeed250b2d807ef972502d7b998ee5833e0482bd20b13d
+- name: backslash_0.7.0_arm64.deb
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/backslash_0.7.0_arm64.deb
+  checksum: 761c5ce161cb3287273a7e8ef23b11c3fc5e12c9d9ebe12db19097ec48c2efe4
 - name: SHA256SUMS
-  url: https://github.com/backslash-app/backslash/releases/download/v0.6.1/SHA256SUMS
+  url: https://github.com/backslash-app/backslash/releases/download/v0.7.0/SHA256SUMS
 electron: 33.4.11
 method: src-yarn-lock
 electron_src: https://github.com/backslash-app/backslash/archive/refs/tags/v0.2.2.zip
@@ -38,4 +38,4 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
-last_commit: '2026-10-29'
+last_commit: '2026-11-02'

@@ -10,23 +10,23 @@ packages:
 homebrew: renamer
 downloads:
 - name: latest-mac.yml
-  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.3/latest-mac.yml
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.4.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.3/latest.yml
-- name: Renamer-7.3.3-universal-mac.zip
-  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.3/Renamer-7.3.3-universal-mac.zip
-- name: Renamer-7.3.3-universal-mac.zip.blockmap
-  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.3/Renamer-7.3.3-universal-mac.zip.blockmap
-- name: Renamer-Setup-7.3.2.exe
-  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.3/Renamer-Setup-7.3.2.exe
-- name: Renamer-Setup-7.3.2.exe.blockmap
-  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.3/Renamer-Setup-7.3.2.exe.blockmap
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.4.0/latest.yml
+- name: Renamer-7.4.0-universal-mac.zip
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.4.0/Renamer-7.4.0-universal-mac.zip
+- name: Renamer-7.4.0-universal-mac.zip.blockmap
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.4.0/Renamer-7.4.0-universal-mac.zip.blockmap
+- name: Renamer-Setup-7.4.0.exe
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.4.0/Renamer-Setup-7.4.0.exe
+- name: Renamer-Setup-7.4.0.exe.blockmap
+  url: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.4.0/Renamer-Setup-7.4.0.exe.blockmap
 electron: 42.5.0
 method: which-electron-rg
-latest: v7.3.3
-src: https://github.com/incbee/renamer-7-releases/archive/refs/tags/v7.3.3.zip
+latest: v7.4.0
+src: https://github.com/incbee/renamer-7-releases/archive/refs/tags/v7.4.0.zip
 brew_installs: 100
-last_commit: '2026-08-10'
+last_commit: '2026-11-02'
 evidence:
   kind: binary
   source: https://github.com/mapache-soft/renamer-7-releases/releases/download/v7.3.2/Renamer-7.3.2-universal-mac.zip

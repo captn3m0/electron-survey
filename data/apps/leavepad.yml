@@ -9,38 +9,38 @@ additionalAUR:
 - leavepad-git
 electron: 43.2.0
 method: which-electron-rg
-latest: v2.10.5
-src: https://github.com/kaishuu0123/leavepad/archive/refs/tags/v2.10.5.zip
+latest: v2.10.6
+src: https://github.com/kaishuu0123/leavepad/archive/refs/tags/v2.10.6.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/latest-linux.yml
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/latest-mac.yml
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/latest.yml
-- name: Leavepad-2.10.5-arm64-mac.zip
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/Leavepad-2.10.5-arm64-mac.zip
-- name: Leavepad-2.10.5-arm64-mac.zip.blockmap
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/Leavepad-2.10.5-arm64-mac.zip.blockmap
-- name: Leavepad-2.10.5-mac.zip
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/Leavepad-2.10.5-mac.zip
-- name: Leavepad-2.10.5-mac.zip.blockmap
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/Leavepad-2.10.5-mac.zip.blockmap
-- name: leavepad-2.10.5-setup.exe
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/leavepad-2.10.5-setup.exe
-- name: leavepad-2.10.5-setup.exe.blockmap
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/leavepad-2.10.5-setup.exe.blockmap
-- name: leavepad-2.10.5.AppImage
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/leavepad-2.10.5.AppImage
-- name: leavepad-2.10.5.dmg
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/leavepad-2.10.5.dmg
-- name: leavepad-2.10.5.dmg.blockmap
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/leavepad-2.10.5.dmg.blockmap
-- name: leavepad_2.10.5_amd64.snap
-  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.5/leavepad_2.10.5_amd64.snap
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/latest.yml
+- name: Leavepad-2.10.6-arm64-mac.zip
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/Leavepad-2.10.6-arm64-mac.zip
+- name: Leavepad-2.10.6-arm64-mac.zip.blockmap
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/Leavepad-2.10.6-arm64-mac.zip.blockmap
+- name: Leavepad-2.10.6-mac.zip
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/Leavepad-2.10.6-mac.zip
+- name: Leavepad-2.10.6-mac.zip.blockmap
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/Leavepad-2.10.6-mac.zip.blockmap
+- name: leavepad-2.10.6-setup.exe
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/leavepad-2.10.6-setup.exe
+- name: leavepad-2.10.6-setup.exe.blockmap
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/leavepad-2.10.6-setup.exe.blockmap
+- name: leavepad-2.10.6.AppImage
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/leavepad-2.10.6.AppImage
+- name: leavepad-2.10.6.dmg
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/leavepad-2.10.6.dmg
+- name: leavepad-2.10.6.dmg.blockmap
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/leavepad-2.10.6.dmg.blockmap
+- name: leavepad_2.10.6_amd64.snap
+  url: https://github.com/kaishuu0123/leavepad/releases/download/v2.10.6/leavepad_2.10.6_amd64.snap
 evidence:
   kind: binary
   source: https://github.com/kaishuu0123/leavepad/releases/download/v2.7.2/leavepad-2.7.2.AppImage
   found_in: leavepad-2.7.2.AppImage
   signal: which-electron rg signal
-last_commit: '2026-10-31'
+last_commit: '2026-11-02'

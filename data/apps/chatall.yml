@@ -82,3 +82,5 @@ evidence:
   signal: which-electron rg signal
 brew_installs: 100
 last_commit: '2026-10-25'
+homebrew_deprecated: true
+homebrew_deprecation_reason: discontinued

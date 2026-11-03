@@ -6,17 +6,19 @@ aur:
 - duolingo-desktop-bin
 electron: 40.8.0
 method: which-electron-rg
-latest: v4.3.1
-src: https://github.com/hmlendea/dl-desktop/archive/refs/tags/v4.3.1.zip
+latest: v4.3.2
+src: https://github.com/hmlendea/dl-desktop/archive/refs/tags/v4.3.2.zip
 downloads:
-- name: dl-desktop_4.3.1_linux.zip
-  url: https://github.com/hmlendea/dl-desktop/releases/download/v4.3.1/dl-desktop_4.3.1_linux.zip
+- name: dl-desktop_4.3.2_linux_arm64.zip
+  url: https://github.com/hmlendea/dl-desktop/releases/download/v4.3.2/dl-desktop_4.3.2_linux_arm64.zip
+- name: dl-desktop_4.3.2_linux_x64.zip
+  url: https://github.com/hmlendea/dl-desktop/releases/download/v4.3.2/dl-desktop_4.3.2_linux_x64.zip
 evidence:
   kind: binary
   source: https://github.com/hmlendea/dl-desktop/releases/download/v4.2.0/dl-desktop_4.2.0_linux.zip
   found_in: dl-desktop_4.2.0_linux.zip
   signal: which-electron rg signal
-last_commit: '2026-10-26'
+last_commit: '2026-11-02'
 aur_downloads:
 - url: https://github.com/hmlendea/dl-desktop/releases/download/v4.2.0/dl-desktop_4.2.0_linux.zip
   name: dl-desktop_4.2.0_linux.zip

@@ -42,4 +42,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/ExpressLRS/ExpressLRS-Configurator/archive/refs/tags/v1.8.4.zip
 aur_votes: 1
-last_commit: '2026-10-26'
+last_commit: '2026-11-02'

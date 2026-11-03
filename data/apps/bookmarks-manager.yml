@@ -37,7 +37,7 @@ evidence:
   source: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.AppImage
   found_in: Bookmark-Manager-0.1.2.AppImage
   signal: which-electron rg signal
-last_commit: '2026-11-02'
+last_commit: '2026-11-03'
 aur_downloads:
 - url: https://github.com/Hunlongyu/bookmarks-manager/releases/download/v0.1.2/Bookmark-Manager-0.1.2.AppImage
   name: Bookmark-Manager-0.1.2.AppImage
