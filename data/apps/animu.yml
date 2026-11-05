@@ -6,25 +6,25 @@ aur:
 - animu-bin
 electron: 42.3.3
 method: which-electron-rg
-latest: v0.8.4
-src: https://github.com/Owca525/animu/archive/refs/tags/v0.8.4.zip
+latest: v0.8.5
+src: https://github.com/Owca525/animu/archive/refs/tags/v0.8.5.zip
 downloads:
-- name: animu-0.8.4-linux.rpm
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/animu-0.8.4-linux.rpm
-- name: animu-0.8.4-linux.zip
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/animu-0.8.4-linux.zip
-- name: animu-0.8.4-setup.exe
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/animu-0.8.4-setup.exe
-- name: animu-0.8.4-win.zip
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/animu-0.8.4-win.zip
-- name: animu-0.8.4.AppImage
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/animu-0.8.4.AppImage
-- name: animu-0.8.4.deb
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/animu-0.8.4.deb
+- name: animu-0.8.5-linux.rpm
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/animu-0.8.5-linux.rpm
+- name: animu-0.8.5-linux.zip
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/animu-0.8.5-linux.zip
+- name: animu-0.8.5-setup.exe
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/animu-0.8.5-setup.exe
+- name: animu-0.8.5-win.zip
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/animu-0.8.5-win.zip
+- name: animu-0.8.5.AppImage
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/animu-0.8.5.AppImage
+- name: animu-0.8.5.deb
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/animu-0.8.5.deb
 - name: latest-linux.yml
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/latest-linux.yml
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/Owca525/animu/releases/download/v0.8.4/latest.yml
+  url: https://github.com/Owca525/animu/releases/download/v0.8.5/latest.yml
 we_tried: we0:v0.7.16
 evidence:
   kind: binary
@@ -32,7 +32,7 @@ evidence:
   found_in: animu-0.7.16.AppImage
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-11-03'
+last_commit: '2026-11-04'
 aur_downloads:
 - url: https://github.com/Owca525/animu/releases/download/v0.7.16/animu-0.7.16.deb
   name: animu-0.7.16.deb

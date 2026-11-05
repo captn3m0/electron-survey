@@ -34,4 +34,4 @@ evidence:
   source: https://github.com/Alex313031/caprine-ng/releases/download/v2.60.3/caprine_2.60.3_x64.rpm
   found_in: caprine_2.60.3_x64.rpm
   signal: which-electron rg signal
-last_commit: '2025-06-30'
+last_commit: '2026-11-04'
