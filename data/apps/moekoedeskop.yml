@@ -25,48 +25,40 @@ packages:
   arch: x64
 electron: 39.2.4
 method: which-electron-rg
-latest: v1.7.1
-src: https://github.com/MoeKoeMusic/MoeKoeMusic/archive/refs/tags/v1.7.1.zip
+latest: v1.7.2
+src: https://github.com/MoeKoeMusic/MoeKoeMusic/archive/refs/tags/v1.7.2.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/latest-linux.yml
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/latest-mac.yml
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/latest.yml
-- name: MoeKoe_Music_Setup_v1.7.1-ia32.exe
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_Setup_v1.7.1-ia32.exe
-- name: MoeKoe_Music_Setup_v1.7.1-ia32.exe.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_Setup_v1.7.1-ia32.exe.blockmap
-- name: MoeKoe_Music_Setup_v1.7.1-x64.exe
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_Setup_v1.7.1-x64.exe
-- name: MoeKoe_Music_Setup_v1.7.1-x64.exe.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_Setup_v1.7.1-x64.exe.blockmap
-- name: MoeKoe_Music_Setup_v1.7.1.exe
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_Setup_v1.7.1.exe
-- name: MoeKoe_Music_Setup_v1.7.1.exe.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_Setup_v1.7.1.exe.blockmap
-- name: MoeKoe_Music_v1.7.1-amd64.deb
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-amd64.deb
-- name: MoeKoe_Music_v1.7.1-arm64.dmg
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-arm64.dmg
-- name: MoeKoe_Music_v1.7.1-arm64.dmg.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-arm64.dmg.blockmap
-- name: MoeKoe_Music_v1.7.1-arm64.zip
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-arm64.zip
-- name: MoeKoe_Music_v1.7.1-arm64.zip.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-arm64.zip.blockmap
-- name: MoeKoe_Music_v1.7.1-x64.dmg
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-x64.dmg
-- name: MoeKoe_Music_v1.7.1-x64.dmg.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-x64.dmg.blockmap
-- name: MoeKoe_Music_v1.7.1-x64.zip
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-x64.zip
-- name: MoeKoe_Music_v1.7.1-x64.zip.blockmap
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-x64.zip.blockmap
-- name: MoeKoe_Music_v1.7.1-x86_64.AppImage
-  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.1/MoeKoe_Music_v1.7.1-x86_64.AppImage
-last_commit: '2026-11-02'
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/latest.yml
+- name: MoeKoe_Music_Setup_v1.7.2-ia32.exe
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_Setup_v1.7.2-ia32.exe
+- name: MoeKoe_Music_Setup_v1.7.2-ia32.exe.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_Setup_v1.7.2-ia32.exe.blockmap
+- name: MoeKoe_Music_Setup_v1.7.2-x64.exe
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_Setup_v1.7.2-x64.exe
+- name: MoeKoe_Music_Setup_v1.7.2-x64.exe.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_Setup_v1.7.2-x64.exe.blockmap
+- name: MoeKoe_Music_Setup_v1.7.2.exe
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_Setup_v1.7.2.exe
+- name: MoeKoe_Music_Setup_v1.7.2.exe.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_Setup_v1.7.2.exe.blockmap
+- name: MoeKoe_Music_v1.7.2-amd64.deb
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-amd64.deb
+- name: MoeKoe_Music_v1.7.2-arm64.dmg
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-arm64.dmg
+- name: MoeKoe_Music_v1.7.2-arm64.dmg.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-arm64.dmg.blockmap
+- name: MoeKoe_Music_v1.7.2-arm64.zip
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-arm64.zip
+- name: MoeKoe_Music_v1.7.2-arm64.zip.blockmap
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-arm64.zip.blockmap
+- name: MoeKoe_Music_v1.7.2-x86_64.AppImage
+  url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-x86_64.AppImage
+last_commit: '2026-11-06'
 evidence:
   kind: binary
   source: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.9/MoeKoe_Music_v1.6.9-x86_64.AppImage

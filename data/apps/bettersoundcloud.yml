@@ -6,19 +6,39 @@ aur:
 - bettersoundcloud
 electron: 42.0.0
 method: which-electron-rg
-latest: V0.7.1
-src: https://github.com/AlirezaKJ/BetterSoundCloud/archive/refs/tags/V0.7.1.zip
+latest: v0.8.0
+src: https://github.com/AlirezaKJ/BetterSoundCloud/archive/refs/tags/v0.8.0.zip
 downloads:
-- name: BetterSoundCloud.0.7.1.msi
-  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.msi
-- name: BetterSoundCloud.0.7.1.Setup.exe
-  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.Setup.exe
-- name: BetterSoundCloud.0.7.1.zip
-  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.zip
+- name: BetterSoundCloud-0.8.0-linux-amd64.deb
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/BetterSoundCloud-0.8.0-linux-amd64.deb
+  checksum: 617144c26fe2623f40fdc87d741d86ceb3ca0bb7535635199c624624194b3f13
+- name: BetterSoundCloud-0.8.0-linux-x86_64.AppImage
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/BetterSoundCloud-0.8.0-linux-x86_64.AppImage
+  checksum: ab1ed864d4bf3af22ba86f1734cb15e5b96cae86b5afc395f2f8d67fb7f59c10
+- name: BetterSoundCloud-0.8.0-linux-x86_64.rpm
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/BetterSoundCloud-0.8.0-linux-x86_64.rpm
+  checksum: 5ff1f94fafd2dcb06a95077b7a0919e04dbc502fecf7a10618cfa7d954979dd9
+- name: BetterSoundCloud-0.8.0-win-x64-portable.exe
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/BetterSoundCloud-0.8.0-win-x64-portable.exe
+  checksum: c08430945dc4047713db19c407bff1cd578dfe8536b53730c495bc1e16797675
+- name: BetterSoundCloud-0.8.0-win-x64-setup.exe
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/BetterSoundCloud-0.8.0-win-x64-setup.exe
+  checksum: d16f9d52bd1d5594b7f2fef9b095b095b88ce2845383c0b29d81ceb397a346f6
+- name: BetterSoundCloud-0.8.0-win-x64-setup.exe.blockmap
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/BetterSoundCloud-0.8.0-win-x64-setup.exe.blockmap
+  checksum: 3df329477aaa3a8412d7d729c0659b91d82693cb049eb2626c5d545801b3f165
+- name: latest-linux.yml
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/latest-linux.yml
+  checksum: 74692ce99fb85d989a3a7765c2c2cb6f4310fd3a9cc1aab99f8567391fb486a0
+- name: latest.yml
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/latest.yml
+  checksum: 004c725be2d694d268b749c9f2cde949c9da474425afaa07773fc9b6ab35cea3
+- name: SHA256SUMS.txt
+  url: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/v0.8.0/SHA256SUMS.txt
 we_tried: we0:V0.7.1
 evidence:
   kind: binary
   source: https://github.com/AlirezaKJ/BetterSoundCloud/releases/download/V0.7.1/BetterSoundCloud.0.7.1.zip
   found_in: BetterSoundCloud.0.7.1.zip
   signal: which-electron rg signal (2 signals agreed)
-last_commit: '2026-10-29'
+last_commit: '2026-11-05'

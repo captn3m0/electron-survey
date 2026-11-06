@@ -8,17 +8,17 @@ additionalAUR:
 - comty-desktop-bin
 electron: 43.1.1
 method: aur-depends
-latest: rel-261104_2
-src: https://github.com/ragestudio/comty/archive/refs/tags/rel-261104_2.zip
+latest: rel-261105_1
+src: https://github.com/ragestudio/comty/archive/refs/tags/rel-261105_1.zip
 downloads:
 - name: dist.zip
-  url: https://github.com/ragestudio/comty/releases/download/rel-261104_2/dist.zip
+  url: https://github.com/ragestudio/comty/releases/download/rel-261105_1/dist.zip
 - name: versions.json
-  url: https://github.com/ragestudio/comty/releases/download/rel-261104_2/versions.json
+  url: https://github.com/ragestudio/comty/releases/download/rel-261105_1/versions.json
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/comty-desktop
   found_in: comty-desktop
   signal: depends on electron43; reported as the newest 43.x release (43.1.1)
-last_commit: '2026-11-04'
-we_tried: we1.2.1+p1:rel-261104_2
+last_commit: '2026-11-05'
+we_tried: we1.2.1+p1:rel-261105_1

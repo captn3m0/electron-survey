@@ -44,4 +44,4 @@ downloads:
 - name: Selenium-IDE-Setup-4.1.0-beta.2.exe.blockmap
   url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-Setup-4.1.0-beta.2.exe.blockmap
 aur_votes: 1
-last_commit: '2026-11-04'
+last_commit: '2026-11-06'
