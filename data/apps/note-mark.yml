@@ -4,12 +4,36 @@ website: https://github.com/AbdulDevHub/NoteMark
 repository: https://github.com/AbdulDevHub/NoteMark
 aur:
 - note-mark-git
-electron: 28.3.3
-method: aur-depends
+electron: 45.2.3
+method: which-electron-rg
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/note-mark-git
-  found_in: note-mark-git
-  signal: depends on electron28; reported as the newest 28.x release (28.3.3)
+  kind: binary
+  source: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-x86_64.AppImage
+  found_in: NoteMark-2.0.0-x86_64.AppImage
+  signal: which-electron rg signal
 last_commit: '2026-11-06'
-src: https://github.com/AbdulDevHub/NoteMark/archive/refs/heads/main.zip
+src: https://github.com/AbdulDevHub/NoteMark/archive/refs/tags/v2.0.0.zip
+latest: v2.0.0
+downloads:
+- name: latest-linux.yml
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/latest-linux.yml
+- name: latest-mac.yml
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/latest-mac.yml
+- name: latest.yml
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/latest.yml
+- name: NoteMark-2.0.0-amd64.deb
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-amd64.deb
+- name: NoteMark-2.0.0-arm64.dmg
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-arm64.dmg
+- name: NoteMark-2.0.0-arm64.dmg.blockmap
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-arm64.dmg.blockmap
+- name: NoteMark-2.0.0-Setup.exe
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-Setup.exe
+- name: NoteMark-2.0.0-Setup.exe.blockmap
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-Setup.exe.blockmap
+- name: NoteMark-2.0.0-x64.dmg
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-x64.dmg
+- name: NoteMark-2.0.0-x64.dmg.blockmap
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-x64.dmg.blockmap
+- name: NoteMark-2.0.0-x86_64.AppImage
+  url: https://github.com/AbdulDevHub/NoteMark/releases/download/v2.0.0/NoteMark-2.0.0-x86_64.AppImage

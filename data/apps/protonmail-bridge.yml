@@ -49,7 +49,7 @@ downloads:
 latest: v3.27.1
 src: https://github.com/ProtonMail/proton-bridge/archive/refs/tags/v3.27.1.zip
 brew_installs: 1000
-last_commit: '2026-09-29'
+last_commit: '2026-11-06'
 aur:
 - proton-mail
 - proton-mail-bin

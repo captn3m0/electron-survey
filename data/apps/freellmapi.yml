@@ -43,10 +43,6 @@ downloads:
   url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/latest-mac.yml
 - name: latest.yml
   url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/latest.yml
-- url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.19/FreeLLMAPI-0.16.19-arm64.dmg
-  name: FreeLLMAPI-0.16.19-arm64.dmg
-  source: homebrew
-  version: 0.16.19
 electron: 38.8.6
 method: which-electron-rg
 electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.16.20.zip

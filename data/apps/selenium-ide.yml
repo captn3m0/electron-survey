@@ -20,28 +20,28 @@ aur:
 - selenium-manager
 electron: 28.2.0
 method: which-electron-rg
-latest: v4.1.0-beta.2
-src: https://github.com/SeleniumHQ/selenium-ide/archive/refs/tags/v4.1.0-beta.2.zip
+latest: v4.1.0-beta.3
+src: https://github.com/SeleniumHQ/selenium-ide/archive/refs/tags/v4.1.0-beta.3.zip
 downloads:
 - name: latest-linux.yml
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/latest-linux.yml
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/latest-mac.yml
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/latest.yml
-- name: Selenium-IDE-4.1.0-beta.2-universal-mac.zip
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-4.1.0-beta.2-universal-mac.zip
-- name: Selenium-IDE-4.1.0-beta.2-universal-mac.zip.blockmap
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-4.1.0-beta.2-universal-mac.zip.blockmap
-- name: Selenium-IDE-4.1.0-beta.2-universal.dmg
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-4.1.0-beta.2-universal.dmg
-- name: Selenium-IDE-4.1.0-beta.2-universal.dmg.blockmap
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-4.1.0-beta.2-universal.dmg.blockmap
-- name: Selenium-IDE-4.1.0-beta.2.AppImage
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-4.1.0-beta.2.AppImage
-- name: Selenium-IDE-Setup-4.1.0-beta.2.exe
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-Setup-4.1.0-beta.2.exe
-- name: Selenium-IDE-Setup-4.1.0-beta.2.exe.blockmap
-  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.2/Selenium-IDE-Setup-4.1.0-beta.2.exe.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/latest.yml
+- name: Selenium-IDE-4.1.0-beta.3-universal-mac.zip
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-4.1.0-beta.3-universal-mac.zip
+- name: Selenium-IDE-4.1.0-beta.3-universal-mac.zip.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-4.1.0-beta.3-universal-mac.zip.blockmap
+- name: Selenium-IDE-4.1.0-beta.3-universal.dmg
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-4.1.0-beta.3-universal.dmg
+- name: Selenium-IDE-4.1.0-beta.3-universal.dmg.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-4.1.0-beta.3-universal.dmg.blockmap
+- name: Selenium-IDE-4.1.0-beta.3.AppImage
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-4.1.0-beta.3.AppImage
+- name: Selenium-IDE-Setup-4.1.0-beta.3.exe
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-Setup-4.1.0-beta.3.exe
+- name: Selenium-IDE-Setup-4.1.0-beta.3.exe.blockmap
+  url: https://github.com/SeleniumHQ/selenium-ide/releases/download/v4.1.0-beta.3/Selenium-IDE-Setup-4.1.0-beta.3.exe.blockmap
 aur_votes: 1
-last_commit: '2026-11-06'
+last_commit: '2026-11-07'

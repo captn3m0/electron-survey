@@ -31,6 +31,10 @@ downloads:
   url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.1.0/latest-mac.yml
 - name: latest.yml
   url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.1.0/latest.yml
+- url: https://github.com/antonreshetov/image-optimizer/releases/download/v2.1.0/image-optimizer-2.1.0-mac-arm64.dmg
+  name: image-optimizer-2.1.0-mac-arm64.dmg
+  source: homebrew
+  version: 2.1.0
 electron: 43.3.0
 method: src-pnpm-lock
 aur:
@@ -44,3 +48,5 @@ evidence:
   source: https://github.com/antonreshetov/image-optimizer/archive/refs/tags/v2.1.0.zip
 aur_votes: 1
 last_commit: '2026-10-15'
+homebrew: image-optimizer
+brew_installs: 10

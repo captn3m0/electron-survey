@@ -28,4 +28,4 @@ evidence:
   source: https://github.com/yuma-shintani/chunksize-checker/releases/download/v0.0.4/Chunk-Size-Checker-0.0.4-win.zip
   found_in: Chunk-Size-Checker-0.0.4-win.zip
   signal: which-electron rg signal
-last_commit: '2026-11-04'
+last_commit: '2026-11-07'
