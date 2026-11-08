@@ -4,45 +4,45 @@ website: https://github.com/tashfeenahmed/freellmapi
 repository: https://github.com/tashfeenahmed/freellmapi
 aur:
 - freellmapi-desktop-git
-latest: v0.16.20
-src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.16.20.zip
+latest: v0.16.21
+src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.16.21.zip
 downloads:
-- name: FreeLLMAPI-0.16.20-arm64.dmg
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-arm64.dmg
-- name: FreeLLMAPI-0.16.20-arm64.dmg.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-arm64.dmg.blockmap
-- name: FreeLLMAPI-0.16.20-arm64.zip
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-arm64.zip
-- name: FreeLLMAPI-0.16.20-arm64.zip.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-arm64.zip.blockmap
-- name: FreeLLMAPI-0.16.20-win.zip
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-win.zip
-- name: FreeLLMAPI-0.16.20-x64.dmg
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-x64.dmg
-- name: FreeLLMAPI-0.16.20-x64.dmg.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-x64.dmg.blockmap
-- name: FreeLLMAPI-0.16.20-x64.zip
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-x64.zip
-- name: FreeLLMAPI-0.16.20-x64.zip.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20-x64.zip.blockmap
-- name: FreeLLMAPI-0.16.20.AppImage
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-0.16.20.AppImage
-- name: freellmapi-desktop-0.16.20.tar.xz
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/freellmapi-desktop-0.16.20.tar.xz
-- name: freellmapi-desktop-0.16.20.x86_64.rpm
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/freellmapi-desktop-0.16.20.x86_64.rpm
-- name: freellmapi-desktop_0.16.20_amd64.deb
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/freellmapi-desktop_0.16.20_amd64.deb
-- name: FreeLLMAPI-Setup-0.16.20.exe
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-Setup-0.16.20.exe
-- name: FreeLLMAPI-Setup-0.16.20.exe.blockmap
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/FreeLLMAPI-Setup-0.16.20.exe.blockmap
+- name: FreeLLMAPI-0.16.21-arm64.dmg
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-arm64.dmg
+- name: FreeLLMAPI-0.16.21-arm64.dmg.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-arm64.dmg.blockmap
+- name: FreeLLMAPI-0.16.21-arm64.zip
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-arm64.zip
+- name: FreeLLMAPI-0.16.21-arm64.zip.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-arm64.zip.blockmap
+- name: FreeLLMAPI-0.16.21-win.zip
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-win.zip
+- name: FreeLLMAPI-0.16.21-x64.dmg
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-x64.dmg
+- name: FreeLLMAPI-0.16.21-x64.dmg.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-x64.dmg.blockmap
+- name: FreeLLMAPI-0.16.21-x64.zip
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-x64.zip
+- name: FreeLLMAPI-0.16.21-x64.zip.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21-x64.zip.blockmap
+- name: FreeLLMAPI-0.16.21.AppImage
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-0.16.21.AppImage
+- name: freellmapi-desktop-0.16.21.tar.xz
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/freellmapi-desktop-0.16.21.tar.xz
+- name: freellmapi-desktop-0.16.21.x86_64.rpm
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/freellmapi-desktop-0.16.21.x86_64.rpm
+- name: freellmapi-desktop_0.16.21_amd64.deb
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/freellmapi-desktop_0.16.21_amd64.deb
+- name: FreeLLMAPI-Setup-0.16.21.exe
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-Setup-0.16.21.exe
+- name: FreeLLMAPI-Setup-0.16.21.exe.blockmap
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/FreeLLMAPI-Setup-0.16.21.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/latest-linux.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/latest-mac.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.20/latest.yml
+  url: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.21/latest.yml
 electron: 38.8.6
 method: which-electron-rg
 electron_src: https://github.com/tashfeenahmed/freellmapi/archive/refs/tags/v0.16.20.zip
@@ -51,6 +51,6 @@ evidence:
   source: https://github.com/tashfeenahmed/freellmapi/releases/download/v0.16.19/FreeLLMAPI-0.16.19-arm64.dmg
   found_in: FreeLLMAPI-0.16.19-arm64.dmg
   signal: which-electron rg signal
-last_commit: '2026-11-06'
+last_commit: '2026-11-07'
 homebrew: freellmapi
-brew_installs: 1
+brew_installs: 10

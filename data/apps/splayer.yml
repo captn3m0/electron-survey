@@ -17,7 +17,7 @@ downloads:
   name: SPlayer-4.9.4.dmg
   version: 4.9.4
 aur_votes: 1
-brew_installs: 100
+brew_installs: 10
 aur_downloads:
 - url: https://github.com/imsyy/SPlayer/releases/download/v3.1.1/splayer-3.1.1-aarch64.rpm
   name: splayer-3.1.1-aarch64.rpm

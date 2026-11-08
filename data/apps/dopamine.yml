@@ -1,34 +1,44 @@
 id: dopamine
 repository: https://github.com/digimezzo/dopamine
 website: https://www.digimezzo.com
-latest: v3.0.11
-src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.11.zip
+latest: v3.0.12
+src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.12.zip
 downloads:
-- name: Dopamine-3.0.11-arm.dmg
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11-arm.dmg
-- name: Dopamine-3.0.11-intel.dmg
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11-intel.dmg
-- name: Dopamine-3.0.11.AppImage
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11.AppImage
-- name: Dopamine-3.0.11.deb
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11.deb
-- name: Dopamine-3.0.11.exe
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11.exe
-- name: Dopamine-3.0.11.pacman
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11.pacman
-- name: Dopamine-3.0.11.rpm
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11.rpm
-- name: Dopamine-3.0.11.snap
-  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.11/Dopamine-3.0.11.snap
+- name: Dopamine-3.0.12-arm.dmg
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12-arm.dmg
+  checksum: 68c82703314b1fac9f18866a42459e63d5627b9e52a26f2ce5258858dbcce6b3
+- name: Dopamine-3.0.12-intel.dmg
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12-intel.dmg
+  checksum: 0497424c5a080edab0c962e91d29508b21586eee2378c80b9ad1b5e916bc2418
+- name: Dopamine-3.0.12.AppImage
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12.AppImage
+  checksum: 91b7465f54609e41f9aa3a209ef3601f9b09049cc4dca81294590887622e296d
+- name: Dopamine-3.0.12.deb
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12.deb
+  checksum: 6a8f611edcf691b4ac730d62db8aba68b3194d1fb2af6bc373f8685e0ac1f231
+- name: Dopamine-3.0.12.exe
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12.exe
+  checksum: 87b8db0aefc0c57390896eec0ce3966908ba7d0dad58d3d117f0f921f2ba8eb8
+- name: Dopamine-3.0.12.pacman
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12.pacman
+  checksum: a01e1e590c3c1078ba476ef36d327554b48deb36f611282017f2cec6da8c8e27
+- name: Dopamine-3.0.12.rpm
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12.rpm
+  checksum: bb3654347a1ae81bed1888eed90087f86ff21ead3c36e09239f67e4da482d80b
+- name: Dopamine-3.0.12.snap
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/Dopamine-3.0.12.snap
+  checksum: 12e1ac1da366271509e8de1f990058024dfc1322851b802da2bab1d66bbcafd7
+- name: SHA256SUMS.txt
+  url: https://github.com/digimezzo/dopamine/releases/download/v3.0.12/SHA256SUMS.txt
 electron: 38.8.6
 method: src-package-lock
 aur:
 - vitomu
 name: Dopamine
-electron_src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.11.zip
+electron_src: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.12.zip
 evidence:
   kind: lockfile
-  found_in: dopamine-3.0.11/package-lock.json
+  found_in: dopamine-3.0.12/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.11.zip
-last_commit: '2026-11-04'
+  source: https://github.com/digimezzo/dopamine/archive/refs/tags/v3.0.12.zip
+last_commit: '2026-11-07'
