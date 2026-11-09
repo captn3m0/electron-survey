@@ -92,3 +92,5 @@ aur_downloads:
   arch: any
   source: aur-bin
 we_tried: we1.2.1+p1:v3.4.1
+homebrew_deprecated: true
+homebrew_deprecation_reason: discontinued

@@ -23,17 +23,17 @@ aur:
 - altus
 electron: 35.1.5
 method: which-electron-rg
-latest: 5.8.1
-src: https://github.com/amanharwara/altus/archive/refs/tags/5.8.1.zip
+latest: 5.8.2
+src: https://github.com/amanharwara/altus/archive/refs/tags/5.8.2.zip
 downloads:
-- name: Altus-5.8.1-arm64.dmg
-  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1-arm64.dmg
-- name: Altus-5.8.1.AppImage
-  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1.AppImage
-- name: Altus-5.8.1.dmg
-  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-5.8.1.dmg
-- name: Altus-Setup-5.8.1.exe
-  url: https://github.com/amanharwara/altus/releases/download/5.8.1/Altus-Setup-5.8.1.exe
+- name: Altus-5.8.2-arm64.dmg
+  url: https://github.com/amanharwara/altus/releases/download/5.8.2/Altus-5.8.2-arm64.dmg
+- name: Altus-5.8.2.AppImage
+  url: https://github.com/amanharwara/altus/releases/download/5.8.2/Altus-5.8.2.AppImage
+- name: Altus-5.8.2.dmg
+  url: https://github.com/amanharwara/altus/releases/download/5.8.2/Altus-5.8.2.dmg
+- name: Altus-Setup-5.8.2.exe
+  url: https://github.com/amanharwara/altus/releases/download/5.8.2/Altus-Setup-5.8.2.exe
 we_tried: we0:5.8.1
 evidence:
   kind: binary
@@ -41,4 +41,4 @@ evidence:
   found_in: Altus-5.8.1.AppImage
   signal: which-electron rg signal (2 signals agreed)
 aur_votes: 1
-last_commit: '2026-07-18'
+last_commit: '2026-11-08'

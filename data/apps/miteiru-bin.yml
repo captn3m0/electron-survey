@@ -8,27 +8,27 @@ additionalAUR:
 - miteiru-bin
 electron: 41.10.1
 method: which-electron-rg
-latest: v8.0.1
-src: https://github.com/hockyy/miteiru/archive/refs/tags/v8.0.1.zip
+latest: v8.1.0
+src: https://github.com/hockyy/miteiru/archive/refs/tags/v8.1.0.zip
 downloads:
 - name: Miteiru-language-cantonese.mtrpack
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru-language-cantonese.mtrpack
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru-language-cantonese.mtrpack
 - name: Miteiru-language-hanzi.mtrpack
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru-language-hanzi.mtrpack
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru-language-hanzi.mtrpack
 - name: Miteiru-language-japanese.mtrpack
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru-language-japanese.mtrpack
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru-language-japanese.mtrpack
 - name: Miteiru-language-mandarin.mtrpack
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru-language-mandarin.mtrpack
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru-language-mandarin.mtrpack
 - name: Miteiru-language-vietnamese.mtrpack
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru-language-vietnamese.mtrpack
-- name: Miteiru_8.0.1_aarch64.dmg
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru_8.0.1_aarch64.dmg
-- name: Miteiru_8.0.1_amd64.AppImage
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru_8.0.1_amd64.AppImage
-- name: Miteiru_8.0.1_amd64.deb
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru_8.0.1_amd64.deb
-- name: Miteiru_8.0.1_x64-setup.exe
-  url: https://github.com/hockyy/miteiru/releases/download/v8.0.1/Miteiru_8.0.1_x64-setup.exe
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru-language-vietnamese.mtrpack
+- name: Miteiru_8.1.0_aarch64.dmg
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru_8.1.0_aarch64.dmg
+- name: Miteiru_8.1.0_amd64.AppImage
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru_8.1.0_amd64.AppImage
+- name: Miteiru_8.1.0_amd64.deb
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru_8.1.0_amd64.deb
+- name: Miteiru_8.1.0_x64-setup.exe
+  url: https://github.com/hockyy/miteiru/releases/download/v8.1.0/Miteiru_8.1.0_x64-setup.exe
 evidence:
   kind: binary
   source: https://github.com/hockyy/miteiru/releases/download/v7.4.9/miteiru-7.4.9-linux-22.04-x86_64.AppImage

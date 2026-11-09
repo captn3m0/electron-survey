@@ -19,7 +19,7 @@ downloads:
 electron: 40.8.5
 method: which-electron-rg
 aur_votes: 1
-brew_installs: 1000
+brew_installs: 100
 aur_downloads:
 - url: https://api.snapcraft.io/api/v1/snaps/download/lfWUNpR7PrPGsDfuxIhVxbj0wZHoH7bK_28.snap
   name: lfWUNpR7PrPGsDfuxIhVxbj0wZHoH7bK_28.snap

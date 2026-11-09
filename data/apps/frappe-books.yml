@@ -98,3 +98,5 @@ aur_downloads:
   name: Frappe-Books-v0.36.0-linux-x86_64.rpm
   arch: x86_64
   source: aur-bin
+homebrew_deprecated: true
+homebrew_deprecation_reason: discontinued

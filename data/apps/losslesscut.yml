@@ -55,3 +55,4 @@ evidence:
   source: https://github.com/mifi/lossless-cut/archive/refs/tags/v3.70.2.zip
 brew_installs: 1000
 last_commit: '2026-11-03'
+aur_votes: 1
