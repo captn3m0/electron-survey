@@ -44,4 +44,4 @@ evidence:
   signal: electron pinned in package-lock.json
   source: https://github.com/camunda/camunda-modeler/archive/refs/tags/v5.53.0.zip
 brew_installs: 1000
-last_commit: '2026-11-08'
+last_commit: '2026-11-09'

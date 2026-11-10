@@ -6,21 +6,19 @@ aur:
 - comty-desktop
 additionalAUR:
 - comty-desktop-bin
-electron: 43.1.1
-method: aur-depends
-latest: rel-261106_1
-src: https://github.com/ragestudio/comty/archive/refs/tags/rel-261106_1.zip
+electron: 45.2.3
+method: which-electron-rg
+latest: desktop-v0.13.1
+src: https://github.com/ragestudio/comty/archive/refs/tags/desktop-v0.13.1.zip
 downloads:
-- name: app-release.apk
-  url: https://github.com/ragestudio/comty/releases/download/rel-261106_1/app-release.apk
-- name: dist.zip
-  url: https://github.com/ragestudio/comty/releases/download/rel-261106_1/dist.zip
-- name: versions.json
-  url: https://github.com/ragestudio/comty/releases/download/rel-261106_1/versions.json
+- name: Comty-0.13.1.AppImage
+  url: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/Comty-0.13.1.AppImage
+- name: comty-desktop_0.13.1_amd64.deb
+  url: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/comty-desktop_0.13.1_amd64.deb
 evidence:
-  kind: aur-depends
-  source: https://aur.archlinux.org/packages/comty-desktop
-  found_in: comty-desktop
-  signal: depends on electron43; reported as the newest 43.x release (43.1.1)
-last_commit: '2026-11-07'
+  kind: binary
+  source: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/Comty-0.13.1.AppImage
+  found_in: Comty-0.13.1.AppImage
+  signal: which-electron rg signal
+last_commit: '2026-11-09'
 we_tried: we1.2.1+p1:rel-261106_1
