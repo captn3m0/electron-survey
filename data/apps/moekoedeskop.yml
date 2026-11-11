@@ -58,7 +58,7 @@ downloads:
   url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-arm64.zip.blockmap
 - name: MoeKoe_Music_v1.7.2-x86_64.AppImage
   url: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.7.2/MoeKoe_Music_v1.7.2-x86_64.AppImage
-last_commit: '2026-11-08'
+last_commit: '2026-11-10'
 evidence:
   kind: binary
   source: https://github.com/MoeKoeMusic/MoeKoeMusic/releases/download/v1.6.9/MoeKoe_Music_v1.6.9-x86_64.AppImage

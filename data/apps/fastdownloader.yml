@@ -6,42 +6,34 @@ aur:
 - fastdownloader-bin
 electron: 39.8.8
 method: which-electron-rg
-latest: v0.8.5
-src: https://github.com/BERNARDO31P/FastDownloader/archive/refs/tags/v0.8.5.zip
+latest: v0.9.0
+src: https://github.com/BERNARDO31P/FastDownloader/archive/refs/tags/v0.9.0.zip
 downloads:
-- name: FastDownloader-0.8.5.AppImage
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-0.8.5.AppImage
-- name: fastdownloader-0.8.5.pacman
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.pacman
-- name: fastdownloader-0.8.5.tar.gz
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.tar.gz
-- name: fastdownloader-0.8.5.x86_64.rpm
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.x86_64.rpm
-- name: FastDownloader-Setup-0.8.5-ia32.exe
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-Setup-0.8.5-ia32.exe
-- name: FastDownloader-Setup-0.8.5-ia32.exe.blockmap
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-Setup-0.8.5-ia32.exe.blockmap
-- name: FastDownloader-Setup-0.8.5-x64.exe
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-Setup-0.8.5-x64.exe
-- name: FastDownloader-Setup-0.8.5-x64.exe.blockmap
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-Setup-0.8.5-x64.exe.blockmap
-- name: FastDownloader-Setup-0.8.5.exe
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-Setup-0.8.5.exe
-- name: FastDownloader-Setup-0.8.5.exe.blockmap
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/FastDownloader-Setup-0.8.5.exe.blockmap
-- name: fastdownloader_0.8.5_amd64.deb
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader_0.8.5_amd64.deb
+- name: FastDownloader-0.9.0.AppImage
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/FastDownloader-0.9.0.AppImage
+- name: fastdownloader-0.9.0.pacman
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/fastdownloader-0.9.0.pacman
+- name: fastdownloader-0.9.0.tar.gz
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/fastdownloader-0.9.0.tar.gz
+- name: fastdownloader-0.9.0.x86_64.rpm
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/fastdownloader-0.9.0.x86_64.rpm
+- name: FastDownloader-Setup-0.9.0-x64.exe
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/FastDownloader-Setup-0.9.0-x64.exe
+- name: FastDownloader-Setup-0.9.0-x64.exe.blockmap
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/FastDownloader-Setup-0.9.0-x64.exe.blockmap
+- name: fastdownloader_0.9.0_amd64.deb
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/fastdownloader_0.9.0_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/latest-linux.yml
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/latest-linux.yml
 - name: latest.yml
-  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/latest.yml
+  url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.9.0/latest.yml
 evidence:
   kind: binary
   source: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.x86_64.rpm
   found_in: fastdownloader-0.8.5.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-05-14'
+last_commit: '2026-11-10'
 aur_downloads:
 - url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.pacman
   name: fastdownloader-0.8.5.pacman

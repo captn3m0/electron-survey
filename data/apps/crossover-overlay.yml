@@ -4,38 +4,40 @@ website: https://github.com/lacymorrow/crossover
 repository: https://github.com/lacymorrow/crossover
 aur:
 - crossover-overlay-bin
-latest: v3.4.7
-src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.7.zip
+latest: v3.4.9
+src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.9.zip
 downloads:
-- name: CrossOver-3.4.7-amd64.deb
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7-amd64.deb
-- name: CrossOver-3.4.7-universal.dmg
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7-universal.dmg
-- name: CrossOver-3.4.7-universal.dmg.blockmap
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7-universal.dmg.blockmap
-- name: CrossOver-3.4.7-universal.zip
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7-universal.zip
-- name: CrossOver-3.4.7-universal.zip.blockmap
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7-universal.zip.blockmap
-- name: CrossOver-3.4.7-x86_64.AppImage
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7-x86_64.AppImage
-- name: CrossOver-3.4.7.exe
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7.exe
-- name: CrossOver-3.4.7.exe.blockmap
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-3.4.7.exe.blockmap
-- name: CrossOver-Portable-3.4.7.exe
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/CrossOver-Portable-3.4.7.exe
+- name: CrossOver-3.4.9-amd64.deb
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-amd64.deb
+- name: CrossOver-3.4.9-universal.dmg
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-universal.dmg
+- name: CrossOver-3.4.9-universal.dmg.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-universal.dmg.blockmap
+- name: CrossOver-3.4.9-universal.zip
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-universal.zip
+- name: CrossOver-3.4.9-universal.zip.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-universal.zip.blockmap
+- name: CrossOver-3.4.9-x64.pacman
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-x64.pacman
+- name: CrossOver-3.4.9-x86_64.AppImage
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9-x86_64.AppImage
+- name: CrossOver-3.4.9.exe
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9.exe
+- name: CrossOver-3.4.9.exe.blockmap
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-3.4.9.exe.blockmap
+- name: CrossOver-Portable-3.4.9.exe
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/CrossOver-Portable-3.4.9.exe
 - name: latest-linux.yml
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/latest-linux.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/latest-mac.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.7/latest.yml
+  url: https://github.com/lacymorrow/crossover/releases/download/v3.4.9/latest.yml
 electron: 14.2.9
 method: which-electron-rg
 electron_src: https://github.com/lacymorrow/crossover/archive/refs/tags/v3.4.1.zip
 aur_votes: 1
-last_commit: '2026-11-06'
+last_commit: '2026-11-11'
 aur_downloads:
 - url: https://github.com/lacymorrow/crossover/releases/download/v3.4.1/CrossOver-3.4.1-amd64.deb
   name: CrossOver-3.4.1-amd64.deb

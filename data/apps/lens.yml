@@ -27,4 +27,4 @@ aur_downloads:
   source: aur-bin
 homepage: true
 aur_votes: 10
-brew_installs: 10000
+brew_installs: 1000

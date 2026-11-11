@@ -18,7 +18,7 @@ evidence:
   source: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager-2.0.4.x86_64.rpm
   found_in: electron-file-manager-2.0.4.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-11-04'
+last_commit: '2026-11-10'
 aur_downloads:
 - url: https://github.com/Michael-Vanderford/electron-file-manager/releases/download/electron-file-manager-v2.0.4/electron-file-manager_2.0.4_amd64.deb
   name: electron-file-manager_2.0.4_amd64.deb

@@ -1,46 +1,46 @@
 id: exifcleaner
 repository: https://github.com/szTheory/exifcleaner
 website: https://exifcleaner.com
-latest: v4.7.0
-src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.7.0.zip
+latest: v4.8.0
+src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.8.0.zip
 downloads:
-- name: ExifCleaner-4.7.0-arm64.dmg
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/ExifCleaner-4.7.0-arm64.dmg
-  checksum: a58f1b730be2e9ad9241d405cc4b40d6762e56c81710fd7f7251b6f97e3cddcf
-- name: ExifCleaner-4.7.0.AppImage
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/ExifCleaner-4.7.0.AppImage
-  checksum: c634ba7f996d9840fec6f4bee60d16dba64407a483edb76f53e968d0e14a08dd
-- name: ExifCleaner-4.7.0.dmg
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/ExifCleaner-4.7.0.dmg
-  checksum: ebea37ec7e6e22ad556da596caf7208c68c14ddecc8567183ab41864f8cbd344
-- name: exifcleaner-4.7.0.x86_64.rpm
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/exifcleaner-4.7.0.x86_64.rpm
-  checksum: c85e44607579f973101a53f83229a9509acb9f63b46bf803947d07a41e81a1a2
-- name: ExifCleaner.4.7.0.portable.exe
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/ExifCleaner.4.7.0.portable.exe
-  checksum: eafaaf8aa595b3cf1e685dc11fd865441e9777441095a3fabeb022c67f27818a
-- name: ExifCleaner.Setup.4.7.0.exe
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/ExifCleaner.Setup.4.7.0.exe
-  checksum: f14234052a72653429c75691c30490f184922b233bb9fe832ea72dd7ff7b6606
-- name: exifcleaner_4.7.0_amd64.deb
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/exifcleaner_4.7.0_amd64.deb
-  checksum: 9ae532445892be55847018e8608942e94ae8a6c51752ed9f43dc2d31b5d1237f
+- name: ExifCleaner-4.8.0-arm64.dmg
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/ExifCleaner-4.8.0-arm64.dmg
+  checksum: 6a44065d6ce07e24e2d7ed31a8285fcbc6e557a694d054671b9d1839270d5555
+- name: ExifCleaner-4.8.0.AppImage
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/ExifCleaner-4.8.0.AppImage
+  checksum: 56fa422531ed540de69eda3ddcf7582ade30c4c54c5b225426420f4efa9fcd45
+- name: ExifCleaner-4.8.0.dmg
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/ExifCleaner-4.8.0.dmg
+  checksum: dd84a7c7b4e21e179b3a7871f586663da3dc9e04a53a4eebd42a2f7c25a6511a
+- name: exifcleaner-4.8.0.x86_64.rpm
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/exifcleaner-4.8.0.x86_64.rpm
+  checksum: 9fcd34bf96062940008b32a0edee309b463b88ab936e989ab1b77d9ab284dda0
+- name: ExifCleaner.4.8.0.portable.exe
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/ExifCleaner.4.8.0.portable.exe
+  checksum: cbc6449ec20b23487cbdda0a55a20d9b8118a6de59a1987fbc0f2a306fb73e76
+- name: ExifCleaner.Setup.4.8.0.exe
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/ExifCleaner.Setup.4.8.0.exe
+  checksum: ad366043bb08896cc79c192c35e191cbb9246a609ce4d9bf6a6d52434c623769
+- name: exifcleaner_4.8.0_amd64.deb
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/exifcleaner_4.8.0_amd64.deb
+  checksum: d6d29e9c340c60535edadfae45f08deeb931b192d5c5a14bb9a4b679c76acd72
 - name: SHASUMS256.txt
-  url: https://github.com/szTheory/exifcleaner/releases/download/v4.7.0/SHASUMS256.txt
+  url: https://github.com/szTheory/exifcleaner/releases/download/v4.8.0/SHASUMS256.txt
 electron: 44.9.3
 method: src-yarn-lock
 homebrew: exifcleaner
 name: ExifCleaner
-electron_src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.7.0.zip
+electron_src: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.8.0.zip
 evidence:
   kind: lockfile
-  found_in: exifcleaner-4.7.0/yarn.lock
+  found_in: exifcleaner-4.8.0/yarn.lock
   signal: electron pinned in yarn.lock
-  source: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.7.0.zip
+  source: https://github.com/szTheory/exifcleaner/archive/refs/tags/v4.8.0.zip
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-11-09'
+last_commit: '2026-11-10'
 aur:
 - exifcleaner
 homebrew_disabled: true
