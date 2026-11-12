@@ -47,12 +47,16 @@ downloads:
   url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest-mac.yml-backup-2026-11-06T19.59.50.803Z
 - name: latest-mac.yml-backup-2026-11-10T01.52.40.309Z
   url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest-mac.yml-backup-2026-11-10T01.52.40.309Z
+- name: latest-mac.yml-backup-2026-11-11T21.03.24.957Z
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest-mac.yml-backup-2026-11-11T21.03.24.957Z
 - name: latest.yml
   url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest.yml
 - name: latest.yml-backup-2026-11-06T19.59.50.814Z
   url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest.yml-backup-2026-11-06T19.59.50.814Z
 - name: latest.yml-backup-2026-11-10T01.52.40.306Z
   url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest.yml-backup-2026-11-10T01.52.40.306Z
+- name: latest.yml-backup-2026-11-11T21.03.24.951Z
+  url: https://github.com/gathertown/gather-town-desktop-releases/releases/download/v1.41.3/latest.yml-backup-2026-11-11T21.03.24.951Z
 electron: 37.6.0
 method: which-electron-rg
 latest: v1.41.3

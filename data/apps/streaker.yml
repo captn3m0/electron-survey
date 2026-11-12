@@ -6,29 +6,29 @@ aur:
 - streaker-bin
 electron: 35.0.1
 method: which-electron-rg
-latest: v2.6.4
-src: https://github.com/jamieweavis/streaker/archive/refs/tags/v2.6.4.zip
+latest: v3.0.0
+src: https://github.com/jamieweavis/streaker/archive/refs/tags/v3.0.0.zip
 downloads:
-- name: RELEASES
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/RELEASES
-- name: streaker-2.6.4-1.x86_64.rpm
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/streaker-2.6.4-1.x86_64.rpm
-- name: Streaker-2.6.4-arm64.dmg
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/Streaker-2.6.4-arm64.dmg
-- name: streaker-2.6.4-full.nupkg
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/streaker-2.6.4-full.nupkg
-- name: Streaker-2.6.4.Setup.exe
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/Streaker-2.6.4.Setup.exe
-- name: Streaker-darwin-arm64-2.6.4.zip
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/Streaker-darwin-arm64-2.6.4.zip
-- name: streaker_2.6.4_amd64.deb
-  url: https://github.com/jamieweavis/streaker/releases/download/v2.6.4/streaker_2.6.4_amd64.deb
+- name: Streaker-3.0.0-linux-aarch64.deb
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-linux-aarch64.deb
+- name: Streaker-3.0.0-linux-aarch64.tar.gz
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-linux-aarch64.tar.gz
+- name: Streaker-3.0.0-linux-x86_64.deb
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-linux-x86_64.deb
+- name: Streaker-3.0.0-linux-x86_64.tar.gz
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-linux-x86_64.tar.gz
+- name: Streaker-3.0.0-macos-universal.dmg
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-macos-universal.dmg
+- name: Streaker-3.0.0-windows-x64-setup.exe
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-windows-x64-setup.exe
+- name: Streaker-3.0.0-windows-x64.exe
+  url: https://github.com/jamieweavis/streaker/releases/download/v3.0.0/Streaker-3.0.0-windows-x64.exe
 evidence:
   kind: binary
   source: https://github.com/jamieweavis/streaker/releases/download/v2.6.1/streaker-2.6.1-1.x86_64.rpm
   found_in: streaker-2.6.1-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-10-31'
+last_commit: '2026-11-11'
 aur_downloads:
 - url: https://github.com/jamieweavis/streaker/releases/download/v2.6.1/streaker-2.6.1-1.x86_64.rpm
   name: streaker-2.6.1-1.x86_64.rpm

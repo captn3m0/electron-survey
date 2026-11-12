@@ -17,62 +17,24 @@ packages:
   arch: arm64
 electron: 39.8.4
 method: which-electron-rg
-latest: v1.2.7
-src: https://github.com/luckjiawei/frpc-desktop/archive/refs/tags/v1.2.7.zip
+latest: v2.0.0
+src: https://github.com/luckjiawei/frpc-desktop/archive/refs/tags/v2.0.0.zip
 downloads:
-- name: Frpc-Desktop-1.2.7-arm64-mac.zip
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-arm64-mac.zip
-- name: Frpc-Desktop-1.2.7-arm64-mac.zip.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-arm64-mac.zip.blockmap
-- name: Frpc-Desktop-1.2.7-arm64.AppImage
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-arm64.AppImage
-- name: Frpc-Desktop-1.2.7-arm64.dmg
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-arm64.dmg
-- name: Frpc-Desktop-1.2.7-arm64.dmg.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-arm64.dmg.blockmap
-- name: Frpc-Desktop-1.2.7-ia32-win.zip
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-ia32-win.zip
-- name: Frpc-Desktop-1.2.7-mac.zip
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-mac.zip
-- name: Frpc-Desktop-1.2.7-mac.zip.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-mac.zip.blockmap
-- name: Frpc-Desktop-1.2.7-universal-mac.zip
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-universal-mac.zip
-- name: Frpc-Desktop-1.2.7-universal-mac.zip.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-universal-mac.zip.blockmap
-- name: Frpc-Desktop-1.2.7-universal.dmg
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-universal.dmg
-- name: Frpc-Desktop-1.2.7-universal.dmg.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-universal.dmg.blockmap
-- name: Frpc-Desktop-1.2.7-win.zip
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7-win.zip
-- name: Frpc-Desktop-1.2.7.AppImage
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7.AppImage
-- name: Frpc-Desktop-1.2.7.dmg
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7.dmg
-- name: Frpc-Desktop-1.2.7.dmg.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7.dmg.blockmap
-- name: Frpc-Desktop-1.2.7.exe
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7.exe
-- name: Frpc-Desktop-1.2.7.x86_64.rpm
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-1.2.7.x86_64.rpm
-- name: Frpc-Desktop-Setup-1.2.7.exe
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-Setup-1.2.7.exe
-- name: Frpc-Desktop-Setup-1.2.7.exe.blockmap
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop-Setup-1.2.7.exe.blockmap
-- name: Frpc-Desktop_1.2.7_amd64.deb
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop_1.2.7_amd64.deb
-- name: Frpc-Desktop_1.2.7_arm64.deb
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/Frpc-Desktop_1.2.7_arm64.deb
-- name: latest-linux-arm64.yml
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/latest-linux-arm64.yml
-- name: latest-linux.yml
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/latest-linux.yml
-- name: latest-mac.yml
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/latest-mac.yml
-- name: latest.yml
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.7/latest.yml
-last_commit: '2026-11-10'
+- name: Frpc-Desktop-2.0.0-1.x86_64.rpm
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop-2.0.0-1.x86_64.rpm
+- name: Frpc-Desktop_2.0.0_amd64.AppImage
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_amd64.AppImage
+- name: Frpc-Desktop_2.0.0_amd64.deb
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_amd64.deb
+- name: Frpc-Desktop_2.0.0_universal.dmg
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_universal.dmg
+- name: Frpc-Desktop_2.0.0_x64-setup.exe
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_x64-setup.exe
+- name: Frpc-Desktop_2.0.0_x64_en-US.msi
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_x64_en-US.msi
+- name: Frpc-Desktop_universal.app.tar.gz
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_universal.app.tar.gz
+last_commit: '2026-11-11'
 evidence:
   kind: binary
   source: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop-1.2.6.x86_64.rpm

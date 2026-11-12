@@ -27,6 +27,8 @@ downloads:
   url: https://github.com/nkallen/plasticity/releases/download/v26.2.6/Plasticity-26.2.6-full.nupkg
 - name: Plasticity-26.2.6.Setup.exe
   url: https://github.com/nkallen/plasticity/releases/download/v26.2.6/Plasticity-26.2.6.Setup.exe
+- name: Plasticity-darwin-arm64-26.2.6.zip
+  url: https://github.com/nkallen/plasticity/releases/download/v26.2.6/Plasticity-darwin-arm64-26.2.6.zip
 - name: Plasticity-darwin-x64-26.2.6.zip
   url: https://github.com/nkallen/plasticity/releases/download/v26.2.6/Plasticity-darwin-x64-26.2.6.zip
 - name: Plasticity.msi
@@ -40,7 +42,7 @@ method: which-electron-rg
 latest: v26.2.6
 src: https://github.com/nkallen/plasticity/archive/refs/tags/v26.2.6.zip
 brew_installs: 100
-last_commit: '2026-11-10'
+last_commit: '2026-11-11'
 evidence:
   kind: binary
   source: https://github.com/nkallen/plasticity/releases/download/v26.1.3/Plasticity-26.1.3-1.x86_64.rpm
