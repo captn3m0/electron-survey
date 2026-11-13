@@ -8,17 +8,17 @@ additionalAUR:
 - comty-desktop-bin
 electron: 45.2.3
 method: which-electron-rg
-latest: desktop-v0.13.1
-src: https://github.com/ragestudio/comty/archive/refs/tags/desktop-v0.13.1.zip
+latest: rel-261112_1
+src: https://github.com/ragestudio/comty/archive/refs/tags/rel-261112_1.zip
 downloads:
-- name: Comty-0.13.1.AppImage
-  url: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/Comty-0.13.1.AppImage
-- name: comty-desktop_0.13.1_amd64.deb
-  url: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/comty-desktop_0.13.1_amd64.deb
+- name: dist.zip
+  url: https://github.com/ragestudio/comty/releases/download/rel-261112_1/dist.zip
+- name: versions.json
+  url: https://github.com/ragestudio/comty/releases/download/rel-261112_1/versions.json
 evidence:
   kind: binary
   source: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/Comty-0.13.1.AppImage
   found_in: Comty-0.13.1.AppImage
   signal: which-electron rg signal
-last_commit: '2026-11-09'
+last_commit: '2026-11-12'
 we_tried: we1.2.1+p1:rel-261106_1

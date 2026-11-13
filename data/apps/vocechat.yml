@@ -28,7 +28,7 @@ evidence:
   source: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3.x86_64.rpm
   found_in: VoceChat-0.9.3.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-11-11'
+last_commit: '2026-11-12'
 aur_downloads:
 - url: https://github.com/Privoce/vocechat-desktop/releases/download/v0.9.3/VoceChat-0.9.3.AppImage
   name: VoceChat-0.9.3.AppImage

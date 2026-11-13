@@ -1,101 +1,145 @@
 id: nteract
 repository: https://github.com/nteract/nteract
 website: https://nteract.io/
-latest: v2.9.0-stable.202610230557
-src: https://github.com/nteract/nteract/archive/refs/tags/v2.9.0-stable.202610230557.zip
+latest: v2.10.0-stable.202611130133
+src: https://github.com/nteract/nteract/archive/refs/tags/v2.10.0-stable.202611130133.zip
 aur:
 - nteract
 - nteract-bin
 homebrew: nteract
 downloads:
 - name: install-linux-release
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/install-linux-release
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/install-linux-release
 - name: latest.json
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/latest.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/latest.json
 - name: notebook-cloud-assets-stable.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/notebook-cloud-assets-stable.tar.gz
-  checksum: e169ef5a743e1bc8950da37b50bedc76554b147168543d3f688a3f106ef93988
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/notebook-cloud-assets-stable.tar.gz
+  checksum: cc436a5c9d64954c9ed5e7ba27b36f2fbcaf57333195382e5ec363fb5ba44465
 - name: notebook-cloud-assets-stable.tar.gz.sha256
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/notebook-cloud-assets-stable.tar.gz.sha256
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/notebook-cloud-assets-stable.tar.gz.sha256
 - name: nteract-cli-linux-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-cli-linux-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-cli-linux-arm64
 - name: nteract-cli-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-cli-linux-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-cli-linux-x64
 - name: nteract-mcp-linux-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-mcp-linux-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-mcp-linux-arm64
 - name: nteract-mcp-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-mcp-linux-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-mcp-linux-x64
 - name: nteract-stable-darwin-arm64.app.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-darwin-arm64.app.tar.gz
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-darwin-arm64.app.tar.gz
 - name: nteract-stable-darwin-arm64.app.tar.gz.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-darwin-arm64.app.tar.gz.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-darwin-arm64.app.tar.gz.sig
 - name: nteract-stable-darwin-arm64.dmg
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-darwin-arm64.dmg
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-darwin-arm64.dmg
 - name: nteract-stable-darwin-x64.app.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-darwin-x64.app.tar.gz
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-darwin-x64.app.tar.gz
 - name: nteract-stable-darwin-x64.app.tar.gz.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-darwin-x64.app.tar.gz.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-darwin-x64.app.tar.gz.sig
 - name: nteract-stable-darwin-x64.dmg
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-darwin-x64.dmg
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-darwin-x64.dmg
 - name: nteract-stable-linux-arm64.AppImage
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-linux-arm64.AppImage
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-linux-arm64.AppImage
 - name: nteract-stable-linux-arm64.AppImage.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-linux-arm64.AppImage.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-linux-arm64.AppImage.sig
 - name: nteract-stable-linux-x64.AppImage
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-linux-x64.AppImage
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-linux-x64.AppImage
 - name: nteract-stable-linux-x64.AppImage.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-linux-x64.AppImage.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-linux-x64.AppImage.sig
 - name: nteract-stable-notebook-ui.tar.gz
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-notebook-ui.tar.gz
-  checksum: c06a279df432832e551930c2e801412c98677fbd3ac1b443e9bf3565120db175
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-notebook-ui.tar.gz
+  checksum: eb00998377506e411da008e2368afe24f234ab1c976cba36b4607826f7c8dd90
 - name: nteract-stable-notebook-ui.tar.gz.sha256
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-notebook-ui.tar.gz.sha256
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-notebook-ui.tar.gz.sha256
 - name: nteract-stable-windows-arm64.exe
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-windows-arm64.exe
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-windows-arm64.exe
 - name: nteract-stable-windows-arm64.exe.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-windows-arm64.exe.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-windows-arm64.exe.sig
 - name: nteract-stable-windows-x64.exe
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-windows-x64.exe
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-windows-x64.exe
 - name: nteract-stable-windows-x64.exe.sig
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/nteract-stable-windows-x64.exe.sig
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/nteract-stable-windows-x64.exe.sig
 - name: runt-darwin-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runt-darwin-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runt-darwin-arm64
 - name: runt-darwin-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runt-darwin-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runt-darwin-x64
 - name: runt-linux-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runt-linux-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runt-linux-arm64
 - name: runt-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runt-linux-x64
-- name: runtimed-2.9.0-cp39-abi3-macosx_10_12_x86_64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-2.9.0-cp39-abi3-macosx_10_12_x86_64.whl
-- name: runtimed-2.9.0-cp39-abi3-macosx_11_0_arm64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-2.9.0-cp39-abi3-macosx_11_0_arm64.whl
-- name: runtimed-2.9.0-cp39-abi3-manylinux_2_39_aarch64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-2.9.0-cp39-abi3-manylinux_2_39_aarch64.whl
-- name: runtimed-2.9.0-cp39-abi3-manylinux_2_39_x86_64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-2.9.0-cp39-abi3-manylinux_2_39_x86_64.whl
-- name: runtimed-2.9.0-cp39-abi3-win_amd64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-2.9.0-cp39-abi3-win_amd64.whl
-- name: runtimed-2.9.0-cp39-abi3-win_arm64.whl
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-2.9.0-cp39-abi3-win_arm64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runt-linux-x64
+- name: runtimed-2.10.0-cp39-abi3-macosx_10_12_x86_64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-2.10.0-cp39-abi3-macosx_10_12_x86_64.whl
+- name: runtimed-2.10.0-cp39-abi3-macosx_11_0_arm64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-2.10.0-cp39-abi3-macosx_11_0_arm64.whl
+- name: runtimed-2.10.0-cp39-abi3-manylinux_2_39_aarch64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-2.10.0-cp39-abi3-manylinux_2_39_aarch64.whl
+- name: runtimed-2.10.0-cp39-abi3-manylinux_2_39_x86_64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-2.10.0-cp39-abi3-manylinux_2_39_x86_64.whl
+- name: runtimed-2.10.0-cp39-abi3-win_amd64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-2.10.0-cp39-abi3-win_amd64.whl
+- name: runtimed-2.10.0-cp39-abi3-win_arm64.whl
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-2.10.0-cp39-abi3-win_arm64.whl
 - name: runtimed-darwin-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-darwin-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-arm64
+- name: runtimed-darwin-arm64.LICENSE.nteract
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-arm64.LICENSE.nteract
+- name: runtimed-darwin-arm64.sbom.cdx.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-arm64.sbom.cdx.json
+- name: runtimed-darwin-arm64.THIRD_PARTY_NOTICES.txt
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-arm64.THIRD_PARTY_NOTICES.txt
 - name: runtimed-darwin-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-darwin-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-x64
+- name: runtimed-darwin-x64.LICENSE.nteract
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-x64.LICENSE.nteract
+- name: runtimed-darwin-x64.sbom.cdx.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-x64.sbom.cdx.json
+- name: runtimed-darwin-x64.THIRD_PARTY_NOTICES.txt
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-darwin-x64.THIRD_PARTY_NOTICES.txt
 - name: runtimed-linux-arm64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-linux-arm64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-arm64
+- name: runtimed-linux-arm64.LICENSE.nteract
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-arm64.LICENSE.nteract
+- name: runtimed-linux-arm64.sbom.cdx.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-arm64.sbom.cdx.json
+- name: runtimed-linux-arm64.THIRD_PARTY_NOTICES.txt
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-arm64.THIRD_PARTY_NOTICES.txt
 - name: runtimed-linux-x64
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-linux-x64
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-x64
+- name: runtimed-linux-x64.LICENSE.nteract
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-x64.LICENSE.nteract
+- name: runtimed-linux-x64.sbom.cdx.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-x64.sbom.cdx.json
+- name: runtimed-linux-x64.THIRD_PARTY_NOTICES.txt
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-linux-x64.THIRD_PARTY_NOTICES.txt
 - name: runtimed-windows-arm64.exe
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-windows-arm64.exe
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-arm64.exe
+- name: runtimed-windows-arm64.exe.LICENSE.nteract
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-arm64.exe.LICENSE.nteract
+- name: runtimed-windows-arm64.exe.sbom.cdx.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-arm64.exe.sbom.cdx.json
+- name: runtimed-windows-arm64.exe.THIRD_PARTY_NOTICES.txt
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-arm64.exe.THIRD_PARTY_NOTICES.txt
 - name: runtimed-windows-x64.exe
-  url: https://github.com/nteract/nteract/releases/download/v2.9.0-stable.202610230557/runtimed-windows-x64.exe
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-x64.exe
+- name: runtimed-windows-x64.exe.LICENSE.nteract
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-x64.exe.LICENSE.nteract
+- name: runtimed-windows-x64.exe.sbom.cdx.json
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-x64.exe.sbom.cdx.json
+- name: runtimed-windows-x64.exe.THIRD_PARTY_NOTICES.txt
+  url: https://github.com/nteract/nteract/releases/download/v2.10.0-stable.202611130133/runtimed-windows-x64.exe.THIRD_PARTY_NOTICES.txt
 name: nteract
 aur_votes: 1
 brew_installs: 100
-last_commit: '2026-11-12'
+last_commit: '2026-11-13'
 aur_downloads:
 - url: https://github.com/nteract/nteract/releases/download/v0.28.0/nteract_0.28.0_amd64.deb
   name: nteract_0.28.0_amd64.deb
   arch: any
   source: aur-bin
+electron: 45.0.0
+method: src-pnpm-lock
+evidence:
+  kind: lockfile
+  found_in: nteract-2.10.0-stable.202611130133/pnpm-lock.yaml
+  signal: electron pinned in pnpm-lock.yaml
+  source: https://github.com/nteract/nteract/archive/refs/tags/v2.10.0-stable.202611130133.zip
+electron_src: https://github.com/nteract/nteract/archive/refs/tags/v2.10.0-stable.202611130133.zip
