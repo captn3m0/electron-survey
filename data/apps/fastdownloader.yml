@@ -33,7 +33,7 @@ evidence:
   found_in: fastdownloader-0.8.5.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2026-11-10'
+last_commit: '2026-11-13'
 aur_downloads:
 - url: https://github.com/BERNARDO31P/FastDownloader/releases/download/v0.8.5/fastdownloader-0.8.5.pacman
   name: fastdownloader-0.8.5.pacman

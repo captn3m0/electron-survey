@@ -17,23 +17,23 @@ packages:
   arch: arm64
 electron: 39.8.4
 method: which-electron-rg
-latest: v2.0.0
-src: https://github.com/luckjiawei/frpc-desktop/archive/refs/tags/v2.0.0.zip
+latest: v2.0.1
+src: https://github.com/luckjiawei/frpc-desktop/archive/refs/tags/v2.0.1.zip
 downloads:
-- name: Frpc-Desktop-2.0.0-1.x86_64.rpm
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop-2.0.0-1.x86_64.rpm
-- name: Frpc-Desktop_2.0.0_amd64.AppImage
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_amd64.AppImage
-- name: Frpc-Desktop_2.0.0_amd64.deb
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_amd64.deb
-- name: Frpc-Desktop_2.0.0_universal.dmg
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_universal.dmg
-- name: Frpc-Desktop_2.0.0_x64-setup.exe
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_x64-setup.exe
-- name: Frpc-Desktop_2.0.0_x64_en-US.msi
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_2.0.0_x64_en-US.msi
+- name: Frpc-Desktop-2.0.1-1.x86_64.rpm
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop-2.0.1-1.x86_64.rpm
+- name: Frpc-Desktop_2.0.1_amd64.AppImage
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop_2.0.1_amd64.AppImage
+- name: Frpc-Desktop_2.0.1_amd64.deb
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop_2.0.1_amd64.deb
+- name: Frpc-Desktop_2.0.1_universal.dmg
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop_2.0.1_universal.dmg
+- name: Frpc-Desktop_2.0.1_x64-setup.exe
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop_2.0.1_x64-setup.exe
+- name: Frpc-Desktop_2.0.1_x64_en-US.msi
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop_2.0.1_x64_en-US.msi
 - name: Frpc-Desktop_universal.app.tar.gz
-  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.0/Frpc-Desktop_universal.app.tar.gz
+  url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.1/Frpc-Desktop_universal.app.tar.gz
 last_commit: '2026-11-13'
 evidence:
   kind: binary

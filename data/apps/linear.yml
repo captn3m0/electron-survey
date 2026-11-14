@@ -20,7 +20,7 @@ evidence:
   source: https://releases.linear.app/Linear-1.31.1-universal.dmg
   found_in: Linear-1.31.1-universal.dmg
   signal: which-electron rg signal
-brew_installs: 1000
+brew_installs: 10000
 aur_downloads:
 - url: https://releases.linear.app/Linear%20Setup%201.30.0.exe
   name: Linear%20Setup%201.30.0.exe
@@ -42,3 +42,4 @@ aur_downloads:
   name: Linear_0.2.3_amd64.deb
   arch: x86_64
   source: aur-bin
+homepage: true

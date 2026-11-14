@@ -73,5 +73,4 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
-brew_installs: 10
 last_commit: '2026-11-09'

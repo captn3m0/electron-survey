@@ -1,29 +1,29 @@
 id: laradumps
 repository: https://github.com/laradumps/app
 website: https://laradumps.dev
-latest: v4.19.1
-src: https://github.com/laradumps/app/archive/refs/tags/v4.19.1.zip
+latest: v4.19.2
+src: https://github.com/laradumps/app/archive/refs/tags/v4.19.2.zip
 downloads:
-- name: LaraDumps-4.19.1-universal-mac.zip
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-4.19.1-universal-mac.zip
-- name: LaraDumps-4.19.1-universal-mac.zip.blockmap
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-4.19.1-universal-mac.zip.blockmap
-- name: LaraDumps-4.19.1-universal.dmg
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-4.19.1-universal.dmg
-- name: LaraDumps-4.19.1-universal.dmg.blockmap
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-4.19.1-universal.dmg.blockmap
-- name: LaraDumps-4.19.1.AppImage
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-4.19.1.AppImage
-- name: LaraDumps-Setup-4.19.1.exe
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-Setup-4.19.1.exe
-- name: LaraDumps-Setup-4.19.1.exe.blockmap
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/LaraDumps-Setup-4.19.1.exe.blockmap
+- name: LaraDumps-4.19.2-universal-mac.zip
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-4.19.2-universal-mac.zip
+- name: LaraDumps-4.19.2-universal-mac.zip.blockmap
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-4.19.2-universal-mac.zip.blockmap
+- name: LaraDumps-4.19.2-universal.dmg
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-4.19.2-universal.dmg
+- name: LaraDumps-4.19.2-universal.dmg.blockmap
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-4.19.2-universal.dmg.blockmap
+- name: LaraDumps-4.19.2.AppImage
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-4.19.2.AppImage
+- name: LaraDumps-Setup-4.19.2.exe
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-Setup-4.19.2.exe
+- name: LaraDumps-Setup-4.19.2.exe.blockmap
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/LaraDumps-Setup-4.19.2.exe.blockmap
 - name: latest-linux.yml
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/latest-linux.yml
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/latest-mac.yml
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/laradumps/app/releases/download/v4.19.1/latest.yml
+  url: https://github.com/laradumps/app/releases/download/v4.19.2/latest.yml
 electron: 38.1.0
 aur:
 - laradumps-bin
