@@ -14,7 +14,7 @@ homebrew: explorer
 name: Explorer
 electron: 0.35.6
 method: which-electron-fingerprint
-brew_installs: 100
+brew_installs: 10
 homebrew_deprecated: true
 homebrew_deprecation_reason: unmaintained
 homebrew_disabled: true

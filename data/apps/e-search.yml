@@ -36,6 +36,8 @@ downloads:
   url: https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch-15.8.0-win32-x64.exe
 - name: eSearch-15.8.0-win32-x64.zip
   url: https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch-15.8.0-win32-x64.zip
+- name: eSearch_15.8.0.aur
+  url: https://github.com/xushengfeng/eSearch/releases/download/15.8.0/eSearch_15.8.0.aur
 electron: 44.9.3
 method: src-pnpm-lock
 aur:
@@ -47,4 +49,4 @@ evidence:
   found_in: eSearch-15.8.0/pnpm-lock.yaml
   signal: electron pinned in pnpm-lock.yaml
   source: https://github.com/xushengfeng/eSearch/archive/refs/tags/15.8.0.zip
-last_commit: '2026-11-12'
+last_commit: '2026-11-14'

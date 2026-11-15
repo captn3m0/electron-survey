@@ -20,7 +20,7 @@ downloads:
 - name: geforcenow-electron_3.1.0_linux_x86_64.AppImage
   url: https://github.com/hmlendea/gfn-electron/releases/download/v3.1.0/geforcenow-electron_3.1.0_linux_x86_64.AppImage
 aur_votes: 10
-last_commit: '2026-11-03'
+last_commit: '2026-11-14'
 evidence:
   kind: binary
   source: https://github.com/hmlendea/gfn-electron/releases/download/v3.0.1/geforcenow-electron_3.0.1_linux.AppImage
