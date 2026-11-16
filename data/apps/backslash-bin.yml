@@ -39,3 +39,4 @@ evidence:
   signal: electron pinned in yarn.lock
   reconstructed: true
 last_commit: '2026-11-03'
+aur_votes: 1

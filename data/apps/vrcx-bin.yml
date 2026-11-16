@@ -8,28 +8,28 @@ additionalAUR:
 - vrcx-bin
 - vrcx-nightly-bin
 - vrcx-git
-latest: v2026.09.16
-src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.09.16.zip
+latest: v2026.11.14
+src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.11.14.zip
 downloads:
-- name: VRCX_2026.09.16.zip
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16.zip
-- name: VRCX_2026.09.16_arm64.AppImage
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_arm64.AppImage
-- name: VRCX_2026.09.16_arm64.dmg
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_arm64.dmg
-- name: VRCX_2026.09.16_Setup.exe
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_Setup.exe
-- name: VRCX_2026.09.16_x64.AppImage
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_x64.AppImage
-- name: VRCX_2026.09.16_x64.dmg
-  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.09.16/VRCX_2026.09.16_x64.dmg
-electron: 40.10.6
+- name: VRCX_2026.11.14.zip
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.11.14/VRCX_2026.11.14.zip
+- name: VRCX_2026.11.14_arm64.AppImage
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.11.14/VRCX_2026.11.14_arm64.AppImage
+- name: VRCX_2026.11.14_arm64.dmg
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.11.14/VRCX_2026.11.14_arm64.dmg
+- name: VRCX_2026.11.14_Setup_x64.exe
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.11.14/VRCX_2026.11.14_Setup_x64.exe
+- name: VRCX_2026.11.14_x64.AppImage
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.11.14/VRCX_2026.11.14_x64.AppImage
+- name: VRCX_2026.11.14_x64.dmg
+  url: https://github.com/vrcx-team/VRCX/releases/download/v2026.11.14/VRCX_2026.11.14_x64.dmg
+electron: 45.0.0
 method: src-package-lock
-electron_src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.09.16.zip
+electron_src: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.11.14.zip
 evidence:
   kind: lockfile
-  found_in: VRCX-2026.09.16/package-lock.json
+  found_in: VRCX-2026.11.14/package-lock.json
   signal: electron pinned in package-lock.json
-  source: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.09.16.zip
+  source: https://github.com/vrcx-team/VRCX/archive/refs/tags/v2026.11.14.zip
 aur_votes: 1
-last_commit: '2026-11-14'
+last_commit: '2026-11-15'

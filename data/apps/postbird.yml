@@ -1,27 +1,25 @@
 id: postbird
 repository: https://github.com/Paxa/postbird
 website: https://github.com/Paxa/postbird
-latest: 0.8.4
-src: https://github.com/Paxa/postbird/archive/refs/tags/0.8.4.zip
+latest: v0.9.0
+src: https://github.com/Paxa/postbird/archive/refs/tags/v0.9.0.zip
 downloads:
-- name: Postbird-0.8.4-win.zip
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4-win.zip
-- name: Postbird-0.8.4.apk
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4.apk
-- name: postbird-0.8.4.AppImage
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/postbird-0.8.4.AppImage
-- name: Postbird-0.8.4.dmg
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4.dmg
-- name: Postbird-0.8.4.pacman
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4.pacman
-- name: Postbird-0.8.4.x86_64.rpm
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-0.8.4.x86_64.rpm
-- name: Postbird-Setup-0.8.4.exe
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-Setup-0.8.4.exe
-- name: Postbird_0.8.4_amd64.deb
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird_0.8.4_amd64.deb
-- name: Postbird_0.8.4_amd64.snap
-  url: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird_0.8.4_amd64.snap
+- name: linux-arm64-Postbird-Setup.tar.gz
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/linux-arm64-Postbird-Setup.tar.gz
+- name: linux-x64-Postbird-Setup.tar.gz
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/linux-x64-Postbird-Setup.tar.gz
+- name: Postbird-linux-arm64.deb
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/Postbird-linux-arm64.deb
+- name: Postbird-linux-arm64.rpm
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/Postbird-linux-arm64.rpm
+- name: Postbird-linux-x64.deb
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/Postbird-linux-x64.deb
+- name: Postbird-linux-x64.rpm
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/Postbird-linux-x64.rpm
+- name: Postbird-macos-arm64.dmg
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/Postbird-macos-arm64.dmg
+- name: Postbird-windows-x64.zip
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.0/Postbird-windows-x64.zip
 electron: 6.1.4
 method: src-yarn-lock
 homebrew: postbird
@@ -36,6 +34,6 @@ evidence:
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-11-03'
+last_commit: '2026-11-15'
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check
