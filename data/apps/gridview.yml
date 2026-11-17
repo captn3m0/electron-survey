@@ -12,4 +12,11 @@ evidence:
   found_in: gridview-git
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
 last_commit: '2026-11-16'
-src: https://github.com/0000xFFFF/gridview/archive/refs/heads/master.zip
+src: https://github.com/0000xFFFF/gridview/archive/refs/tags/v3.10.0.zip
+latest: v3.10.0
+downloads:
+- name: gridview-linux-x86_64-v3.10.0.tar.gz
+  url: https://github.com/0000xFFFF/gridview/releases/download/v3.10.0/gridview-linux-x86_64-v3.10.0.tar.gz
+- name: gridview-windows-x64.zip
+  url: https://github.com/0000xFFFF/gridview/releases/download/v3.10.0/gridview-windows-x64.zip
+we_tried: we1.2.1+p1:v3.10.0

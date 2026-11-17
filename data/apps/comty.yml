@@ -20,5 +20,5 @@ evidence:
   source: https://github.com/ragestudio/comty/releases/download/desktop-v0.13.1/Comty-0.13.1.AppImage
   found_in: Comty-0.13.1.AppImage
   signal: which-electron rg signal
-last_commit: '2026-11-14'
+last_commit: '2026-11-16'
 we_tried: we1.2.1+p1:rel-261106_1
