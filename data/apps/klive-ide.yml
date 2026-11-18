@@ -11,8 +11,8 @@ evidence:
   source: https://github.com/Dotneteer/kliveide/releases/download/v0.57.0/KliveIdeSetup-0.57.0-arm64.AppImage
   found_in: KliveIdeSetup-0.57.0-arm64.AppImage
   signal: which-electron rg signal
-last_commit: '2026-11-16'
-src: https://github.com/Dotneteer/kliveide/archive/refs/tags/v0.68.1.zip
+last_commit: '2026-11-18'
+src: https://github.com/Dotneteer/kliveide/archive/refs/tags/v0.69.0.zip
 aur_downloads:
 - url: https://raw.githubusercontent.com/Dotneteer/kliveide/v0.57.0/LICENSE
   name: LICENSE
@@ -26,25 +26,25 @@ aur_downloads:
   name: KliveIdeSetup-0.57.0-x86_64.AppImage
   arch: x86_64
   source: aur-bin
-latest: v0.68.1
+latest: v0.69.0
 downloads:
-- name: KliveIde-Portable-0.68.1-x64.zip
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/KliveIde-Portable-0.68.1-x64.zip
-  checksum: b1e27ea9359c3c98e10be11bb0eb9aa691ad2761d22c47194e36926cbec9dcdc
-- name: KliveIdeSetup-0.68.1-arm64.AppImage
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/KliveIdeSetup-0.68.1-arm64.AppImage
-  checksum: 0eb06102824037ae8c93782dfa01dae1de94169428cebb46764a753e4a689ba4
-- name: KliveIdeSetup-0.68.1-arm64.pkg
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/KliveIdeSetup-0.68.1-arm64.pkg
-  checksum: 0d9c5c58d54f9f794e63fff273ddacdc6b4ea0ff9dcc7f9ff92de88fa8ce780c
-- name: KliveIdeSetup-0.68.1-x64.exe
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/KliveIdeSetup-0.68.1-x64.exe
-  checksum: 0514ca8d249a2ea6f3ca0138fcfb478c1d2b9d2770c1392fc369525ea1d3b1bb
-- name: KliveIdeSetup-0.68.1-x64.pkg
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/KliveIdeSetup-0.68.1-x64.pkg
-  checksum: 1328f04f0cc23d57c839eabc45461a937cf263d65571473613cdd5efd2bb6c04
-- name: KliveIdeSetup-0.68.1-x86_64.AppImage
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/KliveIdeSetup-0.68.1-x86_64.AppImage
-  checksum: 580825e5d4a41f5be41d6e4b5250e0c6f98166d5ef2ee1515ad7cb04d7d25663
+- name: KliveIde-Portable-0.69.0-x64.zip
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/KliveIde-Portable-0.69.0-x64.zip
+  checksum: 8adcb02ec95cc13a0b0fecd77816fac86e692040ea46f35661223d6b9308039b
+- name: KliveIdeSetup-0.69.0-arm64.AppImage
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/KliveIdeSetup-0.69.0-arm64.AppImage
+  checksum: ba43767012796f6588c48fbd8eb370dabda213f559e94e6f62233e127d5ff0ff
+- name: KliveIdeSetup-0.69.0-arm64.pkg
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/KliveIdeSetup-0.69.0-arm64.pkg
+  checksum: 53e949bbfad4a8459d4bf7c763bcf0d9fe3b393d8d8616442f85af9fe8c8bec5
+- name: KliveIdeSetup-0.69.0-x64.exe
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/KliveIdeSetup-0.69.0-x64.exe
+  checksum: 7d2aa13b554a1469f516aae27f0211f566ff7cac85ac5da98bfd7cc65221844a
+- name: KliveIdeSetup-0.69.0-x64.pkg
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/KliveIdeSetup-0.69.0-x64.pkg
+  checksum: 7a43238a8b5e787843964731b78c8c90c0d4f5d9c94f66f040c7a5dc2c208fe3
+- name: KliveIdeSetup-0.69.0-x86_64.AppImage
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/KliveIdeSetup-0.69.0-x86_64.AppImage
+  checksum: f793c2ea603cc9af5f1257678b678fefc822ca5ee36050280bd514c366bea380
 - name: SHA256SUMS.txt
-  url: https://github.com/Dotneteer/kliveide/releases/download/v0.68.1/SHA256SUMS.txt
+  url: https://github.com/Dotneteer/kliveide/releases/download/v0.69.0/SHA256SUMS.txt
