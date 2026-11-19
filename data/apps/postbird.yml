@@ -1,25 +1,51 @@
 id: postbird
 repository: https://github.com/Paxa/postbird
 website: https://github.com/Paxa/postbird
-latest: v0.9.1
-src: https://github.com/Paxa/postbird/archive/refs/tags/v0.9.1.zip
+latest: v0.9.2
+src: https://github.com/Paxa/postbird/archive/refs/tags/v0.9.2.zip
 downloads:
 - name: Postbird-linux-arm64.AppImage
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-linux-arm64.AppImage
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-arm64.AppImage
 - name: Postbird-linux-arm64.deb
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-linux-arm64.deb
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-arm64.deb
 - name: Postbird-linux-arm64.rpm
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-linux-arm64.rpm
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-arm64.rpm
+- name: Postbird-linux-arm64.snap
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-arm64.snap
 - name: Postbird-linux-x64.AppImage
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-linux-x64.AppImage
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-x64.AppImage
 - name: Postbird-linux-x64.deb
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-linux-x64.deb
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-x64.deb
 - name: Postbird-linux-x64.rpm
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-linux-x64.rpm
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-x64.rpm
+- name: Postbird-linux-x64.snap
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-linux-x64.snap
 - name: Postbird-macos-arm64.dmg
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-macos-arm64.dmg
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-macos-arm64.dmg
+- name: Postbird-macos-x64.dmg
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-macos-x64.dmg
 - name: Postbird-windows-x64.zip
-  url: https://github.com/Paxa/postbird/releases/download/v0.9.1/Postbird-windows-x64.zip
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/Postbird-windows-x64.zip
+- name: stable-linux-arm64-Postbird.tar.zst
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-linux-arm64-Postbird.tar.zst
+- name: stable-linux-arm64-update.json
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-linux-arm64-update.json
+- name: stable-linux-x64-Postbird.tar.zst
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-linux-x64-Postbird.tar.zst
+- name: stable-linux-x64-update.json
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-linux-x64-update.json
+- name: stable-macos-arm64-Postbird.app.tar.zst
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-macos-arm64-Postbird.app.tar.zst
+- name: stable-macos-arm64-update.json
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-macos-arm64-update.json
+- name: stable-macos-x64-Postbird.app.tar.zst
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-macos-x64-Postbird.app.tar.zst
+- name: stable-macos-x64-update.json
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-macos-x64-update.json
+- name: stable-win-x64-Postbird.tar.zst
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-win-x64-Postbird.tar.zst
+- name: stable-win-x64-update.json
+  url: https://github.com/Paxa/postbird/releases/download/v0.9.2/stable-win-x64-update.json
 electron: 6.1.4
 method: src-yarn-lock
 homebrew: postbird

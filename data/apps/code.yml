@@ -4,15 +4,15 @@ website: https://github.com/microsoft/vscode
 repository: https://github.com/microsoft/vscode
 aur:
 - code-git
-latest: 1.146.0
-src: https://github.com/microsoft/vscode/archive/refs/tags/1.146.0.zip
-electron: 42.10.0
-method: src-pnpm-lock
-electron_src: https://github.com/microsoft/vscode/archive/refs/tags/1.146.0.zip
+latest: 1.147.0
+src: https://github.com/microsoft/vscode/archive/refs/tags/1.147.0.zip
+electron: 42.11.18
+method: src-range-guess
+electron_src: https://github.com/microsoft/vscode/archive/refs/tags/1.147.0.zip
 evidence:
-  kind: lockfile
-  found_in: vscode-1.146.0/extensions/copilot/pnpm-lock.yaml
-  signal: electron pinned in pnpm-lock.yaml
-  source: https://github.com/microsoft/vscode/archive/refs/tags/1.146.0.zip
+  kind: manifest
+  found_in: vscode-1.147.0/extensions/copilot/package.json
+  signal: no lockfile; range "^42.10.0" resolved to its highest known match
+  source: https://github.com/microsoft/vscode/archive/refs/tags/1.147.0.zip
 aur_votes: 10
-last_commit: '2026-11-18'
+last_commit: '2026-11-19'

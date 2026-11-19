@@ -36,7 +36,7 @@ downloads:
   url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.3/Frpc-Desktop_2.0.3_x64_en-US.msi
 - name: Frpc-Desktop_universal.app.tar.gz
   url: https://github.com/luckjiawei/frpc-desktop/releases/download/v2.0.3/Frpc-Desktop_universal.app.tar.gz
-last_commit: '2026-11-17'
+last_commit: '2026-11-18'
 evidence:
   kind: binary
   source: https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.6/Frpc-Desktop-1.2.6.x86_64.rpm
