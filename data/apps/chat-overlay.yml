@@ -6,29 +6,29 @@ aur:
 - chat-overlay-bin
 electron: 42.3.0
 method: which-electron-rg
-latest: v1.2.3
-src: https://github.com/laplace-live/chat-overlay/archive/refs/tags/v1.2.3.zip
+latest: v1.2.4
+src: https://github.com/laplace-live/chat-overlay/archive/refs/tags/v1.2.4.zip
 downloads:
-- name: chat-overlay-1.2.3-1.x86_64.rpm
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/chat-overlay-1.2.3-1.x86_64.rpm
-- name: chat-overlay_1.2.3_amd64.deb
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/chat-overlay_1.2.3_amd64.deb
-- name: LAPLACE.Chat.Overlay-1.2.3.Setup.exe
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/LAPLACE.Chat.Overlay-1.2.3.Setup.exe
-- name: LAPLACE.Chat.Overlay-darwin-arm64-1.2.3.zip
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/LAPLACE.Chat.Overlay-darwin-arm64-1.2.3.zip
-- name: LAPLACEChatOverlay-1.2.3-full.nupkg
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/LAPLACEChatOverlay-1.2.3-full.nupkg
+- name: chat-overlay-1.2.4-1.x86_64.rpm
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/chat-overlay-1.2.4-1.x86_64.rpm
+- name: chat-overlay_1.2.4_amd64.deb
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/chat-overlay_1.2.4_amd64.deb
+- name: LAPLACE.Chat.Overlay-1.2.4.Setup.exe
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/LAPLACE.Chat.Overlay-1.2.4.Setup.exe
+- name: LAPLACE.Chat.Overlay-darwin-arm64-1.2.4.zip
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/LAPLACE.Chat.Overlay-darwin-arm64-1.2.4.zip
+- name: LAPLACEChatOverlay-1.2.4-full.nupkg
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/LAPLACEChatOverlay-1.2.4-full.nupkg
 - name: RELEASES
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/RELEASES
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/RELEASES
 - name: RELEASES.json
-  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.3/RELEASES.json
+  url: https://github.com/laplace-live/chat-overlay/releases/download/v1.2.4/RELEASES.json
 evidence:
   kind: binary
   source: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
   found_in: chat-overlay-1.1.0-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-11-18'
+last_commit: '2026-11-20'
 aur_downloads:
 - url: https://github.com/laplace-live/chat-overlay/releases/download/v1.1.0/chat-overlay-1.1.0-1.x86_64.rpm
   name: chat-overlay-1.1.0-1.x86_64.rpm

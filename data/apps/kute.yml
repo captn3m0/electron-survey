@@ -26,7 +26,7 @@ aur_downloads:
   source: aur-bin
 downloads:
 - name: Kute-2.4.0.AppImage
-  url: https://github.com/jaso-gentoo/kute/releases/download/v2.4.0/Kute-2.4.0.AppImage
+  url: https://github.com/jaso-gentoo/kute-old/releases/download/v2.4.0/Kute-2.4.0.AppImage
 - name: Kute.2.4.0.exe
-  url: https://github.com/jaso-gentoo/kute/releases/download/v2.4.0/Kute.2.4.0.exe
+  url: https://github.com/jaso-gentoo/kute-old/releases/download/v2.4.0/Kute.2.4.0.exe
 we_tried: we1.2.1+p1:v2.4.0

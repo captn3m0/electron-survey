@@ -13,8 +13,8 @@ additionalAUR:
 - onlook-git
 electron: 36.9.5
 method: aur-depends
-latest: v0.2.32
-src: https://github.com/onlook-dev/studio/archive/refs/tags/v0.2.32.zip
+latest: v2.0.2
+src: https://github.com/onlook-dev/studio/archive/refs/tags/v2.0.2.zip
 downloads:
 - name: latest-linux-arm64.yml
   url: https://github.com/onlook-dev/onlook/releases/download/v0.2.32/latest-linux-arm64.yml
@@ -57,7 +57,7 @@ evidence:
   source: https://aur.archlinux.org/packages/onlook-bin
   found_in: onlook-bin
   signal: depends on electron36; reported as the newest 36.x release (36.9.5)
-last_commit: '2026-11-18'
+last_commit: '2026-11-20'
 aur_downloads:
 - url: https://github.com/onlook-dev/studio/releases/download/v0.2.32/Onlook-arm64.deb
   name: Onlook-arm64.deb
@@ -67,4 +67,4 @@ aur_downloads:
   name: Onlook-amd64.deb
   arch: x86_64
   source: aur-bin
-we_tried: we1.2.1+p1:v0.2.32
+we_tried: we1.2.1+p1:v2.0.2
