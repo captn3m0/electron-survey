@@ -6,23 +6,25 @@ aur:
 - elecwhat-bin
 electron: 40.1.0
 method: which-electron-rg
-latest: v1.16.0
-src: https://github.com/piec/elecwhat/archive/refs/tags/v1.16.0.zip
+latest: v1.16.2
+src: https://github.com/piec/elecwhat/archive/refs/tags/v1.16.2.zip
 downloads:
-- name: elecwhat-1.16.0.AppImage
-  url: https://github.com/piec/elecwhat/releases/download/v1.16.0/elecwhat-1.16.0.AppImage
-- name: elecwhat-1.16.0.pacman
-  url: https://github.com/piec/elecwhat/releases/download/v1.16.0/elecwhat-1.16.0.pacman
-- name: elecwhat-1.16.0.tar.xz
-  url: https://github.com/piec/elecwhat/releases/download/v1.16.0/elecwhat-1.16.0.tar.xz
-- name: elecwhat-1.16.0.x86_64.rpm
-  url: https://github.com/piec/elecwhat/releases/download/v1.16.0/elecwhat-1.16.0.x86_64.rpm
-- name: elecwhat_1.16.0_amd64.deb
-  url: https://github.com/piec/elecwhat/releases/download/v1.16.0/elecwhat_1.16.0_amd64.deb
+- name: elecwhat-1.16.2.AppImage
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/elecwhat-1.16.2.AppImage
+- name: elecwhat-1.16.2.pacman
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/elecwhat-1.16.2.pacman
+- name: elecwhat-1.16.2.tar.xz
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/elecwhat-1.16.2.tar.xz
+- name: elecwhat-1.16.2.x86_64.flatpak
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/elecwhat-1.16.2.x86_64.flatpak
+- name: elecwhat-1.16.2.x86_64.rpm
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/elecwhat-1.16.2.x86_64.rpm
+- name: elecwhat_1.16.2_amd64.deb
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/elecwhat_1.16.2_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/piec/elecwhat/releases/download/v1.16.0/latest-linux.yml
+  url: https://github.com/piec/elecwhat/releases/download/v1.16.2/latest-linux.yml
 aur_votes: 10
-last_commit: '2026-11-18'
+last_commit: '2026-11-20'
 aur_downloads:
 - url: https://github.com/piec/elecwhat/releases/download/v1.14.0/elecwhat-1.14.0.pacman
   name: elecwhat-1.14.0.pacman

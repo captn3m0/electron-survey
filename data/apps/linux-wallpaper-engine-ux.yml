@@ -6,20 +6,22 @@ aur:
 - linux-wallpaper-engine-ux
 electron: 39.7.0
 method: which-electron-rg
-latest: v0.4.12
-src: https://github.com/jagrat7/linux-wallpaper-engine/archive/refs/tags/v0.4.12.zip
+latest: v0.4.15
+src: https://github.com/jagrat7/linux-wallpaper-engine/archive/refs/tags/v0.4.15.zip
 downloads:
-- name: com.github.jagrat7.LinuxWallpaperEngine_stable_x86_64.flatpak
-  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.12/com.github.jagrat7.LinuxWallpaperEngine_stable_x86_64.flatpak
-- name: linux-wallpaper-engine-0.4.12-1.x86_64.rpm
-  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.12/linux-wallpaper-engine-0.4.12-1.x86_64.rpm
-- name: linux-wallpaper-engine_0.4.12_amd64.deb
-  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.12/linux-wallpaper-engine_0.4.12_amd64.deb
-- name: Linux.Wallpaper.Engine-linux-x64-0.4.12.zip
-  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.12/Linux.Wallpaper.Engine-linux-x64-0.4.12.zip
+- name: latest-linux.yml
+  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.15/latest-linux.yml
+- name: linux-wallpaper-engine-0.4.15-x64.zip
+  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.15/linux-wallpaper-engine-0.4.15-x64.zip
+- name: linux-wallpaper-engine-0.4.15-x86_64.rpm
+  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.15/linux-wallpaper-engine-0.4.15-x86_64.rpm
+- name: linux-wallpaper-engine-x86_64.AppImage
+  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.15/linux-wallpaper-engine-x86_64.AppImage
+- name: linux-wallpaper-engine_0.4.15_amd64.deb
+  url: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.15/linux-wallpaper-engine_0.4.15_amd64.deb
 evidence:
   kind: binary
   source: https://github.com/jagrat7/linux-wallpaper-engine/releases/download/v0.4.9/linux-wallpaper-engine-0.4.9-1.x86_64.rpm
   found_in: linux-wallpaper-engine-0.4.9-1.x86_64.rpm
   signal: which-electron rg signal
-last_commit: '2026-11-18'
+last_commit: '2026-11-21'

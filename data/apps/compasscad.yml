@@ -6,8 +6,8 @@ aur:
 - compasscad-bin
 electron: 35.7.0
 method: which-electron-rg
-latest: 2.1.0
-src: https://github.com/zeankundev/CompassCAD/archive/refs/tags/2.1.0.zip
+latest: 2.2.0
+src: https://github.com/zeankundev/CompassCAD/archive/refs/tags/2.2.0.zip
 downloads:
 - name: CompassCAD-2.1.0.AppImage
   url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/CompassCAD-2.1.0.AppImage
@@ -29,7 +29,7 @@ evidence:
   found_in: compasscad-2.1.0.x86_64.rpm
   signal: which-electron rg signal
 aur_votes: 1
-last_commit: '2025-10-24'
+last_commit: '2026-11-20'
 aur_downloads:
 - url: https://github.com/zeankundev/CompassCAD/releases/download/2.1.0/compasscad-2.1.0.x86_64.rpm
   name: compasscad-2.1.0.x86_64.rpm

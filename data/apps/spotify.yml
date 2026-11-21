@@ -17,7 +17,7 @@ evidence:
   found_in: SpotifyElectron.AppImage
   signal: which-electron rg signal
 homepage: true
-brew_installs: 10000
+brew_installs: 100000
 aur_downloads:
 - url: https://github.com/AntonioMrtz/SpotifyElectron/releases/download/v2.20/SpotifyElectron.AppImage
   name: SpotifyElectron.AppImage

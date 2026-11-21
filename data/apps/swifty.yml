@@ -1,67 +1,67 @@
 id: swifty
 repository: https://github.com/alchaplinsky/swifty
 website: https://github.com/alchaplinsky/swifty
-latest: v1.1.1
-src: https://github.com/alchaplinsky/swifty/archive/refs/tags/v1.1.1.zip
+latest: v1.1.2
+src: https://github.com/alchaplinsky/swifty/archive/refs/tags/v1.1.2.zip
 downloads:
 - name: latest.json
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/latest.json
-- name: Rowel-1.1.1-1.x86_64.rpm
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel-1.1.1-1.x86_64.rpm
-- name: Rowel-1.1.1-1.x86_64.rpm.sig
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel-1.1.1-1.x86_64.rpm.sig
-- name: rowel-1.1.1-aarch64-unknown-linux-gnu.tar.gz
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel-1.1.1-aarch64-unknown-linux-gnu.tar.gz
-  checksum: 9cc34a39a3da23241211f5ca0f713ba62b358b90b54d23532e60ab6747b13de2
-- name: rowel-1.1.1-universal-apple-darwin.zip
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel-1.1.1-universal-apple-darwin.zip
-  checksum: 99209ca9437d634d8ced4eebd7f2b6d479f664b6a3f8ba8cf9c5c95c8c9bfd4c
-- name: rowel-1.1.1-x86_64-pc-windows-msvc.zip
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel-1.1.1-x86_64-pc-windows-msvc.zip
-  checksum: c27ec71584ac0b2ad0fb9c41f882ce08f2a84c91250437c26fc1f41bc5f2ef1a
-- name: rowel-1.1.1-x86_64-unknown-linux-gnu.tar.gz
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel-1.1.1-x86_64-unknown-linux-gnu.tar.gz
-  checksum: 6c2fbf5bdc5c80ac12b668ff35daa717d36c2ebcbd6f0b5c84ea6029c7a4b434
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/latest.json
+- name: Rowel-1.1.2-1.x86_64.rpm
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel-1.1.2-1.x86_64.rpm
+- name: Rowel-1.1.2-1.x86_64.rpm.sig
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel-1.1.2-1.x86_64.rpm.sig
+- name: rowel-1.1.2-aarch64-unknown-linux-gnu.tar.gz
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel-1.1.2-aarch64-unknown-linux-gnu.tar.gz
+  checksum: 7e93ca380f346d6f7ca9febbae6539ea575c883df0c17c62f3b1387d9b137470
+- name: rowel-1.1.2-universal-apple-darwin.zip
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel-1.1.2-universal-apple-darwin.zip
+  checksum: 2aef2f4ed30de9395a647029d9a0c4fe395a7698862befd0c9a077872cc7861d
+- name: rowel-1.1.2-x86_64-pc-windows-msvc.zip
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel-1.1.2-x86_64-pc-windows-msvc.zip
+  checksum: 10c21213ca1c7eff7fdace576a5b564ea46f3bdda2d3df283251378d16e4cdf7
+- name: rowel-1.1.2-x86_64-unknown-linux-gnu.tar.gz
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel-1.1.2-x86_64-unknown-linux-gnu.tar.gz
+  checksum: fa3585b80f6503206be1f8d7164f6f1c3a1914ce9e7fad8ae347977056489cd9
 - name: rowel-js.cdx.json
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel-js.cdx.json
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel-js.cdx.json
 - name: rowel-rust.cdx.json
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel-rust.cdx.json
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel-rust.cdx.json
 - name: rowel_0.2.0_chromium.zip
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel_0.2.0_chromium.zip
-  checksum: e44304aad173fcbf91d2a6f87ebeacb8fa4170b753b2e7d975260bb4a24c81e1
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel_0.2.0_chromium.zip
+  checksum: f489715cafd0a6f6f011cdb6ff729a36c707581ff10cf80d24ccdd27a6f83ab6
 - name: rowel_0.2.0_firefox.zip
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/rowel_0.2.0_firefox.zip
-  checksum: ff5dfa31374fa59439df9425e13421a0c9481c5af5bf99855896ebc156e4a361
-- name: Rowel_1.1.1_amd64.AppImage
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_amd64.AppImage
-- name: Rowel_1.1.1_amd64.AppImage.sig
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_amd64.AppImage.sig
-- name: Rowel_1.1.1_amd64.deb
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_amd64.deb
-- name: Rowel_1.1.1_amd64.deb.sig
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_amd64.deb.sig
-- name: Rowel_1.1.1_universal.app.tar.gz
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_universal.app.tar.gz
-- name: Rowel_1.1.1_universal.app.tar.gz.sig
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_universal.app.tar.gz.sig
-- name: Rowel_1.1.1_universal.dmg
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_universal.dmg
-- name: Rowel_1.1.1_x64-setup.exe
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_x64-setup.exe
-- name: Rowel_1.1.1_x64-setup.exe.sig
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_1.1.1_x64-setup.exe.sig
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/rowel_0.2.0_firefox.zip
+  checksum: adb886fdcc9ccbf78f4040e2f958ab8c2cb8396b5c63331f2f930e9aa5fef7c1
+- name: Rowel_1.1.2_amd64.AppImage
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_amd64.AppImage
+- name: Rowel_1.1.2_amd64.AppImage.sig
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_amd64.AppImage.sig
+- name: Rowel_1.1.2_amd64.deb
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_amd64.deb
+- name: Rowel_1.1.2_amd64.deb.sig
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_amd64.deb.sig
+- name: Rowel_1.1.2_universal.app.tar.gz
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_universal.app.tar.gz
+- name: Rowel_1.1.2_universal.app.tar.gz.sig
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_universal.app.tar.gz.sig
+- name: Rowel_1.1.2_universal.dmg
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_universal.dmg
+- name: Rowel_1.1.2_x64-setup.exe
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_x64-setup.exe
+- name: Rowel_1.1.2_x64-setup.exe.sig
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_1.1.2_x64-setup.exe.sig
 - name: Rowel_amd64.AppImage
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_amd64.AppImage
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_amd64.AppImage
 - name: Rowel_amd64.deb
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_amd64.deb
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_amd64.deb
 - name: Rowel_universal.dmg
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_universal.dmg
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_universal.dmg
 - name: Rowel_x64-setup.exe
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_x64-setup.exe
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_x64-setup.exe
 - name: Rowel_x86_64.rpm
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/Rowel_x86_64.rpm
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/Rowel_x86_64.rpm
 - name: SHA256SUMS
-  url: https://github.com/fwdai/rowel/releases/download/v1.1.1/SHA256SUMS
+  url: https://github.com/fwdai/rowel/releases/download/v1.1.2/SHA256SUMS
 electron: 21.2.0
 method: src-yarn-lock
 homebrew: swifty
@@ -73,4 +73,4 @@ evidence:
   found_in: yarn.lock
   signal: electron pinned in yarn.lock
   reconstructed: true
-last_commit: '2026-11-14'
+last_commit: '2026-11-20'

@@ -49,7 +49,7 @@ latest: v1.5.15
 src: https://github.com/zocomputer/Zo/archive/refs/tags/v1.5.15.zip
 electron: 43.0.0
 method: which-electron-rg
-brew_installs: 10
+brew_installs: 100
 last_commit: '2026-10-29'
 evidence:
   kind: binary
