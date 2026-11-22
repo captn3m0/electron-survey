@@ -11,12 +11,12 @@ evidence:
   source: https://aur.archlinux.org/packages/gridview-git
   found_in: gridview-git
   signal: depends on electron26; reported as the newest 26.x release (26.6.10)
-last_commit: '2026-11-20'
-src: https://github.com/0000xFFFF/gridview/archive/refs/tags/v3.13.0.zip
-latest: v3.13.0
+last_commit: '2026-11-22'
+src: https://github.com/0000xFFFF/gridview/archive/refs/tags/v3.14.0.zip
+latest: v3.14.0
 downloads:
-- name: gridview-linux-x86_64-v3.13.0.tar.gz
-  url: https://github.com/0000xFFFF/gridview/releases/download/v3.13.0/gridview-linux-x86_64-v3.13.0.tar.gz
+- name: gridview-linux-x86_64-v3.14.0.tar.gz
+  url: https://github.com/0000xFFFF/gridview/releases/download/v3.14.0/gridview-linux-x86_64-v3.14.0.tar.gz
 - name: gridview-windows-x64.zip
-  url: https://github.com/0000xFFFF/gridview/releases/download/v3.13.0/gridview-windows-x64.zip
-we_tried: we1.2.1+p1:v3.13.0
+  url: https://github.com/0000xFFFF/gridview/releases/download/v3.14.0/gridview-windows-x64.zip
+we_tried: we1.2.1+p1:v3.14.0

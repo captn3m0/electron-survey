@@ -215,7 +215,7 @@ Apps with detected Electron version: 1817 / 2090
 | [CatLight](https://catlight.io) | 19.0.8 ⚠️ | 4y 5mo ago | which-electron-rg |
 | [Catalystplus](https://www.researchercosmos.com/) | 22.3.27 ⚠️ | 3y 1mo ago | which-electron-rg |
 | [Catcat Dm React](https://github.com/kokolokksk/catcat-dm-react) [[repo]](https://github.com/kokolokksk/catcat-dm-react) | 23.3.11 ⚠️ | 3y 4mo ago | which-electron-rg |
-| [Cc Map Editor](https://github.com/CCDirectLink/crosscode-map-editor) [[repo]](https://github.com/CCDirectLink/crosscode-map-editor) | 38.2.0 ⚠️ | 1y 1mo ago | which-electron-rg |
+| [Cc Map Editor](https://github.com/CCDirectLink/crosscode-map-editor) [[repo]](https://github.com/CCDirectLink/crosscode-map-editor) | 38.2.0 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Ccae](https://developer.paciellogroup.com/color-contrast-checker/) | 35.7.5 ⚠️ | 1y 3mo ago | aur-depends |
 | [Ccsm](https://github.com/Jiahui-Gu/ccsm) [[repo]](https://github.com/Jiahui-Gu/ccsm) | 41.3.0 ⚠️ | 7mo ago | which-electron-rg |
 | [Cerebro](https://cerebroapp.com/) [[repo]](https://github.com/cerebroapp/cerebro) | 20.2.0 ⚠️ | 4y 2mo ago | which-electron-rg |
@@ -282,7 +282,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Coinstac](https://github.com/trendscenter/coinstac) [[repo]](https://github.com/trendscenter/coinstac) | 18.3.15 ⚠️ | 4y 2mo ago | which-electron-rg |
 | [Colanode](https://colanode.com/) [[repo]](https://github.com/colanode/colanode) | 40.8.5 ⚠️ | 8mo ago | which-electron-rg |
 | [Colony Player](https://github.com/SynthKittenDev/Colony-Player) [[repo]](https://github.com/SynthKittenDev/Colony-Player) | 11.5.0 ⚠️ | 5y 3mo ago | which-electron-rg |
-| [Colorpicker](https://colorpicker.fr) [[repo]](https://github.com/Toinane/colorpicker) | 38.2.0 ⚠️ | 1y 1mo ago | src-package-lock |
+| [Colorpicker](https://colorpicker.fr) [[repo]](https://github.com/Toinane/colorpicker) | 38.2.0 ⚠️ | 1y 2mo ago | src-package-lock |
 | [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) [[repo]](https://github.com/ThePacielloGroup/CCAe) | 35.7.5 ⚠️ | 1y 3mo ago | which-electron-rg |
 | [Comate](https://comate.baidu.com) | 39.2.7 ⚠️ | 11mo ago | which-electron-rg |
 | [Comet](https://comet.thavarshan.com/) | 32.0.1 ⚠️ | 2y 3mo ago | which-electron-rg |
@@ -591,7 +591,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Geneanet](https://geneanet.org) | 9.4.4 ⚠️ | 5y 9mo ago | aur-depends |
 | [Geniemoji](https://virejdasani.github.io/Geniemoji/) [[repo]](https://github.com/virejdasani/Geniemoji) | 12.0.15 ⚠️ | 5y 5mo ago | src-package-lock |
 | [Gensokyo](https://github.com/Prince527GitHub/Gensokyo-Radio) [[repo]](https://github.com/Prince527GitHub/Gensokyo-Radio) | 31.0.2 ⚠️ | 2y 5mo ago | which-electron-rg |
-| [GeoGebra](https://www.geogebra.org/) | 38.2.0 ⚠️ | 1y 1mo ago | which-electron-rg |
+| [GeoGebra](https://www.geogebra.org/) | 38.2.0 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Geppetto](https://geppetto.js.org/) [[repo]](https://github.com/matthijsgroen/geppetto) | 16.0.0 ⚠️ | 5y 1mo ago | src-yarn-lock |
 | [Geratron](https://github.com/thiagowaib/geratron) [[repo]](https://github.com/thiagowaib/geratron) | 32.3.3 ⚠️ | 1y 8mo ago | aur-depends |
 | [Gerbil](https://github.com/lone-cloud/gerbil) [[repo]](https://github.com/lone-cloud/gerbil) | 43.1.1 ⚠️ | 4mo ago | which-electron-rg |
@@ -923,7 +923,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Microstockr](https://microstockr.com/) | 42.1.0 ⚠️ | 6mo ago | which-electron-rg |
 | [Midi2.0 Workbench](https://github.com/midi2-dev/MIDI2.0Workbench) [[repo]](https://github.com/midi2-dev/MIDI2.0Workbench) | 19.1.9 ⚠️ | 4y ago | aur-depends |
 | [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) [[repo]](https://github.com/mihomo-party-org/mihomo-party) | 43.8.11 ⚠️ | 3d ago | src-pnpm-lock |
-| [Milanote](https://milanote.com) | 38.2.0 ⚠️ | 1y 1mo ago | which-electron-rg |
+| [Milanote](https://milanote.com) | 38.2.0 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [Milkup](https://github.com/Auto-Plugin/milkup) [[repo]](https://github.com/Auto-Plugin/milkup) | 39.8.5 ⚠️ | 7mo ago | which-electron-asar-manifest |
 | [Min](https://minbrowser.org/) [[repo]](https://github.com/minbrowser/min) | 40.6.1 ⚠️ | 9mo ago |  |
 | [Mingo](https://mingo.io) | 39.2.1 ⚠️ | 1y ago | which-electron-rg |
@@ -1080,7 +1080,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Open Password Manager](https://github.com/dd060606/OpenPasswordManager) [[repo]](https://github.com/dd060606/OpenPasswordManager) | 16.2.8 ⚠️ | 4y 6mo ago | aur-depends |
 | [Open Stage Control](https://openstagecontrol.ammd.net) | 36.9.5 ⚠️ | 1y 1mo ago | which-electron-rg |
 | [Open Webui](https://github.com/open-webui/desktop) [[repo]](https://github.com/open-webui/desktop) | 45.2.1 ⚠️ | 22d ago | src-package-lock |
-| [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 45.3.1 ⚠️ | 9d ago | src-package-lock |
+| [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 45.3.1 ⚠️ | 10d ago | src-package-lock |
 | [OpenMTP](https://openmtp.ganeshrvel.com/) [[repo]](https://github.com/ganeshrvel/openmtp) | 18.3.15 ⚠️ | 4y 2mo ago | which-electron-rg |
 | [Openai Codex](https://developers.openai.com/codex/app/) | 42.7.0 ⚠️ | 4mo ago | aur-depends |
 | [Openbazaar](https://github.com/OpenBazaar/openbazaar-desktop) [[repo]](https://github.com/OpenBazaar/openbazaar-desktop) | 1.8.7 ⚠️ | 8y 7mo ago | which-electron-fingerprint |
@@ -1674,7 +1674,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Winkey](https://github.com/BeastCodZ/WinKey) [[repo]](https://github.com/BeastCodZ/WinKey) | 32.3.3 ⚠️ | 1y 8mo ago | aur-depends |
 | [Wire](https://wire.com) [[repo]](https://github.com/wireapp) | 38.8.6 ⚠️ | 8mo ago | aur-depends |
 | [WitNote](https://github.com/hooosberg/WitNote) [[repo]](https://github.com/hooosberg/WitNote) | 28.3.3 ⚠️ | 2y 6mo ago | src-package-lock |
-| [Witsy](https://witsyai.com/) | 38.2.0 ⚠️ | 1y 1mo ago | which-electron-rg |
+| [Witsy](https://witsyai.com/) | 38.2.0 ⚠️ | 1y 2mo ago | which-electron-rg |
 | [WizardMirror](https://github.com/Sanjit1/WizardMirror#wizard-mirror) [[repo]](https://www.github.com/Sanjit1/WizardMirror) | 6.0.0 ⚠️ | 7y 5mo ago | src-package-lock |
 | [Wiznote](https://www.wiz.cn) | 16.0.7 ⚠️ | 4y 11mo ago | which-electron-rg |
 | [Wizread](https://wizread.io) | 33.4.11 ⚠️ | 1y 7mo ago | aur-depends |

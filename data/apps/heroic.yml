@@ -60,6 +60,8 @@ downloads:
   url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/latest-mac.yml
 - name: latest.yml
   url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/latest.yml
+- name: RPM-GPG-KEY-heroic.asc
+  url: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/RPM-GPG-KEY-heroic.asc
 electron: 43.1.1
 method: which-electron-rg
 homebrew: heroic
