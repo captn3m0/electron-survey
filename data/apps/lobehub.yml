@@ -71,12 +71,12 @@ downloads:
   url: https://github.com/lobehub/lobehub/releases/download/v2.3.4/lobehub-desktop_2.3.4_amd64.snap
 electron: 41.3.0
 method: which-electron-rg
-latest: v2.3.4
-src: https://github.com/lobehub/lobe-chat/archive/refs/tags/v2.3.4.zip
+latest: v2.3.5
+src: https://github.com/lobehub/lobe-chat/archive/refs/tags/v2.3.5.zip
 evidence:
   kind: binary
   source: https://github.com/lobehub/lobehub/releases/download/v2.2.10/lobehub-desktop-2.2.10.x86_64.rpm
   found_in: lobehub-desktop-2.2.10.x86_64.rpm
   signal: which-electron rg signal
 brew_installs: 100
-last_commit: '2026-11-22'
+last_commit: '2026-11-23'
