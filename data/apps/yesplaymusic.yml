@@ -23,48 +23,28 @@ aur:
 - yesplaymusic
 homebrew: yesplaymusic
 downloads:
+- name: appcast-macos.xml
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/appcast-macos.xml
+- name: appcast-windows.xml
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/appcast-windows.xml
 - name: latest-linux.yml
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-linux.yml
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml
-- name: yesplaymusic-0.4.11-arm64.tar.gz
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11-arm64.tar.gz
-- name: YesPlayMusic-0.4.11.AppImage
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage
-- name: YesPlayMusic-0.4.11.exe
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe
-- name: yesplaymusic-0.4.11.pacman
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman
-- name: yesplaymusic-0.4.11.tar.gz
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz
-- name: yesplaymusic-0.4.11.x86_64.rpm
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.x86_64.rpm
-- name: YesPlayMusic-mac-0.4.11-arm64.dmg
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg
-- name: YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap
-- name: YesPlayMusic-mac-0.4.11-universal.dmg
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg
-- name: YesPlayMusic-mac-0.4.11-universal.dmg.blockmap
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg.blockmap
-- name: YesPlayMusic-mac-0.4.11-x64.dmg
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg
-- name: YesPlayMusic-mac-0.4.11-x64.dmg.blockmap
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg.blockmap
-- name: YesPlayMusic-Setup-0.4.11.exe
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe
-- name: YesPlayMusic-Setup-0.4.11.exe.blockmap
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe.blockmap
-- name: yesplaymusic_0.4.11_amd64.deb
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_amd64.deb
-- name: yesplaymusic_0.4.11_arm64.deb
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb
-- name: yesplaymusic_0.4.11_armv7l.deb
-  url: https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb
-latest: v0.4.11
-src: https://github.com/qier222/YesPlayMusic/archive/refs/tags/v0.4.11.zip
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/latest.yml
+- name: YesPlayMusic-3.0.0-linux-x64.tar.gz
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/YesPlayMusic-3.0.0-linux-x64.tar.gz
+- name: YesPlayMusic-3.0.0-macos.dmg
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/YesPlayMusic-3.0.0-macos.dmg
+- name: YesPlayMusic-3.0.0-macos.zip
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/YesPlayMusic-3.0.0-macos.zip
+- name: YesPlayMusic-3.0.0-windows-x64-portable.zip
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/YesPlayMusic-3.0.0-windows-x64-portable.zip
+- name: YesPlayMusic-3.0.0-windows-x64-setup.exe
+  url: https://github.com/qier222/YesPlayMusic/releases/download/v3.0.0/YesPlayMusic-3.0.0-windows-x64-setup.exe
+latest: v3.0.0
+src: https://github.com/qier222/YesPlayMusic/archive/refs/tags/v3.0.0.zip
 electron: 13.6.9
 method: src-yarn-lock
 electron_src: https://github.com/qier222/YesPlayMusic/archive/refs/tags/v0.4.11.zip
@@ -77,6 +57,6 @@ aur_votes: 10
 brew_installs: 100
 homebrew_deprecated: true
 homebrew_deprecation_reason: fails_gatekeeper_check
-last_commit: '2026-10-10'
+last_commit: '2026-11-23'
 homebrew_disabled: true
 homebrew_disable_reason: fails_gatekeeper_check
