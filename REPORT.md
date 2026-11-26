@@ -204,7 +204,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Cacher](https://www.cacher.io/) | 17.2.0 ⚠️ | 4y 8mo ago | which-electron-rg |
 | [Calmly Writer](https://www.calmlywriter.com) | 34.1.1 ⚠️ | 1y 9mo ago | which-electron-rg |
 | [Calt](https://github.com/CyrusCKF/translator) [[repo]](https://github.com/CyrusCKF/translator) | 31.6.0 ⚠️ | 2y 2mo ago | which-electron-rg |
-| [Camunda Modeler](https://camunda.com/products/modeler/) [[repo]](https://github.com/camunda/camunda-modeler/) | 44.9.1 ⚠️ | 1mo ago | src-package-lock |
+| [Camunda Modeler](https://camunda.com/products/modeler/) [[repo]](https://github.com/camunda/camunda-modeler/) | 45.2.1 ⚠️ | 26d ago | src-package-lock |
 | [Caprine](https://sindresorhus.com/caprine) [[repo]](https://github.com/sindresorhus/caprine) | 29.0.1 ⚠️ | 2y 9mo ago | which-electron-rg |
 | [Caprine Ng](https://github.com/Alex313031/caprine-ng) [[repo]](https://github.com/Alex313031/caprine-ng) | 22.3.27 ⚠️ | 3y 2mo ago | which-electron-rg |
 | [Caption](https://getcaption.co/) [[repo]](https://github.com/gielcobben/caption) | 1.7.12 ⚠️ | 8y 11mo ago | which-electron-fingerprint |
@@ -827,7 +827,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Libgendesktop](https://github.com/ProgrammerGnome/libgendesktop) [[repo]](https://github.com/ProgrammerGnome/libgendesktop) | 35.7.5 ⚠️ | 1y 3mo ago | aur-depends |
 | [Librelinkupdesktop](https://crazymarvin.com/librelinkupdesktop/) | 34.5.8 ⚠️ | 1y 5mo ago | aur-depends |
 | [LightProxy](https://github.com/alibaba/lightproxy) [[repo]](https://github.com/alibaba/lightproxy) | 10.1.5 ⚠️ | 6y 2mo ago |  |
-| [Lightrail Core](https://lightrail.ai/) | 24.8.3 ⚠️ | 3y 2mo ago | which-electron-rg |
+| [Lightrail Core](https://lightrail.ai/) | 24.8.3 ⚠️ | 3y 3mo ago | which-electron-rg |
 | [Liground](https://ml-research.github.io/liground.github.io/) | 25.9.8 ⚠️ | 3y ago | which-electron-rg |
 | [Linear](https://linear.app/download) | 41.3.0 ⚠️ | 7mo ago | which-electron-rg |
 | [Linkandroid](https://linkandroid.com/) | 29.4.6 ⚠️ | 2y 3mo ago | which-electron-rg |
@@ -1080,7 +1080,7 @@ Apps with detected Electron version: 1817 / 2090
 | [Open Password Manager](https://github.com/dd060606/OpenPasswordManager) [[repo]](https://github.com/dd060606/OpenPasswordManager) | 16.2.8 ⚠️ | 4y 6mo ago | aur-depends |
 | [Open Stage Control](https://openstagecontrol.ammd.net) | 36.9.5 ⚠️ | 1y 1mo ago | which-electron-rg |
 | [Open Webui](https://github.com/open-webui/desktop) [[repo]](https://github.com/open-webui/desktop) | 45.2.1 ⚠️ | 26d ago | src-package-lock |
-| [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 45.3.1 ⚠️ | 13d ago | src-package-lock |
+| [OpenComic](https://github.com/ollm/OpenComic) [[repo]](https://github.com/ollm/OpenComic) | 45.3.1 ⚠️ | 14d ago | src-package-lock |
 | [OpenMTP](https://openmtp.ganeshrvel.com/) [[repo]](https://github.com/ganeshrvel/openmtp) | 18.3.15 ⚠️ | 4y 2mo ago | which-electron-rg |
 | [Openai Codex](https://developers.openai.com/codex/app/) | 42.7.0 ⚠️ | 4mo ago | aur-depends |
 | [Openbazaar](https://github.com/OpenBazaar/openbazaar-desktop) [[repo]](https://github.com/OpenBazaar/openbazaar-desktop) | 1.8.7 ⚠️ | 8y 7mo ago | which-electron-fingerprint |

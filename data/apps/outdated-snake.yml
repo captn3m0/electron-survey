@@ -6,21 +6,21 @@ aur:
 - outdated-snake-git
 electron: 31.7.7
 method: aur-depends
-latest: v4.0.0
-src: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/archive/refs/tags/v4.0.0.zip
+latest: v4.1.0
+src: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/archive/refs/tags/v4.1.0.zip
 downloads:
 - name: outdated-snake-macos-arm64.pkg
-  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.0.0/outdated-snake-macos-arm64.pkg
+  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.1.0/outdated-snake-macos-arm64.pkg
 - name: outdated-snake-macos-x64.pkg
-  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.0.0/outdated-snake-macos-x64.pkg
+  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.1.0/outdated-snake-macos-x64.pkg
 - name: outdated-snake-windows-arm64.exe
-  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.0.0/outdated-snake-windows-arm64.exe
+  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.1.0/outdated-snake-windows-arm64.exe
 - name: outdated-snake-windows-x64.exe
-  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.0.0/outdated-snake-windows-x64.exe
+  url: https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/download/v4.1.0/outdated-snake-windows-x64.exe
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/outdated-snake-git
   found_in: outdated-snake-git
   signal: depends on electron31; reported as the newest 31.x release (31.7.7)
-last_commit: '2026-11-24'
-we_tried: we1.2.1+p1:v3.0.0
+last_commit: '2026-11-25'
+we_tried: we1.2.1+p1:v4.1.0

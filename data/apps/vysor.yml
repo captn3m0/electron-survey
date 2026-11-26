@@ -10,26 +10,26 @@ aur:
 - vysor-bin
 homebrew: vysor
 downloads:
-- name: Packages
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Packages
+- name: Packages.x64
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/Packages.x64
 - name: RELEASES
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/RELEASES
-- name: vysor-5.0.7-full.nupkg
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/vysor-5.0.7-full.nupkg
-- name: Vysor-linux-5.0.7.deb
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-linux-5.0.7.deb
-- name: Vysor-mac-5.0.7.dmg
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.dmg
-- name: Vysor-mac-5.0.7.dmg.blockmap
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.dmg.blockmap
-- name: Vysor-mac-5.0.7.zip
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip
-- name: Vysor-mac-5.0.7.zip.blockmap
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-mac-5.0.7.zip.blockmap
-- name: Vysor-win-5.0.7.exe
-  url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-win-5.0.7.exe
-latest: v5.0.7
-src: https://github.com/koush/vysor.io/archive/refs/tags/v5.0.7.zip
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/RELEASES
+- name: Vysor-6.0.23-arm64.dmg
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-6.0.23-arm64.dmg
+- name: vysor-6.0.23-full.nupkg
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/vysor-6.0.23-full.nupkg
+- name: Vysor-6.0.23-x64.dmg
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-6.0.23-x64.dmg
+- name: Vysor-6.0.23.Setup.exe
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-6.0.23.Setup.exe
+- name: Vysor-darwin-arm64-6.0.23.zip
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-darwin-arm64-6.0.23.zip
+- name: Vysor-darwin-x64-6.0.23.zip
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/Vysor-darwin-x64-6.0.23.zip
+- name: vysor_6.0.23_amd64.deb
+  url: https://github.com/koush/vysor.io/releases/download/v6.0.23/vysor_6.0.23_amd64.deb
+latest: v6.0.23
+src: https://github.com/koush/vysor.io/archive/refs/tags/v6.0.23.zip
 electron: 24.3.0
 method: which-electron-rg
 evidence:
@@ -39,7 +39,7 @@ evidence:
   signal: which-electron rg signal
 aur_votes: 1
 brew_installs: 1000
-last_commit: '2026-11-23'
+last_commit: '2026-11-25'
 aur_downloads:
 - url: https://github.com/koush/vysor.io/releases/download/v5.0.7/Vysor-linux-5.0.7.deb
   name: Vysor-linux-5.0.7.deb

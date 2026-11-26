@@ -1,33 +1,33 @@
 id: gitify
 repository: https://github.com/manosim/gitify
 website: https://www.gitify.io/
-latest: v8.2.0
-src: https://github.com/manosim/gitify/archive/refs/tags/v8.2.0.zip
+latest: v8.3.0
+src: https://github.com/manosim/gitify/archive/refs/tags/v8.3.0.zip
 downloads:
-- name: Gitify-8.2.0-universal-mac.zip
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-8.2.0-universal-mac.zip
-- name: Gitify-8.2.0-universal-mac.zip.blockmap
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-8.2.0-universal-mac.zip.blockmap
-- name: Gitify-8.2.0-universal.dmg
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-8.2.0-universal.dmg
-- name: Gitify-8.2.0-universal.dmg.blockmap
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-8.2.0-universal.dmg.blockmap
-- name: Gitify-8.2.0.AppImage
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-8.2.0.AppImage
-- name: gitify-8.2.0.x86_64.rpm
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/gitify-8.2.0.x86_64.rpm
-- name: Gitify-Setup-8.2.0.exe
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-Setup-8.2.0.exe
-- name: Gitify-Setup-8.2.0.exe.blockmap
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/Gitify-Setup-8.2.0.exe.blockmap
-- name: gitify_8.2.0_amd64.deb
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/gitify_8.2.0_amd64.deb
+- name: Gitify-8.3.0-universal-mac.zip
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-8.3.0-universal-mac.zip
+- name: Gitify-8.3.0-universal-mac.zip.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-8.3.0-universal-mac.zip.blockmap
+- name: Gitify-8.3.0-universal.dmg
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-8.3.0-universal.dmg
+- name: Gitify-8.3.0-universal.dmg.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-8.3.0-universal.dmg.blockmap
+- name: Gitify-8.3.0.AppImage
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-8.3.0.AppImage
+- name: gitify-8.3.0.x86_64.rpm
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/gitify-8.3.0.x86_64.rpm
+- name: Gitify-Setup-8.3.0.exe
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-Setup-8.3.0.exe
+- name: Gitify-Setup-8.3.0.exe.blockmap
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/Gitify-Setup-8.3.0.exe.blockmap
+- name: gitify_8.3.0_amd64.deb
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/gitify_8.3.0_amd64.deb
 - name: latest-linux.yml
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/latest-linux.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/latest-linux.yml
 - name: latest-mac.yml
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/latest-mac.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/gitify-app/gitify/releases/download/v8.2.0/latest.yml
+  url: https://github.com/gitify-app/gitify/releases/download/v8.3.0/latest.yml
 electron: 43.1.1
 method: which-electron-rg
 aur:
