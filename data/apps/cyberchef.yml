@@ -10,5 +10,5 @@ downloads:
 - name: CyberChef_f464d62c7c943cda9749a765932a7548ba9bfb16.zip
   url: https://github.com/gchq/CyberChef/releases/download/v11.6.0/CyberChef_f464d62c7c943cda9749a765932a7548ba9bfb16.zip
 aur_votes: 1
-last_commit: '2026-11-25'
+last_commit: '2026-11-27'
 we_tried: we1.2.1+p1:v11.6.0

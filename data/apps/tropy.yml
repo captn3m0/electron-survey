@@ -76,8 +76,8 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
-brew_installs: 100
-last_commit: '2026-11-25'
+brew_installs: 10
+last_commit: '2026-11-26'
 aur_downloads:
 - url: https://github.com/tropy/tropy/releases/download/v1.17.3/tropy-1.17.3-x64-shared.tar.bz2
   name: tropy-1.17.3-x64-shared.tar.bz2

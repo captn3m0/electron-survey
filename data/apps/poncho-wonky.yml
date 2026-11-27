@@ -47,3 +47,4 @@ evidence:
   found_in: ponchowonky-5.4.0-arm64.tar.gz
   signal: which-electron rg signal
 last_commit: '2026-11-25'
+aur_votes: 1

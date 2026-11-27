@@ -15,4 +15,4 @@ evidence:
   signal: no lockfile; range "^42.10.0" resolved to its highest known match
   source: https://github.com/microsoft/vscode/archive/refs/tags/1.148.0.zip
 aur_votes: 10
-last_commit: '2026-11-26'
+last_commit: '2026-11-27'

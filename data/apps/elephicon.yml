@@ -4,6 +4,10 @@ website: https://github.com/sprout2000/elephicon
 latest: v5.0.0
 src: https://github.com/sprout2000/elephicon/archive/refs/tags/v5.0.0.zip
 downloads:
+- name: Elephicon_5.0.0_aarch64.dmg
+  url: https://github.com/sprout2000/elephicon/releases/download/v5.0.0/Elephicon_5.0.0_aarch64.dmg
+- name: Elephicon_5.0.0_macos_aarch64.zip
+  url: https://github.com/sprout2000/elephicon/releases/download/v5.0.0/Elephicon_5.0.0_macos_aarch64.zip
 - name: Elephicon_5.0.0_windows_x64.zip
   url: https://github.com/sprout2000/elephicon/releases/download/v5.0.0/Elephicon_5.0.0_windows_x64.zip
 - name: Elephicon_5.0.0_x64-setup.exe
