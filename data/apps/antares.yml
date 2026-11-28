@@ -58,7 +58,7 @@ evidence:
   signal: electron pinned in package-lock.json
   reconstructed: true
 aur_votes: 1
-last_commit: '2026-11-24'
+last_commit: '2026-11-27'
 aur_downloads:
 - url: https://raw.githubusercontent.com/antares-sql/antares/v0.7.35-beta.0/LICENSE
   name: LICENSE

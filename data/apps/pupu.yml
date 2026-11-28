@@ -8,41 +8,41 @@ additionalAUR:
 - pupu-git
 electron: 40.10.6
 method: aur-depends
-latest: v0.1.13
-src: https://github.com/haoxiang-xu/PuPu/archive/refs/tags/v0.1.13.zip
+latest: v0.2.0
+src: https://github.com/haoxiang-xu/PuPu/archive/refs/tags/v0.2.0.zip
 downloads:
 - name: latest-mac.yml
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/latest-mac.yml
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/latest-mac.yml
 - name: latest.yml
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/latest.yml
-- name: PuPu-0.1.13-linux-x64.AppImage
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-linux-x64.AppImage
-- name: PuPu-0.1.13-linux-x64.deb
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-linux-x64.deb
-- name: PuPu-0.1.13-macos-arm64.dmg
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-macos-arm64.dmg
-- name: PuPu-0.1.13-macos-arm64.zip
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-macos-arm64.zip
-- name: PuPu-0.1.13-macos-arm64.zip.blockmap
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-macos-arm64.zip.blockmap
-- name: PuPu-0.1.13-macos-x64.dmg
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-macos-x64.dmg
-- name: PuPu-0.1.13-macos-x64.zip
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-macos-x64.zip
-- name: PuPu-0.1.13-macos-x64.zip.blockmap
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-macos-x64.zip.blockmap
-- name: PuPu-0.1.13-windows-x64-setup.exe
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-windows-x64-setup.exe
-- name: PuPu-0.1.13-windows-x64-setup.exe.blockmap
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/PuPu-0.1.13-windows-x64-setup.exe.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/latest.yml
+- name: PuPu-0.2.0-linux-x64.AppImage
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-linux-x64.AppImage
+- name: PuPu-0.2.0-linux-x64.deb
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-linux-x64.deb
+- name: PuPu-0.2.0-macos-arm64.dmg
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-macos-arm64.dmg
+- name: PuPu-0.2.0-macos-arm64.zip
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-macos-arm64.zip
+- name: PuPu-0.2.0-macos-arm64.zip.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-macos-arm64.zip.blockmap
+- name: PuPu-0.2.0-macos-x64.dmg
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-macos-x64.dmg
+- name: PuPu-0.2.0-macos-x64.zip
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-macos-x64.zip
+- name: PuPu-0.2.0-macos-x64.zip.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-macos-x64.zip.blockmap
+- name: PuPu-0.2.0-windows-x64-setup.exe
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-windows-x64-setup.exe
+- name: PuPu-0.2.0-windows-x64-setup.exe.blockmap
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/PuPu-0.2.0-windows-x64-setup.exe.blockmap
 - name: release-assets.v1.json
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/release-assets.v1.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/release-assets.v1.json
 - name: release-qa-report.json
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/release-qa-report.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/release-qa-report.json
 - name: release-qualification.v1.json
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/release-qualification.v1.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/release-qualification.v1.json
 - name: windows-signing-evidence.v1.json
-  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.1.13/windows-signing-evidence.v1.json
+  url: https://github.com/haoxiang-xu/PuPu/releases/download/v0.2.0/windows-signing-evidence.v1.json
 evidence:
   kind: aur-depends
   source: https://aur.archlinux.org/packages/pupu-bin
@@ -59,4 +59,4 @@ aur_downloads:
   name: LICENSE
   arch: any
   source: aur-bin
-we_tried: we1.2.1+p1:v0.1.13
+we_tried: we1.2.1+p1:v0.2.0
